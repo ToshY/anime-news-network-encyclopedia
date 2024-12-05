@@ -1,0 +1,137 @@
+name: Encyclopedia
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 * * * *'
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    strategy:
+      matrix:
+        category: [anime, manga]
+        type: [missing, outdated]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Setup YQ
+        uses: mikefarah/yq@v4.44.5
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install requirements
+        run: pip install -r requirements.txt
+
+      - name: Run script
+        run: python -m encyclopedia_updater -o "/tmp/encyclopedia" -c ${{ matrix.category }} -t ${{ matrix.type }}
+        env:
+          LOGURU_LEVEL: SUCCESS
+
+      - name: Check if encyclopedia directory is empty
+        id: check-directory
+        run: |
+          HAS_ENCYCLOPEDIA_FILES=false
+          if [ "$(find /tmp/encyclopedia -type f | head -n 1)" ]; then
+            HAS_ENCYCLOPEDIA_FILES=true
+          fi
+
+          {
+            echo has_files=$HAS_ENCYCLOPEDIA_FILES
+          } >> "${GITHUB_OUTPUT}"
+
+      - name: Prepare artifact
+        id: prepare-encyclopedia
+        if: ${{ !failure() && steps.check-directory.outputs.has_files == 'true' }}
+        run: |
+          echo "ENCYCLOPEDIA=encyclopedia-${{ matrix.category }}-${{ matrix.type }}-$(date +%d-%m-%Y_%H-%M-%S)" >> $GITHUB_ENV
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        if: ${{ !failure() && steps.check-directory.outputs.has_files == 'true' }}
+        with:
+          name: ${{ env.ENCYCLOPEDIA }}
+          path: /tmp/encyclopedia/
+          if-no-files-found: error
+          retention-days: 1
+
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    needs:
+      - process
+    outputs:
+      has_files: ${{ steps.check-directory.outputs.has_files }}
+    steps:
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: /tmp/encyclopedia
+          pattern: encyclopedia-*
+          merge-multiple: true
+          
+      - name: Check directory contents
+        id: check-directory
+        run: |
+          # show files
+          find /tmp/encyclopedia -type f
+          
+          HAS_ENCYCLOPEDIA_FILES=false
+          if [ "$(find /tmp/encyclopedia -type f | head -n 1)" ]; then
+            HAS_ENCYCLOPEDIA_FILES=true
+          fi
+
+          {
+            echo has_files=$HAS_ENCYCLOPEDIA_FILES
+          } >> "${GITHUB_OUTPUT}"
+
+  upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    needs:
+      - check
+    if: ${{ needs.check.outputs.has_files == 'true' }}
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: /tmp/encyclopedia
+          pattern: encyclopedia-*
+          merge-multiple: true
+
+      - name: Move encyclopedia entries to working directory
+        shell: bash
+        run: |
+          SOURCE_DIRECTORY="/tmp/encyclopedia"
+          DESTINATION_DIRECTORY="./encyclopedia"
+          find "$SOURCE_DIRECTORY" -type f | while read -r file; do
+              # <category>/<id>.json
+              RELATIVE_PATH="${file#$SOURCE_DIRECTORY/}"
+              mkdir -p "$DESTINATION_DIRECTORY/$(dirname "$RELATIVE_PATH")"
+              mv "$file" "$DESTINATION_DIRECTORY/$RELATIVE_PATH"
+          done
+
+      - name: Commit changes
+        id: auto-commit-action
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: '*.json'
+          commit_message: Update encyclopedia entries

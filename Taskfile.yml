@@ -1,0 +1,82 @@
+version: '3'
+
+env:
+  DOCKER_COMPOSE_RUN: docker compose --progress quiet run --rm --build --remove-orphans
+
+tasks:
+  default:
+    cmds:
+      - task --list
+
+  # Docker
+  down:
+    desc: Down service
+    cmds:
+      - docker compose down --remove-orphans
+
+  # Application
+  run:report:
+    desc: Run report updater
+    silent: true
+    cmds:
+      - $DOCKER_COMPOSE_RUN -u $(id -u):$(id -g) base python -m report_updater {{.CLI_ARGS}}
+
+  run:encyclopedia:
+    desc: Run encyclopedia entry updater
+    silent: true
+    cmds:
+      - $DOCKER_COMPOSE_RUN -u $(id -u):$(id -g) base python -m encyclopedia_updater {{.CLI_ARGS}}
+
+  run:encyclopedia:all:
+    desc: Run report updater and update everything for category
+    silent: true
+    vars:
+      CATEGORY: '{{.c | default "anime"}}'
+      TYPE: '{{.t | default "missing"}}'
+      BATCH_SIZE: '{{.b | default 50}}'
+    cmds:
+      - |
+        current_files_for_category=$(ls -1 encyclopedia/{{.CATEGORY}}/*.json | wc -l)
+
+        category_all_entries=$(curl -s "https://www.animenewsnetwork.com/encyclopedia/" | grep -oP '\d+ {{.CATEGORY}} titles \(\+ \d+ related\)' | sed -E 's/([0-9]+) {{.CATEGORY}} titles \(\+ ([0-9]+) related\)/{"{{.CATEGORY}}":\1,"related":\2}/' | jq .)
+        category_entries=$(echo "$category_all_entries" | jq ".{{.CATEGORY}}")
+
+        # If type is missing only iterate amount of times needed
+        if [ {{.TYPE}} == "missing" ]; then
+          category_entries=$((category_entries - current_files_for_category))
+        fi
+
+        batch_size={{.BATCH_SIZE}}
+        total_batches=$(( (category_entries + batch_size - 1) / batch_size ))
+
+        for ((batch=1; batch<=total_batches; batch++)); do
+          echo "Processing batch $batch of $total_batches"
+          task run:encyclopedia -- -c {{.CATEGORY}} -t {{.TYPE}}
+          sleep 1
+        done
+
+  # Development tools
+  ruff:
+    desc: Run ruff
+    cmds:
+      - $DOCKER_COMPOSE_RUN dev ruff check .
+
+  ruff:fix:
+    desc: Run ruff fix
+    cmds:
+      - $DOCKER_COMPOSE_RUN dev ruff check --fix .
+
+  black:
+    desc: Run black
+    cmds:
+      - $DOCKER_COMPOSE_RUN dev black . --check --diff --color
+
+  black:fix:
+    desc: Run black fix
+    cmds:
+      - $DOCKER_COMPOSE_RUN dev black .
+
+  mypy:
+    desc: Run mypy
+    cmds:
+      - $DOCKER_COMPOSE_RUN dev mypy .

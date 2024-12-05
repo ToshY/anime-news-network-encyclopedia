@@ -1,0 +1,22 @@
+fail_fast: true
+repos:
+  - repo: local
+    hooks:
+      - id: ruff
+        name: Ruff
+        entry: docker compose run -T --rm dev ruff check .
+        language: system
+        always_run: true
+        pass_filenames: false
+      - id: black
+        name: Black
+        entry: docker compose run -T --rm dev black . --check --diff --color
+        language: system
+        always_run: true
+        pass_filenames: false
+      - id: static
+        name: Mypy
+        entry: docker compose run -T --rm dev mypy .
+        language: system
+        always_run: true
+        pass_filenames: false

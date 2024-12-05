@@ -1,0 +1,153 @@
+name: Reports
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    strategy:
+      matrix:
+        report:
+          - category: anime
+            id: 148
+          - category: manga
+            id: 149
+          - category: person
+            id: 150
+          - category: company
+            id: 151
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install requirements
+        run: pip install -r requirements.txt
+
+      - name: Ping
+        run: |
+          URL="https://www.animenewsnetwork.com/encyclopedia/reports.xml?id=${CATEGORY_ID}&nlist=1"
+          HTTP_CODE=$(curl -s -I -X GET "$URL" | head -n 1 | cut -d$' ' -f2)
+          echo "$HTTP_CODE"
+          if [ "$HTTP_CODE" != "200" ]; then
+            exit 1
+          fi
+        env:
+          CATEGORY_ID: ${{ matrix.report.id }}
+
+      - name: Run script
+        if: ${{ !failure() }}
+        run: python -m report_updater -o "/tmp/reports" -c ${{ matrix.report.category }}
+        env:
+          LOGURU_LEVEL: SUCCESS
+
+      - name: Check directory contents
+        id: check-directory
+        run: |
+          HAS_REPORT_FILES=false
+          if [ "$(find /tmp/reports -type f | head -n 1)" ]; then
+            HAS_REPORT_FILES=true
+          fi
+
+          {
+            echo has_files=$HAS_REPORT_FILES
+          } >> "${GITHUB_OUTPUT}"
+
+      - name: Prepare artifact
+        id: prepare-report
+        if: ${{ !failure() && steps.check-directory.outputs.has_files == 'true' }}
+        run: |
+          echo "REPORT=report-${{ matrix.report.category }}-$(date +%d-%m-%Y_%H-%M-%S)" >> $GITHUB_ENV
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        if: ${{ !failure() && steps.check-directory.outputs.has_files == 'true' }}
+        with:
+          name: ${{ env.REPORT }}
+          path: /tmp/reports/
+          if-no-files-found: error
+          retention-days: 1
+
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    needs:
+      - process
+    outputs:
+      has_files: ${{ steps.check-directory.outputs.has_files }}
+    steps:
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: /tmp/reports
+          pattern: report-*
+          merge-multiple: true
+
+      - name: Check directory contents
+        id: check-directory
+        run: |
+          # show files
+          find /tmp/reports -type f
+          
+          HAS_REPORT_FILES=false
+          if [ "$(find /tmp/reports -type f | head -n 1)" ]; then
+            HAS_REPORT_FILES=true
+          fi
+
+          {
+            echo has_files=$HAS_REPORT_FILES
+          } >> "${GITHUB_OUTPUT}"
+
+  upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    needs:
+      - check
+    if: ${{ needs.check.outputs.has_files == 'true' }}
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: /tmp/reports
+          pattern: report-*
+          merge-multiple: true
+
+      - name: Move reports to working directory
+        shell: bash
+        run: |
+          SOURCE_DIRECTORY="/tmp/reports"
+          DESTINATION_DIRECTORY="./reports"
+          find "$SOURCE_DIRECTORY" -type f | while read -r file; do
+              # <category>/report.json
+              RELATIVE_PATH="${file#$SOURCE_DIRECTORY/}"
+              mkdir -p "$DESTINATION_DIRECTORY/$(dirname "$RELATIVE_PATH")"
+              mv "$file" "$DESTINATION_DIRECTORY/$RELATIVE_PATH"
+          done
+
+      - name: Commit changes
+        id: auto-commit-action
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: '*.json'
+          commit_message: Update reports

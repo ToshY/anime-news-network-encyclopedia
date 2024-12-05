@@ -1,0 +1,21 @@
+x-volumes: &volumes
+  volumes:
+    - .:/app
+
+x-build: &build
+  build:
+    context: .
+    dockerfile: Dockerfile
+  environment:
+    LOGURU_LEVEL: ${LOGURU_LEVEL:-SUCCESS}
+
+services:
+  base:
+    build:
+      target: base
+    <<: [*volumes, *build]
+
+  dev:
+    build:
+      target: dev
+    <<: [*volumes, *build]
