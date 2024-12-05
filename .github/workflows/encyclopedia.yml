@@ -39,7 +39,7 @@ jobs:
         env:
           LOGURU_LEVEL: SUCCESS
 
-      - name: Check if encyclopedia directory is empty
+      - name: Check directory contents
         id: check-directory
         run: |
           HAS_ENCYCLOPEDIA_FILES=false
@@ -84,6 +84,14 @@ jobs:
       - name: Check directory contents
         id: check-directory
         run: |
+          if [ ! -d "/tmp/encyclopedia" ]; then
+            echo "Artifact directory is empty. Skipping."
+            {
+              echo has_files=false
+            } >> "${GITHUB_OUTPUT}"
+            exit 0
+          fi
+
           # show files
           find /tmp/encyclopedia -type f
           

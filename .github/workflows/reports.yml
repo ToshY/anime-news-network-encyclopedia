@@ -100,6 +100,14 @@ jobs:
       - name: Check directory contents
         id: check-directory
         run: |
+          if [ ! -d "/tmp/reports" ]; then
+            echo "Artifact directory is empty. Skipping."
+            {
+              echo has_files=false
+            } >> "${GITHUB_OUTPUT}"
+            exit 0
+          fi
+
           # show files
           find /tmp/reports -type f
           
