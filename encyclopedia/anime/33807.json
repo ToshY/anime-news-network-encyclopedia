@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Eiga Shimajirō Shimajirō to Yūki no Uta",
     "+@precision": "movie",
-    "+@generated-on": "2024-12-03T22:31:00Z",
+    "+@generated-on": "2025-01-02T23:27:12Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "30140"
@@ -52,9 +52,13 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2025-03",
-            "+@gid": "688343253",
+            "+content": "2025-03-14",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-03-14 (Japan)",
+            "+@gid": "3580053280",
+            "+@type": "Premiere date"
         },
         {
             "+content": "映画しまじろう しまじろうとゆうきのうた",
@@ -62,6 +66,18 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://kocha.benesse.ne.jp/kodomo/open/movie/2025/"
+        }
+    ],
+    "news": [
+        {
+            "+content": "11th <cite>Shimajirō</cite> Anime Film Opens Next March",
+            "+@datetime": "2024-10-22T02:47:32Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-10-21/11th-shimajiro-anime-film-opens-next-march/.217026"
+        },
+        {
+            "+content": "11th <cite>Shimajirō</cite> Anime Film's Trailer Reveals Cast, Theme Song, March 14 Debut",
+            "+@datetime": "2024-12-10T13:54:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-10/11th-shimajiro-anime-film-trailer-reveals-cast-theme-song-march-14-debut/.218828"
         }
     ],
     "staff": [
@@ -87,6 +103,14 @@
             "person": {
                 "+content": "Brazily Ann Yamada",
                 "+@id": "272223"
+            }
+        },
+        {
+            "+@gid": "2913555183",
+            "task": "Music",
+            "person": {
+                "+content": "Yuichi \"masa\" Nonaka",
+                "+@id": "113972"
             }
         }
     ],
@@ -153,9 +177,70 @@
                 "+content": "Chafūrin",
                 "+@id": "4885"
             }
+        },
+        {
+            "+@gid": "3662459100",
+            "+@lang": "JA",
+            "role": "Gorinosuke",
+            "person": {
+                "+content": "Kōichi Yamadera",
+                "+@id": "5728"
+            }
+        },
+        {
+            "+@gid": "1509508271",
+            "+@lang": "JA",
+            "role": "Pepe",
+            "person": {
+                "+content": "Ryōta Yamasato",
+                "+@id": "154364"
+            }
+        },
+        {
+            "+@gid": "3459635573",
+            "+@lang": "JA",
+            "role": "Miley",
+            "person": {
+                "+content": "Fairouz Ai",
+                "+@id": "215531"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "2937802393",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Shirogumi Inc.",
+                "+@id": "6480"
+            }
+        },
+        {
+            "+@gid": "1087322943",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Shanghai Heyuan Culture Media Co., Ltd.",
+                "+@id": "19436"
+            }
+        },
+        {
+            "+@gid": "2554071664",
+            "task": "Production",
+            "company": {
+                "+content": "Benesse Corporation",
+                "+@id": "11461"
+            }
+        },
+        {
+            "+@gid": "723921858",
+            "task": "Production",
+            "company": {
+                "+content": "Shanghai Heyuan Culture Media Co., Ltd.",
+                "+@id": "19436"
+            }
         }
     ],
     "+@date-added": "2024-10-21T23:12:56Z",
-    "+@date-last-modified-at": "2024-12-03T23:14:18Z",
-    "+@date-last-updated-at": "2024-12-03T23:14:18Z"
+    "+@date-last-modified-at": "2025-01-02T23:27:14Z",
+    "+@date-last-updated-at": "2025-01-02T23:27:14Z"
 }

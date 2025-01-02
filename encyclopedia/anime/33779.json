@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Beginning After The End",
     "+@precision": "TV",
-    "+@generated-on": "2024-12-03T22:31:00Z",
+    "+@generated-on": "2025-01-02T23:27:12Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "33777"
@@ -63,7 +63,7 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2025",
+            "+content": "2025-04",
             "+@gid": "1799330673",
             "+@type": "Vintage"
         },
@@ -82,17 +82,24 @@
             "+@href": "https://saikyo2dome-tbate.com/en"
         }
     ],
-    "news": {
-        "+content": "<cite>The Beginning After the End</cite> Webnovel/Webcomic Gets TV Anime by Studio A-Cat (Updated)",
-        "+@datetime": "2024-10-19T16:30:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-10-19/the-beginning-after-the-end-webnovel-webcomic-gets-tv-anime-by-studio-a-cat/.216890"
-    },
+    "news": [
+        {
+            "+content": "<cite>The Beginning After the End</cite> Webnovel/Webcomic Gets TV Anime by Studio A-Cat (Updated)",
+            "+@datetime": "2024-10-19T16:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-10-19/the-beginning-after-the-end-webnovel-webcomic-gets-tv-anime-by-studio-a-cat/.216890"
+        },
+        {
+            "+content": "<cite>The Beginning After The End</cite> Anime Reveals Main Cast, April 2025 Debut on +Ultra",
+            "+@datetime": "2024-12-09T11:04:32Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-09/the-beginning-after-the-end-anime-reveals-main-cast-april-2025-debut-on-ultra/.218785"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2920398278",
             "task": "Director",
             "person": {
-                "+content": "Keitaro Motonaga",
+                "+content": "Keitarō Motonaga",
                 "+@id": "603"
             }
         },
@@ -129,6 +136,26 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "2310728965",
+            "+@lang": "JA",
+            "role": "Arthur Leywin",
+            "person": {
+                "+content": "Natsumi Fujiwara",
+                "+@id": "109744"
+            }
+        },
+        {
+            "+@gid": "2297510352",
+            "+@lang": "JA",
+            "role": "Grey",
+            "person": {
+                "+content": "Makoto Furukawa",
+                "+@id": "123459"
+            }
+        }
+    ],
     "credit": [
         {
             "+@gid": "1027894557",
@@ -148,6 +175,6 @@
         }
     ],
     "+@date-added": "2024-10-19T23:29:45Z",
-    "+@date-last-modified-at": "2024-12-03T23:14:18Z",
-    "+@date-last-updated-at": "2024-12-03T23:14:18Z"
+    "+@date-last-modified-at": "2025-01-02T23:27:14Z",
+    "+@date-last-updated-at": "2025-01-02T23:27:14Z"
 }
