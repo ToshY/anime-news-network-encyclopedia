@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "BEASTARS",
     "+@precision": "TV 3",
-    "+@generated-on": "2024-12-04T08:52:08Z",
+    "+@generated-on": "2025-01-03T20:29:17Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "23749"
@@ -53,6 +53,21 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "\"Into the world\" by issei",
+            "+@gid": "2980802855",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "#1: \"Feel Like This\" by YU-KA",
+            "+@gid": "3045419912",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#2: \"Rock 'n' Roll Dragon\" by Risa Uesaka (ep 3)",
+            "+@gid": "2005880037",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "TVアニメ「BEASTARS ビースターズ」",
             "+@gid": "1851146147",
             "+@type": "Official website",
@@ -60,6 +75,14 @@
             "+@href": "https://bst-anime.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "10",
+        "+@weighted_score": "8.0738"
+    },
+    "review": {
+        "+content": "<cite>BEASTARS Final Season</cite> Part 1 Anime Series Review",
+        "+@href": "https://www.animenewsnetwork.com/review/beastars-final-season-part-1/anime-series/.219047"
+    },
     "news": [
         {
             "+content": "<cite>Beastars</cite> Anime's Final Season Split in 2 Halves",
@@ -75,6 +98,11 @@
             "+content": "<cite>Beastars</cite> Anime's Final Season Trailer Reveals More Cast, Ending Song Artist, December 5 Debut",
             "+@datetime": "2024-11-06T03:16:47Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-11-05/beastars-anime-final-season-trailer-reveals-more-cast-ending-song-artist-december-5-debut/.217509"
+        },
+        {
+            "+content": "<cite>Beastars Final Season</cite> Anime Reveals 7 More Cast, Opening/Ending Sequences",
+            "+@datetime": "2024-12-05T10:45:19Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-05/beastars-final-season-anime-reveals-7-more-cast-opening-ending-sequences/.218642"
         }
     ],
     "staff": [
@@ -138,7 +166,7 @@
             "+@gid": "1122336173",
             "task": "Cgi Director",
             "person": {
-                "+content": "Mitsuki Ōta",
+                "+content": "Kōki Ōta",
                 "+@id": "79417"
             }
         },
@@ -152,6 +180,366 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "1833441923",
+            "+@lang": "EN",
+            "role": "Haru",
+            "person": {
+                "+content": "Lara Jill Miller",
+                "+@id": "4018"
+            }
+        },
+        {
+            "+@gid": "2208696391",
+            "+@lang": "EN",
+            "role": "Sunaga",
+            "person": {
+                "+content": "Brian Beacock",
+                "+@id": "4019"
+            }
+        },
+        {
+            "+@gid": "1733331719",
+            "+@lang": "EN",
+            "role": "Corne",
+            "person": {
+                "+content": "Rick Zieff",
+                "+@id": "39738"
+            }
+        },
+        {
+            "+@gid": "2871960103",
+            "+@lang": "EN",
+            "role": "Toki",
+            "person": {
+                "+content": "Sarah Natochenny",
+                "+@id": "59901"
+            }
+        },
+        {
+            "+@gid": "2480612434",
+            "+@lang": "EN",
+            "role": "Gouhin",
+            "person": {
+                "+content": "Keith Silverstein",
+                "+@id": "63324"
+            }
+        },
+        {
+            "+@gid": "2181864882",
+            "+@lang": "EN",
+            "role": "Jack",
+            "person": {
+                "+content": "Ben Diskin",
+                "+@id": "63523"
+            }
+        },
+        {
+            "+@gid": "1759722030",
+            "+@lang": "EN",
+            "role": "Juno",
+            "person": {
+                "+content": "Lauren Landa",
+                "+@id": "70779"
+            }
+        },
+        {
+            "+@gid": "1436939465",
+            "+@lang": "EN",
+            "role": "Leanno",
+            "person": {
+                "+content": "Cassandra Morris",
+                "+@id": "74741"
+            }
+        },
+        {
+            "+@gid": "2123077558",
+            "+@lang": "EN",
+            "role": "Melon",
+            "person": {
+                "+content": "Darren Criss",
+                "+@id": "125893"
+            }
+        },
+        {
+            "+@gid": "649011244",
+            "+@lang": "EN",
+            "role": "Azuki",
+            "person": {
+                "+content": "Reba Buhr",
+                "+@id": "129411"
+            }
+        },
+        {
+            "+@gid": "1621730683",
+            "+@lang": "EN",
+            "role": "Deshico",
+            "person": {
+                "+content": "Max Mittelman",
+                "+@id": "131942"
+            }
+        },
+        {
+            "+@gid": "2009149744",
+            "+@lang": "EN",
+            "role": "Gosha",
+            "person": {
+                "+content": "Jason Marnocha",
+                "+@id": "150735"
+            }
+        },
+        {
+            "+@gid": "1911233048",
+            "+@lang": "EN",
+            "role": "Louis",
+            "person": {
+                "+content": "Griffin Puatu",
+                "+@id": "151190"
+            }
+        },
+        {
+            "+@gid": "3652254514",
+            "+@lang": "EN",
+            "role": "Free",
+            "person": {
+                "+content": "Kellen Goff",
+                "+@id": "163020"
+            }
+        },
+        {
+            "+@gid": "1905061915",
+            "+@lang": "EN",
+            "role": "Sagwan",
+            "person": {
+                "+content": "SungWon Cho",
+                "+@id": "164450"
+            }
+        },
+        {
+            "+@gid": "2792930702",
+            "+@lang": "EN",
+            "role": "Legoshi",
+            "person": {
+                "+content": "Jonah Scott",
+                "+@id": "184821"
+            }
+        },
+        {
+            "+@gid": "1689915160",
+            "+@lang": "EN",
+            "role": "Yahya",
+            "person": {
+                "+content": "Matthew Waterson",
+                "+@id": "207719"
+            }
+        },
+        {
+            "+@gid": "2167255918",
+            "+@lang": "EN",
+            "role": "Pina",
+            "person": {
+                "+content": "Kayleigh McKee",
+                "+@id": "208764"
+            }
+        },
+        {
+            "+@gid": "538242772",
+            "+@lang": "EN",
+            "role": "Seven",
+            "person": {
+                "+content": "Libe Barer",
+                "+@id": "273886"
+            }
+        },
+        {
+            "+@gid": "2529263962",
+            "+@lang": "FR",
+            "role": "Sunaga",
+            "person": {
+                "+content": "Nessym Guetat",
+                "+@id": "29171"
+            }
+        },
+        {
+            "+@gid": "2443223085",
+            "+@lang": "FR",
+            "role": "Gosha",
+            "person": {
+                "+content": "Thierry Kazazian",
+                "+@id": "34267"
+            }
+        },
+        {
+            "+@gid": "1378053070",
+            "+@lang": "FR",
+            "role": "Holger",
+            "person": {
+                "+content": "Benoit Du Pac",
+                "+@id": "38771"
+            }
+        },
+        {
+            "+@gid": "2385016378",
+            "+@lang": "FR",
+            "role": "Sagwan",
+            "person": {
+                "+content": "Lionel Tua",
+                "+@id": "51952"
+            }
+        },
+        {
+            "+@gid": "1934221549",
+            "+@lang": "FR",
+            "role": "Legoshi",
+            "person": {
+                "+content": "Jimmy Redler",
+                "+@id": "64941"
+            }
+        },
+        {
+            "+@gid": "3551701859",
+            "+@lang": "FR",
+            "role": "Louis",
+            "person": {
+                "+content": "Stephane Fourreau",
+                "+@id": "68880"
+            }
+        },
+        {
+            "+@gid": "1503337802",
+            "+@lang": "FR",
+            "role": "Korn",
+            "person": {
+                "+content": "Francisco Gil",
+                "+@id": "83105"
+            }
+        },
+        {
+            "+@gid": "2143654478",
+            "+@lang": "FR",
+            "role": "Gohin",
+            "person": {
+                "+content": "Franck Sportis",
+                "+@id": "105826"
+            }
+        },
+        {
+            "+@gid": "2148702239",
+            "+@lang": "FR",
+            "role": "Jack",
+            "person": {
+                "+content": "Benjamin Bollen",
+                "+@id": "126247"
+            }
+        },
+        {
+            "+@gid": "1674340176",
+            "+@lang": "FR",
+            "role": "Pina",
+            "person": {
+                "+content": "Adrien Larmande",
+                "+@id": "154105"
+            }
+        },
+        {
+            "+@gid": "4037675780",
+            "+@lang": "FR",
+            "role": "Juno",
+            "person": {
+                "+content": "Alexia Papineschi",
+                "+@id": "173842"
+            }
+        },
+        {
+            "+@gid": "3825512905",
+            "+@lang": "FR",
+            "role": "Toki",
+            "person": {
+                "+content": "Lila Lacombe",
+                "+@id": "176859"
+            }
+        },
+        {
+            "+@gid": "3056656000",
+            "+@lang": "FR",
+            "role": "Deshico",
+            "person": {
+                "+content": "Garlan Le Martelot",
+                "+@id": "184538"
+            }
+        },
+        {
+            "+@gid": "1504011154",
+            "+@lang": "FR",
+            "role": "Haru",
+            "person": {
+                "+content": "Diane Kristanek",
+                "+@id": "188303"
+            }
+        },
+        {
+            "+@gid": "2959650244",
+            "+@lang": "FR",
+            "role": "Free",
+            "person": {
+                "+content": "Philippe Spiteri",
+                "+@id": "190984"
+            }
+        },
+        {
+            "+@gid": "2722511376",
+            "+@lang": "FR",
+            "role": "Melon",
+            "person": {
+                "+content": "Cyrille Thouvenin",
+                "+@id": "274820"
+            }
+        },
+        {
+            "+@gid": "1872104403",
+            "+@lang": "FR",
+            "role": "Yahya",
+            "person": {
+                "+content": "Lionel Erdogan",
+                "+@id": "274821"
+            }
+        },
+        {
+            "+@gid": "2216861907",
+            "+@lang": "FR",
+            "role": "Leano",
+            "person": {
+                "+content": "Emilie Stachnick",
+                "+@id": "274822"
+            }
+        },
+        {
+            "+@gid": "2426211413",
+            "+@lang": "FR",
+            "role": "Seven",
+            "person": {
+                "+content": "Louisa Lacroix",
+                "+@id": "274823"
+            }
+        },
+        {
+            "+@gid": "3161727390",
+            "+@lang": "FR",
+            "role": "Azuki",
+            "person": {
+                "+content": "Anastasia Cassandra",
+                "+@id": "274825"
+            }
+        },
+        {
+            "+@gid": "1710831285",
+            "+@lang": "JA",
+            "role": "Leano",
+            "person": {
+                "+content": "Houko Kuwashima",
+                "+@id": "281"
+            }
+        },
         {
             "+@gid": "2244014426",
             "+@lang": "JA",
@@ -171,12 +559,39 @@
             }
         },
         {
+            "+@gid": "1337990913",
+            "+@lang": "JA",
+            "role": "Toki",
+            "person": {
+                "+content": "Yūko Minaguchi",
+                "+@id": "528"
+            }
+        },
+        {
+            "+@gid": "442057530",
+            "+@lang": "JA",
+            "role": "Deshico",
+            "person": {
+                "+content": "Tomokazu Seki",
+                "+@id": "529"
+            }
+        },
+        {
             "+@gid": "2486080346",
             "+@lang": "JA",
             "role": "Yahya",
             "person": {
                 "+content": "Shinichirō Miki",
                 "+@id": "659"
+            }
+        },
+        {
+            "+@gid": "1184423134",
+            "+@lang": "JA",
+            "role": "Holger",
+            "person": {
+                "+content": "Tomokazu Sugita",
+                "+@id": "910"
             }
         },
         {
@@ -195,6 +610,15 @@
             "person": {
                 "+content": "Tesshō Genda",
                 "+@id": "1250"
+            }
+        },
+        {
+            "+@gid": "865922481",
+            "+@lang": "JA",
+            "role": "Cornu",
+            "person": {
+                "+content": "Ryūsei Nakao",
+                "+@id": "4668"
             }
         },
         {
@@ -252,6 +676,15 @@
             }
         },
         {
+            "+@gid": "1211750823",
+            "+@lang": "JA",
+            "role": "Azuki",
+            "person": {
+                "+content": "Ruriko Aoki",
+                "+@id": "116217"
+            }
+        },
+        {
             "+@gid": "1273372412",
             "+@lang": "JA",
             "role": "Legoshi",
@@ -277,6 +710,195 @@
                 "+content": "Kōji Okino",
                 "+@id": "153721"
             }
+        },
+        {
+            "+@gid": "1195916148",
+            "+@lang": "PL",
+            "role": "Louis",
+            "person": {
+                "+content": "Modest Ruciński",
+                "+@id": "101232"
+            }
+        },
+        {
+            "+@gid": "3196451356",
+            "+@lang": "PL",
+            "role": "Yahya",
+            "person": {
+                "+content": "Grzegorz Kwiecień",
+                "+@id": "112131"
+            }
+        },
+        {
+            "+@gid": "3484828068",
+            "+@lang": "PL",
+            "role": "Melon",
+            "person": {
+                "+content": "Robert Jarociński",
+                "+@id": "113474"
+            }
+        },
+        {
+            "+@gid": "3598661286",
+            "+@lang": "PL",
+            "role": "Legoshi",
+            "person": {
+                "+content": "Mateusz Kwiecień",
+                "+@id": "152078"
+            }
+        },
+        {
+            "+@gid": "3649043018",
+            "+@lang": "PL",
+            "role": "Haru",
+            "person": {
+                "+content": "Magdalena Herman-Urbańska",
+                "+@id": "219893"
+            }
+        },
+        {
+            "+@gid": "831816031",
+            "+@lang": "PT",
+            "role": "Legoshi",
+            "person": {
+                "+content": "Fábio Lucindo",
+                "+@id": "48732"
+            }
+        },
+        {
+            "+@gid": "2694253500",
+            "+@lang": "PT",
+            "role": "Deshico",
+            "person": {
+                "+content": "Márcio Araújo",
+                "+@id": "48735"
+            }
+        },
+        {
+            "+@gid": "3352167032",
+            "+@lang": "PT",
+            "role": "Juno",
+            "person": {
+                "+content": "Samira Fernandes",
+                "+@id": "48759"
+            }
+        },
+        {
+            "+@gid": "2233167910",
+            "+@lang": "PT",
+            "role": "Gohin",
+            "person": {
+                "+content": "Mauro Ramos",
+                "+@id": "48822"
+            }
+        },
+        {
+            "+@gid": "3766698651",
+            "+@lang": "PT",
+            "role": "Yahya",
+            "person": {
+                "+content": "Felipe Grinnan",
+                "+@id": "48836"
+            }
+        },
+        {
+            "+@gid": "609292612",
+            "+@lang": "PT",
+            "role": "Toki",
+            "person": {
+                "+content": "Flávia Narciso",
+                "+@id": "48896"
+            }
+        },
+        {
+            "+@gid": "1223618335",
+            "+@lang": "PT",
+            "role": "Gosha",
+            "person": {
+                "+content": "Nestor Chiesse",
+                "+@id": "50144"
+            }
+        },
+        {
+            "+@gid": "1879476521",
+            "+@lang": "PT",
+            "role": "Louis",
+            "person": {
+                "+content": "Felipe Zilse",
+                "+@id": "80942"
+            }
+        },
+        {
+            "+@gid": "1653933233",
+            "+@lang": "PT",
+            "role": "Jack",
+            "person": {
+                "+content": "Italo Luiz",
+                "+@id": "107122"
+            }
+        },
+        {
+            "+@gid": "1272725957",
+            "+@lang": "PT",
+            "role": "Sagwan",
+            "person": {
+                "+content": "César Emílio",
+                "+@id": "121346"
+            }
+        },
+        {
+            "+@gid": "1345451808",
+            "+@lang": "PT",
+            "role": "Corne",
+            "person": {
+                "+content": "Cassiano Ávila",
+                "+@id": "147200"
+            }
+        },
+        {
+            "+@gid": "346080720",
+            "+@lang": "PT",
+            "role": "Seven",
+            "person": {
+                "+content": "Amanda Tavares",
+                "+@id": "151489"
+            }
+        },
+        {
+            "+@gid": "2722432027",
+            "+@lang": "PT",
+            "role": "Free",
+            "person": {
+                "+content": "Reinaldo Rodriguez",
+                "+@id": "155350"
+            }
+        },
+        {
+            "+@gid": "1062710507",
+            "+@lang": "PT",
+            "role": "Haru",
+            "person": {
+                "+content": "Luiza Porto",
+                "+@id": "172512"
+            }
+        },
+        {
+            "+@gid": "1333942306",
+            "+@lang": "PT",
+            "role": "Azuki",
+            "person": {
+                "+content": "Stephany Custodi",
+                "+@id": "199952"
+            }
+        },
+        {
+            "+@gid": "1673069621",
+            "+@lang": "PT",
+            "role": "Melon",
+            "person": {
+                "+content": "Gab Romuti",
+                "+@id": "200883"
+            }
         }
     ],
     "credit": {
@@ -288,6 +910,6 @@
         }
     },
     "+@date-added": "2022-09-07T12:21:48Z",
-    "+@date-last-modified-at": "2024-12-04T08:52:09Z",
-    "+@date-last-updated-at": "2024-12-04T08:52:09Z"
+    "+@date-last-modified-at": "2025-01-03T20:29:21Z",
+    "+@date-last-updated-at": "2025-01-03T20:29:21Z"
 }
