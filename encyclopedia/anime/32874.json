@@ -4,12 +4,31 @@
     "+@type": "TV",
     "+@name": "Blue Exorcist: The Blue Night Saga",
     "+@precision": "TV",
-    "+@generated-on": "2024-12-03T23:42:32Z",
+    "+@generated-on": "2025-01-03T03:34:59Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32565"
     },
     "info": [
+        {
+            "+@gid": "787655613",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32874-787655613.1734823602.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32874-787655613.1734823602.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32874-787655613.1734823602.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Blue Exorcist: The Blue Night Saga",
             "+@gid": "2074949945",
@@ -29,7 +48,7 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2025-01",
+            "+content": "2025-01-04",
             "+@gid": "2830666423",
             "+@type": "Vintage"
         },
@@ -41,20 +60,250 @@
             "+@href": "https://ao-ex.com/"
         }
     ],
-    "news": {
-        "+content": "New <cite>Blue Exorcist</cite> Anime Reveals Trailer, Visual, Half-Year Run",
-        "+@datetime": "2024-07-06T00:14:08Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-07-05/new-blue-exorcist-anime-reveals-trailer-visual-half-year-run/.212892"
-    },
-    "staff": {
-        "+@gid": "1729360415",
-        "task": "Original creator",
-        "person": {
-            "+content": "Kazue Katō",
-            "+@id": "93042"
+    "news": [
+        {
+            "+content": "New <cite>Blue Exorcist</cite> Anime Reveals Trailer, Visual, Half-Year Run",
+            "+@datetime": "2024-07-06T00:14:08Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-07-05/new-blue-exorcist-anime-reveals-trailer-visual-half-year-run/.212892"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Winter 2025 Season",
+            "+@datetime": "2024-12-13T18:27:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-13/crunchyroll-announces-release-schedule-for-winter-2025-season/.219009"
+        },
+        {
+            "+content": "<cite>Blue Exorcist: The Blue Night Saga</cite> Anime Reveals Theme Song Artists in Video",
+            "+@datetime": "2024-12-22T05:51:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-22/blue-exorcist-the-blue-night-saga-anime-reveals-theme-song-artists-in-video/.219337"
+        }
+    ],
+    "staff": [
+        {
+            "+@gid": "2294567344",
+            "task": "Director",
+            "person": {
+                "+content": "Daisuke Yoshida",
+                "+@id": "30025"
+            }
+        },
+        {
+            "+@gid": "168986166",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Toshiya Ono",
+                "+@id": "98593"
+            }
+        },
+        {
+            "+@gid": "2582018599",
+            "task": "Music",
+            "person": {
+                "+content": "Hiroyuki Sawano",
+                "+@id": "55432"
+            }
+        },
+        {
+            "+@gid": "2476907978",
+            "task": "Music",
+            "person": {
+                "+content": "Kohta Yamamoto",
+                "+@id": "149306"
+            }
+        },
+        {
+            "+@gid": "1729360415",
+            "task": "Original creator",
+            "person": {
+                "+content": "Kazue Katō",
+                "+@id": "93042"
+            }
+        },
+        {
+            "+@gid": "2151109849",
+            "task": "Character Design",
+            "person": {
+                "+content": "Yurie Ōhigashi",
+                "+@id": "256924"
+            }
+        },
+        {
+            "+@gid": "2628868479",
+            "task": "Art Director",
+            "person": {
+                "+content": "Tomoyuki Shimizu",
+                "+@id": "27348"
+            }
+        },
+        {
+            "+@gid": "1930719667",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yurie Ōhigashi",
+                "+@id": "256924"
+            }
+        },
+        {
+            "+@gid": "1574116082",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Kazuhiro Wakabayashi",
+                "+@id": "424"
+            }
+        },
+        {
+            "+@gid": "3389166908",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Tsukasa Saitō",
+                "+@id": "76812"
+            }
+        },
+        {
+            "+@gid": "2547248711",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Shinya Matsui",
+                "+@id": "56185"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2356389368",
+            "+@lang": "JA",
+            "role": "Yukio Okumura",
+            "person": {
+                "+content": "Jun Fukuyama",
+                "+@id": "337"
+            }
+        },
+        {
+            "+@gid": "1440845009",
+            "+@lang": "JA",
+            "role": "Yuri Egin",
+            "person": {
+                "+content": "Megumi Hayashibara",
+                "+@id": "391"
+            }
+        },
+        {
+            "+@gid": "3326521634",
+            "+@lang": "JA",
+            "role": "Shirō Fujimoto",
+            "person": {
+                "+content": "Hiroaki Hirata",
+                "+@id": "917"
+            }
+        },
+        {
+            "+@gid": "1342984979",
+            "+@lang": "JA",
+            "role": "Rick Lincoln",
+            "person": {
+                "+content": "Miyu Irino",
+                "+@id": "1207"
+            }
+        },
+        {
+            "+@gid": "1756314534",
+            "+@lang": "JA",
+            "role": "Shirō Fujimoto (young)",
+            "person": {
+                "+content": "Daisuke Namikawa",
+                "+@id": "1289"
+            }
+        },
+        {
+            "+@gid": "2633157391",
+            "+@lang": "JA",
+            "role": "Lucy Yang",
+            "person": {
+                "+content": "Kimiko Saitō",
+                "+@id": "3224"
+            }
+        },
+        {
+            "+@gid": "2228353415",
+            "+@lang": "JA",
+            "role": "Mephisto Pheles",
+            "person": {
+                "+content": "Hiroshi Kamiya",
+                "+@id": "5902"
+            }
+        },
+        {
+            "+@gid": "2259353391",
+            "+@lang": "JA",
+            "role": "Osceola Redarm",
+            "person": {
+                "+content": "Kenji Nomura",
+                "+@id": "7766"
+            }
+        },
+        {
+            "+@gid": "2412235961",
+            "+@lang": "JA",
+            "role": "Jenny Kal",
+            "person": {
+                "+content": "Ryō Hirohashi",
+                "+@id": "8851"
+            }
+        },
+        {
+            "+@gid": "2209400955",
+            "+@lang": "JA",
+            "role": "Satan",
+            "person": {
+                "+content": "Tatsuhisa Suzuki",
+                "+@id": "14071"
+            }
+        },
+        {
+            "+@gid": "3407808466",
+            "+@lang": "JA",
+            "role": "Lucifer",
+            "person": {
+                "+content": "Kōki Uchiyama",
+                "+@id": "56091"
+            }
+        },
+        {
+            "+@gid": "2449034848",
+            "+@lang": "JA",
+            "role": "Rin Okumura",
+            "person": {
+                "+content": "Nobuhiko Okamoto",
+                "+@id": "59411"
+            }
+        },
+        {
+            "+@gid": "1176966680",
+            "+@lang": "JA",
+            "role": "Shemihaza",
+            "person": {
+                "+content": "Ikumi Nakagami",
+                "+@id": "96320"
+            }
+        },
+        {
+            "+@gid": "1632009390",
+            "+@lang": "JA",
+            "role": "Nicolae Eminescu",
+            "person": {
+                "+content": "Ryūnosuke Watanuki",
+                "+@id": "128401"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2129513851",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Studio VOLN",
+            "+@id": "13492"
         }
     },
     "+@date-added": "2024-07-05T21:16:41Z",
-    "+@date-last-modified-at": "2024-12-03T23:42:34Z",
-    "+@date-last-updated-at": "2024-12-03T23:42:34Z"
+    "+@date-last-modified-at": "2025-01-03T03:35:02Z",
+    "+@date-last-updated-at": "2025-01-03T03:35:02Z"
 }

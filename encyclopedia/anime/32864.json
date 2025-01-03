@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Mikadono San Shimai wa Angai, Choroi",
     "+@precision": "TV",
-    "+@generated-on": "2024-12-03T23:42:32Z",
+    "+@generated-on": "2025-01-03T03:35:00Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28829"
@@ -74,6 +74,11 @@
             "+content": "<cite>'Mikadono San Shimai wa Angai, Choroi'</cite> Anime Unveils Lead Voice Minami Hinata in Video",
             "+@datetime": "2024-11-17T09:52:19Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-11-17/mikadono-san-shimai-wa-angai-choroi-anime-unveils-lead-voice-minami-hinata-in-video/.217963"
+        },
+        {
+            "+content": "<cite>'Mikadono San Shimai wa Angai, Choroi'</cite> Anime Casts Yurina Amami",
+            "+@datetime": "2024-12-06T10:04:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-06/mikadono-san-shimai-wa-angai-choroi-anime-casts-yurina-amami/.218673"
         }
     ],
     "staff": [
@@ -102,15 +107,26 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "1960496773",
-        "+@lang": "JA",
-        "role": "Yū Ayase",
-        "person": {
-            "+content": "Minami Hinata",
-            "+@id": "191474"
+    "cast": [
+        {
+            "+@gid": "684143898",
+            "+@lang": "JA",
+            "role": "Kazuki Mikadono",
+            "person": {
+                "+content": "Yurina Amami",
+                "+@id": "159137"
+            }
+        },
+        {
+            "+@gid": "1960496773",
+            "+@lang": "JA",
+            "role": "Yū Ayase",
+            "person": {
+                "+content": "Minami Hinata",
+                "+@id": "191474"
+            }
         }
-    },
+    ],
     "credit": {
         "+@gid": "757693110",
         "task": "Animation Production",
@@ -120,6 +136,6 @@
         }
     },
     "+@date-added": "2024-07-03T01:18:40Z",
-    "+@date-last-modified-at": "2024-12-03T23:42:34Z",
-    "+@date-last-updated-at": "2024-12-03T23:42:34Z"
+    "+@date-last-modified-at": "2025-01-03T03:35:02Z",
+    "+@date-last-updated-at": "2025-01-03T03:35:02Z"
 }

@@ -4,12 +4,36 @@
     "+@type": "TV",
     "+@name": "Black Butler: Emerald Witch Arc",
     "+@precision": "TV",
-    "+@generated-on": "2024-12-03T23:42:32Z",
+    "+@generated-on": "2025-01-03T03:34:59Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28897"
     },
     "info": [
+        {
+            "+@gid": "2711086275",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32875-2711086275.1733652079.jpg",
+            "+@width": "200",
+            "+@height": "112",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32875-2711086275.1733652079.jpg",
+                    "+@width": "200",
+                    "+@height": "112"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32875-2711086275.1733652079.jpg",
+                    "+@width": "500",
+                    "+@height": "281"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A32875-2711086275.1733652079.jpg",
+                    "+@width": "600",
+                    "+@height": "337"
+                }
+            ]
+        },
         {
             "+content": "Black Butler: Emerald Witch Arc",
             "+@gid": "1731399637",
@@ -29,31 +53,72 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2025",
+            "+content": "2025-04",
             "+@gid": "1784488360",
             "+@type": "Vintage"
         },
         {
-            "+content": "アニメ『黒執事』",
+            "+content": "アニメ『黒執事 -緑の魔女編-』",
             "+@gid": "2364741890",
             "+@type": "Official website",
             "+@lang": "JA",
-            "+@href": "https://www.kuroshitsuji.tv/"
+            "+@href": "https://www.kuroshitsuji.tv/emeraldwitch/"
         }
     ],
-    "news": {
-        "+content": "<cite>Black Butler: Emerald Witch Arc</cite> Anime Premieres in 2025",
-        "+@datetime": "2024-07-06T22:22:22Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-07-06/black-butler-emerald-witch-arc-anime-premieres-in-2025/.212924"
-    },
-    "staff": {
-        "+@gid": "3064709772",
-        "task": "Original creator",
-        "person": {
-            "+content": "Yana Toboso",
-            "+@id": "71982"
+    "news": [
+        {
+            "+content": "<cite>Black Butler: Emerald Witch Arc</cite> Anime Premieres in 2025",
+            "+@datetime": "2024-07-06T22:22:22Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-07-06/black-butler-emerald-witch-arc-anime-premieres-in-2025/.212924"
+        },
+        {
+            "+content": "<cite>Black Butler: Emerald Witch Arc</cite> Anime Reveals 2 New Cast, More Returning Staff, April 2025 Debut",
+            "+@datetime": "2024-12-08T09:04:15Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-08/black-butler-emerald-witch-arc-anime-reveals-2-new-cast-more-returning-staff-april-2025-debut/.218743"
         }
-    },
+    ],
+    "staff": [
+        {
+            "+@gid": "2115690396",
+            "task": "Director",
+            "person": {
+                "+content": "Kenjirō Okada",
+                "+@id": "84924"
+            }
+        },
+        {
+            "+@gid": "2164977701",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Hiroyuki Yoshino",
+                "+@id": "36992"
+            }
+        },
+        {
+            "+@gid": "2368077306",
+            "task": "Music",
+            "person": {
+                "+content": "Ryo Kawasaki",
+                "+@id": "151399"
+            }
+        },
+        {
+            "+@gid": "3064709772",
+            "task": "Original creator",
+            "person": {
+                "+content": "Yana Toboso",
+                "+@id": "71982"
+            }
+        },
+        {
+            "+@gid": "2485580843",
+            "task": "Character Design",
+            "person": {
+                "+content": "Yumi Shimizu",
+                "+@id": "40551"
+            }
+        }
+    ],
     "cast": [
         {
             "+@gid": "2799555938",
@@ -65,6 +130,15 @@
             }
         },
         {
+            "+@gid": "2553914645",
+            "+@lang": "JA",
+            "role": "Sieglinde Sullivan",
+            "person": {
+                "+content": "Rie Kugimiya",
+                "+@id": "808"
+            }
+        },
+        {
             "+@gid": "973882756",
             "+@lang": "JA",
             "role": "Sebastian Michaelis",
@@ -72,9 +146,26 @@
                 "+content": "Daisuke Ono",
                 "+@id": "14929"
             }
+        },
+        {
+            "+@gid": "2890110486",
+            "+@lang": "JA",
+            "role": "Wolfram",
+            "person": {
+                "+content": "Chikahiro Kobayashi",
+                "+@id": "121091"
+            }
         }
     ],
+    "credit": {
+        "+@gid": "2949007882",
+        "task": "Animation Production",
+        "company": {
+            "+content": "CloverWorks",
+            "+@id": "16953"
+        }
+    },
     "+@date-added": "2024-07-06T18:30:42Z",
-    "+@date-last-modified-at": "2024-12-03T23:42:34Z",
-    "+@date-last-updated-at": "2024-12-03T23:42:34Z"
+    "+@date-last-modified-at": "2025-01-03T03:35:02Z",
+    "+@date-last-updated-at": "2025-01-03T03:35:02Z"
 }
