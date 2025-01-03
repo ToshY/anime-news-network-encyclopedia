@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Me & Roboco",
     "+@precision": "movie",
-    "+@generated-on": "2024-12-04T05:44:11Z",
+    "+@generated-on": "2025-01-03T13:31:13Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "25734"
@@ -13,17 +13,17 @@
         {
             "+@gid": "1989594735",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28696-1989594735.1727038898.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28696-1989594735.1733533527.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28696-1989594735.1727038898.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28696-1989594735.1733533527.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A28696-1989594735.1727038898.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A28696-1989594735.1733533527.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
@@ -64,11 +64,23 @@
             "+@href": "https://boku-to-roboco.com/"
         }
     ],
-    "news": {
-        "+content": "<i>Me & Roboco</i> Anime Film Delayed From Winter 2024 to April 18, 2025",
-        "+@datetime": "2024-09-22T15:29:58Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-09-22/me-and-roboco-anime-film-delayed-from-winter-2024-to-april-18-2025/.215872"
-    },
+    "news": [
+        {
+            "+content": "<i>Me & Roboco</i> Anime Film Delayed From Winter 2024 to April 18, 2025",
+            "+@datetime": "2024-09-22T15:29:58Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-09-22/me-and-roboco-anime-film-delayed-from-winter-2024-to-april-18-2025/.215872"
+        },
+        {
+            "+content": "<cite>Me & Roboco</cite> Anime Film Unveils Trailer, Visual",
+            "+@datetime": "2024-12-06T16:31:06Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-06/me-and-roboco-anime-film-unveils-trailer-visual/.218700"
+        },
+        {
+            "+content": "<cite>Me & Roboco</cite> Anime Film Casts Mayumi Tanaka",
+            "+@datetime": "2024-12-21T03:54:42Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-20/me-and-roboco-anime-film-casts-mayumi-tanaka/.219343"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2501174759",
@@ -79,23 +91,50 @@
             }
         },
         {
+            "+@gid": "1855885718",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Sayuri Ōba",
+                "+@id": "273950"
+            }
+        },
+        {
             "+@gid": "2313229180",
             "task": "Original creator",
             "person": {
                 "+content": "Shūhei Miyazaki",
                 "+@id": "205696"
             }
-        },
-        {
-            "+@gid": "1784559285",
-            "task": "Character Design",
-            "person": {
-                "+content": "Yūko Ebara",
-                "+@id": "124030"
-            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "3276973768",
+            "+@lang": "JA",
+            "role": "Roboco",
+            "person": {
+                "+content": "Mayumi Tanaka",
+                "+@id": "301"
+            }
+        },
+        {
+            "+@gid": "2699898351",
+            "+@lang": "JA",
+            "role": "Gachi Gorilla",
+            "person": {
+                "+content": "Ryōtarō Okiayu",
+                "+@id": "718"
+            }
+        },
+        {
+            "+@gid": "3163789481",
+            "+@lang": "JA",
+            "role": "Bondo's Mom",
+            "person": {
+                "+content": "Kotono Mitsuishi",
+                "+@id": "720"
+            }
+        },
         {
             "+@gid": "1214609715",
             "+@lang": "JA",
@@ -106,12 +145,48 @@
             }
         },
         {
+            "+@gid": "1799473512",
+            "+@lang": "JA",
+            "role": "Madoka Chuwaan",
+            "person": {
+                "+content": "M.A.O",
+                "+@id": "123756"
+            }
+        },
+        {
+            "+@gid": "1572145447",
+            "+@lang": "JA",
+            "role": "Motsuo",
+            "person": {
+                "+content": "Shunsuke Takeuchi",
+                "+@id": "132044"
+            }
+        },
+        {
             "+@gid": "2957426722",
             "+@lang": "JA",
             "role": "Roboco",
             "person": {
                 "+content": "Shun Matsuo",
                 "+@id": "203161"
+            }
+        },
+        {
+            "+@gid": "2163693323",
+            "+@lang": "JA",
+            "role": "Nyonta",
+            "person": {
+                "+content": "Erina Gotō",
+                "+@id": "225607"
+            }
+        },
+        {
+            "+@gid": "1735852661",
+            "+@lang": "JA",
+            "role": "Meiko",
+            "person": {
+                "+content": "Sae Hiratsuka",
+                "+@id": "230669"
             }
         }
     ],
@@ -124,6 +199,6 @@
         }
     },
     "+@date-added": "2023-06-20T11:24:04Z",
-    "+@date-last-modified-at": "2024-12-04T05:44:12Z",
-    "+@date-last-updated-at": "2024-12-04T05:44:12Z"
+    "+@date-last-modified-at": "2025-01-03T13:31:20Z",
+    "+@date-last-updated-at": "2025-01-03T13:31:20Z"
 }
