@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Mononoke The Movie: Phantom in the Rain",
     "+@precision": "movie",
-    "+@generated-on": "2024-12-04T18:57:32Z",
+    "+@generated-on": "2025-01-03T22:31:02Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "7890"
@@ -64,6 +64,12 @@
             "+@lang": "ES"
         },
         {
+            "+content": "Мононокэ: Фильм. Призрак под дождём",
+            "+@gid": "1253174805",
+            "+@type": "Alternative title",
+            "+@lang": "RU"
+        },
+        {
             "+content": "劇場版モノノ怪 唐傘",
             "+@gid": "2188310178",
             "+@type": "Alternative title",
@@ -107,8 +113,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "11",
-        "+@weighted_score": "8.4959"
+        "+@nb_votes": "17",
+        "+@weighted_score": "8.6229",
+        "+@bayesian_score": "8.12643"
     },
     "review": {
         "+content": "<cite>Mononoke The Movie: Karakasa</cite> Anime Film Review",
@@ -277,6 +284,14 @@
             "person": {
                 "+content": "Yasunori Gotō",
                 "+@id": "82721"
+            }
+        },
+        {
+            "+@gid": "1482444823",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Takuya Hosogane",
+                "+@id": "96164"
             }
         },
         {
@@ -661,6 +676,14 @@
             "person": {
                 "+content": "Kenichi Shirai",
                 "+@id": "66929"
+            }
+        },
+        {
+            "+@gid": "1749863992",
+            "task": "3D Director",
+            "person": {
+                "+content": "Masanari Kira",
+                "+@id": "164923"
             }
         },
         {
@@ -1051,6 +1074,6 @@
         }
     ],
     "+@date-added": "2022-06-18T19:51:34Z",
-    "+@date-last-modified-at": "2024-12-04T18:57:33Z",
-    "+@date-last-updated-at": "2024-12-04T18:57:33Z"
+    "+@date-last-modified-at": "2025-01-03T22:31:05Z",
+    "+@date-last-updated-at": "2025-01-03T22:31:05Z"
 }
