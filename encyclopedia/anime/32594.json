@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Tis Time for \"Torture,\" Princess",
     "+@precision": "TV 2",
-    "+@generated-on": "2024-12-04T02:00:20Z",
+    "+@generated-on": "2025-01-03T05:31:18Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28789"
@@ -59,11 +59,18 @@
         "+@nb_votes": "1",
         "+@weighted_score": "3"
     },
-    "news": {
-        "+content": "Crunchyroll to Stream <cite>'Tis Time for \"Torture,\" Princess</cite> Season 2; <cite>I Left My A-Rank Party</cite> Anime",
-        "+@datetime": "2024-11-03T05:17:58Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-11-03/crunchyroll-to-stream-tis-time-for-torture-princess-season-2-i-left-my-a-rank-party-anime/.217458"
-    },
+    "news": [
+        {
+            "+content": "Crunchyroll to Stream <cite>'Tis Time for \"Torture,\" Princess</cite> Season 2; <cite>I Left My A-Rank Party</cite> Anime",
+            "+@datetime": "2024-11-03T05:17:58Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-11-03/crunchyroll-to-stream-tis-time-for-torture-princess-season-2-i-left-my-a-rank-party-anime/.217458"
+        },
+        {
+            "+content": "<cite>'Tis Time for \"Torture,\" Princess'</cite> Anime's 2nd Season Casts Mutsumi Tamura",
+            "+@datetime": "2024-12-22T03:07:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-21/tis-time-for-torture-princess-anime-2nd-season-casts-mutsumi-tamura/.219387"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1639578340",
@@ -82,7 +89,16 @@
             }
         }
     ],
+    "cast": {
+        "+@gid": "3682032468",
+        "+@lang": "JA",
+        "role": "Sakura Heartrock",
+        "person": {
+            "+content": "Mutsumi Tamura",
+            "+@id": "70817"
+        }
+    },
     "+@date-added": "2024-03-25T22:52:07Z",
-    "+@date-last-modified-at": "2024-12-04T02:00:23Z",
-    "+@date-last-updated-at": "2024-12-04T02:00:23Z"
+    "+@date-last-modified-at": "2025-01-03T05:31:20Z",
+    "+@date-last-updated-at": "2025-01-03T05:31:20Z"
 }
