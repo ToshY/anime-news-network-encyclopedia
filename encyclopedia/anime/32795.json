@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Bogus Skill &lt;&lt;fruitmaster&gt;&gt;",
     "+@precision": "TV",
-    "+@generated-on": "2024-12-03T23:51:13Z",
+    "+@generated-on": "2025-01-03T04:33:19Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "32794"
@@ -59,7 +59,12 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2025-01-07",
+            "+content": "2024-12-31 (streaming premiere)",
+            "+@gid": "1477971677",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-01-07 (TV broadcast)",
             "+@gid": "3179769647",
             "+@type": "Vintage"
         },
@@ -69,6 +74,11 @@
             "+@type": "Opening Theme"
         },
         {
+            "+content": "\"Sonna Bokura no Bōkentan!\" by TrySail",
+            "+@gid": "2755074978",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "TVアニメ「外れスキル《木の実マスター》 ～スキルの実（食べたら死ぬ）を無限に食べられるようになった件について～」公式サイト",
             "+@gid": "2191854998",
             "+@type": "Official website",
@@ -76,6 +86,10 @@
             "+@href": "https://kinomimaster.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "2.9112"
+    },
     "news": [
         {
             "+content": "<cite>Hazure Skill 'Kinomi Master'</cite> Manga/Novels Gets TV Anime",
@@ -96,6 +110,21 @@
             "+content": "Crunchyroll to Stream <cite>Bogus Skill &lt;&lt;fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~</cite> Anime",
             "+@datetime": "2024-11-26T17:45:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-11-26/crunchyroll-to-stream-bogus-skill-lt-lt-fruitmaster-~about-that-time-i-became-able-to-eat-unlimited-/.218322"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Winter 2025 Season",
+            "+@datetime": "2024-12-13T18:27:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-13/crunchyroll-announces-release-schedule-for-winter-2025-season/.219009"
+        },
+        {
+            "+content": "<cite>Ameku M.D.</cite>, <cite>Headhunted to Another World</cite>, <cite>OKITSURA</cite>, More Anime Simulcast in India",
+            "+@datetime": "2024-12-16T07:52:34Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-16/ameku-m.d-headhunted-to-another-world-okitsura-more-anime-simulcast-in-india/.219055"
+        },
+        {
+            "+content": "<cite>Bogus Skill &lt;&lt;fruitmaster&gt;&gt;</cite> Anime's 2nd Video Reveals Ending Song, December 31 Net Debut",
+            "+@datetime": "2024-12-15T16:25:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-15/bogus-skill-lt-lt-fruitmaster-gt-gt-anime-2nd-video-reveals-ending-song-december-31-net-debut/.219100"
         }
     ],
     "staff": [
@@ -113,6 +142,54 @@
             "person": {
                 "+content": "Gigaemon Ichikawa",
                 "+@id": "145724"
+            }
+        },
+        {
+            "+@gid": "1095462885",
+            "task": "Script",
+            "person": {
+                "+content": "Gigaemon Ichikawa",
+                "+@id": "145724"
+            }
+        },
+        {
+            "+@gid": "1473228458",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ryuichi Kimura",
+                "+@id": "44817"
+            }
+        },
+        {
+            "+@gid": "1337745799",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yoshitaka Katsurada",
+                "+@id": "175340"
+            }
+        },
+        {
+            "+@gid": "1281418334",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ryuichi Kimura",
+                "+@id": "44817"
+            }
+        },
+        {
+            "+@gid": "2957169612",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Ryuichi Kimura",
+                "+@id": "44817"
+            }
+        },
+        {
+            "+@gid": "2580937863",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Yoshitaka Katsurada",
+                "+@id": "175340"
             }
         },
         {
@@ -169,6 +246,102 @@
             "person": {
                 "+content": "Arisa Taira",
                 "+@id": "88436"
+            }
+        },
+        {
+            "+@gid": "2891619682",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Masato Kato",
+                "+@id": "48089"
+            }
+        },
+        {
+            "+@gid": "705507243",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yasuka Ōtaki",
+                "+@id": "222905"
+            }
+        },
+        {
+            "+@gid": "1483198652",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shinichiro Minami",
+                "+@id": "10708"
+            }
+        },
+        {
+            "+@gid": "1767416174",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kumiko Shishido",
+                "+@id": "21362"
+            }
+        },
+        {
+            "+@gid": "2249581250",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Katsumi Shimazaki",
+                "+@id": "27222"
+            }
+        },
+        {
+            "+@gid": "937792844",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Fumino Fujii",
+                "+@id": "40738"
+            }
+        },
+        {
+            "+@gid": "2634856191",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sawako Shigematsu",
+                "+@id": "77245"
+            }
+        },
+        {
+            "+@gid": "1960687045",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Emi Satō",
+                "+@id": "78023"
+            }
+        },
+        {
+            "+@gid": "2159360986",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Daisuke Tomiyama",
+                "+@id": "78992"
+            }
+        },
+        {
+            "+@gid": "2243231217",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tomohide Kikunaga",
+                "+@id": "105789"
+            }
+        },
+        {
+            "+@gid": "2394412564",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yasuka Ōtaki",
+                "+@id": "222905"
+            }
+        },
+        {
+            "+@gid": "924286412",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tsutomu Ōno",
+                "+@id": "225238"
             }
         },
         {
@@ -280,6 +453,6 @@
         }
     },
     "+@date-added": "2024-06-06T20:18:55Z",
-    "+@date-last-modified-at": "2024-12-03T23:59:03Z",
-    "+@date-last-updated-at": "2024-12-03T23:59:03Z"
+    "+@date-last-modified-at": "2025-01-03T04:33:21Z",
+    "+@date-last-updated-at": "2025-01-03T04:33:21Z"
 }

@@ -2,9 +2,9 @@
     "+@id": "32725",
     "+@gid": "1604317270",
     "+@type": "movie",
-    "+@name": "Odekake Kozame",
+    "+@name": "Eiga Odekake Kozame Tokai no Otomodachi",
     "+@precision": "movie",
-    "+@generated-on": "2024-12-03T23:51:17Z",
+    "+@generated-on": "2025-01-03T04:33:20Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28357"
@@ -13,33 +13,38 @@
         {
             "+@gid": "3529452084",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32725-3529452084.1722508938.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32725-3529452084.1734658017.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32725-3529452084.1722508938.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32725-3529452084.1734658017.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32725-3529452084.1722508938.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32725-3529452084.1734658017.jpg",
+                    "+@width": "425",
                     "+@height": "600"
                 }
             ]
         },
         {
-            "+content": "Odekake Kozame",
+            "+content": "Eiga Odekake Kozame Tokai no Otomodachi",
             "+@gid": "3389085783",
             "+@type": "Main title",
             "+@lang": "JA"
         },
         {
-            "+content": "おでかけ子ザメ",
+            "+content": "映画 おでかけ子ザメ とかいのおともだち",
             "+@gid": "3111920440",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "2025 (summer)",
+            "+@gid": "1892537674",
+            "+@type": "Vintage"
         },
         {
             "+content": "アニメ「おでかけ子ザメ」公式サイト",
@@ -49,20 +54,116 @@
             "+@href": "https://odekake-kozame.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Odekake Kozame</cite> Anime Reveals New Series is Anime Film",
-        "+@datetime": "2024-08-01T09:13:14Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-08-01/odekake-kozame-anime-reveals-new-series-is-anime-film/.213820"
-    },
-    "staff": {
-        "+@gid": "4067049636",
-        "task": "Original creator",
-        "person": {
-            "+content": "Penguin Box",
-            "+@id": "243091"
+    "news": [
+        {
+            "+content": "<cite>Odekake Kozame</cite> Anime Reveals New Series is Anime Film",
+            "+@datetime": "2024-08-01T09:13:14Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-08-01/odekake-kozame-anime-reveals-new-series-is-anime-film/.213820"
+        },
+        {
+            "+content": "<cite>Odekake Kozame</cite> Anime Film Reveals Full Title, New Cast, Staff, Summer 2025 Premiere in Teaser Video",
+            "+@datetime": "2024-12-20T01:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-19/odekake-kozame-anime-film-reveals-full-title-new-cast-staff-summer-2025-premiere-in-teaser-video/.219262"
         }
-    },
+    ],
+    "staff": [
+        {
+            "+@gid": "900477104",
+            "task": "Director",
+            "person": {
+                "+content": "Chihiro Kumano",
+                "+@id": "192061"
+            }
+        },
+        {
+            "+@gid": "3071822743",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Hiroaki Nagashima",
+                "+@id": "245221"
+            }
+        },
+        {
+            "+@gid": "1885241862",
+            "task": "Music",
+            "person": {
+                "+content": "Yoshiaki Fujisawa",
+                "+@id": "113645"
+            }
+        },
+        {
+            "+@gid": "4067049636",
+            "task": "Original creator",
+            "person": {
+                "+content": "Penguin Box",
+                "+@id": "243091"
+            }
+        },
+        {
+            "+@gid": "456864993",
+            "task": "Character Design",
+            "person": {
+                "+content": "Ayumi Takeuchi",
+                "+@id": "194694"
+            }
+        },
+        {
+            "+@gid": "2250307970",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Kisuke Koizumi",
+                "+@id": "30629"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1660647442",
+            "+@lang": "JA",
+            "role": "Kozame-chan",
+            "person": {
+                "+content": "Kana Hanazawa",
+                "+@id": "53741"
+            }
+        },
+        {
+            "+@gid": "1546607385",
+            "+@lang": "JA",
+            "role": "Usame-chan",
+            "person": {
+                "+content": "Misaki Kuno",
+                "+@id": "85915"
+            }
+        },
+        {
+            "+@gid": "2035417165",
+            "+@lang": "JA",
+            "role": "Anko-chan",
+            "person": {
+                "+content": "Megumi Han",
+                "+@id": "104148"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "1949837459",
+            "task": "Animation Production",
+            "company": {
+                "+content": "ENGI",
+                "+@id": "17950"
+            }
+        },
+        {
+            "+@gid": "1431995088",
+            "task": "Production",
+            "company": {
+                "+content": "Kadokawa",
+                "+@id": "15420"
+            }
+        }
+    ],
     "+@date-added": "2024-05-10T20:36:45Z",
-    "+@date-last-modified-at": "2024-12-03T23:59:03Z",
-    "+@date-last-updated-at": "2024-12-03T23:59:03Z"
+    "+@date-last-modified-at": "2025-01-03T04:33:21Z",
+    "+@date-last-updated-at": "2025-01-03T04:33:21Z"
 }
