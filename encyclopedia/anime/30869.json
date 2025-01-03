@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "DAN DA DAN",
     "+@precision": "TV",
-    "+@generated-on": "2024-12-04T04:30:45Z",
+    "+@generated-on": "2025-01-03T09:29:18Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24649"
+    },
+    "related-next": {
+        "+@id": "34211",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -180,9 +184,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "23",
-        "+@weighted_score": "8.0731",
-        "+@bayesian_score": "7.85806"
+        "+@nb_votes": "116",
+        "+@weighted_score": "8.408",
+        "+@bayesian_score": "8.31421"
     },
     "episode": [
         {
@@ -262,6 +266,22 @@
             "title": {
                 "+content": "Have You Ever Seen a Cattle Mutilation?",
                 "+@gid": "2300961035",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "First Love",
+                "+@gid": "3447912031",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Let's Go to the Cursed House",
+                "+@gid": "2620891725",
                 "+@lang": "EN"
             }
         }
@@ -391,6 +411,16 @@
             "+content": "<cite>DAN DA DAN</cite> Anime's Hindi Dub Streams on Muse India",
             "+@datetime": "2024-11-18T11:11:07Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-11-18/dan-da-dan-anime-hindi-dub-streams-on-muse-india/.217965"
+        },
+        {
+            "+content": "<cite>DAN DA DAN</cite> Anime Casts Masako Isobe",
+            "+@datetime": "2024-12-17T10:44:11Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-17/dan-da-dan-anime-casts-masako-isobe/.219182"
+        },
+        {
+            "+content": "<cite>DAN DA DAN</cite> Anime Gets 2nd Season in July 2025",
+            "+@datetime": "2024-12-19T16:08:51Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-19/dan-da-dan-anime-gets-2nd-season-in-july-2025/.219258"
         }
     ],
     "staff": [
@@ -424,6 +454,14 @@
             "person": {
                 "+content": "Hiroshi Nishikiori",
                 "+@id": "1569"
+            }
+        },
+        {
+            "+@gid": "261289120",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shinsaku Sasaki",
+                "+@id": "1724"
             }
         },
         {
@@ -475,6 +513,14 @@
             }
         },
         {
+            "+@gid": "2202156573",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Jong Heo",
+                "+@id": "178586"
+            }
+        },
+        {
             "+@gid": "2102917545",
             "task": "Storyboard",
             "person": {
@@ -507,6 +553,14 @@
             }
         },
         {
+            "+@gid": "1965744408",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tetsuya Wakano",
+                "+@id": "37793"
+            }
+        },
+        {
             "+@gid": "375861663",
             "task": "Episode Director",
             "person": {
@@ -531,11 +585,27 @@
             }
         },
         {
+            "+@gid": "1446854182",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kayona Yamada",
+                "+@id": "177453"
+            }
+        },
+        {
             "+@gid": "2817433613",
             "task": "Episode Director",
             "person": {
                 "+content": "Kōtarō Matsunaga",
                 "+@id": "181116"
+            }
+        },
+        {
+            "+@gid": "2418301035",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tooru Hasuya",
+                "+@id": "190639"
             }
         },
         {
@@ -643,6 +713,14 @@
             }
         },
         {
+            "+@gid": "723269328",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Dai Imaoka",
+                "+@id": "37067"
+            }
+        },
+        {
             "+@gid": "1470422056",
             "task": "Animation Director",
             "person": {
@@ -664,6 +742,14 @@
             "person": {
                 "+content": "Ye He",
                 "+@id": "89289"
+            }
+        },
+        {
+            "+@gid": "1246740236",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuki Yabuta",
+                "+@id": "96591"
             }
         },
         {
@@ -723,6 +809,14 @@
             }
         },
         {
+            "+@gid": "2281896432",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ren Fujimaki",
+                "+@id": "138362"
+            }
+        },
+        {
             "+@gid": "2493888380",
             "task": "Animation Director",
             "person": {
@@ -776,6 +870,14 @@
             "person": {
                 "+content": "Shinobu Ikakko",
                 "+@id": "175599"
+            }
+        },
+        {
+            "+@gid": "3621136715",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Xuan Zhou",
+                "+@id": "188680"
             }
         },
         {
@@ -867,6 +969,14 @@
             }
         },
         {
+            "+@gid": "2359413431",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jue Wu",
+                "+@id": "247461"
+            }
+        },
+        {
             "+@gid": "2556711931",
             "task": "Animation Director",
             "person": {
@@ -888,6 +998,38 @@
             "person": {
                 "+content": "Yang Hao Tong Li",
                 "+@id": "261213"
+            }
+        },
+        {
+            "+@gid": "2941760469",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chang Ye",
+                "+@id": "261306"
+            }
+        },
+        {
+            "+@gid": "1482393959",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yu Wang",
+                "+@id": "261387"
+            }
+        },
+        {
+            "+@gid": "1640494383",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Quinxia Ouwen",
+                "+@id": "263884"
+            }
+        },
+        {
+            "+@gid": "1633538240",
+            "task": "Animation Director",
+            "person": {
+                "+content": "GN",
+                "+@id": "264828"
             }
         },
         {
@@ -1101,6 +1243,15 @@
             }
         },
         {
+            "+@gid": "1778040958",
+            "+@lang": "EN",
+            "role": "Taro",
+            "person": {
+                "+content": "Kaiji Tang",
+                "+@id": "70445"
+            }
+        },
+        {
             "+@gid": "1817306726",
             "+@lang": "EN",
             "role": "Acrobatic Silky",
@@ -1116,6 +1267,24 @@
             "person": {
                 "+content": "Abby Trott",
                 "+@id": "135930"
+            }
+        },
+        {
+            "+@gid": "2977844180",
+            "+@lang": "EN",
+            "role": "Hana",
+            "person": {
+                "+content": "Allegra Clark",
+                "+@id": "163712"
+            }
+        },
+        {
+            "+@gid": "2612026990",
+            "+@lang": "EN",
+            "role": "Queen-sensei",
+            "person": {
+                "+content": "Allegra Clark",
+                "+@id": "163712"
             }
         },
         {
@@ -1272,6 +1441,15 @@
             }
         },
         {
+            "+@gid": "1494178901",
+            "+@lang": "ES",
+            "role": "Jin \"Jiji\" Enjoji",
+            "person": {
+                "+content": "Jaime Pérez de Sevilla",
+                "+@id": "157550"
+            }
+        },
+        {
             "+@gid": "2706688226",
             "+@lang": "ES",
             "role": "Momo Ayase",
@@ -1323,6 +1501,15 @@
             "person": {
                 "+content": "Alexia Lorrio",
                 "+@id": "187957"
+            }
+        },
+        {
+            "+@gid": "2075202666",
+            "+@lang": "ES",
+            "role": "Aira Shiratori",
+            "person": {
+                "+content": "Irene Garrés",
+                "+@id": "208956"
             }
         },
         {
@@ -1524,12 +1711,30 @@
             }
         },
         {
+            "+@gid": "1997241409",
+            "+@lang": "IT",
+            "role": "Jin Enjoji",
+            "person": {
+                "+content": "Jacopo Calatroni",
+                "+@id": "123436"
+            }
+        },
+        {
             "+@gid": "463228297",
             "+@lang": "IT",
             "role": "Momo Ayase",
             "person": {
                 "+content": "Katia Sorrentino",
                 "+@id": "129853"
+            }
+        },
+        {
+            "+@gid": "2471639546",
+            "+@lang": "IT",
+            "role": "Jin Enjoji",
+            "person": {
+                "+content": "Riccardo Suarez",
+                "+@id": "131046"
             }
         },
         {
@@ -1647,6 +1852,24 @@
             "person": {
                 "+content": "Ryūzaburō Ōtomo",
                 "+@id": "3106"
+            }
+        },
+        {
+            "+@gid": "1895403956",
+            "+@lang": "JA",
+            "role": "Queen-Sensei",
+            "person": {
+                "+content": "Chiaki Takahashi",
+                "+@id": "7591"
+            }
+        },
+        {
+            "+@gid": "1837609885",
+            "+@lang": "JA",
+            "role": "Naki Kitō",
+            "person": {
+                "+content": "Masako Isobe",
+                "+@id": "8420"
             }
         },
         {
@@ -1849,6 +2072,6 @@
         }
     ],
     "+@date-added": "2023-11-27T19:17:21Z",
-    "+@date-last-modified-at": "2024-12-04T04:30:47Z",
-    "+@date-last-updated-at": "2024-12-04T04:30:47Z"
+    "+@date-last-modified-at": "2025-01-03T09:29:20Z",
+    "+@date-last-updated-at": "2025-01-03T09:29:20Z"
 }

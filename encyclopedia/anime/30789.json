@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Blue Box",
     "+@precision": "TV",
-    "+@generated-on": "2024-12-04T04:30:45Z",
+    "+@generated-on": "2025-01-03T09:29:18Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24652"
@@ -54,6 +54,12 @@
             "+@lang": "PL"
         },
         {
+            "+content": "Голубая шкатулка",
+            "+@gid": "1882847047",
+            "+@type": "Alternative title",
+            "+@lang": "RU"
+        },
+        {
             "+content": "アオのハコ",
             "+@gid": "2030292972",
             "+@type": "Alternative title",
@@ -92,8 +98,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "7.0315"
+        "+@nb_votes": "9",
+        "+@weighted_score": "7.2817"
     },
     "episode": [
         {
@@ -175,6 +181,30 @@
                 "+@gid": "2606801427",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "Uncool!",
+                "+@gid": "4038114434",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Girls...",
+                "+@gid": "1217599166",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "I Want a Back-and-Forth Rally",
+                "+@gid": "1509111467",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -222,6 +252,11 @@
             "+content": "<cite>Blue Box</cite> Anime Casts Yuki Ono, Kensho Ono",
             "+@datetime": "2024-11-10T16:32:56Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-11-10/blue-box-anime-casts-yuki-ono-kensho-ono/.217711"
+        },
+        {
+            "+content": "<cite>Blue Box</cite> Anime Reveals New Cast, Theme Songs & Artists, January 2 2nd Half Debut",
+            "+@datetime": "2024-12-22T06:15:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-22/blue-box-anime-reveals-new-cast-theme-songs-and-artists-january-2-2nd-half-debut/.219386"
         }
     ],
     "staff": [
@@ -266,11 +301,27 @@
             }
         },
         {
+            "+@gid": "3100881160",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Masaaki Tanaka",
+                "+@id": "9647"
+            }
+        },
+        {
             "+@gid": "1795658878",
             "task": "Storyboard",
             "person": {
                 "+content": "Tetsuro Araki",
                 "+@id": "21259"
+            }
+        },
+        {
+            "+@gid": "3089678395",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kuniyasu Nishina",
+                "+@id": "194074"
             }
         },
         {
@@ -282,11 +333,27 @@
             }
         },
         {
+            "+@gid": "1703448943",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Masaaki Tanaka",
+                "+@id": "9647"
+            }
+        },
+        {
             "+@gid": "2543769661",
             "task": "Unit Director",
             "person": {
                 "+content": "Tetsuro Araki",
                 "+@id": "21259"
+            }
+        },
+        {
+            "+@gid": "3672744684",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Kuniyasu Nishina",
+                "+@id": "194074"
             }
         },
         {
@@ -330,6 +397,14 @@
             }
         },
         {
+            "+@gid": "1478007358",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masaaki Tanaka",
+                "+@id": "9647"
+            }
+        },
+        {
             "+@gid": "3252227086",
             "task": "Animation Director",
             "person": {
@@ -360,9 +435,168 @@
                 "+content": "Yūki Kawashita",
                 "+@id": "89162"
             }
+        },
+        {
+            "+@gid": "2097130869",
+            "task": "Producer",
+            "person": {
+                "+content": "Junichirō Tanaka",
+                "+@id": "52141"
+            }
+        },
+        {
+            "+@gid": "1850024419",
+            "task": "Producer",
+            "person": {
+                "+content": "Takahiro Ishiyama",
+                "+@id": "143428"
+            }
+        },
+        {
+            "+@gid": "2738882854",
+            "task": "Producer",
+            "person": {
+                "+content": "Takuma Kishida",
+                "+@id": "181712"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "2020352838",
+            "+@lang": "EN",
+            "role": "Chinatsu Kano",
+            "person": {
+                "+content": "Xanthe Huynh",
+                "+@id": "69839"
+            }
+        },
+        {
+            "+@gid": "3289432061",
+            "+@lang": "EN",
+            "role": "Niina Shimazaki",
+            "person": {
+                "+content": "Kira Buckland",
+                "+@id": "70467"
+            }
+        },
+        {
+            "+@gid": "2116873325",
+            "+@lang": "EN",
+            "role": "Ryosuke Nishida",
+            "person": {
+                "+content": "Jacob Hopkins",
+                "+@id": "113240"
+            }
+        },
+        {
+            "+@gid": "2955130018",
+            "+@lang": "EN",
+            "role": "Kengo Haryu",
+            "person": {
+                "+content": "Daman Mills",
+                "+@id": "134672"
+            }
+        },
+        {
+            "+@gid": "2761175408",
+            "+@lang": "EN",
+            "role": "Taiki Inomata",
+            "person": {
+                "+content": "Zach Aguilar",
+                "+@id": "135560"
+            }
+        },
+        {
+            "+@gid": "3334270636",
+            "+@lang": "EN",
+            "role": "Shuji Yusa",
+            "person": {
+                "+content": "Griffin Burns",
+                "+@id": "145395"
+            }
+        },
+        {
+            "+@gid": "1059170624",
+            "+@lang": "EN",
+            "role": "Shota Hyodo",
+            "person": {
+                "+content": "Christian La Monte",
+                "+@id": "147409"
+            }
+        },
+        {
+            "+@gid": "601427607",
+            "+@lang": "EN",
+            "role": "Hina Chono",
+            "person": {
+                "+content": "Kayli Mills",
+                "+@id": "154655"
+            }
+        },
+        {
+            "+@gid": "2142219402",
+            "+@lang": "EN",
+            "role": "Nagisa Funami",
+            "person": {
+                "+content": "Emi Lo",
+                "+@id": "174014"
+            }
+        },
+        {
+            "+@gid": "2080802714",
+            "+@lang": "EN",
+            "role": "Karen Moriya",
+            "person": {
+                "+content": "Cristina Valenzuela",
+                "+@id": "204912"
+            }
+        },
+        {
+            "+@gid": "1546044087",
+            "+@lang": "EN",
+            "role": "Kyo Kasahara",
+            "person": {
+                "+content": "Caden Shaffer",
+                "+@id": "235038"
+            }
+        },
+        {
+            "+@gid": "3502694258",
+            "+@lang": "FR",
+            "role": "Taiki Inomata",
+            "person": {
+                "+content": "Pablo Cherray",
+                "+@id": "198663"
+            }
+        },
+        {
+            "+@gid": "2515303632",
+            "+@lang": "FR",
+            "role": "Chinastu Kano",
+            "person": {
+                "+content": "Elia-Carmine Robbe",
+                "+@id": "241218"
+            }
+        },
+        {
+            "+@gid": "2730828738",
+            "+@lang": "FR",
+            "role": "Kyō Kasahara",
+            "person": {
+                "+content": "Louis Lecordier",
+                "+@id": "242616"
+            }
+        },
+        {
+            "+@gid": "866529876",
+            "+@lang": "FR",
+            "role": "Hina Chōno",
+            "person": {
+                "+content": "Jehanne Thellier",
+                "+@id": "253417"
+            }
+        },
         {
             "+@gid": "1940401833",
             "+@lang": "JA",
@@ -391,6 +625,15 @@
             }
         },
         {
+            "+@gid": "1486675953",
+            "+@lang": "JA",
+            "role": "Karen Moriya",
+            "person": {
+                "+content": "Haruka Shiraishi",
+                "+@id": "104544"
+            }
+        },
+        {
             "+@gid": "2621039213",
             "+@lang": "JA",
             "role": "Chinatsu Kano",
@@ -415,6 +658,15 @@
             "person": {
                 "+content": "Akari Kitō",
                 "+@id": "130728"
+            }
+        },
+        {
+            "+@gid": "1141920270",
+            "+@lang": "JA",
+            "role": "Ayame Moriya",
+            "person": {
+                "+content": "Kana Ichinose",
+                "+@id": "164051"
             }
         },
         {
@@ -473,6 +725,6 @@
         }
     ],
     "+@date-added": "2023-11-21T03:58:59Z",
-    "+@date-last-modified-at": "2024-12-04T04:30:47Z",
-    "+@date-last-updated-at": "2024-12-04T04:30:47Z"
+    "+@date-last-modified-at": "2025-01-03T09:29:20Z",
+    "+@date-last-updated-at": "2025-01-03T09:29:20Z"
 }

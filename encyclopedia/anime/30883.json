@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Magilumiere Magical Girls Inc.",
     "+@precision": "TV",
-    "+@generated-on": "2024-12-04T04:14:09Z",
+    "+@generated-on": "2025-01-03T09:29:18Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25540"
+    },
+    "related-next": {
+        "+@id": "34218",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -41,7 +45,7 @@
             "+@lang": "EN"
         },
         {
-            "+content": "Kabushikigaisha Magilumiere",
+            "+content": "Kabushikigaisha Magilumière",
             "+@gid": "3667086907",
             "+@type": "Alternative title",
             "+@lang": "JA"
@@ -98,8 +102,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "5.9541"
+        "+@nb_votes": "27",
+        "+@weighted_score": "7.1957",
+        "+@bayesian_score": "7.28722"
     },
     "news": [
         {
@@ -166,6 +171,36 @@
             "+content": "<cite>Magilumiere Co. Ltd.</cite> Anime Casts Hiyori Kono, Hiroshi Naka",
             "+@datetime": "2024-12-03T10:47:32Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-03/magilumiere-co-ltd-anime-casts-hiyori-kono-hiroshi-naka/.218538"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, November 25-December 1",
+            "+@datetime": "2024-12-07T16:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-07/japanese-animation-tv-ranking-november-25-december-1/.218670"
+        },
+        {
+            "+content": "<cite>Magilumiere Co. Ltd.</cite> Anime Casts Yurina Amami",
+            "+@datetime": "2024-12-10T11:16:17Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-10/magilumiere-co-ltd-anime-casts-yurina-amami/.218838"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, December 2-8",
+            "+@datetime": "2024-12-14T14:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-14/japanese-animation-tv-ranking-december-2-8/.218985"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, December 9-15",
+            "+@datetime": "2024-12-21T16:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-21/japanese-animation-tv-ranking-december-9-15/.219307"
+        },
+        {
+            "+content": "<cite>Magilumiere Co. Ltd.</cite> Anime Gets 2nd Season",
+            "+@datetime": "2024-12-20T15:05:17Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-20/magilumiere-co-ltd-anime-gets-2nd-season/.219330"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, December 16-22",
+            "+@datetime": "2024-12-28T14:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-28/japanese-animation-tv-ranking-december-16-22/.219540"
         }
     ],
     "staff": [
@@ -194,6 +229,14 @@
             }
         },
         {
+            "+@gid": "742131933",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kōichi Ōhata",
+                "+@id": "135"
+            }
+        },
+        {
             "+@gid": "3535253579",
             "task": "Storyboard",
             "person": {
@@ -218,6 +261,30 @@
             }
         },
         {
+            "+@gid": "1400140399",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Akira Naito",
+                "+@id": "27781"
+            }
+        },
+        {
+            "+@gid": "1835201173",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kouichi Takada",
+                "+@id": "31361"
+            }
+        },
+        {
+            "+@gid": "2331403886",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shuuji Miyazaki",
+                "+@id": "49516"
+            }
+        },
+        {
             "+@gid": "2954903054",
             "task": "Storyboard",
             "person": {
@@ -231,6 +298,22 @@
             "person": {
                 "+content": "Masahiro Hiraoka",
                 "+@id": "94391"
+            }
+        },
+        {
+            "+@gid": "2609379983",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Teru Ishii",
+                "+@id": "185336"
+            }
+        },
+        {
+            "+@gid": "2319766200",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yōhei Suzuki",
+                "+@id": "274125"
             }
         },
         {
@@ -266,6 +349,14 @@
             }
         },
         {
+            "+@gid": "1719193757",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shuuji Miyazaki",
+                "+@id": "49516"
+            }
+        },
+        {
             "+@gid": "2776340093",
             "task": "Episode Director",
             "person": {
@@ -274,11 +365,27 @@
             }
         },
         {
+            "+@gid": "3557672207",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kouzou Kaihou",
+                "+@id": "152846"
+            }
+        },
+        {
             "+@gid": "2888104692",
             "task": "Episode Director",
             "person": {
                 "+content": "Kazuma Komatsu",
                 "+@id": "179394"
+            }
+        },
+        {
+            "+@gid": "2677988553",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Teru Ishii",
+                "+@id": "185336"
             }
         },
         {
@@ -362,11 +469,51 @@
             }
         },
         {
+            "+@gid": "2794382754",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yasuyuki Noda",
+                "+@id": "2271"
+            }
+        },
+        {
             "+@gid": "2501588926",
             "task": "Animation Director",
             "person": {
                 "+content": "Atsushi Aono",
                 "+@id": "5113"
+            }
+        },
+        {
+            "+@gid": "485645499",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Konomi Sakurai",
+                "+@id": "25200"
+            }
+        },
+        {
+            "+@gid": "1618965303",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Isamu Utsuki",
+                "+@id": "29650"
+            }
+        },
+        {
+            "+@gid": "3011189695",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ji Eun Kim",
+                "+@id": "34922"
+            }
+        },
+        {
+            "+@gid": "2364553179",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazuyuki Ikai",
+                "+@id": "35484"
             }
         },
         {
@@ -394,6 +541,14 @@
             }
         },
         {
+            "+@gid": "2368202135",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yoshikatsu Inoue",
+                "+@id": "41021"
+            }
+        },
+        {
             "+@gid": "1579988525",
             "task": "Animation Director",
             "person": {
@@ -410,11 +565,27 @@
             }
         },
         {
+            "+@gid": "551856476",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hyo Jung An",
+                "+@id": "61856"
+            }
+        },
+        {
             "+@gid": "2076631772",
             "task": "Animation Director",
             "person": {
                 "+content": "Yuka Kuroda",
                 "+@id": "78307"
+            }
+        },
+        {
+            "+@gid": "2553287082",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kaori Yokoe",
+                "+@id": "78919"
             }
         },
         {
@@ -434,11 +605,51 @@
             }
         },
         {
+            "+@gid": "2235521702",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Soon-Ok Park",
+                "+@id": "92243"
+            }
+        },
+        {
+            "+@gid": "1717385922",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Eun Soo Oh",
+                "+@id": "99330"
+            }
+        },
+        {
+            "+@gid": "2224328073",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Eunyoung Choi",
+                "+@id": "113506"
+            }
+        },
+        {
+            "+@gid": "2309374111",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Liang Chen",
+                "+@id": "114624"
+            }
+        },
+        {
             "+@gid": "3328760231",
             "task": "Animation Director",
             "person": {
                 "+content": "Saori Hosoda",
                 "+@id": "115250"
+            }
+        },
+        {
+            "+@gid": "1912005522",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jung Rim Kim",
+                "+@id": "116682"
             }
         },
         {
@@ -458,11 +669,51 @@
             }
         },
         {
+            "+@gid": "3516943502",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yong Xu Feng",
+                "+@id": "171681"
+            }
+        },
+        {
+            "+@gid": "741501372",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ryūtarō Yamada",
+                "+@id": "187805"
+            }
+        },
+        {
             "+@gid": "2766435290",
             "task": "Animation Director",
             "person": {
                 "+content": "Hoang My Linh Dang",
                 "+@id": "202786"
+            }
+        },
+        {
+            "+@gid": "2312272771",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Xu Long Wei",
+                "+@id": "209146"
+            }
+        },
+        {
+            "+@gid": "1677894222",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hee Jung Kim",
+                "+@id": "209528"
+            }
+        },
+        {
+            "+@gid": "2829127341",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Won Ha Cho",
+                "+@id": "210492"
             }
         },
         {
@@ -479,6 +730,14 @@
             "person": {
                 "+content": "Hyun-un Min",
                 "+@id": "242065"
+            }
+        },
+        {
+            "+@gid": "499460138",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mi Na Won",
+                "+@id": "246175"
             }
         },
         {
@@ -503,6 +762,22 @@
             "person": {
                 "+content": "Hyeok Jun Yoon",
                 "+@id": "260368"
+            }
+        },
+        {
+            "+@gid": "2156585282",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Xue Yu Liao",
+                "+@id": "264127"
+            }
+        },
+        {
+            "+@gid": "1289064765",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mikiko Inoue",
+                "+@id": "275184"
             }
         },
         {
@@ -613,6 +888,15 @@
             }
         },
         {
+            "+@gid": "2899473809",
+            "+@lang": "JA",
+            "role": "Akane Makino",
+            "person": {
+                "+content": "Yurina Amami",
+                "+@id": "159137"
+            }
+        },
+        {
             "+@gid": "1733555705",
             "+@lang": "JA",
             "role": "Hana Ginji",
@@ -650,6 +934,6 @@
         }
     ],
     "+@date-added": "2023-11-28T18:25:23Z",
-    "+@date-last-modified-at": "2024-12-04T04:30:47Z",
-    "+@date-last-updated-at": "2024-12-04T04:30:47Z"
+    "+@date-last-modified-at": "2025-01-03T09:29:20Z",
+    "+@date-last-updated-at": "2025-01-03T09:29:20Z"
 }
