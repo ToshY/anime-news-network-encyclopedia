@@ -4,36 +4,16 @@
     "+@type": "TV",
     "+@name": "MF Ghost",
     "+@precision": "TV 2",
-    "+@generated-on": "2024-12-04T03:57:45Z",
+    "+@generated-on": "2025-01-03T08:33:44Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "25108"
     },
+    "related-next": {
+        "+@id": "34228",
+        "+@rel": "sequel"
+    },
     "info": [
-        {
-            "+@gid": "1982905002",
-            "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A31074-1982905002.1717605747.jpg",
-            "+@width": "141",
-            "+@height": "200",
-            "img": [
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A31074-1982905002.1717605747.jpg",
-                    "+@width": "141",
-                    "+@height": "200"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A31074-1982905002.1717605747.jpg",
-                    "+@width": "424",
-                    "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A31074-1982905002.1717605747.jpg",
-                    "+@width": "532",
-                    "+@height": "752"
-                }
-            ]
-        },
         {
             "+@gid": "2161627587",
             "+@type": "Picture",
@@ -106,7 +86,7 @@
             "+@type": "Objectionable content"
         },
         {
-            "+content": "2024-10-06",
+            "+content": "2024-10-06 to 2024-12-22",
             "+@gid": "1805467217",
             "+@type": "Vintage"
         },
@@ -146,6 +126,26 @@
             "+@type": "Insert song"
         },
         {
+            "+content": "\"Burning Like Fire\" by Dave Rodgers feat. Alex De Rosso (eps 22-23)",
+            "+@gid": "1794178315",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Eurohero\" by Neo (ep 23)",
+            "+@gid": "1299078867",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Firebird\" by Dream Fighters (ep 23)",
+            "+@gid": "1457369203",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Freedom Ride\" by The Snake (ep 23)",
+            "+@gid": "4138608157",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "\"Go Wild\" by Dusty (ep 16)",
             "+@gid": "865915194",
             "+@type": "Insert song"
@@ -163,6 +163,11 @@
         {
             "+content": "\"Not For Sale\" by Go 2 (ep 16)",
             "+@gid": "939717881",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Play with Fire\" by Fastway (ep 24)",
+            "+@gid": "3845179116",
             "+@type": "Insert song"
         },
         {
@@ -201,8 +206,18 @@
             "+@type": "Insert song"
         },
         {
+            "+content": "\"The Final Game\" by Dave Rodgers & Kiko Loureiro (ep 24)",
+            "+@gid": "1845151013",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "\"The Jungle is on Fire\" by J-Stark (ep 17)",
             "+@gid": "2265240910",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"The Year of the Dragon\" by Powerful T. (ep 22)",
+            "+@gid": "2432272135",
             "+@type": "Insert song"
         },
         {
@@ -214,8 +229,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "6.8791"
+        "+@nb_votes": "17",
+        "+@weighted_score": "7.4447",
+        "+@bayesian_score": "7.45883"
     },
     "episode": [
         {
@@ -297,6 +313,22 @@
                 "+@gid": "1375579605",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "23",
+            "title": {
+                "+content": "The Cost of Courage",
+                "+@gid": "2911018801",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "24",
+            "title": {
+                "+content": "A Bitter Decision",
+                "+@gid": "1939267238",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -339,6 +371,11 @@
             "+content": "<cite>MF Ghost</cite> Anime's 2nd Season Previewed in 4th Promo Video",
             "+@datetime": "2024-11-22T09:53:31Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-11-22/mf-ghost-anime-2nd-season-previewed-in-4th-promo-video/.218173"
+        },
+        {
+            "+content": "<cite>MF Ghost</cite> Anime Gets 3rd Season",
+            "+@datetime": "2024-12-22T16:31:19Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-22/mf-ghost-anime-gets-3rd-season/.219412"
         }
     ],
     "staff": [
@@ -428,6 +465,14 @@
             "person": {
                 "+content": "Tomohito Naka",
                 "+@id": "75640"
+            }
+        },
+        {
+            "+@gid": "2563800720",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Royden B",
+                "+@id": "105300"
             }
         },
         {
@@ -703,11 +748,35 @@
             }
         },
         {
+            "+@gid": "143172141",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tetsutarō Yui",
+                "+@id": "106208"
+            }
+        },
+        {
+            "+@gid": "2092701149",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiroshi Matsumoto",
+                "+@id": "204480"
+            }
+        },
+        {
             "+@gid": "2577958472",
             "task": "Animation Director",
             "person": {
                 "+content": "Tsutomu Ōno",
                 "+@id": "225238"
+            }
+        },
+        {
+            "+@gid": "2005225303",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Haruka Ishibashi",
+                "+@id": "245267"
             }
         },
         {
@@ -933,6 +1002,15 @@
             "person": {
                 "+content": "Nasim Benelkour",
                 "+@id": "243087"
+            }
+        },
+        {
+            "+@gid": "2774822953",
+            "+@lang": "EN",
+            "role": "Sena Moroboshi",
+            "person": {
+                "+content": "Mauricio Ortiz-Segura",
+                "+@id": "244000"
             }
         },
         {
@@ -1282,6 +1360,6 @@
         }
     ],
     "+@date-added": "2023-12-17T20:39:54Z",
-    "+@date-last-modified-at": "2024-12-04T03:57:47Z",
-    "+@date-last-updated-at": "2024-12-04T03:57:47Z"
+    "+@date-last-modified-at": "2025-01-03T08:33:48Z",
+    "+@date-last-updated-at": "2025-01-03T08:33:48Z"
 }

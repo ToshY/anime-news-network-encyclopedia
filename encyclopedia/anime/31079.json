@@ -4,15 +4,21 @@
     "+@type": "movie",
     "+@name": "Eiga Oshiri Tantei Saraba Itoshiki Aibō (Oshiri) yo",
     "+@precision": "movie",
-    "+@generated-on": "2024-12-04T03:57:45Z",
+    "+@generated-on": "2025-01-03T08:33:44Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "25059"
     },
-    "related-next": {
-        "+@id": "31080",
-        "+@rel": "related"
-    },
+    "related-next": [
+        {
+            "+@id": "31080",
+            "+@rel": "related"
+        },
+        {
+            "+@id": "34203",
+            "+@rel": "sequel"
+        }
+    ],
     "info": [
         {
             "+@gid": "1997229872",
@@ -258,6 +264,6 @@
         }
     },
     "+@date-added": "2023-12-21T06:43:01Z",
-    "+@date-last-modified-at": "2024-12-04T03:57:47Z",
-    "+@date-last-updated-at": "2024-12-04T03:57:47Z"
+    "+@date-last-modified-at": "2025-01-03T08:33:48Z",
+    "+@date-last-updated-at": "2025-01-03T08:33:48Z"
 }

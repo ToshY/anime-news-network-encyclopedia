@@ -4,15 +4,21 @@
     "+@type": "movie",
     "+@name": "Eiga Crayon Shin-chan: Ora-tachi no Kyōryū Nikki",
     "+@precision": "movie",
-    "+@generated-on": "2024-12-04T03:57:46Z",
+    "+@generated-on": "2025-01-03T08:33:45Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26717"
     },
-    "related-next": {
-        "+@id": "33382",
-        "+@rel": "adaptation"
-    },
+    "related-next": [
+        {
+            "+@id": "33382",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "34171",
+            "+@rel": "sequel"
+        }
+    ],
     "info": [
         {
             "+@gid": "1587512196",
@@ -321,6 +327,6 @@
         }
     ],
     "+@date-added": "2023-12-09T06:52:29Z",
-    "+@date-last-modified-at": "2024-12-04T03:57:47Z",
-    "+@date-last-updated-at": "2024-12-04T03:57:47Z"
+    "+@date-last-modified-at": "2025-01-03T08:33:48Z",
+    "+@date-last-updated-at": "2025-01-03T08:33:48Z"
 }

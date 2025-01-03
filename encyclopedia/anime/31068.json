@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Chainsaw Man – The Movie: Reze Arc",
     "+@precision": "movie",
-    "+@generated-on": "2024-12-04T03:57:46Z",
+    "+@generated-on": "2025-01-03T08:33:44Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "23843"
@@ -13,18 +13,18 @@
         {
             "+@gid": "1640383298",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A31068-1640383298.1702807286.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A31068-1640383298.1734842344.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A31068-1640383298.1702807286.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A31068-1640383298.1734842344.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A31068-1640383298.1702807286.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A31068-1640383298.1734842344.jpg",
+                    "+@width": "425",
                     "+@height": "600"
                 }
             ]
@@ -48,6 +48,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "2025",
+            "+@gid": "2800372537",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "劇場版『チェンソーマン レゼ篇』",
             "+@gid": "2523309171",
             "+@type": "Official website",
@@ -55,28 +60,192 @@
             "+@href": "https://chainsawman.dog/movie_reze/"
         }
     ],
-    "news": {
-        "+content": "<cite>Chainsaw Man</cite> Anime Gets 'Reze Arc' Film",
-        "+@datetime": "2023-12-17T06:43:36Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2023-12-17/chainsaw-man-anime-gets-reze-arc-film/.205606"
-    },
-    "staff": {
-        "+@gid": "3071272367",
-        "task": "Original creator",
-        "person": {
-            "+content": "Tatsuki Fujimoto",
-            "+@id": "159143"
+    "news": [
+        {
+            "+content": "<cite>Chainsaw Man</cite> Anime Gets 'Reze Arc' Film",
+            "+@datetime": "2023-12-17T06:43:36Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2023-12-17/chainsaw-man-anime-gets-reze-arc-film/.205606"
+        },
+        {
+            "+content": "<cite>Chainsaw Man – The Movie: Reze Arc</cite> Anime Reveals 2025 Debut in New Trailer",
+            "+@datetime": "2024-12-22T03:35:50Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-21/chainsaw-man-the-movie-reze-arc-anime-reveals-2025-debut-in-new-trailer/.219389"
         }
-    },
-    "cast": {
-        "+@gid": "3367302072",
-        "+@lang": "JA",
-        "role": "Reze",
-        "person": {
-            "+content": "Reina Ueda",
-            "+@id": "116390"
+    ],
+    "staff": [
+        {
+            "+@gid": "2744565687",
+            "task": "Director",
+            "person": {
+                "+content": "Tatsuya Yoshihara",
+                "+@id": "79001"
+            }
+        },
+        {
+            "+@gid": "1417525887",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Hiroshi Seko",
+                "+@id": "78744"
+            }
+        },
+        {
+            "+@gid": "2414470088",
+            "task": "Music",
+            "person": {
+                "+content": "kensuke ushio",
+                "+@id": "125625"
+            }
+        },
+        {
+            "+@gid": "3071272367",
+            "task": "Original creator",
+            "person": {
+                "+content": "Tatsuki Fujimoto",
+                "+@id": "159143"
+            }
+        },
+        {
+            "+@gid": "2316963353",
+            "task": "Character Design",
+            "person": {
+                "+content": "Kazutaka Sugiyama",
+                "+@id": "137164"
+            }
+        },
+        {
+            "+@gid": "2870158426",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yūsuke Takeda",
+                "+@id": "311"
+            }
+        },
+        {
+            "+@gid": "788327648",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kazutaka Sugiyama",
+                "+@id": "137164"
+            }
+        },
+        {
+            "+@gid": "1434553108",
+            "task": "3D Director",
+            "person": {
+                "+content": "Masahiro Tamai",
+                "+@id": "116469"
+            }
+        },
+        {
+            "+@gid": "565236598",
+            "task": "3D Director",
+            "person": {
+                "+content": "Daiki Watanabe",
+                "+@id": "216755"
+            }
+        },
+        {
+            "+@gid": "2100093418",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Teppei Ito",
+                "+@id": "166358"
+            }
         }
-    },
+    ],
+    "cast": [
+        {
+            "+@gid": "2367818288",
+            "+@lang": "JA",
+            "role": "Violence Fiend",
+            "person": {
+                "+content": "Yūya Uchida",
+                "+@id": "63485"
+            }
+        },
+        {
+            "+@gid": "1423803226",
+            "+@lang": "JA",
+            "role": "Pochita",
+            "person": {
+                "+content": "Shiori Izawa",
+                "+@id": "74850"
+            }
+        },
+        {
+            "+@gid": "1845106270",
+            "+@lang": "JA",
+            "role": "Angel Devil",
+            "person": {
+                "+content": "Maaya Uchida",
+                "+@id": "94314"
+            }
+        },
+        {
+            "+@gid": "3358781942",
+            "+@lang": "JA",
+            "role": "Beam (Shark Fiend)",
+            "person": {
+                "+content": "Natsuki Hanae",
+                "+@id": "106773"
+            }
+        },
+        {
+            "+@gid": "3367302072",
+            "+@lang": "JA",
+            "role": "Reze",
+            "person": {
+                "+content": "Reina Ueda",
+                "+@id": "116390"
+            }
+        },
+        {
+            "+@gid": "2033547678",
+            "+@lang": "JA",
+            "role": "Kobeni Higashiyama",
+            "person": {
+                "+content": "Karin Takahashi",
+                "+@id": "128601"
+            }
+        },
+        {
+            "+@gid": "1076648454",
+            "+@lang": "JA",
+            "role": "Makima",
+            "person": {
+                "+content": "Tomori Kusunoki",
+                "+@id": "158678"
+            }
+        },
+        {
+            "+@gid": "1871647019",
+            "+@lang": "JA",
+            "role": "Aki Hayakawa",
+            "person": {
+                "+content": "Shōgo Sakata",
+                "+@id": "177307"
+            }
+        },
+        {
+            "+@gid": "1518510806",
+            "+@lang": "JA",
+            "role": "Power",
+            "person": {
+                "+content": "Fairouz Ai",
+                "+@id": "215531"
+            }
+        },
+        {
+            "+@gid": "2329408641",
+            "+@lang": "JA",
+            "role": "Denji",
+            "person": {
+                "+content": "Kikunosuke Toya",
+                "+@id": "222634"
+            }
+        }
+    ],
     "credit": {
         "+@gid": "1662498567",
         "task": "Animation Production",
@@ -86,6 +255,6 @@
         }
     },
     "+@date-added": "2023-12-17T04:59:45Z",
-    "+@date-last-modified-at": "2024-12-04T03:57:47Z",
-    "+@date-last-updated-at": "2024-12-04T03:57:47Z"
+    "+@date-last-modified-at": "2025-01-03T08:33:48Z",
+    "+@date-last-updated-at": "2025-01-03T08:33:48Z"
 }
