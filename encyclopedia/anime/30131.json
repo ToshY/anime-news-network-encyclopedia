@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Bleach: Thousand-Year Blood War Part 3 - The Conflict",
     "+@precision": "TV 3",
-    "+@generated-on": "2024-12-04T04:46:46Z",
+    "+@generated-on": "2025-01-03T10:09:00Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26771"
+    },
+    "related-next": {
+        "+@id": "34242",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -53,6 +57,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "action",
+            "+@gid": "2828458885",
+            "+@type": "Genres"
+        },
+        {
             "+content": "2024-10-05",
             "+@gid": "1082027084",
             "+@type": "Vintage"
@@ -76,8 +85,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "6",
-        "+@weighted_score": "8.7086"
+        "+@nb_votes": "25",
+        "+@weighted_score": "8.0294",
+        "+@bayesian_score": "7.84052"
     },
     "news": [
         {
@@ -114,6 +124,11 @@
             "+content": "<cite>Bleach: Thousand-Year Blood War Part 3 - The Conflict's</cite> English Dub Debuts in U.S. on November 23",
             "+@datetime": "2024-11-20T02:07:54Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-11-19/bleach-thousand-year-blood-war-part-3-the-conflict-english-dub-debuts-in-u.s-on-november-23/.218054"
+        },
+        {
+            "+content": "<cite>Bleach: Thousand-Year Blood War</cite> Anime Reveals More Cast, 1-Hour Final Episode For Show's 3rd Part",
+            "+@datetime": "2024-12-16T11:14:30Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-16/bleach-thousand-year-blood-war-anime-reveals-more-cast-1-hour-final-episode-for-show-3rd-part/.219140"
         }
     ],
     "staff": [
@@ -174,6 +189,14 @@
             }
         },
         {
+            "+@gid": "2192977144",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Toshiyuki Tsuru",
+                "+@id": "14948"
+            }
+        },
+        {
             "+@gid": "1536403497",
             "task": "Storyboard",
             "person": {
@@ -227,6 +250,14 @@
             "person": {
                 "+content": "Shinichirō Ueda",
                 "+@id": "169990"
+            }
+        },
+        {
+            "+@gid": "1753085435",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Itoko Nagai",
+                "+@id": "171309"
             }
         },
         {
@@ -414,6 +445,14 @@
             }
         },
         {
+            "+@gid": "2422189548",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiroto Tanaka",
+                "+@id": "4609"
+            }
+        },
+        {
             "+@gid": "2661511844",
             "task": "Animation Director",
             "person": {
@@ -470,6 +509,14 @@
             }
         },
         {
+            "+@gid": "2584996070",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Michio Hasegawa",
+                "+@id": "65313"
+            }
+        },
+        {
             "+@gid": "3502155120",
             "task": "Animation Director",
             "person": {
@@ -510,6 +557,14 @@
             }
         },
         {
+            "+@gid": "3075718795",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Teruko Takeshima",
+                "+@id": "117055"
+            }
+        },
+        {
             "+@gid": "408539538",
             "task": "Animation Director",
             "person": {
@@ -539,6 +594,14 @@
             "person": {
                 "+content": "Ayako Satō",
                 "+@id": "177133"
+            }
+        },
+        {
+            "+@gid": "1603512610",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Young Hoon Jung",
+                "+@id": "203259"
             }
         },
         {
@@ -785,6 +848,15 @@
             }
         },
         {
+            "+@gid": "3221519696",
+            "+@lang": "EN",
+            "role": "Nelliel Tu Odelschwanck",
+            "person": {
+                "+content": "Colleen O'Shaughnessey",
+                "+@id": "39810"
+            }
+        },
+        {
             "+@gid": "1501393667",
             "+@lang": "EN",
             "role": "Grimmjow Jaegerjaquez",
@@ -803,12 +875,39 @@
             }
         },
         {
+            "+@gid": "1995501401",
+            "+@lang": "EN",
+            "role": "Yukio Hans Vorarlberna",
+            "person": {
+                "+content": "Lucien Dodge",
+                "+@id": "62696"
+            }
+        },
+        {
             "+@gid": "2099710072",
             "+@lang": "EN",
             "role": "Liltotto Lamperd",
             "person": {
                 "+content": "Cherami Leigh",
                 "+@id": "64331"
+            }
+        },
+        {
+            "+@gid": "2117939239",
+            "+@lang": "EN",
+            "role": "Riruka Dokugamine",
+            "person": {
+                "+content": "Cristina Vee",
+                "+@id": "68135"
+            }
+        },
+        {
+            "+@gid": "936562745",
+            "+@lang": "EN",
+            "role": "Giselle Gewelle",
+            "person": {
+                "+content": "Casey Mongillo",
+                "+@id": "74826"
             }
         },
         {
@@ -842,6 +941,15 @@
             "+@gid": "821612649",
             "+@lang": "EN",
             "role": "Bazz-B",
+            "person": {
+                "+content": "Xander Mobus",
+                "+@id": "150662"
+            }
+        },
+        {
+            "+@gid": "2195439721",
+            "+@lang": "EN",
+            "role": "Pernida Parnkgjas",
             "person": {
                 "+content": "Xander Mobus",
                 "+@id": "150662"
@@ -884,6 +992,402 @@
             }
         },
         {
+            "+@gid": "2449102135",
+            "+@lang": "FR",
+            "role": "Askin Nakk Le Vaar",
+            "person": {
+                "+content": "Donald Reignoux",
+                "+@id": "3735"
+            }
+        },
+        {
+            "+@gid": "1779689565",
+            "+@lang": "FR",
+            "role": "Bazz-B",
+            "person": {
+                "+content": "Benjamin Pascal",
+                "+@id": "43197"
+            }
+        },
+        {
+            "+@gid": "2477684345",
+            "+@lang": "FR",
+            "role": "Lille Barro",
+            "person": {
+                "+content": "Benjamin Pascal",
+                "+@id": "43197"
+            }
+        },
+        {
+            "+@gid": "2280504799",
+            "+@lang": "FR",
+            "role": "Ichigo Kurosaki",
+            "person": {
+                "+content": "Vincent De Bouard",
+                "+@id": "45719"
+            }
+        },
+        {
+            "+@gid": "1129512807",
+            "+@lang": "FR",
+            "role": "Orihime Inoue",
+            "person": {
+                "+content": "Isabelle Volpe",
+                "+@id": "51640"
+            }
+        },
+        {
+            "+@gid": "2485226495",
+            "+@lang": "FR",
+            "role": "Yoruichi Shihoin",
+            "person": {
+                "+content": "Claudine Grémy",
+                "+@id": "53157"
+            }
+        },
+        {
+            "+@gid": "1386865745",
+            "+@lang": "FR",
+            "role": "Rukia Kuchiki",
+            "person": {
+                "+content": "Francoise Escobar",
+                "+@id": "53712"
+            }
+        },
+        {
+            "+@gid": "743833205",
+            "+@lang": "FR",
+            "role": "Renji Abarai",
+            "person": {
+                "+content": "Nicolas Beaucaire",
+                "+@id": "55615"
+            }
+        },
+        {
+            "+@gid": "1955811827",
+            "+@lang": "FR",
+            "role": "Isshin Kurosaki",
+            "person": {
+                "+content": "Frédéric Souterelle",
+                "+@id": "55617"
+            }
+        },
+        {
+            "+@gid": "2112495172",
+            "+@lang": "FR",
+            "role": "Kenpachi Zaraki",
+            "person": {
+                "+content": "Frédéric Souterelle",
+                "+@id": "55617"
+            }
+        },
+        {
+            "+@gid": "2228573036",
+            "+@lang": "FR",
+            "role": "Shunsui Kyōraku",
+            "person": {
+                "+content": "Frédéric Souterelle",
+                "+@id": "55617"
+            }
+        },
+        {
+            "+@gid": "2350713291",
+            "+@lang": "FR",
+            "role": "Sōsuke Aizen",
+            "person": {
+                "+content": "Frédéric Souterelle",
+                "+@id": "55617"
+            }
+        },
+        {
+            "+@gid": "1683832965",
+            "+@lang": "FR",
+            "role": "Jūshirō Ukitake",
+            "person": {
+                "+content": "Francis Benoit",
+                "+@id": "58498"
+            }
+        },
+        {
+            "+@gid": "3108328986",
+            "+@lang": "FR",
+            "role": "Shinji Hirako",
+            "person": {
+                "+content": "Philippe Namann",
+                "+@id": "60860"
+            }
+        },
+        {
+            "+@gid": "1409756219",
+            "+@lang": "FR",
+            "role": "Soi Fon",
+            "person": {
+                "+content": "Isabelle Noérie",
+                "+@id": "60863"
+            }
+        },
+        {
+            "+@gid": "1867709121",
+            "+@lang": "FR",
+            "role": "Kisuke Urahara",
+            "person": {
+                "+content": "Yannick Bellissard",
+                "+@id": "64314"
+            }
+        },
+        {
+            "+@gid": "3694814750",
+            "+@lang": "FR",
+            "role": "Grimmjow Jaegerjaquez",
+            "person": {
+                "+content": "Renaud Heine",
+                "+@id": "65077"
+            }
+        },
+        {
+            "+@gid": "3970870008",
+            "+@lang": "FR",
+            "role": "Uryū Ishida",
+            "person": {
+                "+content": "Philippe Siboulet",
+                "+@id": "66360"
+            }
+        },
+        {
+            "+@gid": "517092137",
+            "+@lang": "FR",
+            "role": "Liltotto Lamperd",
+            "person": {
+                "+content": "Céline Rotard",
+                "+@id": "67588"
+            }
+        },
+        {
+            "+@gid": "1759201492",
+            "+@lang": "FR",
+            "role": "Byakuya Kuchiki",
+            "person": {
+                "+content": "Marc-Antoine Frédéric",
+                "+@id": "68112"
+            }
+        },
+        {
+            "+@gid": "1602347903",
+            "+@lang": "FR",
+            "role": "Ikkaku Madarame",
+            "person": {
+                "+content": "Jean-Pierre Leblan",
+                "+@id": "68126"
+            }
+        },
+        {
+            "+@gid": "2612117092",
+            "+@lang": "FR",
+            "role": "Mayuri Kurotsuchi",
+            "person": {
+                "+content": "Jean-Pierre Leblan",
+                "+@id": "68126"
+            }
+        },
+        {
+            "+@gid": "2942225728",
+            "+@lang": "FR",
+            "role": "Retsu Unohana",
+            "person": {
+                "+content": "Emma Darmon",
+                "+@id": "68128"
+            }
+        },
+        {
+            "+@gid": "2987567230",
+            "+@lang": "FR",
+            "role": "Yhwach",
+            "person": {
+                "+content": "Daniel Njo Lobé",
+                "+@id": "207335"
+            }
+        },
+        {
+            "+@gid": "1588551134",
+            "+@lang": "FR",
+            "role": "Yasutora \"Chad\" Sado",
+            "person": {
+                "+content": "Bruno Amiet",
+                "+@id": "228474"
+            }
+        },
+        {
+            "+@gid": "3450571116",
+            "+@lang": "FR",
+            "role": "Jugram Haschwalth",
+            "person": {
+                "+content": "Elian Villain",
+                "+@id": "236213"
+            }
+        },
+        {
+            "+@gid": "2509220990",
+            "+@lang": "FR",
+            "role": "Gerard Valkyrie",
+            "person": {
+                "+content": "Gwendal Audrain",
+                "+@id": "274861"
+            }
+        },
+        {
+            "+@gid": "3246243633",
+            "+@lang": "IT",
+            "role": "Kenpachi Zaraki",
+            "person": {
+                "+content": "Marco Balzarotti",
+                "+@id": "25937"
+            }
+        },
+        {
+            "+@gid": "2892950680",
+            "+@lang": "IT",
+            "role": "Uryu Ishida",
+            "person": {
+                "+content": "Ruggero Andreozzi",
+                "+@id": "68702"
+            }
+        },
+        {
+            "+@gid": "2502250936",
+            "+@lang": "IT",
+            "role": "Yoruichi Shihoin",
+            "person": {
+                "+content": "Ludovica De Caro",
+                "+@id": "71143"
+            }
+        },
+        {
+            "+@gid": "1503013006",
+            "+@lang": "IT",
+            "role": "Soi Fon",
+            "person": {
+                "+content": "Giuliana Atepi",
+                "+@id": "73914"
+            }
+        },
+        {
+            "+@gid": "1148790974",
+            "+@lang": "IT",
+            "role": "Jugram Haschwalth",
+            "person": {
+                "+content": "Maurizio Merluzzo",
+                "+@id": "74590"
+            }
+        },
+        {
+            "+@gid": "1850015408",
+            "+@lang": "IT",
+            "role": "Mayuri Kurotsuchi",
+            "person": {
+                "+content": "Roberto Accornero",
+                "+@id": "86397"
+            }
+        },
+        {
+            "+@gid": "2512825502",
+            "+@lang": "IT",
+            "role": "Shinji Hirako",
+            "person": {
+                "+content": "Simone Lupinacci",
+                "+@id": "95303"
+            }
+        },
+        {
+            "+@gid": "1927829703",
+            "+@lang": "IT",
+            "role": "Ichigo Kurosaki",
+            "person": {
+                "+content": "Federico Viola",
+                "+@id": "123422"
+            }
+        },
+        {
+            "+@gid": "2400163869",
+            "+@lang": "IT",
+            "role": "Yasutora 'Chad' Sado",
+            "person": {
+                "+content": "Marcello Moronesi",
+                "+@id": "152725"
+            }
+        },
+        {
+            "+@gid": "2868087818",
+            "+@lang": "IT",
+            "role": "Kisuke Urahara",
+            "person": {
+                "+content": "Matteo De Mojana",
+                "+@id": "153661"
+            }
+        },
+        {
+            "+@gid": "2350955111",
+            "+@lang": "IT",
+            "role": "Rukia Kuchiki",
+            "person": {
+                "+content": "Martina Tamburello",
+                "+@id": "155039"
+            }
+        },
+        {
+            "+@gid": "2917415482",
+            "+@lang": "IT",
+            "role": "Orihime Inoue",
+            "person": {
+                "+content": "Giada Bonanomi",
+                "+@id": "166899"
+            }
+        },
+        {
+            "+@gid": "2181542989",
+            "+@lang": "IT",
+            "role": "Jushiro Ukitake",
+            "person": {
+                "+content": "Loris Bondesan",
+                "+@id": "180260"
+            }
+        },
+        {
+            "+@gid": "2092793475",
+            "+@lang": "IT",
+            "role": "Retsu Unohana",
+            "person": {
+                "+content": "Ilaria Silvestri",
+                "+@id": "182640"
+            }
+        },
+        {
+            "+@gid": "3996983028",
+            "+@lang": "IT",
+            "role": "Shunsui Kyoraku",
+            "person": {
+                "+content": "Andrea La Greca",
+                "+@id": "190545"
+            }
+        },
+        {
+            "+@gid": "967963957",
+            "+@lang": "IT",
+            "role": "Byakuya Kuchiki",
+            "person": {
+                "+content": "Alessandro Fattori",
+                "+@id": "191772"
+            }
+        },
+        {
+            "+@gid": "2331691829",
+            "+@lang": "IT",
+            "role": "Renji Abarai",
+            "person": {
+                "+content": "Davide Fazio",
+                "+@id": "211164"
+            }
+        },
+        {
             "+@gid": "1595654110",
             "+@lang": "JA",
             "role": "Yoruichi Shihōin",
@@ -899,6 +1403,15 @@
             "person": {
                 "+content": "Houko Kuwashima",
                 "+@id": "281"
+            }
+        },
+        {
+            "+@gid": "387792966",
+            "+@lang": "JA",
+            "role": "Ryūken Ishida",
+            "person": {
+                "+content": "Ken Narita",
+                "+@id": "285"
             }
         },
         {
@@ -1109,6 +1622,15 @@
             }
         },
         {
+            "+@gid": "2596356843",
+            "+@lang": "JA",
+            "role": "Jugo",
+            "person": {
+                "+content": "Marina Inoue",
+                "+@id": "20999"
+            }
+        },
+        {
             "+@gid": "2669362408",
             "+@lang": "JA",
             "role": "Ichigo Kurosaki",
@@ -1124,6 +1646,15 @@
             "person": {
                 "+content": "Hiroki Yasumoto",
                 "+@id": "30785"
+            }
+        },
+        {
+            "+@gid": "409901244",
+            "+@lang": "JA",
+            "role": "Yūshirō Shihōin",
+            "person": {
+                "+content": "Hiromi Igarashi",
+                "+@id": "34411"
             }
         },
         {
@@ -1188,6 +1719,15 @@
                 "+content": "Shunsuke Takeuchi",
                 "+@id": "132044"
             }
+        },
+        {
+            "+@gid": "854311486",
+            "+@lang": "JA",
+            "role": "Bazz",
+            "person": {
+                "+content": "Chiaki Kobayashi",
+                "+@id": "176057"
+            }
         }
     ],
     "credit": {
@@ -1199,6 +1739,6 @@
         }
     },
     "+@date-added": "2023-09-30T17:03:45Z",
-    "+@date-last-modified-at": "2024-12-04T04:46:47Z",
-    "+@date-last-updated-at": "2024-12-04T04:46:47Z"
+    "+@date-last-modified-at": "2025-01-03T10:33:30Z",
+    "+@date-last-updated-at": "2025-01-03T10:33:30Z"
 }
