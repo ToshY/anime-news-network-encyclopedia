@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Ranma ½",
     "+@precision": "TV 2024",
-    "+@generated-on": "2024-12-03T23:34:21Z",
+    "+@generated-on": "2025-01-03T02:57:29Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "2436"
+    },
+    "related-next": {
+        "+@id": "34225",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -107,6 +111,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "3115198265",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2024-10-05",
             "+@gid": "1659833867",
             "+@type": "Vintage"
@@ -130,8 +139,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "7",
-        "+@weighted_score": "8.2233"
+        "+@nb_votes": "42",
+        "+@weighted_score": "7.8468",
+        "+@bayesian_score": "7.75946"
     },
     "episode": [
         {
@@ -195,6 +205,38 @@
             "title": {
                 "+content": "Darling Charlotte",
                 "+@gid": "2369976311",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "I'll Never Let Go",
+                "+@gid": "1448875755",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "Kiss of Death",
+                "+@gid": "2860947462",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "You I Love",
+                "+@gid": "3167183416",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Shampoo Cleans Up",
+                "+@gid": "494659755",
                 "+@lang": "EN"
             }
         }
@@ -279,6 +321,11 @@
             "+content": "<cite>Dragon Ball Daima, DAN DA DAN, Ranma 1/2</cite> Anime Rank on Netflix Weekly Global Non-English TV Shows List",
             "+@datetime": "2024-11-02T03:15:46Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-11-01/dragon-ball-daima-dan-da-dan-ranma-1-2-anime-rank-on-netflix-weekly-global-non-english-tv-shows-list/.217445"
+        },
+        {
+            "+content": "New <cite>Ranma 1/2</cite> Anime Gets 2nd Season",
+            "+@datetime": "2024-12-21T17:18:04Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-21/new-ranma-1-2-anime-gets-2nd-season/.219377"
         }
     ],
     "staff": [
@@ -451,7 +498,7 @@
             }
         },
         {
-            "+@gid": "1624083158",
+            "+@gid": "1071344239",
             "task": "Episode Director",
             "person": {
                 "+content": "Parako Shinohara",
@@ -899,6 +946,15 @@
             }
         },
         {
+            "+@gid": "1488899676",
+            "+@lang": "EN",
+            "role": "Shampoo",
+            "person": {
+                "+content": "Grace Lu",
+                "+@id": "118077"
+            }
+        },
+        {
             "+@gid": "1175458053",
             "+@lang": "EN",
             "role": "Ranma Saotome",
@@ -1160,6 +1216,15 @@
             }
         },
         {
+            "+@gid": "1097277879",
+            "+@lang": "ES",
+            "role": "Shampoo",
+            "person": {
+                "+content": "Lilian Rodas",
+                "+@id": "214376"
+            }
+        },
+        {
             "+@gid": "1127873444",
             "+@lang": "ES",
             "role": "Mikado Sanzenin",
@@ -1394,6 +1459,15 @@
             }
         },
         {
+            "+@gid": "2825312201",
+            "+@lang": "IT",
+            "role": "Shampoo",
+            "person": {
+                "+content": "Veronica Cuscusa",
+                "+@id": "166939"
+            }
+        },
+        {
             "+@gid": "2544187655",
             "+@lang": "IT",
             "role": "Dottor Ono Tofu",
@@ -1535,6 +1609,15 @@
             "person": {
                 "+content": "Ayane Sakura",
                 "+@id": "94383"
+            }
+        },
+        {
+            "+@gid": "1507003732",
+            "+@lang": "PT",
+            "role": "Shampoo",
+            "person": {
+                "+content": "Márcia Regina",
+                "+@id": "48733"
             }
         },
         {
@@ -1697,6 +1780,6 @@
         }
     ],
     "+@date-added": "2024-07-17T06:13:08Z",
-    "+@date-last-modified-at": "2024-12-03T23:34:22Z",
-    "+@date-last-updated-at": "2024-12-03T23:34:22Z"
+    "+@date-last-modified-at": "2025-01-03T02:57:30Z",
+    "+@date-last-updated-at": "2025-01-03T02:57:30Z"
 }
