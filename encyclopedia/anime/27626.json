@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "BLUE LOCK 2nd Season",
     "+@precision": "TV 2",
-    "+@generated-on": "2024-12-04T06:36:10Z",
+    "+@generated-on": "2025-01-03T15:29:39Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24623"
@@ -78,7 +78,7 @@
             "+@type": "Themes"
         },
         {
-            "+content": "Yoichi Isagi has made it to the next stage of Blue Lock with a handful of select players, but now it looks like their next test will be defending Blue Lock from getting shut down. With the legitimacy of Ego's training methods being questioned, a special match is being set up between Blue Lock's star players and U2 Japan, with the future of Japanese soccer being put on the line. Isagi is still far off from the number one spot, but he is determined to adapt and find new chemical reactions that will allow him to steal the show.",
+            "+content": "Yoichi Isagi has made it to the next stage of Blue Lock with a handful of select players, but now it looks like their next test will be defending Blue Lock from getting shut down. With the legitimacy of Ego's training methods being questioned, a special match is being set up between Blue Lock's star players and U-20 Japan, with the future of Japanese soccer being put on the line. Isagi is still far off from the number one spot, but he is determined to adapt and find new chemical reactions that will allow him to steal the show.",
             "+@gid": "2230460499",
             "+@type": "Plot Summary"
         },
@@ -111,8 +111,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "3.8983"
+        "+@nb_votes": "21",
+        "+@weighted_score": "6.4725",
+        "+@bayesian_score": "6.85665"
     },
     "episode": [
         {
@@ -186,6 +187,46 @@
                 "+@gid": "3175111036",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "34",
+            "title": {
+                "+content": "The Subs Take to the Stage",
+                "+@gid": "3059098444",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "35",
+            "title": {
+                "+content": "What You Taught Us",
+                "+@gid": "1848867183",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "36",
+            "title": {
+                "+content": "Flowers",
+                "+@gid": "2474682382",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "37",
+            "title": {
+                "+content": "Not Alone",
+                "+@gid": "2103621330",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "38",
+            "title": {
+                "+content": "Last Attack",
+                "+@gid": "2347322344",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -253,6 +294,11 @@
             "+content": "<cite>BLUELOCK</cite> Season 2 Anime Streams Player Intro Videos, Reveals 9 More Cast Members",
             "+@datetime": "2024-11-03T03:58:29Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-11-02/bluelock-season-2-anime-streams-player-intro-videos-reveals-9-more-cast-members/.217456"
+        },
+        {
+            "+content": "<cite>BLUELOCK</cite> Season 2 Anime Casts Mamoru Miyano",
+            "+@datetime": "2024-12-30T14:58:12Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-30/bluelock-season-2-anime-casts-mamoru-miyano/.219607"
         }
     ],
     "staff": [
@@ -604,12 +650,39 @@
             }
         },
         {
+            "+@gid": "1255916029",
+            "+@lang": "EN",
+            "role": "Oliver Aiku",
+            "person": {
+                "+content": "Cody Savoie",
+                "+@id": "176193"
+            }
+        },
+        {
+            "+@gid": "1506232924",
+            "+@lang": "EN",
+            "role": "Itsuki Wakatsuki",
+            "person": {
+                "+content": "Branden Loera",
+                "+@id": "182959"
+            }
+        },
+        {
             "+@gid": "3633064779",
             "+@lang": "EN",
             "role": "Oliver Aiku",
             "person": {
                 "+content": "Jonah Scott",
                 "+@id": "184821"
+            }
+        },
+        {
+            "+@gid": "3648571411",
+            "+@lang": "EN",
+            "role": "Teru Kitsunesato",
+            "person": {
+                "+content": "Comona Lewin",
+                "+@id": "187039"
             }
         },
         {
@@ -658,12 +731,39 @@
             }
         },
         {
+            "+@gid": "3305079368",
+            "+@lang": "EN",
+            "role": "Miroku Darai",
+            "person": {
+                "+content": "Yussef Benelbar",
+                "+@id": "229587"
+            }
+        },
+        {
             "+@gid": "1525729640",
             "+@lang": "FR",
             "role": "Shidou Ryusei",
             "person": {
                 "+content": "Arthur Pestel",
                 "+@id": "38726"
+            }
+        },
+        {
+            "+@gid": "3647918948",
+            "+@lang": "FR",
+            "role": "Miroku Darai",
+            "person": {
+                "+content": "Simon Koukissa",
+                "+@id": "57321"
+            }
+        },
+        {
+            "+@gid": "3210305794",
+            "+@lang": "FR",
+            "role": "Teppei Neru",
+            "person": {
+                "+content": "Olivier Podesta",
+                "+@id": "60646"
             }
         },
         {
@@ -676,9 +776,36 @@
             }
         },
         {
+            "+@gid": "2015571682",
+            "+@lang": "FR",
+            "role": "Gen Fukaku",
+            "person": {
+                "+content": "Stéphane Marais",
+                "+@id": "68487"
+            }
+        },
+        {
+            "+@gid": "1727163070",
+            "+@lang": "FR",
+            "role": "Kazuma Niō",
+            "person": {
+                "+content": "Jérémy Zylberberg",
+                "+@id": "70472"
+            }
+        },
+        {
             "+@gid": "3644606942",
             "+@lang": "FR",
             "role": "Eita Otoya",
+            "person": {
+                "+content": "Brice Ournac",
+                "+@id": "136551"
+            }
+        },
+        {
+            "+@gid": "3851565304",
+            "+@lang": "FR",
+            "role": "Teru Kitsunesato",
             "person": {
                 "+content": "Brice Ournac",
                 "+@id": "136551"
@@ -739,6 +866,15 @@
             }
         },
         {
+            "+@gid": "3032065556",
+            "+@lang": "FR",
+            "role": "Julian Loki",
+            "person": {
+                "+content": "Jhos Lican",
+                "+@id": "184077"
+            }
+        },
+        {
             "+@gid": "1603669922",
             "+@lang": "FR",
             "role": "Reo Mikage",
@@ -763,6 +899,24 @@
             "person": {
                 "+content": "Diane Kristanek",
                 "+@id": "188303"
+            }
+        },
+        {
+            "+@gid": "2392970255",
+            "+@lang": "FR",
+            "role": "Kento Chō",
+            "person": {
+                "+content": "Cédric Lemaire",
+                "+@id": "191337"
+            }
+        },
+        {
+            "+@gid": "732885421",
+            "+@lang": "FR",
+            "role": "Nijiro Nanase",
+            "person": {
+                "+content": "Cédric Lemaire",
+                "+@id": "191337"
             }
         },
         {
@@ -793,6 +947,15 @@
             }
         },
         {
+            "+@gid": "1013244855",
+            "+@lang": "FR",
+            "role": "Yō Hiori",
+            "person": {
+                "+content": "Jean-Baptiste Maunier",
+                "+@id": "206092"
+            }
+        },
+        {
             "+@gid": "917634121",
             "+@lang": "FR",
             "role": "Yoichi Isagi",
@@ -811,6 +974,15 @@
             }
         },
         {
+            "+@gid": "3500131789",
+            "+@lang": "FR",
+            "role": "Shūto Sendō",
+            "person": {
+                "+content": "Benoît Cauden",
+                "+@id": "208163"
+            }
+        },
+        {
             "+@gid": "2480558689",
             "+@lang": "FR",
             "role": "Rin Itoshi",
@@ -820,12 +992,39 @@
             }
         },
         {
+            "+@gid": "2025419761",
+            "+@lang": "FR",
+            "role": "Leonardo Luna",
+            "person": {
+                "+content": "Thierry Gondet",
+                "+@id": "213409"
+            }
+        },
+        {
             "+@gid": "1706336078",
             "+@lang": "FR",
             "role": "Gin Gagamaru",
             "person": {
                 "+content": "Thomas Debaene",
                 "+@id": "214826"
+            }
+        },
+        {
+            "+@gid": "2719912970",
+            "+@lang": "FR",
+            "role": "Haru Hayate",
+            "person": {
+                "+content": "Thomas Debaene",
+                "+@id": "214826"
+            }
+        },
+        {
+            "+@gid": "1849855610",
+            "+@lang": "FR",
+            "role": "Yō Hiori",
+            "person": {
+                "+content": "Baptiste Mège",
+                "+@id": "216362"
             }
         },
         {
@@ -889,6 +1088,15 @@
             "person": {
                 "+content": "Hiro Shimono",
                 "+@id": "7636"
+            }
+        },
+        {
+            "+@gid": "899085389",
+            "+@lang": "JA",
+            "role": "Michael Kaiser",
+            "person": {
+                "+content": "Mamoru Miyano",
+                "+@id": "10397"
             }
         },
         {
@@ -1180,6 +1388,6 @@
         }
     },
     "+@date-added": "2023-03-25T19:28:54Z",
-    "+@date-last-modified-at": "2024-12-04T06:36:12Z",
-    "+@date-last-updated-at": "2024-12-04T06:36:12Z"
+    "+@date-last-modified-at": "2025-01-03T15:29:43Z",
+    "+@date-last-updated-at": "2025-01-03T15:29:43Z"
 }

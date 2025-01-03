@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Demon Lord 2099",
     "+@precision": "TV",
-    "+@generated-on": "2024-12-04T06:36:10Z",
+    "+@generated-on": "2025-01-03T15:29:39Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25459"
@@ -90,8 +90,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "7",
-        "+@weighted_score": "5.0199"
+        "+@nb_votes": "37",
+        "+@weighted_score": "6.9847",
+        "+@bayesian_score": "7.11275"
     },
     "news": [
         {
@@ -197,6 +198,14 @@
             "person": {
                 "+content": "Shinpei Nagai",
                 "+@id": "31871"
+            }
+        },
+        {
+            "+@gid": "2066110304",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Toshimasa Ishii",
+                "+@id": "100858"
             }
         },
         {
@@ -526,6 +535,15 @@
             }
         },
         {
+            "+@gid": "1326629823",
+            "+@lang": "EN",
+            "role": "Mag Rosanta",
+            "person": {
+                "+content": "Katelyn Barr",
+                "+@id": "132390"
+            }
+        },
+        {
             "+@gid": "919617234",
             "+@lang": "EN",
             "role": "Takahashi",
@@ -544,6 +562,24 @@
             }
         },
         {
+            "+@gid": "3152720506",
+            "+@lang": "EN",
+            "role": "Hizuki",
+            "person": {
+                "+content": "Maganda Marie",
+                "+@id": "265991"
+            }
+        },
+        {
+            "+@gid": "2584995495",
+            "+@lang": "FR",
+            "role": "Tratte Götel",
+            "person": {
+                "+content": "Claire Tefnin",
+                "+@id": "53859"
+            }
+        },
+        {
             "+@gid": "1480021791",
             "+@lang": "FR",
             "role": "Marcus",
@@ -559,6 +595,15 @@
             "person": {
                 "+content": "Célia Torrens",
                 "+@id": "59628"
+            }
+        },
+        {
+            "+@gid": "857134627",
+            "+@lang": "FR",
+            "role": "Mag Rosanta",
+            "person": {
+                "+content": "Esther Aflalo",
+                "+@id": "69323"
             }
         },
         {
@@ -586,6 +631,15 @@
             "person": {
                 "+content": "Maxime Van Stantfoort",
                 "+@id": "152792"
+            }
+        },
+        {
+            "+@gid": "2922979528",
+            "+@lang": "FR",
+            "role": "Hizuki Reynard Yamada",
+            "person": {
+                "+content": "Marie Braam",
+                "+@id": "164178"
             }
         },
         {
@@ -688,15 +742,25 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2167960903",
-        "task": "Animation Production",
-        "company": {
-            "+content": "J.C. Staff",
-            "+@id": "478"
+    "credit": [
+        {
+            "+@gid": "2167960903",
+            "task": "Animation Production",
+            "company": {
+                "+content": "J.C. Staff",
+                "+@id": "478"
+            }
+        },
+        {
+            "+@gid": "1816756972",
+            "task": "Production",
+            "company": {
+                "+content": "J.C. Staff",
+                "+@id": "478"
+            }
         }
-    },
+    ],
     "+@date-added": "2023-03-25T03:58:29Z",
-    "+@date-last-modified-at": "2024-12-04T06:36:12Z",
-    "+@date-last-updated-at": "2024-12-04T06:36:12Z"
+    "+@date-last-modified-at": "2025-01-03T15:29:43Z",
+    "+@date-last-updated-at": "2025-01-03T15:29:43Z"
 }
