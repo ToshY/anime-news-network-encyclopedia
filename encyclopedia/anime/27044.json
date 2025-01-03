@@ -4,12 +4,36 @@
     "+@type": "TV",
     "+@name": "Magical Girl Raising Project Restart",
     "+@precision": "TV",
-    "+@generated-on": "2024-12-04T07:26:12Z",
+    "+@generated-on": "2025-01-03T16:35:23Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "18167"
     },
     "info": [
+        {
+            "+@gid": "941076968",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A27044-941076968.1734141208.jpg",
+            "+@width": "200",
+            "+@height": "121",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A27044-941076968.1734141208.jpg",
+                    "+@width": "200",
+                    "+@height": "121"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A27044-941076968.1734141208.jpg",
+                    "+@width": "500",
+                    "+@height": "303"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A27044-941076968.1734141208.jpg",
+                    "+@width": "600",
+                    "+@height": "364"
+                }
+            ]
+        },
         {
             "+content": "Magical Girl Raising Project Restart",
             "+@gid": "2548077832",
@@ -29,11 +53,18 @@
             "+@lang": "JA"
         }
     ],
-    "news": {
-        "+content": "<i>Magical Girl Raising Project Restart</i> Light Novel Volumes Get Anime",
-        "+@datetime": "2023-01-29T16:41:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2023-01-29/magical-girl-raising-project-restart-light-novel-volumes-get-anime/.194293"
-    },
+    "news": [
+        {
+            "+content": "<i>Magical Girl Raising Project Restart</i> Light Novel Volumes Get Anime",
+            "+@datetime": "2023-01-29T16:41:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2023-01-29/magical-girl-raising-project-restart-light-novel-volumes-get-anime/.194293"
+        },
+        {
+            "+content": "<cite>Magical Girl Raising Project Restart</cite> Anime Reveals Cast, Staff",
+            "+@datetime": "2024-12-13T17:29:07Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-13/magical-girl-raising-project-restart-anime-reveals-cast-staff/.219002"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1419252125",
@@ -41,6 +72,22 @@
             "person": {
                 "+content": "Hiroyuki Hashimoto",
                 "+@id": "41252"
+            }
+        },
+        {
+            "+@gid": "1837286587",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Takao Yoshioka",
+                "+@id": "11621"
+            }
+        },
+        {
+            "+@gid": "2105053068",
+            "task": "Script",
+            "person": {
+                "+content": "Takao Yoshioka",
+                "+@id": "11621"
             }
         },
         {
@@ -58,9 +105,181 @@
                 "+content": "Maruino",
                 "+@id": "135018"
             }
+        },
+        {
+            "+@gid": "3076869827",
+            "task": "Character Design",
+            "person": {
+                "+content": "Masako Itō",
+                "+@id": "36035"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "480529080",
+            "+@lang": "JA",
+            "role": "Akane",
+            "person": {
+                "+content": "Ami Koshimizu",
+                "+@id": "17254"
+            }
+        },
+        {
+            "+@gid": "3538193109",
+            "+@lang": "JA",
+            "role": "Clantail",
+            "person": {
+                "+content": "Mariya Ise",
+                "+@id": "46112"
+            }
+        },
+        {
+            "+@gid": "4217819811",
+            "+@lang": "JA",
+            "role": "Pfle",
+            "person": {
+                "+content": "Yoshino Nanjō",
+                "+@id": "55281"
+            }
+        },
+        {
+            "+@gid": "2464368874",
+            "+@lang": "JA",
+            "role": "Lapis Lazuline",
+            "person": {
+                "+content": "Aoi Yūki",
+                "+@id": "68107"
+            }
+        },
+        {
+            "+@gid": "2798647538",
+            "+@lang": "JA",
+            "role": "Melville",
+            "person": {
+                "+content": "Shiori Mikami",
+                "+@id": "74584"
+            }
+        },
+        {
+            "+@gid": "2496413960",
+            "+@lang": "JA",
+            "role": "Magical Daisy",
+            "person": {
+                "+content": "Maaya Uchida",
+                "+@id": "94314"
+            }
+        },
+        {
+            "+@gid": "4028980191",
+            "+@lang": "JA",
+            "role": "Nonako Miyokata",
+            "person": {
+                "+content": "Jenya",
+                "+@id": "94741"
+            }
+        },
+        {
+            "+@gid": "2729488348",
+            "+@lang": "JA",
+            "role": "Snow White",
+            "person": {
+                "+content": "Nao Tōyama",
+                "+@id": "95316"
+            }
+        },
+        {
+            "+@gid": "1522239457",
+            "+@lang": "JA",
+            "role": "Keek",
+            "person": {
+                "+content": "Megumi Han",
+                "+@id": "104148"
+            }
+        },
+        {
+            "+@gid": "3050540631",
+            "+@lang": "JA",
+            "role": "Rionetta",
+            "person": {
+                "+content": "M.A.O",
+                "+@id": "123756"
+            }
+        },
+        {
+            "+@gid": "1731433675",
+            "+@lang": "JA",
+            "role": "Cherna Mouse",
+            "person": {
+                "+content": "Maria Naganawa",
+                "+@id": "127172"
+            }
+        },
+        {
+            "+@gid": "624104036",
+            "+@lang": "JA",
+            "role": "@Meow-Meow",
+            "person": {
+                "+content": "Akari Kitō",
+                "+@id": "130728"
+            }
+        },
+        {
+            "+@gid": "3374577879",
+            "+@lang": "JA",
+            "role": "Shadow Gale",
+            "person": {
+                "+content": "Reina Kondo",
+                "+@id": "142173"
+            }
+        },
+        {
+            "+@gid": "1847090018",
+            "+@lang": "JA",
+            "role": "Detec Bell",
+            "person": {
+                "+content": "Miyu Tomita",
+                "+@id": "145048"
+            }
+        },
+        {
+            "+@gid": "3443828393",
+            "+@lang": "JA",
+            "role": "Pechka",
+            "person": {
+                "+content": "Honoka Inoue",
+                "+@id": "151186"
+            }
+        },
+        {
+            "+@gid": "1465544231",
+            "+@lang": "JA",
+            "role": "Genopsyko Yumenoshima",
+            "person": {
+                "+content": "Sayumi Suzushiro",
+                "+@id": "170536"
+            }
+        },
+        {
+            "+@gid": "907783464",
+            "+@lang": "JA",
+            "role": "Masked Wonder",
+            "person": {
+                "+content": "Fairouz Ai",
+                "+@id": "215531"
+            }
+        },
+        {
+            "+@gid": "1062735857",
+            "+@lang": "JA",
+            "role": "Nokko-chan",
+            "person": {
+                "+content": "Hime Sawada",
+                "+@id": "228651"
+            }
         }
     ],
     "+@date-added": "2023-01-29T12:50:43Z",
-    "+@date-last-modified-at": "2024-12-04T07:26:13Z",
-    "+@date-last-updated-at": "2024-12-04T07:26:13Z"
+    "+@date-last-modified-at": "2025-01-03T16:35:24Z",
+    "+@date-last-updated-at": "2025-01-03T16:35:24Z"
 }
