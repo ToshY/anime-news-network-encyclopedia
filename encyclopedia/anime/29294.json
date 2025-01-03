@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Delico's Nursery",
     "+@precision": "TV",
-    "+@generated-on": "2024-12-04T05:26:30Z",
+    "+@generated-on": "2025-01-03T11:25:04Z",
     "info": [
         {
             "+@gid": "1482572998",
@@ -81,8 +81,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "11",
-        "+@weighted_score": "5.2207"
+        "+@nb_votes": "20",
+        "+@weighted_score": "5.8592",
+        "+@bayesian_score": "6.49663"
     },
     "episode": [
         {
@@ -110,6 +111,10 @@
             }
         }
     ],
+    "review": {
+        "+content": "<cite>Delico's Nursery</cite> Anime Series Review",
+        "+@href": "https://www.animenewsnetwork.com/review/delico-nursery/anime-series/.218613"
+    },
     "news": [
         {
             "+content": "<cite>TRUMP</cite> Vampire Stage Play Inspires <cite>Delico's Nursery</cite> TV Anime",
@@ -244,6 +249,30 @@
             }
         },
         {
+            "+@gid": "3165781629",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hitoyuki Matsui",
+                "+@id": "5027"
+            }
+        },
+        {
+            "+@gid": "1020255356",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kanemori Yasuda",
+                "+@id": "24189"
+            }
+        },
+        {
+            "+@gid": "1925026550",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shinpei Nagai",
+                "+@id": "31871"
+            }
+        },
+        {
             "+@gid": "2529395150",
             "task": "Storyboard",
             "person": {
@@ -257,6 +286,14 @@
             "person": {
                 "+content": "Hiroshi Nishikiori",
                 "+@id": "1569"
+            }
+        },
+        {
+            "+@gid": "2906800576",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hiroyasu Oda",
+                "+@id": "51194"
             }
         },
         {
@@ -372,6 +409,14 @@
             }
         },
         {
+            "+@gid": "1745989984",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiroyasu Oda",
+                "+@id": "51194"
+            }
+        },
+        {
             "+@gid": "1517232178",
             "task": "Animation Director",
             "person": {
@@ -404,6 +449,14 @@
             }
         },
         {
+            "+@gid": "2437030248",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Liang Chen",
+                "+@id": "114624"
+            }
+        },
+        {
             "+@gid": "1272005587",
             "task": "Animation Director",
             "person": {
@@ -420,11 +473,67 @@
             }
         },
         {
+            "+@gid": "3381606857",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Li Ze Dong",
+                "+@id": "257795"
+            }
+        },
+        {
             "+@gid": "3002414135",
             "task": "Animation Director",
             "person": {
                 "+content": "Ryūnosuke Murakami",
                 "+@id": "259767"
+            }
+        },
+        {
+            "+@gid": "438964198",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Dong dong Fan",
+                "+@id": "266793"
+            }
+        },
+        {
+            "+@gid": "2249472197",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tao Yi Shen",
+                "+@id": "273127"
+            }
+        },
+        {
+            "+@gid": "1977492504",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yue Yun Yu",
+                "+@id": "274207"
+            }
+        },
+        {
+            "+@gid": "2253830571",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ming Wang Xiao",
+                "+@id": "274208"
+            }
+        },
+        {
+            "+@gid": "1625612408",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shao Feng Yin",
+                "+@id": "274209"
+            }
+        },
+        {
+            "+@gid": "1494789441",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hyun Grak Hwang",
+                "+@id": "274210"
             }
         },
         {
@@ -651,6 +760,15 @@
             "person": {
                 "+content": "Sonny Franks",
                 "+@id": "176165"
+            }
+        },
+        {
+            "+@gid": "2332882006",
+            "+@lang": "EN",
+            "role": "Juras",
+            "person": {
+                "+content": "Reagan Murdock",
+                "+@id": "176327"
             }
         },
         {
@@ -897,15 +1015,73 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2027251996",
-        "task": "Animation Production",
-        "company": {
-            "+content": "J.C. Staff",
-            "+@id": "478"
+    "credit": [
+        {
+            "+@gid": "2027251996",
+            "task": "Animation Production",
+            "company": {
+                "+content": "J.C. Staff",
+                "+@id": "478"
+            }
+        },
+        {
+            "+@gid": "1803984677",
+            "task": "Production",
+            "company": {
+                "+content": "J.C. Staff",
+                "+@id": "478"
+            }
+        },
+        {
+            "+@gid": "1987783732",
+            "task": "Production",
+            "company": {
+                "+content": "Aniplex",
+                "+@id": "1257"
+            }
+        },
+        {
+            "+@gid": "3623884603",
+            "task": "Production",
+            "company": {
+                "+content": "Watanabe Entertainment",
+                "+@id": "12647"
+            }
+        },
+        {
+            "+@gid": "2982844826",
+            "task": "Production",
+            "company": {
+                "+content": "Tokyo MX",
+                "+@id": "13028"
+            }
+        },
+        {
+            "+@gid": "1444192805",
+            "task": "Production",
+            "company": {
+                "+content": "Contents Seed",
+                "+@id": "14400"
+            }
+        },
+        {
+            "+@gid": "1335077247",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon BS Broadcasting Corporation",
+                "+@id": "15105"
+            }
+        },
+        {
+            "+@gid": "1852150326",
+            "task": "Production",
+            "company": {
+                "+content": "Delico's Nursery Production Committee",
+                "+@id": "26164"
+            }
         }
-    },
+    ],
     "+@date-added": "2023-08-04T16:11:17Z",
-    "+@date-last-modified-at": "2024-12-04T05:26:34Z",
-    "+@date-last-updated-at": "2024-12-04T05:26:34Z"
+    "+@date-last-modified-at": "2025-01-03T11:25:05Z",
+    "+@date-last-updated-at": "2025-01-03T11:25:05Z"
 }

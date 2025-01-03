@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Demon Lord, Retry! R",
     "+@precision": "TV",
-    "+@generated-on": "2024-12-04T04:57:19Z",
+    "+@generated-on": "2025-01-03T11:25:02Z",
     "related-prev": [
         {
             "+@rel": "sequel of",
@@ -77,8 +77,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "6.4246"
+        "+@nb_votes": "22",
+        "+@weighted_score": "5.8758",
+        "+@bayesian_score": "6.47064"
     },
     "news": [
         {
@@ -250,6 +251,14 @@
             }
         },
         {
+            "+@gid": "964562653",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yasuhiro Tomita",
+                "+@id": "103413"
+            }
+        },
+        {
             "+@gid": "3369744340",
             "task": "Episode Director",
             "person": {
@@ -383,21 +392,30 @@
             }
         },
         {
+            "+@gid": "2268213484",
+            "+@lang": "EN",
+            "role": "Akane Fujisaki",
+            "person": {
+                "+content": "Hayden Daviau",
+                "+@id": "174838"
+            }
+        },
+        {
+            "+@gid": "718661719",
+            "+@lang": "EN",
+            "role": "Mink",
+            "person": {
+                "+content": "Ama Lee",
+                "+@id": "187148"
+            }
+        },
+        {
             "+@gid": "2090161218",
             "+@lang": "EN",
             "role": "Aku",
             "person": {
                 "+content": "Natalie Rose",
                 "+@id": "202220"
-            }
-        },
-        {
-            "+@gid": "1797403598",
-            "+@lang": "EN",
-            "role": "Isami Tahara",
-            "person": {
-                "+content": "Alex Hom",
-                "+@id": "215105"
             }
         },
         {
@@ -410,9 +428,27 @@
             }
         },
         {
+            "+@gid": "2108173447",
+            "+@lang": "EN",
+            "role": "Zero Kirisame",
+            "person": {
+                "+content": "Daniel Van Thomas",
+                "+@id": "228454"
+            }
+        },
+        {
             "+@gid": "3122973183",
             "+@lang": "EN",
             "role": "Hakuto Kunai",
+            "person": {
+                "+content": "Jessie James Grelle",
+                "+@id": "241210"
+            }
+        },
+        {
+            "+@gid": "2007852666",
+            "+@lang": "EN",
+            "role": "Zero Kirisame",
             "person": {
                 "+content": "Jessie James Grelle",
                 "+@id": "241210"
@@ -455,15 +491,6 @@
             }
         },
         {
-            "+@gid": "2890457731",
-            "+@lang": "JA",
-            "role": "Isami Tahara",
-            "person": {
-                "+content": "Wataru Komada",
-                "+@id": "121105"
-            }
-        },
-        {
             "+@gid": "3322329378",
             "+@lang": "JA",
             "role": "Luna Elegant",
@@ -497,15 +524,6 @@
             "person": {
                 "+content": "Minori Suzuki",
                 "+@id": "143994"
-            }
-        },
-        {
-            "+@gid": "2117434724",
-            "+@lang": "JA",
-            "role": "Eagle",
-            "person": {
-                "+content": "Iori Noguchi",
-                "+@id": "173307"
             }
         },
         {
@@ -546,6 +564,6 @@
         }
     ],
     "+@date-added": "2023-08-21T13:29:34Z",
-    "+@date-last-modified-at": "2024-12-04T04:57:20Z",
-    "+@date-last-updated-at": "2024-12-04T04:57:20Z"
+    "+@date-last-modified-at": "2025-01-03T11:25:05Z",
+    "+@date-last-updated-at": "2025-01-03T11:25:05Z"
 }
