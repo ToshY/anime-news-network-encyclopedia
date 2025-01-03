@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Übel Blatt",
     "+@precision": "TV",
-    "+@generated-on": "2024-12-04T03:06:51Z",
+    "+@generated-on": "2025-01-03T06:37:40Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "10518"
@@ -13,24 +13,19 @@
         {
             "+@gid": "1753922473",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32211-1753922473.1720234097.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32211-1753922473.1734298545.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32211-1753922473.1720234097.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32211-1753922473.1734298545.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32211-1753922473.1720234097.jpg",
-                    "+@width": "425",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32211-1753922473.1734298545.jpg",
+                    "+@width": "424",
                     "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A32211-1753922473.1720234097.jpg",
-                    "+@width": "496",
-                    "+@height": "700"
                 }
             ]
         },
@@ -61,6 +56,16 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "\"Zainin (Sinner)\" by GARNiDELiA",
+            "+@gid": "2257027243",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Stella\" by Hina Tachibana",
+            "+@gid": "2712152242",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "TVアニメ『Übel Blatt』公式サイト",
             "+@gid": "3036232733",
             "+@type": "Official website",
@@ -68,6 +73,10 @@
             "+@href": "https://ubel-blatt-anime.com/"
         }
     ],
+    "review": {
+        "+content": "<cite>Übel Blatt</cite> – Episodes 1-2 Review (Premiere Screening)",
+        "+@href": "https://www.animenewsnetwork.com/review/ubel-blatt-episodes-1-2/.219168"
+    },
     "news": [
         {
             "+content": "Yuya Hirose Stars in <cite>Übel Blatt</cite> Anime; Hirose, Original Manga Creator Etorouji Shiono Attend Anime Expo",
@@ -83,6 +92,11 @@
             "+content": "<cite>Übel Blatt</cite> Anime's 2nd Trailer Reveals January 10 Debut, Streaming Only on Prime Video Worldwide, More Cast",
             "+@datetime": "2024-11-15T09:47:43Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-11-15/ubel-blatt-anime-2nd-trailer-reveals-january-10-debut-streaming-only-on-prime-video-worldwide-more-/.217896"
+        },
+        {
+            "+content": "<cite>Übel Blatt</cite> Anime's 3rd Trailer Reveals More Cast",
+            "+@datetime": "2024-12-15T15:34:06Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-15/ubel-blatt-anime-3rd-trailer-reveals-more-cast/.219095"
         }
     ],
     "staff": [
@@ -194,7 +208,7 @@
             "+@gid": "2544018303",
             "task": "Cgi Director",
             "person": {
-                "+content": "Hiroyuki Goto",
+                "+content": "Hiroyuki Gotō",
                 "+@id": "66925"
             }
         },
@@ -217,6 +231,60 @@
     ],
     "cast": [
         {
+            "+@gid": "1769520880",
+            "+@lang": "JA",
+            "role": "Marquis Glenn",
+            "person": {
+                "+content": "Kazuhiko Inoue",
+                "+@id": "722"
+            }
+        },
+        {
+            "+@gid": "2265168368",
+            "+@lang": "JA",
+            "role": "Fargo",
+            "person": {
+                "+content": "Kōsuke Toriumi",
+                "+@id": "3445"
+            }
+        },
+        {
+            "+@gid": "2132723735",
+            "+@lang": "JA",
+            "role": "Batterygrave Barestar",
+            "person": {
+                "+content": "Naoya Uchida",
+                "+@id": "5410"
+            }
+        },
+        {
+            "+@gid": "1899180721",
+            "+@lang": "JA",
+            "role": "Landgrave Schtemwölech",
+            "person": {
+                "+content": "Taiten Kusunoki",
+                "+@id": "18813"
+            }
+        },
+        {
+            "+@gid": "3076813358",
+            "+@lang": "JA",
+            "role": "Geranpen",
+            "person": {
+                "+content": "Kenichirō Matsuda",
+                "+@id": "71825"
+            }
+        },
+        {
+            "+@gid": "771408670",
+            "+@lang": "JA",
+            "role": "Wied",
+            "person": {
+                "+content": "Toshiki Masuda",
+                "+@id": "99623"
+            }
+        },
+        {
             "+@gid": "1942874487",
             "+@lang": "JA",
             "role": "Köinzell",
@@ -226,12 +294,39 @@
             }
         },
         {
+            "+@gid": "1443146072",
+            "+@lang": "JA",
+            "role": "Altea",
+            "person": {
+                "+content": "Hitomi Ueda",
+                "+@id": "142425"
+            }
+        },
+        {
+            "+@gid": "3235477662",
+            "+@lang": "JA",
+            "role": "Rangzatz",
+            "person": {
+                "+content": "Ryōta Suzuki",
+                "+@id": "174131"
+            }
+        },
+        {
             "+@gid": "2816190313",
             "+@lang": "JA",
             "role": "Peepi",
             "person": {
                 "+content": "Hina Tachibana",
                 "+@id": "184347"
+            }
+        },
+        {
+            "+@gid": "3275683117",
+            "+@lang": "JA",
+            "role": "Aht",
+            "person": {
+                "+content": "Yui Kanari",
+                "+@id": "274432"
             }
         }
     ],
@@ -254,6 +349,6 @@
         }
     ],
     "+@date-added": "2024-02-23T22:56:34Z",
-    "+@date-last-modified-at": "2024-12-04T03:06:53Z",
-    "+@date-last-updated-at": "2024-12-04T03:06:53Z"
+    "+@date-last-modified-at": "2025-01-03T06:37:41Z",
+    "+@date-last-updated-at": "2025-01-03T06:37:41Z"
 }

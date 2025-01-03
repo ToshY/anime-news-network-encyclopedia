@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Chained Soldier",
     "+@precision": "TV 2",
-    "+@generated-on": "2024-12-04T03:06:50Z",
+    "+@generated-on": "2025-01-03T06:37:39Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24978"
@@ -55,11 +55,18 @@
             "+@href": "https://mabotai.jp/"
         }
     ],
-    "news": {
-        "+content": "<cite>Chained Soldier</cite> Anime's 2nd Season Reveals New Staff, Studio",
-        "+@datetime": "2024-07-21T06:15:05Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-07-21/chained-soldier-anime-2nd-season-reveals-new-staff-studio/.213432"
-    },
+    "news": [
+        {
+            "+content": "<cite>Chained Soldier</cite> Anime's 2nd Season Reveals New Staff, Studio",
+            "+@datetime": "2024-07-21T06:15:05Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-07-21/chained-soldier-anime-2nd-season-reveals-new-staff-studio/.213432"
+        },
+        {
+            "+content": "<cite>Chained Soldier</cite> Anime's 2nd Season Casts Kana Hanazawa",
+            "+@datetime": "2024-12-22T08:03:04Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-22/chained-soldier-anime-2nd-season-casts-kana-hanazawa/.219400"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1701851676",
@@ -94,6 +101,15 @@
             }
         }
     ],
+    "cast": {
+        "+@gid": "2137249202",
+        "+@lang": "JA",
+        "role": "Ren Yamashiro",
+        "person": {
+            "+content": "Kana Hanazawa",
+            "+@id": "53741"
+        }
+    },
     "credit": {
         "+@gid": "3325034577",
         "task": "Animation Production",
@@ -103,6 +119,6 @@
         }
     },
     "+@date-added": "2024-03-22T20:43:37Z",
-    "+@date-last-modified-at": "2024-12-04T03:06:53Z",
-    "+@date-last-updated-at": "2024-12-04T03:06:53Z"
+    "+@date-last-modified-at": "2025-01-03T06:37:41Z",
+    "+@date-last-updated-at": "2025-01-03T06:37:41Z"
 }
