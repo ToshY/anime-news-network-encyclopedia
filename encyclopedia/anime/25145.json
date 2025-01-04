@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Yamato yo Towa ni: Rebel 3199",
     "+@precision": "movies",
-    "+@generated-on": "2024-12-04T19:16:27Z",
+    "+@generated-on": "2025-01-04T04:32:28Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24448"
@@ -103,6 +103,11 @@
             "+@type": "Premiere date"
         },
         {
+            "+content": "\"Uchū Senkan Yamato\" (宇宙戦艦ヤマト) by Isao Sasaki",
+            "+@gid": "1037382546",
+            "+@type": "Opening Theme"
+        },
+        {
             "+content": "#1: \"Ginga Densetsu\" (銀河伝説) by Hiromi Iwasaki",
             "+@gid": "815471471",
             "+@type": "Ending Theme"
@@ -111,6 +116,11 @@
             "+content": "#2: \"Reach for the Star\" by Daisuke Ono",
             "+@gid": "1535727930",
             "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Furusato\" (ふるさと) by Hitomi Isaka (eps 2,5)",
+            "+@gid": "3039181486",
+            "+@type": "Insert song"
         },
         {
             "+content": "『ヤマトよ永遠に REBEL3199』",
@@ -262,7 +272,7 @@
             "+@gid": "2217996834",
             "task": "Music",
             "person": {
-                "+content": "Shu Kanematsu",
+                "+content": "Shū Kanematsu",
                 "+@id": "137548"
             }
         },
@@ -278,7 +288,7 @@
             "+@gid": "678114455",
             "task": "Character Design",
             "person": {
-                "+content": "Nobuteru Yuki",
+                "+content": "Nobuteru Yūki",
                 "+@id": "30408"
             }
         },
@@ -320,6 +330,14 @@
             "person": {
                 "+content": "Shōsuke Uechi",
                 "+@id": "99535"
+            }
+        },
+        {
+            "+@gid": "461275410",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Keisuke Furusawa",
+                "+@id": "82112"
             }
         },
         {
@@ -366,12 +384,66 @@
             }
         },
         {
+            "+@gid": "1828254532",
+            "+@lang": "JA",
+            "role": "Megumi Kanzaki",
+            "person": {
+                "+content": "Megumi Hayashibara",
+                "+@id": "391"
+            }
+        },
+        {
+            "+@gid": "1507378001",
+            "+@lang": "JA",
+            "role": "Sakezō Sado",
+            "person": {
+                "+content": "Shigeru Chiba",
+                "+@id": "427"
+            }
+        },
+        {
+            "+@gid": "373101204",
+            "+@lang": "JA",
+            "role": "Osamu Yamanami",
+            "person": {
+                "+content": "Masashi Ebara",
+                "+@id": "510"
+            }
+        },
+        {
             "+@gid": "1165663284",
             "+@lang": "JA",
             "role": "Kotetsu Serizawa",
             "person": {
                 "+content": "Tesshō Genda",
                 "+@id": "1250"
+            }
+        },
+        {
+            "+@gid": "2466404889",
+            "+@lang": "JA",
+            "role": "Ludmi Dahlia",
+            "person": {
+                "+content": "Yōko Soumi",
+                "+@id": "1629"
+            }
+        },
+        {
+            "+@gid": "2700006370",
+            "+@lang": "JA",
+            "role": "Mother Dezarium",
+            "person": {
+                "+content": "Keiko Han",
+                "+@id": "2060"
+            }
+        },
+        {
+            "+@gid": "2017580137",
+            "+@lang": "JA",
+            "role": "Hiroki Shinohara",
+            "person": {
+                "+content": "Daisuke Hirakawa",
+                "+@id": "2177"
             }
         },
         {
@@ -384,6 +456,15 @@
             }
         },
         {
+            "+@gid": "3969360375",
+            "+@lang": "JA",
+            "role": "Skulldart",
+            "person": {
+                "+content": "Naoya Uchida",
+                "+@id": "5410"
+            }
+        },
+        {
             "+@gid": "2643814859",
             "+@lang": "JA",
             "role": "Daisuke Shima",
@@ -393,12 +474,30 @@
             }
         },
         {
+            "+@gid": "2193873640",
+            "+@lang": "JA",
+            "role": "Jelba Gudan",
+            "person": {
+                "+content": "Tetsu Inada",
+                "+@id": "7015"
+            }
+        },
+        {
             "+@gid": "1637836186",
             "+@lang": "JA",
             "role": "Shirō Sanada",
             "person": {
-                "+content": "Hōchū Ohtsuka",
+                "+content": "Hōchū Ōtsuka",
                 "+@id": "7134"
+            }
+        },
+        {
+            "+@gid": "3862776086",
+            "+@lang": "JA",
+            "role": "Earth Federation President",
+            "person": {
+                "+content": "Yūji Mikimoto",
+                "+@id": "7159"
             }
         },
         {
@@ -429,12 +528,66 @@
             }
         },
         {
+            "+@gid": "1064964385",
+            "+@lang": "JA",
+            "role": "Susumu Yamazaki",
+            "person": {
+                "+content": "Hiroshi Tsuchida",
+                "+@id": "17695"
+            }
+        },
+        {
+            "+@gid": "779235610",
+            "+@lang": "JA",
+            "role": "Maxim",
+            "person": {
+                "+content": "Tokuyoshi Kawashima",
+                "+@id": "18533"
+            }
+        },
+        {
+            "+@gid": "502692817",
+            "+@lang": "JA",
+            "role": "Kazan",
+            "person": {
+                "+content": "Yutaka Aoyama",
+                "+@id": "18713"
+            }
+        },
+        {
+            "+@gid": "3270092221",
+            "+@lang": "JA",
+            "role": "Sāda",
+            "person": {
+                "+content": "Marina Inoue",
+                "+@id": "20999"
+            }
+        },
+        {
+            "+@gid": "1930307804",
+            "+@lang": "JA",
+            "role": "Vilki Borroughs",
+            "person": {
+                "+content": "Satoshi Taki",
+                "+@id": "37312"
+            }
+        },
+        {
             "+@gid": "1304518365",
             "+@lang": "JA",
             "role": "Kōzō Nanbu",
             "person": {
                 "+content": "Shinobu Matsumoto",
                 "+@id": "37532"
+            }
+        },
+        {
+            "+@gid": "3438612998",
+            "+@lang": "JA",
+            "role": "Bressole",
+            "person": {
+                "+content": "Susumu Akagi",
+                "+@id": "50232"
             }
         },
         {
@@ -447,12 +600,30 @@
             }
         },
         {
+            "+@gid": "1591052485",
+            "+@lang": "JA",
+            "role": "Cheff Rebulse",
+            "person": {
+                "+content": "Takeshi Maruyama",
+                "+@id": "58986"
+            }
+        },
+        {
             "+@gid": "2328376939",
             "+@lang": "JA",
             "role": "Tasuke Tokugawa",
             "person": {
                 "+content": "Nobuhiko Okamoto",
                 "+@id": "59411"
+            }
+        },
+        {
+            "+@gid": "3551768328",
+            "+@lang": "JA",
+            "role": "AU-09 Analyzer",
+            "person": {
+                "+content": "Chō",
+                "+@id": "68750"
             }
         },
         {
@@ -501,6 +672,15 @@
             }
         },
         {
+            "+@gid": "3941304707",
+            "+@lang": "JA",
+            "role": "Azure",
+            "person": {
+                "+content": "Yūjirō Kakuda",
+                "+@id": "96856"
+            }
+        },
+        {
             "+@gid": "2357950517",
             "+@lang": "JA",
             "role": "Ryūsuke Domon",
@@ -516,6 +696,33 @@
             "person": {
                 "+content": "Masato Kokubun",
                 "+@id": "102270"
+            }
+        },
+        {
+            "+@gid": "3508462095",
+            "+@lang": "JA",
+            "role": "Sasha",
+            "person": {
+                "+content": "Megumi Han",
+                "+@id": "104148"
+            }
+        },
+        {
+            "+@gid": "1831939638",
+            "+@lang": "JA",
+            "role": "Shino Tōdō",
+            "person": {
+                "+content": "Tomoko Shiota",
+                "+@id": "105467"
+            }
+        },
+        {
+            "+@gid": "2365001479",
+            "+@lang": "JA",
+            "role": "Mikio Ageha",
+            "person": {
+                "+content": "Takuya Sato",
+                "+@id": "105671"
             }
         },
         {
@@ -640,6 +847,6 @@
         }
     ],
     "+@date-added": "2022-01-19T07:28:37Z",
-    "+@date-last-modified-at": "2024-12-04T19:16:28Z",
-    "+@date-last-updated-at": "2024-12-04T19:16:28Z"
+    "+@date-last-modified-at": "2025-01-04T04:32:31Z",
+    "+@date-last-updated-at": "2025-01-04T04:32:31Z"
 }
