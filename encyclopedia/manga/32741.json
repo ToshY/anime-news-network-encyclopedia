@@ -4,12 +4,37 @@
     "+@type": "manga",
     "+@name": "Shiganbana",
     "+@precision": "manga",
-    "+@generated-on": "2024-12-04T21:09:24Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "4043"
-    },
+    "+@generated-on": "2025-01-04T06:35:14Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "4043"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "29974"
+        }
+    ],
     "info": [
+        {
+            "+@gid": "2325225453",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32741-2325225453.1733732884.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32741-2325225453.1733732884.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32741-2325225453.1733732884.jpg",
+                    "+@width": "240",
+                    "+@height": "341"
+                }
+            ]
+        },
         {
             "+content": "Shiganbana",
             "+@gid": "2791584507",
@@ -28,13 +53,18 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2024-05-20 (serialized in Weekly Young Magazine)",
+            "+content": "2024-05-20 to 2024-12-09 (serialized in Weekly Young Magazine)",
             "+@gid": "916397519",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-01-08 (serialized on YanMaga Web)",
+            "+@gid": "2648248098",
             "+@type": "Vintage"
         }
     ],
     "news": {
-        "+content": "<cite>Until Your Bones Rot</cite> Manga Creator Yae Utsumi Launches New Series",
+        "+content": "<cite>Until Your Bones Rot</cite> Manga Creator Yae Utsumi Launches New Series (Updated)",
         "+@datetime": "2024-05-12T15:05:00Z",
         "+@href": "https://www.animenewsnetwork.com:/news/2024-05-12/until-your-bones-rot-manga-creator-yae-utsumi-launches-new-series/.210733"
     },
@@ -47,6 +77,6 @@
         }
     },
     "+@date-added": "2024-05-19T22:54:58Z",
-    "+@date-last-modified-at": "2024-12-04T21:09:24Z",
-    "+@date-last-updated-at": "2024-12-04T21:09:24Z"
+    "+@date-last-modified-at": "2025-01-04T06:35:16Z",
+    "+@date-last-updated-at": "2025-01-04T06:35:16Z"
 }

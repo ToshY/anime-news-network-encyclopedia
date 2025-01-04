@@ -2,13 +2,19 @@
     "+@id": "32676",
     "+@gid": "1204942480",
     "+@type": "manga",
-    "+@name": "Nanashi no Tensei",
+    "+@name": "Nanashi no Tensei Queen's Blade",
     "+@precision": "manga",
-    "+@generated-on": "2024-12-04T21:09:24Z",
-    "related-prev": {
-        "+@rel": "related to",
-        "+@id": "10086"
-    },
+    "+@generated-on": "2025-01-04T06:35:15Z",
+    "related-prev": [
+        {
+            "+@rel": "related to",
+            "+@id": "10086"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "20588"
+        }
+    ],
     "info": [
         {
             "+@gid": "2023415243",
@@ -30,23 +36,34 @@
             ]
         },
         {
-            "+content": "Nanashi no Tensei",
+            "+content": "Nanashi no Tensei Queen's Blade",
             "+@gid": "1969816469",
             "+@type": "Main title",
             "+@lang": "JA"
         },
         {
-            "+content": "ナナシの転生",
-            "+@gid": "3108384131",
+            "+content": "Nanashi no Tensei",
+            "+@gid": "1383900644",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
-            "+content": "2024-04-15 (serialized on Fire CROSS)",
+            "+content": "ナナシの転生クイーンズブレイド",
+            "+@gid": "3051057651",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "2024-04-15 to 2024-12-16 (serialized on Comic Fire)",
             "+@gid": "826712578",
             "+@type": "Vintage"
         }
     ],
+    "news": {
+        "+content": "Akira Hizuki, Minmi Tachibana Launch New Full-Color, Vertical-Scrolling <cite>Queens Blade</cite> Spinoff Manga",
+        "+@datetime": "2024-04-16T14:30:00Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2024-04-16/akira-hizuki-minmi-tachibana-launch-new-full-color-vertical-scrolling-queens-blade-spinoff-manga/.209876"
+    },
     "staff": [
         {
             "+@gid": "1573846199",
@@ -66,6 +83,6 @@
         }
     ],
     "+@date-added": "2024-04-20T07:23:57Z",
-    "+@date-last-modified-at": "2024-12-04T21:09:24Z",
-    "+@date-last-updated-at": "2024-12-04T21:09:24Z"
+    "+@date-last-modified-at": "2025-01-04T06:35:16Z",
+    "+@date-last-updated-at": "2025-01-04T06:35:16Z"
 }
