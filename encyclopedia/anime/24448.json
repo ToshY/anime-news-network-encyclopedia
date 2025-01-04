@@ -2,9 +2,9 @@
     "+@id": "24448",
     "+@gid": "721177054",
     "+@type": "movie",
-    "+@name": "Uchū Senkan Yamato 2205: Aratanaru Tabidachi",
+    "+@name": "Star Blazers: Space Battleship Yamato 2205",
     "+@precision": "movies",
-    "+@generated-on": "2024-12-04T19:29:44Z",
+    "+@generated-on": "2025-01-04T11:24:12Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "18939"
@@ -39,10 +39,10 @@
             ]
         },
         {
-            "+content": "Uchū Senkan Yamato 2205: Aratanaru Tabidachi",
-            "+@gid": "1603954280",
+            "+content": "Star Blazers: Space Battleship Yamato 2205",
+            "+@gid": "2613104295",
             "+@type": "Main title",
-            "+@lang": "JA"
+            "+@lang": "EN"
         },
         {
             "+content": "Space Battleship Yamato 2205",
@@ -69,10 +69,22 @@
             "+@lang": "EN"
         },
         {
+            "+content": "Star Blazers: Space Battleship Yamato 2205 - A New Journey",
+            "+@gid": "2288124874",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Star Blazers: Space Battleship Yamato 2205 - A New Voyage",
             "+@gid": "3315009671",
             "+@type": "Alternative title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Uchū Senkan Yamato 2205: Aratanaru Tabidachi",
+            "+@gid": "1603954280",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
         },
         {
             "+content": "宇宙戦艦ヤマト2205 新たなる旅立ち",
@@ -124,7 +136,11 @@
     ],
     "ratings": {
         "+@nb_votes": "3",
-        "+@weighted_score": "8.8609"
+        "+@weighted_score": "8.8607"
+    },
+    "review": {
+        "+content": "<cite>Star Blazers: Space Battleship Yamato 2205</cite> Anime Review",
+        "+@href": "https://www.animenewsnetwork.com/review/star-blazers/space-battleship-yamato-2205/anime/.219339"
     },
     "news": [
         {
@@ -191,6 +207,11 @@
             "+content": "<cite>Space Battleship Yamato 2205</cite> 2-Part Film Project Gets TV Version in May",
             "+@datetime": "2024-03-14T10:18:19Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-03-14/space-battleship-yamato-2205-2-part-film-project-gets-tv-version-in-may/.208747"
+        },
+        {
+            "+content": "Crunchyroll Licenses <cite>Attack on Titan</cite> Finale Compilation Film for Theatrical Release in Early 2025",
+            "+@datetime": "2024-12-08T14:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-08/crunchyroll-licenses-attack-on-titan-finale-compilation-film-for-theatrical-release-in-early-2025/.218718"
         }
     ],
     "staff": [
@@ -262,7 +283,7 @@
             "+@gid": "2489106347",
             "task": "Character Design",
             "person": {
-                "+content": "Nobuteru Yuki",
+                "+content": "Nobuteru Yūki",
                 "+@id": "30408"
             }
         },
@@ -326,7 +347,7 @@
             "+@gid": "2319042798",
             "task": "Cgi Director",
             "person": {
-                "+content": "Hiroyuki Goto",
+                "+content": "Hiroyuki Gotō",
                 "+@id": "66925"
             }
         },
@@ -481,7 +502,7 @@
             "+@lang": "JA",
             "role": "Shirō Sanada",
             "person": {
-                "+content": "Hōchū Ohtsuka",
+                "+content": "Hōchū Ōtsuka",
                 "+@id": "7134"
             }
         },
@@ -630,15 +651,73 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "1709130118",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Satelight",
-            "+@id": "415"
+    "credit": [
+        {
+            "+@gid": "1709130118",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Satelight",
+                "+@id": "415"
+            }
+        },
+        {
+            "+@gid": "3340699113",
+            "task": "Production",
+            "company": {
+                "+content": "Production I.G",
+                "+@id": "337"
+            }
+        },
+        {
+            "+@gid": "2116566710",
+            "task": "Production",
+            "company": {
+                "+content": "Satelight",
+                "+@id": "415"
+            }
+        },
+        {
+            "+@gid": "3620742014",
+            "task": "Production",
+            "company": {
+                "+content": "Shochiku",
+                "+@id": "14702"
+            }
+        },
+        {
+            "+@gid": "1400662936",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Namco Arts",
+                "+@id": "16951"
+            }
+        },
+        {
+            "+@gid": "1070911692",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Spirits",
+                "+@id": "18163"
+            }
+        },
+        {
+            "+@gid": "1839753381",
+            "task": "Production",
+            "company": {
+                "+content": "ADK Marketing Solutions",
+                "+@id": "20797"
+            }
+        },
+        {
+            "+@gid": "2838916930",
+            "task": "Production",
+            "company": {
+                "+content": "Voyager Holdings",
+                "+@id": "26119"
+            }
         }
-    },
+    ],
     "+@date-added": "2021-06-16T22:08:58Z",
-    "+@date-last-modified-at": "2024-12-04T19:29:44Z",
-    "+@date-last-updated-at": "2024-12-04T19:29:44Z"
+    "+@date-last-modified-at": "2025-01-04T11:24:14Z",
+    "+@date-last-updated-at": "2025-01-04T11:24:14Z"
 }
