@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Mahjong Hishō-den - Naki no Ryū: Hiryū no Shō",
     "+@precision": "OAV",
-    "+@generated-on": "2024-12-04T19:56:48Z",
+    "+@generated-on": "2025-01-05T18:33:59Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "7127"
@@ -52,23 +52,106 @@
             "+@type": "Vintage"
         }
     ],
-    "staff": {
-        "+@gid": "2236662834",
-        "task": "Original creator",
-        "person": {
-            "+content": "Junichi Nojo",
-            "+@id": "61356"
+    "staff": [
+        {
+            "+@gid": "742508503",
+            "task": "Director",
+            "person": {
+                "+content": "Satoshi Dezaki",
+                "+@id": "11271"
+            }
+        },
+        {
+            "+@gid": "2066122164",
+            "task": "Music",
+            "person": {
+                "+content": "Masaki Sekijima",
+                "+@id": "33567"
+            }
+        },
+        {
+            "+@gid": "2236662834",
+            "task": "Original creator",
+            "person": {
+                "+content": "Junichi Nojo",
+                "+@id": "61356"
+            }
         }
-    },
-    "cast": {
-        "+@gid": "2517239372",
-        "+@lang": "JA",
-        "role": "Sakae Murota",
-        "person": {
-            "+content": "Jun Hazumi",
-            "+@id": "4434"
+    ],
+    "cast": [
+        {
+            "+@gid": "1059026082",
+            "+@lang": "JA",
+            "role": "Takashi Ishikawa",
+            "person": {
+                "+content": "Kenji Utsumi",
+                "+@id": "548"
+            }
+        },
+        {
+            "+@gid": "2661450122",
+            "+@lang": "JA",
+            "role": "Tatsuji Miyoshi",
+            "person": {
+                "+content": "Motomu Kiyokawa",
+                "+@id": "950"
+            }
+        },
+        {
+            "+@gid": "2631160889",
+            "+@lang": "JA",
+            "role": "Ryū",
+            "person": {
+                "+content": "Shūichi Ikeda",
+                "+@id": "2136"
+            }
+        },
+        {
+            "+@gid": "1907946767",
+            "+@lang": "JA",
+            "role": "Narrator",
+            "person": {
+                "+content": "Kiyoshi Kobayashi",
+                "+@id": "2170"
+            }
+        },
+        {
+            "+@gid": "2517239372",
+            "+@lang": "JA",
+            "role": "Sakae Murota",
+            "person": {
+                "+content": "Jun Hazumi",
+                "+@id": "4434"
+            }
+        },
+        {
+            "+@gid": "2186808890",
+            "+@lang": "JA",
+            "role": "Maruko",
+            "person": {
+                "+content": "Takkō Ishimori",
+                "+@id": "9116"
+            }
+        },
+        {
+            "+@gid": "1255212452",
+            "+@lang": "JA",
+            "role": "Shōzō Kai",
+            "person": {
+                "+content": "Tatsuyuki Jinnai",
+                "+@id": "13652"
+            }
+        },
+        {
+            "+@gid": "3486923857",
+            "+@lang": "JA",
+            "role": "Michizō Sakurada",
+            "person": {
+                "+content": "Shigeyuki Hosoi",
+                "+@id": "20190"
+            }
         }
-    },
+    ],
     "credit": {
         "+@gid": "1304857699",
         "task": "Production",
@@ -78,6 +161,6 @@
         }
     },
     "+@date-added": "2018-08-22T17:27:23Z",
-    "+@date-last-modified-at": "2024-12-04T19:56:48Z",
-    "+@date-last-updated-at": "2024-12-04T19:56:48Z"
+    "+@date-last-modified-at": "2025-01-05T18:34:02Z",
+    "+@date-last-updated-at": "2025-01-05T18:34:02Z"
 }
