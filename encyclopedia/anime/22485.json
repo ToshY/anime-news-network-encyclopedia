@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Mewkledreamy",
     "+@precision": "TV",
-    "+@generated-on": "2024-12-04T19:55:29Z",
+    "+@generated-on": "2025-01-05T10:31:35Z",
     "related-next": {
         "+@id": "24065",
         "+@rel": "sequel"
@@ -81,7 +81,7 @@
     ],
     "ratings": {
         "+@nb_votes": "7",
-        "+@weighted_score": "6.439"
+        "+@weighted_score": "6.4389"
     },
     "episode": [
         {
@@ -478,7 +478,7 @@
             "+@gid": "1737468244",
             "task": "Script",
             "person": {
-                "+content": "Sayuri Ooba",
+                "+content": "Sayuri Ōba",
                 "+@id": "27620"
             }
         },
@@ -1174,15 +1174,25 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2757275255",
-        "task": "Animation Production",
-        "company": {
-            "+content": "J.C. Staff",
-            "+@id": "280"
+    "credit": [
+        {
+            "+@gid": "2757275255",
+            "task": "Animation Production",
+            "company": {
+                "+content": "J.C. Staff",
+                "+@id": "280"
+            }
+        },
+        {
+            "+@gid": "577849979",
+            "task": "Production",
+            "company": {
+                "+content": "J.C. Staff",
+                "+@id": "478"
+            }
         }
-    },
+    ],
     "+@date-added": "2019-08-31T21:52:22Z",
-    "+@date-last-modified-at": "2024-12-04T19:55:29Z",
-    "+@date-last-updated-at": "2024-12-04T19:55:29Z"
+    "+@date-last-modified-at": "2025-01-05T10:31:36Z",
+    "+@date-last-updated-at": "2025-01-05T10:31:36Z"
 }
