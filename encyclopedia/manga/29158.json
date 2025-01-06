@@ -2,12 +2,16 @@
     "+@id": "29158",
     "+@gid": "2706998887",
     "+@type": "manga",
-    "+@name": "Champignon no Majo",
+    "+@name": "Champignon Witch",
     "+@precision": "manga",
-    "+@generated-on": "2024-12-04T21:16:30Z",
+    "+@generated-on": "2025-01-06T18:37:23Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "26867"
+    },
+    "related-next": {
+        "+@id": "34162",
+        "+@rel": "adaptation"
     },
     "info": [
         {
@@ -35,22 +39,32 @@
             ]
         },
         {
-            "+content": "Champignon no Majo",
-            "+@gid": "946724547",
-            "+@type": "Main title",
-            "+@lang": "JA"
-        },
-        {
             "+content": "Champignon Witch",
             "+@gid": "598103518",
-            "+@type": "Alternative title",
+            "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Champignon no Majo",
+            "+@gid": "946724547",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
         },
         {
             "+content": "シャンピニオンの魔女",
             "+@gid": "2121697510",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "463747098",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "1487118925",
+            "+@type": "Genres"
         },
         {
             "+content": "2019-10-18 (serialized on Manga Park)",
@@ -65,11 +79,18 @@
             "+@href": "https://manga-park.com/title/14375"
         }
     ],
-    "news": {
-        "+content": "<cite>Gakuen Alice's</cite> Tachibana Higuchi Launches New Manga on October 18",
-        "+@datetime": "2019-10-07T07:47:26Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2019-10-07/gakuen-alice-tachibana-higuchi-launches-new-manga-on-october-18/.151945"
-    },
+    "news": [
+        {
+            "+content": "<cite>Gakuen Alice's</cite> Tachibana Higuchi Launches New Manga on October 18",
+            "+@datetime": "2019-10-07T07:47:26Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2019-10-07/gakuen-alice-tachibana-higuchi-launches-new-manga-on-october-18/.151945"
+        },
+        {
+            "+content": "Tachibana Higuchi's <cite>Champignon Witch</cite> Manga Gets TV Anime",
+            "+@datetime": "2024-12-13T09:54:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-13/tachibana-higuchi-champignon-witch-manga-gets-tv-anime/.218991"
+        }
+    ],
     "staff": {
         "+@gid": "622368872",
         "task": "Story & Art",
@@ -79,6 +100,6 @@
         }
     },
     "+@date-added": "2023-07-24T10:30:29Z",
-    "+@date-last-modified-at": "2024-12-04T21:16:29Z",
-    "+@date-last-updated-at": "2024-12-04T21:16:29Z"
+    "+@date-last-modified-at": "2025-01-06T18:37:26Z",
+    "+@date-last-updated-at": "2025-01-06T18:37:26Z"
 }
