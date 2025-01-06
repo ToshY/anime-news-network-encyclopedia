@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Aki no Kanade",
     "+@precision": "movie",
-    "+@generated-on": "2024-12-04T20:02:08Z",
+    "+@generated-on": "2025-01-06T23:27:49Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "15035"
@@ -59,7 +59,7 @@
     ],
     "ratings": {
         "+@nb_votes": "56",
-        "+@weighted_score": "7.323",
+        "+@weighted_score": "7.3231",
         "+@bayesian_score": "7.35213"
     },
     "news": [
@@ -79,7 +79,7 @@
             "+@gid": "1999225068",
             "task": "Director",
             "person": {
-                "+content": "Youhei Suzuki",
+                "+content": "Yōhei Suzuki",
                 "+@id": "7296"
             }
         },
@@ -203,15 +203,25 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "1606197746",
-        "task": "Animation Production",
-        "company": {
-            "+content": "J.C. Staff",
-            "+@id": "478"
+    "credit": [
+        {
+            "+@gid": "1606197746",
+            "task": "Animation Production",
+            "company": {
+                "+content": "J.C. Staff",
+                "+@id": "478"
+            }
+        },
+        {
+            "+@gid": "2839062668",
+            "task": "Production",
+            "company": {
+                "+content": "J.C. Staff",
+                "+@id": "478"
+            }
         }
-    },
+    ],
     "+@date-added": "2015-02-23T17:28:07Z",
-    "+@date-last-modified-at": "2024-12-04T20:02:08Z",
-    "+@date-last-updated-at": "2024-12-04T20:02:08Z"
+    "+@date-last-modified-at": "2025-01-06T23:27:49Z",
+    "+@date-last-updated-at": "2025-01-06T23:27:49Z"
 }
