@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Appleseed Alpha",
     "+@precision": "movie",
-    "+@generated-on": "2024-12-04T20:02:57Z",
+    "+@generated-on": "2025-01-07T05:31:13Z",
     "related-prev": {
         "+@rel": "alternate retelling of",
         "+@id": "2532"
@@ -55,6 +55,12 @@
             "+@gid": "3185943418",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "애플시드 알파",
+            "+@gid": "1810623243",
+            "+@type": "Alternative title",
+            "+@lang": "KO"
         },
         {
             "+content": "action",
@@ -137,8 +143,8 @@
     ],
     "ratings": {
         "+@nb_votes": "95",
-        "+@weighted_score": "6.9076",
-        "+@bayesian_score": "6.97621"
+        "+@weighted_score": "6.9071",
+        "+@bayesian_score": "6.97572"
     },
     "review": {
         "+content": "Appleseed Alpha Blu-Ray",
@@ -211,6 +217,24 @@
             "+content": "Crackle Adds <cite>Urusei Yatsura: Beautiful Dreamer, Lupin III: The Legend of the Gold of Babylon, Wicked City</cite>",
             "+@datetime": "2018-02-07T23:05:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2018-02-07/crackle-adds-urusei-yatsura-beautiful-dreamer-lupin-iii-the-legend-of-the-gold-of-babylon-wicked-/.127320"
+        }
+    ],
+    "staff": [
+        {
+            "+@gid": "1728939201",
+            "task": "Director",
+            "person": {
+                "+content": "Shinji Aramaki",
+                "+@id": "993"
+            }
+        },
+        {
+            "+@gid": "2002887191",
+            "task": "Original story",
+            "person": {
+                "+content": "Masamune Shirow",
+                "+@id": "2993"
+            }
         }
     ],
     "cast": [
@@ -673,6 +697,6 @@
         }
     ],
     "+@date-added": "2014-07-30T11:33:43Z",
-    "+@date-last-modified-at": "2024-12-04T20:02:59Z",
-    "+@date-last-updated-at": "2024-12-04T20:02:59Z"
+    "+@date-last-modified-at": "2025-01-07T05:31:15Z",
+    "+@date-last-updated-at": "2025-01-07T05:31:15Z"
 }
