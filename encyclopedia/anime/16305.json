@@ -4,15 +4,21 @@
     "+@type": "TV",
     "+@name": "Aldnoah.Zero",
     "+@precision": "TV 2",
-    "+@generated-on": "2024-12-04T20:02:45Z",
+    "+@generated-on": "2025-01-07T04:32:37Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "16028"
     },
-    "related-next": {
-        "+@id": "33554",
-        "+@rel": "related"
-    },
+    "related-next": [
+        {
+            "+@id": "33554",
+            "+@rel": "related"
+        },
+        {
+            "+@id": "34212",
+            "+@rel": "compilation"
+        }
+    ],
     "info": [
         {
             "+@gid": "2577485092",
@@ -145,8 +151,8 @@
     ],
     "ratings": {
         "+@nb_votes": "775",
-        "+@weighted_score": "6.6686",
-        "+@bayesian_score": "6.68195"
+        "+@weighted_score": "6.6685",
+        "+@bayesian_score": "6.68184"
     },
     "episode": [
         {
@@ -1285,6 +1291,6 @@
         }
     ],
     "+@date-added": "2014-10-02T11:41:02Z",
-    "+@date-last-modified-at": "2024-12-04T20:02:47Z",
-    "+@date-last-updated-at": "2024-12-04T20:02:47Z"
+    "+@date-last-modified-at": "2025-01-07T04:32:39Z",
+    "+@date-last-updated-at": "2025-01-07T04:32:39Z"
 }
