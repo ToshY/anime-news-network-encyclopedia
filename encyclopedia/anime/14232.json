@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "First Love",
     "+@precision": "OAV",
-    "+@generated-on": "2024-12-04T20:10:18Z",
+    "+@generated-on": "2025-01-07T23:27:26Z",
     "related-prev": [
         {
             "+@rel": "part of",
@@ -115,8 +115,8 @@
     ],
     "ratings": {
         "+@nb_votes": "23",
-        "+@weighted_score": "7.0723",
-        "+@bayesian_score": "7.21866"
+        "+@weighted_score": "7.0724",
+        "+@bayesian_score": "7.21858"
     },
     "episode": [
         {
@@ -156,14 +156,112 @@
             "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=36784"
         }
     ],
-    "staff": {
-        "+@gid": "3272211112",
-        "task": "Original creator",
-        "person": {
-            "+content": "Akiomi Osuzu",
-            "+@id": "109402"
+    "staff": [
+        {
+            "+@gid": "2629827737",
+            "task": "Director",
+            "person": {
+                "+content": "Daifuku Suginami",
+                "+@id": "34254"
+            }
+        },
+        {
+            "+@gid": "3696544351",
+            "task": "Director",
+            "person": {
+                "+content": "Onijima",
+                "+@id": "274773"
+            }
+        },
+        {
+            "+@gid": "2147745557",
+            "task": "Script",
+            "person": {
+                "+content": "Hiderō Kobayashi",
+                "+@id": "88716"
+            }
+        },
+        {
+            "+@gid": "1821613656",
+            "task": "Script",
+            "person": {
+                "+content": "Onijima",
+                "+@id": "274773"
+            }
+        },
+        {
+            "+@gid": "1341828718",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Daifuku Suginami",
+                "+@id": "34254"
+            }
+        },
+        {
+            "+@gid": "2903548976",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Onijima",
+                "+@id": "274773"
+            }
+        },
+        {
+            "+@gid": "3272211112",
+            "task": "Original creator",
+            "person": {
+                "+content": "Akiomi Osuzu",
+                "+@id": "109402"
+            }
+        },
+        {
+            "+@gid": "2970431197",
+            "task": "Character Design",
+            "person": {
+                "+content": "Daifuku Suginami",
+                "+@id": "34254"
+            }
+        },
+        {
+            "+@gid": "2619553228",
+            "task": "Character Design",
+            "person": {
+                "+content": "Onijima",
+                "+@id": "274773"
+            }
+        },
+        {
+            "+@gid": "2784452938",
+            "task": "Art Director",
+            "person": {
+                "+content": "Seihodo",
+                "+@id": "60042"
+            }
+        },
+        {
+            "+@gid": "3493669731",
+            "task": "Art design",
+            "person": {
+                "+content": "Seihodo",
+                "+@id": "60042"
+            }
+        },
+        {
+            "+@gid": "2223834024",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Tomohiro Yoshida",
+                "+@id": "6586"
+            }
+        },
+        {
+            "+@gid": "1880091194",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yuu Tagami",
+                "+@id": "34253"
+            }
         }
-    },
+    ],
     "cast": [
         {
             "+@gid": "1308102980",
@@ -227,17 +325,90 @@
                 "+content": "Akuji Saito",
                 "+@id": "201500"
             }
+        },
+        {
+            "+@gid": "2723034886",
+            "+@lang": "JA",
+            "role": "Kasumi",
+            "person": {
+                "+content": "Hitomi",
+                "+@id": "7072"
+            }
+        },
+        {
+            "+@gid": "410711037",
+            "+@lang": "JA",
+            "role": "Kasumi's Brother",
+            "person": {
+                "+content": "Jinpei Hidari",
+                "+@id": "274779"
+            }
+        },
+        {
+            "+@gid": "743231635",
+            "+@lang": "JA",
+            "role": "Satoshi Sahara",
+            "person": {
+                "+content": "Yōhei Shibata",
+                "+@id": "274780"
+            }
+        },
+        {
+            "+@gid": "1641880573",
+            "+@lang": "JA",
+            "role": "Chinatsu Aoba",
+            "person": {
+                "+content": "Takako Shimao",
+                "+@id": "274781"
+            }
+        },
+        {
+            "+@gid": "298911518",
+            "+@lang": "JA",
+            "role": "Chiaki Aoba",
+            "person": {
+                "+content": "Hiromi Agata",
+                "+@id": "274782"
+            }
+        },
+        {
+            "+@gid": "1320331772",
+            "+@lang": "JA",
+            "role": "Makoto",
+            "person": {
+                "+content": "Hikari Hanasaki",
+                "+@id": "274783"
+            }
+        },
+        {
+            "+@gid": "3363693568",
+            "+@lang": "JA",
+            "role": "Kouichi",
+            "person": {
+                "+content": "Jōichirō Kanayama",
+                "+@id": "274784"
+            }
         }
     ],
-    "credit": {
-        "+@gid": "3220917786",
-        "task": "Production",
-        "company": {
-            "+content": "Digital Works",
-            "+@id": "1428"
+    "credit": [
+        {
+            "+@gid": "1529671601",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Y.O.U.C.",
+                "+@id": "2001"
+            }
+        },
+        {
+            "+@gid": "3220917786",
+            "task": "Production",
+            "company": {
+                "+content": "Digital Works",
+                "+@id": "1428"
+            }
         }
-    },
+    ],
     "+@date-added": "2012-04-07T15:50:04Z",
-    "+@date-last-modified-at": "2024-12-04T20:10:21Z",
-    "+@date-last-updated-at": "2024-12-04T20:10:21Z"
+    "+@date-last-modified-at": "2025-01-07T23:27:29Z",
+    "+@date-last-updated-at": "2025-01-07T23:27:29Z"
 }
