@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Honō no Haramase Tenkōsei",
     "+@precision": "OAV",
-    "+@generated-on": "2024-12-04T20:17:56Z",
+    "+@generated-on": "2025-01-09T16:36:40Z",
     "related-next": {
         "+@id": "11490",
         "+@rel": "sequel"
@@ -66,8 +66,8 @@
     ],
     "ratings": {
         "+@nb_votes": "58",
-        "+@weighted_score": "7.1165",
-        "+@bayesian_score": "7.18262"
+        "+@weighted_score": "7.1164",
+        "+@bayesian_score": "7.18244"
     },
     "episode": [
         {
@@ -121,15 +121,45 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "1758120845",
-        "task": "Production",
-        "company": {
-            "+content": "Himajin Planning",
-            "+@id": "4071"
+    "cast": [
+        {
+            "+@gid": "2438746565",
+            "+@lang": "JA",
+            "role": "Sayaka Minase",
+            "person": {
+                "+content": "Minami Hokuto",
+                "+@id": "43084"
+            }
+        },
+        {
+            "+@gid": "2455513017",
+            "+@lang": "JA",
+            "role": "Kanae Yumeno",
+            "person": {
+                "+content": "Rino Kawashima",
+                "+@id": "74465"
+            }
         }
-    },
+    ],
+    "credit": [
+        {
+            "+@gid": "877060348",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Honeypot",
+                "+@id": "26233"
+            }
+        },
+        {
+            "+@gid": "1758120845",
+            "task": "Production",
+            "company": {
+                "+content": "Himajin Planning",
+                "+@id": "4071"
+            }
+        }
+    ],
     "+@date-added": "2007-01-09T22:53:17Z",
-    "+@date-last-modified-at": "2024-12-04T20:17:57Z",
-    "+@date-last-updated-at": "2024-12-04T20:17:57Z"
+    "+@date-last-modified-at": "2025-01-09T16:36:42Z",
+    "+@date-last-updated-at": "2025-01-09T16:36:42Z"
 }
