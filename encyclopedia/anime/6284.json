@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Midnight Sleazy Train Track 2",
     "+@precision": "OAV",
-    "+@generated-on": "2024-12-04T20:20:32Z",
+    "+@generated-on": "2025-01-10T06:38:52Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "2912"
@@ -122,7 +122,7 @@
     "ratings": {
         "+@nb_votes": "69",
         "+@weighted_score": "6.6246",
-        "+@bayesian_score": "6.75983"
+        "+@bayesian_score": "6.75975"
     },
     "episode": [
         {
@@ -164,11 +164,83 @@
     ],
     "staff": [
         {
+            "+@gid": "2143575583",
+            "task": "Director",
+            "person": {
+                "+content": "Ken Raika",
+                "+@id": "2203"
+            }
+        },
+        {
             "+@gid": "3945577544",
             "task": "Director",
             "person": {
                 "+content": "Raikaken",
                 "+@id": "31878"
+            }
+        },
+        {
+            "+@gid": "3928692061",
+            "task": "Script",
+            "person": {
+                "+content": "Rokurōta Makabe",
+                "+@id": "14350"
+            }
+        },
+        {
+            "+@gid": "2102408087",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Mamoru Sakisaka",
+                "+@id": "31874"
+            }
+        },
+        {
+            "+@gid": "3727524885",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Masato Kitagawa",
+                "+@id": "16921"
+            }
+        },
+        {
+            "+@gid": "2653096237",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "M&M",
+                "+@id": "275396"
+            }
+        },
+        {
+            "+@gid": "2671033561",
+            "task": "Character Design",
+            "person": {
+                "+content": "Pisan Honda",
+                "+@id": "274609"
+            }
+        },
+        {
+            "+@gid": "877953390",
+            "task": "Art Director",
+            "person": {
+                "+content": "Minoru Maeda",
+                "+@id": "153755"
+            }
+        },
+        {
+            "+@gid": "204511566",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuya Soma",
+                "+@id": "31879"
+            }
+        },
+        {
+            "+@gid": "1311048626",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Pisan Honda",
+                "+@id": "274609"
             }
         },
         {
@@ -262,6 +334,15 @@
             }
         },
         {
+            "+@gid": "3075218043",
+            "+@lang": "JA",
+            "role": "Takumi Shindou",
+            "person": {
+                "+content": "Yasuyuki Kase",
+                "+@id": "2052"
+            }
+        },
+        {
             "+@gid": "1194185751",
             "+@lang": "JA",
             "role": "Maya Kamijou",
@@ -296,17 +377,45 @@
                 "+content": "Shiki Asakura",
                 "+@id": "85367"
             }
+        },
+        {
+            "+@gid": "2576540754",
+            "+@lang": "JA",
+            "role": "Leona",
+            "person": {
+                "+content": "Yuu Nagata",
+                "+@id": "275382"
+            }
+        },
+        {
+            "+@gid": "1866094070",
+            "+@lang": "JA",
+            "role": "Maho Katase",
+            "person": {
+                "+content": "Sono Shizuki",
+                "+@id": "275392"
+            }
         }
     ],
-    "credit": {
-        "+@gid": "1267442006",
-        "task": "Animation Production",
-        "company": {
-            "+content": "T-Rex",
-            "+@id": "2996"
+    "credit": [
+        {
+            "+@gid": "1267442006",
+            "task": "Animation Production",
+            "company": {
+                "+content": "T-Rex",
+                "+@id": "2996"
+            }
+        },
+        {
+            "+@gid": "4025730260",
+            "task": "Production",
+            "company": {
+                "+content": "GP Museum Soft",
+                "+@id": "9471"
+            }
         }
-    },
+    ],
     "+@date-added": "2006-02-20T21:01:27Z",
-    "+@date-last-modified-at": "2024-12-04T20:20:39Z",
-    "+@date-last-updated-at": "2024-12-04T20:20:39Z"
+    "+@date-last-modified-at": "2025-01-10T06:38:54Z",
+    "+@date-last-updated-at": "2025-01-10T06:38:54Z"
 }
