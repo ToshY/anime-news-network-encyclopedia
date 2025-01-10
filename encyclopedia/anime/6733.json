@@ -4,15 +4,27 @@
     "+@type": "movie",
     "+@name": "Girl Who Leapt Through Time",
     "+@precision": "movie",
-    "+@generated-on": "2024-12-04T20:19:39Z",
-    "related-prev": {
-        "+@rel": "related to",
-        "+@id": "6777"
-    },
-    "related-next": {
-        "+@id": "6778",
-        "+@rel": "adaptation"
-    },
+    "+@generated-on": "2025-01-10T03:00:56Z",
+    "related-prev": [
+        {
+            "+@rel": "related to",
+            "+@id": "6777"
+        },
+        {
+            "+@rel": "related to",
+            "+@id": "34247"
+        }
+    ],
+    "related-next": [
+        {
+            "+@id": "6778",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "34246",
+            "+@rel": "related"
+        }
+    ],
     "info": [
         {
             "+@gid": "2790424329",
@@ -104,6 +116,12 @@
             "+@gid": "1188034734",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "穿越时空的少女",
+            "+@gid": "2943987515",
+            "+@type": "Alternative title",
+            "+@lang": "ZH-CN"
         },
         {
             "+content": "穿越時空的少女",
@@ -243,13 +261,18 @@
             "+@type": "Premiere date"
         },
         {
+            "+content": "2025-01-11 (China, 4K remastered edition)",
+            "+@gid": "1322709518",
+            "+@type": "Premiere date"
+        },
+        {
             "+content": "\"Natsuzora\" by Kiyoshi Yoshida",
             "+@gid": "2534295178",
             "+@type": "Opening Theme"
         },
         {
-            "+content": "\"ガーネット (Garnet)\" by Oku Hanako",
-            "+@gid": "2582324484",
+            "+content": "\"Garnet\" (ガーネット) by Hanako Oku",
+            "+@gid": "3079439403",
             "+@type": "Ending Theme"
         },
         {
@@ -295,8 +318,8 @@
     ],
     "ratings": {
         "+@nb_votes": "5607",
-        "+@weighted_score": "8.6169",
-        "+@bayesian_score": "8.61427"
+        "+@weighted_score": "8.6168",
+        "+@bayesian_score": "8.61416"
     },
     "review": [
         {
@@ -1112,7 +1135,7 @@
             "+@gid": "2295922631",
             "task": "Producer",
             "person": {
-                "+content": "Yuichiro Saito",
+                "+content": "Yūichirō Saitō",
                 "+@id": "56387"
             }
         },
@@ -1552,7 +1575,7 @@
         {
             "+@gid": "666011683",
             "+@lang": "JA",
-            "role": "Kousuke Tsuda",
+            "role": "Kōsuke Tsuda",
             "person": {
                 "+content": "Mitsutaka Itakura",
                 "+@id": "58092"
@@ -1685,6 +1708,6 @@
         }
     ],
     "+@date-added": "2006-07-26T10:10:25Z",
-    "+@date-last-modified-at": "2024-12-04T20:19:40Z",
-    "+@date-last-updated-at": "2024-12-04T20:19:40Z"
+    "+@date-last-modified-at": "2025-01-10T03:01:01Z",
+    "+@date-last-updated-at": "2025-01-10T03:01:01Z"
 }
