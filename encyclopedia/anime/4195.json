@@ -4,7 +4,7 @@
     "+@type": "special",
     "+@name": "Lupin III: Swallowtail Tattoo",
     "+@precision": "special",
-    "+@generated-on": "2024-12-04T20:23:05Z",
+    "+@generated-on": "2025-01-10T19:39:12Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "3053"
@@ -121,6 +121,21 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "\"Theme from Lupin III '78 (2002 version)\" by Yuji Ohno\"",
+            "+@gid": "2471355586",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"A Rose Tatoo\" by Salena Jones",
+            "+@gid": "2978487987",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Lupin The Third\" by Salena Jones",
+            "+@gid": "2310120712",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "Kinro Roadshow Nusumareta Lupin Page",
             "+@gid": "2913194448",
             "+@type": "Official website",
@@ -138,7 +153,7 @@
     "ratings": {
         "+@nb_votes": "94",
         "+@weighted_score": "7.439",
-        "+@bayesian_score": "7.44369"
+        "+@bayesian_score": "7.44363"
     },
     "release": {
         "+content": "Lupin III: Swallowtail Tattoo (Sub.Blu-ray)",
@@ -432,15 +447,25 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2564922666",
-        "task": "Production",
-        "company": {
-            "+content": "TMS Entertainment",
-            "+@id": "292"
+    "credit": [
+        {
+            "+@gid": "2564922666",
+            "task": "Production",
+            "company": {
+                "+content": "TMS Entertainment",
+                "+@id": "292"
+            }
+        },
+        {
+            "+@gid": "1979569860",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon Television Network",
+                "+@id": "834"
+            }
         }
-    },
+    ],
     "+@date-added": "2004-07-17T23:43:06Z",
-    "+@date-last-modified-at": "2024-12-04T20:23:05Z",
-    "+@date-last-updated-at": "2024-12-04T20:23:05Z"
+    "+@date-last-modified-at": "2025-01-10T20:30:43Z",
+    "+@date-last-updated-at": "2025-01-10T20:30:43Z"
 }
