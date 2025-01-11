@@ -4,15 +4,21 @@
     "+@type": "TV",
     "+@name": "Midori no Makibao",
     "+@precision": "TV",
-    "+@generated-on": "2024-12-04T20:27:53Z",
+    "+@generated-on": "2025-01-11T19:22:38Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "8974"
     },
-    "related-next": {
-        "+@id": "25815",
-        "+@rel": "sequel"
-    },
+    "related-next": [
+        {
+            "+@id": "25815",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "34169",
+            "+@rel": "spinoff"
+        }
+    ],
     "info": [
         {
             "+@gid": "360358695",
@@ -110,7 +116,7 @@
     ],
     "ratings": {
         "+@nb_votes": "7",
-        "+@weighted_score": "5.5394"
+        "+@weighted_score": "5.5393"
     },
     "episode": [
         {
@@ -602,11 +608,18 @@
             }
         }
     ],
-    "news": {
-        "+content": "<cite>Midori no Makibao</cite> Manga Finale Gets Animated for Blu-ray Disc Box",
-        "+@datetime": "2022-06-13T19:50:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2022-06-13/midori-no-makibao-manga-finale-gets-animated-for-blu-ray-disc-box/.186629"
-    },
+    "news": [
+        {
+            "+content": "<cite>Midori no Makibao</cite> Manga Finale Gets Animated for Blu-ray Disc Box",
+            "+@datetime": "2022-06-13T19:50:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2022-06-13/midori-no-makibao-manga-finale-gets-animated-for-blu-ray-disc-box/.186629"
+        },
+        {
+            "+content": "DLE Reveals <cite>Heidi - A Girl of the Alps, Midori no Makibao</cite> Spinoff Anime Shorts",
+            "+@datetime": "2024-12-14T07:16:18Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-14/dle-reveals-heidi-a-girl-of-the-alps-midori-no-makibao-spinoff-anime-shorts/.219052"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3829193751",
@@ -1163,6 +1176,6 @@
         }
     },
     "+@date-added": null,
-    "+@date-last-modified-at": "2024-12-04T20:27:54Z",
-    "+@date-last-updated-at": "2024-12-04T20:27:54Z"
+    "+@date-last-modified-at": "2025-01-11T19:22:41Z",
+    "+@date-last-updated-at": "2025-01-11T19:22:41Z"
 }

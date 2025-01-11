@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Lupin III: Farewell to Nostradamus",
     "+@precision": "movie",
-    "+@generated-on": "2024-12-04T20:27:52Z",
+    "+@generated-on": "2025-01-11T19:22:37Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "3053"
@@ -150,6 +150,11 @@
             "+@type": "Premiere date"
         },
         {
+            "+content": "\"Theme from Lupin the Third '89\" by Yuji Ohno",
+            "+@gid": "2319609259",
+            "+@type": "Opening Theme"
+        },
+        {
             "+content": "\"Ai no Tsuzuki (Continuance of Love)\" by Iori Sokagami",
             "+@gid": "1982539595",
             "+@type": "Ending Theme"
@@ -178,8 +183,8 @@
     ],
     "ratings": {
         "+@nb_votes": "154",
-        "+@weighted_score": "7.4084",
-        "+@bayesian_score": "7.41379"
+        "+@weighted_score": "7.4083",
+        "+@bayesian_score": "7.41366"
     },
     "release": [
         {
@@ -864,9 +869,25 @@
                 "+content": "Nippon Television Network",
                 "+@id": "6063"
             }
+        },
+        {
+            "+@gid": "1992312549",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon TV Video",
+                "+@id": "18148"
+            }
+        },
+        {
+            "+@gid": "1279783060",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon TV Service",
+                "+@id": "18149"
+            }
         }
     ],
     "+@date-added": null,
-    "+@date-last-modified-at": "2024-12-04T20:27:54Z",
-    "+@date-last-updated-at": "2024-12-04T20:27:54Z"
+    "+@date-last-modified-at": "2025-01-11T19:22:41Z",
+    "+@date-last-updated-at": "2025-01-11T19:22:41Z"
 }
