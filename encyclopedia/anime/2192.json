@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Soccer Fever",
     "+@precision": "TV",
-    "+@generated-on": "2024-12-04T20:27:33Z",
+    "+@generated-on": "2025-01-11T17:28:26Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "2189"
@@ -102,6 +102,11 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "1994-04-21 (France)",
+            "+@gid": "1904234573",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "1997-02-12 (C33 - Televisió de Catalunya)",
             "+@gid": "636044044",
             "+@type": "Vintage"
@@ -109,7 +114,7 @@
     ],
     "ratings": {
         "+@nb_votes": "2",
-        "+@weighted_score": "3.8461"
+        "+@weighted_score": "3.846"
     },
     "episode": [
         {
@@ -1007,6 +1012,15 @@
             }
         },
         {
+            "+@gid": "2447279468",
+            "+@lang": "FR",
+            "role": "Brian Thompson",
+            "person": {
+                "+content": "Michel Creton",
+                "+@id": "78047"
+            }
+        },
+        {
             "+@gid": "2603398261",
             "+@lang": "IT",
             "role": "Brian Thompson da giovane",
@@ -1061,6 +1075,6 @@
         }
     },
     "+@date-added": null,
-    "+@date-last-modified-at": "2024-12-04T20:27:33Z",
-    "+@date-last-updated-at": "2024-12-04T20:27:33Z"
+    "+@date-last-modified-at": "2025-01-11T17:28:29Z",
+    "+@date-last-updated-at": "2025-01-11T17:28:29Z"
 }
