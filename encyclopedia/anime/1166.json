@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Blame!",
     "+@precision": "ONA",
-    "+@generated-on": "2024-12-04T20:30:46Z",
+    "+@generated-on": "2025-01-12T10:31:29Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "3258"
@@ -46,6 +46,18 @@
             "+@gid": "2329549741",
             "+@type": "Alternative title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Вина!",
+            "+@gid": "2027259081",
+            "+@type": "Alternative title",
+            "+@lang": "RU"
+        },
+        {
+            "+content": "ブラム!",
+            "+@gid": "3567139687",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
         },
         {
             "+content": "science fiction",
@@ -104,8 +116,8 @@
     ],
     "ratings": {
         "+@nb_votes": "310",
-        "+@weighted_score": "5.6121",
-        "+@bayesian_score": "5.68718"
+        "+@weighted_score": "5.612",
+        "+@bayesian_score": "5.68707"
     },
     "episode": [
         {
@@ -207,6 +219,14 @@
             }
         },
         {
+            "+@gid": "3182621006",
+            "task": "Music",
+            "person": {
+                "+content": "Kiyoshi",
+                "+@id": "261906"
+            }
+        },
+        {
             "+@gid": "2811303482",
             "task": "Original Manga",
             "person": {
@@ -228,6 +248,22 @@
             "person": {
                 "+content": "Akio Watanabe",
                 "+@id": "2813"
+            }
+        },
+        {
+            "+@gid": "1129626019",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Jun Makino",
+                "+@id": "275498"
+            }
+        },
+        {
+            "+@gid": "2174544596",
+            "task": "Producer",
+            "person": {
+                "+content": "Kazuki Nakamura",
+                "+@id": "39433"
             }
         }
     ],
@@ -258,6 +294,6 @@
         }
     ],
     "+@date-added": null,
-    "+@date-last-modified-at": "2024-12-04T20:30:50Z",
-    "+@date-last-updated-at": "2024-12-04T20:30:50Z"
+    "+@date-last-modified-at": "2025-01-12T10:31:34Z",
+    "+@date-last-updated-at": "2025-01-12T10:31:34Z"
 }
