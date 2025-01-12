@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "Grimm's Fairy Tales",
     "+@precision": "TV",
-    "+@generated-on": "2024-12-04T20:28:59Z",
-    "related-next": {
-        "+@id": "2242",
-        "+@rel": "sequel"
-    },
+    "+@generated-on": "2025-01-12T03:04:38Z",
+    "related-next": [
+        {
+            "+@id": "2242",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "34140",
+            "+@rel": "compilation"
+        }
+    ],
     "info": [
         {
             "+@gid": "1409020202",
@@ -218,8 +224,8 @@
     ],
     "ratings": {
         "+@nb_votes": "41",
-        "+@weighted_score": "7.3329",
-        "+@bayesian_score": "7.36773"
+        "+@weighted_score": "7.333",
+        "+@bayesian_score": "7.36769"
     },
     "episode": [
         {
@@ -787,6 +793,6 @@
         }
     ],
     "+@date-added": null,
-    "+@date-last-modified-at": "2024-12-04T20:29:00Z",
-    "+@date-last-updated-at": "2024-12-04T20:29:00Z"
+    "+@date-last-modified-at": "2025-01-12T03:04:42Z",
+    "+@date-last-updated-at": "2025-01-12T03:04:42Z"
 }
