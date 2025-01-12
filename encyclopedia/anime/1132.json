@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Anmitsu Hime",
     "+@precision": "TV",
-    "+@generated-on": "2024-12-04T20:31:00Z",
+    "+@generated-on": "2025-01-12T11:25:02Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "3724"
@@ -119,22 +119,22 @@
         },
         {
             "+content": "Sugar Princess @ Pierrot",
-            "+@gid": "1882555116",
+            "+@gid": "2174414492",
             "+@type": "Official website",
             "+@lang": "EN",
-            "+@href": "http://pierrot.jp/english/title/amakara.html"
+            "+@href": "https://en.pierrot.jp/archive/1985/tv80_13.html"
         },
         {
             "+content": "あんみつ姫・ぴえろ",
-            "+@gid": "996941163",
+            "+@gid": "298823485",
             "+@type": "Official website",
             "+@lang": "JA",
-            "+@href": "http://pierrot.jp/title/amakara/index.html"
+            "+@href": "https://pierrot.jp/archive/1985/tv80_13.html"
         }
     ],
     "ratings": {
         "+@nb_votes": "3",
-        "+@weighted_score": "5.069"
+        "+@weighted_score": "5.0687"
     },
     "episode": [
         {
@@ -615,7 +615,7 @@
             "+@gid": "2239603774",
             "task": "Storyboard",
             "person": {
-                "+content": "Ryutaro Nakamura",
+                "+content": "Ryūtarō Nakamura",
                 "+@id": "39"
             }
         },
@@ -679,7 +679,7 @@
             "+@gid": "1182576710",
             "task": "Storyboard",
             "person": {
-                "+content": "Ryo Tachiba",
+                "+content": "Ryō Tachiba",
                 "+@id": "30418"
             }
         },
@@ -695,7 +695,7 @@
             "+@gid": "2303639774",
             "task": "Episode Director",
             "person": {
-                "+content": "Ryutaro Nakamura",
+                "+content": "Ryūtarō Nakamura",
                 "+@id": "39"
             }
         },
@@ -767,7 +767,7 @@
             "+@gid": "1040528143",
             "task": "Episode Director",
             "person": {
-                "+content": "Ryo Tachiba",
+                "+content": "Ryō Tachiba",
                 "+@id": "30418"
             }
         },
@@ -791,7 +791,7 @@
             "+@gid": "1144638629",
             "task": "Original creator",
             "person": {
-                "+content": "Shôsuke Kurakane",
+                "+content": "Shōsuke Kurakane",
                 "+@id": "23813"
             }
         },
@@ -799,8 +799,16 @@
             "+@gid": "986171877",
             "task": "Character Design",
             "person": {
-                "+content": "Kooji Nanke",
+                "+content": "Kōji Nanke",
                 "+@id": "4352"
+            }
+        },
+        {
+            "+@gid": "4958010",
+            "task": "Character Design",
+            "person": {
+                "+content": "Kōji Nanke",
+                "+@id": "5753"
             }
         },
         {
@@ -895,7 +903,7 @@
             "+@gid": "3620612036",
             "task": "Animation Director",
             "person": {
-                "+content": "Saburo Masutani",
+                "+content": "Saburō Masutani",
                 "+@id": "21490"
             }
         },
@@ -982,12 +990,84 @@
     ],
     "cast": [
         {
+            "+@gid": "379578794",
+            "+@lang": "JA",
+            "role": "Manjū",
+            "person": {
+                "+content": "Yuriko Fuchizaki",
+                "+@id": "300"
+            }
+        },
+        {
+            "+@gid": "803658262",
+            "+@lang": "JA",
+            "role": "Ottotto (cat)",
+            "person": {
+                "+content": "Shigeru Chiba",
+                "+@id": "427"
+            }
+        },
+        {
+            "+@gid": "3035753796",
+            "+@lang": "JA",
+            "role": "Tanesuke Kakino",
+            "person": {
+                "+content": "Shigeru Chiba",
+                "+@id": "427"
+            }
+        },
+        {
+            "+@gid": "1256681796",
+            "+@lang": "JA",
+            "role": "Shibucha",
+            "person": {
+                "+content": "Hisako Kyōda",
+                "+@id": "834"
+            }
+        },
+        {
+            "+@gid": "1184029102",
+            "+@lang": "JA",
+            "role": "Amaguri no Suke",
+            "person": {
+                "+content": "Yūko Mita",
+                "+@id": "928"
+            }
+        },
+        {
             "+@gid": "3679103611",
             "+@lang": "JA",
             "role": "Anmitsu Hime",
             "person": {
                 "+content": "Mami Koyama",
                 "+@id": "1249"
+            }
+        },
+        {
+            "+@gid": "578716849",
+            "+@lang": "JA",
+            "role": "Julie (dog)",
+            "person": {
+                "+content": "Tesshō Genda",
+                "+@id": "1250"
+            }
+        },
+        {
+            "+@gid": "2250163260",
+            "+@lang": "JA",
+            "role": "Senbei",
+            "person": {
+                "+content": "Tesshō Genda",
+                "+@id": "1250"
+            }
+        },
+        {
+            "+@gid": "2853021475",
+            "+@lang": "JA",
+            "role": "Court Lady Ohagi",
+            "person": {
+                "+content": "Reiko Suzuki",
+                "+@id": "1576"
             }
         },
         {
@@ -1000,21 +1080,48 @@
             }
         },
         {
-            "+@gid": "2775958331",
+            "+@gid": "2659707410",
             "+@lang": "JA",
-            "role": "Hiraga Gennai",
+            "role": "Gennai Hiraga",
             "person": {
                 "+content": "Kei Tomiyama",
                 "+@id": "2378"
             }
         },
         {
+            "+@gid": "2471697422",
+            "+@lang": "JA",
+            "role": "Hikozaemon Abekawa",
+            "person": {
+                "+content": "Jouji Yanami",
+                "+@id": "2394"
+            }
+        },
+        {
             "+@gid": "2400803241",
             "+@lang": "JA",
-            "role": "Mrs. Castella",
+            "role": "Madam Castella",
             "person": {
                 "+content": "Nana Aoki",
                 "+@id": "34633"
+            }
+        },
+        {
+            "+@gid": "220675530",
+            "+@lang": "JA",
+            "role": "Shiomame",
+            "person": {
+                "+content": "Sakurako Hoshino",
+                "+@id": "34634"
+            }
+        },
+        {
+            "+@gid": "3459489441",
+            "+@lang": "JA",
+            "role": "Narrator",
+            "person": {
+                "+content": "Tomoko Ohno",
+                "+@id": "64887"
             }
         }
     ],
@@ -1027,6 +1134,6 @@
         }
     },
     "+@date-added": null,
-    "+@date-last-modified-at": "2024-12-04T20:31:03Z",
-    "+@date-last-updated-at": "2024-12-04T20:31:03Z"
+    "+@date-last-modified-at": "2025-01-12T11:25:07Z",
+    "+@date-last-updated-at": "2025-01-12T11:25:07Z"
 }
