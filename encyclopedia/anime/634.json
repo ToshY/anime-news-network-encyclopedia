@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Ehrgeiz",
     "+@precision": "TV",
-    "+@generated-on": "2024-12-04T20:32:58Z",
+    "+@generated-on": "2025-01-12T20:28:28Z",
     "info": [
         {
             "+@gid": "3865578279",
@@ -121,7 +121,7 @@
     "ratings": {
         "+@nb_votes": "15",
         "+@weighted_score": "5.1941",
-        "+@bayesian_score": "6.2543"
+        "+@bayesian_score": "6.25406"
     },
     "episode": [
         {
@@ -548,15 +548,26 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "2659328833",
-        "+@lang": "EN",
-        "role": "Akane Aoi",
-        "person": {
-            "+content": "Wendee Lee",
-            "+@id": "1184"
+    "cast": [
+        {
+            "+@gid": "2659328833",
+            "+@lang": "EN",
+            "role": "Akane Aoi",
+            "person": {
+                "+content": "Wendee Lee",
+                "+@id": "1184"
+            }
+        },
+        {
+            "+@gid": "2076805909",
+            "+@lang": "EN",
+            "role": "Akane Aoi",
+            "person": {
+                "+content": "Janyse Jaud",
+                "+@id": "2454"
+            }
         }
-    },
+    ],
     "credit": [
         {
             "+@gid": "1754628309",
@@ -608,6 +619,6 @@
         }
     ],
     "+@date-added": null,
-    "+@date-last-modified-at": "2024-12-04T20:32:58Z",
-    "+@date-last-updated-at": "2024-12-04T20:32:58Z"
+    "+@date-last-modified-at": "2025-01-12T20:28:31Z",
+    "+@date-last-updated-at": "2025-01-12T20:28:31Z"
 }
