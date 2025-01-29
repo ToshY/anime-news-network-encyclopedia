@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Last Unicorn",
     "+@precision": "movie U.S.",
-    "+@generated-on": "2024-12-30T01:57:40Z",
+    "+@generated-on": "2025-01-29T02:00:08Z",
     "info": [
         {
             "+@gid": "3132984582",
@@ -43,10 +43,46 @@
             "+@lang": "DE"
         },
         {
+            "+content": "De laatste Eenhoorn",
+            "+@gid": "2049153122",
+            "+@type": "Alternative title",
+            "+@lang": "NL"
+        },
+        {
             "+content": "Den sidste enhjørning",
             "+@gid": "805929048",
             "+@type": "Alternative title",
             "+@lang": "DA"
+        },
+        {
+            "+content": "El último unicornio",
+            "+@gid": "1643793955",
+            "+@type": "Alternative title",
+            "+@lang": "ES"
+        },
+        {
+            "+content": "L'ultimo unicorno",
+            "+@gid": "2856941096",
+            "+@type": "Alternative title",
+            "+@lang": "IT"
+        },
+        {
+            "+content": "La dernière licorne",
+            "+@gid": "1492933748",
+            "+@type": "Alternative title",
+            "+@lang": "FR"
+        },
+        {
+            "+content": "Les aventures de la licorne blanche",
+            "+@gid": "2866698088",
+            "+@type": "Alternative title",
+            "+@lang": "FR"
+        },
+        {
+            "+content": "O Último Unicórnio",
+            "+@gid": "3503484738",
+            "+@type": "Alternative title",
+            "+@lang": "PT"
         },
         {
             "+content": "Последний единорог",
@@ -121,8 +157,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "8.532"
+        "+@nb_votes": "3",
+        "+@weighted_score": "7.9595"
     },
     "release": {
         "+content": "The Last Unicorn [4K Ultra HD] (Blu-ray)",
@@ -130,6 +166,14 @@
         "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=51538"
     },
     "staff": [
+        {
+            "+@gid": "2243239498",
+            "task": "Director",
+            "person": {
+                "+content": "Katsuhisa Yamada",
+                "+@id": "4306"
+            }
+        },
         {
             "+@gid": "2020931801",
             "task": "Storyboard",
@@ -144,6 +188,14 @@
             "person": {
                 "+content": "Tsuguyuki Kubo",
                 "+@id": "10746"
+            }
+        },
+        {
+            "+@gid": "2119056150",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hidemi Kubo",
+                "+@id": "14435"
             }
         },
         {
@@ -168,6 +220,14 @@
             "person": {
                 "+content": "Katsuhisa Yamada",
                 "+@id": "4306"
+            }
+        },
+        {
+            "+@gid": "1178031836",
+            "task": "Translation",
+            "person": {
+                "+content": "Toshiro Ueno",
+                "+@id": "39480"
             }
         }
     ],
@@ -238,7 +298,7 @@
         {
             "+@gid": "3341986112",
             "+@lang": "EN",
-            "role": "Prince Lir",
+            "role": "Prince Lír",
             "person": {
                 "+content": "Jeff Bridges",
                 "+@id": "275152"
@@ -260,6 +320,204 @@
             "person": {
                 "+content": "Tammy Grimes",
                 "+@id": "275154"
+            }
+        },
+        {
+            "+@gid": "2451572001",
+            "+@lang": "ES",
+            "role": "El unicornio",
+            "person": {
+                "+content": "Rocio Garcel",
+                "+@id": "23481"
+            }
+        },
+        {
+            "+@gid": "2705255880",
+            "+@lang": "ES",
+            "role": "Lady Amalthea",
+            "person": {
+                "+content": "Rocio Garcel",
+                "+@id": "23481"
+            }
+        },
+        {
+            "+@gid": "2542157452",
+            "+@lang": "ES",
+            "role": "El unicorn",
+            "person": {
+                "+content": "Diana Santos",
+                "+@id": "31034"
+            }
+        },
+        {
+            "+@gid": "1042442634",
+            "+@lang": "ES",
+            "role": "Lady Amalthea",
+            "person": {
+                "+content": "Diana Santos",
+                "+@id": "31034"
+            }
+        },
+        {
+            "+@gid": "2951695181",
+            "+@lang": "ES",
+            "role": "El unicornio",
+            "person": {
+                "+content": "Sarita Malberti",
+                "+@id": "275456"
+            }
+        },
+        {
+            "+@gid": "1305766653",
+            "+@lang": "ES",
+            "role": "Lady Amalthea",
+            "person": {
+                "+content": "Sarita Malberti",
+                "+@id": "275456"
+            }
+        },
+        {
+            "+@gid": "2171586338",
+            "+@lang": "IT",
+            "role": "Re Haggard",
+            "person": {
+                "+content": "Riccardo Garrone",
+                "+@id": "18203"
+            }
+        },
+        {
+            "+@gid": "3559755650",
+            "+@lang": "IT",
+            "role": "Mamma Fortuna",
+            "person": {
+                "+content": "Liù Bosisio",
+                "+@id": "26010"
+            }
+        },
+        {
+            "+@gid": "2190639091",
+            "+@lang": "IT",
+            "role": "il Gatto di re Haggard",
+            "person": {
+                "+content": "Gino Pagnani",
+                "+@id": "26046"
+            }
+        },
+        {
+            "+@gid": "1932829938",
+            "+@lang": "IT",
+            "role": "Jack Jingley",
+            "person": {
+                "+content": "Mario Milita",
+                "+@id": "26155"
+            }
+        },
+        {
+            "+@gid": "2344997026",
+            "+@lang": "IT",
+            "role": "Capitano Cully",
+            "person": {
+                "+content": "Sandro Pellegrini",
+                "+@id": "26166"
+            }
+        },
+        {
+            "+@gid": "2758333662",
+            "+@lang": "IT",
+            "role": "Harpy",
+            "person": {
+                "+content": "Sandro Pellegrini",
+                "+@id": "26166"
+            }
+        },
+        {
+            "+@gid": "2960364959",
+            "+@lang": "IT",
+            "role": "lo Scheletro",
+            "person": {
+                "+content": "Nino Scardina",
+                "+@id": "26377"
+            }
+        },
+        {
+            "+@gid": "3061394682",
+            "+@lang": "IT",
+            "role": "Molly Grue",
+            "person": {
+                "+content": "Paila Pavese",
+                "+@id": "26571"
+            }
+        },
+        {
+            "+@gid": "2987985870",
+            "+@lang": "IT",
+            "role": "Ruhk",
+            "person": {
+                "+content": "Glauco Onorato",
+                "+@id": "26576"
+            }
+        },
+        {
+            "+@gid": "1566530020",
+            "+@lang": "IT",
+            "role": "l'Unicorno",
+            "person": {
+                "+content": "Antonella Rendina",
+                "+@id": "26998"
+            }
+        },
+        {
+            "+@gid": "2552074392",
+            "+@lang": "IT",
+            "role": "Lady Amalthea",
+            "person": {
+                "+content": "Antonella Rendina",
+                "+@id": "26998"
+            }
+        },
+        {
+            "+@gid": "3913682445",
+            "+@lang": "IT",
+            "role": "il Principe Lir",
+            "person": {
+                "+content": "Michele Kalamera",
+                "+@id": "27179"
+            }
+        },
+        {
+            "+@gid": "2832648842",
+            "+@lang": "IT",
+            "role": "La Farfalla",
+            "person": {
+                "+content": "Gianfranco Bellini",
+                "+@id": "27343"
+            }
+        },
+        {
+            "+@gid": "810726541",
+            "+@lang": "IT",
+            "role": "il Mago Schmendrick",
+            "person": {
+                "+content": "Luca Biagini",
+                "+@id": "51105"
+            }
+        },
+        {
+            "+@gid": "2308182042",
+            "+@lang": "IT",
+            "role": "Mabruk",
+            "person": {
+                "+content": "Manlio Guardabassi",
+                "+@id": "182316"
+            }
+        },
+        {
+            "+@gid": "2822617258",
+            "+@lang": "IT",
+            "role": "l'Albero",
+            "person": {
+                "+content": "Didi Perego",
+                "+@id": "275459"
             }
         },
         {
@@ -315,6 +573,276 @@
                 "+content": "Iwona Rulewicz",
                 "+@id": "67205"
             }
+        },
+        {
+            "+@gid": "1401857452",
+            "+@lang": "PL",
+            "role": "Dziewczyna",
+            "person": {
+                "+content": "Joanna Domanska",
+                "+@id": "67208"
+            }
+        },
+        {
+            "+@gid": "385992490",
+            "+@lang": "PL",
+            "role": "Molly Grue",
+            "person": {
+                "+content": "Joanna Domanska",
+                "+@id": "67208"
+            }
+        },
+        {
+            "+@gid": "2632117345",
+            "+@lang": "PL",
+            "role": "Motyl",
+            "person": {
+                "+content": "Aleksander Gawek",
+                "+@id": "67223"
+            }
+        },
+        {
+            "+@gid": "2775675575",
+            "+@lang": "PL",
+            "role": "Schmendrick",
+            "person": {
+                "+content": "Aleksander Gawek",
+                "+@id": "67223"
+            }
+        },
+        {
+            "+@gid": "3950005791",
+            "+@lang": "PL",
+            "role": "Książę Lir",
+            "person": {
+                "+content": "Marek Włodarczyk",
+                "+@id": "70910"
+            }
+        },
+        {
+            "+@gid": "3178145206",
+            "+@lang": "PL",
+            "role": "Czacha",
+            "person": {
+                "+content": "Mirosław Wieprzewski",
+                "+@id": "112707"
+            }
+        },
+        {
+            "+@gid": "1035581506",
+            "+@lang": "PL",
+            "role": "Ko",
+            "person": {
+                "+content": "Mirosław Wieprzewski",
+                "+@id": "112707"
+            }
+        },
+        {
+            "+@gid": "1931444865",
+            "+@lang": "PL",
+            "role": "Rolnik",
+            "person": {
+                "+content": "Mirosław Wieprzewski",
+                "+@id": "112707"
+            }
+        },
+        {
+            "+@gid": "3884669301",
+            "+@lang": "PL",
+            "role": "Wieśniak #1",
+            "person": {
+                "+content": "Mirosław Wieprzewski",
+                "+@id": "112707"
+            }
+        },
+        {
+            "+@gid": "1955994035",
+            "+@lang": "PL",
+            "role": "Król Haggard",
+            "person": {
+                "+content": "Jacek Kałucki",
+                "+@id": "113048"
+            }
+        },
+        {
+            "+@gid": "1256473800",
+            "+@lang": "PL",
+            "role": "Nadworny mag",
+            "person": {
+                "+content": "Sylwester Maciejewski",
+                "+@id": "114362"
+            }
+        },
+        {
+            "+@gid": "446834861",
+            "+@lang": "PL",
+            "role": "Wędrowiec #1",
+            "person": {
+                "+content": "Sylwester Maciejewski",
+                "+@id": "114362"
+            }
+        },
+        {
+            "+@gid": "1941906015",
+            "+@lang": "PL",
+            "role": "Wędrowiec #2",
+            "person": {
+                "+content": "Sylwester Maciejewski",
+                "+@id": "114362"
+            }
+        },
+        {
+            "+@gid": "1096326344",
+            "+@lang": "PL",
+            "role": "Wieśniak #2",
+            "person": {
+                "+content": "Sylwester Maciejewski",
+                "+@id": "114362"
+            }
+        },
+        {
+            "+@gid": "2072150761",
+            "+@lang": "PT",
+            "role": "Ruhk",
+            "person": {
+                "+content": "Eleu Salvador",
+                "+@id": "48814"
+            }
+        },
+        {
+            "+@gid": "1845135538",
+            "+@lang": "PT",
+            "role": "Caçador # 2",
+            "person": {
+                "+content": "Carlos Laranjeira",
+                "+@id": "49058"
+            }
+        },
+        {
+            "+@gid": "2852297036",
+            "+@lang": "PT",
+            "role": "O Gato",
+            "person": {
+                "+content": "Ezio Ramos",
+                "+@id": "49493"
+            }
+        },
+        {
+            "+@gid": "2052900608",
+            "+@lang": "PT",
+            "role": "Príncipe Lir",
+            "person": {
+                "+content": "Ezio Ramos",
+                "+@id": "49493"
+            }
+        },
+        {
+            "+@gid": "1479055171",
+            "+@lang": "PT",
+            "role": "Harpia Celaeano",
+            "person": {
+                "+content": "Borges de Barros",
+                "+@id": "49594"
+            }
+        },
+        {
+            "+@gid": "761933624",
+            "+@lang": "PT",
+            "role": "Mabruk",
+            "person": {
+                "+content": "Borges de Barros",
+                "+@id": "49594"
+            }
+        },
+        {
+            "+@gid": "911930781",
+            "+@lang": "PT",
+            "role": "Sr. Borboleta",
+            "person": {
+                "+content": "Borges de Barros",
+                "+@id": "49594"
+            }
+        },
+        {
+            "+@gid": "2857733816",
+            "+@lang": "PT",
+            "role": "Caçador # 1",
+            "person": {
+                "+content": "Mário Jorge",
+                "+@id": "49600"
+            }
+        },
+        {
+            "+@gid": "184497626",
+            "+@lang": "PT",
+            "role": "Caveira",
+            "person": {
+                "+content": "Mário Jorge",
+                "+@id": "49600"
+            }
+        },
+        {
+            "+@gid": "2427104047",
+            "+@lang": "PT",
+            "role": "Mommy Fortuna",
+            "person": {
+                "+content": "Isaura Gomes",
+                "+@id": "49624"
+            }
+        },
+        {
+            "+@gid": "1416939418",
+            "+@lang": "PT",
+            "role": "Schmendrick",
+            "person": {
+                "+content": "Ricardo Medrado",
+                "+@id": "54081"
+            }
+        },
+        {
+            "+@gid": "2487674207",
+            "+@lang": "PT",
+            "role": "Rei Haggard",
+            "person": {
+                "+content": "José Carlos Guerra",
+                "+@id": "81279"
+            }
+        },
+        {
+            "+@gid": "1534429210",
+            "+@lang": "PT",
+            "role": "Capitão Cully",
+            "person": {
+                "+content": "Renato Master",
+                "+@id": "81468"
+            }
+        },
+        {
+            "+@gid": "563738659",
+            "+@lang": "PT",
+            "role": "Unicórnio/Lady Amalthea",
+            "person": {
+                "+content": "Neuza Azevedo",
+                "+@id": "87802"
+            }
+        },
+        {
+            "+@gid": "1924910529",
+            "+@lang": "PT",
+            "role": "Molly Grue",
+            "person": {
+                "+content": "Maximira Figueiredo",
+                "+@id": "99967"
+            }
+        },
+        {
+            "+@gid": "2016981283",
+            "+@lang": "PT",
+            "role": "Jack Jingly",
+            "person": {
+                "+content": "Antonio Cardoso",
+                "+@id": "276193"
+            }
         }
     ],
     "credit": {
@@ -326,6 +854,6 @@
         }
     },
     "+@date-added": "2024-12-27T20:43:07Z",
-    "+@date-last-modified-at": "2024-12-30T01:57:42Z",
-    "+@date-last-updated-at": "2024-12-30T01:57:42Z"
+    "+@date-last-modified-at": "2025-01-29T02:52:09Z",
+    "+@date-last-updated-at": "2025-01-29T02:52:09Z"
 }
