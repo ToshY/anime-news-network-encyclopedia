@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Anne Shirley",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-01T22:30:53Z",
+    "+@generated-on": "2025-01-31T23:26:43Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "421"
@@ -51,6 +51,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "24",
+            "+@gid": "1796127017",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2025-04",
             "+@gid": "927458286",
             "+@type": "Vintage"
@@ -63,19 +68,91 @@
             "+@href": "https://anime-ann-e.jp/"
         }
     ],
-    "news": {
-        "+content": "<i>Anne of Green Gables</i> Novels Get New Anime by Answer Studio Next Spring",
-        "+@datetime": "2024-11-20T05:17:44Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-11-20/anne-of-green-gables-novels-get-new-anime-by-answer-studio-next-spring/.218070"
-    },
-    "staff": {
-        "+@gid": "1180269344",
-        "task": "Original creator",
-        "person": {
-            "+content": "Lucy Maud Montgomery",
-            "+@id": "5609"
+    "news": [
+        {
+            "+content": "<i>Anne of Green Gables</i> Novels Get New Anime by Answer Studio Next Spring",
+            "+@datetime": "2024-11-20T05:17:44Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-11-20/anne-of-green-gables-novels-get-new-anime-by-answer-studio-next-spring/.218070"
+        },
+        {
+            "+content": "<cite>Anne Shirley</cite> 24-Episode TV Anime Stars Honoka Inoue, Aya Nakamura",
+            "+@datetime": "2025-01-23T06:10:34Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-23/anne-shirley-24-episode-tv-anime-stars-honoka-inoue-aya-nakamura/.220372"
         }
-    },
+    ],
+    "staff": [
+        {
+            "+@gid": "506708345",
+            "task": "Director",
+            "person": {
+                "+content": "Hiroshi Kawamata",
+                "+@id": "21312"
+            }
+        },
+        {
+            "+@gid": "1180269344",
+            "task": "Original creator",
+            "person": {
+                "+content": "Lucy Maud Montgomery",
+                "+@id": "5609"
+            }
+        },
+        {
+            "+@gid": "2208878330",
+            "task": "Character Design",
+            "person": {
+                "+content": "Kenichi Tsuchiya",
+                "+@id": "37724"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2551339299",
+            "+@lang": "JA",
+            "role": "Matthew Cuthbert",
+            "person": {
+                "+content": "Yasunori Matsumoto",
+                "+@id": "499"
+            }
+        },
+        {
+            "+@gid": "2998035835",
+            "+@lang": "JA",
+            "role": "Diana Barry",
+            "person": {
+                "+content": "Yume Miyamoto",
+                "+@id": "49573"
+            }
+        },
+        {
+            "+@gid": "2070062637",
+            "+@lang": "JA",
+            "role": "Marilla Cuthbert",
+            "person": {
+                "+content": "Aya Nakamura",
+                "+@id": "145780"
+            }
+        },
+        {
+            "+@gid": "3158043948",
+            "+@lang": "JA",
+            "role": "Anne Shirley",
+            "person": {
+                "+content": "Honoka Inoue",
+                "+@id": "151186"
+            }
+        },
+        {
+            "+@gid": "2331314302",
+            "+@lang": "JA",
+            "role": "Gilbert Blythe",
+            "person": {
+                "+content": "Naoya Miyase",
+                "+@id": "193424"
+            }
+        }
+    ],
     "credit": {
         "+@gid": "3150128988",
         "task": "Animation Production",
@@ -85,6 +162,6 @@
         }
     },
     "+@date-added": "2024-11-20T01:03:24Z",
-    "+@date-last-modified-at": "2025-01-01T22:30:59Z",
-    "+@date-last-updated-at": "2025-01-01T22:30:59Z"
+    "+@date-last-modified-at": "2025-01-31T23:26:44Z",
+    "+@date-last-updated-at": "2025-01-31T23:26:44Z"
 }
