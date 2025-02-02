@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Tonbo!",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-03T14:31:00Z",
+    "+@generated-on": "2025-02-02T16:33:08Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27999"
@@ -67,6 +67,16 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "1502670824",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "13",
+            "+@gid": "966008015",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2024-04-06",
             "+@gid": "2573518189",
             "+@type": "Vintage"
@@ -90,9 +100,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "16",
-        "+@weighted_score": "6.8709",
-        "+@bayesian_score": "7.14269"
+        "+@nb_votes": "17",
+        "+@weighted_score": "6.9392",
+        "+@bayesian_score": "7.17207"
     },
     "episode": [
         {
@@ -411,6 +421,14 @@
             }
         },
         {
+            "+@gid": "2361393770",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masumi Hattori",
+                "+@id": "11824"
+            }
+        },
+        {
             "+@gid": "2007877347",
             "task": "Animation Director",
             "person": {
@@ -643,6 +661,6 @@
         }
     },
     "+@date-added": "2023-04-29T23:37:05Z",
-    "+@date-last-modified-at": "2025-01-03T14:31:11Z",
-    "+@date-last-updated-at": "2025-01-03T14:31:11Z"
+    "+@date-last-modified-at": "2025-02-02T16:33:12Z",
+    "+@date-last-updated-at": "2025-02-02T16:33:12Z"
 }

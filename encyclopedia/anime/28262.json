@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Medalist",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-03T14:30:59Z",
+    "+@generated-on": "2025-02-02T16:33:08Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24370"
@@ -46,6 +46,16 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "23",
+            "+@gid": "1674627652",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "13",
+            "+@gid": "2707744948",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2025-01-04",
             "+@gid": "1990006264",
             "+@type": "Vintage"
@@ -56,11 +66,62 @@
             "+@type": "Opening Theme"
         },
         {
+            "+content": "\"Atashi no Dress\" (アタシのドレス; My Dress) by Neguse.",
+            "+@gid": "4026895823",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "TVアニメ「メダリスト」公式サイト",
             "+@gid": "3101779586",
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://medalist-pr.com/"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "8"
+    },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "A Genius on the Ice",
+                "+@gid": "2936502639",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "Prelim Badge Test",
+                "+@gid": "1066974677",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "Taiyaki and Cake",
+                "+@gid": "3230923170",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "Meikoh Cup, Junior Women's Prelim Free Skating (Part One)",
+                "+@gid": "1595838985",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "Meikoh Cup, Junior Women's Prelim Free Skating (Part Two)",
+                "+@gid": "1381531246",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -131,6 +192,62 @@
             }
         },
         {
+            "+@gid": "3362109530",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shinichi Watanabe",
+                "+@id": "512"
+            }
+        },
+        {
+            "+@gid": "3264982253",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Toshihiko Masuda",
+                "+@id": "6641"
+            }
+        },
+        {
+            "+@gid": "613142646",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yasutaka Yamamoto",
+                "+@id": "37082"
+            }
+        },
+        {
+            "+@gid": "1560922449",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yasutaka Yamamoto",
+                "+@id": "37082"
+            }
+        },
+        {
+            "+@gid": "2795973959",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Manabu Kurihara",
+                "+@id": "84022"
+            }
+        },
+        {
+            "+@gid": "3010199105",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takahiro Hirata",
+                "+@id": "195965"
+            }
+        },
+        {
+            "+@gid": "3231820592",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shinichi Fukumoto",
+                "+@id": "219254"
+            }
+        },
+        {
             "+@gid": "2522605136",
             "task": "Music",
             "person": {
@@ -179,6 +296,46 @@
             }
         },
         {
+            "+@gid": "1211270704",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūki Tamori",
+                "+@id": "113066"
+            }
+        },
+        {
+            "+@gid": "3346405437",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yoshiki Masui",
+                "+@id": "135144"
+            }
+        },
+        {
+            "+@gid": "990504818",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hikari Aonuma",
+                "+@id": "143887"
+            }
+        },
+        {
+            "+@gid": "1833974158",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chinatsu Kameyama",
+                "+@id": "165104"
+            }
+        },
+        {
+            "+@gid": "1971173687",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Katsuki Yokoyama",
+                "+@id": "240975"
+            }
+        },
+        {
             "+@gid": "754721231",
             "task": "3D Director",
             "person": {
@@ -205,12 +362,102 @@
     ],
     "cast": [
         {
+            "+@gid": "2607345193",
+            "+@lang": "EN",
+            "role": "Mamoru Sekoma",
+            "person": {
+                "+content": "Steve Kramer",
+                "+@id": "536"
+            }
+        },
+        {
+            "+@gid": "2901930913",
+            "+@lang": "EN",
+            "role": "Nozomi Yuitsuka",
+            "person": {
+                "+content": "Erica Schroeder",
+                "+@id": "21759"
+            }
+        },
+        {
+            "+@gid": "3963141159",
+            "+@lang": "EN",
+            "role": "Rioh",
+            "person": {
+                "+content": "Cristina Vee",
+                "+@id": "68135"
+            }
+        },
+        {
+            "+@gid": "2318419143",
+            "+@lang": "EN",
+            "role": "Miki Yuitsuka",
+            "person": {
+                "+content": "Christine Marie Cabanos",
+                "+@id": "95337"
+            }
+        },
+        {
+            "+@gid": "1649840165",
+            "+@lang": "EN",
+            "role": "Hikaru",
+            "person": {
+                "+content": "Grace Lu",
+                "+@id": "118077"
+            }
+        },
+        {
+            "+@gid": "2541003342",
+            "+@lang": "EN",
+            "role": "Mario Nachi",
+            "person": {
+                "+content": "Felecia Angelle",
+                "+@id": "120890"
+            }
+        },
+        {
+            "+@gid": "2352319423",
+            "+@lang": "EN",
+            "role": "Jun",
+            "person": {
+                "+content": "Mark Whitten",
+                "+@id": "154736"
+            }
+        },
+        {
+            "+@gid": "2578187877",
+            "+@lang": "EN",
+            "role": "Hitomi Takamine",
+            "person": {
+                "+content": "Alejandra Reynoso",
+                "+@id": "156662"
+            }
+        },
+        {
+            "+@gid": "2534118204",
+            "+@lang": "EN",
+            "role": "Yuki Uyama",
+            "person": {
+                "+content": "Lizzie Freeman",
+                "+@id": "182190"
+            }
+        },
+        {
             "+@gid": "1642813522",
             "+@lang": "EN",
             "role": "Inori",
             "person": {
                 "+content": "Madeline Dorroh",
                 "+@id": "203714"
+            }
+        },
+        {
+            "+@gid": "2580771999",
+            "+@lang": "EN",
+            "role": "Ryōka Miketa",
+            "person": {
+                "+content": "Kitana Turnbull",
+                "+@id": "258806"
             }
         },
         {
@@ -295,6 +542,15 @@
             }
         },
         {
+            "+@gid": "1239281205",
+            "+@lang": "JA",
+            "role": "Mika Yuitsuka",
+            "person": {
+                "+content": "Azumi Waki",
+                "+@id": "134798"
+            }
+        },
+        {
             "+@gid": "3166152432",
             "+@lang": "JA",
             "role": "Inori Yuitsuka",
@@ -347,17 +603,52 @@
                 "+content": "Taito Ban",
                 "+@id": "167294"
             }
+        },
+        {
+            "+@gid": "800370551",
+            "+@lang": "JA",
+            "role": "Yuki Uyama",
+            "person": {
+                "+content": "Teiko Nanahara",
+                "+@id": "249494"
+            }
         }
     ],
-    "credit": {
-        "+@gid": "2171665466",
-        "task": "Animation Production",
-        "company": {
-            "+content": "ENGI",
-            "+@id": "17950"
+    "credit": [
+        {
+            "+@gid": "2171665466",
+            "task": "Animation Production",
+            "company": {
+                "+content": "ENGI",
+                "+@id": "17950"
+            }
+        },
+        {
+            "+@gid": "2100855593",
+            "task": "Production",
+            "company": {
+                "+content": "Kodansha",
+                "+@id": "88"
+            }
+        },
+        {
+            "+@gid": "2376386687",
+            "task": "Production",
+            "company": {
+                "+content": "TV Asahi",
+                "+@id": "160"
+            }
+        },
+        {
+            "+@gid": "3528859671",
+            "task": "Production",
+            "company": {
+                "+content": "Kadokawa",
+                "+@id": "15420"
+            }
         }
-    },
+    ],
     "+@date-added": "2023-05-18T02:27:07Z",
-    "+@date-last-modified-at": "2025-01-03T14:31:11Z",
-    "+@date-last-updated-at": "2025-01-03T14:31:11Z"
+    "+@date-last-modified-at": "2025-02-02T16:33:12Z",
+    "+@date-last-updated-at": "2025-02-02T16:33:12Z"
 }
