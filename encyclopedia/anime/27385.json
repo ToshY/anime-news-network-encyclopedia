@@ -2,9 +2,9 @@
     "+@id": "27385",
     "+@gid": "2678068139",
     "+@type": "TV",
-    "+@name": "Mahō Tsukai Precure!!: MIRAI DAYS",
+    "+@name": "Witchy Precure! -MIRAI DAYS-",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-03T15:29:42Z",
+    "+@generated-on": "2025-02-02T17:28:09Z",
     "related-prev": [
         {
             "+@rel": "sequel of",
@@ -41,9 +41,15 @@
             ]
         },
         {
+            "+content": "Witchy Precure! -MIRAI DAYS-",
+            "+@gid": "1304563574",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Mahō Tsukai Precure!!: MIRAI DAYS",
             "+@gid": "3137997259",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -51,6 +57,21 @@
             "+@gid": "3194266512",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "magic",
+            "+@gid": "4072011484",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "magical girl",
+            "+@gid": "2993699220",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "24",
+            "+@gid": "2035113535",
+            "+@type": "Running time"
         },
         {
             "+content": "2025-01-11",
@@ -73,6 +94,52 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://www.toei-anim.co.jp/tv/mahotsukai_precure2/"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "7"
+    },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "The Reunion is Miracle and Magical!",
+                "+@gid": "2477890926",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "The Long Awaited Magic World",
+                "+@gid": "2686731637",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "The Magic of Time",
+                "+@gid": "677235345",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "The Secret of Hisui",
+                "+@gid": "2243587205",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "The Years Flowing By",
+                "+@gid": "1596826493",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -105,6 +172,11 @@
             "+content": "<cite>Witchy Precure!!: MIRAI DAYS</cite> Sequel Anime Casts Toshiyuki Toyonaga",
             "+@datetime": "2024-12-07T14:47:07Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-07/witchy-precure-mirai-days-sequel-anime-casts-toshiyuki-toyonaga/.218720"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>Witchy Precure!!: MIRAI DAYS</cite> Sequel Anime",
+            "+@datetime": "2025-01-17T21:14:41Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-17/crunchyroll-streams-witchy-precure-mirai-days-sequel-anime/.220170"
         }
     ],
     "staff": [
@@ -122,6 +194,94 @@
             "person": {
                 "+content": "Isao Murayama",
                 "+@id": "75770"
+            }
+        },
+        {
+            "+@gid": "1664877624",
+            "task": "Script",
+            "person": {
+                "+content": "Isao Murayama",
+                "+@id": "75770"
+            }
+        },
+        {
+            "+@gid": "1526074105",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hiroyuki Fukushima",
+                "+@id": "588"
+            }
+        },
+        {
+            "+@gid": "3594437154",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ryōji Fujiwara",
+                "+@id": "8901"
+            }
+        },
+        {
+            "+@gid": "3130272781",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takayuki Hamana",
+                "+@id": "28247"
+            }
+        },
+        {
+            "+@gid": "1131928257",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tohru Mitsuhashi",
+                "+@id": "60703"
+            }
+        },
+        {
+            "+@gid": "1123716942",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yū Yoshiyama",
+                "+@id": "115495"
+            }
+        },
+        {
+            "+@gid": "2287770587",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shigeru Yamazaki",
+                "+@id": "19231"
+            }
+        },
+        {
+            "+@gid": "1781449010",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Matsuo Asami",
+                "+@id": "31362"
+            }
+        },
+        {
+            "+@gid": "2645441060",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yū Yoshiyama",
+                "+@id": "115495"
+            }
+        },
+        {
+            "+@gid": "803890961",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Tohru Mitsuhashi",
+                "+@id": "60703"
+            }
+        },
+        {
+            "+@gid": "1078874097",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Ken Takahashi",
+                "+@id": "173242"
             }
         },
         {
@@ -155,6 +315,254 @@
                 "+content": "Asami Sodeyama",
                 "+@id": "96948"
             }
+        },
+        {
+            "+@gid": "968613510",
+            "task": "Art Director",
+            "person": {
+                "+content": "Kyōko Ishida",
+                "+@id": "35702"
+            }
+        },
+        {
+            "+@gid": "1896189087",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Maki Fujii",
+                "+@id": "7142"
+            }
+        },
+        {
+            "+@gid": "2433933705",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kyoko Kametani",
+                "+@id": "73143"
+            }
+        },
+        {
+            "+@gid": "2864149953",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Marina Sato",
+                "+@id": "77992"
+            }
+        },
+        {
+            "+@gid": "1112237953",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Asami Sodeyama",
+                "+@id": "96948"
+            }
+        },
+        {
+            "+@gid": "1341825218",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Guonian Wang",
+                "+@id": "145998"
+            }
+        },
+        {
+            "+@gid": "3408048228",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Rika Inoue",
+                "+@id": "189834"
+            }
+        },
+        {
+            "+@gid": "3460387000",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Naoko Iwata",
+                "+@id": "259074"
+            }
+        },
+        {
+            "+@gid": "1051863110",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Naomi Utsuno",
+                "+@id": "46548"
+            }
+        },
+        {
+            "+@gid": "1482460755",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tooru Sawamura",
+                "+@id": "60146"
+            }
+        },
+        {
+            "+@gid": "2148809299",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kyoko Kametani",
+                "+@id": "73143"
+            }
+        },
+        {
+            "+@gid": "365238948",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Li Wang",
+                "+@id": "93307"
+            }
+        },
+        {
+            "+@gid": "2629766141",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiromi Kurosawa",
+                "+@id": "108153"
+            }
+        },
+        {
+            "+@gid": "1533049515",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Seika Matsui",
+                "+@id": "109092"
+            }
+        },
+        {
+            "+@gid": "1819006914",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yū Yoshiyama",
+                "+@id": "115495"
+            }
+        },
+        {
+            "+@gid": "1183812365",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yun Zhang",
+                "+@id": "129896"
+            }
+        },
+        {
+            "+@gid": "2432717112",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hayato Arata",
+                "+@id": "168238"
+            }
+        },
+        {
+            "+@gid": "2026197003",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Risa Sugimoto",
+                "+@id": "218408"
+            }
+        },
+        {
+            "+@gid": "3375920050",
+            "task": "Animation Director",
+            "person": {
+                "+content": "PAPALELO",
+                "+@id": "263776"
+            }
+        },
+        {
+            "+@gid": "2093050761",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sorata Aoumi",
+                "+@id": "269981"
+            }
+        },
+        {
+            "+@gid": "2269132877",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wei Hang Liu",
+                "+@id": "270454"
+            }
+        },
+        {
+            "+@gid": "2139593165",
+            "task": "Art design",
+            "person": {
+                "+content": "Kyōko Ishida",
+                "+@id": "35702"
+            }
+        },
+        {
+            "+@gid": "2143452355",
+            "task": "3D Director",
+            "person": {
+                "+content": "Shinsuke Ōshima",
+                "+@id": "86213"
+            }
+        },
+        {
+            "+@gid": "3048434783",
+            "task": "3D Director",
+            "person": {
+                "+content": "Hiroshi Uchibori",
+                "+@id": "273057"
+            }
+        },
+        {
+            "+@gid": "2295722287",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Miho Sugawara",
+                "+@id": "237636"
+            }
+        },
+        {
+            "+@gid": "565999348",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Akira Shimozaki",
+                "+@id": "67693"
+            }
+        },
+        {
+            "+@gid": "3075609382",
+            "task": "Producer",
+            "person": {
+                "+content": "Takumi Kohama",
+                "+@id": "40908"
+            }
+        },
+        {
+            "+@gid": "3277010517",
+            "task": "Producer",
+            "person": {
+                "+content": "Keisuke Naitō",
+                "+@id": "153739"
+            }
+        },
+        {
+            "+@gid": "694692322",
+            "task": "Producer",
+            "person": {
+                "+content": "Akira Tanaka",
+                "+@id": "177530"
+            }
+        },
+        {
+            "+@gid": "1752034853",
+            "task": "Producer",
+            "person": {
+                "+content": "Daiki Tomihara",
+                "+@id": "196447"
+            }
+        },
+        {
+            "+@gid": "2437672793",
+            "task": "Producer",
+            "person": {
+                "+content": "Haruhisa Ōya",
+                "+@id": "206776"
+            }
         }
     ],
     "cast": [
@@ -179,10 +587,19 @@
         {
             "+@gid": "1800459782",
             "+@lang": "JA",
-            "role": "Airu",
+            "role": "Ire",
             "person": {
                 "+content": "Toshiyuki Toyonaga",
                 "+@id": "17817"
+            }
+        },
+        {
+            "+@gid": "1368918912",
+            "+@lang": "JA",
+            "role": "Cathy/Magic Crystal",
+            "person": {
+                "+content": "Satomi Arai",
+                "+@id": "26718"
             }
         },
         {
@@ -201,6 +618,15 @@
             "person": {
                 "+content": "Saori Hayami",
                 "+@id": "63462"
+            }
+        },
+        {
+            "+@gid": "1107510039",
+            "+@lang": "JA",
+            "role": "Headmaster",
+            "person": {
+                "+content": "Yūya Uchida",
+                "+@id": "63485"
             }
         },
         {
@@ -232,6 +658,6 @@
         }
     ],
     "+@date-added": "2023-03-14T00:52:42Z",
-    "+@date-last-modified-at": "2025-01-03T15:29:43Z",
-    "+@date-last-updated-at": "2025-01-03T15:29:43Z"
+    "+@date-last-modified-at": "2025-02-02T17:28:11Z",
+    "+@date-last-updated-at": "2025-02-02T17:28:11Z"
 }
