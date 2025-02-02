@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Solo Leveling Season 2 -Arise from the Shadow-",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-03T05:31:17Z",
+    "+@generated-on": "2025-02-02T06:34:46Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26000"
@@ -98,9 +98,19 @@
             "+@type": "Objectionable content"
         },
         {
+            "+content": "Jinwoo Sung has become a formidable necromancer with an army of loyal shadows at his command. But he must master these abilities while keeping them hidden from other hunters, all while racing against the clock to save his mother. As he faces humanity's toughest foes, Jinwoo pushes his body and mind to the limit, and the full extent of his newfound power is revealed.",
+            "+@gid": "2317193235",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "23",
             "+@gid": "2544155154",
             "+@type": "Running time"
+        },
+        {
+            "+content": "13",
+            "+@gid": "3209319832",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2025-01-04",
@@ -113,6 +123,11 @@
             "+@type": "Opening Theme"
         },
         {
+            "+content": "\"UN-APEX\" by TK from Ling Tosite Sigure",
+            "+@gid": "3504491526",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "TVアニメ「俺だけレベルアップな件」公式サイト",
             "+@gid": "3585970982",
             "+@type": "Official website",
@@ -120,14 +135,60 @@
             "+@href": "https://sololeveling-anime.net/"
         }
     ],
-    "episode": {
-        "+@num": "13",
-        "title": {
-            "+content": "You aren't E-rank, are You",
-            "+@gid": "1849727322",
-            "+@lang": "EN"
-        }
+    "ratings": {
+        "+@nb_votes": "9",
+        "+@weighted_score": "8.3267"
     },
+    "episode": [
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "You Aren't E-Rank, Are You?",
+                "+@gid": "1849727322",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "14",
+            "title": {
+                "+content": "I Suppose You Aren't Aware",
+                "+@gid": "776534095",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "15",
+            "title": {
+                "+content": "Still a Long Way to Go",
+                "+@gid": "3660472869",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "16",
+            "title": {
+                "+content": "I Need to Stop Faking",
+                "+@gid": "983140129",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "17",
+            "title": {
+                "+content": "This is What We're Trained to Do",
+                "+@gid": "3868624530",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "18",
+            "title": {
+                "+content": "Don't Look Down on My Guys",
+                "+@gid": "3449880392",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "<cite>Solo Leveling</cite> Anime Gets 2nd Season",
@@ -168,6 +229,31 @@
             "+content": "<cite>Solo Leveling Season 2's</cite> Trailer Reveals Ending Song, January 4 Debut",
             "+@datetime": "2024-12-21T17:06:29Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-21/solo-leveling-season-2-trailer-reveals-ending-song-january-4-debut/.219376"
+        },
+        {
+            "+content": "Crunchyroll Adds <cite>BanG Dream! Ave Mujica</cite>, <cite>Yamishibai: Japanese Ghost Stories</cite> Season 14 Anime",
+            "+@datetime": "2025-01-08T20:57:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-08/crunchyroll-adds-bang-dream-ave-mujica-yamishibai-japanese-ghost-stories-season-14-anime/.219839"
+        },
+        {
+            "+content": "<cite>Even Given the Worthless 'Appraiser' Class, I'm Actually the Strongest</cite> Anime Streams in India",
+            "+@datetime": "2025-01-13T10:32:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-13/even-given-the-worthless-appraiser-class-im-actually-the-strongest-anime-streams-in-india/.219976"
+        },
+        {
+            "+content": "<cite>Solo Leveling Season 2 -Arise from the Shadow-</cite> Anime's English Dub Debuts on January 18",
+            "+@datetime": "2025-01-16T17:56:46Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-16/solo-leveling-season-2-arise-from-the-shadow-anime-english-dub-debuts-on-january-18/.220119"
+        },
+        {
+            "+content": "<cite>Solo Leveling Season 2 -Arise from the Shadow-</cite> Anime's English Dub Streams in India",
+            "+@datetime": "2025-01-19T08:49:59Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-19/solo-leveling-season-2-arise-from-the-shadow-anime-english-dub-streams-in-india/.220216"
+        },
+        {
+            "+content": "2nd Seasons of <cite>Solo Leveling</cite>, <cite>The Apothecary Diaries</cite> Anime Get Indian Dubs",
+            "+@datetime": "2025-01-26T08:52:53Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-26/2nd-seasons-of-solo-leveling-the-apothecary-diaries-anime-get-indian-dubs/.220462"
         }
     ],
     "staff": [
@@ -188,11 +274,67 @@
             }
         },
         {
+            "+@gid": "1963825131",
+            "task": "Script",
+            "person": {
+                "+content": "Noboru Kimura",
+                "+@id": "18594"
+            }
+        },
+        {
             "+@gid": "2061235149",
             "task": "Script",
             "person": {
                 "+content": "Shigeru Murakoshi",
                 "+@id": "128991"
+            }
+        },
+        {
+            "+@gid": "2169440791",
+            "task": "Script",
+            "person": {
+                "+content": "Yoshikazu Tominaga",
+                "+@id": "203069"
+            }
+        },
+        {
+            "+@gid": "2690364117",
+            "task": "Script",
+            "person": {
+                "+content": "Fūka Ishii",
+                "+@id": "209968"
+            }
+        },
+        {
+            "+@gid": "908247501",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kento Toya",
+                "+@id": "60958"
+            }
+        },
+        {
+            "+@gid": "2466819120",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Makiko Hayase",
+                "+@id": "78187"
+            }
+        },
+        {
+            "+@gid": "2781353340",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shunsuke Nakashige",
+                "+@id": "106449"
+            }
+        },
+        {
+            "+@gid": "2276085969",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hiroki Hirano",
+                "+@id": "145144"
             }
         },
         {
@@ -204,11 +346,75 @@
             }
         },
         {
+            "+@gid": "1699400856",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hiromu Ōshiro",
+                "+@id": "170659"
+            }
+        },
+        {
+            "+@gid": "3204709462",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Makoto Muta",
+                "+@id": "275676"
+            }
+        },
+        {
+            "+@gid": "2476117157",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kento Toya",
+                "+@id": "60958"
+            }
+        },
+        {
+            "+@gid": "588101904",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Makiko Hayase",
+                "+@id": "78187"
+            }
+        },
+        {
             "+@gid": "622368726",
             "task": "Episode Director",
             "person": {
                 "+content": "Yūya Horiuchi",
                 "+@id": "167255"
+            }
+        },
+        {
+            "+@gid": "1528424331",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kōji Furukuwa",
+                "+@id": "183905"
+            }
+        },
+        {
+            "+@gid": "1879112446",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tatsuya Sasaki",
+                "+@id": "192031"
+            }
+        },
+        {
+            "+@gid": "2150398072",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Shunsuke Nakashige",
+                "+@id": "106449"
+            }
+        },
+        {
+            "+@gid": "1796637570",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Hiromu Ōshiro",
+                "+@id": "170659"
             }
         },
         {
@@ -260,11 +466,43 @@
             }
         },
         {
+            "+@gid": "3555440310",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Hiromi Ogata",
+                "+@id": "30029"
+            }
+        },
+        {
+            "+@gid": "3598170006",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Chiaki Furuzumi",
+                "+@id": "68544"
+            }
+        },
+        {
             "+@gid": "1322539690",
             "task": "Chief Animation Director",
             "person": {
                 "+content": "Tomoko Sudo",
                 "+@id": "74080"
+            }
+        },
+        {
+            "+@gid": "2504448951",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Hirotaka Tokuda",
+                "+@id": "128581"
+            }
+        },
+        {
+            "+@gid": "3354285369",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Tomoko Katasho",
+                "+@id": "236257"
             }
         },
         {
@@ -276,11 +514,91 @@
             }
         },
         {
+            "+@gid": "1603839219",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kumiko Ozawa",
+                "+@id": "24469"
+            }
+        },
+        {
             "+@gid": "309052771",
             "task": "Animation Director",
             "person": {
                 "+content": "Dai Imaoka",
                 "+@id": "37067"
+            }
+        },
+        {
+            "+@gid": "3036459116",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Naoaki Hōjō",
+                "+@id": "37373"
+            }
+        },
+        {
+            "+@gid": "2554902472",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Emi Yamazaki",
+                "+@id": "45849"
+            }
+        },
+        {
+            "+@gid": "3055631876",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Raku Nishikimi",
+                "+@id": "47683"
+            }
+        },
+        {
+            "+@gid": "3064329196",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ryoko Kawamura",
+                "+@id": "63387"
+            }
+        },
+        {
+            "+@gid": "4069406804",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chiaki Furuzumi",
+                "+@id": "68544"
+            }
+        },
+        {
+            "+@gid": "2273974314",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tomoko Sudo",
+                "+@id": "74080"
+            }
+        },
+        {
+            "+@gid": "906256299",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Aika Satō",
+                "+@id": "77252"
+            }
+        },
+        {
+            "+@gid": "2400107258",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Atsushi Usui",
+                "+@id": "78088"
+            }
+        },
+        {
+            "+@gid": "307781380",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takaaki Tanabe",
+                "+@id": "79581"
             }
         },
         {
@@ -292,11 +610,51 @@
             }
         },
         {
+            "+@gid": "1105776757",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hyun Ae Kwon",
+                "+@id": "85014"
+            }
+        },
+        {
+            "+@gid": "2701715986",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūsuke Kawabe",
+                "+@id": "93461"
+            }
+        },
+        {
+            "+@gid": "3346027195",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Airi Ishikawa",
+                "+@id": "99503"
+            }
+        },
+        {
             "+@gid": "3720020543",
             "task": "Animation Director",
             "person": {
                 "+content": "Maki Todaka",
                 "+@id": "122537"
+            }
+        },
+        {
+            "+@gid": "829439124",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hirotaka Tokuda",
+                "+@id": "128581"
+            }
+        },
+        {
+            "+@gid": "1578936080",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Akari Abe",
+                "+@id": "146918"
             }
         },
         {
@@ -308,11 +666,107 @@
             }
         },
         {
+            "+@gid": "2464905818",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mitsuaki Hori",
+                "+@id": "151968"
+            }
+        },
+        {
+            "+@gid": "2180909963",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuzuki Sekine",
+                "+@id": "181578"
+            }
+        },
+        {
+            "+@gid": "3139848001",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Haruka Hinata",
+                "+@id": "183836"
+            }
+        },
+        {
+            "+@gid": "1200276758",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hisashi Higashijima",
+                "+@id": "186472"
+            }
+        },
+        {
+            "+@gid": "2649871114",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sora Ishizuka",
+                "+@id": "190148"
+            }
+        },
+        {
+            "+@gid": "1016376656",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Feng Liu",
+                "+@id": "194084"
+            }
+        },
+        {
+            "+@gid": "2807734070",
+            "task": "Animation Director",
+            "person": {
+                "+content": "He Ting Huang",
+                "+@id": "203083"
+            }
+        },
+        {
+            "+@gid": "3360651097",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Akane Hirose",
+                "+@id": "207833"
+            }
+        },
+        {
+            "+@gid": "2896524301",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masaki Mori",
+                "+@id": "231653"
+            }
+        },
+        {
+            "+@gid": "3508440092",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tomoko Katasho",
+                "+@id": "236257"
+            }
+        },
+        {
+            "+@gid": "2157684761",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yū Saitō",
+                "+@id": "243945"
+            }
+        },
+        {
             "+@gid": "706852947",
             "task": "Animation Director",
             "person": {
                 "+content": "Reia Nihei",
                 "+@id": "250461"
+            }
+        },
+        {
+            "+@gid": "2138873564",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Toratoru Sotosaki",
+                "+@id": "276879"
             }
         },
         {
@@ -341,6 +795,240 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "2225270040",
+            "+@lang": "EN",
+            "role": "Go Gunhee",
+            "person": {
+                "+content": "Kent Williams",
+                "+@id": "1131"
+            }
+        },
+        {
+            "+@gid": "2565723010",
+            "+@lang": "EN",
+            "role": "Baek Yoonho",
+            "person": {
+                "+content": "Christopher R. Sabat",
+                "+@id": "1386"
+            }
+        },
+        {
+            "+@gid": "2573212022",
+            "+@lang": "EN",
+            "role": "Choi Jong-In",
+            "person": {
+                "+content": "Ian Sinclair",
+                "+@id": "42612"
+            }
+        },
+        {
+            "+@gid": "628697874",
+            "+@lang": "EN",
+            "role": "Woo Jinchul",
+            "person": {
+                "+content": "SungWon Cho",
+                "+@id": "164450"
+            }
+        },
+        {
+            "+@gid": "3057153514",
+            "+@lang": "EN",
+            "role": "Sung Jinwoo",
+            "person": {
+                "+content": "Aleks Le",
+                "+@id": "174640"
+            }
+        },
+        {
+            "+@gid": "820232275",
+            "+@lang": "EN",
+            "role": "Sun Jinah",
+            "person": {
+                "+content": "Rebecca Wang",
+                "+@id": "255180"
+            }
+        },
+        {
+            "+@gid": "3067798189",
+            "+@lang": "FR",
+            "role": "Go Gunhee",
+            "person": {
+                "+content": "Jean-Michel Vovk",
+                "+@id": "66571"
+            }
+        },
+        {
+            "+@gid": "3004055745",
+            "+@lang": "FR",
+            "role": "Hwang Dongsoo",
+            "person": {
+                "+content": "Claudio Dos Santos",
+                "+@id": "70076"
+            }
+        },
+        {
+            "+@gid": "1706675571",
+            "+@lang": "FR",
+            "role": "Yoo Jinho",
+            "person": {
+                "+content": "Maxime Donnay",
+                "+@id": "72787"
+            }
+        },
+        {
+            "+@gid": "3059426753",
+            "+@lang": "FR",
+            "role": "Anh Sang-Min",
+            "person": {
+                "+content": "Marc Weiss",
+                "+@id": "74890"
+            }
+        },
+        {
+            "+@gid": "2335446639",
+            "+@lang": "FR",
+            "role": "Park Hee-Jin",
+            "person": {
+                "+content": "Nancy Philippot",
+                "+@id": "109491"
+            }
+        },
+        {
+            "+@gid": "1955077978",
+            "+@lang": "FR",
+            "role": "Sung Jinwoo",
+            "person": {
+                "+content": "Alexis Flamant",
+                "+@id": "124896"
+            }
+        },
+        {
+            "+@gid": "2319957909",
+            "+@lang": "FR",
+            "role": "Woo Jin-Chui",
+            "person": {
+                "+content": "Olivier premel",
+                "+@id": "126589"
+            }
+        },
+        {
+            "+@gid": "1973417110",
+            "+@lang": "FR",
+            "role": "Han Song-I",
+            "person": {
+                "+content": "Marie Du Bled",
+                "+@id": "145504"
+            }
+        },
+        {
+            "+@gid": "3568309981",
+            "+@lang": "FR",
+            "role": "Cha Hae-in",
+            "person": {
+                "+content": "Ludivine Deworst",
+                "+@id": "152463"
+            }
+        },
+        {
+            "+@gid": "2446162055",
+            "+@lang": "FR",
+            "role": "Choi Jong-In",
+            "person": {
+                "+content": "Maxime Van Stantfoort",
+                "+@id": "152792"
+            }
+        },
+        {
+            "+@gid": "2332733245",
+            "+@lang": "FR",
+            "role": "Sung Jinah",
+            "person": {
+                "+content": "Sophia Atman",
+                "+@id": "172710"
+            }
+        },
+        {
+            "+@gid": "2650295578",
+            "+@lang": "FR",
+            "role": "Baek Yoon-Ho",
+            "person": {
+                "+content": "Marvin Schlick",
+                "+@id": "228452"
+            }
+        },
+        {
+            "+@gid": "1188568559",
+            "+@lang": "IT",
+            "role": "Go Gunhee / Narratore",
+            "person": {
+                "+content": "Fabrizio Pucci",
+                "+@id": "26309"
+            }
+        },
+        {
+            "+@gid": "1992964335",
+            "+@lang": "IT",
+            "role": "Yoo Jinho",
+            "person": {
+                "+content": "Stefano Broccoletti",
+                "+@id": "126210"
+            }
+        },
+        {
+            "+@gid": "2456025847",
+            "+@lang": "IT",
+            "role": "Sung Jinwoo",
+            "person": {
+                "+content": "Federico Campaiola",
+                "+@id": "145398"
+            }
+        },
+        {
+            "+@gid": "3924598716",
+            "+@lang": "IT",
+            "role": "Baek Yoonho",
+            "person": {
+                "+content": "Riccardo Scarafoni",
+                "+@id": "146902"
+            }
+        },
+        {
+            "+@gid": "3072815408",
+            "+@lang": "IT",
+            "role": "Cha Hae-in",
+            "person": {
+                "+content": "Jessica Bologna",
+                "+@id": "153007"
+            }
+        },
+        {
+            "+@gid": "1410468060",
+            "+@lang": "IT",
+            "role": "Woo Jinchul",
+            "person": {
+                "+content": "Gabriele Vender",
+                "+@id": "174805"
+            }
+        },
+        {
+            "+@gid": "1871598867",
+            "+@lang": "IT",
+            "role": "Choi Jong-in",
+            "person": {
+                "+content": "Claudio Marsicola",
+                "+@id": "183624"
+            }
+        },
+        {
+            "+@gid": "1297517728",
+            "+@lang": "IT",
+            "role": "Sung Jinah",
+            "person": {
+                "+content": "Serena Stollo",
+                "+@id": "226691"
+            }
+        },
         {
             "+@gid": "1370788106",
             "+@lang": "JA",
@@ -423,6 +1111,6 @@
         }
     },
     "+@date-added": "2024-03-30T20:05:29Z",
-    "+@date-last-modified-at": "2025-01-03T05:31:20Z",
-    "+@date-last-updated-at": "2025-01-03T05:31:20Z"
+    "+@date-last-modified-at": "2025-02-02T06:34:48Z",
+    "+@date-last-updated-at": "2025-02-02T06:34:48Z"
 }

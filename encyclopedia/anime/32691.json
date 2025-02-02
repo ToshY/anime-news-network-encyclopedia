@@ -4,29 +4,24 @@
     "+@type": "movie",
     "+@name": "New Dawn",
     "+@precision": "movie",
-    "+@generated-on": "2025-01-03T05:31:16Z",
+    "+@generated-on": "2025-02-02T06:34:45Z",
     "info": [
         {
             "+@gid": "3000525461",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32691-3000525461.1713952958.jpg",
-            "+@width": "200",
-            "+@height": "113",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32691-3000525461.1736909437.jpg",
+            "+@width": "141",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32691-3000525461.1713952958.jpg",
-                    "+@width": "200",
-                    "+@height": "113"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32691-3000525461.1736909437.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32691-3000525461.1713952958.jpg",
-                    "+@width": "500",
-                    "+@height": "282"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A32691-3000525461.1713952958.jpg",
-                    "+@width": "600",
-                    "+@height": "338"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32691-3000525461.1736909437.jpg",
+                    "+@width": "422",
+                    "+@height": "600"
                 }
             ]
         },
@@ -37,6 +32,23 @@
             "+@lang": "EN"
         },
         {
+            "+content": "Hana Rokushō ga Akeru Hi Ni",
+            "+@gid": "1516606481",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "花緑青が明ける日に",
+            "+@gid": "3555881670",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "The Obinata Fireworks Shop factory is getting prepared for an administrative action for confiscation tomorrow. It has been six years since Keitaro has been holed up in a closed-down factory creating fireworks by himself, chasing after an illusion of his father who vanished. It is a story about three young people who overcome the extreme weather conditions, disasters, and environmental problems imposed on them and establish their own identities.",
+            "+@gid": "1808632237",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "2024-05-19 (preview screened at Cannes’ Marché du Film Animation Day)",
             "+@gid": "2656424627",
             "+@type": "Vintage"
@@ -45,13 +57,27 @@
             "+content": "2025 (Japanese theatrical release)",
             "+@gid": "1634429888",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "映画『花緑青が明ける日に』公式サイト",
+            "+@gid": "3213717927",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://hanaroku.asmik-ace.co.jp/"
         }
     ],
-    "news": {
-        "+content": "Yoshitoshi Shinomiya to Direct New Film <cite>A New Dawn</cite> for 2025",
-        "+@datetime": "2024-04-23T14:17:35Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-04-23/yoshitoshi-shinomiya-to-direct-new-film-a-new-dawn-for-2025/.210127"
-    },
+    "news": [
+        {
+            "+content": "Yoshitoshi Shinomiya to Direct New Film <cite>A New Dawn</cite> for 2025",
+            "+@datetime": "2024-04-23T14:17:35Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-04-23/yoshitoshi-shinomiya-to-direct-new-film-a-new-dawn-for-2025/.210127"
+        },
+        {
+            "+content": "Yoshitoshi Shinomiya's <cite>A New Dawn</cite> Film Reveals Teaser, Key Visual, Cast",
+            "+@datetime": "2025-01-15T02:48:02Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-14/yoshitoshi-shinomiya-a-new-dawn-film-reveals-teaser-key-visual-cast/.220043"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2662454936",
@@ -100,6 +126,34 @@
                 "+content": "Akiko Majima",
                 "+@id": "79439"
             }
+        },
+        {
+            "+@gid": "1067317399",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shōhei Hamaguchi",
+                "+@id": "268689"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "654679404",
+            "+@lang": "JA",
+            "role": "Kaoru Shikimori",
+            "person": {
+                "+content": "Kotone Furukawa",
+                "+@id": "251335"
+            }
+        },
+        {
+            "+@gid": "1228427061",
+            "+@lang": "JA",
+            "role": "Keitarō Obinata",
+            "person": {
+                "+content": "Riku Hagiwara",
+                "+@id": "276057"
+            }
         }
     ],
     "credit": [
@@ -129,6 +183,6 @@
         }
     ],
     "+@date-added": "2024-04-24T05:47:02Z",
-    "+@date-last-modified-at": "2025-01-03T05:31:20Z",
-    "+@date-last-updated-at": "2025-01-03T05:31:20Z"
+    "+@date-last-modified-at": "2025-02-02T06:34:48Z",
+    "+@date-last-updated-at": "2025-02-02T06:34:48Z"
 }
