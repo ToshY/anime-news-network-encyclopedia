@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Übel Blatt",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-03T06:37:40Z",
+    "+@generated-on": "2025-02-02T08:31:13Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "10518"
@@ -42,13 +42,53 @@
             "+@lang": "JA"
         },
         {
+            "+content": "action",
+            "+@gid": "3383804104",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "2526100966",
+            "+@type": "Genres"
+        },
+        {
             "+content": "fantasy",
             "+@gid": "1625186263",
             "+@type": "Genres"
         },
         {
+            "+content": "conspiracy",
+            "+@gid": "859850891",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "gore",
+            "+@gid": "512690574",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "monsters",
+            "+@gid": "1997957250",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "revenge",
+            "+@gid": "1866143426",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "MA",
+            "+@gid": "1139367692",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "When Szaalanden was about to be invaded by Wischtech, the Emperor sent fourteen youths in order to stop the invasion. Three perished along the way, while another four was said to have betrayed the lord, and thus was killed and called the \"Lances of Betrayal\". So, only seven came back alive, and they became known as the \"7 Heroes\". Two decades later, a boy known as Koinzell has begun to hunt down and kill the Heroes. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "2301708058",
+            "+@type": "Running time"
         },
         {
             "+content": "2025-01-10",
@@ -73,6 +113,10 @@
             "+@href": "https://ubel-blatt-anime.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "5",
+        "+@weighted_score": "4.1508"
+    },
     "review": {
         "+content": "<cite>Übel Blatt</cite> – Episodes 1-2 Review (Premiere Screening)",
         "+@href": "https://www.animenewsnetwork.com/review/ubel-blatt-episodes-1-2/.219168"
@@ -97,6 +141,11 @@
             "+content": "<cite>Übel Blatt</cite> Anime's 3rd Trailer Reveals More Cast",
             "+@datetime": "2024-12-15T15:34:06Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-15/ubel-blatt-anime-3rd-trailer-reveals-more-cast/.219095"
+        },
+        {
+            "+content": "<cite>Übel Blatt</cite> Anime Reveals 9 More Cast Members",
+            "+@datetime": "2025-01-10T16:25:55Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-10/ubel-blatt-anime-reveals-9-more-cast-members/.219910"
         }
     ],
     "staff": [
@@ -240,6 +289,15 @@
             }
         },
         {
+            "+@gid": "1105683255",
+            "+@lang": "JA",
+            "role": "Rozen",
+            "person": {
+                "+content": "Kenji Hamada",
+                "+@id": "798"
+            }
+        },
+        {
             "+@gid": "2265168368",
             "+@lang": "JA",
             "role": "Fargo",
@@ -255,6 +313,15 @@
             "person": {
                 "+content": "Naoya Uchida",
                 "+@id": "5410"
+            }
+        },
+        {
+            "+@gid": "3426388200",
+            "+@lang": "JA",
+            "role": "Dariste",
+            "person": {
+                "+content": "Kenji Nomura",
+                "+@id": "7766"
             }
         },
         {
@@ -276,12 +343,30 @@
             }
         },
         {
+            "+@gid": "2412139619",
+            "+@lang": "JA",
+            "role": "Elsaria",
+            "person": {
+                "+content": "Kaori Maeda",
+                "+@id": "90655"
+            }
+        },
+        {
             "+@gid": "771408670",
             "+@lang": "JA",
             "role": "Wied",
             "person": {
                 "+content": "Toshiki Masuda",
                 "+@id": "99623"
+            }
+        },
+        {
+            "+@gid": "2028656112",
+            "+@lang": "JA",
+            "role": "Eltzen",
+            "person": {
+                "+content": "Yukari Shimotsuki",
+                "+@id": "118495"
             }
         },
         {
@@ -303,6 +388,15 @@
             }
         },
         {
+            "+@gid": "1840808746",
+            "+@lang": "JA",
+            "role": "Schemlie",
+            "person": {
+                "+content": "Shiori Sugiura",
+                "+@id": "143644"
+            }
+        },
+        {
             "+@gid": "3235477662",
             "+@lang": "JA",
             "role": "Rangzatz",
@@ -312,12 +406,48 @@
             }
         },
         {
+            "+@gid": "2580146464",
+            "+@lang": "JA",
+            "role": "Zeffi",
+            "person": {
+                "+content": "Gen Sato",
+                "+@id": "174504"
+            }
+        },
+        {
+            "+@gid": "1822075372",
+            "+@lang": "JA",
+            "role": "Kalkris",
+            "person": {
+                "+content": "Shinnosuke Tokudome",
+                "+@id": "175801"
+            }
+        },
+        {
+            "+@gid": "1760331289",
+            "+@lang": "JA",
+            "role": "Krentz",
+            "person": {
+                "+content": "Mitsuki Nakamura",
+                "+@id": "183858"
+            }
+        },
+        {
             "+@gid": "2816190313",
             "+@lang": "JA",
             "role": "Peepi",
             "person": {
                 "+content": "Hina Tachibana",
                 "+@id": "184347"
+            }
+        },
+        {
+            "+@gid": "2106931142",
+            "+@lang": "JA",
+            "role": "Ichfeis",
+            "person": {
+                "+content": "Tomohiro Ōno",
+                "+@id": "197487"
             }
         },
         {
@@ -349,6 +479,6 @@
         }
     ],
     "+@date-added": "2024-02-23T22:56:34Z",
-    "+@date-last-modified-at": "2025-01-03T06:37:41Z",
-    "+@date-last-updated-at": "2025-01-03T06:37:41Z"
+    "+@date-last-modified-at": "2025-02-02T08:31:17Z",
+    "+@date-last-updated-at": "2025-02-02T08:31:17Z"
 }

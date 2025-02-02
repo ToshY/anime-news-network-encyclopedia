@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "ZENSHU.",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-03T06:37:39Z",
+    "+@generated-on": "2025-02-02T08:31:08Z",
     "info": [
         {
             "+@gid": "1759235396",
@@ -38,9 +38,49 @@
             "+@lang": "JA"
         },
         {
+            "+content": "action",
+            "+@gid": "2652326607",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "3067135551",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "1909608611",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "399392964",
+            "+@type": "Genres"
+        },
+        {
             "+content": "animation production",
             "+@gid": "920672201",
             "+@type": "Themes"
+        },
+        {
+            "+content": "magical creatures",
+            "+@gid": "3454642024",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "monsters",
+            "+@gid": "2508956403",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "1471755615",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "3237832823",
+            "+@type": "Objectionable content"
         },
         {
             "+content": "After graduating from high school, Natsuko Hirose starts her career as an animator. Her talent quickly flourishes, and she makes her debut as a director in no time. Her first anime becomes a massive hit, sparking a social phenomenon and earning her recognition as an up-and-coming genius director. Her next project is set to be a romantic comedy movie themed around first love. However, having never been in love herself, Natsuko struggles to understand the concept of first love, and as a result, she's unable to create the storyboard, causing the movie production to come to a standstill.",
@@ -48,9 +88,24 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "23",
+            "+@gid": "3798971640",
+            "+@type": "Running time"
+        },
+        {
             "+content": "2025-01-05",
             "+@gid": "2596522273",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Zen\" by BAND-MAID",
+            "+@gid": "1099720715",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Tada, Kimi no Mama de\" by Sou",
+            "+@gid": "3849819545",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "オリジナルTVアニメ『全修。』公式サイト",
@@ -60,6 +115,10 @@
             "+@href": "https://zenshu-anime.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "6",
+        "+@weighted_score": "3.7439"
+    },
     "news": [
         {
             "+content": "MAPPA Reveals <cite>ZENSHU.</cite> Original TV Anime",
@@ -100,6 +159,16 @@
             "+content": "<cite>Ameku M.D.</cite>, <cite>Headhunted to Another World</cite>, <cite>OKITSURA</cite>, More Anime Simulcast in India",
             "+@datetime": "2024-12-16T07:52:34Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-16/ameku-m.d-headhunted-to-another-world-okitsura-more-anime-simulcast-in-india/.219055"
+        },
+        {
+            "+content": "<cite>ZENSHU.</cite> Anime Reveals Same-Day English Dub, Cast",
+            "+@datetime": "2025-01-03T19:38:36Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-03/zenshu-anime-reveals-same-day-english-dub-cast/.219709"
+        },
+        {
+            "+content": "<cite>ZENSHU.</cite> Anime Casts Mamoru Miyano",
+            "+@datetime": "2025-01-27T16:04:24Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-27/zenshu-anime-casts-mamoru-miyano/.220535"
         }
     ],
     "staff": [
@@ -112,11 +181,131 @@
             }
         },
         {
+            "+@gid": "2393382909",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Kimiko Ueno",
+                "+@id": "83183"
+            }
+        },
+        {
             "+@gid": "920375629",
             "task": "Script",
             "person": {
                 "+content": "Kimiko Ueno",
                 "+@id": "83183"
+            }
+        },
+        {
+            "+@gid": "2261208498",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ichirō Itano",
+                "+@id": "4876"
+            }
+        },
+        {
+            "+@gid": "3669347581",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yasufumi Soejima",
+                "+@id": "17693"
+            }
+        },
+        {
+            "+@gid": "2730737018",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Risako Yoshida",
+                "+@id": "53146"
+            }
+        },
+        {
+            "+@gid": "1017276503",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takayuki Sano",
+                "+@id": "54233"
+            }
+        },
+        {
+            "+@gid": "2148444198",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kayoko Ishikawa",
+                "+@id": "57863"
+            }
+        },
+        {
+            "+@gid": "3270795129",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Mitsue Yamazaki",
+                "+@id": "62432"
+            }
+        },
+        {
+            "+@gid": "1470824727",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Masatsugu Nagasoe",
+                "+@id": "131651"
+            }
+        },
+        {
+            "+@gid": "850648124",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yasufumi Soejima",
+                "+@id": "17693"
+            }
+        },
+        {
+            "+@gid": "2225124420",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Mitsue Yamazaki",
+                "+@id": "62432"
+            }
+        },
+        {
+            "+@gid": "2257802028",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Sumie Noro",
+                "+@id": "154128"
+            }
+        },
+        {
+            "+@gid": "1258059107",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ai Kondō",
+                "+@id": "196642"
+            }
+        },
+        {
+            "+@gid": "2361500771",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Iho Ishikawa",
+                "+@id": "222308"
+            }
+        },
+        {
+            "+@gid": "2937503594",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Jun Shishido",
+                "+@id": "22184"
+            }
+        },
+        {
+            "+@gid": "1035483050",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Iho Ishikawa",
+                "+@id": "222308"
             }
         },
         {
@@ -200,15 +389,569 @@
             }
         },
         {
+            "+@gid": "3971843831",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Shūji Takahara",
+                "+@id": "263643"
+            }
+        },
+        {
+            "+@gid": "3188270516",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hajime Yoshida",
+                "+@id": "2247"
+            }
+        },
+        {
+            "+@gid": "2191238337",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazuyo Nakamura",
+                "+@id": "11813"
+            }
+        },
+        {
+            "+@gid": "523914576",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Miyuki Nakamura",
+                "+@id": "18941"
+            }
+        },
+        {
+            "+@gid": "2751937309",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazuko Hayakawa",
+                "+@id": "30031"
+            }
+        },
+        {
+            "+@gid": "1732122681",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mayumi Hidaka",
+                "+@id": "34453"
+            }
+        },
+        {
+            "+@gid": "282350379",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shinichi Nozaki",
+                "+@id": "35207"
+            }
+        },
+        {
+            "+@gid": "2203887083",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Akihito Aoki",
+                "+@id": "35974"
+            }
+        },
+        {
+            "+@gid": "2826976799",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kumiko Katō",
+                "+@id": "44253"
+            }
+        },
+        {
+            "+@gid": "2997612277",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shinichi Wada",
+                "+@id": "48400"
+            }
+        },
+        {
+            "+@gid": "1959008559",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Keiko Ichihara",
+                "+@id": "54181"
+            }
+        },
+        {
+            "+@gid": "2163279480",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Si Min Lee",
+                "+@id": "56746"
+            }
+        },
+        {
+            "+@gid": "1518362800",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kayoko Ishikawa",
+                "+@id": "57863"
+            }
+        },
+        {
+            "+@gid": "3461277279",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hisashi Nakamoto",
+                "+@id": "181964"
+            }
+        },
+        {
+            "+@gid": "2107175469",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tsukasa Izumisaka",
+                "+@id": "216890"
+            }
+        },
+        {
+            "+@gid": "1612510815",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Eun Ah Shin",
+                "+@id": "223288"
+            }
+        },
+        {
+            "+@gid": "2443035792",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yi Ming Sun",
+                "+@id": "231034"
+            }
+        },
+        {
+            "+@gid": "1246659745",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hanni Yuan",
+                "+@id": "242653"
+            }
+        },
+        {
+            "+@gid": "2518231612",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jia Yi Bao",
+                "+@id": "245283"
+            }
+        },
+        {
+            "+@gid": "2141101450",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wen Long Li",
+                "+@id": "246377"
+            }
+        },
+        {
+            "+@gid": "2091426791",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shin Eun Ah",
+                "+@id": "266698"
+            }
+        },
+        {
+            "+@gid": "1090339173",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Seo Jeong Park",
+                "+@id": "267294"
+            }
+        },
+        {
+            "+@gid": "2160188371",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Eun Ji So",
+                "+@id": "269235"
+            }
+        },
+        {
+            "+@gid": "1250967869",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Non Shimamoto",
+                "+@id": "271812"
+            }
+        },
+        {
+            "+@gid": "2538702169",
+            "task": "3D Director",
+            "person": {
+                "+content": "Yurie Suzuki",
+                "+@id": "143898"
+            }
+        },
+        {
             "+@gid": "1572134744",
             "task": "Director of Photography",
             "person": {
                 "+content": "Kenta Fujita",
                 "+@id": "162104"
             }
+        },
+        {
+            "+@gid": "4155388412",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Katsuhiko Kobayashi",
+                "+@id": "26362"
+            }
+        },
+        {
+            "+@gid": "2633759008",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Manabu Ohtsuka",
+                "+@id": "72316"
+            }
+        },
+        {
+            "+@gid": "3300892574",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Kōji Yamamoto",
+                "+@id": "97670"
+            }
+        },
+        {
+            "+@gid": "3475415258",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Kōsuke Narita",
+                "+@id": "161589"
+            }
+        },
+        {
+            "+@gid": "1831511686",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Rei Marumo",
+                "+@id": "199834"
+            }
+        },
+        {
+            "+@gid": "1694347057",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Ryū Takahashi",
+                "+@id": "256909"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "1836347041",
+            "+@lang": "DE",
+            "role": "Memmeln",
+            "person": {
+                "+content": "Kristina von Weltzien",
+                "+@id": "28944"
+            }
+        },
+        {
+            "+@gid": "2633845284",
+            "+@lang": "DE",
+            "role": "Unio",
+            "person": {
+                "+content": "Tammo Kaulbarsch",
+                "+@id": "48347"
+            }
+        },
+        {
+            "+@gid": "2580102732",
+            "+@lang": "DE",
+            "role": "Stadtoberhaupt",
+            "person": {
+                "+content": "Tetje Mierendorf",
+                "+@id": "49669"
+            }
+        },
+        {
+            "+@gid": "3170277448",
+            "+@lang": "DE",
+            "role": "QJ",
+            "person": {
+                "+content": "Alexander Merbeth",
+                "+@id": "169281"
+            }
+        },
+        {
+            "+@gid": "2153350287",
+            "+@lang": "DE",
+            "role": "Luke Braveheart",
+            "person": {
+                "+content": "David Berton",
+                "+@id": "179794"
+            }
+        },
+        {
+            "+@gid": "2203356026",
+            "+@lang": "DE",
+            "role": "Chefin",
+            "person": {
+                "+content": "Saskia Brzyszczyk",
+                "+@id": "189071"
+            }
+        },
+        {
+            "+@gid": "2104005454",
+            "+@lang": "DE",
+            "role": "Pegbar",
+            "person": {
+                "+content": "Caroline Werner",
+                "+@id": "193144"
+            }
+        },
+        {
+            "+@gid": "2018260122",
+            "+@lang": "DE",
+            "role": "Natsuko Hirose",
+            "person": {
+                "+content": "Samina König",
+                "+@id": "197218"
+            }
+        },
+        {
+            "+@gid": "2247794946",
+            "+@lang": "DE",
+            "role": "Haruko",
+            "person": {
+                "+content": "Amina Gaede",
+                "+@id": "253513"
+            }
+        },
+        {
+            "+@gid": "2312984299",
+            "+@lang": "DE",
+            "role": "Boabab",
+            "person": {
+                "+content": "Iris Schumacher",
+                "+@id": "275727"
+            }
+        },
+        {
+            "+@gid": "4054362490",
+            "+@lang": "EN",
+            "role": "Unio",
+            "person": {
+                "+content": "Luci Christian",
+                "+@id": "12493"
+            }
+        },
+        {
+            "+@gid": "2578444115",
+            "+@lang": "EN",
+            "role": "Memerun",
+            "person": {
+                "+content": "Alexis Tipton",
+                "+@id": "77434"
+            }
+        },
+        {
+            "+@gid": "1701247145",
+            "+@lang": "EN",
+            "role": "QJ",
+            "person": {
+                "+content": "Derick Snow",
+                "+@id": "135734"
+            }
+        },
+        {
+            "+@gid": "3760792111",
+            "+@lang": "EN",
+            "role": "Natsuko Hirose",
+            "person": {
+                "+content": "Madeleine Morris",
+                "+@id": "150924"
+            }
+        },
+        {
+            "+@gid": "2818292494",
+            "+@lang": "EN",
+            "role": "Destiny Heartwarming",
+            "person": {
+                "+content": "Dani Chambers",
+                "+@id": "163782"
+            }
+        },
+        {
+            "+@gid": "2294557643",
+            "+@lang": "EN",
+            "role": "Luke Braveheart",
+            "person": {
+                "+content": "Ryan Negron",
+                "+@id": "216167"
+            }
+        },
+        {
+            "+@gid": "2980215581",
+            "+@lang": "ES",
+            "role": "OJ",
+            "person": {
+                "+content": "Roberto Carrillo",
+                "+@id": "37005"
+            }
+        },
+        {
+            "+@gid": "2537530275",
+            "+@lang": "ES",
+            "role": "Natsuko Hirose",
+            "person": {
+                "+content": "Susana Moreno",
+                "+@id": "57846"
+            }
+        },
+        {
+            "+@gid": "2698059003",
+            "+@lang": "ES",
+            "role": "Memerun",
+            "person": {
+                "+content": "Cynthia Chong",
+                "+@id": "98297"
+            }
+        },
+        {
+            "+@gid": "2678876781",
+            "+@lang": "ES",
+            "role": "Unio",
+            "person": {
+                "+content": "Desireé González",
+                "+@id": "156653"
+            }
+        },
+        {
+            "+@gid": "1812911101",
+            "+@lang": "ES",
+            "role": "Luke Braveheart",
+            "person": {
+                "+content": "Elliot Leguizamo",
+                "+@id": "169085"
+            }
+        },
+        {
+            "+@gid": "2757296159",
+            "+@lang": "FR",
+            "role": "QJ",
+            "person": {
+                "+content": "Jean-Paul Clerbois",
+                "+@id": "58716"
+            }
+        },
+        {
+            "+@gid": "1073022158",
+            "+@lang": "FR",
+            "role": "Unio",
+            "person": {
+                "+content": "Emilie Guillaume",
+                "+@id": "120794"
+            }
+        },
+        {
+            "+@gid": "537412926",
+            "+@lang": "FR",
+            "role": "Natsuko Hirose",
+            "person": {
+                "+content": "Ludivine Deworst",
+                "+@id": "152463"
+            }
+        },
+        {
+            "+@gid": "1582492568",
+            "+@lang": "FR",
+            "role": "Memelune",
+            "person": {
+                "+content": "Helena Coppejans",
+                "+@id": "163574"
+            }
+        },
+        {
+            "+@gid": "2808827202",
+            "+@lang": "FR",
+            "role": "Luke Braveheart",
+            "person": {
+                "+content": "Quentin Minon",
+                "+@id": "164176"
+            }
+        },
+        {
+            "+@gid": "2045153748",
+            "+@lang": "FR",
+            "role": "Destiny Heartwarming",
+            "person": {
+                "+content": "Sophia Atman",
+                "+@id": "172710"
+            }
+        },
+        {
+            "+@gid": "3957151175",
+            "+@lang": "FR",
+            "role": "Baobab",
+            "person": {
+                "+content": "Monique Clémont",
+                "+@id": "186318"
+            }
+        },
+        {
+            "+@gid": "1770861356",
+            "+@lang": "IT",
+            "role": "QJ",
+            "person": {
+                "+content": "Davide Fumagalli",
+                "+@id": "86373"
+            }
+        },
+        {
+            "+@gid": "3337029921",
+            "+@lang": "IT",
+            "role": "Memerun",
+            "person": {
+                "+content": "Katia Sorrentino",
+                "+@id": "129853"
+            }
+        },
+        {
+            "+@gid": "2043779920",
+            "+@lang": "IT",
+            "role": "Luke Braveheart",
+            "person": {
+                "+content": "Mattia Bressan",
+                "+@id": "135601"
+            }
+        },
+        {
+            "+@gid": "846961547",
+            "+@lang": "IT",
+            "role": "Unio",
+            "person": {
+                "+content": "Giulia Maniglio",
+                "+@id": "144600"
+            }
+        },
+        {
+            "+@gid": "3813234828",
+            "+@lang": "IT",
+            "role": "Natsuko Hirose",
+            "person": {
+                "+content": "Martina Tamburello",
+                "+@id": "155039"
+            }
+        },
+        {
+            "+@gid": "2127036830",
+            "+@lang": "IT",
+            "role": "Destiny Heartwarming",
+            "person": {
+                "+content": "Federica Simonelli",
+                "+@id": "191771"
+            }
+        },
         {
             "+@gid": "3942180973",
             "+@lang": "JA",
@@ -243,6 +986,15 @@
             "person": {
                 "+content": "Romi Park",
                 "+@id": "5108"
+            }
+        },
+        {
+            "+@gid": "1922008942",
+            "+@lang": "JA",
+            "role": "Ultimate Exister",
+            "person": {
+                "+content": "Mamoru Miyano",
+                "+@id": "10397"
             }
         },
         {
@@ -309,15 +1061,65 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "616334525",
-        "task": "Animation Production",
-        "company": {
-            "+content": "MAPPA",
-            "+@id": "10189"
+    "credit": [
+        {
+            "+@gid": "616334525",
+            "task": "Animation Production",
+            "company": {
+                "+content": "MAPPA",
+                "+@id": "10189"
+            }
+        },
+        {
+            "+@gid": "643308496",
+            "task": "Production",
+            "company": {
+                "+content": "Animate",
+                "+@id": "53"
+            }
+        },
+        {
+            "+@gid": "1557891102",
+            "task": "Production",
+            "company": {
+                "+content": "TV Tokyo",
+                "+@id": "262"
+            }
+        },
+        {
+            "+@gid": "3600963884",
+            "task": "Production",
+            "company": {
+                "+content": "MAPPA",
+                "+@id": "10189"
+            }
+        },
+        {
+            "+@gid": "1717861305",
+            "task": "Production",
+            "company": {
+                "+content": "Twin Engine",
+                "+@id": "16462"
+            }
+        },
+        {
+            "+@gid": "3367667454",
+            "task": "Production",
+            "company": {
+                "+content": "Rakuten",
+                "+@id": "17369"
+            }
+        },
+        {
+            "+@gid": "4005076272",
+            "task": "Production",
+            "company": {
+                "+content": "Bushiroad Creative",
+                "+@id": "20781"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-03-22T20:27:32Z",
-    "+@date-last-modified-at": "2025-01-03T06:37:41Z",
-    "+@date-last-updated-at": "2025-01-03T06:37:41Z"
+    "+@date-last-modified-at": "2025-02-02T08:31:17Z",
+    "+@date-last-updated-at": "2025-02-02T08:31:17Z"
 }

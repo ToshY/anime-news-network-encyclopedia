@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Ishura",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-01-03T06:37:39Z",
+    "+@generated-on": "2025-02-02T08:31:09Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "27125"
@@ -47,9 +47,59 @@
             "+@type": "Genres"
         },
         {
+            "+content": "drama",
+            "+@gid": "2354736335",
+            "+@type": "Genres"
+        },
+        {
             "+content": "fantasy",
             "+@gid": "1196302977",
             "+@type": "Genres"
+        },
+        {
+            "+content": "dragons",
+            "+@gid": "495538592",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "gore",
+            "+@gid": "3822253796",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "magical creatures",
+            "+@gid": "369014806",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "military",
+            "+@gid": "2330410874",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "swordplay",
+            "+@gid": "1117935817",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "tragedy",
+            "+@gid": "3060014706",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "war",
+            "+@gid": "3757943667",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "MA",
+            "+@gid": "2266828673",
+            "+@type": "Objectionable content"
+        },
+        {
+            "+content": "23",
+            "+@gid": "3926718688",
+            "+@type": "Running time"
         },
         {
             "+content": "2025-01-08",
@@ -74,6 +124,10 @@
             "+@href": "https://ishura-anime.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "4"
+    },
     "news": [
         {
             "+content": "<cite>Ishura</cite> Season 2 Reveals Teaser, New Cast, January 2025 Debut",
@@ -219,6 +273,123 @@
     ],
     "cast": [
         {
+            "+@gid": "3027496560",
+            "+@lang": "EN",
+            "role": "Mestelexil",
+            "person": {
+                "+content": "Debi Derryberry",
+                "+@id": "1421"
+            }
+        },
+        {
+            "+@gid": "2530877347",
+            "+@lang": "EN",
+            "role": "Kūro the Cautious",
+            "person": {
+                "+content": "Casey Mongillo",
+                "+@id": "74826"
+            }
+        },
+        {
+            "+@gid": "1491219877",
+            "+@lang": "EN",
+            "role": "Alus the Star Runner",
+            "person": {
+                "+content": "Kyle McCarley",
+                "+@id": "135130"
+            }
+        },
+        {
+            "+@gid": "1473554913",
+            "+@lang": "EN",
+            "role": "Soujirou the Willow Sword",
+            "person": {
+                "+content": "Griffin Burns",
+                "+@id": "145395"
+            }
+        },
+        {
+            "+@gid": "2334128562",
+            "+@lang": "EN",
+            "role": "Atrazek the Particle Storm",
+            "person": {
+                "+content": "Brook Chalmers",
+                "+@id": "184769"
+            }
+        },
+        {
+            "+@gid": "1524440903",
+            "+@lang": "EN",
+            "role": "Linaris the Obsidian",
+            "person": {
+                "+content": "Valeria Rodriguez",
+                "+@id": "200260"
+            }
+        },
+        {
+            "+@gid": "4155003448",
+            "+@lang": "EN",
+            "role": "Elea the Red Tag",
+            "person": {
+                "+content": "Mara Junot",
+                "+@id": "200481"
+            }
+        },
+        {
+            "+@gid": "2306116458",
+            "+@lang": "EN",
+            "role": "Cuneigh the Wanderer",
+            "person": {
+                "+content": "Kimiko Glenn",
+                "+@id": "211668"
+            }
+        },
+        {
+            "+@gid": "1920405453",
+            "+@lang": "EN",
+            "role": "Mele the Horizon's Roar",
+            "person": {
+                "+content": "Talon Warburton",
+                "+@id": "224267"
+            }
+        },
+        {
+            "+@gid": "3686467762",
+            "+@lang": "EN",
+            "role": "Toroa the Awful",
+            "person": {
+                "+content": "Eliah Mountjoy",
+                "+@id": "227104"
+            }
+        },
+        {
+            "+@gid": "3398305993",
+            "+@lang": "EN",
+            "role": "Jelki the Swift Ink",
+            "person": {
+                "+content": "Jeff Leach",
+                "+@id": "234121"
+            }
+        },
+        {
+            "+@gid": "2381844164",
+            "+@lang": "EN",
+            "role": "Hiroto the Paradox",
+            "person": {
+                "+content": "Michael Lorz",
+                "+@id": "245655"
+            }
+        },
+        {
+            "+@gid": "2064114487",
+            "+@lang": "EN",
+            "role": "Kiyazuna the Axle",
+            "person": {
+                "+content": "Leslie Wadsworth",
+                "+@id": "276070"
+            }
+        },
+        {
             "+@gid": "2719137436",
             "+@lang": "JA",
             "role": "Krafnir the Hatch of Truth",
@@ -255,6 +426,15 @@
             }
         },
         {
+            "+@gid": "833047552",
+            "+@lang": "JA",
+            "role": "Jelki the Swift Ink",
+            "person": {
+                "+content": "Takehito Koyasu",
+                "+@id": "662"
+            }
+        },
+        {
             "+@gid": "1846563619",
             "+@lang": "JA",
             "role": "Hiroto the Paradox",
@@ -279,6 +459,15 @@
             "person": {
                 "+content": "Wataru Takagi",
                 "+@id": "1307"
+            }
+        },
+        {
+            "+@gid": "3106330526",
+            "+@lang": "JA",
+            "role": "Elea the Red Tag",
+            "person": {
+                "+content": "Mamiko Noto",
+                "+@id": "3166"
             }
         },
         {
@@ -354,6 +543,15 @@
             }
         },
         {
+            "+@gid": "1689955836",
+            "+@lang": "JA",
+            "role": "Soujirou the Willow Sword",
+            "person": {
+                "+content": "Yūki Kaji",
+                "+@id": "58051"
+            }
+        },
+        {
             "+@gid": "1365989678",
             "+@lang": "JA",
             "role": "Yukiharu the Twilight Diver",
@@ -408,6 +606,6 @@
         }
     },
     "+@date-added": "2024-03-20T19:17:06Z",
-    "+@date-last-modified-at": "2025-01-03T06:37:41Z",
-    "+@date-last-updated-at": "2025-01-03T06:37:41Z"
+    "+@date-last-modified-at": "2025-02-02T08:31:17Z",
+    "+@date-last-updated-at": "2025-02-02T08:31:17Z"
 }
