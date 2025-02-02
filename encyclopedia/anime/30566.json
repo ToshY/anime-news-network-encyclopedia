@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "I Parry Everything",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-03T09:29:19Z",
+    "+@generated-on": "2025-02-02T11:23:04Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26625"
@@ -59,9 +59,39 @@
             "+@type": "Genres"
         },
         {
+            "+content": "comedy",
+            "+@gid": "974085218",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "2627892732",
+            "+@type": "Genres"
+        },
+        {
             "+content": "fantasy",
             "+@gid": "2501635255",
             "+@type": "Genres"
+        },
+        {
+            "+content": "conspiracy",
+            "+@gid": "2486351454",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "gore",
+            "+@gid": "1247113061",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "monsters",
+            "+@gid": "869390825",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "1237256737",
+            "+@type": "Themes"
         },
         {
             "+content": "swordplay",
@@ -69,8 +99,18 @@
             "+@type": "Themes"
         },
         {
+            "+content": "TA",
+            "+@gid": "2023785452",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "The Kingdom of Clays faces a conflict that will shape the face of the continent for centuries to come...but Noor doesn't have a clue about any of that. Having freshly arrived at the royal capital after over a decade of rigorous, isolated training at his mountain home, he's dead set on achieving his childhood dream of becoming an adventurer, even if the only skills he possesses are useless ones. Sure, he can [Parry] thousands of swords in the span of a single breath, but everybody knows you need more than that if you want to be an adventurer. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "2095196984",
+            "+@type": "Running time"
         },
         {
             "+content": "12",
@@ -101,9 +141,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "91",
-        "+@weighted_score": "6.9501",
-        "+@bayesian_score": "7.016"
+        "+@nb_votes": "96",
+        "+@weighted_score": "6.966",
+        "+@bayesian_score": "7.0269"
     },
     "episode": [
         {
@@ -892,6 +932,6 @@
         }
     },
     "+@date-added": "2023-11-03T00:58:00Z",
-    "+@date-last-modified-at": "2025-01-03T09:29:20Z",
-    "+@date-last-updated-at": "2025-01-03T09:29:20Z"
+    "+@date-last-modified-at": "2025-02-02T11:23:05Z",
+    "+@date-last-updated-at": "2025-02-02T11:23:05Z"
 }
