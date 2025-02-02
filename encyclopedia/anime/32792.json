@@ -4,12 +4,36 @@
     "+@type": "TV",
     "+@name": "Mr. Osomatsu",
     "+@precision": "TV 4",
-    "+@generated-on": "2025-01-03T04:33:19Z",
+    "+@generated-on": "2025-02-02T05:29:37Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "23500"
     },
     "info": [
+        {
+            "+@gid": "2198653288",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32792-2198653288.1736158897.jpg",
+            "+@width": "200",
+            "+@height": "119",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32792-2198653288.1736158897.jpg",
+                    "+@width": "200",
+                    "+@height": "119"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32792-2198653288.1736158897.jpg",
+                    "+@width": "500",
+                    "+@height": "297"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A32792-2198653288.1736158897.jpg",
+                    "+@width": "600",
+                    "+@height": "356"
+                }
+            ]
+        },
         {
             "+content": "Mr. Osomatsu",
             "+@gid": "3372334987",
@@ -29,6 +53,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "2025-07",
+            "+@gid": "1997280567",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ「おそ松さん」公式サイト",
             "+@gid": "1476652808",
             "+@type": "Official website",
@@ -36,14 +65,45 @@
             "+@href": "https://osomatsusan.com/"
         }
     ],
-    "staff": {
-        "+@gid": "1173621309",
-        "task": "Original creator",
-        "person": {
-            "+content": "Fujio Akatsuka",
-            "+@id": "11384"
-        }
+    "news": {
+        "+content": "<cite>Mr. Osomatsu</cite> Season 4's Teaser Unveils July Premiere",
+        "+@datetime": "2025-01-06T09:59:37Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-01-06/mr-osomatsu-season-4-teaser-unveils-july-premiere/.219752"
     },
+    "staff": [
+        {
+            "+@gid": "1226000032",
+            "task": "Director",
+            "person": {
+                "+content": "Yoshinori Odaka",
+                "+@id": "31745"
+            }
+        },
+        {
+            "+@gid": "695291949",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Shū Matsubara",
+                "+@id": "139445"
+            }
+        },
+        {
+            "+@gid": "1173621309",
+            "task": "Original creator",
+            "person": {
+                "+content": "Fujio Akatsuka",
+                "+@id": "11384"
+            }
+        },
+        {
+            "+@gid": "1934871288",
+            "task": "Character Design",
+            "person": {
+                "+content": "Eiji Abiko",
+                "+@id": "18278"
+            }
+        }
+    ],
     "cast": [
         {
             "+@gid": "986267178",
@@ -109,6 +169,6 @@
         }
     },
     "+@date-added": "2024-06-06T05:52:26Z",
-    "+@date-last-modified-at": "2025-01-03T04:33:21Z",
-    "+@date-last-updated-at": "2025-01-03T04:33:21Z"
+    "+@date-last-modified-at": "2025-02-02T05:29:40Z",
+    "+@date-last-updated-at": "2025-02-02T05:29:40Z"
 }

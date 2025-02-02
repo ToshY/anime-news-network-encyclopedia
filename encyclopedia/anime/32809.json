@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Delicious in Dungeon",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-01-03T04:33:18Z",
+    "+@generated-on": "2025-02-02T05:29:37Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26195"
@@ -53,6 +53,16 @@
             "+@type": "Genres"
         },
         {
+            "+content": "comedy",
+            "+@gid": "3652233526",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "2085760769",
+            "+@type": "Genres"
+        },
+        {
             "+content": "fantasy",
             "+@gid": "3004619385",
             "+@type": "Genres"
@@ -61,11 +71,51 @@
             "+content": "cooking",
             "+@gid": "2504373978",
             "+@type": "Themes"
+        },
+        {
+            "+content": "dragons",
+            "+@gid": "1353424825",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "ghosts",
+            "+@gid": "2080761242",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "gore",
+            "+@gid": "2799771350",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "monsters",
+            "+@gid": "1829204869",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "ninja",
+            "+@gid": "2171106519",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "samurai",
+            "+@gid": "3008334171",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "spirits",
+            "+@gid": "1504973676",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "2465956994",
+            "+@type": "Objectionable content"
         }
     ],
     "ratings": {
         "+@nb_votes": "5",
-        "+@weighted_score": "8.1533"
+        "+@weighted_score": "8.1705"
     },
     "staff": {
         "+@gid": "630598287",
@@ -123,6 +173,6 @@
         }
     ],
     "+@date-added": "2024-06-13T18:23:30Z",
-    "+@date-last-modified-at": "2025-01-03T04:33:21Z",
-    "+@date-last-updated-at": "2025-01-03T04:33:21Z"
+    "+@date-last-modified-at": "2025-02-02T05:29:40Z",
+    "+@date-last-updated-at": "2025-02-02T05:29:40Z"
 }
