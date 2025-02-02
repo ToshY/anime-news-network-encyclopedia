@@ -4,10 +4,14 @@
     "+@type": "OAV",
     "+@name": "My Happy Marriage",
     "+@precision": "OAV",
-    "+@generated-on": "2025-01-03T12:51:21Z",
+    "+@generated-on": "2025-02-02T14:28:03Z",
     "related-prev": {
-        "+@rel": "side story of",
+        "+@rel": "sequel of",
         "+@id": "25495"
+    },
+    "related-next": {
+        "+@id": "29984",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -74,9 +78,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "16",
-        "+@weighted_score": "7.5285",
-        "+@bayesian_score": "7.5055"
+        "+@nb_votes": "21",
+        "+@weighted_score": "7.5543",
+        "+@bayesian_score": "7.52459"
     },
     "episode": {
         "+@num": "1",
@@ -253,6 +257,14 @@
             "person": {
                 "+content": "Sachiko Ōhashi",
                 "+@id": "259483"
+            }
+        },
+        {
+            "+@gid": "2729476291",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Tsunetaka Ema",
+                "+@id": "40052"
             }
         }
     ],
@@ -519,6 +531,6 @@
         }
     },
     "+@date-added": "2023-07-07T12:32:00Z",
-    "+@date-last-modified-at": "2025-01-03T12:51:24Z",
-    "+@date-last-updated-at": "2025-01-03T12:51:24Z"
+    "+@date-last-modified-at": "2025-02-02T14:28:05Z",
+    "+@date-last-updated-at": "2025-02-02T14:28:05Z"
 }

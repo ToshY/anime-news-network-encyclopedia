@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "I May Be a Guild Receptionist",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-03T12:51:19Z",
+    "+@generated-on": "2025-02-02T14:28:02Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27834"
@@ -90,6 +90,10 @@
             "+@href": "https://girumasu.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "5",
+        "+@weighted_score": "4.153"
+    },
     "news": [
         {
             "+content": "<cite>I May Be a Guild Receptionist</cite> Anime Unveils Main Cast, Staff, 2024 Premiere",
@@ -125,6 +129,16 @@
             "+content": "<cite>Ameku M.D.</cite>, <cite>Headhunted to Another World</cite>, <cite>OKITSURA</cite>, More Anime Simulcast in India",
             "+@datetime": "2024-12-16T07:52:34Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-16/ameku-m.d-headhunted-to-another-world-okitsura-more-anime-simulcast-in-india/.219055"
+        },
+        {
+            "+content": "Crunchyroll Debuts <cite>I May Be a Guild Receptionist</cite> Anime's English Dub on Friday",
+            "+@datetime": "2025-01-24T15:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-24/crunchyroll-debuts-i-may-be-a-guild-receptionist-anime-english-dub-on-friday/.220418"
+        },
+        {
+            "+content": "Hindi, Tamil, Telugu Dubs of <cite>'Possibly the Greatest Alchemist of All Time'</cite>, <cite>I'm Getting Married to a Girl I Hate in My Class</cite> Anime Stream on Crunchyroll",
+            "+@datetime": "2025-01-27T13:31:21Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-27/hindi-tamil-telugu-dubs-of-possibly-the-greatest-alchemist-of-all-time-im-getting-married-to-a-girl-/.220511"
         }
     ],
     "staff": [
@@ -231,9 +245,147 @@
                 "+content": "Yusuke Motokura",
                 "+@id": "157381"
             }
+        },
+        {
+            "+@gid": "3194603722",
+            "task": "Producer",
+            "person": {
+                "+content": "Takamitsu Inoue",
+                "+@id": "54244"
+            }
+        },
+        {
+            "+@gid": "1206431953",
+            "task": "Producer",
+            "person": {
+                "+content": "Shunsuke Nara",
+                "+@id": "122061"
+            }
+        },
+        {
+            "+@gid": "1677648083",
+            "task": "Producer",
+            "person": {
+                "+content": "Yūsuke Yoshioka",
+                "+@id": "155343"
+            }
+        },
+        {
+            "+@gid": "1521413618",
+            "task": "Producer",
+            "person": {
+                "+content": "Akihiro Sotokawa",
+                "+@id": "212059"
+            }
+        },
+        {
+            "+@gid": "3391695834",
+            "task": "Producer",
+            "person": {
+                "+content": "Tomoyuki Ōwada",
+                "+@id": "261280"
+            }
+        },
+        {
+            "+@gid": "641864374",
+            "task": "Producer",
+            "person": {
+                "+content": "Keishirō Obata",
+                "+@id": "276308"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "585734262",
+            "+@lang": "DE",
+            "role": "Lululee Ashford",
+            "person": {
+                "+content": "Jennifer Weiß",
+                "+@id": "95380"
+            }
+        },
+        {
+            "+@gid": "3705448065",
+            "+@lang": "DE",
+            "role": "Laila",
+            "person": {
+                "+content": "Amira Leisner",
+                "+@id": "144374"
+            }
+        },
+        {
+            "+@gid": "1044677249",
+            "+@lang": "DE",
+            "role": "Jade Scrade",
+            "person": {
+                "+content": "Marco Rosenberg",
+                "+@id": "159374"
+            }
+        },
+        {
+            "+@gid": "2220748463",
+            "+@lang": "DE",
+            "role": "Alina Clover",
+            "person": {
+                "+content": "Cindy Kepke",
+                "+@id": "198063"
+            }
+        },
+        {
+            "+@gid": "1519821439",
+            "+@lang": "DE",
+            "role": "Lowe Losblender",
+            "person": {
+                "+content": "Tom Ferenc",
+                "+@id": "203828"
+            }
+        },
+        {
+            "+@gid": "2658816852",
+            "+@lang": "EN",
+            "role": "Lululee Ashford",
+            "person": {
+                "+content": "Kate Bristol",
+                "+@id": "10241"
+            }
+        },
+        {
+            "+@gid": "1468988039",
+            "+@lang": "EN",
+            "role": "Laila",
+            "person": {
+                "+content": "Sarah Wiedenheft",
+                "+@id": "128620"
+            }
+        },
+        {
+            "+@gid": "751564571",
+            "+@lang": "EN",
+            "role": "Jade Scrade",
+            "person": {
+                "+content": "Kamen Casey",
+                "+@id": "130211"
+            }
+        },
+        {
+            "+@gid": "3021345506",
+            "+@lang": "EN",
+            "role": "Alina Clover",
+            "person": {
+                "+content": "Jill Harris",
+                "+@id": "138979"
+            }
+        },
+        {
+            "+@gid": "2504916940",
+            "+@lang": "EN",
+            "role": "Lowe Losblender",
+            "person": {
+                "+content": "Dakota Farnsworth",
+                "+@id": "274730"
+            }
+        },
         {
             "+@gid": "3072229014",
             "+@lang": "JA",
@@ -280,15 +432,65 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "3452898587",
-        "task": "Animation Production",
-        "company": {
-            "+content": "CloverWorks",
-            "+@id": "16953"
+    "credit": [
+        {
+            "+@gid": "3452898587",
+            "task": "Animation Production",
+            "company": {
+                "+content": "CloverWorks",
+                "+@id": "16953"
+            }
+        },
+        {
+            "+@gid": "3421685221",
+            "task": "Production",
+            "company": {
+                "+content": "MOVIC",
+                "+@id": "52"
+            }
+        },
+        {
+            "+@gid": "3497241592",
+            "task": "Production",
+            "company": {
+                "+content": "Aniplex",
+                "+@id": "1257"
+            }
+        },
+        {
+            "+@gid": "2863788812",
+            "task": "Production",
+            "company": {
+                "+content": "Good Smile Company",
+                "+@id": "8413"
+            }
+        },
+        {
+            "+@gid": "2068588440",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon BS Broadcasting Corporation",
+                "+@id": "15105"
+            }
+        },
+        {
+            "+@gid": "1717669527",
+            "task": "Production",
+            "company": {
+                "+content": "Kadokawa",
+                "+@id": "15420"
+            }
+        },
+        {
+            "+@gid": "1564524136",
+            "task": "Production",
+            "company": {
+                "+content": "CloverWorks",
+                "+@id": "16953"
+            }
         }
-    },
+    ],
     "+@date-added": "2023-07-17T12:40:42Z",
-    "+@date-last-modified-at": "2025-01-03T12:51:24Z",
-    "+@date-last-updated-at": "2025-01-03T12:51:24Z"
+    "+@date-last-modified-at": "2025-02-02T14:28:05Z",
+    "+@date-last-updated-at": "2025-02-02T14:28:05Z"
 }
