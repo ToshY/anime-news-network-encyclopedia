@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to be Loved",
     "+@precision": "movie",
-    "+@generated-on": "2025-01-03T01:54:49Z",
+    "+@generated-on": "2025-02-02T02:54:50Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "23562"
@@ -13,19 +13,24 @@
         {
             "+@gid": "2138827715",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33594-2138827715.1726958274.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33594-2138827715.1736937390.jpg",
+            "+@width": "140",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33594-2138827715.1726958274.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33594-2138827715.1736937390.jpg",
+                    "+@width": "140",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33594-2138827715.1726958274.jpg",
-                    "+@width": "425",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33594-2138827715.1736937390.jpg",
+                    "+@width": "419",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A33594-2138827715.1736937390.jpg",
+                    "+@width": "797",
+                    "+@height": "1142"
                 }
             ]
         },
@@ -53,9 +58,13 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2025",
-            "+@gid": "2851723474",
+            "+content": "2025-06-27",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-06-27 (Japan)",
+            "+@gid": "1496852967",
+            "+@type": "Premiere date"
         },
         {
             "+content": "映画『小林さんちのメイドラゴン さみしがりやの竜』公式サイト",
@@ -65,7 +74,20 @@
             "+@href": "https://maidragon.jp/movie/"
         }
     ],
+    "news": {
+        "+content": "<cite>Miss Kobayashi's Dragon Maid</cite> Film's Teaser Reveals More Cast, June 27 Debut",
+        "+@datetime": "2025-01-15T10:19:36Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-01-15/miss-kobayashi-dragon-maid-film-teaser-reveals-more-cast-june-27-debut/.220060"
+    },
     "staff": [
+        {
+            "+@gid": "1272575282",
+            "task": "Series Director",
+            "person": {
+                "+content": "Yasuhiro Takemoto",
+                "+@id": "9153"
+            }
+        },
         {
             "+@gid": "1568096534",
             "task": "Director",
@@ -75,15 +97,90 @@
             }
         },
         {
+            "+@gid": "1967826551",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Yuka Yamada",
+                "+@id": "45768"
+            }
+        },
+        {
             "+@gid": "1126437092",
             "task": "Original creator",
             "person": {
                 "+content": "Coolkyoushinja",
                 "+@id": "145111"
             }
+        },
+        {
+            "+@gid": "2967495087",
+            "task": "Character Design",
+            "person": {
+                "+content": "Miku Kadowaki",
+                "+@id": "74455"
+            }
+        },
+        {
+            "+@gid": "2345368545",
+            "task": "Art Director",
+            "person": {
+                "+content": "Shingo Kasai",
+                "+@id": "76967"
+            }
+        },
+        {
+            "+@gid": "3169639089",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Miku Kadowaki",
+                "+@id": "74455"
+            }
+        },
+        {
+            "+@gid": "1913829009",
+            "task": "3D Director",
+            "person": {
+                "+content": "Rin Yamamoto",
+                "+@id": "49308"
+            }
+        },
+        {
+            "+@gid": "1722464960",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Hiroki Ueda",
+                "+@id": "76972"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "3280740319",
+            "+@lang": "JA",
+            "role": "Fafnir",
+            "person": {
+                "+content": "Daisuke Ono",
+                "+@id": "14929"
+            }
+        },
+        {
+            "+@gid": "3610042251",
+            "+@lang": "JA",
+            "role": "Makoto Takiya",
+            "person": {
+                "+content": "Yūichi Nakamura",
+                "+@id": "15878"
+            }
+        },
+        {
+            "+@gid": "2829724621",
+            "+@lang": "JA",
+            "role": "Rico Saikawa",
+            "person": {
+                "+content": "Emiri Katō",
+                "+@id": "28606"
+            }
+        },
         {
             "+@gid": "1910969359",
             "+@lang": "JA",
@@ -91,6 +188,24 @@
             "person": {
                 "+content": "Mutsumi Tamura",
                 "+@id": "70817"
+            }
+        },
+        {
+            "+@gid": "2843116523",
+            "+@lang": "JA",
+            "role": "Shōta Magatsuchi",
+            "person": {
+                "+content": "Kaori Ishihara",
+                "+@id": "86249"
+            }
+        },
+        {
+            "+@gid": "2182639548",
+            "+@lang": "JA",
+            "role": "Lucoa",
+            "person": {
+                "+content": "Minami Takahashi",
+                "+@id": "112346"
             }
         },
         {
@@ -110,6 +225,24 @@
                 "+content": "Maria Naganawa",
                 "+@id": "127172"
             }
+        },
+        {
+            "+@gid": "3826471560",
+            "+@lang": "JA",
+            "role": "Ilulu",
+            "person": {
+                "+content": "Shiori Sugiura",
+                "+@id": "143644"
+            }
+        },
+        {
+            "+@gid": "2918975756",
+            "+@lang": "JA",
+            "role": "Elma",
+            "person": {
+                "+content": "Yūki Takada",
+                "+@id": "147090"
+            }
         }
     ],
     "credit": {
@@ -121,6 +254,6 @@
         }
     },
     "+@date-added": "2024-09-21T18:36:19Z",
-    "+@date-last-modified-at": "2025-01-03T01:54:52Z",
-    "+@date-last-updated-at": "2025-01-03T01:54:52Z"
+    "+@date-last-modified-at": "2025-02-02T02:54:52Z",
+    "+@date-last-updated-at": "2025-02-02T02:54:52Z"
 }

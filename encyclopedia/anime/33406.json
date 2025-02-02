@@ -4,29 +4,24 @@
     "+@type": "TV",
     "+@name": "Apocalypse Hotel",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-03T01:54:51Z",
+    "+@generated-on": "2025-02-02T02:54:52Z",
     "info": [
         {
             "+@gid": "1577764157",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33406-1577764157.1724820263.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33406-1577764157.1737689960.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33406-1577764157.1724820263.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33406-1577764157.1737689960.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33406-1577764157.1724820263.jpg",
-                    "+@width": "423",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33406-1577764157.1737689960.jpg",
+                    "+@width": "425",
                     "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A33406-1577764157.1724820263.jpg",
-                    "+@width": "494",
-                    "+@height": "700"
                 }
             ]
         },
@@ -48,7 +43,12 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2025",
+            "+content": "There is a solitary hotel in Tokyo's Ginza district. After society has collapsed, humanity has disappeared, and nature has begun to reclaim most of the land. Despite the lack of guests, Yachiyo is a hotel management robot who continues to manage the Ginzarō hotel alongside other robots. Together, they continue to maintain the hotel while awaiting the return of its owners and guests.",
+            "+@gid": "2484840876",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2025-04",
             "+@gid": "1899785702",
             "+@type": "Vintage"
         },
@@ -60,12 +60,27 @@
             "+@href": "https://apocalypse-hotel.jp/"
         }
     ],
-    "news": {
-        "+content": "Cygames Pictures Unveils Original TV Anime <cite>Apocalypse Hotel</cite>",
-        "+@datetime": "2024-08-28T04:22:27Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-08-28/cygames-pictures-unveils-original-tv-anime-apocalypse-hotel/.214857"
-    },
+    "news": [
+        {
+            "+content": "Cygames Pictures Unveils Original TV Anime <cite>Apocalypse Hotel</cite>",
+            "+@datetime": "2024-08-28T04:22:27Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-08-28/cygames-pictures-unveils-original-tv-anime-apocalypse-hotel/.214857"
+        },
+        {
+            "+content": "<cite>Apocalypse Hotel</cite> Original TV Anime's Video Reveals Cast, Staff, April TV Premiere",
+            "+@datetime": "2025-01-24T02:41:21Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-23/apocalypse-hotel-original-tv-anime-video-reveals-cast-staff-april-tv-premiere/.220405"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "2147718555",
+            "task": "Director",
+            "person": {
+                "+content": "Kana Shundo",
+                "+@id": "174086"
+            }
+        },
         {
             "+@gid": "1090171010",
             "task": "Series Composition",
@@ -75,23 +90,98 @@
             }
         },
         {
+            "+@gid": "1516182647",
+            "task": "Script",
+            "person": {
+                "+content": "Shigeru Murakoshi",
+                "+@id": "128991"
+            }
+        },
+        {
+            "+@gid": "271578458",
+            "task": "Music",
+            "person": {
+                "+content": "Yoshiaki Fujisawa",
+                "+@id": "113645"
+            }
+        },
+        {
             "+@gid": "1978849885",
             "task": "Original Character Design",
             "person": {
                 "+content": "Izumi Takemoto",
                 "+@id": "22425"
             }
+        },
+        {
+            "+@gid": "2597980072",
+            "task": "Character Design",
+            "person": {
+                "+content": "Natsuki Yokoyama",
+                "+@id": "78731"
+            }
+        },
+        {
+            "+@gid": "2104546908",
+            "task": "Art Director",
+            "person": {
+                "+content": "Kohei Honda",
+                "+@id": "137229"
+            }
+        },
+        {
+            "+@gid": "2414341216",
+            "task": "3D Director",
+            "person": {
+                "+content": "Yoshinori Nakano",
+                "+@id": "167390"
+            }
+        },
+        {
+            "+@gid": "1429529427",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Satoki Iida",
+                "+@id": "14261"
+            }
+        },
+        {
+            "+@gid": "1737945017",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Masaharu Okazaki",
+                "+@id": "85175"
+            }
         }
     ],
-    "credit": {
-        "+@gid": "2221529951",
-        "task": "Animation Production",
-        "company": {
-            "+content": "CygamesPictures",
-            "+@id": "16136"
+    "cast": {
+        "+@gid": "1122411837",
+        "+@lang": "JA",
+        "role": "Yachiyo",
+        "person": {
+            "+content": "Saho Shirasu",
+            "+@id": "179437"
         }
     },
+    "credit": [
+        {
+            "+@gid": "2221529951",
+            "task": "Animation Production",
+            "company": {
+                "+content": "CygamesPictures",
+                "+@id": "16136"
+            }
+        },
+        {
+            "+@gid": "2594433682",
+            "task": "Production",
+            "company": {
+                "+content": "CyberAgent",
+                "+@id": "12936"
+            }
+        }
+    ],
     "+@date-added": "2024-08-28T00:43:29Z",
-    "+@date-last-modified-at": "2025-01-03T01:54:52Z",
-    "+@date-last-updated-at": "2025-01-03T01:54:52Z"
+    "+@date-last-modified-at": "2025-02-02T02:54:52Z",
+    "+@date-last-updated-at": "2025-02-02T02:54:52Z"
 }
