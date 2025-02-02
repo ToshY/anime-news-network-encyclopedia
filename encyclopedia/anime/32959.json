@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Headhunted to Another World: From Salaryman to Big Four!",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-03T02:57:29Z",
+    "+@generated-on": "2025-02-02T03:32:55Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26086"
@@ -48,8 +48,53 @@
             "+@lang": "JA"
         },
         {
+            "+content": "adventure",
+            "+@gid": "2804386327",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "2927047787",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "1520331908",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "slice of life",
+            "+@gid": "2835889049",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "demons",
+            "+@gid": "1939762120",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "ecchi",
+            "+@gid": "670408661",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "monsters",
+            "+@gid": "3197092350",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "2785739344",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "Dennosuke Uchimura is just an ordinary Japanese salaryman until he's sent to work in Vietnam, where he dies in a hit-and-run accident. Uchimura is reincarnated and summoned to another world by the Demon King, who offers him a new job–as one of the Four Heavenly Kings of his army. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "277954200",
+            "+@type": "Running time"
         },
         {
             "+content": "2025-01-01",
@@ -75,8 +120,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "3.9313"
+        "+@nb_votes": "5",
+        "+@weighted_score": "3.5413"
     },
     "news": [
         {
@@ -113,6 +158,16 @@
             "+content": "<cite>Headhunted to Another World</cite> Anime Reveals Special Video",
             "+@datetime": "2024-12-27T11:24:30Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-27/headhunted-to-another-world-anime-reveals-special-video/.219545"
+        },
+        {
+            "+content": "<cite>Headhunted to Another World</cite> Anime Reveals English Dub Cast, January 20 Premiere (Updated)",
+            "+@datetime": "2025-01-17T21:24:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-17/headhunted-to-another-world-anime-reveals-english-dub-cast-january-20-premiere/.220171"
+        },
+        {
+            "+content": "Hindi, Tamil, Telugu Dubs of <cite>'Possibly the Greatest Alchemist of All Time'</cite>, <cite>I'm Getting Married to a Girl I Hate in My Class</cite> Anime Stream on Crunchyroll",
+            "+@datetime": "2025-01-27T13:31:21Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-27/hindi-tamil-telugu-dubs-of-possibly-the-greatest-alchemist-of-all-time-im-getting-married-to-a-girl-/.220511"
         }
     ],
     "staff": [
@@ -199,6 +254,69 @@
     ],
     "cast": [
         {
+            "+@gid": "584358211",
+            "+@lang": "EN",
+            "role": "Demon Overlord",
+            "person": {
+                "+content": "John Burgmeier",
+                "+@id": "1113"
+            }
+        },
+        {
+            "+@gid": "854850628",
+            "+@lang": "EN",
+            "role": "Genome",
+            "person": {
+                "+content": "Monica Rial",
+                "+@id": "2074"
+            }
+        },
+        {
+            "+@gid": "3277211632",
+            "+@lang": "EN",
+            "role": "Tarius",
+            "person": {
+                "+content": "Reagan Murdock",
+                "+@id": "176327"
+            }
+        },
+        {
+            "+@gid": "2169034199",
+            "+@lang": "EN",
+            "role": "Dennosuke Uchimura",
+            "person": {
+                "+content": "Joshua Waters",
+                "+@id": "196328"
+            }
+        },
+        {
+            "+@gid": "3209918315",
+            "+@lang": "EN",
+            "role": "Lord Ogure",
+            "person": {
+                "+content": "Alex Hom",
+                "+@id": "215105"
+            }
+        },
+        {
+            "+@gid": "3696271709",
+            "+@lang": "EN",
+            "role": "Sylphid",
+            "person": {
+                "+content": "William Ofoegbu",
+                "+@id": "222655"
+            }
+        },
+        {
+            "+@gid": "2175236646",
+            "+@lang": "EN",
+            "role": "Ulmandra",
+            "person": {
+                "+content": "Taylor Murphy",
+                "+@id": "246277"
+            }
+        },
+        {
             "+@gid": "1151568659",
             "+@lang": "JA",
             "role": "Rampage King",
@@ -219,7 +337,7 @@
         {
             "+@gid": "3060911787",
             "+@lang": "JA",
-            "role": "Ogre",
+            "role": "Lord Ogure",
             "person": {
                 "+content": "Tetsuo Komura",
                 "+@id": "2412"
@@ -262,6 +380,15 @@
             }
         },
         {
+            "+@gid": "2514074006",
+            "+@lang": "JA",
+            "role": "Sylphid",
+            "person": {
+                "+content": "Yui Ishikawa",
+                "+@id": "63509"
+            }
+        },
+        {
             "+@gid": "1357946431",
             "+@lang": "JA",
             "role": "Viper Lordpent",
@@ -273,7 +400,7 @@
         {
             "+@gid": "2683834888",
             "+@lang": "JA",
-            "role": "Taisho",
+            "role": "Izakaya Taisho",
             "person": {
                 "+content": "Naoya Nosaka",
                 "+@id": "95354"
@@ -335,6 +462,6 @@
         }
     ],
     "+@date-added": "2024-07-23T18:23:14Z",
-    "+@date-last-modified-at": "2025-01-03T02:57:30Z",
-    "+@date-last-updated-at": "2025-01-03T02:57:30Z"
+    "+@date-last-modified-at": "2025-02-02T03:32:56Z",
+    "+@date-last-updated-at": "2025-02-02T03:32:56Z"
 }
