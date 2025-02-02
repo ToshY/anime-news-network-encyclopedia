@@ -4,11 +4,17 @@
     "+@type": "ONA",
     "+@name": "Kuromi's Pretty Journey",
     "+@precision": "ONA",
-    "+@generated-on": "2025-01-03T16:35:23Z",
-    "related-next": {
-        "+@id": "33825",
-        "+@rel": "sequel"
-    },
+    "+@generated-on": "2025-02-02T18:33:52Z",
+    "related-next": [
+        {
+            "+@id": "33825",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "34272",
+            "+@rel": "related"
+        }
+    ],
     "info": [
         {
             "+@gid": "372056623",
@@ -590,6 +596,6 @@
         }
     ],
     "+@date-added": "2023-02-15T00:03:50Z",
-    "+@date-last-modified-at": "2025-01-03T16:35:24Z",
-    "+@date-last-updated-at": "2025-01-03T16:35:24Z"
+    "+@date-last-modified-at": "2025-02-02T18:33:54Z",
+    "+@date-last-updated-at": "2025-02-02T18:33:54Z"
 }
