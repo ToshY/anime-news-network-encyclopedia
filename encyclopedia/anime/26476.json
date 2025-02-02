@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Tsuyokute New Saga",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-03T19:23:33Z",
+    "+@generated-on": "2025-02-02T21:25:03Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26474"
@@ -13,24 +13,19 @@
         {
             "+@gid": "2539972399",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26476-2539972399.1666317629.jpg",
-            "+@width": "143",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26476-2539972399.1738239104.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26476-2539972399.1666317629.jpg",
-                    "+@width": "143",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26476-2539972399.1738239104.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A26476-2539972399.1666317629.jpg",
-                    "+@width": "429",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A26476-2539972399.1738239104.jpg",
+                    "+@width": "424",
                     "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A26476-2539972399.1666317629.jpg",
-                    "+@width": "536",
-                    "+@height": "750"
                 }
             ]
         },
@@ -47,6 +42,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "2025-07",
+            "+@gid": "2675561628",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ『強くてニューサーガ』",
             "+@gid": "1940454242",
             "+@type": "Official website",
@@ -54,13 +54,18 @@
             "+@href": "https://tsuyosaga-pr.com/"
         }
     ],
+    "news": {
+        "+content": "<cite>Tsuyokute New Saga</cite> Anime Reveals July Premiere, More Cast, New Staff in 1st Promo Video",
+        "+@datetime": "2025-01-30T11:35:51Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-01-30/tsuyokute-new-saga-anime-reveals-july-premiere-more-cast-new-staff-in-1st-promo-video/.220637"
+    },
     "staff": [
         {
-            "+@gid": "3451134131",
+            "+@gid": "1789618860",
             "task": "Director",
             "person": {
-                "+content": "Norikazu Ishigooka",
-                "+@id": "118342"
+                "+content": "Naoki Mizusawa",
+                "+@id": "276951"
             }
         },
         {
@@ -110,9 +115,34 @@
                 "+content": "Ryūta Fuse",
                 "+@id": "229566"
             }
+        },
+        {
+            "+@gid": "1814828667",
+            "task": "Character Design",
+            "person": {
+                "+content": "Dan Asahi",
+                "+@id": "276952"
+            }
+        },
+        {
+            "+@gid": "1163076433",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Masaaki Onodera",
+                "+@id": "91832"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "2359913759",
+            "+@lang": "JA",
+            "role": "Gazas",
+            "person": {
+                "+content": "Tetsu Inada",
+                "+@id": "7015"
+            }
+        },
         {
             "+@gid": "2521905823",
             "+@lang": "JA",
@@ -120,6 +150,24 @@
             "person": {
                 "+content": "Hiro Shimono",
                 "+@id": "7636"
+            }
+        },
+        {
+            "+@gid": "377475032",
+            "+@lang": "JA",
+            "role": "Zentos",
+            "person": {
+                "+content": "Hiroki Yasumoto",
+                "+@id": "30785"
+            }
+        },
+        {
+            "+@gid": "1704275013",
+            "+@lang": "JA",
+            "role": "Milena",
+            "person": {
+                "+content": "Kaori Maeda",
+                "+@id": "90655"
             }
         },
         {
@@ -150,6 +198,24 @@
             }
         },
         {
+            "+@gid": "1903959049",
+            "+@lang": "JA",
+            "role": "Gō",
+            "person": {
+                "+content": "Rie Hikisaka",
+                "+@id": "154557"
+            }
+        },
+        {
+            "+@gid": "2359881840",
+            "+@lang": "JA",
+            "role": "Miranda",
+            "person": {
+                "+content": "Riho Sugiyama",
+                "+@id": "156407"
+            }
+        },
+        {
             "+@gid": "2497870330",
             "+@lang": "JA",
             "role": "Lise",
@@ -169,23 +235,15 @@
             }
         },
         {
-            "+@gid": "2447494787",
+            "+@gid": "2681254989",
             "task": "Animation Production",
             "company": {
-                "+content": "Makaria",
-                "+@id": "14769"
-            }
-        },
-        {
-            "+@gid": "4023273090",
-            "task": "Animation Production",
-            "company": {
-                "+content": "Yokohama Animation Lab",
-                "+@id": "17061"
+                "+content": "Studio Clutch",
+                "+@id": "26422"
             }
         }
     ],
     "+@date-added": "2022-10-20T21:58:40Z",
-    "+@date-last-modified-at": "2025-01-03T19:23:36Z",
-    "+@date-last-updated-at": "2025-01-03T19:23:36Z"
+    "+@date-last-modified-at": "2025-02-02T21:25:05Z",
+    "+@date-last-updated-at": "2025-02-02T21:25:05Z"
 }
