@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Pokémon Horizons: The Series",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-03T17:29:11Z",
+    "+@generated-on": "2025-02-02T19:23:04Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "24608"
@@ -44,6 +44,12 @@
             "+@gid": "3300633702",
             "+@type": "Alternative title",
             "+@lang": "ES"
+        },
+        {
+            "+content": "La série : Pokémon, les horizons",
+            "+@gid": "2256917424",
+            "+@type": "Alternative title",
+            "+@lang": "FR"
         },
         {
             "+content": "Orizzonti Pokémon: La serie",
@@ -152,6 +158,11 @@
             "+@type": "Opening Theme"
         },
         {
+            "+content": "#2: \"My Favorite Pokemon\" By Isaiah Tyrell Boyd & Haven Paschall [English]",
+            "+@gid": "1372441242",
+            "+@type": "Opening Theme"
+        },
+        {
             "+content": "#3: \"Will\" by IVE (eps 46-67)",
             "+@gid": "1770937121",
             "+@type": "Opening Theme"
@@ -182,7 +193,7 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Halo\" by yama and BotchiBoromaru (ep 53)",
+            "+content": "\"Halo\" by yama and BotchiBoromaru (eps 53,82)",
             "+@gid": "1343412468",
             "+@type": "Insert song"
         },
@@ -196,7 +207,7 @@
     ],
     "ratings": {
         "+@nb_votes": "8",
-        "+@weighted_score": "7.3642"
+        "+@weighted_score": "7.3613"
     },
     "episode": [
         {
@@ -820,6 +831,38 @@
             "title": {
                 "+content": "A Fierce Fight Against Entei! The Noble Roar of Flame!!",
                 "+@gid": "2699368551",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "79",
+            "title": {
+                "+content": "Over the Top",
+                "+@gid": "3394622276",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "80",
+            "title": {
+                "+content": "Oni-Awesome Pokémon in Area Zero?!",
+                "+@gid": "1676084153",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "81",
+            "title": {
+                "+content": "A Grand Battle! Earth-Gouging Fire",
+                "+@gid": "878162401",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "82",
+            "title": {
+                "+content": "At the End of the Shining Rainbow",
+                "+@gid": "3037887136",
                 "+@lang": "EN"
             }
         }
@@ -1476,6 +1519,22 @@
             }
         },
         {
+            "+@gid": "3667568382",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kyōhei Sumiyama",
+                "+@id": "237891"
+            }
+        },
+        {
+            "+@gid": "2338986895",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ayae Shinkai",
+                "+@id": "240378"
+            }
+        },
+        {
             "+@gid": "2758161334",
             "task": "Episode Director",
             "person": {
@@ -1932,6 +1991,14 @@
             }
         },
         {
+            "+@gid": "1613705689",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Min Ji Lee",
+                "+@id": "188055"
+            }
+        },
+        {
             "+@gid": "473083484",
             "task": "Animation Director",
             "person": {
@@ -2049,14 +2116,6 @@
             "person": {
                 "+content": "CEAEI KIM",
                 "+@id": "272702"
-            }
-        },
-        {
-            "+@gid": "3763791591",
-            "task": "Animation Director",
-            "person": {
-                "+content": "Minji Lee",
-                "+@id": "272703"
             }
         },
         {
@@ -2272,6 +2331,15 @@
             }
         },
         {
+            "+@gid": "2855692909",
+            "+@lang": "EN",
+            "role": "Poppy",
+            "person": {
+                "+content": "Debi Derryberry",
+                "+@id": "1421"
+            }
+        },
+        {
             "+@gid": "1696253419",
             "+@lang": "EN",
             "role": "Hamber",
@@ -2299,6 +2367,15 @@
             }
         },
         {
+            "+@gid": "2349702682",
+            "+@lang": "EN",
+            "role": "Larry",
+            "person": {
+                "+content": "Ben Diskin",
+                "+@id": "63523"
+            }
+        },
+        {
             "+@gid": "2191144410",
             "+@lang": "EN",
             "role": "Sprigatito",
@@ -2323,6 +2400,15 @@
             "person": {
                 "+content": "Erika Harlacher",
                 "+@id": "104916"
+            }
+        },
+        {
+            "+@gid": "3183465490",
+            "+@lang": "EN",
+            "role": "Geeta",
+            "person": {
+                "+content": "Lipica Shah",
+                "+@id": "108551"
             }
         },
         {
@@ -2416,6 +2502,15 @@
             }
         },
         {
+            "+@gid": "3127577736",
+            "+@lang": "EN",
+            "role": "Rika",
+            "person": {
+                "+content": "Erika Ishii",
+                "+@id": "164452"
+            }
+        },
+        {
             "+@gid": "2578493124",
             "+@lang": "EN",
             "role": "Coral",
@@ -2458,6 +2553,33 @@
             "person": {
                 "+content": "Nancy Linari",
                 "+@id": "216374"
+            }
+        },
+        {
+            "+@gid": "2738482127",
+            "+@lang": "EN",
+            "role": "Hassel",
+            "person": {
+                "+content": "Ross Marquand",
+                "+@id": "275931"
+            }
+        },
+        {
+            "+@gid": "2321805245",
+            "+@lang": "EN",
+            "role": "Clavell",
+            "person": {
+                "+content": "Brian Villalobos",
+                "+@id": "275932"
+            }
+        },
+        {
+            "+@gid": "1679473750",
+            "+@lang": "EN",
+            "role": "Dendra",
+            "person": {
+                "+content": "Stephanie Kerbis",
+                "+@id": "275934"
             }
         },
         {
@@ -2605,6 +2727,15 @@
             }
         },
         {
+            "+@gid": "3196174538",
+            "+@lang": "FR",
+            "role": "Élige",
+            "person": {
+                "+content": "Audrey D'Hulstere",
+                "+@id": "73097"
+            }
+        },
+        {
             "+@gid": "877377627",
             "+@lang": "FR",
             "role": "Zirc",
@@ -2632,6 +2763,15 @@
             }
         },
         {
+            "+@gid": "2128926029",
+            "+@lang": "FR",
+            "role": "Directeur Clavel",
+            "person": {
+                "+content": "Patrick Waleffe",
+                "+@id": "114852"
+            }
+        },
+        {
             "+@gid": "2636906451",
             "+@lang": "FR",
             "role": "Amethio",
@@ -2656,6 +2796,33 @@
             "person": {
                 "+content": "Ludivine Deworst",
                 "+@id": "152463"
+            }
+        },
+        {
+            "+@gid": "2762467175",
+            "+@lang": "FR",
+            "role": "Hassa",
+            "person": {
+                "+content": "Maxime Van Stantfoort",
+                "+@id": "152792"
+            }
+        },
+        {
+            "+@gid": "4173843836",
+            "+@lang": "FR",
+            "role": "Cayenn",
+            "person": {
+                "+content": "Helena Coppejans",
+                "+@id": "163574"
+            }
+        },
+        {
+            "+@gid": "1611120067",
+            "+@lang": "FR",
+            "role": "Jacq",
+            "person": {
+                "+content": "Brieuc Lemaire",
+                "+@id": "163757"
             }
         },
         {
@@ -2805,7 +2972,7 @@
         {
             "+@gid": "2910960140",
             "+@lang": "JA",
-            "role": "Liko's Nyahoja",
+            "role": "Liko's Nyahoja/Nyarote",
             "person": {
                 "+content": "Megumi Hayashibara",
                 "+@id": "391"
@@ -2841,7 +3008,7 @@
         {
             "+@gid": "1844132878",
             "+@lang": "JA",
-            "role": "Dot's Kuwassu",
+            "role": "Dot's Kuwassu/Welkamo",
             "person": {
                 "+content": "Daisuke Namikawa",
                 "+@id": "1289"
@@ -2976,7 +3143,7 @@
         {
             "+@gid": "2494160950",
             "+@lang": "JA",
-            "role": "Roy's Hogator",
+            "role": "Roy's Hogator/Achigator",
             "person": {
                 "+content": "Daiki Yamashita",
                 "+@id": "119386"
@@ -3287,6 +3454,6 @@
         }
     ],
     "+@date-added": "2022-12-16T07:12:04Z",
-    "+@date-last-modified-at": "2025-01-03T17:29:12Z",
-    "+@date-last-updated-at": "2025-01-03T17:29:12Z"
+    "+@date-last-modified-at": "2025-02-02T19:23:06Z",
+    "+@date-last-updated-at": "2025-02-02T19:23:06Z"
 }

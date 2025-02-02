@@ -2,56 +2,53 @@
     "+@id": "26873",
     "+@gid": "4032123874",
     "+@type": "movie",
-    "+@name": "Synapusu The Movie",
+    "+@name": "Synapusu The Movie: Pusu Hoppe Nyū World",
     "+@precision": "movie",
-    "+@generated-on": "2025-01-03T17:29:08Z",
+    "+@generated-on": "2025-02-02T19:23:02Z",
+    "related-next": {
+        "+@id": "34411",
+        "+@rel": "sequel"
+    },
     "info": [
         {
             "+@gid": "2694252510",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26873-2694252510.1673524199.jpg",
-            "+@width": "200",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26873-2694252510.1737619902.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26873-2694252510.1673524199.jpg",
-                    "+@width": "200",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26873-2694252510.1737619902.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A26873-2694252510.1673524199.jpg",
-                    "+@width": "500",
-                    "+@height": "500"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A26873-2694252510.1673524199.jpg",
-                    "+@width": "700",
-                    "+@height": "700"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A26873-2694252510.1737619902.jpg",
+                    "+@width": "225",
+                    "+@height": "318"
                 }
             ]
         },
         {
-            "+content": "Synapusu The Movie",
-            "+@gid": "1319994388",
+            "+content": "Synapusu The Movie: Pusu Hoppe Nyū World",
+            "+@gid": "1866938476",
             "+@type": "Main title",
-            "+@lang": "EN"
-        },
-        {
-            "+content": "Synapusyu The Movie",
-            "+@gid": "2377407324",
-            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
-            "+content": "シナぷしゅ THE MOVIE",
+            "+content": "シナぷしゅ THE MOVIE ぷしゅほっぺにゅうワールド",
             "+@gid": "2768738497",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
-            "+content": "2023 (spring)",
-            "+@gid": "1748379654",
+            "+content": "2023-05-19",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2023-05-19 (Japan)",
+            "+@gid": "3186584937",
+            "+@type": "Premiere date"
         },
         {
             "+content": "シナぷしゅ THE MOVIE",
@@ -76,15 +73,80 @@
             }
         },
         {
-            "+@gid": "2847394425",
-            "task": "Producer",
+            "+@gid": "2128586977",
+            "task": "Music",
             "person": {
-                "+content": "Kanako Iida",
-                "+@id": "164640"
+                "+content": "Nobuaki Nobusawa",
+                "+@id": "132498"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "474322748",
+            "+@lang": "JA",
+            "role": "Nyū",
+            "person": {
+                "+content": "Hiroshi Tamaki",
+                "+@id": "61614"
+            }
+        },
+        {
+            "+@gid": "2117953467",
+            "+@lang": "JA",
+            "role": "Pushupushu",
+            "person": {
+                "+content": "Iroha Iwamoto",
+                "+@id": "276540"
+            }
+        },
+        {
+            "+@gid": "1707757859",
+            "+@lang": "JA",
+            "role": "Ukiyoe-san",
+            "person": {
+                "+content": "Takehide Shimakawa",
+                "+@id": "276541"
+            }
+        },
+        {
+            "+@gid": "2282108459",
+            "+@lang": "JA",
+            "role": "Hiitan",
+            "person": {
+                "+content": "Yūichirō Yanai",
+                "+@id": "276542"
+            }
+        },
+        {
+            "+@gid": "1383748329",
+            "+@lang": "JA",
+            "role": "Miitan",
+            "person": {
+                "+content": "Yūki Matsumaru",
+                "+@id": "276543"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "3173560437",
+            "task": "Production",
+            "company": {
+                "+content": "TV Tokyo",
+                "+@id": "262"
+            }
+        },
+        {
+            "+@gid": "1516554686",
+            "task": "Production",
+            "company": {
+                "+content": "CEKAI",
+                "+@id": "21188"
             }
         }
     ],
     "+@date-added": "2023-01-12T06:47:38Z",
-    "+@date-last-modified-at": "2025-01-03T17:29:12Z",
-    "+@date-last-updated-at": "2025-01-03T17:29:12Z"
+    "+@date-last-modified-at": "2025-02-02T19:23:06Z",
+    "+@date-last-updated-at": "2025-02-02T19:23:06Z"
 }
