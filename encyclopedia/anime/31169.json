@@ -4,15 +4,21 @@
     "+@type": "TV",
     "+@name": "Shinkalion Change the World",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-03T08:33:43Z",
+    "+@generated-on": "2025-02-02T10:30:20Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "20288"
     },
-    "related-next": {
-        "+@id": "33637",
-        "+@rel": "adaptation"
-    },
+    "related-next": [
+        {
+            "+@id": "33637",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "34262",
+            "+@rel": "adaptation"
+        }
+    ],
     "info": [
         {
             "+@gid": "2259652995",
@@ -56,6 +62,11 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "39",
+            "+@gid": "1780696430",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2024-04-07",
             "+@gid": "1526931938",
             "+@type": "Vintage"
@@ -90,7 +101,7 @@
     ],
     "ratings": {
         "+@nb_votes": "2",
-        "+@weighted_score": "4.9618"
+        "+@weighted_score": "4.9331"
     },
     "episode": [
         {
@@ -380,6 +391,11 @@
             "+content": "<cite>Shinkalion Change the World</cite> Anime Casts Yūki Kaji",
             "+@datetime": "2024-10-06T09:50:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-10-06/shinkalion-change-the-world-anime-casts-yuki-kaji/.216394"
+        },
+        {
+            "+content": "<cite>Shinkalion Change the World</cite> Anime Ends with Episode 39",
+            "+@datetime": "2025-01-28T21:15:19Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-28/shinkalion-change-the-world-anime-ends-with-episode-39/.220578"
         }
     ],
     "staff": [
@@ -461,6 +477,14 @@
             "person": {
                 "+content": "Shinya Sadamitsu",
                 "+@id": "2429"
+            }
+        },
+        {
+            "+@gid": "2187746537",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shigeru Ueda",
+                "+@id": "3614"
             }
         },
         {
@@ -656,6 +680,14 @@
             }
         },
         {
+            "+@gid": "1552622008",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Wei Peng Wei",
+                "+@id": "203317"
+            }
+        },
+        {
             "+@gid": "2534265023",
             "task": "Episode Director",
             "person": {
@@ -677,6 +709,14 @@
             "person": {
                 "+content": "Ying Chen Lin",
                 "+@id": "217744"
+            }
+        },
+        {
+            "+@gid": "2179554658",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Miyabi Inamori",
+                "+@id": "227934"
             }
         },
         {
@@ -832,6 +872,14 @@
             }
         },
         {
+            "+@gid": "1729743555",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ayumu Tsujimura",
+                "+@id": "122468"
+            }
+        },
+        {
             "+@gid": "2316115028",
             "task": "Animation Director",
             "person": {
@@ -853,6 +901,14 @@
             "person": {
                 "+content": "Bo Liu",
                 "+@id": "163687"
+            }
+        },
+        {
+            "+@gid": "3176635381",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nao Miyawaki",
+                "+@id": "165313"
             }
         },
         {
@@ -973,6 +1029,14 @@
             "person": {
                 "+content": "Yukari Kamiaka",
                 "+@id": "201969"
+            }
+        },
+        {
+            "+@gid": "2758866468",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nana Hashimoto",
+                "+@id": "203702"
             }
         },
         {
@@ -1256,6 +1320,22 @@
             }
         },
         {
+            "+@gid": "3251165913",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zhu Qian",
+                "+@id": "276245"
+            }
+        },
+        {
+            "+@gid": "2128645129",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Gao Tang Nian",
+                "+@id": "276246"
+            }
+        },
+        {
             "+@gid": "3001326357",
             "task": "Mechanical design",
             "person": {
@@ -1528,6 +1608,6 @@
         }
     ],
     "+@date-added": "2023-12-28T05:25:32Z",
-    "+@date-last-modified-at": "2025-01-03T08:33:48Z",
-    "+@date-last-updated-at": "2025-01-03T08:33:48Z"
+    "+@date-last-modified-at": "2025-02-02T10:30:29Z",
+    "+@date-last-updated-at": "2025-02-02T10:30:29Z"
 }

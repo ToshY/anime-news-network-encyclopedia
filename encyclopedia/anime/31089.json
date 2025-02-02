@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Dr. Stone: Science Future",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-03T08:33:44Z",
+    "+@generated-on": "2025-02-02T10:30:22Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28620"
@@ -41,9 +41,64 @@
             "+@lang": "EN"
         },
         {
+            "+content": "adventure",
+            "+@gid": "1114353192",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "2663159214",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "1802707124",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "science fiction",
+            "+@gid": "1999460940",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "post-apocalyptic",
+            "+@gid": "2377942552",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "technology",
+            "+@gid": "1317154045",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "543506433",
+            "+@type": "Objectionable content"
+        },
+        {
+            "+content": "After the battle on Treasure Island, Senku and the gang return to the Kingdom of Science. With their sights set on the Moon, they must first voyage to the Americas in hopes of beginning to harvest the required materials. Through teamwork and science, they continue the fight to save humanity once and for all.",
+            "+@gid": "1146542374",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "678998079",
+            "+@type": "Running time"
+        },
+        {
             "+content": "2025-01-09",
             "+@gid": "3415312400",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"CASANOVA POSSE\" by ALI",
+            "+@gid": "3504089441",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Rolling Stone\" by BREIMEN",
+            "+@gid": "2178502724",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "アニメ「Ｄｒ．ＳＴＯＮＥ(ドクターストーン)」公式HP",
@@ -53,6 +108,10 @@
             "+@href": "https://dr-stone.jp/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "4",
+        "+@weighted_score": "7.8665"
+    },
     "news": [
         {
             "+content": "<cite>Dr. Stone: New World</cite> Anime's Last Episode Announces 4th, Final Season <cite>Dr. Stone: Science Future</cite>",
@@ -98,6 +157,11 @@
             "+content": "<cite>Uzumaki</cite> Anime Streams in India on December 20",
             "+@datetime": "2024-12-16T08:42:44Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-16/uzumaki-anime-streams-in-india-on-december-20/.219124"
+        },
+        {
+            "+content": "<cite>Dr. Stone: Science Future</cite> Anime Gets Same-Day English Dub",
+            "+@datetime": "2025-01-08T19:35:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-08/dr-stone-science-future-anime-gets-same-day-english-dub/.219838"
         }
     ],
     "staff": [
@@ -169,7 +233,7 @@
             "+@gid": "1158921467",
             "task": "Art Director",
             "person": {
-                "+content": "Shunichiro Yoshihara",
+                "+content": "Shunichirō Yoshihara",
                 "+@id": "5940"
             }
         },
@@ -191,6 +255,519 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "4054344111",
+            "+@lang": "EN",
+            "role": "Dr. Xeno",
+            "person": {
+                "+content": "John Burgmeier",
+                "+@id": "1113"
+            }
+        },
+        {
+            "+@gid": "2236049767",
+            "+@lang": "EN",
+            "role": "Senku Ishigami",
+            "person": {
+                "+content": "Aaron Dismuke",
+                "+@id": "10246"
+            }
+        },
+        {
+            "+@gid": "2041220794",
+            "+@lang": "EN",
+            "role": "Stanley Snyder",
+            "person": {
+                "+content": "Robert McCollum",
+                "+@id": "29209"
+            }
+        },
+        {
+            "+@gid": "554433047",
+            "+@lang": "EN",
+            "role": "Tsukasa Shishio",
+            "person": {
+                "+content": "Ian Sinclair",
+                "+@id": "42612"
+            }
+        },
+        {
+            "+@gid": "2996626348",
+            "+@lang": "EN",
+            "role": "Kaseki",
+            "person": {
+                "+content": "Kenny Green",
+                "+@id": "52629"
+            }
+        },
+        {
+            "+@gid": "982108004",
+            "+@lang": "EN",
+            "role": "Magma",
+            "person": {
+                "+content": "J. Michael Tatum",
+                "+@id": "65527"
+            }
+        },
+        {
+            "+@gid": "2200535688",
+            "+@lang": "EN",
+            "role": "Yo Uei",
+            "person": {
+                "+content": "Kyle Phillips",
+                "+@id": "72635"
+            }
+        },
+        {
+            "+@gid": "2614465666",
+            "+@lang": "EN",
+            "role": "Kirisame",
+            "person": {
+                "+content": "Lindsay Seidel",
+                "+@id": "83913"
+            }
+        },
+        {
+            "+@gid": "753877330",
+            "+@lang": "EN",
+            "role": "Gen Asagiri",
+            "person": {
+                "+content": "Brandon McInnis",
+                "+@id": "106469"
+            }
+        },
+        {
+            "+@gid": "2749573330",
+            "+@lang": "EN",
+            "role": "Ukyo Saionji",
+            "person": {
+                "+content": "Mark Allen Jr.",
+                "+@id": "107052"
+            }
+        },
+        {
+            "+@gid": "1990618306",
+            "+@lang": "EN",
+            "role": "Taiju Oki",
+            "person": {
+                "+content": "Ricco Fajardo",
+                "+@id": "107339"
+            }
+        },
+        {
+            "+@gid": "2791223072",
+            "+@lang": "EN",
+            "role": "Francois",
+            "person": {
+                "+content": "Michelle Rojas",
+                "+@id": "115434"
+            }
+        },
+        {
+            "+@gid": "2160867856",
+            "+@lang": "EN",
+            "role": "Kohaku",
+            "person": {
+                "+content": "Felecia Angelle",
+                "+@id": "120890"
+            }
+        },
+        {
+            "+@gid": "2660481563",
+            "+@lang": "EN",
+            "role": "Ryusui Nanami",
+            "person": {
+                "+content": "Clifford Chapin",
+                "+@id": "122114"
+            }
+        },
+        {
+            "+@gid": "439566002",
+            "+@lang": "EN",
+            "role": "Yuzuriha Ogawa",
+            "person": {
+                "+content": "Brittany Lauda",
+                "+@id": "124358"
+            }
+        },
+        {
+            "+@gid": "2324524982",
+            "+@lang": "EN",
+            "role": "Homura Momiji",
+            "person": {
+                "+content": "Megan Shipman",
+                "+@id": "126916"
+            }
+        },
+        {
+            "+@gid": "2566344399",
+            "+@lang": "EN",
+            "role": "Suika",
+            "person": {
+                "+content": "Sarah Wiedenheft",
+                "+@id": "128620"
+            }
+        },
+        {
+            "+@gid": "1671468915",
+            "+@lang": "EN",
+            "role": "Ginro",
+            "person": {
+                "+content": "Justin Briner",
+                "+@id": "130749"
+            }
+        },
+        {
+            "+@gid": "1223019630",
+            "+@lang": "EN",
+            "role": "Nikki Hanada",
+            "person": {
+                "+content": "Katelyn Barr",
+                "+@id": "132390"
+            }
+        },
+        {
+            "+@gid": "3607719058",
+            "+@lang": "EN",
+            "role": "Chrome",
+            "person": {
+                "+content": "Matt Shipman",
+                "+@id": "134957"
+            }
+        },
+        {
+            "+@gid": "937338375",
+            "+@lang": "EN",
+            "role": "Matsukaze",
+            "person": {
+                "+content": "Alejandro Saab",
+                "+@id": "144413"
+            }
+        },
+        {
+            "+@gid": "883612449",
+            "+@lang": "EN",
+            "role": "Minami Hokutozai",
+            "person": {
+                "+content": "Kristi Rothrock",
+                "+@id": "151898"
+            }
+        },
+        {
+            "+@gid": "2220650044",
+            "+@lang": "EN",
+            "role": "Moz",
+            "person": {
+                "+content": "Reagan Murdock",
+                "+@id": "176327"
+            }
+        },
+        {
+            "+@gid": "1832631220",
+            "+@lang": "EN",
+            "role": "Hyoga",
+            "person": {
+                "+content": "Kieran Flitton",
+                "+@id": "190516"
+            }
+        },
+        {
+            "+@gid": "1411771331",
+            "+@lang": "EN",
+            "role": "Kinro",
+            "person": {
+                "+content": "Jessie James Grelle",
+                "+@id": "241210"
+            }
+        },
+        {
+            "+@gid": "1641671116",
+            "+@lang": "FR",
+            "role": "Matsukaze",
+            "person": {
+                "+content": "Benjamin Thomas",
+                "+@id": "19359"
+            }
+        },
+        {
+            "+@gid": "957642103",
+            "+@lang": "FR",
+            "role": "Kaseki",
+            "person": {
+                "+content": "Robert Dubois",
+                "+@id": "53850"
+            }
+        },
+        {
+            "+@gid": "2296358878",
+            "+@lang": "FR",
+            "role": "Chrome",
+            "person": {
+                "+content": "Gregory Praet",
+                "+@id": "59626"
+            }
+        },
+        {
+            "+@gid": "2173750628",
+            "+@lang": "FR",
+            "role": "Magma",
+            "person": {
+                "+content": "Jean-Michel Vovk",
+                "+@id": "66571"
+            }
+        },
+        {
+            "+@gid": "2175166430",
+            "+@lang": "FR",
+            "role": "François",
+            "person": {
+                "+content": "Marcha Van Boven",
+                "+@id": "69327"
+            }
+        },
+        {
+            "+@gid": "2002146178",
+            "+@lang": "FR",
+            "role": "Senku Ishigami",
+            "person": {
+                "+content": "Maxime Donnay",
+                "+@id": "72787"
+            }
+        },
+        {
+            "+@gid": "1512121214",
+            "+@lang": "FR",
+            "role": "Kohaku",
+            "person": {
+                "+content": "Audrey D'Hulstere",
+                "+@id": "73097"
+            }
+        },
+        {
+            "+@gid": "2547817279",
+            "+@lang": "FR",
+            "role": "Nikki Hanada",
+            "person": {
+                "+content": "Valerie Muzzi",
+                "+@id": "80050"
+            }
+        },
+        {
+            "+@gid": "1999737786",
+            "+@lang": "FR",
+            "role": "Ryusui Nanami",
+            "person": {
+                "+content": "Alexis Flamant",
+                "+@id": "124896"
+            }
+        },
+        {
+            "+@gid": "3178473508",
+            "+@lang": "FR",
+            "role": "Gen Asagiri",
+            "person": {
+                "+content": "Damien Locqueneux",
+                "+@id": "134761"
+            }
+        },
+        {
+            "+@gid": "2430323975",
+            "+@lang": "FR",
+            "role": "Suika",
+            "person": {
+                "+content": "Marie Du Bled",
+                "+@id": "145504"
+            }
+        },
+        {
+            "+@gid": "2382347506",
+            "+@lang": "FR",
+            "role": "Stanley Snyder",
+            "person": {
+                "+content": "Simon Duprez",
+                "+@id": "151712"
+            }
+        },
+        {
+            "+@gid": "2588345886",
+            "+@lang": "FR",
+            "role": "Taiju Oki",
+            "person": {
+                "+content": "Maxime Van Stantfoort",
+                "+@id": "152792"
+            }
+        },
+        {
+            "+@gid": "2699027528",
+            "+@lang": "FR",
+            "role": "Dr. Xeno",
+            "person": {
+                "+content": "Stéphane Oerteli",
+                "+@id": "152962"
+            }
+        },
+        {
+            "+@gid": "2683770902",
+            "+@lang": "FR",
+            "role": "Hyoga",
+            "person": {
+                "+content": "Brieuc Lemaire",
+                "+@id": "163757"
+            }
+        },
+        {
+            "+@gid": "1896927338",
+            "+@lang": "FR",
+            "role": "Yuzuriha Ogawa",
+            "person": {
+                "+content": "Marie Braam",
+                "+@id": "164178"
+            }
+        },
+        {
+            "+@gid": "1054786442",
+            "+@lang": "FR",
+            "role": "Yo Uei",
+            "person": {
+                "+content": "Steve Driesen",
+                "+@id": "166765"
+            }
+        },
+        {
+            "+@gid": "3669225798",
+            "+@lang": "FR",
+            "role": "Tsukasa Shishio",
+            "person": {
+                "+content": "Bernard Grand",
+                "+@id": "172712"
+            }
+        },
+        {
+            "+@gid": "2905893740",
+            "+@lang": "FR",
+            "role": "Kinro",
+            "person": {
+                "+content": "Jonathan Simon",
+                "+@id": "176972"
+            }
+        },
+        {
+            "+@gid": "3526448634",
+            "+@lang": "FR",
+            "role": "Ukyo Saionji",
+            "person": {
+                "+content": "Julien Besure",
+                "+@id": "191604"
+            }
+        },
+        {
+            "+@gid": "1512096012",
+            "+@lang": "FR",
+            "role": "Ginro",
+            "person": {
+                "+content": "Arthur Dubois",
+                "+@id": "213181"
+            }
+        },
+        {
+            "+@gid": "659193045",
+            "+@lang": "FR",
+            "role": "Kirisame",
+            "person": {
+                "+content": "Julie Dieu",
+                "+@id": "217020"
+            }
+        },
+        {
+            "+@gid": "1881216349",
+            "+@lang": "IT",
+            "role": "Dr. Xeno",
+            "person": {
+                "+content": "Paolo De Santis",
+                "+@id": "51099"
+            }
+        },
+        {
+            "+@gid": "2755341515",
+            "+@lang": "IT",
+            "role": "Taiju Ōki",
+            "person": {
+                "+content": "Marco Benedetti",
+                "+@id": "71142"
+            }
+        },
+        {
+            "+@gid": "566919923",
+            "+@lang": "IT",
+            "role": "Tsukasa Shishio",
+            "person": {
+                "+content": "Alessandro Zurla",
+                "+@id": "73957"
+            }
+        },
+        {
+            "+@gid": "337263179",
+            "+@lang": "IT",
+            "role": "Chrome",
+            "person": {
+                "+content": "Andrea Oldani",
+                "+@id": "107215"
+            }
+        },
+        {
+            "+@gid": "1236834413",
+            "+@lang": "IT",
+            "role": "Ginro",
+            "person": {
+                "+content": "Alessandro Germano",
+                "+@id": "122882"
+            }
+        },
+        {
+            "+@gid": "2405798270",
+            "+@lang": "IT",
+            "role": "Gen Asagiri",
+            "person": {
+                "+content": "Federico Viola",
+                "+@id": "123422"
+            }
+        },
+        {
+            "+@gid": "1089594655",
+            "+@lang": "IT",
+            "role": "Senku Ishigami",
+            "person": {
+                "+content": "Jacopo Calatroni",
+                "+@id": "123436"
+            }
+        },
+        {
+            "+@gid": "290271072",
+            "+@lang": "IT",
+            "role": "Ryūsui Nanami",
+            "person": {
+                "+content": "Matteo De Mojana",
+                "+@id": "153661"
+            }
+        },
+        {
+            "+@gid": "1522832465",
+            "+@lang": "IT",
+            "role": "Kohaku",
+            "person": {
+                "+content": "Chiara Leoncini",
+                "+@id": "200055"
+            }
+        },
+        {
+            "+@gid": "3573303528",
+            "+@lang": "IT",
+            "role": "Ukyō Saionji",
+            "person": {
+                "+content": "Andrea Colombo Giardinelli",
+                "+@id": "211292"
+            }
+        },
         {
             "+@gid": "3354172270",
             "+@lang": "JA",
@@ -246,12 +823,30 @@
             }
         },
         {
+            "+@gid": "1341537479",
+            "+@lang": "JA",
+            "role": "Kinrō",
+            "person": {
+                "+content": "Tomoaki Maeno",
+                "+@id": "46653"
+            }
+        },
+        {
             "+@gid": "3191312792",
             "+@lang": "JA",
             "role": "Stanley Snyder",
             "person": {
                 "+content": "Kōji Yusa",
                 "+@id": "51073"
+            }
+        },
+        {
+            "+@gid": "2624918337",
+            "+@lang": "JA",
+            "role": "Homura Momiji",
+            "person": {
+                "+content": "Aki Toyosaki",
+                "+@id": "62870"
             }
         },
         {
@@ -264,12 +859,75 @@
             }
         },
         {
+            "+@gid": "3393460112",
+            "+@lang": "JA",
+            "role": "Minami Hokutozai",
+            "person": {
+                "+content": "Yōko Hikasa",
+                "+@id": "67797"
+            }
+        },
+        {
+            "+@gid": "2229907078",
+            "+@lang": "JA",
+            "role": "Moz",
+            "person": {
+                "+content": "Kazuyuki Okitsu",
+                "+@id": "67851"
+            }
+        },
+        {
+            "+@gid": "3290629065",
+            "+@lang": "JA",
+            "role": "Magma",
+            "person": {
+                "+content": "Yasuhiro Mamiya",
+                "+@id": "68280"
+            }
+        },
+        {
             "+@gid": "2244691986",
             "+@lang": "JA",
             "role": "Kohaku",
             "person": {
                 "+content": "Manami Numakura",
                 "+@id": "81503"
+            }
+        },
+        {
+            "+@gid": "3496454206",
+            "+@lang": "JA",
+            "role": "Matsukaze",
+            "person": {
+                "+content": "Yōhei Azakami",
+                "+@id": "108274"
+            }
+        },
+        {
+            "+@gid": "1439033111",
+            "+@lang": "JA",
+            "role": "Yō Uei",
+            "person": {
+                "+content": "Yoshiki Nakajima",
+                "+@id": "110826"
+            }
+        },
+        {
+            "+@gid": "2454077625",
+            "+@lang": "JA",
+            "role": "Niki Hanada",
+            "person": {
+                "+content": "Atsumi Tanezaki",
+                "+@id": "111376"
+            }
+        },
+        {
+            "+@gid": "3036841520",
+            "+@lang": "JA",
+            "role": "Ginrō",
+            "person": {
+                "+content": "Ayumu Murase",
+                "+@id": "113308"
             }
         },
         {
@@ -297,6 +955,15 @@
             "person": {
                 "+content": "Karin Takahashi",
                 "+@id": "128601"
+            }
+        },
+        {
+            "+@gid": "1837707336",
+            "+@lang": "JA",
+            "role": "Kirisame",
+            "person": {
+                "+content": "Kaede Hondo",
+                "+@id": "140600"
             }
         },
         {
@@ -336,6 +1003,6 @@
         }
     },
     "+@date-added": "2023-12-21T21:03:41Z",
-    "+@date-last-modified-at": "2025-01-03T08:33:48Z",
-    "+@date-last-updated-at": "2025-01-03T08:33:48Z"
+    "+@date-last-modified-at": "2025-02-02T10:30:29Z",
+    "+@date-last-updated-at": "2025-02-02T10:30:29Z"
 }
