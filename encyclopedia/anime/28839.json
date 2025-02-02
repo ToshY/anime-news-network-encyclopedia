@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Natsume's Book of Friends",
     "+@precision": "TV 7",
-    "+@generated-on": "2025-01-03T13:31:12Z",
+    "+@generated-on": "2025-02-02T15:27:56Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "18942"
@@ -58,6 +58,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "OC",
+            "+@gid": "528888783",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "2024-10-07",
             "+@gid": "464981140",
             "+@type": "Vintage"
@@ -81,9 +86,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "36",
-        "+@weighted_score": "8.5549",
-        "+@bayesian_score": "8.26898"
+        "+@nb_votes": "49",
+        "+@weighted_score": "8.4868",
+        "+@bayesian_score": "8.27498"
     },
     "news": [
         {
@@ -358,12 +363,39 @@
     ],
     "cast": [
         {
+            "+@gid": "2093693883",
+            "+@lang": "EN",
+            "role": "Reiko Natsume",
+            "person": {
+                "+content": "Alexis Tipton",
+                "+@id": "77434"
+            }
+        },
+        {
+            "+@gid": "752171906",
+            "+@lang": "EN",
+            "role": "Kaname Tanuma",
+            "person": {
+                "+content": "Tyson Rinehart",
+                "+@id": "85022"
+            }
+        },
+        {
             "+@gid": "2590798480",
             "+@lang": "EN",
             "role": "Tanuma",
             "person": {
                 "+content": "Tyson Rinehart",
                 "+@id": "85022"
+            }
+        },
+        {
+            "+@gid": "1354362120",
+            "+@lang": "EN",
+            "role": "Shigeru Fujiwara",
+            "person": {
+                "+content": "Seth Magill",
+                "+@id": "110400"
             }
         },
         {
@@ -394,12 +426,57 @@
             }
         },
         {
+            "+@gid": "2533997171",
+            "+@lang": "EN",
+            "role": "Toru Taki",
+            "person": {
+                "+content": "Megan Shipman",
+                "+@id": "126916"
+            }
+        },
+        {
+            "+@gid": "1006326298",
+            "+@lang": "EN",
+            "role": "Jun Sasada",
+            "person": {
+                "+content": "Marisa Duran",
+                "+@id": "154417"
+            }
+        },
+        {
             "+@gid": "3104076893",
             "+@lang": "EN",
             "role": "Toko",
             "person": {
                 "+content": "Jennifer AuBuchon",
                 "+@id": "167488"
+            }
+        },
+        {
+            "+@gid": "3865853092",
+            "+@lang": "EN",
+            "role": "Toko Fujiwara",
+            "person": {
+                "+content": "Jennifer AuBuchon",
+                "+@id": "167488"
+            }
+        },
+        {
+            "+@gid": "1919372043",
+            "+@lang": "EN",
+            "role": "Seiji Matoba",
+            "person": {
+                "+content": "Reagan Murdock",
+                "+@id": "176327"
+            }
+        },
+        {
+            "+@gid": "2527432045",
+            "+@lang": "EN",
+            "role": "Satoru Nishimura",
+            "person": {
+                "+content": "Matthew Elkins",
+                "+@id": "226293"
             }
         },
         {
@@ -530,6 +607,6 @@
         }
     ],
     "+@date-added": "2023-07-01T02:07:42Z",
-    "+@date-last-modified-at": "2025-01-03T13:31:20Z",
-    "+@date-last-updated-at": "2025-01-03T13:31:20Z"
+    "+@date-last-modified-at": "2025-02-02T15:27:59Z",
+    "+@date-last-updated-at": "2025-02-02T15:27:59Z"
 }
