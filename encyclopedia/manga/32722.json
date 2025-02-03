@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Kakushite! Makina-san!!",
     "+@precision": "manga",
-    "+@generated-on": "2025-01-04T06:35:14Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "20475"
-    },
+    "+@generated-on": "2025-02-03T07:28:01Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "20475"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "21726"
+        }
+    ],
     "related-next": {
         "+@id": "32723",
         "+@rel": "adaptation"
@@ -56,9 +62,21 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2022-10-25 (serialized in Monthly Action)",
-            "+@gid": "2806694804",
+            "+content": "2022-10-25 to 2024-02-24 (Monthly Action, Dec 2022 - Apr 2024)",
+            "+@gid": "2164644302",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2024-04-02 (serialized on Web Comic Action)",
+            "+@gid": "1013014083",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "第1話 かくして、マキナさんはメカバレる。 / かくして！マキナさん!! - 里好 | webアクション",
+            "+@gid": "2901572690",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://comic-action.com/episode/11341664176554994143"
         }
     ],
     "ratings": {
@@ -86,6 +104,6 @@
         }
     },
     "+@date-added": "2024-05-10T01:07:08Z",
-    "+@date-last-modified-at": "2025-01-04T06:35:16Z",
-    "+@date-last-updated-at": "2025-01-04T06:35:16Z"
+    "+@date-last-modified-at": "2025-02-03T07:28:02Z",
+    "+@date-last-updated-at": "2025-02-03T07:28:02Z"
 }
