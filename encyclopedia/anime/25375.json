@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Lonely Castle in the Mirror",
     "+@precision": "movie",
-    "+@generated-on": "2025-01-04T03:33:10Z",
+    "+@generated-on": "2025-02-03T05:30:36Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25373"
@@ -103,19 +103,31 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "31",
-        "+@weighted_score": "7.5473",
-        "+@bayesian_score": "7.52659"
+        "+@nb_votes": "32",
+        "+@weighted_score": "7.6016",
+        "+@bayesian_score": "7.56549"
     },
     "review": {
         "+content": "Lonely Castle in the Mirror",
         "+@href": "https://www.animenewsnetwork.com/review/lonely-castle-in-the-mirror/.193333"
     },
-    "release": {
-        "+content": "Lonely Castle in the Mirror (Blu-ray)",
-        "+@date": "2023-09-26",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=46475"
-    },
+    "release": [
+        {
+            "+content": "Lonely Castle in the Mirror (Blu-ray)",
+            "+@date": "2023-09-26",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=46475"
+        },
+        {
+            "+content": "Lonely Castle in the Mirror (Blu-ray)",
+            "+@date": "2025-01-20",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=51721"
+        },
+        {
+            "+content": "Lonely Castle in the Mirror [Collector's Edition] (Blu-ray)",
+            "+@date": "2025-01-20",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=51720"
+        }
+    ],
     "news": [
         {
             "+content": "Mizuki Tsujimura's <cite>Lonely Castle in the Mirror</cite> Novel Gets Anime Film This Year",
@@ -276,6 +288,11 @@
             "+content": "Anime Limited Announces January 2025 Home Releases",
             "+@datetime": "2024-12-17T08:34:01Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-17/anime-limited-announces-january-2025-home-releases/.219176"
+        },
+        {
+            "+content": "<i>To Your Eternity</i> U.K. Blu-ray Released on Monday",
+            "+@datetime": "2025-01-19T10:12:32Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-19/to-your-eternity-u.k-blu-ray-released-on-monday/.220196"
         }
     ],
     "staff": [
@@ -530,12 +547,48 @@
             }
         },
         {
+            "+@gid": "2586483824",
+            "+@lang": "ES",
+            "role": "Subaru Nagahisa",
+            "person": {
+                "+content": "David Jenner",
+                "+@id": "69013"
+            }
+        },
+        {
             "+@gid": "2178418921",
             "+@lang": "ES",
             "role": "Fuka Hasegawa",
             "person": {
                 "+content": "Marta Argota",
                 "+@id": "75343"
+            }
+        },
+        {
+            "+@gid": "2083766010",
+            "+@lang": "ES",
+            "role": "Akiko Inoue",
+            "person": {
+                "+content": "Nerea Alfonso",
+                "+@id": "134816"
+            }
+        },
+        {
+            "+@gid": "2605961248",
+            "+@lang": "ES",
+            "role": "Llop",
+            "person": {
+                "+content": "Marta Moreno",
+                "+@id": "138052"
+            }
+        },
+        {
+            "+@gid": "2101667508",
+            "+@lang": "ES",
+            "role": "Fuka Hasegawa",
+            "person": {
+                "+content": "Clara Schwarze",
+                "+@id": "154226"
             }
         },
         {
@@ -566,6 +619,15 @@
             }
         },
         {
+            "+@gid": "3652426680",
+            "+@lang": "ES",
+            "role": "Aasu Masamune",
+            "person": {
+                "+content": "Alex Molina",
+                "+@id": "185398"
+            }
+        },
+        {
             "+@gid": "1582487667",
             "+@lang": "ES",
             "role": "Rion Mizumori",
@@ -581,6 +643,33 @@
             "person": {
                 "+content": "Gago Montesinos",
                 "+@id": "186922"
+            }
+        },
+        {
+            "+@gid": "3456009858",
+            "+@lang": "ES",
+            "role": "Kokoro Anzai",
+            "person": {
+                "+content": "Àngels Ribalta",
+                "+@id": "191748"
+            }
+        },
+        {
+            "+@gid": "1792405173",
+            "+@lang": "ES",
+            "role": "Haruka Ureshino",
+            "person": {
+                "+content": "Jaume Cuartero",
+                "+@id": "193154"
+            }
+        },
+        {
+            "+@gid": "2476598755",
+            "+@lang": "ES",
+            "role": "Rion Mizumori",
+            "person": {
+                "+content": "Sergi Mani",
+                "+@id": "204961"
             }
         },
         {
@@ -917,6 +1006,6 @@
         }
     ],
     "+@date-added": "2022-02-23T23:57:37Z",
-    "+@date-last-modified-at": "2025-01-04T03:33:14Z",
-    "+@date-last-updated-at": "2025-01-04T03:33:14Z"
+    "+@date-last-modified-at": "2025-02-03T05:30:42Z",
+    "+@date-last-updated-at": "2025-02-03T05:30:42Z"
 }
