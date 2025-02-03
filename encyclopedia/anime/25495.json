@@ -4,21 +4,15 @@
     "+@type": "TV",
     "+@name": "My Happy Marriage",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-04T01:52:37Z",
+    "+@generated-on": "2025-02-03T03:33:30Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25456"
     },
-    "related-next": [
-        {
-            "+@id": "28952",
-            "+@rel": "side story"
-        },
-        {
-            "+@id": "29984",
-            "+@rel": "sequel"
-        }
-    ],
+    "related-next": {
+        "+@id": "28952",
+        "+@rel": "sequel"
+    },
     "info": [
         {
             "+@gid": "2288009156",
@@ -44,6 +38,12 @@
             "+@gid": "1932004615",
             "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Il mio matrimonio felice",
+            "+@gid": "3543337569",
+            "+@type": "Alternative title",
+            "+@lang": "IT"
         },
         {
             "+content": "Mi feliz matrimonio",
@@ -157,9 +157,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "142",
-        "+@weighted_score": "7.6315",
-        "+@bayesian_score": "7.61856"
+        "+@nb_votes": "145",
+        "+@weighted_score": "7.6211",
+        "+@bayesian_score": "7.60921"
     },
     "episode": [
         {
@@ -1078,6 +1078,46 @@
             }
         },
         {
+            "+@gid": "2067036237",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Shō Tanaka",
+                "+@id": "82883"
+            }
+        },
+        {
+            "+@gid": "1591797542",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Kōichi Inaba",
+                "+@id": "92824"
+            }
+        },
+        {
+            "+@gid": "971632174",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Ryuji Abe",
+                "+@id": "122067"
+            }
+        },
+        {
+            "+@gid": "2196818719",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Sou Yurugi",
+                "+@id": "132805"
+            }
+        },
+        {
+            "+@gid": "1998199926",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Takaaki Suzuki",
+                "+@id": "224539"
+            }
+        },
+        {
             "+@gid": "1995622700",
             "task": "Producer",
             "person": {
@@ -1857,6 +1897,6 @@
         }
     },
     "+@date-added": "2022-04-05T21:20:15Z",
-    "+@date-last-modified-at": "2025-01-04T01:52:39Z",
-    "+@date-last-updated-at": "2025-01-04T01:52:39Z"
+    "+@date-last-modified-at": "2025-02-03T03:33:31Z",
+    "+@date-last-updated-at": "2025-02-03T03:33:31Z"
 }
