@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Citrus Mint na Days",
     "+@precision": "manga",
-    "+@generated-on": "2025-01-04T12:49:24Z",
-    "related-prev": {
-        "+@rel": "spinoff of",
-        "+@id": "28742"
-    },
+    "+@generated-on": "2025-02-03T13:30:59Z",
+    "related-prev": [
+        {
+            "+@rel": "spinoff of",
+            "+@id": "28742"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "32598"
+        }
+    ],
     "info": [
         {
             "+@gid": "2135663732",
@@ -59,6 +65,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "romance",
+            "+@gid": "2937465091",
+            "+@type": "Genres"
+        },
+        {
             "+content": "1",
             "+@gid": "2816335344",
             "+@type": "Number of tankoubon"
@@ -83,6 +94,6 @@
         }
     },
     "+@date-added": "2024-03-03T04:06:24Z",
-    "+@date-last-modified-at": "2025-01-04T12:49:27Z",
-    "+@date-last-updated-at": "2025-01-04T12:49:27Z"
+    "+@date-last-modified-at": "2025-02-03T13:31:02Z",
+    "+@date-last-updated-at": "2025-02-03T13:31:02Z"
 }
