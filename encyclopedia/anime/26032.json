@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Shangri-La Frontier",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-03T22:31:00Z",
+    "+@generated-on": "2025-02-03T01:53:20Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26031"
@@ -144,9 +144,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "226",
-        "+@weighted_score": "7.4865",
-        "+@bayesian_score": "7.48599"
+        "+@nb_votes": "232",
+        "+@weighted_score": "7.5265",
+        "+@bayesian_score": "7.52385"
     },
     "episode": [
         {
@@ -350,11 +350,18 @@
             }
         }
     ],
-    "release": {
-        "+content": "Shangri-La Frontier - Season 1 Part 1 (Blu-ray)",
-        "+@date": "2025-03-04",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=51446"
-    },
+    "release": [
+        {
+            "+content": "Shangri-La Frontier - Season 1 Part 1 (Blu-ray)",
+            "+@date": "2025-03-04",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=51446"
+        },
+        {
+            "+content": "Shangri-La Frontier - Season 1 Part 2 (Blu-ray)",
+            "+@date": "2025-04-08",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=51677"
+        }
+    ],
     "news": [
         {
             "+content": "Crunchyroll to Stream <i>Shangri-La Frontier, Skip and Loafer</i> Anime (Updated)",
@@ -440,6 +447,11 @@
             "+content": "Anime Times Streams <cite>Shangri-La Frontier</cite>, <cite>Yoasobi Gurashi!</cite>, More Anime in India",
             "+@datetime": "2024-10-25T13:26:30Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-10-25/anime-times-streams-shangri-la-frontier-yoasobi-gurashi-more-anime-in-india/.217047"
+        },
+        {
+            "+content": "Crunchyroll Updates U.K. Home Release Schedule Into April",
+            "+@datetime": "2025-01-29T23:38:13Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-29/crunchyroll-updates-u.k-home-release-schedule-into-april/.220614"
         }
     ],
     "staff": [
@@ -1688,15 +1700,81 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2581569841",
-        "task": "Animation Production",
-        "company": {
-            "+content": "C2C",
-            "+@id": "8078"
+    "credit": [
+        {
+            "+@gid": "2581569841",
+            "task": "Animation Production",
+            "company": {
+                "+content": "C2C",
+                "+@id": "8078"
+            }
+        },
+        {
+            "+@gid": "1308111018",
+            "task": "Production",
+            "company": {
+                "+content": "Dentsu Inc.",
+                "+@id": "63"
+            }
+        },
+        {
+            "+@gid": "3263978901",
+            "task": "Production",
+            "company": {
+                "+content": "Kodansha",
+                "+@id": "88"
+            }
+        },
+        {
+            "+@gid": "183927209",
+            "task": "Production",
+            "company": {
+                "+content": "Mainichi Broadcasting System",
+                "+@id": "313"
+            }
+        },
+        {
+            "+@gid": "2064669321",
+            "task": "Production",
+            "company": {
+                "+content": "Sammy",
+                "+@id": "7191"
+            }
+        },
+        {
+            "+@gid": "1507510839",
+            "task": "Production",
+            "company": {
+                "+content": "Flying Dog",
+                "+@id": "7465"
+            }
+        },
+        {
+            "+@gid": "1955418912",
+            "task": "Production",
+            "company": {
+                "+content": "Crunchyroll",
+                "+@id": "7606"
+            }
+        },
+        {
+            "+@gid": "1907299373",
+            "task": "Production",
+            "company": {
+                "+content": "Tencent Japan",
+                "+@id": "19995"
+            }
+        },
+        {
+            "+@gid": "1446753984",
+            "task": "Production",
+            "company": {
+                "+content": "Netmarble",
+                "+@id": "20767"
+            }
         }
-    },
+    ],
     "+@date-added": "2022-07-07T06:12:16Z",
-    "+@date-last-modified-at": "2025-01-03T22:31:05Z",
-    "+@date-last-updated-at": "2025-01-03T22:31:05Z"
+    "+@date-last-modified-at": "2025-02-03T01:53:22Z",
+    "+@date-last-updated-at": "2025-02-03T01:53:22Z"
 }
