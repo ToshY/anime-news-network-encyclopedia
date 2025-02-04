@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Hello Kitty Ringo no Mori to Parallel Town",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-05T12:48:54Z",
+    "+@generated-on": "2025-02-04T14:31:49Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "22326"
@@ -36,6 +36,18 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Hello Kitty - Parallel Town",
+            "+@gid": "2614943140",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
+            "+content": "Hello Kitty - Æbleskoven Og Parallelzonen",
+            "+@gid": "3027644065",
+            "+@type": "Alternative title",
+            "+@lang": "DA"
+        },
+        {
             "+content": "Hello Kitty : La Forêt des Pommes et la Ville Parallèle",
             "+@gid": "1519912998",
             "+@type": "Alternative title",
@@ -46,6 +58,30 @@
             "+@gid": "2906410926",
             "+@type": "Alternative title",
             "+@lang": "FR"
+        },
+        {
+            "+content": "Hello Kitty: Äppelskogen Och Parallella Zonen",
+            "+@gid": "2605392685",
+            "+@type": "Alternative title",
+            "+@lang": "SV"
+        },
+        {
+            "+content": "Hello Kitty: Apple Forest and Parallel Town",
+            "+@gid": "1888444062",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
+            "+content": "Hello Kitty: El bosque de las manzanas y la ciudad paralela",
+            "+@gid": "1816990152",
+            "+@type": "Alternative title",
+            "+@lang": "ES"
+        },
+        {
+            "+content": "Hello Kitty: Paralelulu e a Floresta da Maçã",
+            "+@gid": "2801479451",
+            "+@type": "Alternative title",
+            "+@lang": "PT"
         },
         {
             "+content": "ハローキティ りんごの森とパラレルタウン",
@@ -69,7 +105,7 @@
             "+@gid": "1435657719",
             "task": "Director",
             "person": {
-                "+content": "Hideaki Oba",
+                "+content": "Hideaki Ōba",
                 "+@id": "8840"
             }
         },
@@ -124,6 +160,15 @@
     ],
     "cast": [
         {
+            "+@gid": "2239340064",
+            "+@lang": "DA",
+            "role": "Kitty",
+            "person": {
+                "+content": "Annevig Schelde Ebbe",
+                "+@id": "33401"
+            }
+        },
+        {
             "+@gid": "2191138372",
             "+@lang": "FR",
             "role": "Scotty",
@@ -166,6 +211,15 @@
             "person": {
                 "+content": "Marie Chevalot",
                 "+@id": "58497"
+            }
+        },
+        {
+            "+@gid": "1601202473",
+            "+@lang": "IT",
+            "role": "Kitty",
+            "person": {
+                "+content": "Serena Clerici",
+                "+@id": "45098"
             }
         },
         {
@@ -224,6 +278,6 @@
         }
     ],
     "+@date-added": "2019-07-13T20:21:56Z",
-    "+@date-last-modified-at": "2025-01-05T12:48:57Z",
-    "+@date-last-updated-at": "2025-01-05T12:48:57Z"
+    "+@date-last-modified-at": "2025-02-04T14:31:51Z",
+    "+@date-last-updated-at": "2025-02-04T14:31:51Z"
 }
