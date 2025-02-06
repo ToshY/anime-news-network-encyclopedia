@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Beast Saga",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-07T20:29:38Z",
+    "+@generated-on": "2025-02-06T23:28:52Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "19950"
@@ -85,7 +85,7 @@
     ],
     "ratings": {
         "+@nb_votes": "5",
-        "+@weighted_score": "4.9865"
+        "+@weighted_score": "4.9863"
     },
     "episode": [
         {
@@ -650,7 +650,7 @@
             "+@lang": "JA",
             "role": "Al Dile",
             "person": {
-                "+content": "Kousei Hirota",
+                "+content": "Kōsei Hirota",
                 "+@id": "8859"
             }
         },
@@ -758,7 +758,7 @@
             "+@lang": "JA",
             "role": "Morgany",
             "person": {
-                "+content": "Youhei Oobayashi",
+                "+content": "Yōhei Ōbayashi",
                 "+@id": "22133"
             }
         },
@@ -767,7 +767,7 @@
             "+@lang": "JA",
             "role": "Leoparmint",
             "person": {
-                "+content": "Youko Honda",
+                "+content": "Yōko Honda",
                 "+@id": "31404"
             }
         },
@@ -961,15 +961,33 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "919048051",
-        "task": "Animation Production",
-        "company": {
-            "+content": "SynergySP",
-            "+@id": "10717"
+    "credit": [
+        {
+            "+@gid": "919048051",
+            "task": "Animation Production",
+            "company": {
+                "+content": "SynergySP",
+                "+@id": "10717"
+            }
+        },
+        {
+            "+@gid": "1091058040",
+            "task": "Production",
+            "company": {
+                "+content": "TV Tokyo",
+                "+@id": "262"
+            }
+        },
+        {
+            "+@gid": "1352710446",
+            "task": "Production",
+            "company": {
+                "+content": "d-rights",
+                "+@id": "2988"
+            }
         }
-    },
+    ],
     "+@date-added": "2012-11-13T14:52:27Z",
-    "+@date-last-modified-at": "2025-01-07T20:29:41Z",
-    "+@date-last-updated-at": "2025-01-07T20:29:41Z"
+    "+@date-last-modified-at": "2025-02-06T23:28:55Z",
+    "+@date-last-updated-at": "2025-02-06T23:28:55Z"
 }
