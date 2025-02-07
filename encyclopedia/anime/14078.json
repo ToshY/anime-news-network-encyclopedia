@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Gon",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-08T02:56:36Z",
+    "+@generated-on": "2025-02-07T05:31:20Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "2286"
+    },
+    "related-next": {
+        "+@id": "34379",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -895,11 +899,11 @@
     ],
     "staff": [
         {
-            "+@gid": "3114632101",
-            "task": "Director",
+            "+@gid": "2728935067",
+            "task": "Chief Director",
             "person": {
-                "+content": "Kim Gil-Tae",
-                "+@id": "108818"
+                "+content": "Gil Tae Kim",
+                "+@id": "276350"
             }
         },
         {
@@ -919,11 +923,35 @@
             }
         },
         {
+            "+@gid": "3169710514",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Jong Yi Lee",
+                "+@id": "276351"
+            }
+        },
+        {
+            "+@gid": "1275019177",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hye Ra Lee",
+                "+@id": "276358"
+            }
+        },
+        {
             "+@gid": "139035278",
             "task": "Unit Director",
             "person": {
                 "+content": "Hajime Takakuwa",
                 "+@id": "12967"
+            }
+        },
+        {
+            "+@gid": "3467704694",
+            "task": "Music",
+            "person": {
+                "+content": "Tae Hoon Kim",
+                "+@id": "276357"
             }
         },
         {
@@ -935,11 +963,27 @@
             }
         },
         {
-            "+@gid": "2499793787",
+            "+@gid": "3171247467",
             "task": "Character Design",
             "person": {
-                "+content": "Noh Hyun-Min",
-                "+@id": "108819"
+                "+content": "So Eun Park",
+                "+@id": "199260"
+            }
+        },
+        {
+            "+@gid": "308168165",
+            "task": "Producer",
+            "person": {
+                "+content": "Aya Yoshino",
+                "+@id": "51606"
+            }
+        },
+        {
+            "+@gid": "1668222241",
+            "task": "Producer",
+            "person": {
+                "+content": "Masanori Goto",
+                "+@id": "57482"
             }
         },
         {
@@ -948,6 +992,22 @@
             "person": {
                 "+content": "Osamu Yoshiba",
                 "+@id": "83529"
+            }
+        },
+        {
+            "+@gid": "2487488766",
+            "task": "Producer",
+            "person": {
+                "+content": "Mitsutoshi Arimoto",
+                "+@id": "107836"
+            }
+        },
+        {
+            "+@gid": "1394563138",
+            "task": "Producer",
+            "person": {
+                "+content": "Yūsuke Koyama",
+                "+@id": "108945"
             }
         },
         {
@@ -1177,6 +1237,15 @@
             }
         },
         {
+            "+@gid": "576529632",
+            "+@lang": "JA",
+            "role": "Puroro",
+            "person": {
+                "+content": "Yuuki",
+                "+@id": "64105"
+            }
+        },
+        {
             "+@gid": "1896415721",
             "+@lang": "JA",
             "role": "Nicchii",
@@ -1231,6 +1300,6 @@
         }
     },
     "+@date-added": "2012-02-24T01:03:32Z",
-    "+@date-last-modified-at": "2025-01-08T02:56:41Z",
-    "+@date-last-updated-at": "2025-01-08T02:56:41Z"
+    "+@date-last-modified-at": "2025-02-07T05:31:26Z",
+    "+@date-last-updated-at": "2025-02-07T05:31:26Z"
 }
