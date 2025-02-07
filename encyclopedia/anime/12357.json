@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Nura: Rise of the Yokai Clan: Demon Capital",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-08T09:29:55Z",
+    "+@generated-on": "2025-02-07T12:50:52Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "11174"
@@ -153,7 +153,7 @@
     "ratings": {
         "+@nb_votes": "468",
         "+@weighted_score": "7.7972",
-        "+@bayesian_score": "7.78855"
+        "+@bayesian_score": "7.78853"
     },
     "episode": [
         {
@@ -1139,6 +1139,15 @@
             }
         },
         {
+            "+@gid": "2077393994",
+            "+@lang": "EN",
+            "role": "Mezumaru",
+            "person": {
+                "+content": "Steve Cannon",
+                "+@id": "3664"
+            }
+        },
+        {
             "+@gid": "3503760029",
             "+@lang": "EN",
             "role": "Nurarihyon",
@@ -1256,6 +1265,15 @@
             }
         },
         {
+            "+@gid": "3114765768",
+            "+@lang": "EN",
+            "role": "Zen",
+            "person": {
+                "+content": "Keith Silverstein",
+                "+@id": "63324"
+            }
+        },
+        {
             "+@gid": "3500089889",
             "+@lang": "EN",
             "role": "Shima",
@@ -1265,12 +1283,30 @@
             }
         },
         {
+            "+@gid": "3337467914",
+            "+@lang": "EN",
+            "role": "Gozumaru",
+            "person": {
+                "+content": "Jason Wishnov",
+                "+@id": "82541"
+            }
+        },
+        {
             "+@gid": "2201557633",
             "+@lang": "EN",
             "role": "Yuki-Onna",
             "person": {
                 "+content": "Cassandra Lee",
                 "+@id": "95781"
+            }
+        },
+        {
+            "+@gid": "2849917196",
+            "+@lang": "EN",
+            "role": "Natsumi Torii",
+            "person": {
+                "+content": "Erika Harlacher",
+                "+@id": "104916"
             }
         },
         {
@@ -1310,12 +1346,30 @@
             }
         },
         {
+            "+@gid": "1588632436",
+            "+@lang": "JA",
+            "role": "Gozumaru",
+            "person": {
+                "+content": "Hiroyuki Yoshino",
+                "+@id": "507"
+            }
+        },
+        {
             "+@gid": "1502980822",
             "+@lang": "JA",
             "role": "Kejōrō",
             "person": {
                 "+content": "Yumi Kakazu",
                 "+@id": "778"
+            }
+        },
+        {
+            "+@gid": "2999291033",
+            "+@lang": "JA",
+            "role": "Zen",
+            "person": {
+                "+content": "Tomokazu Sugita",
+                "+@id": "910"
             }
         },
         {
@@ -1479,6 +1533,24 @@
                 "+content": "Kana Asumi",
                 "+@id": "60780"
             }
+        },
+        {
+            "+@gid": "1287527558",
+            "+@lang": "JA",
+            "role": "Mezumaru",
+            "person": {
+                "+content": "Sōichirō Hoshi",
+                "+@id": "71808"
+            }
+        },
+        {
+            "+@gid": "1323517106",
+            "+@lang": "JA",
+            "role": "Natsumi Torii",
+            "person": {
+                "+content": "Mana Hirata",
+                "+@id": "76648"
+            }
         }
     ],
     "credit": [
@@ -1532,6 +1604,6 @@
         }
     ],
     "+@date-added": "2010-12-27T10:58:26Z",
-    "+@date-last-modified-at": "2025-01-08T09:29:57Z",
-    "+@date-last-updated-at": "2025-01-08T09:29:57Z"
+    "+@date-last-modified-at": "2025-02-07T12:50:55Z",
+    "+@date-last-updated-at": "2025-02-07T12:50:55Z"
 }
