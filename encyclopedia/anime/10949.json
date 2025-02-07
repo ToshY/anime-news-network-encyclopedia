@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Yumeiro Pâtissière",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-08T20:29:42Z",
+    "+@generated-on": "2025-02-07T23:26:41Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "10903"
@@ -63,6 +63,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "drama",
+            "+@gid": "2504114944",
+            "+@type": "Genres"
+        },
+        {
             "+content": "fantasy",
             "+@gid": "2796046113",
             "+@type": "Genres"
@@ -70,6 +75,11 @@
         {
             "+content": "romance",
             "+@gid": "3441511375",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "tournament",
+            "+@gid": "1546761695",
             "+@type": "Genres"
         },
         {
@@ -150,9 +160,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "220",
-        "+@weighted_score": "7.5905",
-        "+@bayesian_score": "7.58418"
+        "+@nb_votes": "221",
+        "+@weighted_score": "7.5924",
+        "+@bayesian_score": "7.58596"
     },
     "episode": [
         {
@@ -697,7 +707,7 @@
             "+@gid": "2032959683",
             "task": "Storyboard",
             "person": {
-                "+content": "Hideaki Oba",
+                "+content": "Hideaki Ōba",
                 "+@id": "8840"
             }
         },
@@ -769,7 +779,7 @@
             "+@gid": "1934053589",
             "task": "Storyboard",
             "person": {
-                "+content": "Masatoshi Hakada",
+                "+content": "Masatoshi Hakata",
                 "+@id": "35200"
             }
         },
@@ -1465,6 +1475,6 @@
         }
     ],
     "+@date-added": "2009-07-03T05:06:11Z",
-    "+@date-last-modified-at": "2025-01-08T20:29:45Z",
-    "+@date-last-updated-at": "2025-01-08T20:29:45Z"
+    "+@date-last-modified-at": "2025-02-07T23:26:44Z",
+    "+@date-last-updated-at": "2025-02-07T23:26:44Z"
 }
