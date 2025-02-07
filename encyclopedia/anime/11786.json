@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Iron Man",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-08T12:52:48Z",
+    "+@generated-on": "2025-02-07T15:29:30Z",
     "related-next": {
         "+@id": "15202",
         "+@rel": "related"
@@ -118,8 +118,8 @@
     ],
     "ratings": {
         "+@nb_votes": "214",
-        "+@weighted_score": "6.0543",
-        "+@bayesian_score": "6.13579"
+        "+@weighted_score": "6.0544",
+        "+@bayesian_score": "6.13584"
     },
     "episode": [
         {
@@ -549,6 +549,14 @@
             }
         },
         {
+            "+@gid": "639052464",
+            "task": "Original creator",
+            "person": {
+                "+content": "Len Wein",
+                "+@id": "37223"
+            }
+        },
+        {
             "+@gid": "2689021862",
             "task": "Original creator",
             "person": {
@@ -562,6 +570,30 @@
             "person": {
                 "+content": "Don Heck",
                 "+@id": "93966"
+            }
+        },
+        {
+            "+@gid": "2193526586",
+            "task": "Original creator",
+            "person": {
+                "+content": "Roy Thomas",
+                "+@id": "128826"
+            }
+        },
+        {
+            "+@gid": "2861801436",
+            "task": "Original creator",
+            "person": {
+                "+content": "John Romita",
+                "+@id": "213484"
+            }
+        },
+        {
+            "+@gid": "3408201511",
+            "task": "Original creator",
+            "person": {
+                "+content": "Robert Bernstein",
+                "+@id": "224525"
             }
         },
         {
@@ -1225,6 +1257,6 @@
         }
     ],
     "+@date-added": "2010-08-02T02:18:49Z",
-    "+@date-last-modified-at": "2025-01-08T12:52:51Z",
-    "+@date-last-updated-at": "2025-01-08T12:52:51Z"
+    "+@date-last-modified-at": "2025-02-07T15:29:31Z",
+    "+@date-last-updated-at": "2025-02-07T15:29:31Z"
 }
