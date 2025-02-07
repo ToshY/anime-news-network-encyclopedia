@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Battle Spirits: Heroes",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-08T06:37:30Z",
+    "+@generated-on": "2025-02-07T09:29:22Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "11730"
@@ -1160,15 +1160,41 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2515095815",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Sunrise",
-            "+@id": "34"
+    "credit": [
+        {
+            "+@gid": "2515095815",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Sunrise",
+                "+@id": "34"
+            }
+        },
+        {
+            "+@gid": "2160591380",
+            "task": "Production",
+            "company": {
+                "+content": "Sunrise",
+                "+@id": "34"
+            }
+        },
+        {
+            "+@gid": "641990977",
+            "task": "Production",
+            "company": {
+                "+content": "Nagoya Broadcasting Network",
+                "+@id": "1153"
+            }
+        },
+        {
+            "+@gid": "1154401684",
+            "task": "Production",
+            "company": {
+                "+content": "Asatsu-DK",
+                "+@id": "1240"
+            }
         }
-    },
+    ],
     "+@date-added": "2011-07-18T20:31:21Z",
-    "+@date-last-modified-at": "2025-01-08T06:37:32Z",
-    "+@date-last-updated-at": "2025-01-08T06:37:32Z"
+    "+@date-last-modified-at": "2025-02-07T09:29:24Z",
+    "+@date-last-updated-at": "2025-02-07T09:29:24Z"
 }
