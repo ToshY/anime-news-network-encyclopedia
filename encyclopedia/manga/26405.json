@@ -2,9 +2,9 @@
     "+@id": "26405",
     "+@gid": "1314240296",
     "+@type": "manga",
-    "+@name": "Chieri no Koi wa 8 Meters",
+    "+@name": "My Girlfriend is 8 Meters Tall",
     "+@precision": "manga",
-    "+@generated-on": "2025-01-08T12:52:38Z",
+    "+@generated-on": "2025-02-07T14:31:18Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "20219"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "My Girlfriend is 8 Meters Tall",
+            "+@gid": "3516525471",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Chieri no Koi wa 8 Meters",
             "+@gid": "852099502",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -63,6 +69,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "6",
+            "+@gid": "3092714703",
+            "+@type": "Number of tankoubon"
+        },
+        {
             "+content": "2022-10-02 (serialized in Shonen Jump+)",
             "+@gid": "3302297263",
             "+@type": "Vintage"
@@ -75,11 +86,18 @@
             "+@href": "https://shonenjumpplus.com/episode/316112896890762684"
         }
     ],
-    "news": {
-        "+content": "<cite>Shonen Jump+</cite> Details 8 New Manga for October-November Including 2 <cite>Naruto</cite> Spinoffs, <cite>Hololive</cite> Manga",
-        "+@datetime": "2022-10-03T09:18:05Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2022-10-03/shonen-jump-details-8-new-manga-for-october-november-including-2-naruto-spinoffs-hololive-manga/.190427"
-    },
+    "news": [
+        {
+            "+content": "<cite>Shonen Jump+</cite> Details 8 New Manga for October-November Including 2 <cite>Naruto</cite> Spinoffs, <cite>Hololive</cite> Manga",
+            "+@datetime": "2022-10-03T09:18:05Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2022-10-03/shonen-jump-details-8-new-manga-for-october-november-including-2-naruto-spinoffs-hololive-manga/.190427"
+        },
+        {
+            "+content": "Seven Seas Licenses <cite>God of Seduction in the Bedroom</cite>, <cite>My Girlfriend is 8 Meters Tall</cite>, 6 More Titles",
+            "+@datetime": "2025-02-06T00:54:46Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-05/seven-seas-licenses-god-of-seduction-in-the-bedroom-my-girlfriend-is-8-meters-tall-6-more-titles/.220882"
+        }
+    ],
     "staff": {
         "+@gid": "2002204496",
         "task": "Story & Art",
@@ -89,6 +107,6 @@
         }
     },
     "+@date-added": "2022-10-05T01:26:32Z",
-    "+@date-last-modified-at": "2025-01-08T12:52:41Z",
-    "+@date-last-updated-at": "2025-01-08T12:52:41Z"
+    "+@date-last-modified-at": "2025-02-07T14:31:22Z",
+    "+@date-last-updated-at": "2025-02-07T14:31:22Z"
 }
