@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Natsume's Book of Friends",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-01-08T23:27:20Z",
+    "+@generated-on": "2025-02-08T03:31:00Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "9419"
@@ -128,7 +128,7 @@
     "ratings": {
         "+@nb_votes": "1202",
         "+@weighted_score": "8.5082",
-        "+@bayesian_score": "8.49717"
+        "+@bayesian_score": "8.49716"
     },
     "episode": [
         {
@@ -688,12 +688,30 @@
             }
         },
         {
+            "+@gid": "3706271750",
+            "+@lang": "EN",
+            "role": "Shuichi Natori",
+            "person": {
+                "+content": "Aaron Roberts",
+                "+@id": "115172"
+            }
+        },
+        {
             "+@gid": "1928694643",
             "+@lang": "EN",
             "role": "Toru Taki",
             "person": {
                 "+content": "Megan Shipman",
                 "+@id": "126916"
+            }
+        },
+        {
+            "+@gid": "1910707181",
+            "+@lang": "EN",
+            "role": "Jun Sasada",
+            "person": {
+                "+content": "Marisa Duran",
+                "+@id": "154417"
             }
         },
         {
@@ -712,6 +730,33 @@
             "person": {
                 "+content": "Matthew Elkins",
                 "+@id": "226293"
+            }
+        },
+        {
+            "+@gid": "447591775",
+            "+@lang": "ES",
+            "role": "Tooru Taki",
+            "person": {
+                "+content": "Mariana Ortiz",
+                "+@id": "23804"
+            }
+        },
+        {
+            "+@gid": "2141787471",
+            "+@lang": "ES",
+            "role": "Nyanko",
+            "person": {
+                "+content": "Noe Velázquez",
+                "+@id": "52850"
+            }
+        },
+        {
+            "+@gid": "996392821",
+            "+@lang": "ES",
+            "role": "Takashi Natsume",
+            "person": {
+                "+content": "Aldo Guzman",
+                "+@id": "193379"
             }
         },
         {
@@ -832,6 +877,6 @@
         }
     ],
     "+@date-added": "2008-09-24T14:12:37Z",
-    "+@date-last-modified-at": "2025-01-08T23:27:22Z",
-    "+@date-last-updated-at": "2025-01-08T23:27:22Z"
+    "+@date-last-modified-at": "2025-02-08T03:31:03Z",
+    "+@date-last-updated-at": "2025-02-08T03:31:03Z"
 }
