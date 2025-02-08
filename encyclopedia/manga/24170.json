@@ -4,15 +4,21 @@
     "+@type": "manga",
     "+@name": "Sakamoto Days",
     "+@precision": "manga",
-    "+@generated-on": "2025-01-09T09:30:07Z",
+    "+@generated-on": "2025-02-08T10:31:26Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "1363"
     },
-    "related-next": {
-        "+@id": "32767",
-        "+@rel": "adaptation"
-    },
+    "related-next": [
+        {
+            "+@id": "32767",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "34405",
+            "+@rel": "spinoff"
+        }
+    ],
     "info": [
         {
             "+@gid": "2913882532",
@@ -92,9 +98,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "8.7815",
-        "+@bayesian_score": "8.2955"
+        "+@nb_votes": "6",
+        "+@weighted_score": "8.1196",
+        "+@bayesian_score": "7.94676"
     },
     "review": {
         "+content": "Sakamoto Days GN 1",
@@ -293,6 +299,6 @@
         }
     },
     "+@date-added": "2021-03-23T17:18:51Z",
-    "+@date-last-modified-at": "2025-01-09T09:30:10Z",
-    "+@date-last-updated-at": "2025-01-09T09:30:10Z"
+    "+@date-last-modified-at": "2025-02-08T10:31:28Z",
+    "+@date-last-updated-at": "2025-02-08T10:31:28Z"
 }
