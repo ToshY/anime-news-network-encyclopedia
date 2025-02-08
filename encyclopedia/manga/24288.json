@@ -4,15 +4,21 @@
     "+@type": "manga",
     "+@name": "Peleliu: Guernica of Paradise",
     "+@precision": "manga",
-    "+@generated-on": "2025-01-09T08:34:04Z",
+    "+@generated-on": "2025-02-08T09:26:39Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "5091"
     },
-    "related-next": {
-        "+@id": "29212",
-        "+@rel": "side story"
-    },
+    "related-next": [
+        {
+            "+@id": "29212",
+            "+@rel": "side story"
+        },
+        {
+            "+@id": "34334",
+            "+@rel": "adaptation"
+        }
+    ],
     "info": [
         {
             "+@gid": "933848407",
@@ -117,6 +123,6 @@
         }
     },
     "+@date-added": "2021-04-09T02:00:18Z",
-    "+@date-last-modified-at": "2025-01-09T08:34:05Z",
-    "+@date-last-updated-at": "2025-01-09T08:34:05Z"
+    "+@date-last-modified-at": "2025-02-08T09:26:41Z",
+    "+@date-last-updated-at": "2025-02-08T09:26:41Z"
 }
