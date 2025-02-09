@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Disgaea",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-10T08:34:39Z",
+    "+@generated-on": "2025-02-09T10:31:48Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "8474"
@@ -144,8 +144,8 @@
     ],
     "ratings": {
         "+@nb_votes": "893",
-        "+@weighted_score": "6.7857",
-        "+@bayesian_score": "6.79562"
+        "+@weighted_score": "6.7855",
+        "+@bayesian_score": "6.79542"
     },
     "episode": [
         {
@@ -612,15 +612,33 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "3307208443",
-        "task": "Production",
-        "company": {
-            "+content": "d-rights",
-            "+@id": "2988"
+    "credit": [
+        {
+            "+@gid": "3307208443",
+            "task": "Production",
+            "company": {
+                "+content": "d-rights",
+                "+@id": "2988"
+            }
+        },
+        {
+            "+@gid": "2150505971",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon Ichi Software",
+                "+@id": "5515"
+            }
+        },
+        {
+            "+@gid": "1718057098",
+            "task": "Production",
+            "company": {
+                "+content": "Geneon Universal Entertainment",
+                "+@id": "8953"
+            }
         }
-    },
+    ],
     "+@date-added": "2005-11-14T17:13:09Z",
-    "+@date-last-modified-at": "2025-01-10T08:34:42Z",
-    "+@date-last-updated-at": "2025-01-10T08:34:42Z"
+    "+@date-last-modified-at": "2025-02-09T10:31:50Z",
+    "+@date-last-updated-at": "2025-02-09T10:31:50Z"
 }
