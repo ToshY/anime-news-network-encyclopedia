@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Kaiketsu Zorori",
     "+@precision": "movie",
-    "+@generated-on": "2025-01-10T05:31:54Z",
+    "+@generated-on": "2025-02-09T07:26:56Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "3558"
@@ -65,7 +65,7 @@
     ],
     "ratings": {
         "+@nb_votes": "5",
-        "+@weighted_score": "4.8823"
+        "+@weighted_score": "4.8821"
     },
     "news": [
         {
@@ -245,12 +245,30 @@
     ],
     "cast": [
         {
+            "+@gid": "1929665159",
+            "+@lang": "EN",
+            "role": "Demon School Teacher",
+            "person": {
+                "+content": "David Lee Mckinney",
+                "+@id": "64567"
+            }
+        },
+        {
             "+@gid": "1192266505",
             "+@lang": "EN",
             "role": "Tail",
             "person": {
                 "+content": "Andrea Kwan",
                 "+@id": "67791"
+            }
+        },
+        {
+            "+@gid": "980133046",
+            "+@lang": "EN",
+            "role": "Gorgon",
+            "person": {
+                "+content": "Sarah Hauser",
+                "+@id": "69084"
             }
         },
         {
@@ -463,6 +481,6 @@
         }
     ],
     "+@date-added": "2006-03-17T12:07:03Z",
-    "+@date-last-modified-at": "2025-01-10T05:31:56Z",
-    "+@date-last-updated-at": "2025-01-10T05:31:56Z"
+    "+@date-last-modified-at": "2025-02-09T07:26:59Z",
+    "+@date-last-updated-at": "2025-02-09T07:26:59Z"
 }
