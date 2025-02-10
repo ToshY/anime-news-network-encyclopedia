@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Yamato Takeru: After War",
     "+@precision": "OAV",
-    "+@generated-on": "2025-01-11T08:32:15Z",
+    "+@generated-on": "2025-02-10T10:34:57Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "3170"
@@ -67,13 +67,21 @@
     ],
     "ratings": {
         "+@nb_votes": "15",
-        "+@weighted_score": "7.0574",
-        "+@bayesian_score": "7.25226"
+        "+@weighted_score": "7.0573",
+        "+@bayesian_score": "7.25193"
     },
     "staff": [
         {
             "+@gid": "1987642045",
             "task": "Director",
+            "person": {
+                "+content": "Shuji Iuchi",
+                "+@id": "8794"
+            }
+        },
+        {
+            "+@gid": "1825022694",
+            "task": "Script",
             "person": {
                 "+content": "Shuji Iuchi",
                 "+@id": "8794"
@@ -144,6 +152,22 @@
             }
         },
         {
+            "+@gid": "1866071514",
+            "task": "Art Director",
+            "person": {
+                "+content": "Kazuo Ebisawa",
+                "+@id": "2706"
+            }
+        },
+        {
+            "+@gid": "2025246611",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takahiro Kishida",
+                "+@id": "32"
+            }
+        },
+        {
             "+@gid": "1849039199",
             "task": "Animation Director",
             "person": {
@@ -152,11 +176,67 @@
             }
         },
         {
+            "+@gid": "1819118144",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Umetaro Saitani",
+                "+@id": "33686"
+            }
+        },
+        {
+            "+@gid": "622908666",
+            "task": "Mechanical design",
+            "person": {
+                "+content": "Takahiro Kishida",
+                "+@id": "32"
+            }
+        },
+        {
             "+@gid": "1895858845",
             "task": "Mechanical design",
             "person": {
                 "+content": "Kōichi Ōhata",
                 "+@id": "135"
+            }
+        },
+        {
+            "+@gid": "1210219123",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Yasumasa Date",
+                "+@id": "10044"
+            }
+        },
+        {
+            "+@gid": "1815557706",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Hisao Shirai",
+                "+@id": "226"
+            }
+        },
+        {
+            "+@gid": "657186757",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Kōichi Motohashi",
+                "+@id": "3343"
+            }
+        },
+        {
+            "+@gid": "3175574732",
+            "task": "Producer",
+            "person": {
+                "+content": "Masao Nakamura",
+                "+@id": "4533"
+            }
+        },
+        {
+            "+@gid": "2893305782",
+            "task": "Producer",
+            "person": {
+                "+content": "Shunichi Kosao",
+                "+@id": "7727"
             }
         }
     ],
@@ -270,6 +350,6 @@
         }
     ],
     "+@date-added": null,
-    "+@date-last-modified-at": "2025-01-11T08:32:17Z",
-    "+@date-last-updated-at": "2025-01-11T08:32:17Z"
+    "+@date-last-modified-at": "2025-02-10T10:34:58Z",
+    "+@date-last-updated-at": "2025-02-10T10:34:58Z"
 }
