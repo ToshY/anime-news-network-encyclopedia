@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Aladdin and the Wonderful Lamp",
     "+@precision": "movie",
-    "+@generated-on": "2025-01-11T02:57:53Z",
+    "+@generated-on": "2025-02-10T05:31:45Z",
     "info": [
         {
             "+@gid": "1815061131",
@@ -187,7 +187,7 @@
     "ratings": {
         "+@nb_votes": "27",
         "+@weighted_score": "6.1477",
-        "+@bayesian_score": "6.57975"
+        "+@bayesian_score": "6.57956"
     },
     "release": [
         {
@@ -227,10 +227,26 @@
             }
         },
         {
+            "+@gid": "1649175739",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Dale Baer",
+                "+@id": "23204"
+            }
+        },
+        {
+            "+@gid": "1598192070",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Jane Baer",
+                "+@id": "23205"
+            }
+        },
+        {
             "+@gid": "1680254942",
             "task": "Character Design",
             "person": {
-                "+content": "Shin`ya Takahashi",
+                "+content": "Shinya Takahashi",
                 "+@id": "232029"
             }
         },
@@ -246,7 +262,7 @@
             "+@gid": "3875672932",
             "task": "Animation Director",
             "person": {
-                "+content": "Shin`ya Takahashi",
+                "+content": "Shinya Takahashi",
                 "+@id": "232029"
             }
         },
@@ -277,6 +293,15 @@
     ],
     "cast": [
         {
+            "+@gid": "3405594388",
+            "+@lang": "EN",
+            "role": "Aladdin",
+            "person": {
+                "+content": "John Armstrong",
+                "+@id": "79777"
+            }
+        },
+        {
             "+@gid": "1786957503",
             "+@lang": "EN",
             "role": "Wizard",
@@ -292,6 +317,15 @@
             "person": {
                 "+content": "John Carradine",
                 "+@id": "188316"
+            }
+        },
+        {
+            "+@gid": "2188126625",
+            "+@lang": "EN",
+            "role": "Aladdin",
+            "person": {
+                "+content": "Christopher Atkins",
+                "+@id": "206811"
             }
         },
         {
@@ -421,9 +455,27 @@
             }
         },
         {
-            "+@gid": "2696883066",
+            "+@gid": "3776168335",
             "+@lang": "JA",
-            "role": "Aladdin (Arajin)",
+            "role": "Genie of the Ring",
+            "person": {
+                "+content": "Yoshisada Sakaguchi",
+                "+@id": "5037"
+            }
+        },
+        {
+            "+@gid": "3477549503",
+            "+@lang": "JA",
+            "role": "Vizier",
+            "person": {
+                "+content": "Takeshi Katō",
+                "+@id": "14934"
+            }
+        },
+        {
+            "+@gid": "1611364306",
+            "+@lang": "JA",
+            "role": "Aladdin",
             "person": {
                 "+content": "Kazuo Kamiya",
                 "+@id": "16308"
@@ -439,21 +491,48 @@
             }
         },
         {
-            "+@gid": "2322683499",
+            "+@gid": "2662238681",
             "+@lang": "JA",
-            "role": "Sultan (Ōsama)",
+            "role": "Sultan",
             "person": {
                 "+content": "Kazuo Kitamura",
                 "+@id": "54051"
             }
         },
         {
-            "+@gid": "1755898211",
+            "+@gid": "1656230338",
             "+@lang": "JA",
-            "role": "Princess Boudour (Budōru-hime)",
+            "role": "Princess Badroulbadour",
             "person": {
                 "+content": "Keiko Suzuka",
                 "+@id": "125973"
+            }
+        },
+        {
+            "+@gid": "1779299181",
+            "+@lang": "JA",
+            "role": "Sorcerer",
+            "person": {
+                "+content": "Kikuo Kaneuchi",
+                "+@id": "125980"
+            }
+        },
+        {
+            "+@gid": "1696780641",
+            "+@lang": "JA",
+            "role": "Aladdin's Mother",
+            "person": {
+                "+content": "Reiko Nanao",
+                "+@id": "125981"
+            }
+        },
+        {
+            "+@gid": "2076890312",
+            "+@lang": "JA",
+            "role": "Vizier's Son",
+            "person": {
+                "+content": "Kimihiro Reizei",
+                "+@id": "177578"
             }
         },
         {
@@ -502,6 +581,6 @@
         }
     },
     "+@date-added": "2004-03-26T12:26:35Z",
-    "+@date-last-modified-at": "2025-01-11T02:57:55Z",
-    "+@date-last-updated-at": "2025-01-11T02:57:55Z"
+    "+@date-last-modified-at": "2025-02-10T05:31:48Z",
+    "+@date-last-updated-at": "2025-02-10T05:31:48Z"
 }
