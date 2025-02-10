@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "Papuwa",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-11T09:27:26Z",
-    "related-prev": {
-        "+@rel": "adapted from",
-        "+@id": "11070"
-    },
+    "+@generated-on": "2025-02-10T11:25:01Z",
+    "related-prev": [
+        {
+            "+@rel": "sequel of",
+            "+@id": "1869"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "11070"
+        }
+    ],
     "info": [
         {
             "+@gid": "1806555163",
@@ -97,8 +103,8 @@
     ],
     "ratings": {
         "+@nb_votes": "57",
-        "+@weighted_score": "5.4159",
-        "+@bayesian_score": "5.79869"
+        "+@weighted_score": "5.4158",
+        "+@bayesian_score": "5.7985"
     },
     "episode": [
         {
@@ -841,7 +847,7 @@
             "+@lang": "JA",
             "role": "Hijikata Toshizou",
             "person": {
-                "+content": "Tōru Ohkawa",
+                "+content": "Tōru Ōkawa",
                 "+@id": "3060"
             }
         },
@@ -1017,6 +1023,6 @@
         }
     ],
     "+@date-added": null,
-    "+@date-last-modified-at": "2025-01-11T09:27:29Z",
-    "+@date-last-updated-at": "2025-01-11T09:27:29Z"
+    "+@date-last-modified-at": "2025-02-10T11:25:08Z",
+    "+@date-last-updated-at": "2025-02-10T11:25:08Z"
 }
