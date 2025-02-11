@@ -2,9 +2,9 @@
     "+@id": "1112",
     "+@gid": "999204020",
     "+@type": "TV",
-    "+@name": "Anime Sanjūshi",
+    "+@name": "Three Musketeers",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-12T11:25:03Z",
+    "+@generated-on": "2025-02-11T13:32:50Z",
     "related-next": {
         "+@id": "7227",
         "+@rel": "sequel"
@@ -30,9 +30,15 @@
             ]
         },
         {
+            "+content": "Three Musketeers",
+            "+@gid": "1586952217",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Anime Sanjūshi",
             "+@gid": "2147683699",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -66,8 +72,8 @@
             "+@lang": "FR"
         },
         {
-            "+content": "Three Musketeers",
-            "+@gid": "1586952217",
+            "+content": "The Mark of the Musketeers",
+            "+@gid": "2354198642",
             "+@type": "Alternative title",
             "+@lang": "EN"
         },
@@ -155,20 +161,20 @@
             "+@type": "Opening Theme"
         },
         {
-            "+content": "\"Pledge Heart\" by Pumpkin",
-            "+@gid": "3094059371",
+            "+content": "#1: \"Pledge Heart\" (誓約) by Pumpkin (eps 1-29)",
+            "+@gid": "2536816043",
             "+@type": "Ending Theme"
         },
         {
-            "+content": "\"taiyou no HARESHON\" by Pumpkin (eps 20-52)",
-            "+@gid": "2610730108",
+            "+content": "#2: \"Taiyō no Halation\" (太陽のハレーション) by Pumpkin (eps 20-52)",
+            "+@gid": "2876578657",
             "+@type": "Ending Theme"
         }
     ],
     "ratings": {
         "+@nb_votes": "45",
-        "+@weighted_score": "6.5793",
-        "+@bayesian_score": "6.78053"
+        "+@weighted_score": "6.5792",
+        "+@bayesian_score": "6.78032"
     },
     "episode": [
         {
@@ -998,6 +1004,33 @@
             }
         },
         {
+            "+@gid": "1939960740",
+            "+@lang": "EN",
+            "role": "Athos",
+            "person": {
+                "+content": "Tug Yourgrau",
+                "+@id": "276236"
+            }
+        },
+        {
+            "+@gid": "3069027763",
+            "+@lang": "EN",
+            "role": "Narrator",
+            "person": {
+                "+content": "Tug Yourgrau",
+                "+@id": "276236"
+            }
+        },
+        {
+            "+@gid": "1988241622",
+            "+@lang": "EN",
+            "role": "Constance",
+            "person": {
+                "+content": "Jennifer Roszell",
+                "+@id": "276237"
+            }
+        },
+        {
             "+@gid": "3571440483",
             "+@lang": "ES",
             "role": "D'Artagnan",
@@ -1374,6 +1407,6 @@
         }
     ],
     "+@date-added": null,
-    "+@date-last-modified-at": "2025-01-12T11:25:07Z",
-    "+@date-last-updated-at": "2025-01-12T11:25:07Z"
+    "+@date-last-modified-at": "2025-02-11T13:32:52Z",
+    "+@date-last-updated-at": "2025-02-11T13:32:52Z"
 }
