@@ -4,15 +4,15 @@
     "+@type": "OAV",
     "+@name": "éX-Driver",
     "+@precision": "OAV",
-    "+@generated-on": "2025-01-12T23:26:56Z",
-    "related-prev": {
-        "+@rel": "adapted from",
-        "+@id": "2444"
-    },
+    "+@generated-on": "2025-02-12T05:31:21Z",
     "related-next": [
         {
             "+@id": "877",
             "+@rel": "sequel"
+        },
+        {
+            "+@id": "2444",
+            "+@rel": "side story"
         },
         {
             "+@id": "3373",
@@ -150,9 +150,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "310",
-        "+@weighted_score": "6.3927",
-        "+@bayesian_score": "6.43634"
+        "+@nb_votes": "311",
+        "+@weighted_score": "6.3885",
+        "+@bayesian_score": "6.43215"
     },
     "episode": [
         {
@@ -315,7 +315,7 @@
             "+@gid": "1415838189",
             "task": "Original creator",
             "person": {
-                "+content": "Kousuke Fujishima",
+                "+content": "Kōsuke Fujishima",
                 "+@id": "5436"
             }
         },
@@ -323,7 +323,7 @@
             "+@gid": "3294064933",
             "task": "Character Design",
             "person": {
-                "+content": "Kousuke Fujishima",
+                "+content": "Kōsuke Fujishima",
                 "+@id": "289"
             }
         },
@@ -331,7 +331,7 @@
             "+@gid": "2418533601",
             "task": "Character Design",
             "person": {
-                "+content": "Ken'ichi Hamazaki",
+                "+content": "Kenichi Hamazaki",
                 "+@id": "4566"
             }
         },
@@ -347,7 +347,7 @@
             "+@gid": "2294323815",
             "task": "Animation Director",
             "person": {
-                "+content": "Ken'ichi Hamazaki",
+                "+content": "Kenichi Hamazaki",
                 "+@id": "4566"
             }
         },
@@ -448,14 +448,6 @@
             }
         },
         {
-            "+@gid": "2630939734",
-            "task": "Producer",
-            "person": {
-                "+content": "Jun Yukawa",
-                "+@id": "183"
-            }
-        },
-        {
             "+@gid": "2533829646",
             "task": "Producer",
             "person": {
@@ -477,6 +469,14 @@
             "person": {
                 "+content": "Tsuyoshi Katagiri",
                 "+@id": "35301"
+            }
+        },
+        {
+            "+@gid": "2630939734",
+            "task": "Producer",
+            "person": {
+                "+content": "Atsushi Yukawa",
+                "+@id": "275945"
             }
         }
     ],
@@ -628,7 +628,7 @@
         {
             "+@gid": "2698769496",
             "+@lang": "JA",
-            "role": "Souichi Sugano",
+            "role": "Sōichi Sugano",
             "person": {
                 "+content": "Yumiko Kobayashi",
                 "+@id": "500"
@@ -664,7 +664,7 @@
         {
             "+@gid": "363147745",
             "+@lang": "JA",
-            "role": "Lorna Endou",
+            "role": "Lorna Endō",
             "person": {
                 "+content": "Yōko Asada",
                 "+@id": "3584"
@@ -762,6 +762,6 @@
         }
     ],
     "+@date-added": null,
-    "+@date-last-modified-at": "2025-01-12T23:27:01Z",
-    "+@date-last-updated-at": "2025-01-12T23:27:01Z"
+    "+@date-last-modified-at": "2025-02-12T05:31:25Z",
+    "+@date-last-updated-at": "2025-02-12T05:31:25Z"
 }
