@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Bubblegum Crash",
     "+@precision": "OAV",
-    "+@generated-on": "2025-01-13T03:39:40Z",
+    "+@generated-on": "2025-02-12T09:29:43Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "201"
@@ -41,16 +41,34 @@
             "+@lang": "EN"
         },
         {
+            "+content": "Baburugamu kurasshu!",
+            "+@gid": "1990772719",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
             "+content": "Bubblegum Crash: Os Cavaleiros Sabre",
             "+@gid": "2601659098",
             "+@type": "Alternative title",
             "+@lang": "PT"
         },
         {
+            "+content": "Кризис каждый день: Крах!",
+            "+@gid": "1653645349",
+            "+@type": "Alternative title",
+            "+@lang": "RU"
+        },
+        {
             "+content": "バブルガム・クラッシュ!",
             "+@gid": "1772249018",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "버블검 크래시!",
+            "+@gid": "2236671870",
+            "+@type": "Alternative title",
+            "+@lang": "KO"
         },
         {
             "+content": "action",
@@ -98,7 +116,7 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "\"Hateshinai Tabi - Hajimari no Toki\" (果てない旅 ~始まりの時) by Ryoko Tachikawa",
+            "+content": "\"Hateshinai Tabi - Hajimari no Toki\" (果てない旅 ~始まりの時) by Ryōko Tachikawa",
             "+@gid": "1763022586",
             "+@type": "Opening Theme"
         },
@@ -118,6 +136,11 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "\"Fly Away\" by Ryōko Tachikawa (ep 2)",
+            "+@gid": "2177754281",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "AnimEigo's Official <i>Bubblegum Crash</i> Website",
             "+@gid": "146064131",
             "+@type": "Official website",
@@ -126,9 +149,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "381",
-        "+@weighted_score": "6.3407",
-        "+@bayesian_score": "6.3782"
+        "+@nb_votes": "382",
+        "+@weighted_score": "6.3422",
+        "+@bayesian_score": "6.37953"
     },
     "episode": [
         {
@@ -232,6 +255,11 @@
             "+content": "AnimEigo Licenses <cite>Time of Eve, Full Moon wo Sagashite</cite> Anime",
             "+@datetime": "2024-08-03T22:45:05Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-08-03/animeigo-licenses-time-of-eve-full-moon-wo-sagashite-anime/.213908"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, January 19-25",
+            "+@datetime": "2025-01-23T22:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-23/north-american-anime-manga-releases-january-19-25/.220262"
         }
     ],
     "staff": [
@@ -398,7 +426,7 @@
     ],
     "cast": [
         {
-            "+@gid": "1682195326",
+            "+@gid": "2066016022",
             "+@lang": "EN",
             "role": "Linna Yamazaki",
             "person": {
@@ -551,6 +579,15 @@
             }
         },
         {
+            "+@gid": "2849198222",
+            "+@lang": "ES",
+            "role": "Linna Yamazaki",
+            "person": {
+                "+content": "Carmen Calvell",
+                "+@id": "50562"
+            }
+        },
+        {
             "+@gid": "2792198762",
             "+@lang": "ES",
             "role": "Nene Romanova",
@@ -560,12 +597,48 @@
             }
         },
         {
+            "+@gid": "2476229652",
+            "+@lang": "ES",
+            "role": "Adama",
+            "person": {
+                "+content": "María Rosa Gil",
+                "+@id": "59607"
+            }
+        },
+        {
             "+@gid": "2275224886",
             "+@lang": "ES",
             "role": "Sylia Stingray",
             "person": {
                 "+content": "Sofia Garcia",
                 "+@id": "72801"
+            }
+        },
+        {
+            "+@gid": "2250331872",
+            "+@lang": "JA",
+            "role": "Linna Yamazaki",
+            "person": {
+                "+content": "Michie Tomizawa",
+                "+@id": "297"
+            }
+        },
+        {
+            "+@gid": "3376789016",
+            "+@lang": "JA",
+            "role": "Colonel Lando",
+            "person": {
+                "+content": "Tarō Arakawa",
+                "+@id": "844"
+            }
+        },
+        {
+            "+@gid": "3897608763",
+            "+@lang": "JA",
+            "role": "Adama",
+            "person": {
+                "+content": "Minami Takayama",
+                "+@id": "845"
             }
         },
         {
@@ -605,6 +678,15 @@
             }
         },
         {
+            "+@gid": "913473380",
+            "+@lang": "JA",
+            "role": "Dr. Haynes",
+            "person": {
+                "+content": "Tomomichi Nishimura",
+                "+@id": "1047"
+            }
+        },
+        {
             "+@gid": "2340515046",
             "+@lang": "JA",
             "role": "Daley Wong",
@@ -614,9 +696,18 @@
             }
         },
         {
-            "+@gid": "2645027683",
+            "+@gid": "2698721384",
             "+@lang": "JA",
-            "role": "Largo (Mystery Voice)",
+            "role": "Dr. Yuri",
+            "person": {
+                "+content": "Hideyuki Umezu",
+                "+@id": "1256"
+            }
+        },
+        {
+            "+@gid": "2494897741",
+            "+@lang": "JA",
+            "role": "Largo",
             "person": {
                 "+content": "Kazuyuki Sogabe",
                 "+@id": "1614"
@@ -667,6 +758,6 @@
         }
     ],
     "+@date-added": null,
-    "+@date-last-modified-at": "2025-01-13T03:39:42Z",
-    "+@date-last-updated-at": "2025-01-13T03:39:42Z"
+    "+@date-last-modified-at": "2025-02-12T09:29:53Z",
+    "+@date-last-updated-at": "2025-02-12T09:29:53Z"
 }

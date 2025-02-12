@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Plastic Little",
     "+@precision": "OAV",
-    "+@generated-on": "2025-01-13T04:34:23Z",
+    "+@generated-on": "2025-02-12T09:29:44Z",
     "related-next": {
         "+@id": "2823",
         "+@rel": "sequel"
@@ -97,15 +97,15 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "\"You Are Everything\" by Keiko Toge",
+            "+content": "\"You Are Everything\" by Keiko Tōge",
             "+@gid": "2517891478",
             "+@type": "Ending Theme"
         }
     ],
     "ratings": {
         "+@nb_votes": "506",
-        "+@weighted_score": "5.9642",
-        "+@bayesian_score": "6.0021"
+        "+@weighted_score": "5.9641",
+        "+@bayesian_score": "6.00198"
     },
     "release": [
         {
@@ -231,6 +231,22 @@
             }
         },
         {
+            "+@gid": "3189073128",
+            "task": "Mechanical design",
+            "person": {
+                "+content": "Seiji Kio",
+                "+@id": "3693"
+            }
+        },
+        {
+            "+@gid": "2907211994",
+            "task": "Mechanical design",
+            "person": {
+                "+content": "Kōji Arie",
+                "+@id": "276059"
+            }
+        },
+        {
             "+@gid": "270041967",
             "task": "Director of Photography",
             "person": {
@@ -239,19 +255,19 @@
             }
         },
         {
+            "+@gid": "1663015713",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Megumi Sugiyama",
+                "+@id": "1480"
+            }
+        },
+        {
             "+@gid": "1218666274",
             "task": "Executive producer",
             "person": {
                 "+content": "Yutaka Takahashi",
                 "+@id": "1482"
-            }
-        },
-        {
-            "+@gid": "2544621804",
-            "task": "Executive producer",
-            "person": {
-                "+content": "Megumi Shirakawa",
-                "+@id": "7839"
             }
         },
         {
@@ -480,9 +496,9 @@
             }
         },
         {
-            "+@gid": "1773663605",
+            "+@gid": "3598804331",
             "+@lang": "JA",
-            "role": "Gaizel",
+            "role": "Geisel",
             "person": {
                 "+content": "Hiroshi Yanaka",
                 "+@id": "635"
@@ -500,7 +516,7 @@
         {
             "+@gid": "3221737881",
             "+@lang": "JA",
-            "role": "May Lynn Jones",
+            "role": "Dr. May Lynn Jones",
             "person": {
                 "+content": "Keiko Yokozawa",
                 "+@id": "1095"
@@ -509,19 +525,10 @@
         {
             "+@gid": "2947585867",
             "+@lang": "JA",
-            "role": "Elysse Alt Modish",
+            "role": "Elysse Altmodisch",
             "person": {
                 "+content": "Hekiru Shiina",
                 "+@id": "1490"
-            }
-        },
-        {
-            "+@gid": "2489272418",
-            "+@lang": "JA",
-            "role": "Mikhail Diagilev",
-            "person": {
-                "+content": "Chikao Ōtsuka",
-                "+@id": "2171"
             }
         },
         {
@@ -531,6 +538,15 @@
             "person": {
                 "+content": "Ryūsei Nakao",
                 "+@id": "4668"
+            }
+        },
+        {
+            "+@gid": "1676346210",
+            "+@lang": "JA",
+            "role": "Mikhail Diaghilev",
+            "person": {
+                "+content": "Chikao Ōtsuka",
+                "+@id": "5581"
             }
         }
     ],
@@ -577,6 +593,6 @@
         }
     ],
     "+@date-added": null,
-    "+@date-last-modified-at": "2025-01-13T04:34:28Z",
-    "+@date-last-updated-at": "2025-01-13T04:34:28Z"
+    "+@date-last-modified-at": "2025-02-12T09:29:53Z",
+    "+@date-last-updated-at": "2025-02-12T09:29:53Z"
 }
