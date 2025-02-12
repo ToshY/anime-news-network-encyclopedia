@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Grave of the Fireflies",
     "+@precision": "movie",
-    "+@generated-on": "2025-01-13T06:40:41Z",
+    "+@generated-on": "2025-02-12T11:25:31Z",
     "related-next": {
         "+@id": "6261",
         "+@rel": "alternate retelling"
@@ -99,6 +99,12 @@
             "+@gid": "2843053244",
             "+@type": "Alternative title",
             "+@lang": "RU"
+        },
+        {
+            "+content": "قبر اليراعات",
+            "+@gid": "3309290131",
+            "+@type": "Alternative title",
+            "+@lang": "AR"
         },
         {
             "+content": "火垂るの墓",
@@ -212,9 +218,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4680",
-        "+@weighted_score": "8.6522",
-        "+@bayesian_score": "8.64894"
+        "+@nb_votes": "4681",
+        "+@weighted_score": "8.6519",
+        "+@bayesian_score": "8.64865"
     },
     "review": [
         {
@@ -916,6 +922,15 @@
             }
         },
         {
+            "+@gid": "2546780298",
+            "+@lang": "FR",
+            "role": "Tante",
+            "person": {
+                "+content": "Marie Martine",
+                "+@id": "27190"
+            }
+        },
+        {
             "+@gid": "2607640373",
             "+@lang": "FR",
             "role": "Seita",
@@ -925,12 +940,39 @@
             }
         },
         {
+            "+@gid": "2409810926",
+            "+@lang": "FR",
+            "role": "Tante",
+            "person": {
+                "+content": "Marie-Laure Dougnac",
+                "+@id": "51479"
+            }
+        },
+        {
             "+@gid": "1718209226",
             "+@lang": "FR",
             "role": "Setsuko",
             "person": {
                 "+content": "Kelly Marot",
                 "+@id": "69308"
+            }
+        },
+        {
+            "+@gid": "3332521873",
+            "+@lang": "FR",
+            "role": "Setsuko",
+            "person": {
+                "+content": "Fanny Vambacas",
+                "+@id": "197714"
+            }
+        },
+        {
+            "+@gid": "2109390385",
+            "+@lang": "FR",
+            "role": "Seita",
+            "person": {
+                "+content": "Esteban Oertli",
+                "+@id": "207971"
             }
         },
         {
@@ -997,6 +1039,33 @@
             }
         },
         {
+            "+@gid": "2882630741",
+            "+@lang": "PT",
+            "role": "Tia",
+            "person": {
+                "+content": "Denise Reis",
+                "+@id": "48747"
+            }
+        },
+        {
+            "+@gid": "895373643",
+            "+@lang": "PT",
+            "role": "Mãe",
+            "person": {
+                "+content": "Adriana Pissardini",
+                "+@id": "48869"
+            }
+        },
+        {
+            "+@gid": "3498631668",
+            "+@lang": "PT",
+            "role": "Médico",
+            "person": {
+                "+content": "Ricardo Sawaya",
+                "+@id": "50292"
+            }
+        },
+        {
             "+@gid": "1378373883",
             "+@lang": "PT",
             "role": "Seita",
@@ -1034,6 +1103,6 @@
         }
     ],
     "+@date-added": null,
-    "+@date-last-modified-at": "2025-01-13T06:40:43Z",
-    "+@date-last-updated-at": "2025-01-13T06:40:43Z"
+    "+@date-last-modified-at": "2025-02-12T11:25:34Z",
+    "+@date-last-updated-at": "2025-02-12T11:25:34Z"
 }
