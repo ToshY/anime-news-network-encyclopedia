@@ -4,7 +4,11 @@
     "+@type": "TV",
     "+@name": "Wrestler Gundan Ginga-hen Seisenshi Robin Jr.",
     "+@precision": "TV",
-    "+@generated-on": "2025-01-13T08:36:42Z",
+    "+@generated-on": "2025-02-12T13:32:01Z",
+    "related-prev": {
+        "+@rel": "sequel of",
+        "+@id": "2231"
+    },
     "info": [
         {
             "+@gid": "3082499819",
@@ -50,6 +54,16 @@
             "+content": "1989-10-19 to 1990-09-27",
             "+@gid": "3837248532",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Nazo no Parade\" (？のパレード) by Yumi Murata",
+            "+@gid": "799741556",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Odoroki Map\" (！MAP) by Yumi Murata",
+            "+@gid": "1070190639",
+            "+@type": "Ending Theme"
         }
     ],
     "episode": [
@@ -767,9 +781,9 @@
     ],
     "cast": [
         {
-            "+@gid": "1943365755",
+            "+@gid": "2601335558",
             "+@lang": "JA",
-            "role": "Gurin",
+            "role": "Menma Green P",
             "person": {
                 "+content": "Chisa Yokoyama",
                 "+@id": "296"
@@ -785,9 +799,9 @@
             }
         },
         {
-            "+@gid": "666549520",
+            "+@gid": "2390739376",
             "+@lang": "JA",
-            "role": "Princess",
+            "role": "Kibara Hime",
             "person": {
                 "+content": "Yūko Mizutani",
                 "+@id": "1004"
@@ -803,9 +817,9 @@
             }
         },
         {
-            "+@gid": "1005308643",
+            "+@gid": "1772611962",
             "+@lang": "JA",
-            "role": "Tsuyoshi D",
+            "role": "Retsu D. God",
             "person": {
                 "+content": "Rica Matsumoto",
                 "+@id": "1172"
@@ -821,21 +835,21 @@
             }
         },
         {
-            "+@gid": "3491209251",
+            "+@gid": "2553866185",
             "+@lang": "JA",
-            "role": "Robin Jr.",
-            "person": {
-                "+content": "Youko Ogai",
-                "+@id": "5082"
-            }
-        },
-        {
-            "+@gid": "1002014864",
-            "+@lang": "JA",
-            "role": "Momosaki Wakakouji",
+            "role": "Miko Momowaka",
             "person": {
                 "+content": "Chiaki Morita",
                 "+@id": "9886"
+            }
+        },
+        {
+            "+@gid": "3803609619",
+            "+@lang": "JA",
+            "role": "Robin God Jr.",
+            "person": {
+                "+content": "Yōko Ogai",
+                "+@id": "10421"
             }
         }
     ],
@@ -858,6 +872,6 @@
         }
     ],
     "+@date-added": null,
-    "+@date-last-modified-at": "2025-01-13T08:36:49Z",
-    "+@date-last-updated-at": "2025-01-13T08:36:49Z"
+    "+@date-last-modified-at": "2025-02-12T13:32:05Z",
+    "+@date-last-updated-at": "2025-02-12T13:32:05Z"
 }
