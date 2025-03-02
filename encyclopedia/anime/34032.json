@@ -2,28 +2,53 @@
     "+@id": "34032",
     "+@gid": "1824487045",
     "+@type": "TV",
-    "+@name": "Himitsu no AiPri",
+    "+@name": "Himitsu no AiPri: Ring-hen",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-01-31T23:26:43Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "31828"
-    },
+    "+@generated-on": "2025-03-02T23:27:11Z",
+    "related-prev": [
+        {
+            "+@rel": "sequel of",
+            "+@id": "31828"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "34715"
+        }
+    ],
     "info": [
         {
-            "+content": "Himitsu no AiPri",
+            "+@gid": "751006939",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34032-751006939.1740646888.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34032-751006939.1740646888.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34032-751006939.1740646888.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
+                }
+            ]
+        },
+        {
+            "+content": "Himitsu no AiPri: Ring-hen",
             "+@gid": "3085269456",
             "+@type": "Main title",
             "+@lang": "JA"
         },
         {
-            "+content": "ひみつのアイプリ",
+            "+content": "ひみつのアイプリ リング編",
             "+@gid": "1560630035",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
-            "+content": "2025-04",
+            "+content": "2025-04-06",
             "+@gid": "1895816169",
             "+@type": "Vintage"
         },
@@ -35,12 +60,251 @@
             "+@href": "https://aipri.jp/anime/"
         }
     ],
-    "news": {
-        "+content": "<cite>Himitsu no Aipri</cite> Anime's 2nd Season Premieres in April",
-        "+@datetime": "2025-01-25T15:51:24Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-01-25/himitsu-no-aipri-anime-2nd-season-premieres-in-april/.220458"
-    },
+    "news": [
+        {
+            "+content": "<cite>Himitsu no Aipri</cite> Anime's 2nd Season Premieres in April",
+            "+@datetime": "2025-01-25T15:51:24Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-25/himitsu-no-aipri-anime-2nd-season-premieres-in-april/.220458"
+        },
+        {
+            "+content": "<cite>Himitsu no AiPri</cite> Anime's 2nd Season Reveals Title, Video, More Cast, April 6 Premiere",
+            "+@datetime": "2025-02-27T08:37:34Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-27/himitsu-no-aipri-anime-2nd-season-reveals-title-video-more-cast-april-6-premiere/.221709"
+        }
+    ],
+    "staff": [
+        {
+            "+@gid": "2909935345",
+            "task": "Chief Director",
+            "person": {
+                "+content": "Sung Min Nam",
+                "+@id": "110338"
+            }
+        },
+        {
+            "+@gid": "2291788233",
+            "task": "Chief Director",
+            "person": {
+                "+content": "Sun Kyung Oh",
+                "+@id": "110900"
+            }
+        },
+        {
+            "+@gid": "3202148313",
+            "task": "Chief Director",
+            "person": {
+                "+content": "Gi Cheol Shin",
+                "+@id": "247069"
+            }
+        },
+        {
+            "+@gid": "2864786283",
+            "task": "Chief Director",
+            "person": {
+                "+content": "Jae Ho An",
+                "+@id": "261099"
+            }
+        },
+        {
+            "+@gid": "2552112068",
+            "task": "Chief Director",
+            "person": {
+                "+content": "Kyung Won Choi",
+                "+@id": "278635"
+            }
+        },
+        {
+            "+@gid": "1684217333",
+            "task": "Chief Director",
+            "person": {
+                "+content": "Seong Hyeon Kim",
+                "+@id": "278740"
+            }
+        },
+        {
+            "+@gid": "3254750106",
+            "task": "Chief Director",
+            "person": {
+                "+content": "Byung Chul Jeon",
+                "+@id": "278741"
+            }
+        },
+        {
+            "+@gid": "1981697654",
+            "task": "Director",
+            "person": {
+                "+content": "Kentaro Yamaguchi",
+                "+@id": "41843"
+            }
+        },
+        {
+            "+@gid": "1789460129",
+            "task": "Director",
+            "person": {
+                "+content": "Jun'ichi Fujisaku",
+                "+@id": "45420"
+            }
+        },
+        {
+            "+@gid": "1598211307",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Gigaemon Ichikawa",
+                "+@id": "145724"
+            }
+        },
+        {
+            "+@gid": "2000093395",
+            "task": "Music",
+            "person": {
+                "+content": "Izumi Mori",
+                "+@id": "210019"
+            }
+        },
+        {
+            "+@gid": "1755328460",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Yumi Nashimoto",
+                "+@id": "208974"
+            }
+        },
+        {
+            "+@gid": "622160432",
+            "task": "Character Design",
+            "person": {
+                "+content": "Yuki Nagano",
+                "+@id": "232523"
+            }
+        },
+        {
+            "+@gid": "3146532359",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Noriyoshi Konuma",
+                "+@id": "84893"
+            }
+        },
+        {
+            "+@gid": "2674972408",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Satoshi Yanagawa",
+                "+@id": "79520"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1818352543",
+            "+@lang": "JA",
+            "role": "Ring Clover",
+            "person": {
+                "+content": "Eri Kitamura",
+                "+@id": "13838"
+            }
+        },
+        {
+            "+@gid": "3147447797",
+            "+@lang": "JA",
+            "role": "Chii Mamiya",
+            "person": {
+                "+content": "Yō Taichi",
+                "+@id": "119677"
+            }
+        },
+        {
+            "+@gid": "1803920352",
+            "+@lang": "JA",
+            "role": "Subaru Nanaura",
+            "person": {
+                "+content": "Tatsuyuki Kobayashi",
+                "+@id": "129549"
+            }
+        },
+        {
+            "+@gid": "2473708314",
+            "+@lang": "JA",
+            "role": "Elle Rokudō",
+            "person": {
+                "+content": "Rina Kawaguchi",
+                "+@id": "190216"
+            }
+        },
+        {
+            "+@gid": "1181449172",
+            "+@lang": "JA",
+            "role": "Julia Igarashi",
+            "person": {
+                "+content": "Rio Tsuchiya",
+                "+@id": "190688"
+            }
+        },
+        {
+            "+@gid": "2642455996",
+            "+@lang": "JA",
+            "role": "Himari Aozora",
+            "person": {
+                "+content": "Minori Fujidera",
+                "+@id": "214095"
+            }
+        },
+        {
+            "+@gid": "3698887951",
+            "+@lang": "JA",
+            "role": "Mitsuki Hoshikawa",
+            "person": {
+                "+content": "Sae Hiratsuka",
+                "+@id": "230669"
+            }
+        },
+        {
+            "+@gid": "2969339488",
+            "+@lang": "JA",
+            "role": "Vivi Hachiōji",
+            "person": {
+                "+content": "Momoka Terasawa",
+                "+@id": "231450"
+            }
+        },
+        {
+            "+@gid": "1797876737",
+            "+@lang": "JA",
+            "role": "Wako Sensei",
+            "person": {
+                "+content": "Nagisa Saitō",
+                "+@id": "259257"
+            }
+        },
+        {
+            "+@gid": "2716880677",
+            "+@lang": "JA",
+            "role": "Otome Nanaura",
+            "person": {
+                "+content": "Kirara Ŏmori",
+                "+@id": "278744"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "3130313517",
+            "task": "Animation Production",
+            "company": {
+                "+content": "OLM",
+                "+@id": "33"
+            }
+        },
+        {
+            "+@gid": "1835175700",
+            "task": "Animation Production",
+            "company": {
+                "+content": "DongWoo Animation",
+                "+@id": "4060"
+            }
+        }
+    ],
     "+@date-added": "2024-11-16T19:34:25Z",
-    "+@date-last-modified-at": "2025-01-31T23:26:44Z",
-    "+@date-last-updated-at": "2025-01-31T23:26:44Z"
+    "+@date-last-modified-at": "2025-03-02T23:27:13Z",
+    "+@date-last-updated-at": "2025-03-02T23:27:13Z"
 }
