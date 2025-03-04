@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Re:ZERO -Starting Life in Another World-",
     "+@precision": "TV 4",
-    "+@generated-on": "2025-02-02T17:28:08Z",
+    "+@generated-on": "2025-03-04T18:39:55Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "23779"
@@ -77,9 +77,34 @@
             "+@type": "Opening Theme"
         },
         {
+            "+content": "\"I Trust You\" by Emilia [Rie Takahashi] (ep 57)",
+            "+@gid": "1365641820",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "\"NOX LUX\" by MYTH & ROID",
             "+@gid": "1823987459",
             "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Dyuwawa, Koi no toshi no sa\" by Liliana Masquerade [Aya Yamane], Subaru Natsuki [Yūsuke Kobayashi] (ep 51)",
+            "+@gid": "2188624899",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Kenki Renka Dainimaku\" (剣鬼恋歌 第二幕) by Liliana Masquerade [Aya Yamane] (ep 51)",
+            "+@gid": "1508762495",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Kin mo nai, Mirai mo nai\" (金もない、未来もない) by Liliana Masquerade [Aya Yamane] (ep 51)",
+            "+@gid": "2767550084",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Priscilla's Dance Song\" (プリシラの踊りの曲) by Yashikin (ep 51)",
+            "+@gid": "2276905679",
+            "+@type": "Insert song"
         },
         {
             "+content": "TVアニメ『Re:ゼロから始める異世界生活』オフィシャルサイト",
@@ -90,10 +115,76 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "29",
-        "+@weighted_score": "7.7946",
-        "+@bayesian_score": "7.69617"
+        "+@nb_votes": "34",
+        "+@weighted_score": "7.9318",
+        "+@bayesian_score": "7.80587"
     },
+    "episode": [
+        {
+            "+@num": "51",
+            "title": {
+                "+content": "Theatrical Malice",
+                "+@gid": "2316719537",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "52",
+            "title": {
+                "+content": "A Showdown of Fire and Ice",
+                "+@gid": "2548033364",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "53",
+            "title": {
+                "+content": "Gorgeous Tiger",
+                "+@gid": "2490152145",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "54",
+            "title": {
+                "+content": "Operation: Take Back the Government Office",
+                "+@gid": "1777782962",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "55",
+            "title": {
+                "+content": "A Dark Torrent",
+                "+@gid": "3008421292",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "56",
+            "title": {
+                "+content": "Conditions of the Knight",
+                "+@gid": "2689337046",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "57",
+            "title": {
+                "+content": "The Newest of Heroes and the Most Ancient of Heroes",
+                "+@gid": "2622771934",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "58",
+            "title": {
+                "+content": "The One I'll Love Someday",
+                "+@gid": "2645349259",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "<cite>Re:Zero</cite> Anime's 3rd Season Reveals 2nd Teaser Visual",
@@ -547,6 +638,14 @@
             }
         },
         {
+            "+@gid": "2124436980",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wen Jing Li",
+                "+@id": "204191"
+            }
+        },
+        {
             "+@gid": "1145141418",
             "task": "Animation Director",
             "person": {
@@ -568,6 +667,14 @@
             "person": {
                 "+content": "Zhi Lan Cui",
                 "+@id": "258124"
+            }
+        },
+        {
+            "+@gid": "1748182964",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yū Katsuta",
+                "+@id": "278731"
             }
         },
         {
@@ -1090,7 +1197,7 @@
         {
             "+@gid": "3521031837",
             "+@lang": "FR",
-            "role": "Garfiel Tinsen",
+            "role": "Garfiel Tinsel",
             "person": {
                 "+content": "Arnaud Laurent",
                 "+@id": "66320"
@@ -1145,6 +1252,15 @@
             "+@gid": "2314168561",
             "+@lang": "FR",
             "role": "Kiritaka Muse",
+            "person": {
+                "+content": "Julien Rampon",
+                "+@id": "146168"
+            }
+        },
+        {
+            "+@gid": "1017338948",
+            "+@lang": "FR",
+            "role": "Ricardo Welkin",
             "person": {
                 "+content": "Julien Rampon",
                 "+@id": "146168"
@@ -1538,6 +1654,6 @@
         }
     },
     "+@date-added": "2023-03-25T04:29:48Z",
-    "+@date-last-modified-at": "2025-02-02T17:28:10Z",
-    "+@date-last-updated-at": "2025-02-02T17:28:10Z"
+    "+@date-last-modified-at": "2025-03-04T18:39:58Z",
+    "+@date-last-updated-at": "2025-03-04T18:39:58Z"
 }
