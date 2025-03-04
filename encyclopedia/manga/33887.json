@@ -2,13 +2,19 @@
     "+@id": "33887",
     "+@gid": "1358987929",
     "+@type": "manga",
-    "+@name": "Neko to Ryū",
+    "+@name": "Cat and the Dragon",
     "+@precision": "manga",
-    "+@generated-on": "2025-02-02T04:31:13Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "20300"
-    },
+    "+@generated-on": "2025-03-04T04:33:56Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "20300"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "34780"
+        }
+    ],
     "info": [
         {
             "+@gid": "3729863350",
@@ -35,16 +41,16 @@
             ]
         },
         {
-            "+content": "Neko to Ryū",
-            "+@gid": "1814124846",
-            "+@type": "Main title",
-            "+@lang": "JA"
-        },
-        {
             "+content": "The Cat and the Dragon",
             "+@gid": "1722448308",
-            "+@type": "Alternative title",
+            "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Neko to Ryū",
+            "+@gid": "1814124846",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
         },
         {
             "+content": "猫と竜",
@@ -73,6 +79,15 @@
             "+@type": "Vintage"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "3"
+    },
+    "news": {
+        "+content": "<cite>The Cat and the Dragon</cite> Novels/Manga Get TV Anime",
+        "+@datetime": "2025-02-21T15:58:47Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-02-21/the-cat-and-the-dragon-novels-manga-get-tv-anime/.221498"
+    },
     "staff": [
         {
             "+@gid": "1357181328",
@@ -100,6 +115,6 @@
         }
     ],
     "+@date-added": "2024-10-31T21:27:20Z",
-    "+@date-last-modified-at": "2025-02-02T04:31:16Z",
-    "+@date-last-updated-at": "2025-02-02T04:31:16Z"
+    "+@date-last-modified-at": "2025-03-04T04:33:58Z",
+    "+@date-last-updated-at": "2025-03-04T04:33:58Z"
 }

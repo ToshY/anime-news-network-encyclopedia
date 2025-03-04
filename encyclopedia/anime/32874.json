@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Blue Exorcist: The Blue Night Saga",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-02T04:31:10Z",
+    "+@generated-on": "2025-03-04T04:33:58Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32565"
@@ -48,6 +48,16 @@
             "+@lang": "JA"
         },
         {
+            "+content": "supernatural",
+            "+@gid": "1494642958",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "2024625768",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "2025-01-04",
             "+@gid": "2830666423",
             "+@type": "Vintage"
@@ -71,8 +81,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "8.2661"
+        "+@nb_votes": "4",
+        "+@weighted_score": "8.3053"
     },
     "news": [
         {
@@ -292,6 +302,15 @@
     ],
     "cast": [
         {
+            "+@gid": "3694392426",
+            "+@lang": "EN",
+            "role": "Shura Kirigakure",
+            "person": {
+                "+content": "Wendee Lee",
+                "+@id": "1184"
+            }
+        },
+        {
             "+@gid": "571202533",
             "+@lang": "EN",
             "role": "Yukio Okumura",
@@ -328,12 +347,30 @@
             }
         },
         {
-            "+@gid": "538199690",
+            "+@gid": "1810599111",
             "+@lang": "EN",
             "role": "Mephisto Pheles",
             "person": {
                 "+content": "Sam Regal",
                 "+@id": "23514"
+            }
+        },
+        {
+            "+@gid": "2421476797",
+            "+@lang": "EN",
+            "role": "Arthur A. Angel",
+            "person": {
+                "+content": "David Vincent",
+                "+@id": "55038"
+            }
+        },
+        {
+            "+@gid": "2150925676",
+            "+@lang": "EN",
+            "role": "Nicolae Eminescu",
+            "person": {
+                "+content": "Keith Silverstein",
+                "+@id": "63324"
             }
         },
         {
@@ -346,7 +383,7 @@
             }
         },
         {
-            "+@gid": "2449940898",
+            "+@gid": "2490734958",
             "+@lang": "EN",
             "role": "Satan",
             "person": {
@@ -400,12 +437,48 @@
             }
         },
         {
+            "+@gid": "2860373482",
+            "+@lang": "EN",
+            "role": "Shemihaza",
+            "person": {
+                "+content": "Jennifer Sun Bell",
+                "+@id": "229690"
+            }
+        },
+        {
+            "+@gid": "1660266340",
+            "+@lang": "FR",
+            "role": "Shirô Fujimoto",
+            "person": {
+                "+content": "Gérard Rouzier",
+                "+@id": "3748"
+            }
+        },
+        {
+            "+@gid": "819804630",
+            "+@lang": "FR",
+            "role": "Yukio Okumura",
+            "person": {
+                "+content": "Adrien Solis",
+                "+@id": "38772"
+            }
+        },
+        {
             "+@gid": "1063676473",
             "+@lang": "FR",
             "role": "Rin Okumura",
             "person": {
                 "+content": "François Creton",
                 "+@id": "43191"
+            }
+        },
+        {
+            "+@gid": "1800252651",
+            "+@lang": "FR",
+            "role": "Satan",
+            "person": {
+                "+content": "Constantin Pappas",
+                "+@id": "47653"
             }
         },
         {
@@ -427,6 +500,33 @@
             }
         },
         {
+            "+@gid": "2891926870",
+            "+@lang": "FR",
+            "role": "Shemihaza",
+            "person": {
+                "+content": "Bérangère Rochet",
+                "+@id": "127120"
+            }
+        },
+        {
+            "+@gid": "2340031531",
+            "+@lang": "FR",
+            "role": "Lucifer",
+            "person": {
+                "+content": "Sébastien Minéo",
+                "+@id": "202598"
+            }
+        },
+        {
+            "+@gid": "1760615260",
+            "+@lang": "FR",
+            "role": "Rick",
+            "person": {
+                "+content": "Alexandre Croo",
+                "+@id": "237377"
+            }
+        },
+        {
             "+@gid": "2356389368",
             "+@lang": "JA",
             "role": "Yukio Okumura",
@@ -442,6 +542,24 @@
             "person": {
                 "+content": "Megumi Hayashibara",
                 "+@id": "391"
+            }
+        },
+        {
+            "+@gid": "1879121021",
+            "+@lang": "JA",
+            "role": "Lewin Light",
+            "person": {
+                "+content": "Tomokazu Seki",
+                "+@id": "529"
+            }
+        },
+        {
+            "+@gid": "2268387070",
+            "+@lang": "JA",
+            "role": "Ryūji Suguro",
+            "person": {
+                "+content": "Kazuya Nakai",
+                "+@id": "551"
             }
         },
         {
@@ -508,6 +626,15 @@
             }
         },
         {
+            "+@gid": "2220001805",
+            "+@lang": "JA",
+            "role": "Izumo Kamiki",
+            "person": {
+                "+content": "Eri Kitamura",
+                "+@id": "13838"
+            }
+        },
+        {
             "+@gid": "2209400955",
             "+@lang": "JA",
             "role": "Satan",
@@ -517,12 +644,57 @@
             }
         },
         {
+            "+@gid": "2514063191",
+            "+@lang": "JA",
+            "role": "Arthur A. Angel",
+            "person": {
+                "+content": "Daisuke Ono",
+                "+@id": "14929"
+            }
+        },
+        {
+            "+@gid": "287473951",
+            "+@lang": "JA",
+            "role": "Shura Kirigakure",
+            "person": {
+                "+content": "Rina Satō",
+                "+@id": "16411"
+            }
+        },
+        {
+            "+@gid": "2292182552",
+            "+@lang": "JA",
+            "role": "Renzō Shima",
+            "person": {
+                "+content": "Kōji Yusa",
+                "+@id": "51073"
+            }
+        },
+        {
+            "+@gid": "2223118730",
+            "+@lang": "JA",
+            "role": "Shiemi Moriyama",
+            "person": {
+                "+content": "Kana Hanazawa",
+                "+@id": "53741"
+            }
+        },
+        {
             "+@gid": "3407808466",
             "+@lang": "JA",
             "role": "Lucifer",
             "person": {
                 "+content": "Kōki Uchiyama",
                 "+@id": "56091"
+            }
+        },
+        {
+            "+@gid": "2805805546",
+            "+@lang": "JA",
+            "role": "Konekomaru Miwa",
+            "person": {
+                "+content": "Yūki Kaji",
+                "+@id": "58051"
             }
         },
         {
@@ -562,6 +734,6 @@
         }
     },
     "+@date-added": "2024-07-05T21:16:41Z",
-    "+@date-last-modified-at": "2025-02-02T04:31:12Z",
-    "+@date-last-updated-at": "2025-02-02T04:31:12Z"
+    "+@date-last-modified-at": "2025-03-04T04:34:00Z",
+    "+@date-last-updated-at": "2025-03-04T04:34:00Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "+@precision": "movies",
-    "+@generated-on": "2025-02-02T04:31:11Z",
+    "+@generated-on": "2025-03-04T04:33:58Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28695"
@@ -13,24 +13,19 @@
         {
             "+@gid": "2286706052",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32858-2286706052.1719794279.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32858-2286706052.1740832989.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32858-2286706052.1719794279.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32858-2286706052.1740832989.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32858-2286706052.1719794279.jpg",
-                    "+@width": "424",
-                    "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A32858-2286706052.1719794279.jpg",
-                    "+@width": "700",
-                    "+@height": "990"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32858-2286706052.1740832989.jpg",
+                    "+@width": "292",
+                    "+@height": "413"
                 }
             ]
         },
@@ -119,9 +114,13 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2025",
-            "+@gid": "2345327293",
+            "+content": "2025-07-18",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-07-18 (Japan, Part 1)",
+            "+@gid": "3301229727",
+            "+@type": "Premiere date"
         },
         {
             "+content": "劇場版「鬼滅の刃 無限城編」公式サイト",
@@ -131,22 +130,49 @@
             "+@href": "https://kimetsu.com/anime/mugenjyohen_movie/"
         }
     ],
-    "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "8"
-    },
-    "news": {
-        "+content": "<cite>Demon Slayer: Kimetsu no Yaiba Infinity Castle</cite> Films' 2nd Teaser Unveils 2025  Launch, Returning Staff",
-        "+@datetime": "2024-12-08T22:52:52Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-12-08/demon-slayer-kimetsu-no-yaiba-infinity-castle-films-2nd-teaser-unveils-2025-launch-returning-staff/.218756"
-    },
+    "news": [
+        {
+            "+content": "<cite>Demon Slayer: Kimetsu no Yaiba Infinity Castle</cite> Films' 2nd Teaser Unveils 2025  Launch, Returning Staff",
+            "+@datetime": "2024-12-08T22:52:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-08/demon-slayer-kimetsu-no-yaiba-infinity-castle-films-2nd-teaser-unveils-2025-launch-returning-staff/.218756"
+        },
+        {
+            "+content": "1st <cite>Demon Slayer: Kimetsu no Yaiba Infinity Castle</cite> Film Opens in Japan on July 18",
+            "+@datetime": "2025-03-01T10:20:46Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-01/1st-demon-slayer-kimetsu-no-yaiba-infinity-castle-film-opens-in-japan-on-july-18/.221802"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "1864090752",
+            "task": "Chief Director",
+            "person": {
+                "+content": "Hikaru Kondo",
+                "+@id": "8835"
+            }
+        },
         {
             "+@gid": "3568239777",
             "task": "Director",
             "person": {
                 "+content": "Haruo Sotozaki",
                 "+@id": "11235"
+            }
+        },
+        {
+            "+@gid": "2751960342",
+            "task": "Music",
+            "person": {
+                "+content": "Yuki Kajiura",
+                "+@id": "3914"
+            }
+        },
+        {
+            "+@gid": "1177726577",
+            "task": "Music",
+            "person": {
+                "+content": "Gō Shiina",
+                "+@id": "108636"
             }
         },
         {
@@ -166,23 +192,217 @@
             }
         },
         {
+            "+@gid": "2901649122",
+            "task": "Art Director",
+            "person": {
+                "+content": "Masaru Yanaka",
+                "+@id": "44939"
+            }
+        },
+        {
+            "+@gid": "678574796",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yuri Kabasawa",
+                "+@id": "141422"
+            }
+        },
+        {
             "+@gid": "1306224553",
             "task": "Chief Animation Director",
             "person": {
                 "+content": "Akira Matsushima",
                 "+@id": "3360"
             }
+        },
+        {
+            "+@gid": "3100081048",
+            "task": "3D Director",
+            "person": {
+                "+content": "Kazuki Nishiwaki",
+                "+@id": "106131"
+            }
+        },
+        {
+            "+@gid": "1514363882",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Hikaru Kondo",
+                "+@id": "8835"
+            }
+        },
+        {
+            "+@gid": "1463660194",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yuichi Terao",
+                "+@id": "58110"
+            }
         }
     ],
-    "credit": {
-        "+@gid": "1391727444",
-        "task": "Animation Production",
-        "company": {
-            "+content": "ufotable",
-            "+@id": "4362"
+    "cast": [
+        {
+            "+@gid": "2170231969",
+            "+@lang": "JA",
+            "role": "Sanemi Shinazugawa",
+            "person": {
+                "+content": "Tomokazu Seki",
+                "+@id": "529"
+            }
+        },
+        {
+            "+@gid": "522347129",
+            "+@lang": "JA",
+            "role": "Tengen Uzui",
+            "person": {
+                "+content": "Katsuyuki Konishi",
+                "+@id": "780"
+            }
+        },
+        {
+            "+@gid": "3244111836",
+            "+@lang": "JA",
+            "role": "Gyōmei Himejima",
+            "person": {
+                "+content": "Tomokazu Sugita",
+                "+@id": "910"
+            }
+        },
+        {
+            "+@gid": "2643058345",
+            "+@lang": "JA",
+            "role": "Giyū Tomioka",
+            "person": {
+                "+content": "Takahiro Sakurai",
+                "+@id": "5039"
+            }
+        },
+        {
+            "+@gid": "3536361421",
+            "+@lang": "JA",
+            "role": "Obanai Iguro",
+            "person": {
+                "+content": "Kenichi Suzumura",
+                "+@id": "5894"
+            }
+        },
+        {
+            "+@gid": "2175400318",
+            "+@lang": "JA",
+            "role": "Zen'itsu Agatsuma",
+            "person": {
+                "+content": "Hiro Shimono",
+                "+@id": "7636"
+            }
+        },
+        {
+            "+@gid": "3337129043",
+            "+@lang": "JA",
+            "role": "Mitsuri Kanroji",
+            "person": {
+                "+content": "Kana Hanazawa",
+                "+@id": "53741"
+            }
+        },
+        {
+            "+@gid": "3327791467",
+            "+@lang": "JA",
+            "role": "Genya Shinazugawa",
+            "person": {
+                "+content": "Nobuhiko Okamoto",
+                "+@id": "59411"
+            }
+        },
+        {
+            "+@gid": "497392035",
+            "+@lang": "JA",
+            "role": "Shinobu Kochō",
+            "person": {
+                "+content": "Saori Hayami",
+                "+@id": "63462"
+            }
+        },
+        {
+            "+@gid": "1905640191",
+            "+@lang": "JA",
+            "role": "Muichirō Tokitō",
+            "person": {
+                "+content": "Kengo Kawanishi",
+                "+@id": "64695"
+            }
+        },
+        {
+            "+@gid": "2287938799",
+            "+@lang": "JA",
+            "role": "Inosuke Hashibira",
+            "person": {
+                "+content": "Yoshitsugu Matsuoka",
+                "+@id": "93780"
+            }
+        },
+        {
+            "+@gid": "241482360",
+            "+@lang": "JA",
+            "role": "Tanjirō Kamado",
+            "person": {
+                "+content": "Natsuki Hanae",
+                "+@id": "106773"
+            }
+        },
+        {
+            "+@gid": "617584045",
+            "+@lang": "JA",
+            "role": "Kanao Tsuyuri",
+            "person": {
+                "+content": "Reina Ueda",
+                "+@id": "116390"
+            }
+        },
+        {
+            "+@gid": "3450700580",
+            "+@lang": "JA",
+            "role": "Nezuko Kamado",
+            "person": {
+                "+content": "Akari Kitō",
+                "+@id": "130728"
+            }
         }
-    },
+    ],
+    "credit": [
+        {
+            "+@gid": "1391727444",
+            "task": "Animation Production",
+            "company": {
+                "+content": "ufotable",
+                "+@id": "4362"
+            }
+        },
+        {
+            "+@gid": "1366369958",
+            "task": "Production",
+            "company": {
+                "+content": "Shueisha",
+                "+@id": "909"
+            }
+        },
+        {
+            "+@gid": "2234684120",
+            "task": "Production",
+            "company": {
+                "+content": "Aniplex",
+                "+@id": "1257"
+            }
+        },
+        {
+            "+@gid": "2993850506",
+            "task": "Production",
+            "company": {
+                "+content": "ufotable",
+                "+@id": "4362"
+            }
+        }
+    ],
     "+@date-added": "2024-06-30T20:29:27Z",
-    "+@date-last-modified-at": "2025-02-02T04:31:12Z",
-    "+@date-last-updated-at": "2025-02-02T04:31:12Z"
+    "+@date-last-modified-at": "2025-03-04T04:34:00Z",
+    "+@date-last-updated-at": "2025-03-04T04:34:00Z"
 }
