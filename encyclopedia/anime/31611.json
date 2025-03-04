@@ -4,12 +4,31 @@
     "+@type": "TV",
     "+@name": "Egao no Taenai Shokuba Desu",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-02T09:25:56Z",
+    "+@generated-on": "2025-03-04T09:31:09Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29485"
     },
     "info": [
+        {
+            "+@gid": "2089501990",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A31611-2089501990.1740649142.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A31611-2089501990.1740649142.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A31611-2089501990.1740649142.jpg",
+                    "+@width": "423",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Egao no Taenai Shokuba Desu",
             "+@gid": "3257565272",
@@ -28,24 +47,109 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2025",
+            "+content": "2025-10",
             "+@gid": "1156082899",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ「笑顔のたえない職場です。」公式サイト",
+            "+@gid": "1230993454",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://www.egatae.com/"
         }
     ],
-    "news": {
-        "+content": "Kuzushiro's <cite>Egao no Taenai Shokuba Desu.</cite> Workplace TV Anime Confirmed",
-        "+@datetime": "2024-01-17T16:18:46Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-01-17/kuzushiro-egao-no-taenai-shokuba-desu-workplace-tv-anime-confirmed/.206572"
-    },
-    "staff": {
-        "+@gid": "1623485198",
-        "task": "Original creator",
-        "person": {
-            "+content": "Kuzushiro",
-            "+@id": "112002"
+    "news": [
+        {
+            "+content": "Kuzushiro's <cite>Egao no Taenai Shokuba Desu.</cite> Workplace TV Anime Confirmed",
+            "+@datetime": "2024-01-17T16:18:46Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-01-17/kuzushiro-egao-no-taenai-shokuba-desu-workplace-tv-anime-confirmed/.206572"
+        },
+        {
+            "+content": "<cite>Egao no Taenai Shokuba Desu.</cite> TV Anime Reveals Teaser Trailer, Main Cast, Staff, October Debut",
+            "+@datetime": "2025-02-27T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-27/egao-no-taenai-shokuba-desu-tv-anime-reveals-teaser-trailer-main-cast-staff-october-debut/.221705"
         }
-    },
+    ],
+    "staff": [
+        {
+            "+@gid": "2332696494",
+            "task": "Director",
+            "person": {
+                "+content": "Kaoru Suzuki",
+                "+@id": "7572"
+            }
+        },
+        {
+            "+@gid": "2328997099",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Mio Inoue",
+                "+@id": "65666"
+            }
+        },
+        {
+            "+@gid": "2166977753",
+            "task": "Music",
+            "person": {
+                "+content": "Kei Haneoka",
+                "+@id": "39610"
+            }
+        },
+        {
+            "+@gid": "1623485198",
+            "task": "Original creator",
+            "person": {
+                "+content": "Kuzushiro",
+                "+@id": "112002"
+            }
+        },
+        {
+            "+@gid": "2550721953",
+            "task": "Character Design",
+            "person": {
+                "+content": "Kana Miyai",
+                "+@id": "78110"
+            }
+        },
+        {
+            "+@gid": "2280260755",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Ryō Tanaka",
+                "+@id": "155088"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3631195934",
+            "+@lang": "JA",
+            "role": "Kaede Satō",
+            "person": {
+                "+content": "Sora Amamiya",
+                "+@id": "119743"
+            }
+        },
+        {
+            "+@gid": "2119055099",
+            "+@lang": "JA",
+            "role": "Mizuki Hazama",
+            "person": {
+                "+content": "Miku Itō",
+                "+@id": "119924"
+            }
+        },
+        {
+            "+@gid": "3756200903",
+            "+@lang": "JA",
+            "role": "Nana Futami",
+            "person": {
+                "+content": "Yūko Natsuyoshi",
+                "+@id": "187604"
+            }
+        }
+    ],
     "credit": {
         "+@gid": "2311071325",
         "task": "Animation Production",
@@ -55,6 +159,6 @@
         }
     },
     "+@date-added": "2024-01-17T04:49:11Z",
-    "+@date-last-modified-at": "2025-02-02T09:25:58Z",
-    "+@date-last-updated-at": "2025-02-02T09:25:58Z"
+    "+@date-last-modified-at": "2025-03-04T09:31:13Z",
+    "+@date-last-updated-at": "2025-03-04T09:31:13Z"
 }

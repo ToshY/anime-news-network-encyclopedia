@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "Himitsu no AiPri",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-02T09:25:56Z",
-    "related-prev": {
-        "+@rel": "related to",
-        "+@id": "15916"
-    },
+    "+@generated-on": "2025-03-04T09:31:08Z",
+    "related-prev": [
+        {
+            "+@rel": "related to",
+            "+@id": "15916"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "34715"
+        }
+    ],
     "related-next": {
         "+@id": "34032",
         "+@rel": "sequel"
@@ -404,6 +410,38 @@
             "title": {
                 "+content": "Dark Quartet Star",
                 "+@gid": "1848367211",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "44",
+            "title": {
+                "+content": "Valentine's and Princess Priusa",
+                "+@gid": "2023744991",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "45",
+            "title": {
+                "+content": "Save Tsumugi-chan!",
+                "+@gid": "3482474782",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "46",
+            "title": {
+                "+content": "Tsumugi's Feelings Resonate",
+                "+@gid": "1121526676",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "47",
+            "title": {
+                "+content": "Everyone's Song to Reach Tsumugi",
+                "+@gid": "2618361641",
                 "+@lang": "EN"
             }
         }
@@ -945,7 +983,7 @@
         {
             "+@gid": "3076320360",
             "+@lang": "JA",
-            "role": "Yui Ogawa",
+            "role": "Mei Ogawa",
             "person": {
                 "+content": "Emiri Iwai",
                 "+@id": "149778"
@@ -1130,6 +1168,15 @@
                 "+content": "Yuriko Hibi",
                 "+@id": "240937"
             }
+        },
+        {
+            "+@gid": "3504729249",
+            "+@lang": "JA",
+            "role": "Nozomi Kagura",
+            "person": {
+                "+content": "Yuri Fujishiro",
+                "+@id": "273271"
+            }
         }
     ],
     "credit": [
@@ -1223,6 +1270,6 @@
         }
     ],
     "+@date-added": "2024-01-26T18:56:45Z",
-    "+@date-last-modified-at": "2025-02-02T09:25:58Z",
-    "+@date-last-updated-at": "2025-02-02T09:25:58Z"
+    "+@date-last-modified-at": "2025-03-04T09:31:13Z",
+    "+@date-last-updated-at": "2025-03-04T09:31:13Z"
 }
