@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Medalist",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-02T16:33:08Z",
+    "+@generated-on": "2025-03-04T17:30:48Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24370"
@@ -42,6 +42,31 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "3824060416",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "2652564407",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "tournament",
+            "+@gid": "1983119244",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "school",
+            "+@gid": "106956424",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "Sports",
+            "+@gid": "3120396273",
+            "+@type": "Themes"
+        },
+        {
             "+content": "Tsukasa, whose dreams were crushed. Inori, left to fend for herself. These two share a dream and their tenacity may be the only thing that sees them through. Their destination is the ice...on the world's stage. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
         },
@@ -71,6 +96,41 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "\"Cracked Carousel\" by Yuki Hayashi (ep 8)",
+            "+@gid": "2495612569",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Dance Under the Stars\" by Yuki Hayashi (ep 8)",
+            "+@gid": "1810271605",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Danse Macabre Op.40\" by Malmö Symphony Orchestra (ep 5)",
+            "+@gid": "1512451556",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Secrets of the Toy Chest\" by Yuki Hayashi (ep 5)",
+            "+@gid": "1614491867",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"The Planets, Op. 32 IV. Jupiter, the Bringer of Jollity\" by Slovakia Radio Symphony Orchestra (ep 3)",
+            "+@gid": "539804780",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Whirling Dreamland\" by Yuki Hayashi (ep 8)",
+            "+@gid": "1315979537",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Who I Am\" by Yuki Hayashi (ep 8)",
+            "+@gid": "3390156440",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "TVアニメ「メダリスト」公式サイト",
             "+@gid": "3101779586",
             "+@type": "Official website",
@@ -79,8 +139,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "8"
+        "+@nb_votes": "5",
+        "+@weighted_score": "8.7345"
     },
     "episode": [
         {
@@ -120,6 +180,38 @@
             "title": {
                 "+content": "Meikoh Cup, Junior Women's Prelim Free Skating (Part Two)",
                 "+@gid": "1381531246",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "The Night of the First Competition",
+                "+@gid": "1145917567",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "Level One Badge Test",
+                "+@gid": "2931224116",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "Western Powerhouses (Part One)",
+                "+@gid": "1128135033",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "Western Powerhouses (Part Two)",
+                "+@gid": "3191560786",
                 "+@lang": "EN"
             }
         }
@@ -208,11 +300,51 @@
             }
         },
         {
+            "+@gid": "1984712167",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hideaki Uehara",
+                "+@id": "32692"
+            }
+        },
+        {
             "+@gid": "613142646",
             "task": "Storyboard",
             "person": {
                 "+content": "Yasutaka Yamamoto",
                 "+@id": "37082"
+            }
+        },
+        {
+            "+@gid": "3308303929",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Motohiro Abe",
+                "+@id": "111391"
+            }
+        },
+        {
+            "+@gid": "2199623241",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takahiro Hirata",
+                "+@id": "195965"
+            }
+        },
+        {
+            "+@gid": "2281871728",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kōji",
+                "+@id": "263616"
+            }
+        },
+        {
+            "+@gid": "1905045651",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hideaki Ōba",
+                "+@id": "8840"
             }
         },
         {
@@ -232,6 +364,14 @@
             }
         },
         {
+            "+@gid": "3077383250",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Motohiro Abe",
+                "+@id": "111391"
+            }
+        },
+        {
             "+@gid": "3010199105",
             "task": "Episode Director",
             "person": {
@@ -245,6 +385,22 @@
             "person": {
                 "+content": "Shinichi Fukumoto",
                 "+@id": "219254"
+            }
+        },
+        {
+            "+@gid": "2757254225",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Yasutaka Yamamoto",
+                "+@id": "37082"
+            }
+        },
+        {
+            "+@gid": "2444268416",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Manabu Kurihara",
+                "+@id": "84022"
             }
         },
         {
@@ -389,9 +545,27 @@
             }
         },
         {
+            "+@gid": "1984449655",
+            "+@lang": "EN",
+            "role": "Ema Yamato",
+            "person": {
+                "+content": "Cassandra Morris",
+                "+@id": "74741"
+            }
+        },
+        {
+            "+@gid": "982406001",
+            "+@lang": "EN",
+            "role": "Seira Shishido",
+            "person": {
+                "+content": "Cassandra Morris",
+                "+@id": "74741"
+            }
+        },
+        {
             "+@gid": "2318419143",
             "+@lang": "EN",
-            "role": "Miki Yuitsuka",
+            "role": "Mika Yuitsuka",
             "person": {
                 "+content": "Christine Marie Cabanos",
                 "+@id": "95337"
@@ -413,6 +587,24 @@
             "person": {
                 "+content": "Felecia Angelle",
                 "+@id": "120890"
+            }
+        },
+        {
+            "+@gid": "2378198351",
+            "+@lang": "EN",
+            "role": "Yo Kago",
+            "person": {
+                "+content": "Felecia Angelle",
+                "+@id": "120890"
+            }
+        },
+        {
+            "+@gid": "2714048700",
+            "+@lang": "EN",
+            "role": "Mihi Kurosawa",
+            "person": {
+                "+content": "Courtney Chu",
+                "+@id": "151686"
             }
         },
         {
@@ -443,6 +635,15 @@
             }
         },
         {
+            "+@gid": "3304261514",
+            "+@lang": "EN",
+            "role": "Yūdai Jakuzure",
+            "person": {
+                "+content": "Kylen Deporter",
+                "+@id": "191575"
+            }
+        },
+        {
             "+@gid": "1642813522",
             "+@lang": "EN",
             "role": "Inori",
@@ -467,6 +668,42 @@
             "person": {
                 "+content": "Jonathon Ha",
                 "+@id": "265391"
+            }
+        },
+        {
+            "+@gid": "2314788357",
+            "+@lang": "EN",
+            "role": "Koichi Kago",
+            "person": {
+                "+content": "Andy Lawrence",
+                "+@id": "277815"
+            }
+        },
+        {
+            "+@gid": "781315601",
+            "+@lang": "EN",
+            "role": "Suzu Kamoto",
+            "person": {
+                "+content": "Audrey Hsieh",
+                "+@id": "278236"
+            }
+        },
+        {
+            "+@gid": "3211393567",
+            "+@lang": "EN",
+            "role": "Ritsuki Koguma",
+            "person": {
+                "+content": "Isabella Crovetti",
+                "+@id": "278237"
+            }
+        },
+        {
+            "+@gid": "2488591529",
+            "+@lang": "JA",
+            "role": "Koichi Kago",
+            "person": {
+                "+content": "Takanori Hoshino",
+                "+@id": "16462"
             }
         },
         {
@@ -512,6 +749,15 @@
             "person": {
                 "+content": "Megumi Toda",
                 "+@id": "113285"
+            }
+        },
+        {
+            "+@gid": "1472592182",
+            "+@lang": "JA",
+            "role": "Ritsuki Koguma",
+            "person": {
+                "+content": "Azusa Satō",
+                "+@id": "119198"
             }
         },
         {
@@ -596,6 +842,15 @@
             }
         },
         {
+            "+@gid": "2042882521",
+            "+@lang": "JA",
+            "role": "Seira Shishido",
+            "person": {
+                "+content": "Miho Okasaki",
+                "+@id": "166808"
+            }
+        },
+        {
             "+@gid": "2633400651",
             "+@lang": "JA",
             "role": "Shinichiro Sonidori",
@@ -649,6 +904,6 @@
         }
     ],
     "+@date-added": "2023-05-18T02:27:07Z",
-    "+@date-last-modified-at": "2025-02-02T16:33:12Z",
-    "+@date-last-updated-at": "2025-02-02T16:33:12Z"
+    "+@date-last-modified-at": "2025-03-04T17:31:08Z",
+    "+@date-last-updated-at": "2025-03-04T17:31:08Z"
 }
