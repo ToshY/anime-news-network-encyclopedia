@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Uma Musume: Cinderella Gray",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-02T02:54:52Z",
+    "+@generated-on": "2025-03-04T03:03:26Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27647"
@@ -13,17 +13,17 @@
         {
             "+@gid": "3264116405",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33371-3264116405.1724499221.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33371-3264116405.1740269173.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33371-3264116405.1724499221.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33371-3264116405.1740269173.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33371-3264116405.1724499221.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33371-3264116405.1740269173.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
@@ -47,7 +47,7 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2025-04",
+            "+content": "2025-04-06",
             "+@gid": "1532668707",
             "+@type": "Vintage"
         },
@@ -59,11 +59,18 @@
             "+@href": "https://anime-cinderellagray.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Uma Musume: Cinderella Gray</cite> Anime's 2nd Teaser Unveils More Cast, Co-Director & Composer, April Debut of 1st of 2 Parts",
-        "+@datetime": "2024-12-25T15:49:34Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-12-25/uma-musume-cinderella-gray-anime-2nd-teaser-unveils-more-cast-co-director-and-composer-april-debut-/.219495"
-    },
+    "news": [
+        {
+            "+content": "<cite>Uma Musume: Cinderella Gray</cite> Anime's 2nd Teaser Unveils More Cast, Co-Director & Composer, April Debut of 1st of 2 Parts",
+            "+@datetime": "2024-12-25T15:49:34Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-25/uma-musume-cinderella-gray-anime-2nd-teaser-unveils-more-cast-co-director-and-composer-april-debut-/.219495"
+        },
+        {
+            "+content": "<cite>Uma Musume: Cinderella Gray</cite> Anime's New Video Unveils April 6 Debut, More Cast & Staff, Opening Song",
+            "+@datetime": "2025-02-22T20:16:28Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-22/uma-musume-cinderella-gray-anime-new-video-unveils-april-6-debut-more-cast-and-staff-opening-song/.221527"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3054715811",
@@ -136,6 +143,62 @@
                 "+content": "Takuya Miyahara",
                 "+@id": "102715"
             }
+        },
+        {
+            "+@gid": "2405052451",
+            "task": "Art Director",
+            "person": {
+                "+content": "Osamu Hasada",
+                "+@id": "111048"
+            }
+        },
+        {
+            "+@gid": "2877835783",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Akira Takata",
+                "+@id": "8052"
+            }
+        },
+        {
+            "+@gid": "1081694278",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Atsushi Komori",
+                "+@id": "38844"
+            }
+        },
+        {
+            "+@gid": "3670542939",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yōsuke Fukumoto",
+                "+@id": "156942"
+            }
+        },
+        {
+            "+@gid": "2938931871",
+            "task": "3D Director",
+            "person": {
+                "+content": "Nobuyuki Kamiya",
+                "+@id": "143415"
+            }
+        },
+        {
+            "+@gid": "2180331087",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Fumiyuki Go",
+                "+@id": "134277"
+            }
+        },
+        {
+            "+@gid": "3397564008",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Akane Fushihara",
+                "+@id": "107551"
+            }
         }
     ],
     "cast": [
@@ -158,6 +221,24 @@
             }
         },
         {
+            "+@gid": "2217745183",
+            "+@lang": "JA",
+            "role": "Mini the Lady",
+            "person": {
+                "+content": "Shiori Izawa",
+                "+@id": "74850"
+            }
+        },
+        {
+            "+@gid": "358252924",
+            "+@lang": "JA",
+            "role": "Rudy Lemono",
+            "person": {
+                "+content": "Yō Taichi",
+                "+@id": "119677"
+            }
+        },
+        {
             "+@gid": "2579126051",
             "+@lang": "JA",
             "role": "Tamamo Cross",
@@ -176,12 +257,30 @@
             }
         },
         {
+            "+@gid": "1777485660",
+            "+@lang": "JA",
+            "role": "Norn Ace",
+            "person": {
+                "+content": "Ayano Shibuya",
+                "+@id": "143950"
+            }
+        },
+        {
             "+@gid": "2004989327",
             "+@lang": "JA",
             "role": "Berno Light",
             "person": {
                 "+content": "Momoko Seto",
                 "+@id": "235797"
+            }
+        },
+        {
+            "+@gid": "3868074767",
+            "+@lang": "JA",
+            "role": "Ginjirō Musaka",
+            "person": {
+                "+content": "Hōchū Ōtsuka",
+                "+@id": "274643"
             }
         }
     ],
@@ -194,6 +293,6 @@
         }
     },
     "+@date-added": "2024-08-24T07:32:46Z",
-    "+@date-last-modified-at": "2025-02-02T02:54:52Z",
-    "+@date-last-updated-at": "2025-02-02T02:54:52Z"
+    "+@date-last-modified-at": "2025-03-04T03:03:28Z",
+    "+@date-last-updated-at": "2025-03-04T03:03:28Z"
 }

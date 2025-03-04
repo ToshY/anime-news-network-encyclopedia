@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Mattaku Saikin no Tantei Tokitara",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-02T02:54:52Z",
+    "+@generated-on": "2025-03-04T03:03:26Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "33366"
@@ -59,11 +59,18 @@
             "+@href": "https://mattan-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Detectives These Days Are Crazy!</cite> Anime Reveals 2 New Cast in Character Video",
-        "+@datetime": "2024-10-07T09:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-10-07/detectives-these-days-are-crazy-anime-reveals-2-new-cast-in-character-video/.216420"
-    },
+    "news": [
+        {
+            "+content": "<cite>Detectives These Days Are Crazy!</cite> Anime Reveals 2 New Cast in Character Video",
+            "+@datetime": "2024-10-07T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-10-07/detectives-these-days-are-crazy-anime-reveals-2-new-cast-in-character-video/.216420"
+        },
+        {
+            "+content": "<cite>Detectives These Days Are Crazy</cite> Anime Casts Chado Horii as Cat Cerberus",
+            "+@datetime": "2025-02-21T15:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-21/detectives-these-days-are-crazy-anime-casts-chado-horii-as-cat-cerberus/.221493"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3164053286",
@@ -138,6 +145,15 @@
             }
         },
         {
+            "+@gid": "1877449199",
+            "+@lang": "JA",
+            "role": "Cerberus",
+            "person": {
+                "+content": "Chado Horii",
+                "+@id": "74107"
+            }
+        },
+        {
             "+@gid": "1353509632",
             "+@lang": "JA",
             "role": "Yū Asunaro",
@@ -148,6 +164,6 @@
         }
     ],
     "+@date-added": "2024-08-24T07:17:17Z",
-    "+@date-last-modified-at": "2025-02-02T02:54:52Z",
-    "+@date-last-updated-at": "2025-02-02T02:54:52Z"
+    "+@date-last-modified-at": "2025-03-04T03:03:28Z",
+    "+@date-last-updated-at": "2025-03-04T03:03:28Z"
 }

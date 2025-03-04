@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "CITY The Animation",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-02T02:54:50Z",
+    "+@generated-on": "2025-03-04T03:03:24Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "19034"
@@ -13,18 +13,18 @@
         {
             "+@gid": "2777753903",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33595-2777753903.1726959517.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33595-2777753903.1738924168.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33595-2777753903.1726959517.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33595-2777753903.1738924168.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33595-2777753903.1726959517.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33595-2777753903.1738924168.jpg",
+                    "+@width": "423",
                     "+@height": "600"
                 }
             ]
@@ -46,7 +46,7 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2025",
+            "+content": "2025-07",
             "+@gid": "349890212",
             "+@type": "Vintage"
         },
@@ -58,11 +58,18 @@
             "+@href": "https://city-the-animation.com/"
         }
     ],
-    "news": {
-        "+content": "Kyoto Animation Produces Anime of Keiichi Arawi's <cite>CITY</cite> Manga",
-        "+@datetime": "2024-09-21T12:57:03Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-09-21/kyoto-animation-produces-anime-of-keiichi-arawi-city-manga/.215845"
-    },
+    "news": [
+        {
+            "+content": "Kyoto Animation Produces Anime of Keiichi Arawi's <cite>CITY</cite> Manga",
+            "+@datetime": "2024-09-21T12:57:03Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-09-21/kyoto-animation-produces-anime-of-keiichi-arawi-city-manga/.215845"
+        },
+        {
+            "+content": "<cite>CITY The Animation</cite> Reveals More Cast, July Debut",
+            "+@datetime": "2025-02-07T09:47:37Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-07/city-the-animation-reveals-more-cast-july-debut/.220955"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3011640762",
@@ -131,6 +138,24 @@
     ],
     "cast": [
         {
+            "+@gid": "2507014794",
+            "+@lang": "JA",
+            "role": "Tatewaku Makabe",
+            "person": {
+                "+content": "Miyu Irino",
+                "+@id": "1207"
+            }
+        },
+        {
+            "+@gid": "3480579952",
+            "+@lang": "JA",
+            "role": "Tsurubishi Makabe",
+            "person": {
+                "+content": "Yoshihisa Kawahara",
+                "+@id": "18802"
+            }
+        },
+        {
             "+@gid": "1843869031",
             "+@lang": "JA",
             "role": "Niikura",
@@ -156,6 +181,33 @@
                 "+content": "Mikako Komatsu",
                 "+@id": "86961"
             }
+        },
+        {
+            "+@gid": "3441187809",
+            "+@lang": "JA",
+            "role": "Eri Amakazari",
+            "person": {
+                "+content": "Azusa Tadokoro",
+                "+@id": "112367"
+            }
+        },
+        {
+            "+@gid": "903610950",
+            "+@lang": "JA",
+            "role": "Riko Izumi",
+            "person": {
+                "+content": "Yū Wakui",
+                "+@id": "129990"
+            }
+        },
+        {
+            "+@gid": "873255846",
+            "+@lang": "JA",
+            "role": "Matsuri Makabe",
+            "person": {
+                "+content": "Ayaka Nanase",
+                "+@id": "141770"
+            }
         }
     ],
     "credit": {
@@ -167,6 +219,6 @@
         }
     },
     "+@date-added": "2024-09-21T18:57:27Z",
-    "+@date-last-modified-at": "2025-02-02T02:54:52Z",
-    "+@date-last-updated-at": "2025-02-02T02:54:52Z"
+    "+@date-last-modified-at": "2025-03-04T03:03:28Z",
+    "+@date-last-updated-at": "2025-03-04T03:03:28Z"
 }

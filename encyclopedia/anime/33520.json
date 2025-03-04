@@ -4,12 +4,31 @@
     "+@type": "movie",
     "+@name": "Girls Band Cry",
     "+@precision": "movies",
-    "+@generated-on": "2025-02-02T02:54:51Z",
+    "+@generated-on": "2025-03-04T03:03:25Z",
     "related-prev": {
         "+@rel": "compilation of",
         "+@id": "28002"
     },
     "info": [
+        {
+            "+@gid": "2817192831",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33520-2817192831.1738991182.jpg",
+            "+@width": "142",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33520-2817192831.1738991182.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33520-2817192831.1738991182.jpg",
+                    "+@width": "425",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Girls Band Cry",
             "+@gid": "2500323604",
@@ -17,8 +36,26 @@
             "+@lang": "EN"
         },
         {
-            "+content": "ガールズバンドクライ",
+            "+content": "Kōhen Gekijō-ban Sōshū-hen Girls Band Cry Naa, Mirai.",
+            "+@gid": "3170696207",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "Zenpen Gekijō-ban Sōshū-hen Girls Band Cry Seishun Kyо̄sо̄kyoku",
+            "+@gid": "3075877699",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "【前編】劇場版総集編『ガールズバンドクライ』青春狂走曲",
             "+@gid": "1227035806",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "【後編】劇場版総集編『ガールズバンドクライ』なぁ、未来。",
+            "+@gid": "3073956014",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
@@ -28,9 +65,18 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2025",
-            "+@gid": "2064333780",
+            "+content": "2025-10-03",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-10-03 (Japan, Part 1)",
+            "+@gid": "2482716575",
+            "+@type": "Premiere date"
+        },
+        {
+            "+content": "2025-11-14 (Japan, Part 2)",
+            "+@gid": "916660092",
+            "+@type": "Premiere date"
         },
         {
             "+content": "アニメ「ガールズバンドクライ」公式サイト",
@@ -40,11 +86,65 @@
             "+@href": "https://girls-band-cry.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Girls Band Cry</cite> 2-Part Compilation Film Project Opens This Year",
-        "+@datetime": "2025-01-16T09:54:02Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-01-16/girls-band-cry-2-part-compilation-film-project-opens-this-year/.220100"
-    },
+    "news": [
+        {
+            "+content": "<cite>Girls Band Cry</cite> 2-Part Compilation Film Project Opens This Year",
+            "+@datetime": "2025-01-16T09:54:02Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-16/girls-band-cry-2-part-compilation-film-project-opens-this-year/.220100"
+        },
+        {
+            "+content": "<cite>Girls Band Cry</cite> 2-Part Compilation Film Project Opens on October 3, 2nd Film Screens on November 14",
+            "+@datetime": "2025-02-07T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-07/girls-band-cry-2-part-compilation-film-project-opens-on-october-3-2nd-film-screens-on-november-14/.220976"
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2797339957",
+            "+@lang": "JA",
+            "role": "Subaru Awa",
+            "person": {
+                "+content": "Mirei",
+                "+@id": "132893"
+            }
+        },
+        {
+            "+@gid": "2489675809",
+            "+@lang": "JA",
+            "role": "Nina Iseri",
+            "person": {
+                "+content": "Rina",
+                "+@id": "262277"
+            }
+        },
+        {
+            "+@gid": "2617107661",
+            "+@lang": "JA",
+            "role": "Rupa",
+            "person": {
+                "+content": "Shuri",
+                "+@id": "277797"
+            }
+        },
+        {
+            "+@gid": "2477126059",
+            "+@lang": "JA",
+            "role": "Tomo Ebizuka",
+            "person": {
+                "+content": "Natsu",
+                "+@id": "277798"
+            }
+        },
+        {
+            "+@gid": "2400016937",
+            "+@lang": "JA",
+            "role": "Momoka Kawaragi",
+            "person": {
+                "+content": "Yuri",
+                "+@id": "277800"
+            }
+        }
+    ],
     "credit": {
         "+@gid": "1414707963",
         "task": "Production",
@@ -54,6 +154,6 @@
         }
     },
     "+@date-added": "2024-09-13T19:41:19Z",
-    "+@date-last-modified-at": "2025-02-02T02:54:52Z",
-    "+@date-last-updated-at": "2025-02-02T02:54:52Z"
+    "+@date-last-modified-at": "2025-03-04T03:03:28Z",
+    "+@date-last-updated-at": "2025-03-04T03:03:28Z"
 }
