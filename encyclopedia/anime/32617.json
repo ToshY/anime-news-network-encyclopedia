@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Solo Leveling Season 2 -Arise from the Shadow-",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-02T06:34:46Z",
+    "+@generated-on": "2025-03-04T06:39:12Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26000"
@@ -136,8 +136,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "9",
-        "+@weighted_score": "8.3267"
+        "+@nb_votes": "19",
+        "+@weighted_score": "8.7706",
+        "+@bayesian_score": "8.24491"
     },
     "episode": [
         {
@@ -185,6 +186,30 @@
             "title": {
                 "+content": "Don't Look Down on My Guys",
                 "+@gid": "3449880392",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "19",
+            "title": {
+                "+content": "The 10th S-Rank Hunter",
+                "+@gid": "1055417459",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "20",
+            "title": {
+                "+content": "Looking Up Was Tiring Me Out",
+                "+@gid": "2632522251",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "21",
+            "title": {
+                "+content": "It Was All Worth It",
+                "+@gid": "1198707203",
                 "+@lang": "EN"
             }
         }
@@ -254,6 +279,16 @@
             "+content": "2nd Seasons of <cite>Solo Leveling</cite>, <cite>The Apothecary Diaries</cite> Anime Get Indian Dubs",
             "+@datetime": "2025-01-26T08:52:53Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-01-26/2nd-seasons-of-solo-leveling-the-apothecary-diaries-anime-get-indian-dubs/.220462"
+        },
+        {
+            "+content": "<cite>Solo Leveling Season 2 -Arise from the Shadow-</cite> Anime's English Dub Casts Colombian Singer J Balvin",
+            "+@datetime": "2025-02-05T16:30:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-05/solo-leveling-season-2-arise-from-the-shadow-anime-english-dub-casts-colombian-singer-j-balvin/.220872"
+        },
+        {
+            "+content": "Solo Leveling Season 2 -Arise from the Shadow- Anime's English/Spanish Dubs Cast Colombian Singer J Balvin as Kargalgan",
+            "+@datetime": "2025-02-20T17:27:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-20/solo-leveling-season-2-arise-from-the-shadow-anime-english-spanish-dubs-cast-colombian-singer-j-/.221460"
         }
     ],
     "staff": [
@@ -322,11 +357,35 @@
             }
         },
         {
+            "+@gid": "1578104696",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yuka Kuroda",
+                "+@id": "78307"
+            }
+        },
+        {
             "+@gid": "2781353340",
             "task": "Storyboard",
             "person": {
                 "+content": "Shunsuke Nakashige",
                 "+@id": "106449"
+            }
+        },
+        {
+            "+@gid": "1036455750",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takayuki Kikuchi",
+                "+@id": "122048"
+            }
+        },
+        {
+            "+@gid": "3021856922",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yoshihiro Kanno",
+                "+@id": "143496"
             }
         },
         {
@@ -378,11 +437,27 @@
             }
         },
         {
+            "+@gid": "1870209866",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takayuki Kikuchi",
+                "+@id": "122048"
+            }
+        },
+        {
             "+@gid": "622368726",
             "task": "Episode Director",
             "person": {
                 "+content": "Yūya Horiuchi",
                 "+@id": "167255"
+            }
+        },
+        {
+            "+@gid": "3365333921",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hiromu Ōshiro",
+                "+@id": "170659"
             }
         },
         {
@@ -487,6 +562,14 @@
             "person": {
                 "+content": "Tomoko Sudo",
                 "+@id": "74080"
+            }
+        },
+        {
+            "+@gid": "792466914",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yukiko Busa",
+                "+@id": "84382"
             }
         },
         {
@@ -674,6 +757,14 @@
             }
         },
         {
+            "+@gid": "2845081000",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yukie Yasuoka",
+                "+@id": "153969"
+            }
+        },
+        {
             "+@gid": "2180909963",
             "task": "Animation Director",
             "person": {
@@ -706,6 +797,14 @@
             }
         },
         {
+            "+@gid": "4056318029",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kaito Hashimoto",
+                "+@id": "190290"
+            }
+        },
+        {
             "+@gid": "1016376656",
             "task": "Animation Director",
             "person": {
@@ -727,6 +826,22 @@
             "person": {
                 "+content": "Akane Hirose",
                 "+@id": "207833"
+            }
+        },
+        {
+            "+@gid": "1054531009",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hanayo Kōsaka",
+                "+@id": "219255"
+            }
+        },
+        {
+            "+@gid": "2872750243",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Facu Escobedo",
+                "+@id": "230525"
             }
         },
         {
@@ -754,6 +869,14 @@
             }
         },
         {
+            "+@gid": "377603546",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kotetsu Sotosaki",
+                "+@id": "248258"
+            }
+        },
+        {
             "+@gid": "706852947",
             "task": "Animation Director",
             "person": {
@@ -762,11 +885,11 @@
             }
         },
         {
-            "+@gid": "2138873564",
+            "+@gid": "2531863841",
             "task": "Animation Director",
             "person": {
-                "+content": "Toratoru Sotosaki",
-                "+@id": "276879"
+                "+content": "Seung-Woo Noh",
+                "+@id": "262484"
             }
         },
         {
@@ -823,6 +946,24 @@
             }
         },
         {
+            "+@gid": "1943758061",
+            "+@lang": "EN",
+            "role": "Haein Cha",
+            "person": {
+                "+content": "Michelle Rojas",
+                "+@id": "115434"
+            }
+        },
+        {
+            "+@gid": "2040473707",
+            "+@lang": "EN",
+            "role": "Jinho Yoo",
+            "person": {
+                "+content": "Justin Briner",
+                "+@id": "130749"
+            }
+        },
+        {
             "+@gid": "628697874",
             "+@lang": "EN",
             "role": "Woo Jinchul",
@@ -847,6 +988,15 @@
             "person": {
                 "+content": "Rebecca Wang",
                 "+@id": "255180"
+            }
+        },
+        {
+            "+@gid": "207009853",
+            "+@lang": "EN",
+            "role": "Semi Han",
+            "person": {
+                "+content": "Sura Siu",
+                "+@id": "264213"
             }
         },
         {
@@ -883,15 +1033,6 @@
             "person": {
                 "+content": "Marc Weiss",
                 "+@id": "74890"
-            }
-        },
-        {
-            "+@gid": "2335446639",
-            "+@lang": "FR",
-            "role": "Park Hee-Jin",
-            "person": {
-                "+content": "Nancy Philippot",
-                "+@id": "109491"
             }
         },
         {
@@ -1111,6 +1252,6 @@
         }
     },
     "+@date-added": "2024-03-30T20:05:29Z",
-    "+@date-last-modified-at": "2025-02-02T06:34:48Z",
-    "+@date-last-updated-at": "2025-02-02T06:34:48Z"
+    "+@date-last-modified-at": "2025-03-04T06:39:15Z",
+    "+@date-last-updated-at": "2025-03-04T06:39:15Z"
 }
