@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Sakamoto Days",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-02T05:29:38Z",
+    "+@generated-on": "2025-03-04T05:01:48Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24170"
@@ -39,6 +39,12 @@
             "+@gid": "2707487782",
             "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "أيام ساكاموتو",
+            "+@gid": "3827778859",
+            "+@type": "Alternative title",
+            "+@lang": "AR"
         },
         {
             "+content": "サカモトデイズ",
@@ -122,8 +128,13 @@
             "+@type": "Opening Theme"
         },
         {
-            "+content": "\"Futsuu\" by Conton Candy",
+            "+content": "#1: \"Futsuu\" by Conton Candy (eps 1-6)",
             "+@gid": "1572023110",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#2: \"Somebody help us\" by Vaundy (ep 7)",
+            "+@gid": "3387388673",
             "+@type": "Ending Theme"
         },
         {
@@ -142,8 +153,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "7",
-        "+@weighted_score": "6.6522"
+        "+@nb_votes": "15",
+        "+@weighted_score": "6.5245",
+        "+@bayesian_score": "6.96655"
     },
     "episode": [
         {
@@ -167,6 +179,46 @@
             "title": {
                 "+content": "Welcome to Sugar Park!",
                 "+@gid": "1762211049",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "Hard-Boiled",
+                "+@gid": "2454206971",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "Source of Strength",
+                "+@gid": "2142763922",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "Heisuke Mashimo",
+                "+@gid": "2148300363",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "Jurassic Bastard",
+                "+@gid": "1938127041",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "Sakamoto's vs. The Lab",
+                "+@gid": "2435012783",
                 "+@lang": "EN"
             }
         }
@@ -216,6 +268,16 @@
             "+content": "<cite>Sakamoto Days</cite> Anime Ranked #2 on Netflix Worldwide for Non-English Shows Last Week",
             "+@datetime": "2025-01-25T20:15:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-01-25/sakamoto-days-anime-ranked-no.2-on-netflix-worldwide-for-non-english-shows-last-week/.220446"
+        },
+        {
+            "+content": "Netflix Streams  'Mid-Season' Preview for <cite>Sakamoto Days</cite> Anime",
+            "+@datetime": "2025-02-12T14:02:06Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-12/netflix-streams-mid-season-preview-for-sakamoto-days-anime/.221126"
+        },
+        {
+            "+content": "<cite>Sakamoto Days</cite> Anime Casts Kazuyuki Okitsu, Nobuhiko Okamoto",
+            "+@datetime": "2025-02-15T14:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-15/sakamoto-days-anime-casts-kazuyuki-okitsu-nobuhiko-okamoto/.221241"
         }
     ],
     "staff": [
@@ -233,6 +295,150 @@
             "person": {
                 "+content": "Taku Kishimoto",
                 "+@id": "76253"
+            }
+        },
+        {
+            "+@gid": "3087567528",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takahiro Tanaka",
+                "+@id": "4112"
+            }
+        },
+        {
+            "+@gid": "2500941741",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Susumu Nishizawa",
+                "+@id": "7756"
+            }
+        },
+        {
+            "+@gid": "3068384217",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yukio Nishimoto",
+                "+@id": "10709"
+            }
+        },
+        {
+            "+@gid": "2773143867",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yumi Kamakura",
+                "+@id": "31718"
+            }
+        },
+        {
+            "+@gid": "3291729199",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tetsuo Hirakawa",
+                "+@id": "37977"
+            }
+        },
+        {
+            "+@gid": "1663398300",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Akihiro Saitō",
+                "+@id": "41869"
+            }
+        },
+        {
+            "+@gid": "947637916",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Masaki Watanabe",
+                "+@id": "43175"
+            }
+        },
+        {
+            "+@gid": "2866487562",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yoshihide Ibata",
+                "+@id": "81163"
+            }
+        },
+        {
+            "+@gid": "1581715653",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hironori Tanaka",
+                "+@id": "100032"
+            }
+        },
+        {
+            "+@gid": "3763042289",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tomoko Hiramuki",
+                "+@id": "32691"
+            }
+        },
+        {
+            "+@gid": "923582648",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Akihiro Saitō",
+                "+@id": "41869"
+            }
+        },
+        {
+            "+@gid": "2147804813",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Masaki Watanabe",
+                "+@id": "43175"
+            }
+        },
+        {
+            "+@gid": "2042406421",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yoshihiro Nishio",
+                "+@id": "49913"
+            }
+        },
+        {
+            "+@gid": "2224771784",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yoshihide Ibata",
+                "+@id": "81163"
+            }
+        },
+        {
+            "+@gid": "2484878117",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takatoshi Suzuki",
+                "+@id": "85981"
+            }
+        },
+        {
+            "+@gid": "2171822925",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kōki Onoue",
+                "+@id": "145318"
+            }
+        },
+        {
+            "+@gid": "1009808174",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Takahiro Tanaka",
+                "+@id": "4112"
+            }
+        },
+        {
+            "+@gid": "2144768488",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Yumi Kamakura",
+                "+@id": "31718"
             }
         },
         {
@@ -268,6 +474,238 @@
             }
         },
         {
+            "+@gid": "1061506193",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yukiko Ban",
+                "+@id": "3911"
+            }
+        },
+        {
+            "+@gid": "2731709130",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yoshinori Deno",
+                "+@id": "50681"
+            }
+        },
+        {
+            "+@gid": "2878672653",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Masaki Hinata",
+                "+@id": "51363"
+            }
+        },
+        {
+            "+@gid": "3704817597",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Miyako Kamiya",
+                "+@id": "120904"
+            }
+        },
+        {
+            "+@gid": "2086313828",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Masaru Shindō",
+                "+@id": "175967"
+            }
+        },
+        {
+            "+@gid": "1128934726",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yumi Nakayama",
+                "+@id": "691"
+            }
+        },
+        {
+            "+@gid": "2387523601",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yukiko Ban",
+                "+@id": "3911"
+            }
+        },
+        {
+            "+@gid": "1284909474",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuko Iwaoka",
+                "+@id": "3912"
+            }
+        },
+        {
+            "+@gid": "1847757254",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hideaki Shimada",
+                "+@id": "11756"
+            }
+        },
+        {
+            "+@gid": "2084135161",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hisao Muramatsu",
+                "+@id": "18543"
+            }
+        },
+        {
+            "+@gid": "2633950994",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kumiko Shishido",
+                "+@id": "21362"
+            }
+        },
+        {
+            "+@gid": "1804382113",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mayumi Oda",
+                "+@id": "22609"
+            }
+        },
+        {
+            "+@gid": "1922608161",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiroko Shigekuni",
+                "+@id": "40243"
+            }
+        },
+        {
+            "+@gid": "2385990021",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ayumi Tsukamoto",
+                "+@id": "48451"
+            }
+        },
+        {
+            "+@gid": "2336770530",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuki Tsugihashi",
+                "+@id": "48711"
+            }
+        },
+        {
+            "+@gid": "1763710536",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yoshinori Deno",
+                "+@id": "50681"
+            }
+        },
+        {
+            "+@gid": "2264568172",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Junko Nakamura",
+                "+@id": "54529"
+            }
+        },
+        {
+            "+@gid": "1607722981",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yoshimi Iwata",
+                "+@id": "56278"
+            }
+        },
+        {
+            "+@gid": "2372717735",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tomoyuki Kanno",
+                "+@id": "59038"
+            }
+        },
+        {
+            "+@gid": "2312288490",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mayumi Funakoshi",
+                "+@id": "78114"
+            }
+        },
+        {
+            "+@gid": "937973215",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Michiyuki Nōjō",
+                "+@id": "78608"
+            }
+        },
+        {
+            "+@gid": "412917000",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Airi Haryū",
+                "+@id": "94765"
+            }
+        },
+        {
+            "+@gid": "1635679712",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nanako Ninomiya",
+                "+@id": "101417"
+            }
+        },
+        {
+            "+@gid": "1507335466",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masato Hagiwara",
+                "+@id": "104940"
+            }
+        },
+        {
+            "+@gid": "1302917590",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mina Ōsawa",
+                "+@id": "119840"
+            }
+        },
+        {
+            "+@gid": "2795804814",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Miyako Kamiya",
+                "+@id": "120904"
+            }
+        },
+        {
+            "+@gid": "1255695953",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Aki Kumada",
+                "+@id": "134090"
+            }
+        },
+        {
+            "+@gid": "1383577313",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yoshiko Shimizu",
+                "+@id": "143799"
+            }
+        },
+        {
+            "+@gid": "2230481054",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mihoko Maekawa",
+                "+@id": "209424"
+            }
+        },
+        {
             "+@gid": "3193611268",
             "task": "Sound Director",
             "person": {
@@ -276,11 +714,43 @@
             }
         },
         {
+            "+@gid": "1972519256",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Akiko Saito",
+                "+@id": "182704"
+            }
+        },
+        {
             "+@gid": "3237563735",
             "task": "Director of Photography",
             "person": {
                 "+content": "Baek Ryun Chae",
                 "+@id": "92491"
+            }
+        },
+        {
+            "+@gid": "3598852352",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Ippei Takemura",
+                "+@id": "109311"
+            }
+        },
+        {
+            "+@gid": "1239987062",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Tatsuro Hayashi",
+                "+@id": "120298"
+            }
+        },
+        {
+            "+@gid": "2392327699",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Takahiro Suzuki",
+                "+@id": "183357"
             }
         },
         {
@@ -310,6 +780,24 @@
     ],
     "cast": [
         {
+            "+@gid": "2288945626",
+            "+@lang": "AR",
+            "role": "Taro Sakamoto",
+            "person": {
+                "+content": "Tariq Obaid",
+                "+@id": "277183"
+            }
+        },
+        {
+            "+@gid": "2340723447",
+            "+@lang": "AR",
+            "role": "Shin Asakura",
+            "person": {
+                "+content": "Omar Ashraf",
+                "+@id": "277184"
+            }
+        },
+        {
             "+@gid": "546602677",
             "+@lang": "EN",
             "role": "Taro Sakamoto",
@@ -328,6 +816,15 @@
             }
         },
         {
+            "+@gid": "3507570850",
+            "+@lang": "EN",
+            "role": "Osaragi",
+            "person": {
+                "+content": "Xanthe Huynh",
+                "+@id": "69839"
+            }
+        },
+        {
             "+@gid": "3255434501",
             "+@lang": "EN",
             "role": "Hana Sakamoto",
@@ -337,12 +834,39 @@
             }
         },
         {
+            "+@gid": "2600956560",
+            "+@lang": "EN",
+            "role": "Kashima",
+            "person": {
+                "+content": "Daman Mills",
+                "+@id": "134672"
+            }
+        },
+        {
+            "+@gid": "2551482074",
+            "+@lang": "EN",
+            "role": "Natsuki Seba",
+            "person": {
+                "+content": "Stephen Fu",
+                "+@id": "146239"
+            }
+        },
+        {
             "+@gid": "2349076748",
             "+@lang": "EN",
             "role": "Hyo",
             "person": {
                 "+content": "Imari Williams",
                 "+@id": "152749"
+            }
+        },
+        {
+            "+@gid": "2713273957",
+            "+@lang": "EN",
+            "role": "Boiled",
+            "person": {
+                "+content": "SungWon Cho",
+                "+@id": "164450"
             }
         },
         {
@@ -517,6 +1041,60 @@
             }
         },
         {
+            "+@gid": "3314499122",
+            "+@lang": "IT",
+            "role": "Obiguro",
+            "person": {
+                "+content": "Valentina Mari",
+                "+@id": "26588"
+            }
+        },
+        {
+            "+@gid": "133995907",
+            "+@lang": "IT",
+            "role": "X (Slur)",
+            "person": {
+                "+content": "Marco Vivio",
+                "+@id": "27001"
+            }
+        },
+        {
+            "+@gid": "1877217052",
+            "+@lang": "IT",
+            "role": "Heisuke Mashimo",
+            "person": {
+                "+content": "Alessio Puccio",
+                "+@id": "27583"
+            }
+        },
+        {
+            "+@gid": "2395424940",
+            "+@lang": "IT",
+            "role": "Shishiba",
+            "person": {
+                "+content": "Sacha De Toni",
+                "+@id": "52623"
+            }
+        },
+        {
+            "+@gid": "3128238203",
+            "+@lang": "IT",
+            "role": "Nagumo",
+            "person": {
+                "+content": "Lorenzo De Angelis",
+                "+@id": "58334"
+            }
+        },
+        {
+            "+@gid": "3191476628",
+            "+@lang": "IT",
+            "role": "Lu Shaotang",
+            "person": {
+                "+content": "Joy Saltarelli",
+                "+@id": "70851"
+            }
+        },
+        {
             "+@gid": "2105229364",
             "+@lang": "IT",
             "role": "Aoi Sakamoto",
@@ -532,6 +1110,33 @@
             "person": {
                 "+content": "Federico Bebi",
                 "+@id": "74335"
+            }
+        },
+        {
+            "+@gid": "2014183276",
+            "+@lang": "IT",
+            "role": "Osaragi",
+            "person": {
+                "+content": "Annalisa Usai",
+                "+@id": "126584"
+            }
+        },
+        {
+            "+@gid": "2265980615",
+            "+@lang": "IT",
+            "role": "Boiled",
+            "person": {
+                "+content": "Stefano Thermes",
+                "+@id": "147386"
+            }
+        },
+        {
+            "+@gid": "733656417",
+            "+@lang": "IT",
+            "role": "Hyo",
+            "person": {
+                "+content": "Emanuele Durante",
+                "+@id": "185173"
             }
         },
         {
@@ -580,12 +1185,30 @@
             }
         },
         {
+            "+@gid": "1554908409",
+            "+@lang": "JA",
+            "role": "Natsuki Seba",
+            "person": {
+                "+content": "Nobuhiko Okamoto",
+                "+@id": "59411"
+            }
+        },
+        {
             "+@gid": "1136231979",
             "+@lang": "JA",
             "role": "Osaragi",
             "person": {
                 "+content": "Saori Hayami",
                 "+@id": "63462"
+            }
+        },
+        {
+            "+@gid": "1608564232",
+            "+@lang": "JA",
+            "role": "Kashima",
+            "person": {
+                "+content": "Kazuyuki Okitsu",
+                "+@id": "67851"
             }
         },
         {
@@ -688,12 +1311,57 @@
             }
         },
         {
+            "+@gid": "3368118290",
+            "+@lang": "KO",
+            "role": "Boiled",
+            "person": {
+                "+content": "Hyun Lee",
+                "+@id": "148623"
+            }
+        },
+        {
             "+@gid": "530061255",
             "+@lang": "KO",
             "role": "Shin Asakura",
             "person": {
                 "+content": "Sung-Young Park",
                 "+@id": "231763"
+            }
+        },
+        {
+            "+@gid": "3165965353",
+            "+@lang": "KO",
+            "role": "Hana Sakamoto",
+            "person": {
+                "+content": "Sae-Bom Kang",
+                "+@id": "234204"
+            }
+        },
+        {
+            "+@gid": "2162738706",
+            "+@lang": "KO",
+            "role": "Nagumo",
+            "person": {
+                "+content": "Kyung-Tae Lee",
+                "+@id": "237104"
+            }
+        },
+        {
+            "+@gid": "2879182881",
+            "+@lang": "KO",
+            "role": "Aoi Sakamoto",
+            "person": {
+                "+content": "Lee Seul",
+                "+@id": "237849"
+            }
+        },
+        {
+            "+@gid": "2372825431",
+            "+@lang": "KO",
+            "role": "Lu Shaotang",
+            "person": {
+                "+content": "Chae-Rin Kim",
+                "+@id": "252002"
             }
         },
         {
@@ -741,6 +1409,6 @@
         }
     ],
     "+@date-added": "2024-05-27T20:08:26Z",
-    "+@date-last-modified-at": "2025-02-02T05:29:40Z",
-    "+@date-last-updated-at": "2025-02-02T05:29:40Z"
+    "+@date-last-modified-at": "2025-03-04T05:31:44Z",
+    "+@date-last-updated-at": "2025-03-04T05:31:44Z"
 }
