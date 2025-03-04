@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "I'm the Evil Lord of an Intergalactic Empire!",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-02T01:57:42Z",
+    "+@generated-on": "2025-03-04T01:59:21Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25926"
@@ -57,7 +57,7 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2025-04",
+            "+content": "2025-04-05",
             "+@gid": "3366405366",
             "+@type": "Vintage"
         },
@@ -69,11 +69,18 @@
             "+@href": "https://seikankokka-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>I'm the Evil Lord of an Intergalactic Empire!</cite> Anime's 1st Trailer Reveals More Cast",
-        "+@datetime": "2025-01-15T09:39:40Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-01-15/im-the-evil-lord-of-an-intergalactic-empire-anime-1st-trailer-reveals-more-cast/.220057"
-    },
+    "news": [
+        {
+            "+content": "<cite>I'm the Evil Lord of an Intergalactic Empire!</cite> Anime's 1st Trailer Reveals More Cast",
+            "+@datetime": "2025-01-15T09:39:40Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-15/im-the-evil-lord-of-an-intergalactic-empire-anime-1st-trailer-reveals-more-cast/.220057"
+        },
+        {
+            "+content": "<cite>I'm the Evil Lord of an Intergalactic Empire!</cite> Anime Reveals April 5 TV Debut, More Cast, Theme Song Artists in Video",
+            "+@datetime": "2025-02-16T10:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-16/im-the-evil-lord-of-an-intergalactic-empire-anime-reveals-april-5-tv-debut-more-cast-theme-song-/.221248"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2768539473",
@@ -238,12 +245,30 @@
     ],
     "cast": [
         {
+            "+@gid": "1167261732",
+            "+@lang": "JA",
+            "role": "Yasushi",
+            "person": {
+                "+content": "Shinichirō Miki",
+                "+@id": "659"
+            }
+        },
+        {
             "+@gid": "1866048192",
             "+@lang": "JA",
             "role": "Guide",
             "person": {
                 "+content": "Takehito Koyasu",
                 "+@id": "662"
+            }
+        },
+        {
+            "+@gid": "2179252719",
+            "+@lang": "JA",
+            "role": "Goaz",
+            "person": {
+                "+content": "Tetsu Inada",
+                "+@id": "7015"
             }
         },
         {
@@ -290,6 +315,15 @@
                 "+content": "Reina Ueda",
                 "+@id": "116390"
             }
+        },
+        {
+            "+@gid": "1471718779",
+            "+@lang": "JA",
+            "role": "Brian Beaumont",
+            "person": {
+                "+content": "Yōji Ueda",
+                "+@id": "131376"
+            }
         }
     ],
     "credit": {
@@ -301,6 +335,6 @@
         }
     },
     "+@date-added": "2024-10-20T19:06:58Z",
-    "+@date-last-modified-at": "2025-02-02T01:57:44Z",
-    "+@date-last-updated-at": "2025-02-02T01:57:44Z"
+    "+@date-last-modified-at": "2025-03-04T01:59:24Z",
+    "+@date-last-updated-at": "2025-03-04T01:59:24Z"
 }

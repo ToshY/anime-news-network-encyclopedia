@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "This Monster Wants to Eat Me",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-02T01:57:42Z",
+    "+@generated-on": "2025-03-04T01:59:21Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "31333"
@@ -52,7 +52,7 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2025",
+            "+content": "2025-10",
             "+@gid": "3572481259",
             "+@type": "Vintage"
         },
@@ -62,6 +62,18 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://wata-tabe.com/"
+        }
+    ],
+    "news": [
+        {
+            "+content": "<cite>This Monster Wants to Eat Me</cite> Manga Gets TV Anime in 2025",
+            "+@datetime": "2024-10-21T12:37:11Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-10-21/this-monster-wants-to-eat-me-manga-gets-tv-anime-in-2025/.216997"
+        },
+        {
+            "+content": "<cite>This Monster Wants to Eat Me</cite> TV Anime Reveals More Cast, October Debut in Video",
+            "+@datetime": "2025-03-03T11:59:34Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-03/this-monster-wants-to-eat-me-tv-anime-reveals-more-cast-october-debut-in-video/.221880"
         }
     ],
     "staff": [
@@ -117,8 +129,24 @@
             "+@gid": "545448616",
             "task": "Character Design",
             "person": {
-                "+content": "Sō Ikuyama",
+                "+content": "Nozomi Ikuyama",
                 "+@id": "180985"
+            }
+        },
+        {
+            "+@gid": "1077681889",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yoshitaka Kudō",
+                "+@id": "168816"
+            }
+        },
+        {
+            "+@gid": "891518281",
+            "task": "3D Director",
+            "person": {
+                "+content": "Jishiro Shida",
+                "+@id": "278899"
             }
         },
         {
@@ -128,17 +156,45 @@
                 "+content": "Ryōsuke Naya",
                 "+@id": "259754"
             }
+        },
+        {
+            "+@gid": "2395250270",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Kenji Takehara",
+                "+@id": "4147"
+            }
         }
     ],
-    "cast": {
-        "+@gid": "2268597296",
-        "+@lang": "JA",
-        "role": "Hinako Yaotose",
-        "person": {
-            "+content": "Reina Ueda",
-            "+@id": "116390"
+    "cast": [
+        {
+            "+@gid": "2138844177",
+            "+@lang": "JA",
+            "role": "Shiori Oumi",
+            "person": {
+                "+content": "Yui Ishikawa",
+                "+@id": "63509"
+            }
+        },
+        {
+            "+@gid": "2268597296",
+            "+@lang": "JA",
+            "role": "Hinako Yaotose",
+            "person": {
+                "+content": "Reina Ueda",
+                "+@id": "116390"
+            }
+        },
+        {
+            "+@gid": "2853659975",
+            "+@lang": "JA",
+            "role": "Miko Yashiro",
+            "person": {
+                "+content": "Fairouz Ai",
+                "+@id": "215531"
+            }
         }
-    },
+    ],
     "credit": [
         {
             "+@gid": "2807903879",
@@ -158,6 +214,6 @@
         }
     ],
     "+@date-added": "2024-10-21T22:46:11Z",
-    "+@date-last-modified-at": "2025-02-02T01:57:44Z",
-    "+@date-last-updated-at": "2025-02-02T01:57:44Z"
+    "+@date-last-modified-at": "2025-03-04T01:59:24Z",
+    "+@date-last-updated-at": "2025-03-04T01:59:24Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Grand Blue Dreaming",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-02-02T01:57:43Z",
+    "+@generated-on": "2025-03-04T01:59:22Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "20709"
@@ -60,11 +60,18 @@
             "+@href": "https://grandblue-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Grand Blue Dreaming</cite> TV Anime Gets 2nd Season",
-        "+@datetime": "2024-09-29T12:41:44Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-09-29/grand-blue-dreaming-tv-anime-gets-2nd-season/.216146"
-    },
+    "news": [
+        {
+            "+content": "<cite>Grand Blue Dreaming</cite> TV Anime Gets 2nd Season",
+            "+@datetime": "2024-09-29T12:41:44Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-09-29/grand-blue-dreaming-tv-anime-gets-2nd-season/.216146"
+        },
+        {
+            "+content": "<cite>Grand Blue Dreaming</cite> Season 2 Reveals More Cast",
+            "+@datetime": "2025-02-02T16:47:18Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-02/grand-blue-dreaming-season-2-reveals-more-cast/.220763"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3221053522",
@@ -220,6 +227,15 @@
             }
         },
         {
+            "+@gid": "1888416269",
+            "+@lang": "JA",
+            "role": "Shiori Kitahara",
+            "person": {
+                "+content": "Sumire Morohoshi",
+                "+@id": "61669"
+            }
+        },
+        {
             "+@gid": "2415971875",
             "+@lang": "JA",
             "role": "Hajime Nojima",
@@ -274,6 +290,15 @@
             }
         },
         {
+            "+@gid": "2152625195",
+            "+@lang": "JA",
+            "role": "Naomi Otoya",
+            "person": {
+                "+content": "Yoshino Aoyama",
+                "+@id": "123095"
+            }
+        },
+        {
             "+@gid": "2903768424",
             "+@lang": "JA",
             "role": "Iori Kitahara",
@@ -289,6 +314,15 @@
             "person": {
                 "+content": "Robert Waterman",
                 "+@id": "146605"
+            }
+        },
+        {
+            "+@gid": "1534128074",
+            "+@lang": "JA",
+            "role": "Sakurako Busujima",
+            "person": {
+                "+content": "Aya Yamane",
+                "+@id": "173872"
             }
         }
     ],
@@ -311,6 +345,6 @@
         }
     ],
     "+@date-added": "2024-09-29T17:06:55Z",
-    "+@date-last-modified-at": "2025-02-02T01:57:44Z",
-    "+@date-last-updated-at": "2025-02-02T01:57:44Z"
+    "+@date-last-modified-at": "2025-03-04T01:59:24Z",
+    "+@date-last-updated-at": "2025-03-04T01:59:24Z"
 }
