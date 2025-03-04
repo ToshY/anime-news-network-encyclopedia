@@ -4,7 +4,17 @@
     "+@type": "movie",
     "+@name": "Colors Within",
     "+@precision": "movie",
-    "+@generated-on": "2025-02-02T20:27:16Z",
+    "+@generated-on": "2025-03-04T21:28:23Z",
+    "related-next": [
+        {
+            "+@id": "34677",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "34678",
+            "+@rel": "adaptation"
+        }
+    ],
     "info": [
         {
             "+@gid": "551182485",
@@ -42,6 +52,12 @@
             "+@gid": "2585066228",
             "+@type": "Alternative title",
             "+@lang": "ES"
+        },
+        {
+            "+content": "I colori dell'anima - The Colors Within",
+            "+@gid": "2111290997",
+            "+@type": "Alternative title",
+            "+@lang": "IT"
         },
         {
             "+content": "Kimi no Iro",
@@ -106,6 +122,11 @@
             "+@type": "Premiere date"
         },
         {
+            "+content": "2025-02-13 (Russia)",
+            "+@gid": "2347823276",
+            "+@type": "Premiere date"
+        },
+        {
             "+content": "2025-02-21 (Spain)",
             "+@gid": "1618626668",
             "+@type": "Premiere date"
@@ -124,14 +145,26 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "16",
-        "+@weighted_score": "7.9764",
-        "+@bayesian_score": "7.75235"
+        "+@nb_votes": "17",
+        "+@weighted_score": "7.9786",
+        "+@bayesian_score": "7.76102"
     },
     "review": {
         "+content": "<cite>The Colors Within</cite> Anime Film Review",
         "+@href": "https://www.animenewsnetwork.com/review/the-colors-within/.214934"
     },
+    "release": [
+        {
+            "+content": "The Colors Within (BD+DVD)",
+            "+@date": "2025-05-27",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52305"
+        },
+        {
+            "+content": "The Colors Within - [SteelBook] (BD+DVD)",
+            "+@date": "2025-05-27",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52306"
+        }
+    ],
     "news": [
         {
             "+content": "Naoko Yamada, Science Saru's Anime Film Reveals <cite>Kimi no Iro</cite> Title, Fall 2023 Debut, Teaser Trailer",
@@ -267,6 +300,16 @@
             "+content": "<cite>The Colors Within</cite> Anime Earns US$378,022 in Opening Weekend in U.S.",
             "+@datetime": "2025-01-27T20:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-01-27/the-colors-within-anime-earns-usd378022-in-opening-weekend-in-u.s/.220518"
+        },
+        {
+            "+content": "Live-Action <cite>Sonic the Hedgehog 3</cite> Film Crosses US$230 Million in U.S.",
+            "+@datetime": "2025-02-03T18:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-03/live-action-sonic-the-hedgehog-3-film-crosses-usd230-million-in-u.s/.220794"
+        },
+        {
+            "+content": "<cite>The Colors Within</cite> Anime Launches on Blu-ray Disc on May 27, Digital Platforms on April 1",
+            "+@datetime": "2025-03-03T22:00:14Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-03/the-colors-within-anime-launches-on-blu-ray-disc-on-may-27-digital-platforms-on-april-1/.221896"
         }
     ],
     "staff": [
@@ -514,6 +557,96 @@
             }
         },
         {
+            "+@gid": "1227343197",
+            "+@lang": "IT",
+            "role": "Sorella Hiyoko",
+            "person": {
+                "+content": "Letizia Ciampa",
+                "+@id": "27425"
+            }
+        },
+        {
+            "+@gid": "1887940128",
+            "+@lang": "IT",
+            "role": "Nonna di Kimi",
+            "person": {
+                "+content": "Giò Giò Rapattoni",
+                "+@id": "38266"
+            }
+        },
+        {
+            "+@gid": "1908509832",
+            "+@lang": "IT",
+            "role": "Preside",
+            "person": {
+                "+content": "Doriana Chierici",
+                "+@id": "56959"
+            }
+        },
+        {
+            "+@gid": "2582855074",
+            "+@lang": "IT",
+            "role": "Rui Kagehira",
+            "person": {
+                "+content": "Tito Marteddu",
+                "+@id": "86949"
+            }
+        },
+        {
+            "+@gid": "2654814935",
+            "+@lang": "IT",
+            "role": "Kimi Sakunaga",
+            "person": {
+                "+content": "Chiara Fabiano",
+                "+@id": "131045"
+            }
+        },
+        {
+            "+@gid": "2792967397",
+            "+@lang": "IT",
+            "role": "Madre di Rui",
+            "person": {
+                "+content": "Anna Cugini",
+                "+@id": "145725"
+            }
+        },
+        {
+            "+@gid": "3220009844",
+            "+@lang": "IT",
+            "role": "Sumika",
+            "person": {
+                "+content": "Sara Imbriani",
+                "+@id": "174953"
+            }
+        },
+        {
+            "+@gid": "2550822826",
+            "+@lang": "IT",
+            "role": "Saku",
+            "person": {
+                "+content": "Ludovica Cuppari",
+                "+@id": "235354"
+            }
+        },
+        {
+            "+@gid": "1624650055",
+            "+@lang": "IT",
+            "role": "Totsuko Higurashi",
+            "person": {
+                "+content": "Giulietta Rebeggiani",
+                "+@id": "240006"
+            }
+        },
+        {
+            "+@gid": "2287271449",
+            "+@lang": "IT",
+            "role": "Shiho",
+            "person": {
+                "+content": "Beatrice Manfredi",
+                "+@id": "265447"
+            }
+        },
+        {
             "+@gid": "2702902837",
             "+@lang": "JA",
             "role": "Kimi's Grandmother",
@@ -584,6 +717,51 @@
                 "+content": "Yasuko",
                 "+@id": "265783"
             }
+        },
+        {
+            "+@gid": "2095596935",
+            "+@lang": "RU",
+            "role": "Shiho Nanakubo",
+            "person": {
+                "+content": "Anastasia Portnaya",
+                "+@id": "256487"
+            }
+        },
+        {
+            "+@gid": "2701239849",
+            "+@lang": "RU",
+            "role": "Totsuko Higurashi",
+            "person": {
+                "+content": "Vitaliya Kornienko",
+                "+@id": "278858"
+            }
+        },
+        {
+            "+@gid": "1769962441",
+            "+@lang": "RU",
+            "role": "Kimi Sakunaga",
+            "person": {
+                "+content": "Ekaterina Gershkovich",
+                "+@id": "278859"
+            }
+        },
+        {
+            "+@gid": "1172229729",
+            "+@lang": "RU",
+            "role": "Rui Kagehira",
+            "person": {
+                "+content": "Fyodor Redkin",
+                "+@id": "278860"
+            }
+        },
+        {
+            "+@gid": "2293726918",
+            "+@lang": "RU",
+            "role": "Saku Momochi",
+            "person": {
+                "+content": "Yuliya Zorina",
+                "+@id": "278861"
+            }
         }
     ],
     "credit": [
@@ -637,6 +815,6 @@
         }
     ],
     "+@date-added": "2022-12-02T23:03:55Z",
-    "+@date-last-modified-at": "2025-02-02T20:27:18Z",
-    "+@date-last-updated-at": "2025-02-02T20:27:18Z"
+    "+@date-last-modified-at": "2025-03-04T21:28:26Z",
+    "+@date-last-updated-at": "2025-03-04T21:28:26Z"
 }
