@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Toilet-Bound Hanako-kun",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-02-02T11:23:03Z",
+    "+@generated-on": "2025-03-04T10:32:35Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "21983"
@@ -81,9 +81,84 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "5.5332"
+        "+@nb_votes": "4",
+        "+@weighted_score": "5.9942"
     },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "Hanako-kun of the Toilet",
+                "+@gid": "2426356544",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "The Clock Keepers",
+                "+@gid": "1496078327",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "Lost and Found",
+                "+@gid": "1657050167",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "Summer Lights",
+                "+@gid": "2795534434",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": [
+                {
+                    "+content": "The Mokke of the Death",
+                    "+@part": "A",
+                    "+@gid": "1949826625",
+                    "+@lang": "EN"
+                },
+                {
+                    "+content": "Melancholy of the new No.3",
+                    "+@part": "B",
+                    "+@gid": "1906887135",
+                    "+@lang": "EN"
+                }
+            ]
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "Picture Perfect",
+                "+@gid": "3611714015",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "Make Sense",
+                "+@gid": "1877506847",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "Perfectly Empty Ideals",
+                "+@gid": "2163972312",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "<cite>Toilet-Bound Hanako-kun</cite> Anime's 2nd Season Debuts in January 2025, <cite>After-School Hanako-kun</cite> Short Anime Sequel Premieres on October 7",
@@ -134,6 +209,21 @@
             "+content": "English Dubs for <cite>Toilet-Bound Hanako-kun</cite> Season 2, <cite>100 Girlfriends</cite> Season 2 Stream on Crunchyroll in India",
             "+@datetime": "2025-01-31T12:59:47Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-01-31/english-dubs-for-toilet-bound-hanako-kun-season-2-100-girlfriends-season-2-stream-on-crunchyroll-in-/.220680"
+        },
+        {
+            "+content": "Hindi Dubs of <cite>The Red Ranger Becomes an Adventurer in Another World</cite> Anime, <cite>Toilet-Bound Hanako-kun</cite> Season 2 Stream on Crunchyroll",
+            "+@datetime": "2025-02-03T11:59:29Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-03/hindi-dubs-of-the-red-ranger-becomes-an-adventurer-in-another-world-anime-toilet-bound-hanako-kun-/.220785"
+        },
+        {
+            "+content": "<cite>Toilet-Bound Hanako-kun</cite> 2nd Season Anime Casts Kana Hanazawa",
+            "+@datetime": "2025-02-17T09:34:05Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-17/toilet-bound-hanako-kun-2nd-season-anime-casts-kana-hanazawa/.221309"
+        },
+        {
+            "+content": "<cite>Toilet-Bound Hanako-kun</cite> 2nd Season Anime Reveals New 'Shijima-san of the Art Room' Promo Video",
+            "+@datetime": "2025-02-23T09:11:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-23/toilet-bound-hanako-kun-2nd-season-anime-reveals-new-shijima-san-of-the-art-room-promo-video/.221539"
         }
     ],
     "staff": [
@@ -212,12 +302,48 @@
     ],
     "cast": [
         {
+            "+@gid": "2150332144",
+            "+@lang": "EN",
+            "role": "Sakura Nanamine",
+            "person": {
+                "+content": "Kara Edwards",
+                "+@id": "4218"
+            }
+        },
+        {
             "+@gid": "3294656729",
             "+@lang": "EN",
             "role": "Teru Minamoto",
             "person": {
                 "+content": "David Matranga",
                 "+@id": "9293"
+            }
+        },
+        {
+            "+@gid": "2644320304",
+            "+@lang": "EN",
+            "role": "Natsuhiko Hyuga",
+            "person": {
+                "+content": "Aaron Dismuke",
+                "+@id": "10246"
+            }
+        },
+        {
+            "+@gid": "2569357743",
+            "+@lang": "EN",
+            "role": "Tsuchigomori",
+            "person": {
+                "+content": "Ian Sinclair",
+                "+@id": "42612"
+            }
+        },
+        {
+            "+@gid": "1283174772",
+            "+@lang": "EN",
+            "role": "Yako",
+            "person": {
+                "+content": "Alexis Tipton",
+                "+@id": "77434"
             }
         },
         {
@@ -275,12 +401,30 @@
             }
         },
         {
+            "+@gid": "1195422361",
+            "+@lang": "EN",
+            "role": "Sosuke Mitsuba",
+            "person": {
+                "+content": "Kyle Igneczi",
+                "+@id": "148012"
+            }
+        },
+        {
             "+@gid": "3990042938",
             "+@lang": "EN",
             "role": "Mokke B",
             "person": {
                 "+content": "Madeleine Morris",
                 "+@id": "150924"
+            }
+        },
+        {
+            "+@gid": "1182585555",
+            "+@lang": "EN",
+            "role": "Mokke C",
+            "person": {
+                "+content": "Dani Chambers",
+                "+@id": "163782"
             }
         },
         {
@@ -299,6 +443,15 @@
             "person": {
                 "+content": "Kelly Greenshield",
                 "+@id": "174984"
+            }
+        },
+        {
+            "+@gid": "2452686470",
+            "+@lang": "EN",
+            "role": "Kako",
+            "person": {
+                "+content": "Mac McGee",
+                "+@id": "175830"
             }
         },
         {
@@ -353,6 +506,15 @@
             "person": {
                 "+content": "Kenjirō Tsuda",
                 "+@id": "39751"
+            }
+        },
+        {
+            "+@gid": "325638835",
+            "+@lang": "JA",
+            "role": "Shijima-san of the Art Room",
+            "person": {
+                "+content": "Kana Hanazawa",
+                "+@id": "53741"
             }
         },
         {
@@ -464,6 +626,6 @@
         }
     },
     "+@date-added": "2023-11-10T19:29:57Z",
-    "+@date-last-modified-at": "2025-02-02T11:23:05Z",
-    "+@date-last-updated-at": "2025-02-02T11:23:05Z"
+    "+@date-last-modified-at": "2025-03-04T11:26:36Z",
+    "+@date-last-updated-at": "2025-03-04T11:26:36Z"
 }

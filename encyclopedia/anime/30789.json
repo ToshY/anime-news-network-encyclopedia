@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Blue Box",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-02T11:23:02Z",
+    "+@generated-on": "2025-03-04T11:26:33Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24652"
@@ -66,8 +66,48 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "2150020518",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "2874737850",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "2051576390",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "basketball",
+            "+@gid": "3538638340",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "school",
+            "+@gid": "1970471505",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "sports",
+            "+@gid": "1025871128",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "OC",
+            "+@gid": "2647162121",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "Taiki Inomata is on the boys' badminton team at sports powerhouse Eimei Junior and Senior High. He's in love with basketball player Chinatsu Kano, the older girl he trains alongside every morning in the gym. One spring day, their relationship takes a sharp turn. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "1889277297",
+            "+@type": "Running time"
         },
         {
             "+content": "25",
@@ -85,7 +125,7 @@
             "+@type": "Opening Theme"
         },
         {
-            "+content": "#2: \"If So\" by Macaroni Enpitsu",
+            "+content": "#2: \"Goodbye\" by Macaroni Enpitsu",
             "+@gid": "1467014914",
             "+@type": "Opening Theme"
         },
@@ -108,8 +148,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "9",
-        "+@weighted_score": "7.2811"
+        "+@nb_votes": "11",
+        "+@weighted_score": "7.0498"
     },
     "episode": [
         {
@@ -255,6 +295,30 @@
                 "+@gid": "3327893672",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "19",
+            "title": {
+                "+content": "I've Got Plans",
+                "+@gid": "2543595833",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "20",
+            "title": {
+                "+content": "As One of Her Closest Friends",
+                "+@gid": "1866111554",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "21",
+            "title": {
+                "+content": "A Chance to Blossom",
+                "+@gid": "1325944644",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -307,6 +371,11 @@
             "+content": "<cite>Blue Box</cite> Anime Reveals New Cast, Theme Songs & Artists, January 2 2nd Half Debut",
             "+@datetime": "2024-12-22T06:15:49Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-22/blue-box-anime-reveals-new-cast-theme-songs-and-artists-january-2-2nd-half-debut/.219386"
+        },
+        {
+            "+content": "<cite>Blue Box</cite> Anime Casts Yūki Kaji",
+            "+@datetime": "2025-02-23T15:55:10Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-23/blue-box-anime-casts-yuki-kaji/.221534"
         }
     ],
     "staff": [
@@ -359,11 +428,67 @@
             }
         },
         {
+            "+@gid": "854471404",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Masayoshi Nishida",
+                "+@id": "15734"
+            }
+        },
+        {
             "+@gid": "1795658878",
             "task": "Storyboard",
             "person": {
                 "+content": "Tetsuro Araki",
                 "+@id": "21259"
+            }
+        },
+        {
+            "+@gid": "2612623920",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yoshiko Okuda",
+                "+@id": "24221"
+            }
+        },
+        {
+            "+@gid": "1604973251",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yūma Suzuki",
+                "+@id": "85453"
+            }
+        },
+        {
+            "+@gid": "3322770478",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takahiro Ōkawa",
+                "+@id": "96736"
+            }
+        },
+        {
+            "+@gid": "2429263169",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shingo Mogi",
+                "+@id": "122505"
+            }
+        },
+        {
+            "+@gid": "1226765760",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hitomi Ezoe",
+                "+@id": "131254"
+            }
+        },
+        {
+            "+@gid": "2454949644",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yuka Yamato",
+                "+@id": "181770"
             }
         },
         {
@@ -375,11 +500,99 @@
             }
         },
         {
+            "+@gid": "3331901397",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Issei Iba",
+                "+@id": "216103"
+            }
+        },
+        {
+            "+@gid": "2022681293",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shunji Yoshida",
+                "+@id": "3895"
+            }
+        },
+        {
             "+@gid": "2366676028",
             "task": "Episode Director",
             "person": {
                 "+content": "Keiko Oyamada",
                 "+@id": "6649"
+            }
+        },
+        {
+            "+@gid": "1508240010",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Masato Kitagawa",
+                "+@id": "16921"
+            }
+        },
+        {
+            "+@gid": "3370846857",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Harume Kosaka",
+                "+@id": "31137"
+            }
+        },
+        {
+            "+@gid": "3631985538",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Daisuke Tsukushi",
+                "+@id": "39253"
+            }
+        },
+        {
+            "+@gid": "1784782003",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yasuro Tsuchiya",
+                "+@id": "66718"
+            }
+        },
+        {
+            "+@gid": "2447610397",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yūma Suzuki",
+                "+@id": "85453"
+            }
+        },
+        {
+            "+@gid": "2046316295",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ryōsuke Azuma",
+                "+@id": "146044"
+            }
+        },
+        {
+            "+@gid": "2026720628",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Jirō Arimoto",
+                "+@id": "167186"
+            }
+        },
+        {
+            "+@gid": "2191113433",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Mizuki Iwata",
+                "+@id": "180633"
+            }
+        },
+        {
+            "+@gid": "2949058489",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yuka Yamato",
+                "+@id": "181770"
             }
         },
         {
@@ -399,11 +612,27 @@
             }
         },
         {
+            "+@gid": "1089565457",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Shingo Mogi",
+                "+@id": "122505"
+            }
+        },
+        {
             "+@gid": "3672744684",
             "task": "Unit Director",
             "person": {
                 "+content": "Kuniyasu Nishina",
                 "+@id": "194074"
+            }
+        },
+        {
+            "+@gid": "2203660731",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Issei Iba",
+                "+@id": "216103"
             }
         },
         {
@@ -508,6 +737,14 @@
             "person": {
                 "+content": "Takuma Kishida",
                 "+@id": "181712"
+            }
+        },
+        {
+            "+@gid": "2036584795",
+            "task": "Producer",
+            "person": {
+                "+content": "Takehito Inoue",
+                "+@id": "277895"
             }
         }
     ],
@@ -666,6 +903,15 @@
             }
         },
         {
+            "+@gid": "2476184473",
+            "+@lang": "JA",
+            "role": "Kazuma Matsuoka",
+            "person": {
+                "+content": "Yūki Kaji",
+                "+@id": "58051"
+            }
+        },
+        {
             "+@gid": "1979653761",
             "+@lang": "JA",
             "role": "Taiki Inomata",
@@ -775,6 +1021,6 @@
         }
     ],
     "+@date-added": "2023-11-21T03:58:59Z",
-    "+@date-last-modified-at": "2025-02-02T11:23:05Z",
-    "+@date-last-updated-at": "2025-02-02T11:23:05Z"
+    "+@date-last-modified-at": "2025-03-04T11:26:36Z",
+    "+@date-last-updated-at": "2025-03-04T11:26:36Z"
 }
