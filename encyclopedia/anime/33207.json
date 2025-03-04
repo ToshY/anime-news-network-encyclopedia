@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Chitose Is in the Ramune Bottle",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-02T03:32:54Z",
+    "+@generated-on": "2025-03-04T03:40:08Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25460"
@@ -13,24 +13,19 @@
         {
             "+@gid": "3738505645",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33207-3738505645.1723244091.jpg",
-            "+@width": "200",
-            "+@height": "177",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33207-3738505645.1739703581.jpg",
+            "+@width": "143",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33207-3738505645.1723244091.jpg",
-                    "+@width": "200",
-                    "+@height": "177"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33207-3738505645.1739703581.jpg",
+                    "+@width": "143",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33207-3738505645.1723244091.jpg",
-                    "+@width": "500",
-                    "+@height": "443"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A33207-3738505645.1723244091.jpg",
-                    "+@width": "600",
-                    "+@height": "531"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33207-3738505645.1739703581.jpg",
+                    "+@width": "429",
+                    "+@height": "600"
                 }
             ]
         },
@@ -60,9 +55,53 @@
             "+content": "2025",
             "+@gid": "1300386701",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ『千歳くんはラムネ瓶のなか』公式サイト",
+            "+@gid": "1423713812",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://chiramune.com/"
         }
     ],
+    "news": {
+        "+content": "<cite>Chitose Is in the Ramune Bottle</cite> Anime Reveals Cast, Staff, Visuals",
+        "+@datetime": "2025-02-16T10:00:00Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-02-16/chitose-is-in-the-ramune-bottle-anime-reveals-cast-staff-visuals/.221255"
+    },
     "staff": [
+        {
+            "+@gid": "1183334129",
+            "task": "Director",
+            "person": {
+                "+content": "Yûji Tokuno",
+                "+@id": "164053"
+            }
+        },
+        {
+            "+@gid": "3056322037",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Naruhisa Arakawa",
+                "+@id": "3086"
+            }
+        },
+        {
+            "+@gid": "1599127474",
+            "task": "Script",
+            "person": {
+                "+content": "Naruhisa Arakawa",
+                "+@id": "3086"
+            }
+        },
+        {
+            "+@gid": "2684816055",
+            "task": "Script",
+            "person": {
+                "+content": "Hiromu",
+                "+@id": "221792"
+            }
+        },
         {
             "+@gid": "1267018678",
             "task": "Original creator",
@@ -78,9 +117,81 @@
                 "+content": "raemz",
                 "+@id": "221793"
             }
+        },
+        {
+            "+@gid": "1538524203",
+            "task": "Character Design",
+            "person": {
+                "+content": "Sumie Kinoshita",
+                "+@id": "58221"
+            }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "2574999440",
+            "+@lang": "JA",
+            "role": "Asuka Nishino",
+            "person": {
+                "+content": "Chika Anzai",
+                "+@id": "78724"
+            }
+        },
+        {
+            "+@gid": "1131496229",
+            "+@lang": "JA",
+            "role": "Haru Aomi",
+            "person": {
+                "+content": "Rumi Okubo",
+                "+@id": "88587"
+            }
+        },
+        {
+            "+@gid": "3093851285",
+            "+@lang": "JA",
+            "role": "Yuzuki Nanase",
+            "person": {
+                "+content": "Ikumi Hasegawa",
+                "+@id": "151984"
+            }
+        },
+        {
+            "+@gid": "1474986919",
+            "+@lang": "JA",
+            "role": "Yūko Hiiragi",
+            "person": {
+                "+content": "Manaka Iwami",
+                "+@id": "156030"
+            }
+        },
+        {
+            "+@gid": "2100775163",
+            "+@lang": "JA",
+            "role": "Saku Chitose",
+            "person": {
+                "+content": "Shōgo Sakata",
+                "+@id": "177307"
+            }
+        },
+        {
+            "+@gid": "2239363388",
+            "+@lang": "JA",
+            "role": "Yua Uchida",
+            "person": {
+                "+content": "Hina Yomiya",
+                "+@id": "209292"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2740359036",
+        "task": "Animation Production",
+        "company": {
+            "+content": "feel.",
+            "+@id": "8883"
+        }
+    },
     "+@date-added": "2024-08-09T18:53:30Z",
-    "+@date-last-modified-at": "2025-02-02T03:32:56Z",
-    "+@date-last-updated-at": "2025-02-02T03:32:56Z"
+    "+@date-last-modified-at": "2025-03-04T03:40:11Z",
+    "+@date-last-updated-at": "2025-03-04T03:40:11Z"
 }

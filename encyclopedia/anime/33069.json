@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Please Put Them On, Takamine-san!",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-02T03:32:54Z",
+    "+@generated-on": "2025-03-04T03:40:09Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24397"
@@ -57,7 +57,7 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2025-04",
+            "+content": "2025-04-02",
             "+@gid": "2087875327",
             "+@type": "Vintage"
         },
@@ -69,11 +69,18 @@
             "+@href": "https://takaminesan.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>'Please Put Them On, Takamine-san!'</cite> Anime Unveils Teasers, Cast, Staff, April Debut",
-        "+@datetime": "2024-11-13T09:01:59Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-11-13/please-put-them-on-takamine-san-anime-unveils-teasers-cast-staff-april-debut/.217800"
-    },
+    "news": [
+        {
+            "+content": "<cite>'Please Put Them On, Takamine-san!'</cite> Anime Unveils Teasers, Cast, Staff, April Debut",
+            "+@datetime": "2024-11-13T09:01:59Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-11-13/please-put-them-on-takamine-san-anime-unveils-teasers-cast-staff-april-debut/.217800"
+        },
+        {
+            "+content": "<cite>'Please Put Them On, Takamine-san!'</cite> Anime Reveals More Cast & Staff, Songs, April 2 Debut",
+            "+@datetime": "2025-02-18T09:19:02Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-18/please-put-them-on-takamine-san-anime-reveals-more-cast-and-staff-songs-april-2-debut/.221344"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2037446200",
@@ -132,6 +139,14 @@
             }
         },
         {
+            "+@gid": "2236606775",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yukiko Ashino",
+                "+@id": "88772"
+            }
+        },
+        {
             "+@gid": "2753591832",
             "task": "Chief Animation Director",
             "person": {
@@ -154,9 +169,26 @@
                 "+content": "Akane Maeda",
                 "+@id": "213497"
             }
+        },
+        {
+            "+@gid": "2258091241",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Tomoyoshi Ishizuka",
+                "+@id": "648"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "732656445",
+            "+@lang": "JA",
+            "role": "Erie Evergreen",
+            "person": {
+                "+content": "Sumire Uesaka",
+                "+@id": "106108"
+            }
+        },
         {
             "+@gid": "2885361267",
             "+@lang": "JA",
@@ -164,6 +196,15 @@
             "person": {
                 "+content": "Yurika Kubo",
                 "+@id": "112826"
+            }
+        },
+        {
+            "+@gid": "2942085451",
+            "+@lang": "JA",
+            "role": "Rurika Kurosaki",
+            "person": {
+                "+content": "Miyu Tomita",
+                "+@id": "145048"
             }
         },
         {
@@ -185,6 +226,6 @@
         }
     },
     "+@date-added": "2024-08-02T04:01:55Z",
-    "+@date-last-modified-at": "2025-02-02T03:32:56Z",
-    "+@date-last-updated-at": "2025-02-02T03:32:56Z"
+    "+@date-last-modified-at": "2025-03-04T03:40:11Z",
+    "+@date-last-updated-at": "2025-03-04T03:40:11Z"
 }
