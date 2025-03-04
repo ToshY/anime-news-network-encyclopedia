@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Pokémon Horizons: The Series",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-02T19:23:04Z",
+    "+@generated-on": "2025-03-04T20:30:57Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "24608"
@@ -60,6 +60,12 @@
         {
             "+content": "Pocket Monster",
             "+@gid": "3670138030",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
+            "+content": "Pokémon Horizons: Season 2—The Search for Laqua",
+            "+@gid": "1733764608",
             "+@type": "Alternative title",
             "+@lang": "EN"
         },
@@ -178,7 +184,7 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "#2: \"Let Me Battle\" by 9Lana (eps 46-67)",
+            "+content": "#2: \"Let me battle\" by 9Lana (eps 46-67)",
             "+@gid": "2625212588",
             "+@type": "Ending Theme"
         },
@@ -207,7 +213,7 @@
     ],
     "ratings": {
         "+@nb_votes": "8",
-        "+@weighted_score": "7.3613"
+        "+@weighted_score": "7.3614"
     },
     "episode": [
         {
@@ -865,9 +871,45 @@
                 "+@gid": "3037887136",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "83",
+            "title": {
+                "+content": "The Truth Revealed? Amethio's Resolve!",
+                "+@gid": "900458465",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "84",
+            "title": {
+                "+content": "The Place Where Heaven and Earth Meet",
+                "+@gid": "1968815625",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "85",
+            "title": {
+                "+content": "Arrival! The Paradise of Rakua",
+                "+@gid": "2089838294",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "86",
+            "title": {
+                "+content": "The Rising Volt Tacklers VS The Explorers!",
+                "+@gid": "1474749935",
+                "+@lang": "EN"
+            }
         }
     ],
     "review": [
+        {
+            "+content": "<cite>Pokémon Horizons: Season 2: The Search For Laqua</cite> Anime Series Review Episode 1-11",
+            "+@href": "https://www.animenewsnetwork.com/review/pokemon-horizons/season-2/the-search-for-laqua-episode-1-11/anime-series/.221114"
+        },
         {
             "+content": "<cite>Pokémon Horizons</cite> Anime Episodes 24-34 Review",
             "+@href": "https://www.animenewsnetwork.com/review/pokemon-horizons-episodes-24-34/anime-series/.214439"
@@ -1091,6 +1133,11 @@
             "+content": "Netflix Streams <cite>Pokémon Horizons</cite> Anime's 2nd Season on February 7",
             "+@datetime": "2024-11-20T16:55:37Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-11-20/netflix-streams-pokemon-horizons-anime-2nd-season-on-february-7/.218090"
+        },
+        {
+            "+content": "<cite>Pokémon Horizons: The Search for Laqua</cite> Anime's 2nd Part Premieres on April 25",
+            "+@datetime": "2025-03-03T16:40:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-03/pokemon-horizons-the-search-for-laqua-anime-2nd-part-premieres-on-april-25/.221887"
         }
     ],
     "staff": [
@@ -1655,6 +1702,14 @@
             }
         },
         {
+            "+@gid": "2627440382",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tatsuya Oka",
+                "+@id": "9494"
+            }
+        },
+        {
             "+@gid": "1963714592",
             "task": "Animation Director",
             "person": {
@@ -1724,6 +1779,14 @@
             "person": {
                 "+content": "Hiromi Sakai",
                 "+@id": "32655"
+            }
+        },
+        {
+            "+@gid": "1449102472",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jin Ah Kim",
+                "+@id": "36217"
             }
         },
         {
@@ -1935,6 +1998,14 @@
             }
         },
         {
+            "+@gid": "2055394263",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Azusa Nishimura",
+                "+@id": "115732"
+            }
+        },
+        {
             "+@gid": "3671814171",
             "task": "Animation Director",
             "person": {
@@ -1996,6 +2067,14 @@
             "person": {
                 "+content": "Min Ji Lee",
                 "+@id": "188055"
+            }
+        },
+        {
+            "+@gid": "3394492242",
+            "task": "Animation Director",
+            "person": {
+                "+content": "So Yeon Lee",
+                "+@id": "189385"
             }
         },
         {
@@ -2111,6 +2190,14 @@
             }
         },
         {
+            "+@gid": "1475983091",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yeon Jun Yu",
+                "+@id": "267876"
+            }
+        },
+        {
             "+@gid": "2640326130",
             "task": "Animation Director",
             "person": {
@@ -2140,14 +2227,6 @@
             "person": {
                 "+content": "Inseop Choe",
                 "+@id": "272706"
-            }
-        },
-        {
-            "+@gid": "1679384043",
-            "task": "Animation Director",
-            "person": {
-                "+content": "Jina Kim",
-                "+@id": "272707"
             }
         },
         {
@@ -2183,14 +2262,6 @@
             }
         },
         {
-            "+@gid": "2402696958",
-            "task": "Animation Director",
-            "person": {
-                "+content": "Sohyeon Lee",
-                "+@id": "272712"
-            }
-        },
-        {
             "+@gid": "908228539",
             "task": "Animation Director",
             "person": {
@@ -2212,14 +2283,6 @@
             "person": {
                 "+content": "Imsoo Do",
                 "+@id": "272716"
-            }
-        },
-        {
-            "+@gid": "304183933",
-            "task": "Animation Director",
-            "person": {
-                "+content": "Yeonjun YU",
-                "+@id": "272750"
             }
         },
         {
@@ -2373,6 +2436,15 @@
             "person": {
                 "+content": "Ben Diskin",
                 "+@id": "63523"
+            }
+        },
+        {
+            "+@gid": "1390355288",
+            "+@lang": "EN",
+            "role": "Floragato",
+            "person": {
+                "+content": "Kira Buckland",
+                "+@id": "70467"
             }
         },
         {
@@ -2592,12 +2664,30 @@
             }
         },
         {
+            "+@gid": "2174864281",
+            "+@lang": "ES",
+            "role": "Gibeon",
+            "person": {
+                "+content": "Nacho Aramburu",
+                "+@id": "83919"
+            }
+        },
+        {
             "+@gid": "2850701099",
             "+@lang": "ES",
             "role": "Amethio",
             "person": {
                 "+content": "Carlos Bautista",
                 "+@id": "86471"
+            }
+        },
+        {
+            "+@gid": "1603347966",
+            "+@lang": "ES",
+            "role": "Calce",
+            "person": {
+                "+content": "María Blanco",
+                "+@id": "86472"
             }
         },
         {
@@ -2646,6 +2736,15 @@
             }
         },
         {
+            "+@gid": "2446998488",
+            "+@lang": "ES",
+            "role": "Espinela",
+            "person": {
+                "+content": "Fer Delgado",
+                "+@id": "173238"
+            }
+        },
+        {
             "+@gid": "2155375632",
             "+@lang": "ES",
             "role": "Onia",
@@ -2661,6 +2760,15 @@
             "person": {
                 "+content": "Jara Luna",
                 "+@id": "182243"
+            }
+        },
+        {
+            "+@gid": "2864414826",
+            "+@lang": "ES",
+            "role": "Sidian",
+            "person": {
+                "+content": "Nacho Hijas",
+                "+@id": "182756"
             }
         },
         {
@@ -2688,6 +2796,15 @@
             "person": {
                 "+content": "Inés Alba",
                 "+@id": "263197"
+            }
+        },
+        {
+            "+@gid": "2407879568",
+            "+@lang": "FR",
+            "role": "Gibéon",
+            "person": {
+                "+content": "Jean-Marc Delhausse",
+                "+@id": "29173"
             }
         },
         {
@@ -2781,6 +2898,15 @@
             }
         },
         {
+            "+@gid": "1485597112",
+            "+@lang": "FR",
+            "role": "Anne",
+            "person": {
+                "+content": "Alayin Dubois",
+                "+@id": "134762"
+            }
+        },
+        {
             "+@gid": "2906297712",
             "+@lang": "FR",
             "role": "Corail",
@@ -2844,12 +2970,39 @@
             }
         },
         {
+            "+@gid": "2594584303",
+            "+@lang": "FR",
+            "role": "Menzi",
+            "person": {
+                "+content": "Fanny Dreiss",
+                "+@id": "186362"
+            }
+        },
+        {
             "+@gid": "2228493898",
             "+@lang": "FR",
             "role": "Rhod",
             "person": {
                 "+content": "Julia Kaye",
                 "+@id": "192256"
+            }
+        },
+        {
+            "+@gid": "1270746271",
+            "+@lang": "FR",
+            "role": "Alisma",
+            "person": {
+                "+content": "Lenaïc Brulé",
+                "+@id": "198276"
+            }
+        },
+        {
+            "+@gid": "2865502632",
+            "+@lang": "FR",
+            "role": "Okuba",
+            "person": {
+                "+content": "Laurent Renard",
+                "+@id": "200571"
             }
         },
         {
@@ -3057,6 +3210,15 @@
             "person": {
                 "+content": "Kiri Yoshizawa",
                 "+@id": "24582"
+            }
+        },
+        {
+            "+@gid": "1785478915",
+            "+@lang": "JA",
+            "role": "Pagogo",
+            "person": {
+                "+content": "Yuka Terasaki",
+                "+@id": "40048"
             }
         },
         {
@@ -3454,6 +3616,6 @@
         }
     ],
     "+@date-added": "2022-12-16T07:12:04Z",
-    "+@date-last-modified-at": "2025-02-02T19:23:06Z",
-    "+@date-last-updated-at": "2025-02-02T19:23:06Z"
+    "+@date-last-modified-at": "2025-03-04T20:30:59Z",
+    "+@date-last-updated-at": "2025-03-04T20:30:59Z"
 }
