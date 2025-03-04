@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Dragon Ball Daima",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-02T12:45:57Z",
+    "+@generated-on": "2025-03-04T12:53:34Z",
     "related-prev": [
         {
             "+@rel": "side story of",
@@ -78,8 +78,13 @@
             "+@type": "Running time"
         },
         {
-            "+content": "2024-10-11",
-            "+@gid": "1712868940",
+            "+content": "20",
+            "+@gid": "2469699304",
+            "+@type": "Number of episodes"
+        },
+        {
+            "+content": "2024-10-11 to 2025-02-28",
+            "+@gid": "2263122281",
             "+@type": "Vintage"
         },
         {
@@ -88,13 +93,23 @@
             "+@type": "Opening Theme"
         },
         {
-            "+content": "#1: \"Jaka Jaan\" (ジャカ☆ジャ～ン) by Zedd feat. C&K. (ep 1)",
+            "+content": "\"Jaka Jaan\" (ジャカ☆ジャ～ン) by Zedd ft. C&K (eps 2-19)",
+            "+@gid": "2993919088",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "#1: \"Jaka Jaan\" (ジャカ☆ジャ～ン) by Zedd feat. C&K. (eps 1, 20)",
             "+@gid": "3019454524",
             "+@type": "Ending Theme"
         },
         {
             "+content": "#2: \"NAKAMA\" by Zedd ft. AI",
             "+@gid": "2022245235",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#2: \"NAKAMA\" by Zedd ft. AI (eps 2-19)",
+            "+@gid": "2780336022",
             "+@type": "Ending Theme"
         },
         {
@@ -113,8 +128,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "11",
-        "+@weighted_score": "6.5598"
+        "+@nb_votes": "31",
+        "+@weighted_score": "6.9759",
+        "+@bayesian_score": "7.12381"
     },
     "episode": [
         {
@@ -250,6 +266,30 @@
             "title": {
                 "+content": "Gomah",
                 "+@gid": "2372363079",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "18",
+            "title": {
+                "+content": "Awakening",
+                "+@gid": "1922440516",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "19",
+            "title": {
+                "+content": "Betrayal",
+                "+@gid": "3151082151",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "20",
+            "title": {
+                "+content": "Maximum",
+                "+@gid": "3088678127",
                 "+@lang": "EN"
             }
         }
@@ -439,6 +479,16 @@
             "+content": "Japanese Animation TV Ranking, January 20-26",
             "+@datetime": "2025-02-01T16:15:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-02-01/japanese-animation-tv-ranking-january-20-26/.220635"
+        },
+        {
+            "+content": "<cite>Dragon Ball Daima</cite> Anime Ends on February 28, Streams Climax Trailer",
+            "+@datetime": "2025-02-07T16:19:04Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-07/dragon-ball-daima-anime-ends-on-february-28-streams-climax-trailer/.220969"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, February 10-16",
+            "+@datetime": "2025-02-22T16:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-22/japanese-animation-tv-ranking-february-10-16/.221488"
         }
     ],
     "staff": [
@@ -667,6 +717,14 @@
             }
         },
         {
+            "+@gid": "1875844140",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Katsuyoshi Nakatsuru",
+                "+@id": "4041"
+            }
+        },
+        {
             "+@gid": "1457826334",
             "task": "Chief Animation Director",
             "person": {
@@ -680,6 +738,14 @@
             "person": {
                 "+content": "Kozue Komatsu",
                 "+@id": "4115"
+            }
+        },
+        {
+            "+@gid": "2438409218",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Tadayoshi Yamamuro",
+                "+@id": "13935"
             }
         },
         {
@@ -800,6 +866,14 @@
             "person": {
                 "+content": "Hiromi Ishigami",
                 "+@id": "57055"
+            }
+        },
+        {
+            "+@gid": "2280684840",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūya Takahashi",
+                "+@id": "72184"
             }
         },
         {
@@ -942,6 +1016,69 @@
             }
         },
         {
+            "+@gid": "2090276505",
+            "+@lang": "EN",
+            "role": "Vegeta",
+            "person": {
+                "+content": "Christopher R. Sabat",
+                "+@id": "1125"
+            }
+        },
+        {
+            "+@gid": "1233226931",
+            "+@lang": "EN",
+            "role": "Son Goku",
+            "person": {
+                "+content": "Sean Schemmel",
+                "+@id": "1126"
+            }
+        },
+        {
+            "+@gid": "2129867545",
+            "+@lang": "EN",
+            "role": "Supreme Kai",
+            "person": {
+                "+content": "Kent Williams",
+                "+@id": "1131"
+            }
+        },
+        {
+            "+@gid": "2150236167",
+            "+@lang": "EN",
+            "role": "Piccolo",
+            "person": {
+                "+content": "Christopher R. Sabat",
+                "+@id": "1386"
+            }
+        },
+        {
+            "+@gid": "2496301712",
+            "+@lang": "EN",
+            "role": "Vegeta",
+            "person": {
+                "+content": "Christopher R. Sabat",
+                "+@id": "1386"
+            }
+        },
+        {
+            "+@gid": "3743176787",
+            "+@lang": "EN",
+            "role": "Dende",
+            "person": {
+                "+content": "Justin Cook",
+                "+@id": "1407"
+            }
+        },
+        {
+            "+@gid": "1761962318",
+            "+@lang": "EN",
+            "role": "Bulma",
+            "person": {
+                "+content": "Monica Rial",
+                "+@id": "2074"
+            }
+        },
+        {
             "+@gid": "3794855339",
             "+@lang": "EN",
             "role": "Neva",
@@ -960,12 +1097,30 @@
             }
         },
         {
+            "+@gid": "1642888960",
+            "+@lang": "EN",
+            "role": "Hybis",
+            "person": {
+                "+content": "Kristin Sutton",
+                "+@id": "72170"
+            }
+        },
+        {
             "+@gid": "2312357475",
             "+@lang": "EN",
             "role": "Narrator",
             "person": {
                 "+content": "Doc Morgan",
                 "+@id": "86399"
+            }
+        },
+        {
+            "+@gid": "1588834794",
+            "+@lang": "EN",
+            "role": "King Kadan",
+            "person": {
+                "+content": "Major Attaway",
+                "+@id": "130212"
             }
         },
         {
@@ -996,6 +1151,15 @@
             }
         },
         {
+            "+@gid": "2897340918",
+            "+@lang": "EN",
+            "role": "Tamagami #3",
+            "person": {
+                "+content": "Matthew David Rudd",
+                "+@id": "187135"
+            }
+        },
+        {
             "+@gid": "2138223710",
             "+@lang": "EN",
             "role": "Vegeta",
@@ -1011,6 +1175,15 @@
             "person": {
                 "+content": "Tom Laflin",
                 "+@id": "208489"
+            }
+        },
+        {
+            "+@gid": "2406826143",
+            "+@lang": "EN",
+            "role": "Panzy",
+            "person": {
+                "+content": "Veronica Laux",
+                "+@id": "223154"
             }
         },
         {
@@ -1059,6 +1232,24 @@
             }
         },
         {
+            "+@gid": "2102278952",
+            "+@lang": "ES",
+            "role": "Bulma",
+            "person": {
+                "+content": "Rocio Garcel",
+                "+@id": "23481"
+            }
+        },
+        {
+            "+@gid": "1793547729",
+            "+@lang": "ES",
+            "role": "Vegeta",
+            "person": {
+                "+content": "Rene Garcia",
+                "+@id": "23487"
+            }
+        },
+        {
             "+@gid": "2285401954",
             "+@lang": "ES",
             "role": "Vegeta (Mini)",
@@ -1092,6 +1283,15 @@
             "person": {
                 "+content": "Jessica Angeles",
                 "+@id": "36810"
+            }
+        },
+        {
+            "+@gid": "1517005335",
+            "+@lang": "ES",
+            "role": "Dende",
+            "person": {
+                "+content": "Javier Olguín",
+                "+@id": "50673"
             }
         },
         {
@@ -1176,6 +1376,15 @@
             }
         },
         {
+            "+@gid": "1463115673",
+            "+@lang": "JA",
+            "role": "Bulma",
+            "person": {
+                "+content": "Aya Hisakawa",
+                "+@id": "503"
+            }
+        },
+        {
             "+@gid": "1168034635",
             "+@lang": "JA",
             "role": "Son Gokū",
@@ -1191,6 +1400,24 @@
             "person": {
                 "+content": "Tomokazu Seki",
                 "+@id": "529"
+            }
+        },
+        {
+            "+@gid": "1360728419",
+            "+@lang": "JA",
+            "role": "Piccolo",
+            "person": {
+                "+content": "Toshio Furukawa",
+                "+@id": "1011"
+            }
+        },
+        {
+            "+@gid": "2723022751",
+            "+@lang": "JA",
+            "role": "Vegeta",
+            "person": {
+                "+content": "Ryō Horikawa",
+                "+@id": "1104"
             }
         },
         {
@@ -1227,6 +1454,24 @@
             "person": {
                 "+content": "Naoki Tatsuta",
                 "+@id": "3075"
+            }
+        },
+        {
+            "+@gid": "1526717835",
+            "+@lang": "JA",
+            "role": "East Kaiōshin Nahare",
+            "person": {
+                "+content": "Shinichirō Ōta",
+                "+@id": "3105"
+            }
+        },
+        {
+            "+@gid": "1745489035",
+            "+@lang": "JA",
+            "role": "Dende",
+            "person": {
+                "+content": "Aya Hirano",
+                "+@id": "6581"
             }
         },
         {
@@ -1356,6 +1601,6 @@
         }
     },
     "+@date-added": "2023-10-12T20:09:15Z",
-    "+@date-last-modified-at": "2025-02-02T12:45:59Z",
-    "+@date-last-updated-at": "2025-02-02T12:45:59Z"
+    "+@date-last-modified-at": "2025-03-04T12:53:38Z",
+    "+@date-last-updated-at": "2025-03-04T12:53:38Z"
 }
