@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Wonderful Precure! The Movie!",
     "+@precision": "movie",
-    "+@generated-on": "2025-02-02T08:31:09Z",
+    "+@generated-on": "2025-03-04T08:34:45Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "30897"
@@ -72,6 +72,11 @@
             "+content": "magical girl",
             "+@gid": "3731738250",
             "+@type": "Themes"
+        },
+        {
+            "+content": "70",
+            "+@gid": "2977817811",
+            "+@type": "Running time"
         },
         {
             "+content": "2024-09-13",
@@ -429,6 +434,15 @@
             }
         },
         {
+            "+@gid": "1981747883",
+            "+@lang": "JA",
+            "role": "Niko",
+            "person": {
+                "+content": "Kana Ueda",
+                "+@id": "1568"
+            }
+        },
+        {
             "+@gid": "1400650939",
             "+@lang": "JA",
             "role": "Mofurun",
@@ -566,7 +580,7 @@
         {
             "+@gid": "1493978785",
             "+@lang": "JA",
-            "role": "Princess Ellee / Cure Majesty",
+            "role": "Ellee / Cure Majesty",
             "person": {
                 "+content": "Aoi Koga",
                 "+@id": "140695"
@@ -600,15 +614,65 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2154430103",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Toei Animation",
-            "+@id": "145"
+    "credit": [
+        {
+            "+@gid": "2154430103",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Toei Animation",
+                "+@id": "145"
+            }
+        },
+        {
+            "+@gid": "1792713779",
+            "task": "Production",
+            "company": {
+                "+content": "Toei Animation",
+                "+@id": "145"
+            }
+        },
+        {
+            "+@gid": "1243797081",
+            "task": "Production",
+            "company": {
+                "+content": "Toei Company, Ltd.",
+                "+@id": "3269"
+            }
+        },
+        {
+            "+@gid": "3227038043",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Co., Ltd.",
+                "+@id": "3520"
+            }
+        },
+        {
+            "+@gid": "2211026740",
+            "task": "Production",
+            "company": {
+                "+content": "Marvelous AQL",
+                "+@id": "10523"
+            }
+        },
+        {
+            "+@gid": "2569829896",
+            "task": "Production",
+            "company": {
+                "+content": "ABC Animation",
+                "+@id": "14887"
+            }
+        },
+        {
+            "+@gid": "1222451223",
+            "task": "Production",
+            "company": {
+                "+content": "ADK Emotions",
+                "+@id": "19060"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-03-17T04:40:02Z",
-    "+@date-last-modified-at": "2025-02-02T08:31:17Z",
-    "+@date-last-updated-at": "2025-02-02T08:31:17Z"
+    "+@date-last-modified-at": "2025-03-04T08:34:48Z",
+    "+@date-last-updated-at": "2025-03-04T08:34:48Z"
 }
