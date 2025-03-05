@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Grisaia: Phantom Trigger the Animation",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-03T05:30:35Z",
+    "+@generated-on": "2025-03-05T06:40:14Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "21126"
@@ -68,6 +68,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "thriller",
+            "+@gid": "869846307",
+            "+@type": "Genres"
+        },
+        {
             "+content": "assassins",
             "+@gid": "1793245933",
             "+@type": "Themes"
@@ -108,7 +113,12 @@
             "+@type": "Themes"
         },
         {
-            "+content": "TA",
+            "+content": "tragedy",
+            "+@gid": "3350374370",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "MA",
             "+@gid": "2985744617",
             "+@type": "Objectionable content"
         },
@@ -146,8 +156,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "5.9989"
+        "+@nb_votes": "5",
+        "+@weighted_score": "7.0541"
     },
     "news": [
         {
@@ -179,6 +189,11 @@
             "+content": "Crunchyroll Announces Release Schedule for Winter 2025 Season",
             "+@datetime": "2024-12-13T18:27:23Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-13/crunchyroll-announces-release-schedule-for-winter-2025-season/.219009"
+        },
+        {
+            "+content": "<cite>Grisaia: Phantom Trigger</cite> Anime Reveals 3 New Cast",
+            "+@datetime": "2025-02-03T11:34:26Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-03/grisaia-phantom-trigger-anime-reveals-3-new-cast/.220790"
         }
     ],
     "staff": [
@@ -314,6 +329,24 @@
             }
         },
         {
+            "+@gid": "4056016729",
+            "+@lang": "JA",
+            "role": "Enishi Urushihara",
+            "person": {
+                "+content": "Kenji Hamada",
+                "+@id": "798"
+            }
+        },
+        {
+            "+@gid": "1203185585",
+            "+@lang": "JA",
+            "role": "Aoi Aoi",
+            "person": {
+                "+content": "Ami Koshimizu",
+                "+@id": "17254"
+            }
+        },
+        {
             "+@gid": "3224369962",
             "+@lang": "JA",
             "role": "Thanatos",
@@ -386,6 +419,15 @@
             }
         },
         {
+            "+@gid": "1081490513",
+            "+@lang": "JA",
+            "role": "Kuroe Samejima",
+            "person": {
+                "+content": "Ai Kakuma",
+                "+@id": "109103"
+            }
+        },
+        {
             "+@gid": "1681273296",
             "+@lang": "JA",
             "role": "Murasaki Ikoma",
@@ -432,6 +474,6 @@
         }
     ],
     "+@date-added": "2022-02-24T22:00:53Z",
-    "+@date-last-modified-at": "2025-02-03T05:30:42Z",
-    "+@date-last-updated-at": "2025-02-03T05:30:42Z"
+    "+@date-last-modified-at": "2025-03-05T06:40:25Z",
+    "+@date-last-updated-at": "2025-03-05T06:40:25Z"
 }
