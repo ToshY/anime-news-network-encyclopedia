@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Laid-Back Camp The Movie",
     "+@precision": "movie",
-    "+@generated-on": "2025-02-03T16:35:15Z",
+    "+@generated-on": "2025-03-05T17:31:07Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "23780"
@@ -84,9 +84,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "65",
-        "+@weighted_score": "8.2105",
-        "+@bayesian_score": "8.08818"
+        "+@nb_votes": "66",
+        "+@weighted_score": "8.1745",
+        "+@bayesian_score": "8.05966"
     },
     "review": {
         "+content": "Laid-Back Camp Movie",
@@ -559,12 +559,30 @@
     ],
     "cast": [
         {
+            "+@gid": "2664590680",
+            "+@lang": "JA",
+            "role": "Sakura Kagamihara",
+            "person": {
+                "+content": "Marina Inoue",
+                "+@id": "20999"
+            }
+        },
+        {
             "+@gid": "1473441843",
             "+@lang": "JA",
             "role": "Aoi Inuyama",
             "person": {
                 "+content": "Aki Toyosaki",
                 "+@id": "62870"
+            }
+        },
+        {
+            "+@gid": "611132329",
+            "+@lang": "JA",
+            "role": "Ayano Toki",
+            "person": {
+                "+content": "Tomoyo Kurosawa",
+                "+@id": "86495"
             }
         },
         {
@@ -601,6 +619,24 @@
             "person": {
                 "+content": "Rie Takahashi",
                 "+@id": "126148"
+            }
+        },
+        {
+            "+@gid": "2097028766",
+            "+@lang": "JA",
+            "role": "Akari Inuyama",
+            "person": {
+                "+content": "Risae Matsuda",
+                "+@id": "136079"
+            }
+        },
+        {
+            "+@gid": "2984272888",
+            "+@lang": "JA",
+            "role": "Minami Toba",
+            "person": {
+                "+content": "Shizuka Itō",
+                "+@id": "249200"
             }
         }
     ],
@@ -687,6 +723,6 @@
         }
     ],
     "+@date-added": "2021-04-01T01:40:24Z",
-    "+@date-last-modified-at": "2025-02-03T16:35:18Z",
-    "+@date-last-updated-at": "2025-02-03T16:35:18Z"
+    "+@date-last-modified-at": "2025-03-05T17:31:17Z",
+    "+@date-last-updated-at": "2025-03-05T17:31:17Z"
 }
