@@ -4,15 +4,21 @@
     "+@type": "TV",
     "+@name": "Bocchi the Rock!",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-03T18:19:01Z",
+    "+@generated-on": "2025-03-05T19:25:06Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24061"
     },
-    "related-next": {
-        "+@id": "28305",
-        "+@rel": "compilation"
-    },
+    "related-next": [
+        {
+            "+@id": "28305",
+            "+@rel": "compilation"
+        },
+        {
+            "+@id": "34685",
+            "+@rel": "sequel"
+        }
+    ],
     "info": [
         {
             "+@gid": "2313529355",
@@ -136,9 +142,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "491",
-        "+@weighted_score": "8.4209",
-        "+@bayesian_score": "8.39654"
+        "+@nb_votes": "493",
+        "+@weighted_score": "8.4176",
+        "+@bayesian_score": "8.39342"
     },
     "episode": [
         {
@@ -852,6 +858,6 @@
         }
     },
     "+@date-added": "2021-02-18T17:03:13Z",
-    "+@date-last-modified-at": "2025-02-03T18:35:22Z",
-    "+@date-last-updated-at": "2025-02-03T18:35:22Z"
+    "+@date-last-modified-at": "2025-03-05T19:25:08Z",
+    "+@date-last-updated-at": "2025-03-05T19:25:08Z"
 }
