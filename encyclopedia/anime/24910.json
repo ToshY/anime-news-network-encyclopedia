@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "Birdie Wing -Golf Girls' Story-",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-03T09:30:07Z",
-    "related-next": {
-        "+@id": "25939",
-        "+@rel": "sequel"
-    },
+    "+@generated-on": "2025-03-05T10:35:07Z",
+    "related-next": [
+        {
+            "+@id": "25939",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "34665",
+            "+@rel": "spinoff"
+        }
+    ],
     "info": [
         {
             "+@gid": "2759445124",
@@ -82,7 +88,7 @@
     "ratings": {
         "+@nb_votes": "211",
         "+@weighted_score": "7.8113",
-        "+@bayesian_score": "7.79188"
+        "+@bayesian_score": "7.79187"
     },
     "episode": [
         {
@@ -235,6 +241,11 @@
             "+content": "<cite>Birdie Wing -Golf Girls' Story- Golf Venus</cite> Game App's Release Put on Hold",
             "+@datetime": "2024-09-03T01:23:40Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-09-02/birdie-wing-golf-girls-story-golf-venus-game-app-release-put-on-hold/.215055"
+        },
+        {
+            "+content": "<cite>Sorairo Utility</cite>, <cite>Birdie Wing</cite> Get Crossover Mini-Anime",
+            "+@datetime": "2025-02-12T21:05:30Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-12/sorairo-utility-birdie-wing-get-crossover-mini-anime/.221141"
         }
     ],
     "staff": [
@@ -939,6 +950,6 @@
         }
     },
     "+@date-added": "2021-10-28T01:03:09Z",
-    "+@date-last-modified-at": "2025-02-03T09:30:09Z",
-    "+@date-last-updated-at": "2025-02-03T09:30:09Z"
+    "+@date-last-modified-at": "2025-03-05T10:35:10Z",
+    "+@date-last-updated-at": "2025-03-05T10:35:10Z"
 }
