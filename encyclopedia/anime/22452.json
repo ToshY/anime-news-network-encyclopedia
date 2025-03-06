@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "ViVid Strike!",
     "+@precision": "OAV",
-    "+@generated-on": "2025-02-04T12:51:47Z",
+    "+@generated-on": "2025-03-06T13:34:35Z",
     "related-prev": {
         "+@rel": "side story of",
         "+@id": "18664"
@@ -66,8 +66,24 @@
             "+@type": "Objectionable content"
         },
         {
-            "+content": "2017-01-25",
+            "+content": "2017-01-25 to 2017-03-29",
+            "+@gid": "1369163527",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Future Strike\" by Yui Ogura (ep 13)",
+            "+@gid": "2756397242",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Starry Wish\" by Inori Minase (ep 13)",
+            "+@gid": "681233451",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Ashite e no Kaze\" (明日への風) by Inori Minase (ep 13)",
+            "+@gid": "2191727621",
+            "+@type": "Insert song"
         },
         {
             "+content": "\"Ashite e no Kaze\" by Inori Minase",
@@ -78,19 +94,106 @@
             "+content": "\"Shiny Sky Memories\" by Yui Ogura",
             "+@gid": "2841840158",
             "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Shiny Sky Memories\" by Yui Ogura (ep 13)",
+            "+@gid": "3199909236",
+            "+@type": "Insert song"
         }
     ],
     "ratings": {
         "+@nb_votes": "7",
         "+@weighted_score": "6.3369"
     },
+    "episode": [
+        {
+            "+@num": "5.5",
+            "title": {
+                "+content": "Mixed Magical Battle",
+                "+@gid": "2114740237",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5.75",
+            "title": {
+                "+content": "Watchful Eyes",
+                "+@gid": "2114807448",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "Summer Time Vacation",
+                "+@gid": "1967272200",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "1783553578",
+            "task": "Director",
+            "person": {
+                "+content": "Junji Nishimura",
+                "+@id": "58"
+            }
+        },
         {
             "+@gid": "1587090133",
             "task": "Director",
             "person": {
                 "+content": "Taichi Atarashi",
                 "+@id": "185404"
+            }
+        },
+        {
+            "+@gid": "3454028654",
+            "task": "Script",
+            "person": {
+                "+content": "Masaki Tsuzuki",
+                "+@id": "49383"
+            }
+        },
+        {
+            "+@gid": "2193862816",
+            "task": "Music",
+            "person": {
+                "+content": "Yoichiro Yoshikawa",
+                "+@id": "3085"
+            }
+        },
+        {
+            "+@gid": "2244733066",
+            "task": "Original Work",
+            "person": {
+                "+content": "Masaki Tsuzuki",
+                "+@id": "49383"
+            }
+        },
+        {
+            "+@gid": "2327788956",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Takuya Fujima",
+                "+@id": "19723"
+            }
+        },
+        {
+            "+@gid": "1128684333",
+            "task": "Character Design",
+            "person": {
+                "+content": "Mariko Ito",
+                "+@id": "47468"
+            }
+        },
+        {
+            "+@gid": "2171791437",
+            "task": "Art Director",
+            "person": {
+                "+content": "Scott MacDonald",
+                "+@id": "121904"
             }
         },
         {
@@ -102,11 +205,75 @@
             }
         },
         {
+            "+@gid": "2463134776",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Issei Aragaki",
+                "+@id": "78849"
+            }
+        },
+        {
             "+@gid": "2878552206",
             "task": "Animation Director",
             "person": {
                 "+content": "Hiroaki Ikeda",
                 "+@id": "40593"
+            }
+        },
+        {
+            "+@gid": "1629185592",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Chikako Yokota",
+                "+@id": "102801"
+            }
+        },
+        {
+            "+@gid": "3523250117",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Tadashi Kitaoka",
+                "+@id": "25727"
+            }
+        },
+        {
+            "+@gid": "2877381388",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Osamu Uemura",
+                "+@id": "4679"
+            }
+        },
+        {
+            "+@gid": "3558922842",
+            "task": "Producer",
+            "person": {
+                "+content": "Hiromasa Kuroki",
+                "+@id": "84757"
+            }
+        },
+        {
+            "+@gid": "1748477233",
+            "task": "Producer",
+            "person": {
+                "+content": "Jun Fukuda",
+                "+@id": "107824"
+            }
+        },
+        {
+            "+@gid": "1385779634",
+            "task": "Producer",
+            "person": {
+                "+content": "Ken'ichi Iguchi",
+                "+@id": "154137"
+            }
+        },
+        {
+            "+@gid": "2477751638",
+            "task": "Producer",
+            "person": {
+                "+content": "Tomohiro Arai",
+                "+@id": "180618"
             }
         }
     ],
@@ -119,15 +286,49 @@
             "+@id": "95027"
         }
     },
-    "credit": {
-        "+@gid": "3295800838",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Seven Arcs Pictures",
-            "+@id": "11703"
+    "credit": [
+        {
+            "+@gid": "3295800838",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Seven Arcs Pictures",
+                "+@id": "11703"
+            }
+        },
+        {
+            "+@gid": "3214495689",
+            "task": "Production",
+            "company": {
+                "+content": "King Records",
+                "+@id": "85"
+            }
+        },
+        {
+            "+@gid": "3365367686",
+            "task": "Production",
+            "company": {
+                "+content": "The Klockworx Co., Ltd.",
+                "+@id": "614"
+            }
+        },
+        {
+            "+@gid": "609645331",
+            "task": "Production",
+            "company": {
+                "+content": "Seven Arcs",
+                "+@id": "4493"
+            }
+        },
+        {
+            "+@gid": "3342066323",
+            "task": "Production",
+            "company": {
+                "+content": "Sony Music Communications",
+                "+@id": "9786"
+            }
         }
-    },
+    ],
     "+@date-added": "2019-08-22T18:33:38Z",
-    "+@date-last-modified-at": "2025-02-04T12:51:48Z",
-    "+@date-last-updated-at": "2025-02-04T12:51:48Z"
+    "+@date-last-modified-at": "2025-03-06T13:34:36Z",
+    "+@date-last-updated-at": "2025-03-06T13:34:36Z"
 }
