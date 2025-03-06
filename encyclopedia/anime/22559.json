@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Pokémon Journeys: The Series",
     "+@precision": "TV 2019",
-    "+@generated-on": "2025-02-04T11:24:58Z",
+    "+@generated-on": "2025-03-06T12:54:02Z",
     "related-prev": [
         {
             "+@rel": "sequel of",
@@ -174,6 +174,11 @@
             "+@type": "Objectionable content"
         },
         {
+            "+content": "136",
+            "+@gid": "814078208",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2019-11-17",
             "+@gid": "3884181369",
             "+@type": "Vintage"
@@ -263,8 +268,8 @@
     ],
     "ratings": {
         "+@nb_votes": "17",
-        "+@weighted_score": "7.0889",
-        "+@bayesian_score": "7.2569"
+        "+@weighted_score": "7.0888",
+        "+@bayesian_score": "7.25685"
     },
     "episode": [
         {
@@ -2214,11 +2219,27 @@
             }
         },
         {
+            "+@gid": "2133863440",
+            "task": "3D Director",
+            "person": {
+                "+content": "Tetsuya Kubota",
+                "+@id": "95538"
+            }
+        },
+        {
             "+@gid": "2432057917",
             "task": "Sound Director",
             "person": {
                 "+content": "Masafumi Mima",
                 "+@id": "317"
+            }
+        },
+        {
+            "+@gid": "1622001645",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Ryota Itoh",
+                "+@id": "156318"
             }
         },
         {
@@ -3592,6 +3613,6 @@
         }
     ],
     "+@date-added": "2019-10-11T13:31:56Z",
-    "+@date-last-modified-at": "2025-02-04T11:25:02Z",
-    "+@date-last-updated-at": "2025-02-04T11:25:02Z"
+    "+@date-last-modified-at": "2025-03-06T12:54:04Z",
+    "+@date-last-updated-at": "2025-03-06T12:54:04Z"
 }
