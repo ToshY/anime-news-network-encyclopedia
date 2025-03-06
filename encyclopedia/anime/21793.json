@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "Kiratto Pri☆Chan",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-02-04T18:36:19Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "20580"
-    },
+    "+@generated-on": "2025-03-06T19:24:40Z",
+    "related-prev": [
+        {
+            "+@rel": "sequel of",
+            "+@id": "20580"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "34715"
+        }
+    ],
     "related-next": {
         "+@id": "23131",
         "+@rel": "sequel"
@@ -111,7 +117,7 @@
     ],
     "ratings": {
         "+@nb_votes": "2",
-        "+@weighted_score": "7.3036"
+        "+@weighted_score": "7.3035"
     },
     "news": [
         {
@@ -370,7 +376,7 @@
             "+@gid": "3574644132",
             "task": "Storyboard",
             "person": {
-                "+content": "Jeon Byung Cheol",
+                "+content": "Byung Chul Jeon",
                 "+@id": "126762"
             }
         },
@@ -696,6 +702,6 @@
         }
     ],
     "+@date-added": "2019-02-11T01:35:20Z",
-    "+@date-last-modified-at": "2025-02-04T18:36:21Z",
-    "+@date-last-updated-at": "2025-02-04T18:36:21Z"
+    "+@date-last-modified-at": "2025-03-06T19:24:41Z",
+    "+@date-last-updated-at": "2025-03-06T19:24:41Z"
 }
