@@ -4,11 +4,17 @@
     "+@type": "movie",
     "+@name": "PriPara & Kiratto Pri☆Chan: Kira Kira Memorial Live",
     "+@precision": "movie",
-    "+@generated-on": "2025-02-04T22:31:16Z",
-    "related-prev": {
-        "+@rel": "related to",
-        "+@id": "20580"
-    },
+    "+@generated-on": "2025-03-06T23:28:24Z",
+    "related-prev": [
+        {
+            "+@rel": "related to",
+            "+@id": "20580"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "34715"
+        }
+    ],
     "info": [
         {
             "+@gid": "1135942936",
@@ -82,6 +88,11 @@
     "ratings": {
         "+@nb_votes": "1",
         "+@weighted_score": "5"
+    },
+    "news": {
+        "+content": "'Pretty' Shōjo Idol Franchise Crossover Film Reveals Trailer, Theme Song",
+        "+@datetime": "2018-04-05T13:30:00Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2018-04-05/pretty-shojo-idol-franchise-crossover-film-reveals-trailer-theme-song/.129992"
     },
     "staff": [
         {
@@ -184,6 +195,6 @@
         }
     },
     "+@date-added": "2018-05-10T23:53:39Z",
-    "+@date-last-modified-at": "2025-02-04T22:31:19Z",
-    "+@date-last-updated-at": "2025-02-04T22:31:19Z"
+    "+@date-last-modified-at": "2025-03-06T23:28:26Z",
+    "+@date-last-updated-at": "2025-03-06T23:28:26Z"
 }
