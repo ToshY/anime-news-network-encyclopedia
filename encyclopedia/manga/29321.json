@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "133cm no Keshiki",
     "+@precision": "manga",
-    "+@generated-on": "2025-02-05T16:37:27Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "19645"
-    },
+    "+@generated-on": "2025-03-07T17:29:46Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "19645"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "26633"
+        }
+    ],
     "info": [
         {
             "+@gid": "1711624388",
@@ -63,9 +69,21 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "2023-05-19 (serialized in Monthly Comic Bunch, Jul 2023)",
+            "+content": "2023-05-19 to 2024-03-21 (Monthly Comic Bunch, Jul 2023 - May 2024)",
             "+@gid": "1501544400",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2024-06-14 (serialized on Comic Bunch Kai / Kurage Bunch)",
+            "+@gid": "2402315145",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "133cmの景色 - ひるのつき子 / 第0話 | コミックバンチKai",
+            "+@gid": "2108786757",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://kuragebunch.com/episode/14079602755061194064"
         }
     ],
     "staff": {
@@ -77,6 +95,6 @@
         }
     },
     "+@date-added": "2023-08-07T15:16:29Z",
-    "+@date-last-modified-at": "2025-02-05T16:37:28Z",
-    "+@date-last-updated-at": "2025-02-05T16:37:28Z"
+    "+@date-last-modified-at": "2025-03-07T17:29:47Z",
+    "+@date-last-updated-at": "2025-03-07T17:29:47Z"
 }

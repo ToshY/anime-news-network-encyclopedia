@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Blue Exorcist: Kyoto Saga",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-05T15:31:19Z",
+    "+@generated-on": "2025-03-07T17:29:44Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "12210"
@@ -128,9 +128,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "332",
-        "+@weighted_score": "7.4309",
-        "+@bayesian_score": "7.43262"
+        "+@nb_votes": "333",
+        "+@weighted_score": "7.4294",
+        "+@bayesian_score": "7.43117"
     },
     "episode": [
         {
@@ -1078,9 +1078,18 @@
             }
         },
         {
+            "+@gid": "2711102935",
+            "+@lang": "FR",
+            "role": "Juzô Shima",
+            "person": {
+                "+content": "Yann Pichon",
+                "+@id": "28734"
+            }
+        },
+        {
             "+@gid": "1478896895",
             "+@lang": "FR",
-            "role": "Renzo Shima",
+            "role": "Renzô Shima",
             "person": {
                 "+content": "Yann Pichon",
                 "+@id": "28734"
@@ -1186,9 +1195,36 @@
             }
         },
         {
+            "+@gid": "2664155831",
+            "+@lang": "FR",
+            "role": "Tatsuma Suguro",
+            "person": {
+                "+content": "Jean-Pierre Leblan",
+                "+@id": "68126"
+            }
+        },
+        {
+            "+@gid": "3228880029",
+            "+@lang": "FR",
+            "role": "Kinzô Shima",
+            "person": {
+                "+content": "Christophe Seugnet",
+                "+@id": "81516"
+            }
+        },
+        {
             "+@gid": "1842093858",
             "+@lang": "FR",
             "role": "Ryuji Suguro",
+            "person": {
+                "+content": "Christophe Seugnet",
+                "+@id": "81516"
+            }
+        },
+        {
+            "+@gid": "854520799",
+            "+@lang": "FR",
+            "role": "Uwabami Hojo",
             "person": {
                 "+content": "Christophe Seugnet",
                 "+@id": "81516"
@@ -1216,6 +1252,15 @@
             "+@gid": "2275559418",
             "+@lang": "FR",
             "role": "Izumo Kamiki",
+            "person": {
+                "+content": "Estelle Darazi",
+                "+@id": "169128"
+            }
+        },
+        {
+            "+@gid": "2545326473",
+            "+@lang": "FR",
+            "role": "Torako Suguro",
             "person": {
                 "+content": "Estelle Darazi",
                 "+@id": "169128"
@@ -1428,6 +1473,6 @@
         }
     ],
     "+@date-added": "2016-07-04T11:51:58Z",
-    "+@date-last-modified-at": "2025-02-05T15:31:20Z",
-    "+@date-last-updated-at": "2025-02-05T15:31:20Z"
+    "+@date-last-modified-at": "2025-03-07T17:29:48Z",
+    "+@date-last-updated-at": "2025-03-07T17:29:48Z"
 }
