@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "Kiratto Pri☆Chan",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-05T02:55:31Z",
-    "related-prev": {
-        "+@rel": "spinoff of",
-        "+@id": "15916"
-    },
+    "+@generated-on": "2025-03-07T03:40:56Z",
+    "related-prev": [
+        {
+            "+@rel": "spinoff of",
+            "+@id": "15916"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "34715"
+        }
+    ],
     "related-next": [
         {
             "+@id": "20902",
@@ -111,7 +117,7 @@
     ],
     "ratings": {
         "+@nb_votes": "2",
-        "+@weighted_score": "7.3036"
+        "+@weighted_score": "7.3035"
     },
     "review": {
         "+content": "Kiratto Pri☆Chan 1-12",
@@ -390,7 +396,7 @@
             "+@gid": "3207702268",
             "task": "Storyboard",
             "person": {
-                "+content": "Jeon Byung Cheol",
+                "+content": "Byung Chul Jeon",
                 "+@id": "126762"
             }
         },
@@ -526,7 +532,7 @@
             "+@gid": "3178677195",
             "task": "Episode Director",
             "person": {
-                "+content": "Jeon Byung Cheol",
+                "+content": "Byung Chul Jeon",
                 "+@id": "126762"
             }
         },
@@ -858,6 +864,6 @@
         }
     ],
     "+@date-added": "2018-01-24T17:07:32Z",
-    "+@date-last-modified-at": "2025-02-05T02:55:35Z",
-    "+@date-last-updated-at": "2025-02-05T02:55:35Z"
+    "+@date-last-modified-at": "2025-03-07T03:41:00Z",
+    "+@date-last-updated-at": "2025-03-07T03:41:00Z"
 }
