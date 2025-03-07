@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "Idol Time PriPara",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-05T11:24:49Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "18090"
-    },
+    "+@generated-on": "2025-03-07T12:52:55Z",
+    "related-prev": [
+        {
+            "+@rel": "sequel of",
+            "+@id": "18090"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "34715"
+        }
+    ],
     "info": [
         {
             "+@gid": "2056537379",
@@ -206,7 +212,7 @@
     ],
     "ratings": {
         "+@nb_votes": "3",
-        "+@weighted_score": "7.2185"
+        "+@weighted_score": "7.2184"
     },
     "episode": [
         {
@@ -1265,6 +1271,6 @@
         }
     ],
     "+@date-added": "2017-03-06T00:53:12Z",
-    "+@date-last-modified-at": "2025-02-05T11:24:53Z",
-    "+@date-last-updated-at": "2025-02-05T11:24:53Z"
+    "+@date-last-modified-at": "2025-03-07T12:52:59Z",
+    "+@date-last-updated-at": "2025-03-07T12:52:59Z"
 }
