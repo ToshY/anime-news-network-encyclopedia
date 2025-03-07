@@ -4,11 +4,17 @@
     "+@type": "movie",
     "+@name": "King of Prism: PRIDE the HERO",
     "+@precision": "movie",
-    "+@generated-on": "2025-02-05T14:30:14Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "17699"
-    },
+    "+@generated-on": "2025-03-07T14:41:09Z",
+    "related-prev": [
+        {
+            "+@rel": "sequel of",
+            "+@id": "17699"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "34715"
+        }
+    ],
     "related-next": {
         "+@id": "21194",
         "+@rel": "sequel"
@@ -446,6 +452,6 @@
         }
     },
     "+@date-added": "2016-09-11T21:46:22Z",
-    "+@date-last-modified-at": "2025-02-05T14:30:20Z",
-    "+@date-last-updated-at": "2025-02-05T14:30:20Z"
+    "+@date-last-modified-at": "2025-03-07T15:30:53Z",
+    "+@date-last-updated-at": "2025-03-07T15:30:53Z"
 }
