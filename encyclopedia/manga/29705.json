@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Shikyuuji",
     "+@precision": "manga",
-    "+@generated-on": "2025-02-05T10:33:50Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "4043"
-    },
+    "+@generated-on": "2025-03-07T11:26:08Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "4043"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "29974"
+        }
+    ],
     "info": [
         {
             "+@gid": "1147499005",
@@ -53,9 +59,31 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2023-06-26 (serialized in Young Magazine, 2023 #30)",
+            "+content": "baseball",
+            "+@gid": "1994457742",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "3",
+            "+@gid": "2247782771",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2023-06-26 to 2023-11-27 (serialized in Young Magazine, 2023 #30-#52)",
             "+@gid": "2354642483",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2023-12-20 to 2024-01-24 (serialized on YanMaga Web)",
+            "+@gid": "1238007238",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "『シキュウジ -高校球児に明日はない-』 【無料公開中】 | ヤンマガWeb",
+            "+@gid": "2445548166",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://yanmaga.jp/comics/%E3%82%B7%E3%82%AD%E3%83%A5%E3%82%A6%E3%82%B8_%E9%AB%98%E6%A0%A1%E7%90%83%E5%85%90%E3%81%AB%E6%98%8E%E6%97%A5%E3%81%AF%E3%81%AA%E3%81%84"
         }
     ],
     "staff": [
@@ -77,6 +105,6 @@
         }
     ],
     "+@date-added": "2023-09-02T19:43:24Z",
-    "+@date-last-modified-at": "2025-02-05T10:33:56Z",
-    "+@date-last-updated-at": "2025-02-05T10:33:56Z"
+    "+@date-last-modified-at": "2025-03-07T11:26:09Z",
+    "+@date-last-updated-at": "2025-03-07T11:26:09Z"
 }
