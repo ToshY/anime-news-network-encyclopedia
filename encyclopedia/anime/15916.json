@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "PriPara",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-06T11:25:06Z",
-    "related-prev": {
-        "+@rel": "related to",
-        "+@id": "15888"
-    },
+    "+@generated-on": "2025-03-08T12:25:16Z",
+    "related-prev": [
+        {
+            "+@rel": "related to",
+            "+@id": "15888"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "34715"
+        }
+    ],
     "related-next": [
         {
             "+@id": "16617",
@@ -24,10 +30,6 @@
         },
         {
             "+@id": "24049",
-            "+@rel": "related"
-        },
-        {
-            "+@id": "24477",
             "+@rel": "related"
         },
         {
@@ -255,8 +257,8 @@
     ],
     "ratings": {
         "+@nb_votes": "14",
-        "+@weighted_score": "6.2102",
-        "+@bayesian_score": "6.81995"
+        "+@weighted_score": "6.2103",
+        "+@bayesian_score": "6.82"
     },
     "episode": [
         {
@@ -656,6 +658,11 @@
             "+@href": "https://www.animenewsnetwork.com:/news/2018-04-05/pretty-shojo-idol-franchise-crossover-film-reveals-trailer-theme-song/.129992"
         },
         {
+            "+content": "<cite>PriPara PriPuz</cite> Game App Ends Service",
+            "+@datetime": "2018-05-11T05:02:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2018-05-11/pripara-pripuz-game-app-ends-service/.131302"
+        },
+        {
             "+content": "Satoshi Kon's <cite>Tokyo Godfathers</cite> Anime Film Gets Stage Play in 2021",
             "+@datetime": "2020-01-09T05:35:11Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2020-01-09/satoshi-kon-tokyo-godfathers-anime-film-gets-stage-play-in-2021/.155166"
@@ -889,7 +896,7 @@
             "+@gid": "2394730618",
             "task": "Storyboard",
             "person": {
-                "+content": "Jeon Byung Cheol",
+                "+content": "Byung Chul Jeon",
                 "+@id": "126762"
             }
         },
@@ -1255,6 +1262,6 @@
         }
     ],
     "+@date-added": "2014-03-25T11:03:57Z",
-    "+@date-last-modified-at": "2025-02-06T11:25:09Z",
-    "+@date-last-updated-at": "2025-02-06T11:25:09Z"
+    "+@date-last-modified-at": "2025-03-08T12:42:31Z",
+    "+@date-last-updated-at": "2025-03-08T12:42:31Z"
 }
