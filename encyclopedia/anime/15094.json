@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "Pretty Rhythm Rainbow Live",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-06T21:27:15Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "13988"
-    },
+    "+@generated-on": "2025-03-08T23:24:22Z",
+    "related-prev": [
+        {
+            "+@rel": "sequel of",
+            "+@id": "13988"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "34715"
+        }
+    ],
     "related-next": [
         {
             "+@id": "15887",
@@ -306,8 +312,8 @@
     ],
     "ratings": {
         "+@nb_votes": "24",
-        "+@weighted_score": "8.066",
-        "+@bayesian_score": "7.85888"
+        "+@weighted_score": "8.0658",
+        "+@bayesian_score": "7.85878"
     },
     "episode": [
         {
@@ -1177,6 +1183,15 @@
     ],
     "cast": [
         {
+            "+@gid": "2135267732",
+            "+@lang": "EN",
+            "role": "Hiro Hayami",
+            "person": {
+                "+content": "Victor Lee",
+                "+@id": "70288"
+            }
+        },
+        {
             "+@gid": "839131402",
             "+@lang": "EN",
             "role": "Gen Suzuno",
@@ -1195,12 +1210,48 @@
             }
         },
         {
+            "+@gid": "808461556",
+            "+@lang": "EN",
+            "role": "Ito Suzuno",
+            "person": {
+                "+content": "Terri Oliver",
+                "+@id": "111882"
+            }
+        },
+        {
+            "+@gid": "1297171824",
+            "+@lang": "EN",
+            "role": "Bell Renjoji",
+            "person": {
+                "+content": "Alice Beaver",
+                "+@id": "115230"
+            }
+        },
+        {
             "+@gid": "3125749624",
             "+@lang": "EN",
             "role": "Naru Ayase",
             "person": {
                 "+content": "Alice Beaver",
                 "+@id": "115230"
+            }
+        },
+        {
+            "+@gid": "1735596120",
+            "+@lang": "EN",
+            "role": "Ann Fukuhara",
+            "person": {
+                "+content": "Jessica de Borja",
+                "+@id": "132589"
+            }
+        },
+        {
+            "+@gid": "2298100722",
+            "+@lang": "EN",
+            "role": "June Amo",
+            "person": {
+                "+content": "Jessica de Borja",
+                "+@id": "132589"
             }
         },
         {
@@ -1235,7 +1286,7 @@
             "+@lang": "JA",
             "role": "Chisato Ibara",
             "person": {
-                "+content": "Chie Koujiro",
+                "+content": "Chie Kōjiro",
                 "+@id": "6993"
             }
         },
@@ -1376,6 +1427,6 @@
         }
     ],
     "+@date-added": "2013-01-21T10:48:04Z",
-    "+@date-last-modified-at": "2025-02-06T21:27:19Z",
-    "+@date-last-updated-at": "2025-02-06T21:27:19Z"
+    "+@date-last-modified-at": "2025-03-08T23:24:27Z",
+    "+@date-last-updated-at": "2025-03-08T23:24:27Z"
 }
