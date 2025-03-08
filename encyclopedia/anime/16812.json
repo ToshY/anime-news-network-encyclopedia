@@ -4,15 +4,21 @@
     "+@type": "TV",
     "+@name": "My Wife is the Student Council President",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-06T02:55:54Z",
+    "+@generated-on": "2025-03-08T03:28:05Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "13275"
     },
-    "related-next": {
-        "+@id": "18672",
-        "+@rel": "sequel"
-    },
+    "related-next": [
+        {
+            "+@id": "18672",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "34869",
+            "+@rel": "related"
+        }
+    ],
     "info": [
         {
             "+@gid": "1791996477",
@@ -713,6 +719,6 @@
         }
     ],
     "+@date-added": "2015-02-24T23:16:04Z",
-    "+@date-last-modified-at": "2025-02-06T02:55:55Z",
-    "+@date-last-updated-at": "2025-02-06T02:55:55Z"
+    "+@date-last-modified-at": "2025-03-08T03:28:08Z",
+    "+@date-last-updated-at": "2025-03-08T03:28:08Z"
 }
