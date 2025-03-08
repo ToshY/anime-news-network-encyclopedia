@@ -4,11 +4,21 @@
     "+@type": "manga",
     "+@name": "Salad Bowl of Eccentrics",
     "+@precision": "manga",
-    "+@generated-on": "2025-02-05T23:27:18Z",
-    "related-prev": {
-        "+@rel": "adapted from",
-        "+@id": "28936"
-    },
+    "+@generated-on": "2025-03-08T01:35:45Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "12657"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "28936"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "31108"
+        }
+    ],
     "info": [
         {
             "+@gid": "2595124975",
@@ -53,9 +63,26 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2022-09-27 (serialized on Sunday Webry)",
-            "+@gid": "2818119976",
+            "+content": "6",
+            "+@gid": "2394921972",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2022-09-27 to 2024-12-03 (serialized on Sunday Webry)",
+            "+@gid": "1390231273",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2022-11-17 (serialized in Sunday GX, Dec 2022)",
+            "+@gid": "3022598375",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "第1話 麒麟がくる（異世界から）① / 変人のサラダボウル@comic - 平坂読/山田孝太郎/カントク | サンデーうぇぶり",
+            "+@gid": "2551833715",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://www.sunday-webry.com/episode/316112896879941288"
         }
     ],
     "ratings": {
@@ -94,6 +121,6 @@
         }
     ],
     "+@date-added": "2023-07-06T08:34:23Z",
-    "+@date-last-modified-at": "2025-02-05T23:27:22Z",
-    "+@date-last-updated-at": "2025-02-05T23:27:22Z"
+    "+@date-last-modified-at": "2025-03-08T01:35:47Z",
+    "+@date-last-updated-at": "2025-03-08T01:35:47Z"
 }
