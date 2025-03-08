@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Mysterious Joker",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-06T07:27:56Z",
+    "+@generated-on": "2025-03-08T09:25:30Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "16150"
@@ -113,8 +113,8 @@
     ],
     "ratings": {
         "+@nb_votes": "22",
-        "+@weighted_score": "6.7447",
-        "+@bayesian_score": "7.01655"
+        "+@weighted_score": "6.7446",
+        "+@bayesian_score": "7.01649"
     },
     "episode": [
         {
@@ -701,12 +701,48 @@
     ],
     "cast": [
         {
+            "+@gid": "2477561311",
+            "+@lang": "EN",
+            "role": "Joker",
+            "person": {
+                "+content": "David Lee Mckinney",
+                "+@id": "64567"
+            }
+        },
+        {
             "+@gid": "1414758134",
             "+@lang": "EN",
             "role": "Mr. Kaneari",
             "person": {
                 "+content": "Dave Bridges",
                 "+@id": "70284"
+            }
+        },
+        {
+            "+@gid": "1086007080",
+            "+@lang": "EN",
+            "role": "Spade",
+            "person": {
+                "+content": "Dave Bridges",
+                "+@id": "70284"
+            }
+        },
+        {
+            "+@gid": "2264158761",
+            "+@lang": "EN",
+            "role": "Dark Eye",
+            "person": {
+                "+content": "Scott Evans",
+                "+@id": "73062"
+            }
+        },
+        {
+            "+@gid": "743208797",
+            "+@lang": "EN",
+            "role": "Shadow Joker",
+            "person": {
+                "+content": "Scott Evans",
+                "+@id": "73062"
             }
         },
         {
@@ -731,6 +767,15 @@
             "+@gid": "3853043483",
             "+@lang": "EN",
             "role": "Kaneko",
+            "person": {
+                "+content": "Muriel Hofmann",
+                "+@id": "100786"
+            }
+        },
+        {
+            "+@gid": "2800069947",
+            "+@lang": "EN",
+            "role": "Lady Doubt",
             "person": {
                 "+content": "Muriel Hofmann",
                 "+@id": "100786"
@@ -948,6 +993,6 @@
         }
     ],
     "+@date-added": "2014-06-30T02:41:35Z",
-    "+@date-last-modified-at": "2025-02-06T07:27:57Z",
-    "+@date-last-updated-at": "2025-02-06T07:27:57Z"
+    "+@date-last-modified-at": "2025-03-08T09:25:33Z",
+    "+@date-last-updated-at": "2025-03-08T09:25:33Z"
 }
