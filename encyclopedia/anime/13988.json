@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "Pretty Rhythm Dear My Future",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-07T05:31:23Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "12432"
-    },
+    "+@generated-on": "2025-03-09T07:22:25Z",
+    "related-prev": [
+        {
+            "+@rel": "sequel of",
+            "+@id": "12432"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "34715"
+        }
+    ],
     "related-next": [
         {
             "+@id": "15094",
@@ -282,7 +288,7 @@
     "ratings": {
         "+@nb_votes": "22",
         "+@weighted_score": "7.019",
-        "+@bayesian_score": "7.18893"
+        "+@bayesian_score": "7.18897"
     },
     "episode": [
         {
@@ -1577,6 +1583,6 @@
         }
     ],
     "+@date-added": "2012-01-31T10:42:27Z",
-    "+@date-last-modified-at": "2025-02-07T05:31:26Z",
-    "+@date-last-updated-at": "2025-02-07T05:31:26Z"
+    "+@date-last-modified-at": "2025-03-09T07:22:26Z",
+    "+@date-last-updated-at": "2025-03-09T07:22:26Z"
 }
