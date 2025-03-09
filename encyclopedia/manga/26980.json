@@ -4,7 +4,11 @@
     "+@type": "manga",
     "+@name": "Dog Signal",
     "+@precision": "manga",
-    "+@generated-on": "2025-02-07T07:26:23Z",
+    "+@generated-on": "2025-03-09T10:32:36Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "20005"
+    },
     "related-next": {
         "+@id": "26981",
         "+@rel": "adaptation"
@@ -42,9 +46,16 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2018-07-30 (serialized on Comic Bridge)",
-            "+@gid": "537516273",
+            "+content": "2018-07-24 (serialized on Comic Bridge)",
+            "+@gid": "2612864399",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "DOG SIGNAL｜カドコミ (コミックウォーカー)",
+            "+@gid": "1151017102",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://comic-walker.com/detail/KC_003497_S"
         }
     ],
     "news": {
@@ -61,6 +72,6 @@
         }
     },
     "+@date-added": "2023-01-21T00:01:03Z",
-    "+@date-last-modified-at": "2025-02-07T07:26:25Z",
-    "+@date-last-updated-at": "2025-02-07T07:26:25Z"
+    "+@date-last-modified-at": "2025-03-09T10:32:39Z",
+    "+@date-last-updated-at": "2025-03-09T10:32:39Z"
 }
