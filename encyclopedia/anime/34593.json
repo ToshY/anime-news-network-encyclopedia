@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Soreike! Anpanman: Chapon no Hero!",
     "+@precision": "movie",
-    "+@generated-on": "2025-02-07T01:54:33Z",
+    "+@generated-on": "2025-03-09T02:00:07Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "6690"
@@ -13,18 +13,18 @@
         {
             "+@gid": "2376236651",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34593-2376236651.1738829742.jpg",
-            "+@width": "144",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34593-2376236651.1741322571.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34593-2376236651.1738829742.jpg",
-                    "+@width": "144",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34593-2376236651.1741322571.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34593-2376236651.1738829742.jpg",
-                    "+@width": "432",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34593-2376236651.1741322571.jpg",
+                    "+@width": "424",
                     "+@height": "600"
                 }
             ]
@@ -58,28 +58,170 @@
             "+@href": "https://anpan-movie.com/2025/"
         }
     ],
-    "news": {
-        "+content": "2025 <cite>Anpanman</cite> Film Unveils Title, June 27 Opening",
-        "+@datetime": "2025-02-06T07:45:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-02-06/2025-anpanman-film-unveils-title-june-27-opening/.220888"
-    },
-    "staff": {
-        "+@gid": "3707407762",
-        "task": "Original creator",
-        "person": {
-            "+content": "Takashi Yanase",
-            "+@id": "5769"
+    "news": [
+        {
+            "+content": "2025 <cite>Anpanman</cite> Film Unveils Title, June 27 Opening",
+            "+@datetime": "2025-02-06T07:45:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-06/2025-anpanman-film-unveils-title-june-27-opening/.220888"
+        },
+        {
+            "+content": "2025 <cite>Anpanman</cite> Film Casts Yū Aoi as Chapon",
+            "+@datetime": "2025-02-18T03:53:27Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-17/2025-anpanman-film-casts-yu-aoi-as-chapon/.221330"
+        },
+        {
+            "+content": "2025 <cite>Anpanman</cite> Film's Trailer Reveals Guest Cast Members",
+            "+@datetime": "2025-03-07T00:54:11Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-06/2025-anpanman-film-trailer-reveals-guest-cast-members/.222050"
         }
-    },
-    "credit": {
-        "+@gid": "1188070703",
-        "task": "Animation Production",
-        "company": {
-            "+content": "TMS Entertainment",
-            "+@id": "292"
+    ],
+    "staff": [
+        {
+            "+@gid": "945547675",
+            "task": "Director",
+            "person": {
+                "+content": "Toshikazu Hashimoto",
+                "+@id": "60763"
+            }
+        },
+        {
+            "+@gid": "2119590366",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Shūji Kuzuhara",
+                "+@id": "226727"
+            }
+        },
+        {
+            "+@gid": "3235223770",
+            "task": "Music",
+            "person": {
+                "+content": "Taku Izumi",
+                "+@id": "31555"
+            }
+        },
+        {
+            "+@gid": "2804028164",
+            "task": "Music",
+            "person": {
+                "+content": "Hiroaki Kondo",
+                "+@id": "36271"
+            }
+        },
+        {
+            "+@gid": "3707407762",
+            "task": "Original creator",
+            "person": {
+                "+content": "Takashi Yanase",
+                "+@id": "5769"
+            }
         }
-    },
+    ],
+    "cast": [
+        {
+            "+@gid": "2009703442",
+            "+@lang": "JA",
+            "role": "Anpanman",
+            "person": {
+                "+content": "Keiko Toda",
+                "+@id": "931"
+            }
+        },
+        {
+            "+@gid": "3408191853",
+            "+@lang": "JA",
+            "role": "Baikinman",
+            "person": {
+                "+content": "Ryūsei Nakao",
+                "+@id": "4668"
+            }
+        },
+        {
+            "+@gid": "1788270852",
+            "+@lang": "JA",
+            "role": "Chapon",
+            "person": {
+                "+content": "Yū Aoi",
+                "+@id": "56064"
+            }
+        },
+        {
+            "+@gid": "2264039044",
+            "+@lang": "JA",
+            "role": "Robot No. 2",
+            "person": {
+                "+content": "Satoshi Mukai",
+                "+@id": "193310"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "1188070703",
+            "task": "Animation Production",
+            "company": {
+                "+content": "TMS Entertainment",
+                "+@id": "292"
+            }
+        },
+        {
+            "+@gid": "2033749989",
+            "task": "Production",
+            "company": {
+                "+content": "TMS Entertainment",
+                "+@id": "292"
+            }
+        },
+        {
+            "+@gid": "1564673736",
+            "task": "Production",
+            "company": {
+                "+content": "VAP",
+                "+@id": "589"
+            }
+        },
+        {
+            "+@gid": "3499471216",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon Television Network",
+                "+@id": "834"
+            }
+        },
+        {
+            "+@gid": "1739981734",
+            "task": "Production",
+            "company": {
+                "+content": "Tokyo Theatres",
+                "+@id": "2023"
+            }
+        },
+        {
+            "+@gid": "1440390194",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon Television Music Corporation",
+                "+@id": "6422"
+            }
+        },
+        {
+            "+@gid": "1994072439",
+            "task": "Production",
+            "company": {
+                "+content": "Froebel-kan Co., Ltd.",
+                "+@id": "6539"
+            }
+        },
+        {
+            "+@gid": "4223595267",
+            "task": "Production",
+            "company": {
+                "+content": "Yanase Studio",
+                "+@id": "7845"
+            }
+        }
+    ],
     "+@date-added": "2025-02-06T03:14:53Z",
-    "+@date-last-modified-at": "2025-02-07T01:54:34Z",
-    "+@date-last-updated-at": "2025-02-07T01:54:34Z"
+    "+@date-last-modified-at": "2025-03-09T02:43:27Z",
+    "+@date-last-updated-at": "2025-03-09T02:43:27Z"
 }
