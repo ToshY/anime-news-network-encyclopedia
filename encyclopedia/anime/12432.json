@@ -4,7 +4,11 @@
     "+@type": "TV",
     "+@name": "Pretty Rhythm Aurora Dream",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-07T12:50:30Z",
+    "+@generated-on": "2025-03-09T14:26:20Z",
+    "related-prev": {
+        "+@rel": "part of",
+        "+@id": "34715"
+    },
     "related-next": [
         {
             "+@id": "13988",
@@ -239,8 +243,8 @@
     ],
     "ratings": {
         "+@nb_votes": "48",
-        "+@weighted_score": "7.0354",
-        "+@bayesian_score": "7.12941"
+        "+@weighted_score": "7.0355",
+        "+@bayesian_score": "7.1295"
     },
     "episode": [
         {
@@ -1371,6 +1375,15 @@
             }
         },
         {
+            "+@gid": "2318865975",
+            "+@lang": "EN",
+            "role": "Mr. Penguin",
+            "person": {
+                "+content": "Dave Bridges",
+                "+@id": "70284"
+            }
+        },
+        {
             "+@gid": "2185034018",
             "+@lang": "EN",
             "role": "Wataru",
@@ -1927,6 +1940,6 @@
         }
     ],
     "+@date-added": "2011-01-25T13:57:38Z",
-    "+@date-last-modified-at": "2025-02-07T12:50:55Z",
-    "+@date-last-updated-at": "2025-02-07T12:50:55Z"
+    "+@date-last-modified-at": "2025-03-09T14:26:23Z",
+    "+@date-last-updated-at": "2025-03-09T14:26:23Z"
 }
