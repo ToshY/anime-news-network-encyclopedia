@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Samurai",
     "+@precision": "OAV",
-    "+@generated-on": "2025-02-10T17:28:43Z",
+    "+@generated-on": "2025-03-12T21:28:33Z",
     "info": [
         {
             "+@gid": "2752031987",
@@ -92,11 +92,6 @@
             "+@type": "Opening Theme"
         },
         {
-            "+content": "\"Winner\" by Yoshi Sawamuki",
-            "+@gid": "843173041",
-            "+@type": "Opening Theme"
-        },
-        {
             "+content": "\"Cloudy Night\" by Yoji Sawamukai",
             "+@gid": "1872101234",
             "+@type": "Ending Theme"
@@ -110,7 +105,7 @@
     "ratings": {
         "+@nb_votes": "82",
         "+@weighted_score": "6.6666",
-        "+@bayesian_score": "6.77743"
+        "+@bayesian_score": "6.77744"
     },
     "review": {
         "+content": "The Samurai DVD",
@@ -143,11 +138,11 @@
             }
         },
         {
-            "+@gid": "577894623",
+            "+@gid": "2543687514",
             "task": "Screenplay",
             "person": {
-                "+content": "Takayoshi Miki",
-                "+@id": "16143"
+                "+content": "Kōsuke Miki",
+                "+@id": "41710"
             }
         },
         {
@@ -199,14 +194,6 @@
             }
         },
         {
-            "+@gid": "3978880605",
-            "task": "Animation Director",
-            "person": {
-                "+content": "Kazuko Kodama",
-                "+@id": "8179"
-            }
-        },
-        {
             "+@gid": "3440627237",
             "task": "Sound Director",
             "person": {
@@ -231,27 +218,11 @@
             }
         },
         {
-            "+@gid": "1740857180",
-            "task": "Executive producer",
-            "person": {
-                "+content": "Kobo Suna",
-                "+@id": "170390"
-            }
-        },
-        {
-            "+@gid": "3423264293",
+            "+@gid": "3314942775",
             "task": "Producer",
             "person": {
-                "+content": "Takayoshi Miki",
-                "+@id": "16143"
-            }
-        },
-        {
-            "+@gid": "1717116568",
-            "task": "Producer",
-            "person": {
-                "+content": "Takao Shiozaki",
-                "+@id": "16144"
+                "+content": "Mitsuru Tanaka",
+                "+@id": "16145"
             }
         },
         {
@@ -261,27 +232,17 @@
                 "+content": "Kōsuke Miki",
                 "+@id": "41710"
             }
+        },
+        {
+            "+@gid": "3020522277",
+            "task": "Producer",
+            "person": {
+                "+content": "Takuo Shiozaki",
+                "+@id": "278667"
+            }
         }
     ],
     "cast": [
-        {
-            "+@gid": "2615424775",
-            "+@lang": "EN",
-            "role": "Kagiri Toki",
-            "person": {
-                "+content": "Kelly Manison",
-                "+@id": "1067"
-            }
-        },
-        {
-            "+@gid": "495113942",
-            "+@lang": "EN",
-            "role": "Miss Ayatsugi",
-            "person": {
-                "+content": "Christine M. Auten",
-                "+@id": "2491"
-            }
-        },
         {
             "+@gid": "1229219593",
             "+@lang": "EN",
@@ -301,21 +262,21 @@
             }
         },
         {
-            "+@gid": "1093256242",
-            "+@lang": "EN",
-            "role": "Torai",
-            "person": {
-                "+content": "Ty Mayberry",
-                "+@id": "6816"
-            }
-        },
-        {
             "+@gid": "3761787133",
             "+@lang": "EN",
             "role": "Takeshi Chimatsuri",
             "person": {
                 "+content": "David Matranga",
                 "+@id": "9293"
+            }
+        },
+        {
+            "+@gid": "2589214837",
+            "+@lang": "JA",
+            "role": "Kurotoji Toki",
+            "person": {
+                "+content": "Hisako Kyōda",
+                "+@id": "283"
             }
         },
         {
@@ -337,18 +298,18 @@
             }
         },
         {
-            "+@gid": "2852682830",
+            "+@gid": "304989116",
             "+@lang": "JA",
-            "role": "Torai",
+            "role": "Torai Nanban",
             "person": {
                 "+content": "Kazuhiko Inoue",
                 "+@id": "722"
             }
         },
         {
-            "+@gid": "3024239288",
+            "+@gid": "2443306818",
             "+@lang": "JA",
-            "role": "Kagiri Toki",
+            "role": "Kageri Toki",
             "person": {
                 "+content": "Naoko Matsui",
                 "+@id": "974"
@@ -364,12 +325,30 @@
             }
         },
         {
-            "+@gid": "1364188551",
+            "+@gid": "3521791209",
             "+@lang": "JA",
-            "role": "Miss Ayatsugi",
+            "role": "Asagi Chimatsuri",
+            "person": {
+                "+content": "Miina Tominaga",
+                "+@id": "1584"
+            }
+        },
+        {
+            "+@gid": "2719770115",
+            "+@lang": "JA",
+            "role": "Kyōko Ayasugi",
             "person": {
                 "+content": "Kazue Komiya",
                 "+@id": "1585"
+            }
+        },
+        {
+            "+@gid": "2513685534",
+            "+@lang": "JA",
+            "role": "Shizuka Chimatsuri",
+            "person": {
+                "+content": "Tomoko Munakata",
+                "+@id": "9789"
             }
         }
     ],
@@ -408,6 +387,6 @@
         }
     ],
     "+@date-added": null,
-    "+@date-last-modified-at": "2025-02-10T17:28:45Z",
-    "+@date-last-updated-at": "2025-02-10T17:28:45Z"
+    "+@date-last-modified-at": "2025-03-12T21:28:37Z",
+    "+@date-last-updated-at": "2025-03-12T21:28:37Z"
 }
