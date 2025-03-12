@@ -4,7 +4,11 @@
     "+@type": "TV",
     "+@name": "Go! Wrestler Gundan",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-10T18:36:21Z",
+    "+@generated-on": "2025-03-12T22:32:35Z",
+    "related-next": {
+        "+@id": "66",
+        "+@rel": "sequel"
+    },
     "info": [
         {
             "+content": "Go! Wrestler Gundan",
@@ -38,6 +42,16 @@
             "+content": "1989-04-18 to 1989-09-19",
             "+@gid": "1001961253",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Nazo no Parade\" (？のパレード) by Yumi Murata",
+            "+@gid": "1170268767",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Odoroki Map\" (！MAP) by Yumi Murata",
+            "+@gid": "2470001175",
+            "+@type": "Ending Theme"
         }
     ],
     "episode": [
@@ -326,6 +340,15 @@
     ],
     "cast": [
         {
+            "+@gid": "1437453834",
+            "+@lang": "JA",
+            "role": "Chō Akuma Seimeitai",
+            "person": {
+                "+content": "Kenichi Ogata",
+                "+@id": "284"
+            }
+        },
+        {
             "+@gid": "2714101211",
             "+@lang": "JA",
             "role": "Hoshi Wakamaru",
@@ -335,36 +358,36 @@
             }
         },
         {
-            "+@gid": "2228180634",
+            "+@gid": "3253611898",
             "+@lang": "JA",
-            "role": "Chacha Hoshimiya",
+            "role": "Secretary Marilyn",
             "person": {
                 "+content": "Yūko Mizutani",
                 "+@id": "1004"
             }
         },
         {
-            "+@gid": "3253611898",
+            "+@gid": "1846516829",
             "+@lang": "JA",
-            "role": "Marilyn",
+            "role": "Onion Jack",
             "person": {
-                "+content": "Yūko Mizutani",
-                "+@id": "1004"
+                "+content": "Nozomu Sasaki",
+                "+@id": "1012"
+            }
+        },
+        {
+            "+@gid": "1767563664",
+            "+@lang": "JA",
+            "role": "Shijōkūzen no Hissatsuwaza",
+            "person": {
+                "+content": "Nozomu Sasaki",
+                "+@id": "1012"
             }
         },
         {
             "+@gid": "2081349846",
             "+@lang": "JA",
             "role": "Ben K. God",
-            "person": {
-                "+content": "Kenyū Horiuchi",
-                "+@id": "1177"
-            }
-        },
-        {
-            "+@gid": "2821418764",
-            "+@lang": "JA",
-            "role": "Saint Hero Robin Hood",
             "person": {
                 "+content": "Kenyū Horiuchi",
                 "+@id": "1177"
@@ -399,6 +422,6 @@
         }
     ],
     "+@date-added": null,
-    "+@date-last-modified-at": "2025-02-10T18:36:22Z",
-    "+@date-last-updated-at": "2025-02-10T18:36:22Z"
+    "+@date-last-modified-at": "2025-03-12T22:32:37Z",
+    "+@date-last-updated-at": "2025-03-12T22:32:37Z"
 }
