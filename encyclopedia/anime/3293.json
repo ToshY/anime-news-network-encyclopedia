@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Bats and Terry",
     "+@precision": "movie",
-    "+@generated-on": "2025-02-10T09:30:14Z",
+    "+@generated-on": "2025-03-12T13:35:44Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "7104"
@@ -92,11 +92,18 @@
             "+@type": "Insert song"
         },
         {
+            "+content": "Bats & Terry @ Sunrise",
+            "+@gid": "2056003256",
+            "+@type": "Official website",
+            "+@lang": "EN",
+            "+@href": "https://www.sunrise-inc.co.jp/international/work/detail.php?cid=125"
+        },
+        {
             "+content": "バツ＆テリー @ Sunrise",
-            "+@gid": "1517935203",
+            "+@gid": "1449199440",
             "+@type": "Official website",
             "+@lang": "JA",
-            "+@href": "http://www.sunrise-inc.co.jp/datacard/card0047.htm"
+            "+@href": "https://www.sunrise-inc.co.jp/work/detail.php?cid=125"
         }
     ],
     "ratings": {
@@ -140,7 +147,7 @@
             "+@gid": "1311317210",
             "task": "Original creator",
             "person": {
-                "+content": "Yasuichi Oshima",
+                "+content": "Yasuichi Ōshima",
                 "+@id": "11416"
             }
         },
@@ -241,15 +248,62 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "1048700639",
-        "+@lang": "JA",
-        "role": "Board chairman",
-        "person": {
-            "+content": "Matsugoro Mita",
-            "+@id": "31593"
+    "cast": [
+        {
+            "+@gid": "1012506870",
+            "+@lang": "JA",
+            "role": "Gun Battō",
+            "person": {
+                "+content": "Kazuhiko Inoue",
+                "+@id": "722"
+            }
+        },
+        {
+            "+@gid": "3036389270",
+            "+@lang": "JA",
+            "role": "Teru Ichimonji",
+            "person": {
+                "+content": "Kaneto Shiozawa",
+                "+@id": "852"
+            }
+        },
+        {
+            "+@gid": "1904358973",
+            "+@lang": "JA",
+            "role": "Tatsuo Yagami",
+            "person": {
+                "+content": "Naoki Tatsuta",
+                "+@id": "3075"
+            }
+        },
+        {
+            "+@gid": "2991274932",
+            "+@lang": "JA",
+            "role": "Katsumi Andō",
+            "person": {
+                "+content": "Issei Masamune",
+                "+@id": "7334"
+            }
+        },
+        {
+            "+@gid": "2980156129",
+            "+@lang": "JA",
+            "role": "Ann Shiraki",
+            "person": {
+                "+content": "Narimi Arimori",
+                "+@id": "54579"
+            }
+        },
+        {
+            "+@gid": "3074575178",
+            "+@lang": "JA",
+            "role": "Kirishima",
+            "person": {
+                "+content": "Atsushi Watanabe",
+                "+@id": "226863"
+            }
         }
-    },
+    ],
     "credit": {
         "+@gid": "3517828213",
         "task": "Production",
@@ -259,6 +313,6 @@
         }
     },
     "+@date-added": null,
-    "+@date-last-modified-at": "2025-02-10T09:30:17Z",
-    "+@date-last-updated-at": "2025-02-10T09:30:17Z"
+    "+@date-last-modified-at": "2025-03-12T13:35:46Z",
+    "+@date-last-updated-at": "2025-03-12T13:35:46Z"
 }
