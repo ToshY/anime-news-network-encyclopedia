@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Sister Princess: Re Pure",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-11T03:33:29Z",
+    "+@generated-on": "2025-03-13T07:27:53Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "1114"
@@ -177,8 +177,8 @@
     ],
     "ratings": {
         "+@nb_votes": "168",
-        "+@weighted_score": "5.7879",
-        "+@bayesian_score": "5.90918"
+        "+@weighted_score": "5.788",
+        "+@bayesian_score": "5.90928"
     },
     "episode": [
         {
@@ -1179,15 +1179,26 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "2229349636",
-        "+@lang": "JA",
-        "role": "Elder brother",
-        "person": {
-            "+content": "Hiroaki Miura",
-            "+@id": "1377"
+    "cast": [
+        {
+            "+@gid": "1498966306",
+            "+@lang": "JA",
+            "role": "Marie",
+            "person": {
+                "+content": "Ryōka Yuzuki",
+                "+@id": "545"
+            }
+        },
+        {
+            "+@gid": "2229349636",
+            "+@lang": "JA",
+            "role": "Elder brother",
+            "person": {
+                "+content": "Hiroaki Miura",
+                "+@id": "1377"
+            }
         }
-    },
+    ],
     "credit": [
         {
             "+@gid": "3497602771",
@@ -1231,6 +1242,6 @@
         }
     ],
     "+@date-added": null,
-    "+@date-last-modified-at": "2025-02-11T03:33:32Z",
-    "+@date-last-updated-at": "2025-02-11T03:33:32Z"
+    "+@date-last-modified-at": "2025-03-13T07:27:58Z",
+    "+@date-last-updated-at": "2025-03-13T07:27:58Z"
 }
