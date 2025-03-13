@@ -2,9 +2,9 @@
     "+@id": "1939",
     "+@gid": "206960982",
     "+@type": "TV",
-    "+@name": "Kaze no Naka no Shoujo Kinpatsu no Jeanie",
-    "+@precision": "TV",
-    "+@generated-on": "2025-02-11T01:53:32Z",
+    "+@name": "Jeanie with the Light Brown Hair",
+    "+@precision": "TV 2",
+    "+@generated-on": "2025-03-13T05:31:49Z",
     "related-prev": {
         "+@rel": "remake of",
         "+@id": "1860"
@@ -49,10 +49,10 @@
             ]
         },
         {
-            "+content": "Kaze no Naka no Shoujo Kinpatsu no Jeanie",
-            "+@gid": "2074506536",
+            "+content": "Jeanie with the Light Brown Hair",
+            "+@gid": "2673629226",
             "+@type": "Main title",
-            "+@lang": "JA"
+            "+@lang": "EN"
         },
         {
             "+content": "Dulce Jana",
@@ -83,6 +83,12 @@
             "+@gid": "2932623044",
             "+@type": "Alternative title",
             "+@lang": "DE"
+        },
+        {
+            "+content": "Kaze no Naka no Shōjo Kinpatsu no Jeanie",
+            "+@gid": "2074506536",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
         },
         {
             "+content": "Le rêve de Jeannie",
@@ -158,17 +164,24 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "Kaze no Naka no Shoujo Kinpatsu no Jeanie @ Nippon Animation",
-            "+@gid": "2612130621",
+            "+content": "風の中の少女 金髪のジェニー",
+            "+@gid": "3461362960",
             "+@type": "Official website",
             "+@lang": "JA",
-            "+@href": "http://www.nippon-animation.co.jp/work/kazenonaka_kinpatsuno_jeanie.html"
+            "+@href": "https://www.nippon-animation.co.jp/work/1654/"
+        },
+        {
+            "+content": "Nippon Animation",
+            "+@gid": "1747774867",
+            "+@type": "Official website",
+            "+@lang": "EN",
+            "+@href": "https://www.nipponanimation.com/program/1654/"
         }
     ],
     "ratings": {
         "+@nb_votes": "15",
         "+@weighted_score": "6.818",
-        "+@bayesian_score": "7.12373"
+        "+@bayesian_score": "7.12378"
     },
     "episode": [
         {
@@ -902,6 +915,14 @@
             }
         },
         {
+            "+@gid": "2840188329",
+            "task": "Original creator",
+            "person": {
+                "+content": "Stephen Foster",
+                "+@id": "279308"
+            }
+        },
+        {
             "+@gid": "1184837528",
             "task": "Character Design",
             "person": {
@@ -929,7 +950,7 @@
             "+@gid": "2555189662",
             "task": "Animation Director",
             "person": {
-                "+content": "Hiromi Kato",
+                "+content": "Hiromi Katō",
                 "+@id": "3447"
             }
         },
@@ -1098,12 +1119,48 @@
             }
         },
         {
+            "+@gid": "2421688117",
+            "+@lang": "DE",
+            "role": "Robert",
+            "person": {
+                "+content": "Dominik Auer",
+                "+@id": "28904"
+            }
+        },
+        {
+            "+@gid": "2184771680",
+            "+@lang": "DE",
+            "role": "Big Joe",
+            "person": {
+                "+content": "Manfred Erdmann",
+                "+@id": "28950"
+            }
+        },
+        {
+            "+@gid": "2670424203",
+            "+@lang": "DE",
+            "role": "Diana",
+            "person": {
+                "+content": "Christina Hoeltel",
+                "+@id": "33217"
+            }
+        },
+        {
             "+@gid": "3918750964",
             "+@lang": "DE",
             "role": "Stephen Foster",
             "person": {
                 "+content": "Benedikt Gutjan",
                 "+@id": "33226"
+            }
+        },
+        {
+            "+@gid": "2630907511",
+            "+@lang": "DE",
+            "role": "Henry",
+            "person": {
+                "+content": "Ulf-Jürgen Wagner",
+                "+@id": "35265"
             }
         },
         {
@@ -1161,6 +1218,15 @@
             }
         },
         {
+            "+@gid": "2419572355",
+            "+@lang": "IT",
+            "role": "Diana",
+            "person": {
+                "+content": "Caterina Rochira",
+                "+@id": "26137"
+            }
+        },
+        {
             "+@gid": "3726868977",
             "+@lang": "IT",
             "role": "Jeanie",
@@ -1179,6 +1245,24 @@
             }
         },
         {
+            "+@gid": "2176639698",
+            "+@lang": "JA",
+            "role": "Mora",
+            "person": {
+                "+content": "Kumiko Nishihara",
+                "+@id": "299"
+            }
+        },
+        {
+            "+@gid": "3311112031",
+            "+@lang": "JA",
+            "role": "Betty",
+            "person": {
+                "+content": "Yuri Shiratori",
+                "+@id": "502"
+            }
+        },
+        {
             "+@gid": "2354435314",
             "+@lang": "JA",
             "role": "Bill",
@@ -1188,39 +1272,129 @@
             }
         },
         {
-            "+@gid": "1424766112",
+            "+@gid": "3936163946",
             "+@lang": "JA",
-            "role": "Stephen",
+            "role": "Nancy Conrad",
+            "person": {
+                "+content": "Sumi Shimamoto",
+                "+@id": "787"
+            }
+        },
+        {
+            "+@gid": "2359926850",
+            "+@lang": "JA",
+            "role": "Canna",
+            "person": {
+                "+content": "Sakiko Tamagawa",
+                "+@id": "851"
+            }
+        },
+        {
+            "+@gid": "483989007",
+            "+@lang": "JA",
+            "role": "Diana",
+            "person": {
+                "+content": "Masako Katsuki",
+                "+@id": "1046"
+            }
+        },
+        {
+            "+@gid": "901394424",
+            "+@lang": "JA",
+            "role": "Stephen Foster",
             "person": {
                 "+content": "Toshiko Fujita",
                 "+@id": "1668"
             }
         },
         {
-            "+@gid": "3725766705",
+            "+@gid": "1104680414",
             "+@lang": "JA",
-            "role": "Jeanie",
+            "role": "Henry Foster",
+            "person": {
+                "+content": "Hidetoshi Nakamura",
+                "+@id": "2402"
+            }
+        },
+        {
+            "+@gid": "1725529898",
+            "+@lang": "JA",
+            "role": "Liz Garland",
+            "person": {
+                "+content": "Rumiko Ukai",
+                "+@id": "2435"
+            }
+        },
+        {
+            "+@gid": "4036418128",
+            "+@lang": "JA",
+            "role": "Jeanie McDowell",
             "person": {
                 "+content": "Mitsuko Horie",
                 "+@id": "2595"
             }
         },
         {
-            "+@gid": "594776577",
+            "+@gid": "3426824890",
             "+@lang": "JA",
-            "role": "Freddy",
+            "role": "Dr. Frederick McDowell",
             "person": {
                 "+content": "Kinryū Arimoto",
-                "+@id": "5041"
+                "+@id": "3070"
             }
         },
         {
-            "+@gid": "3910477066",
+            "+@gid": "2728037831",
             "+@lang": "JA",
-            "role": "Angela",
+            "role": "Angela McDowell",
             "person": {
                 "+content": "Waka Kanda",
                 "+@id": "8689"
+            }
+        },
+        {
+            "+@gid": "1817782412",
+            "+@lang": "JA",
+            "role": "Mammy",
+            "person": {
+                "+content": "Noriko Oka",
+                "+@id": "8690"
+            }
+        },
+        {
+            "+@gid": "3237246526",
+            "+@lang": "JA",
+            "role": "Big Joe",
+            "person": {
+                "+content": "Takkō Ishimori",
+                "+@id": "9116"
+            }
+        },
+        {
+            "+@gid": "3904258924",
+            "+@lang": "JA",
+            "role": "Cathy",
+            "person": {
+                "+content": "Masako Miura",
+                "+@id": "9915"
+            }
+        },
+        {
+            "+@gid": "3367564531",
+            "+@lang": "JA",
+            "role": "Susan",
+            "person": {
+                "+content": "Kei Hayami",
+                "+@id": "10673"
+            }
+        },
+        {
+            "+@gid": "576083237",
+            "+@lang": "JA",
+            "role": "Dr. Jason",
+            "person": {
+                "+content": "Mitsuo Senda",
+                "+@id": "11256"
             }
         },
         {
@@ -1230,6 +1404,24 @@
             "person": {
                 "+content": "Keaton Yamada",
                 "+@id": "16306"
+            }
+        },
+        {
+            "+@gid": "2069805539",
+            "+@lang": "JA",
+            "role": "Robert Larkin",
+            "person": {
+                "+content": "Teruhisa Tsuyusaki",
+                "+@id": "17557"
+            }
+        },
+        {
+            "+@gid": "1799530328",
+            "+@lang": "TL",
+            "role": "Big Joe",
+            "person": {
+                "+content": "Alexx Agcaoili",
+                "+@id": "38933"
             }
         },
         {
@@ -1248,6 +1440,15 @@
             "person": {
                 "+content": "Minna Bernales",
                 "+@id": "38941"
+            }
+        },
+        {
+            "+@gid": "917575573",
+            "+@lang": "TL",
+            "role": "Robert",
+            "person": {
+                "+content": "Rafael Miranda",
+                "+@id": "51485"
             }
         },
         {
@@ -1296,6 +1497,6 @@
         }
     ],
     "+@date-added": null,
-    "+@date-last-modified-at": "2025-02-11T01:53:34Z",
-    "+@date-last-updated-at": "2025-02-11T01:53:34Z"
+    "+@date-last-modified-at": "2025-03-13T05:31:52Z",
+    "+@date-last-updated-at": "2025-03-13T05:31:52Z"
 }
