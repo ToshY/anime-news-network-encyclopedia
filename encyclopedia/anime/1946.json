@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Mikan Enikki",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-10T23:28:58Z",
+    "+@generated-on": "2025-03-13T04:35:04Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "4525"
@@ -129,31 +129,43 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "\"Naisho! no Bairin Cat\" by Chisa Yokohama",
-            "+@gid": "2424381230",
+            "+content": "\"Naisho! no Bairin Cat\" (ないしょ! のバイリン・キャット) by Chisa Yokoyama",
+            "+@gid": "3553575160",
             "+@type": "Opening Theme"
         },
         {
-            "+content": "#1: \"Ojii-san he no odegam\" by TARAKO (eps 1-10,21,31)",
-            "+@gid": "3286309185",
+            "+content": "#1: \"Ojii-san e no Otegami\" (おじいさんへのおてがみ) by TARAKO (eps 1-10,21,31)",
+            "+@gid": "1223846849",
             "+@type": "Ending Theme"
         },
         {
-            "+content": "#2: \"Dekkai Campus\" by TARAKO (eps 11-20,22-30)",
-            "+@gid": "2551790764",
+            "+content": "#2: \"Dekkai Campus\" (でっかいキャンバス) by TARAKO (eps 11-20,22-30)",
+            "+@gid": "1821573111",
             "+@type": "Ending Theme"
         },
         {
-            "+content": "Mikan Enikki",
-            "+@gid": "960597413",
+            "+content": "\"Ai ga Kurukuru Mawaru Hi - Koringo e\" (愛がくるくるまわる日~こりんごへ~) by Tarako",
+            "+@gid": "2955410940",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "みかん絵日記 | NIPPON ANIMATION",
+            "+@gid": "2787786432",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://www.nippon-animation.co.jp/work/1644/"
+        },
+        {
+            "+content": "Mikan @ Nippon Animation",
+            "+@gid": "3468604210",
             "+@type": "Official website",
             "+@lang": "EN",
-            "+@href": "http://www.nipponanimation.com/catalogue/077/"
+            "+@href": "https://www.nipponanimation.com/program/1644/"
         }
     ],
     "ratings": {
         "+@nb_votes": "10",
-        "+@weighted_score": "6.118"
+        "+@weighted_score": "6.1179"
     },
     "episode": [
         {
@@ -839,6 +851,15 @@
             }
         },
         {
+            "+@gid": "1900126515",
+            "+@lang": "ES",
+            "role": "Koringo",
+            "person": {
+                "+content": "Maria Moscardó",
+                "+@id": "55630"
+            }
+        },
+        {
             "+@gid": "2974465414",
             "+@lang": "ES",
             "role": "Buton",
@@ -872,6 +893,159 @@
             "person": {
                 "+content": "Montse Segarra",
                 "+@id": "102702"
+            }
+        },
+        {
+            "+@gid": "2353256020",
+            "+@lang": "JA",
+            "role": "Shizuyo Okuda",
+            "person": {
+                "+content": "Chisa Yokoyama",
+                "+@id": "296"
+            }
+        },
+        {
+            "+@gid": "3440584551",
+            "+@lang": "JA",
+            "role": "Sera Kusunoki",
+            "person": {
+                "+content": "Kazue Ikura",
+                "+@id": "303"
+            }
+        },
+        {
+            "+@gid": "1550074421",
+            "+@lang": "JA",
+            "role": "Kikuko Kusanagi",
+            "person": {
+                "+content": "Sumi Shimamoto",
+                "+@id": "787"
+            }
+        },
+        {
+            "+@gid": "2190814127",
+            "+@lang": "JA",
+            "role": "Tom Kusanagi",
+            "person": {
+                "+content": "Akiko Hiramatsu",
+                "+@id": "854"
+            }
+        },
+        {
+            "+@gid": "2566911627",
+            "+@lang": "JA",
+            "role": "Michiharu Okuno",
+            "person": {
+                "+content": "Megumi Tano",
+                "+@id": "948"
+            }
+        },
+        {
+            "+@gid": "3948912317",
+            "+@lang": "JA",
+            "role": "Chibitarō",
+            "person": {
+                "+content": "Junko Asami",
+                "+@id": "966"
+            }
+        },
+        {
+            "+@gid": "2223931709",
+            "+@lang": "JA",
+            "role": "Kyōko Tachibana",
+            "person": {
+                "+content": "Junko Asami",
+                "+@id": "966"
+            }
+        },
+        {
+            "+@gid": "3134632112",
+            "+@lang": "JA",
+            "role": "Mikan",
+            "person": {
+                "+content": "TARAKO",
+                "+@id": "1592"
+            }
+        },
+        {
+            "+@gid": "2801655287",
+            "+@lang": "JA",
+            "role": "Molly",
+            "person": {
+                "+content": "Yōko Kawanami",
+                "+@id": "2062"
+            }
+        },
+        {
+            "+@gid": "2419319349",
+            "+@lang": "JA",
+            "role": "Taichi Tayama",
+            "person": {
+                "+content": "Chie Satō",
+                "+@id": "2066"
+            }
+        },
+        {
+            "+@gid": "1586127065",
+            "+@lang": "JA",
+            "role": "Tōjirō Kusanagi",
+            "person": {
+                "+content": "Kenichi Ono",
+                "+@id": "2324"
+            }
+        },
+        {
+            "+@gid": "1180869288",
+            "+@lang": "JA",
+            "role": "Koringo",
+            "person": {
+                "+content": "Etsuko Kozakura",
+                "+@id": "2416"
+            }
+        },
+        {
+            "+@gid": "2401421379",
+            "+@lang": "JA",
+            "role": "Tatsuzō",
+            "person": {
+                "+content": "Minoru Yada",
+                "+@id": "2759"
+            }
+        },
+        {
+            "+@gid": "2398852120",
+            "+@lang": "JA",
+            "role": "Momojirō",
+            "person": {
+                "+content": "Yūichi Nagashima",
+                "+@id": "3246"
+            }
+        },
+        {
+            "+@gid": "1899361031",
+            "+@lang": "JA",
+            "role": "Botan",
+            "person": {
+                "+content": "Masahiro Anzai",
+                "+@id": "3407"
+            }
+        },
+        {
+            "+@gid": "1202126010",
+            "+@lang": "JA",
+            "role": "Kurobuchi",
+            "person": {
+                "+content": "Katsumi Suzuki",
+                "+@id": "3763"
+            }
+        },
+        {
+            "+@gid": "2152531540",
+            "+@lang": "JA",
+            "role": "Kiri",
+            "person": {
+                "+content": "Naoko Watanabe",
+                "+@id": "15988"
             }
         },
         {
@@ -965,6 +1139,6 @@
         }
     ],
     "+@date-added": null,
-    "+@date-last-modified-at": "2025-02-10T23:28:59Z",
-    "+@date-last-updated-at": "2025-02-10T23:28:59Z"
+    "+@date-last-modified-at": "2025-03-13T04:35:05Z",
+    "+@date-last-updated-at": "2025-03-13T04:35:05Z"
 }
