@@ -4,15 +4,21 @@
     "+@type": "TV",
     "+@name": "Chinpui",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-11T10:34:32Z",
+    "+@generated-on": "2025-03-13T15:33:16Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "8995"
     },
-    "related-next": {
-        "+@id": "8216",
-        "+@rel": "related"
-    },
+    "related-next": [
+        {
+            "+@id": "8216",
+            "+@rel": "related"
+        },
+        {
+            "+@id": "34956",
+            "+@rel": "related"
+        }
+    ],
     "info": [
         {
             "+@gid": "1783470879",
@@ -75,7 +81,7 @@
     ],
     "ratings": {
         "+@nb_votes": "3",
-        "+@weighted_score": "5.363"
+        "+@weighted_score": "5.3646"
     },
     "episode": [
         {
@@ -1580,6 +1586,6 @@
         }
     ],
     "+@date-added": null,
-    "+@date-last-modified-at": "2025-02-11T10:34:33Z",
-    "+@date-last-updated-at": "2025-02-11T10:34:33Z"
+    "+@date-last-modified-at": "2025-03-13T15:33:21Z",
+    "+@date-last-updated-at": "2025-03-13T15:33:21Z"
 }
