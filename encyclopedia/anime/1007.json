@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "MazinKaiser",
     "+@precision": "OAV",
-    "+@generated-on": "2025-02-11T15:31:29Z",
+    "+@generated-on": "2025-03-13T19:24:28Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "1100"
@@ -119,24 +119,17 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "Bandai Channel's <i>Mazinkaiser</i> Page",
-            "+@gid": "3460867420",
-            "+@type": "Official website",
-            "+@lang": "JA",
-            "+@href": "http://www.b-ch.com/contents/kaiser/index.html"
-        },
-        {
             "+content": "マジンカイザー",
-            "+@gid": "914172723",
+            "+@gid": "1577985886",
             "+@type": "Official website",
             "+@lang": "JA",
-            "+@href": "http://www.bandaivisual.co.jp/mazinger/series/"
+            "+@href": "https://v-storage.jp/sp-site/mazinkaiser/series/index.html"
         }
     ],
     "ratings": {
         "+@nb_votes": "166",
         "+@weighted_score": "7.2465",
-        "+@bayesian_score": "7.2632"
+        "+@bayesian_score": "7.26321"
     },
     "episode": [
         {
@@ -554,6 +547,15 @@
             }
         },
         {
+            "+@gid": "2821244151",
+            "+@lang": "EN",
+            "role": "Baron Ashura",
+            "person": {
+                "+content": "Lainie Frasier",
+                "+@id": "4787"
+            }
+        },
+        {
             "+@gid": "85917438",
             "+@lang": "EN",
             "role": "Professor Yumi",
@@ -590,6 +592,15 @@
             }
         },
         {
+            "+@gid": "1732056975",
+            "+@lang": "EN",
+            "role": "Baron Ashura",
+            "person": {
+                "+content": "Robert Kraft",
+                "+@id": "10283"
+            }
+        },
+        {
             "+@gid": "832349888",
             "+@lang": "EN",
             "role": "Kouji Kabuto",
@@ -608,12 +619,57 @@
             }
         },
         {
+            "+@gid": "1312366837",
+            "+@lang": "EN",
+            "role": "Nuke",
+            "person": {
+                "+content": "Ed Neal",
+                "+@id": "14755"
+            }
+        },
+        {
+            "+@gid": "1888081640",
+            "+@lang": "EN",
+            "role": "Professor Morimori",
+            "person": {
+                "+content": "Ed Neal",
+                "+@id": "14755"
+            }
+        },
+        {
             "+@gid": "909949954",
             "+@lang": "EN",
             "role": "Doctor Hell",
             "person": {
                 "+content": "John Paul Shepard",
                 "+@id": "15682"
+            }
+        },
+        {
+            "+@gid": "3792210320",
+            "+@lang": "EN",
+            "role": "Professor Sewashi",
+            "person": {
+                "+content": "Bill Pfuderer Jr.",
+                "+@id": "15684"
+            }
+        },
+        {
+            "+@gid": "2652962495",
+            "+@lang": "EN",
+            "role": "Professor Nossori",
+            "person": {
+                "+content": "D.J. Spankus",
+                "+@id": "15685"
+            }
+        },
+        {
+            "+@gid": "2714476203",
+            "+@lang": "EN",
+            "role": "Mucha",
+            "person": {
+                "+content": "Matt Hislope",
+                "+@id": "21381"
             }
         },
         {
@@ -770,12 +826,30 @@
             }
         },
         {
+            "+@gid": "681954681",
+            "+@lang": "ES",
+            "role": "Nuke",
+            "person": {
+                "+content": "Cesc Martínez",
+                "+@id": "68581"
+            }
+        },
+        {
             "+@gid": "431559065",
             "+@lang": "ES",
             "role": "Jun Hono",
             "person": {
                 "+content": "Eva Bau",
                 "+@id": "69008"
+            }
+        },
+        {
+            "+@gid": "2047466287",
+            "+@lang": "ES",
+            "role": "Mucha",
+            "person": {
+                "+content": "Dario Torrent",
+                "+@id": "71218"
             }
         },
         {
@@ -914,6 +988,15 @@
             }
         },
         {
+            "+@gid": "1992599926",
+            "+@lang": "JA",
+            "role": "Gamia Q",
+            "person": {
+                "+content": "Ryōka Yuzuki",
+                "+@id": "545"
+            }
+        },
+        {
             "+@gid": "1500021018",
             "+@lang": "JA",
             "role": "Tetsuya Tsurugi",
@@ -950,6 +1033,24 @@
             }
         },
         {
+            "+@gid": "2539501351",
+            "+@lang": "JA",
+            "role": "Nuke",
+            "person": {
+                "+content": "Hideyuki Umezu",
+                "+@id": "1256"
+            }
+        },
+        {
+            "+@gid": "3785906592",
+            "+@lang": "JA",
+            "role": "Professor Nossori",
+            "person": {
+                "+content": "Hideyuki Umezu",
+                "+@id": "1256"
+            }
+        },
+        {
             "+@gid": "3125886371",
             "+@lang": "JA",
             "role": "Boss",
@@ -965,6 +1066,24 @@
             "person": {
                 "+content": "Shiho Kikuchi",
                 "+@id": "1628"
+            }
+        },
+        {
+            "+@gid": "2429370031",
+            "+@lang": "JA",
+            "role": "Professor Morimori",
+            "person": {
+                "+content": "Hidenari Ugaki",
+                "+@id": "2049"
+            }
+        },
+        {
+            "+@gid": "1615763832",
+            "+@lang": "JA",
+            "role": "Baron Ashura",
+            "person": {
+                "+content": "Hidekatsu Shibata",
+                "+@id": "2172"
             }
         },
         {
@@ -992,6 +1111,33 @@
             "person": {
                 "+content": "Sayaka Aida",
                 "+@id": "9112"
+            }
+        },
+        {
+            "+@gid": "656942542",
+            "+@lang": "JA",
+            "role": "Baron Ashura",
+            "person": {
+                "+content": "Haruko Kitahama",
+                "+@id": "9123"
+            }
+        },
+        {
+            "+@gid": "1520692493",
+            "+@lang": "JA",
+            "role": "Mucha",
+            "person": {
+                "+content": "Kōichi Nagano",
+                "+@id": "10944"
+            }
+        },
+        {
+            "+@gid": "789030503",
+            "+@lang": "JA",
+            "role": "Professor Sewashi",
+            "person": {
+                "+content": "Kōichi Nagano",
+                "+@id": "10944"
             }
         }
     ],
@@ -1062,6 +1208,6 @@
         }
     ],
     "+@date-added": null,
-    "+@date-last-modified-at": "2025-02-11T15:31:35Z",
-    "+@date-last-updated-at": "2025-02-11T15:31:35Z"
+    "+@date-last-modified-at": "2025-03-13T19:24:31Z",
+    "+@date-last-updated-at": "2025-03-13T19:24:31Z"
 }
