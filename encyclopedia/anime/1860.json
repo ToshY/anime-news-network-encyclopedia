@@ -2,9 +2,9 @@
     "+@id": "1860",
     "+@gid": "910707398",
     "+@type": "TV",
-    "+@name": "Kinpatsu no Jeanie",
-    "+@precision": "TV",
-    "+@generated-on": "2025-02-11T02:56:40Z",
+    "+@name": "Jeanie with the Light Brown Hair",
+    "+@precision": "TV 1",
+    "+@generated-on": "2025-03-13T06:40:03Z",
     "related-next": {
         "+@id": "1939",
         "+@rel": "remake"
@@ -30,10 +30,10 @@
             ]
         },
         {
-            "+content": "Kinpatsu no Jeanie",
-            "+@gid": "2538761043",
+            "+content": "Jeanie with the Light Brown Hair",
+            "+@gid": "861327204",
             "+@type": "Main title",
-            "+@lang": "JA"
+            "+@lang": "EN"
         },
         {
             "+content": "Blonde Jeanie",
@@ -54,16 +54,16 @@
             "+@lang": "PT"
         },
         {
-            "+content": "Jeanie with the Light Brown Hair",
-            "+@gid": "861327204",
-            "+@type": "Alternative title",
-            "+@lang": "EN"
-        },
-        {
             "+content": "Jeanie, la del cabello rubio",
             "+@gid": "1991486401",
             "+@type": "Alternative title",
             "+@lang": "ES"
+        },
+        {
+            "+content": "Kinpatsu no Jeanie",
+            "+@gid": "2538761043",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
         },
         {
             "+content": "Блондинка Джини",
@@ -118,11 +118,16 @@
             "+content": "1979-07-19 to 1979-10-18",
             "+@gid": "2923960016",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Kinpatsu no Jeanie\" (金髪のジェニー) by Emiko Shiratori",
+            "+@gid": "2885819513",
+            "+@type": "Opening Theme"
         }
     ],
     "ratings": {
         "+@nb_votes": "9",
-        "+@weighted_score": "6.0475"
+        "+@weighted_score": "6.0463"
     },
     "episode": [
         {
@@ -368,6 +373,14 @@
             }
         },
         {
+            "+@gid": "586781021",
+            "task": "Character Design",
+            "person": {
+                "+content": "Masami Abe",
+                "+@id": "19531"
+            }
+        },
+        {
             "+@gid": "1996384646",
             "task": "Animation Director",
             "person": {
@@ -502,6 +515,15 @@
             }
         },
         {
+            "+@gid": "2925336553",
+            "+@lang": "IT",
+            "role": "Betty",
+            "person": {
+                "+content": "Francesca Guadagno",
+                "+@id": "26372"
+            }
+        },
+        {
             "+@gid": "1617314072",
             "+@lang": "IT",
             "role": "Jeannie",
@@ -511,21 +533,30 @@
             }
         },
         {
+            "+@gid": "1121701677",
+            "+@lang": "JA",
+            "role": "Betty",
+            "person": {
+                "+content": "Mayumi Tanaka",
+                "+@id": "301"
+            }
+        },
+        {
+            "+@gid": "2375751789",
+            "+@lang": "JA",
+            "role": "James Reed",
+            "person": {
+                "+content": "Osamu Saka",
+                "+@id": "929"
+            }
+        },
+        {
             "+@gid": "1947935551",
             "+@lang": "JA",
             "role": "Robert McBee",
             "person": {
                 "+content": "Hiroya Ishimaru",
                 "+@id": "1023"
-            }
-        },
-        {
-            "+@gid": "3463634083",
-            "+@lang": "JA",
-            "role": "Jeanie",
-            "person": {
-                "+content": "Kazue Komiya",
-                "+@id": "1585"
             }
         },
         {
@@ -545,6 +576,42 @@
                 "+content": "Hiroko Maruyama",
                 "+@id": "3108"
             }
+        },
+        {
+            "+@gid": "1880944473",
+            "+@lang": "JA",
+            "role": "Narrator",
+            "person": {
+                "+content": "Mihoko Inagaki",
+                "+@id": "59109"
+            }
+        },
+        {
+            "+@gid": "3786286267",
+            "+@lang": "JA",
+            "role": "Sister Elizabeth",
+            "person": {
+                "+content": "Kōko Kagawa",
+                "+@id": "71072"
+            }
+        },
+        {
+            "+@gid": "2169121693",
+            "+@lang": "JA",
+            "role": "Catherine Reed",
+            "person": {
+                "+content": "Aiko Nakayama",
+                "+@id": "204621"
+            }
+        },
+        {
+            "+@gid": "945125944",
+            "+@lang": "JA",
+            "role": "Gloria Reed",
+            "person": {
+                "+content": "Keiko Yori",
+                "+@id": "204622"
+            }
         }
     ],
     "credit": {
@@ -556,6 +623,6 @@
         }
     },
     "+@date-added": null,
-    "+@date-last-modified-at": "2025-02-11T02:56:43Z",
-    "+@date-last-updated-at": "2025-02-11T02:56:43Z"
+    "+@date-last-modified-at": "2025-03-13T06:40:06Z",
+    "+@date-last-updated-at": "2025-03-13T06:40:06Z"
 }
