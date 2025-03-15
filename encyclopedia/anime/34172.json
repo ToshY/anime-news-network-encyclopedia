@@ -1,10 +1,10 @@
 {
     "+@id": "34172",
     "+@gid": "2662017219",
-    "+@type": "ONA",
+    "+@type": "TV",
     "+@name": "Twins Hinahima",
-    "+@precision": "ONA",
-    "+@generated-on": "2025-02-13T02:56:10Z",
+    "+@precision": "TV",
+    "+@generated-on": "2025-03-15T03:01:22Z",
     "info": [
         {
             "+@gid": "571027928",
@@ -38,7 +38,7 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2025 (spring)",
+            "+content": "2025-03-29",
             "+@gid": "3642515615",
             "+@type": "Vintage"
         },
@@ -50,12 +50,105 @@
             "+@href": "https://anime-hinahima.com/"
         }
     ],
-    "news": {
-        "+content": "Frontier Works, KaKa Creation Reveal <cite>Twins Hinahima</cite> AI Anime",
-        "+@datetime": "2024-12-14T10:32:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-12-14/frontier-works-kaka-creation-reveal-twins-hinahima-ai-anime/.219056"
-    },
+    "news": [
+        {
+            "+content": "Frontier Works, KaKa Creation Reveal <cite>Twins Hinahima</cite> AI Anime",
+            "+@datetime": "2024-12-14T10:32:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-14/frontier-works-kaka-creation-reveal-twins-hinahima-ai-anime/.219056"
+        },
+        {
+            "+content": "Frontier Works, KaKa Creation's <cite>Twins Hinahima</cite> AI Anime Reveals March 29 TV Debut",
+            "+@datetime": "2025-02-28T10:41:39Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-28/frontier-works-kaka-creation-twins-hinahima-ai-anime-reveals-march-29-tv-debut/.221769"
+        }
+    ],
+    "staff": [
+        {
+            "+@gid": "2360209946",
+            "task": "Director",
+            "person": {
+                "+content": "Kō Nakano",
+                "+@id": "278829"
+            }
+        },
+        {
+            "+@gid": "4172999004",
+            "task": "Script",
+            "person": {
+                "+content": "Yū Shinada",
+                "+@id": "278827"
+            }
+        },
+        {
+            "+@gid": "1449497430",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Naomichi Iizuka",
+                "+@id": "278828"
+            }
+        },
+        {
+            "+@gid": "1217387708",
+            "task": "Music",
+            "person": {
+                "+content": "Kujira Yumemi",
+                "+@id": "216125"
+            }
+        },
+        {
+            "+@gid": "2225158139",
+            "task": "Character Design",
+            "person": {
+                "+content": "Takumi Yokota",
+                "+@id": "77988"
+            }
+        },
+        {
+            "+@gid": "2986748397",
+            "task": "3D Animation Director",
+            "person": {
+                "+content": "Takashi Kawamura",
+                "+@id": "278817"
+            }
+        },
+        {
+            "+@gid": "1594830598",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Masayoshi Ozawa",
+                "+@id": "167099"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3674056949",
+            "+@lang": "JA",
+            "role": "Hinana",
+            "person": {
+                "+content": "Yurie Igoma",
+                "+@id": "224869"
+            }
+        },
+        {
+            "+@gid": "813737485",
+            "+@lang": "JA",
+            "role": "Himari",
+            "person": {
+                "+content": "Sae Hiratsuka",
+                "+@id": "230669"
+            }
+        }
+    ],
     "credit": [
+        {
+            "+@gid": "1837389713",
+            "task": "Animation Production",
+            "company": {
+                "+content": "KaKa Technology Studio",
+                "+@id": "26511"
+            }
+        },
         {
             "+@gid": "1483301963",
             "task": "Production",
@@ -74,6 +167,6 @@
         }
     ],
     "+@date-added": "2024-12-14T06:16:39Z",
-    "+@date-last-modified-at": "2025-02-13T02:56:11Z",
-    "+@date-last-updated-at": "2025-02-13T02:56:11Z"
+    "+@date-last-modified-at": "2025-03-15T03:01:23Z",
+    "+@date-last-updated-at": "2025-03-15T03:01:23Z"
 }
