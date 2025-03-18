@@ -18,14 +18,14 @@ All data retrieved from the Anime News Network API is converted from XML to JSON
 
 - Reports for the following categories are available: `anime`, `manga`, `person` and `company`.
 - Reports for each category can be found inside the [`./reports/<category>`](./reports) directory, denoted as `report.json`.
-- Reports are updated daily at **00:00 UTC**.
+- Reports are updated daily at cron schedule `0 0 * * *` (actual workflow execution time may be [delayed](https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows#schedule)).
 
 ### Encyclopedia
 
 - Encyclopedia entries for the following categories are available: `anime` and `manga`.
 - Encyclopedia entries for each category can be found inside the [`./encyclopedia/<category>`](./encyclopedia) directory, denoted as `<id>.json`, where the `<id>` corresponds to the id of the encyclopedia entry.
 - Encyclopedia entries are **not** available for ["related"](https://www.animenewsnetwork.com/encyclopedia/) entries, including but not limited to, `live-action` (type), `cancelled` (status), `Chinese` (non-Japanese).
-- Encyclopedia entries are updated (when missing or outdated) in batches of `50` items per workflow run every **60 minutes**.
+- Encyclopedia entries are updated (when missing or outdated) in batches of `50` items per workflow run at cron schedule `15 */4 * * *` (actual workflow execution time may be [delayed](https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows#schedule)).
 
 ### ✍️ Notes
 
@@ -37,7 +37,7 @@ All data retrieved from the Anime News Network API is converted from XML to JSON
 
 ### 📅 Releases
 
-- [Releases](https://github.com/ToshY/anime-news-network-encyclopedia/releases) are created daily at **00:30 UTC**.
+- [Releases](https://github.com/ToshY/anime-news-network-encyclopedia/releases) are created daily at cron schedule `30 0 * * *` (actual workflow execution time may be [delayed](https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows#schedule)).
 
 ## ℹ️ Disclaimer
 
