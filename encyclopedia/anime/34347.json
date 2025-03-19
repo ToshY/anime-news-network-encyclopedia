@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Fushigi no Kuni de Alice to -Dive in Wonderland-",
     "+@precision": "movie",
-    "+@generated-on": "2025-02-17T01:57:52Z",
+    "+@generated-on": "2025-03-19T02:00:20Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "476"
@@ -13,18 +13,18 @@
         {
             "+@gid": "2381667595",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34347-2381667595.1737080269.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34347-2381667595.1741931009.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34347-2381667595.1737080269.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34347-2381667595.1741931009.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34347-2381667595.1737080269.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34347-2381667595.1741931009.jpg",
+                    "+@width": "427",
                     "+@height": "600"
                 }
             ]
@@ -63,11 +63,18 @@
             "+@href": "https://sh-anime.shochiku.co.jp/alice-movie/"
         }
     ],
-    "news": {
-        "+content": "<i>Alice in Wonderland</i> Novel Gets 1st Anime Film by P.A. Works",
-        "+@datetime": "2025-01-17T01:49:16Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-01-16/alice-in-wonderland-novel-gets-1st-anime-film-by-p.a-works/.220132"
-    },
+    "news": [
+        {
+            "+content": "<i>Alice in Wonderland</i> Novel Gets 1st Anime Film by P.A. Works",
+            "+@datetime": "2025-01-17T01:49:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-16/alice-in-wonderland-novel-gets-1st-anime-film-by-p.a-works/.220132"
+        },
+        {
+            "+content": "<cite>Dive in Wonderland</cite> Anime Film's Teaser Unveils More Cast & Staff",
+            "+@datetime": "2025-03-14T02:33:12Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-13/dive-in-wonderland-anime-film-teaser-unveils-more-cast-and-staff/.222340"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3188950276",
@@ -86,15 +93,183 @@
             }
         },
         {
+            "+@gid": "1930698755",
+            "task": "Music",
+            "person": {
+                "+content": "kotringo",
+                "+@id": "94746"
+            }
+        },
+        {
             "+@gid": "1977747122",
             "task": "Original creator",
             "person": {
                 "+content": "Lewis Carroll",
                 "+@id": "5624"
             }
+        },
+        {
+            "+@gid": "2128244357",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Jun Suzuki",
+                "+@id": "138269"
+            }
+        },
+        {
+            "+@gid": "1759295788",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Tomomi Takada",
+                "+@id": "162592"
+            }
+        },
+        {
+            "+@gid": "2090536659",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Hiranko Konohana",
+                "+@id": "279528"
+            }
+        },
+        {
+            "+@gid": "987953031",
+            "task": "Character Design",
+            "person": {
+                "+content": "Mio Fujishima",
+                "+@id": "111033"
+            }
+        },
+        {
+            "+@gid": "2498993563",
+            "task": "Character Design",
+            "person": {
+                "+content": "Kōsuke Kawazura",
+                "+@id": "279530"
+            }
+        },
+        {
+            "+@gid": "2956328264",
+            "task": "Art Director",
+            "person": {
+                "+content": "Kentarō Akiyama",
+                "+@id": "15081"
+            }
+        },
+        {
+            "+@gid": "1453772341",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kanami Sekiguchi",
+                "+@id": "5383"
+            }
+        },
+        {
+            "+@gid": "574486056",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kōsuke Kawazura",
+                "+@id": "279530"
+            }
+        },
+        {
+            "+@gid": "2513951073",
+            "task": "3D Director",
+            "person": {
+                "+content": "Haruki Suzuki",
+                "+@id": "142362"
+            }
+        },
+        {
+            "+@gid": "1997718352",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Haru Yamada",
+                "+@id": "135072"
+            }
+        },
+        {
+            "+@gid": "1325187254",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Tomo Namiki",
+                "+@id": "149946"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "1888678569",
+            "+@lang": "JA",
+            "role": "The White Rabbit",
+            "person": {
+                "+content": "Kappei Yamaguchi",
+                "+@id": "277"
+            }
+        },
+        {
+            "+@gid": "2243660157",
+            "+@lang": "JA",
+            "role": "The Cheshire Cat",
+            "person": {
+                "+content": "Toshiyuki Morikawa",
+                "+@id": "692"
+            }
+        },
+        {
+            "+@gid": "2951053207",
+            "+@lang": "JA",
+            "role": "Ayako Azumino",
+            "person": {
+                "+content": "Keiko Toda",
+                "+@id": "931"
+            }
+        },
+        {
+            "+@gid": "2182937309",
+            "+@lang": "JA",
+            "role": "The March Hare",
+            "person": {
+                "+content": "Norito Yashima",
+                "+@id": "5654"
+            }
+        },
+        {
+            "+@gid": "2223778331",
+            "+@lang": "JA",
+            "role": "The Caterpillar",
+            "person": {
+                "+content": "Takahiro Yamamoto",
+                "+@id": "73612"
+            }
+        },
+        {
+            "+@gid": "1635671908",
+            "+@lang": "JA",
+            "role": "Humpty Dumpty",
+            "person": {
+                "+content": "Ryūichi Kosugi",
+                "+@id": "118524"
+            }
+        },
+        {
+            "+@gid": "3237254036",
+            "+@lang": "JA",
+            "role": "The Mad Hatte",
+            "person": {
+                "+content": "Kōji Yamamoto",
+                "+@id": "124412"
+            }
+        },
+        {
+            "+@gid": "2911542123",
+            "+@lang": "JA",
+            "role": "The Queen of Hearts",
+            "person": {
+                "+content": "Mayu Matsuoka",
+                "+@id": "140842"
+            }
+        },
         {
             "+@gid": "2061333202",
             "+@lang": "JA",
@@ -102,6 +277,15 @@
             "person": {
                 "+content": "Nanoka Hara",
                 "+@id": "225223"
+            }
+        },
+        {
+            "+@gid": "1576718793",
+            "+@lang": "JA",
+            "role": "Akira Urai",
+            "person": {
+                "+content": "Shōtarō Mamiya",
+                "+@id": "232350"
             }
         },
         {
@@ -141,6 +325,6 @@
         }
     ],
     "+@date-added": "2025-01-16T21:16:24Z",
-    "+@date-last-modified-at": "2025-02-17T01:57:52Z",
-    "+@date-last-updated-at": "2025-02-17T01:57:52Z"
+    "+@date-last-modified-at": "2025-03-19T02:01:37Z",
+    "+@date-last-updated-at": "2025-03-19T02:01:37Z"
 }
