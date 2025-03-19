@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Koupen-chan",
     "+@precision": "TV",
-    "+@generated-on": "2025-02-17T02:00:17Z",
+    "+@generated-on": "2025-03-19T04:35:29Z",
     "info": [
         {
             "+@gid": "2879862633",
@@ -38,7 +38,7 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2025-04",
+            "+content": "2025-04-06",
             "+@gid": "2358110259",
             "+@type": "Vintage"
         },
@@ -50,11 +50,18 @@
             "+@href": "https://www.koupenchan-anime.jp/"
         }
     ],
-    "news": {
-        "+content": "Koupen-chan Character Gets Short TV Anime in Spring 2025",
-        "+@datetime": "2024-12-17T16:14:42Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-12-17/koupen-chan-character-gets-short-tv-anime-in-spring-2025/.219189"
-    },
+    "news": [
+        {
+            "+content": "Koupen-chan Character Gets Short TV Anime in Spring 2025",
+            "+@datetime": "2024-12-17T16:14:42Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-17/koupen-chan-character-gets-short-tv-anime-in-spring-2025/.219189"
+        },
+        {
+            "+content": "<i>Koupen-chan</i> Short TV Anime's 2nd Video Unveils More Cast, April 6 Debut",
+            "+@datetime": "2025-03-05T10:57:09Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-05/koupen-chan-short-tv-anime-2nd-video-unveils-more-cast-april-6-debut/.221976"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1989909202",
@@ -113,15 +120,53 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "2246428760",
-        "+@lang": "JA",
-        "role": "Koupen-chan",
-        "person": {
-            "+content": "Ayaka Saitō",
-            "+@id": "3183"
+    "cast": [
+        {
+            "+@gid": "486832560",
+            "+@lang": "JA",
+            "role": "Enaga Yokoshima-san",
+            "person": {
+                "+content": "Ayaka Saitō",
+                "+@id": "3183"
+            }
+        },
+        {
+            "+@gid": "2246428760",
+            "+@lang": "JA",
+            "role": "Koupen-chan",
+            "person": {
+                "+content": "Ayaka Saitō",
+                "+@id": "3183"
+            }
+        },
+        {
+            "+@gid": "2847615415",
+            "+@lang": "JA",
+            "role": "\"Willing-to-teach type\" Polar Bear-san",
+            "person": {
+                "+content": "Kazuya Ichijō",
+                "+@id": "4868"
+            }
+        },
+        {
+            "+@gid": "718033843",
+            "+@lang": "JA",
+            "role": "Adelie-san",
+            "person": {
+                "+content": "Junji Majima",
+                "+@id": "21903"
+            }
+        },
+        {
+            "+@gid": "2687303995",
+            "+@lang": "JA",
+            "role": "Grown-up Penguin-san",
+            "person": {
+                "+content": "Sachi Kokuryu",
+                "+@id": "55289"
+            }
         }
-    },
+    ],
     "credit": {
         "+@gid": "2887866256",
         "task": "Animation Production",
@@ -131,6 +176,6 @@
         }
     },
     "+@date-added": "2024-12-17T22:54:54Z",
-    "+@date-last-modified-at": "2025-02-17T02:59:40Z",
-    "+@date-last-updated-at": "2025-02-17T02:59:40Z"
+    "+@date-last-modified-at": "2025-03-19T04:35:29Z",
+    "+@date-last-updated-at": "2025-03-19T04:35:29Z"
 }

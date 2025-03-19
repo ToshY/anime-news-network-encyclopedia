@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Eiga Oshiri Tantei: Star and Moon",
     "+@precision": "movie",
-    "+@generated-on": "2025-02-17T02:00:17Z",
+    "+@generated-on": "2025-03-19T04:35:28Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "31079"
@@ -58,11 +58,33 @@
             "+@href": "https://oshiri-movie.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Butt Detective</cite> Franchise Gets 3rd Anime Feature Film on March 20",
-        "+@datetime": "2024-12-18T01:20:11Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-12-17/butt-detective-franchise-gets-3rd-anime-feature-film-on-march-20/.219208"
-    },
+    "news": [
+        {
+            "+content": "<cite>Butt Detective</cite> Franchise Gets 3rd Anime Feature Film on March 20",
+            "+@datetime": "2024-12-18T01:20:11Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-17/butt-detective-franchise-gets-3rd-anime-feature-film-on-march-20/.219208"
+        },
+        {
+            "+content": "3rd <cite>Butt Detective</cite> Anime Film Posts Final Trailer",
+            "+@datetime": "2025-02-28T02:10:36Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-27/3rd-butt-detective-anime-film-posts-final-trailer/.221747"
+        },
+        {
+            "+content": "<cite>Butt Detective: Star and Moon</cite> Anime Film Previews Song, Dance Scene in Video",
+            "+@datetime": "2025-03-06T11:45:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-06/butt-detective-star-and-moon-anime-film-previews-song-dance-scene-in-video/.222031"
+        },
+        {
+            "+content": "<cite>Butt Detective: Star and Moon</cite> Anime Film Explores Phantom Thief G's Past in New Clip",
+            "+@datetime": "2025-03-11T00:41:59Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-10/butt-detective-star-and-moon-anime-film-explores-phantom-thief-g-past-in-new-clip/.222181"
+        },
+        {
+            "+content": "<cite>Butt Detective: Star and Moon</cite> Anime Film Announces Phantom Thief Cast",
+            "+@datetime": "2025-03-16T00:00:32Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-15/butt-detective-star-and-moon-anime-film-announces-phantom-thief-cast/.222419"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2081725681",
@@ -131,6 +153,15 @@
     ],
     "cast": [
         {
+            "+@gid": "651761872",
+            "+@lang": "JA",
+            "role": "Phantom Thief Q",
+            "person": {
+                "+content": "Kumiko Watanabe",
+                "+@id": "279"
+            }
+        },
+        {
             "+@gid": "1088378787",
             "+@lang": "JA",
             "role": "Mimi Togari",
@@ -151,16 +182,16 @@
         {
             "+@gid": "1814940009",
             "+@lang": "JA",
-            "role": "Kaitō U",
+            "role": "Phantom Thief U",
             "person": {
                 "+content": "Takahiro Sakurai",
                 "+@id": "5039"
             }
         },
         {
-            "+@gid": "1861752666",
+            "+@gid": "2132182980",
             "+@lang": "JA",
-            "role": "Hikaru Karasuda",
+            "role": "Phantom Thief K",
             "person": {
                 "+content": "Tomoyuki Shimura",
                 "+@id": "11972"
@@ -176,27 +207,36 @@
             }
         },
         {
-            "+@gid": "1407308387",
+            "+@gid": "2398331947",
             "+@lang": "JA",
-            "role": "Buta Buhirō",
+            "role": "Phantom Thief Z",
+            "person": {
+                "+content": "Tetsuya Kakihara",
+                "+@id": "28816"
+            }
+        },
+        {
+            "+@gid": "2260371895",
+            "+@lang": "JA",
+            "role": "Phantom Thief H",
             "person": {
                 "+content": "Yasuhiro Mamiya",
                 "+@id": "68280"
             }
         },
         {
-            "+@gid": "1299630930",
+            "+@gid": "2293308664",
             "+@lang": "JA",
-            "role": "Gōto",
+            "role": "Phantom Thief T",
             "person": {
                 "+content": "Shinya Takahashi",
                 "+@id": "74624"
             }
         },
         {
-            "+@gid": "2036073698",
+            "+@gid": "1658029001",
             "+@lang": "JA",
-            "role": "Berry",
+            "role": "Phantom Thief B",
             "person": {
                 "+content": "Rumi Okubo",
                 "+@id": "88587"
@@ -221,6 +261,24 @@
             }
         },
         {
+            "+@gid": "1925997353",
+            "+@lang": "JA",
+            "role": "Phantom Thief I",
+            "person": {
+                "+content": "Yuri Yoshida",
+                "+@id": "124324"
+            }
+        },
+        {
+            "+@gid": "2333641636",
+            "+@lang": "JA",
+            "role": "Phantom Thief N",
+            "person": {
+                "+content": "Daiki Kobayashi",
+                "+@id": "134824"
+            }
+        },
+        {
             "+@gid": "3621824347",
             "+@lang": "JA",
             "role": "Permanent",
@@ -241,7 +299,7 @@
         {
             "+@gid": "3177489862",
             "+@lang": "JA",
-            "role": "Kaitō G",
+            "role": "Phantom Thief G",
             "person": {
                 "+content": "Hōchū Ōtsuka",
                 "+@id": "274643"
@@ -257,6 +315,6 @@
         }
     },
     "+@date-added": "2024-12-18T01:46:04Z",
-    "+@date-last-modified-at": "2025-02-17T02:59:40Z",
-    "+@date-last-updated-at": "2025-02-17T02:59:40Z"
+    "+@date-last-modified-at": "2025-03-19T04:35:29Z",
+    "+@date-last-updated-at": "2025-03-19T04:35:29Z"
 }
