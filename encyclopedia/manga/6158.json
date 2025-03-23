@@ -4,15 +4,25 @@
     "+@type": "manga",
     "+@name": "Black Lagoon",
     "+@precision": "manga",
-    "+@generated-on": "2025-02-17T18:35:54Z",
+    "+@generated-on": "2025-03-23T16:34:37Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "12657"
     },
-    "related-next": {
-        "+@id": "6159",
-        "+@rel": "adaptation"
-    },
+    "related-next": [
+        {
+            "+@id": "6159",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "34809",
+            "+@rel": "spinoff"
+        },
+        {
+            "+@id": "34944",
+            "+@rel": "spinoff"
+        }
+    ],
     "info": [
         {
             "+@gid": "2190567865",
@@ -109,7 +119,7 @@
     "ratings": {
         "+@nb_votes": "141",
         "+@weighted_score": "8.2439",
-        "+@bayesian_score": "8.22855"
+        "+@bayesian_score": "8.22854"
     },
     "review": [
         {
@@ -497,6 +507,6 @@
         }
     },
     "+@date-added": "2005-12-19T21:02:40Z",
-    "+@date-last-modified-at": "2025-02-17T18:35:55Z",
-    "+@date-last-updated-at": "2025-02-17T18:35:55Z"
+    "+@date-last-modified-at": "2025-03-23T16:34:39Z",
+    "+@date-last-updated-at": "2025-03-23T16:34:39Z"
 }
