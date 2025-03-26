@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Let This Grieving Soul Retire!",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-02-24T03:01:43Z",
+    "+@generated-on": "2025-03-26T04:34:48Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32159"
@@ -13,24 +13,24 @@
         {
             "+@gid": "1950883847",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34234-1950883847.1735081086.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34234-1950883847.1742544193.jpg",
             "+@width": "200",
-            "+@height": "113",
+            "+@height": "142",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34234-1950883847.1735081086.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34234-1950883847.1742544193.jpg",
                     "+@width": "200",
-                    "+@height": "113"
+                    "+@height": "142"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34234-1950883847.1735081086.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34234-1950883847.1742544193.jpg",
                     "+@width": "500",
-                    "+@height": "282"
+                    "+@height": "354"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34234-1950883847.1735081086.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34234-1950883847.1742544193.jpg",
                     "+@width": "600",
-                    "+@height": "338"
+                    "+@height": "425"
                 }
             ]
         },
@@ -63,6 +63,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "2025-10",
+            "+@gid": "3606909805",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ「嘆きの亡霊は引退したい」公式サイト",
             "+@gid": "1103792390",
             "+@type": "Official website",
@@ -70,11 +75,28 @@
             "+@href": "https://nageki-anime.com/"
         }
     ],
-    "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "8"
+    "news": {
+        "+content": "<cite>Let This Grieving Soul Retire!</cite> Season 2 Teaser Announces October Debut",
+        "+@datetime": "2025-03-21T05:01:34Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-03-21/let-this-grieving-soul-retire-season-2-teaser-announces-october-debut/.222642"
     },
     "staff": [
+        {
+            "+@gid": "598315473",
+            "task": "Director",
+            "person": {
+                "+content": "Masahiro Takata",
+                "+@id": "35803"
+            }
+        },
+        {
+            "+@gid": "1604770205",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Hideki Shirane",
+                "+@id": "18588"
+            }
+        },
         {
             "+@gid": "2493396433",
             "task": "Original creator",
@@ -90,9 +112,233 @@
                 "+content": "Chyko",
                 "+@id": "216302"
             }
+        },
+        {
+            "+@gid": "1283664844",
+            "task": "Character Design",
+            "person": {
+                "+content": "Yūsuke Isōchi",
+                "+@id": "83538"
+            }
+        },
+        {
+            "+@gid": "1864524819",
+            "task": "Character Design",
+            "person": {
+                "+content": "Shingo Fujisaki",
+                "+@id": "97372"
+            }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "1984046778",
+            "+@lang": "JA",
+            "role": "Ark Rodin",
+            "person": {
+                "+content": "Jun Fukuyama",
+                "+@id": "337"
+            }
+        },
+        {
+            "+@gid": "2557769315",
+            "+@lang": "JA",
+            "role": "Gark Welter",
+            "person": {
+                "+content": "Akio Ōtsuka",
+                "+@id": "459"
+            }
+        },
+        {
+            "+@gid": "1993614703",
+            "+@lang": "JA",
+            "role": "Ansem Smart",
+            "person": {
+                "+content": "Tomokazu Sugita",
+                "+@id": "910"
+            }
+        },
+        {
+            "+@gid": "1001115612",
+            "+@lang": "JA",
+            "role": "Noctus",
+            "person": {
+                "+content": "Takashi Matsuyama",
+                "+@id": "3123"
+            }
+        },
+        {
+            "+@gid": "2070676956",
+            "+@lang": "JA",
+            "role": "Arnold Hale",
+            "person": {
+                "+content": "Tetsu Inada",
+                "+@id": "7015"
+            }
+        },
+        {
+            "+@gid": "1699590334",
+            "+@lang": "JA",
+            "role": "Sven",
+            "person": {
+                "+content": "Ryōhei Kimura",
+                "+@id": "8342"
+            }
+        },
+        {
+            "+@gid": "3861052731",
+            "+@lang": "JA",
+            "role": "Krai Andrey",
+            "person": {
+                "+content": "Kenshō Ono",
+                "+@id": "33692"
+            }
+        },
+        {
+            "+@gid": "501736675",
+            "+@lang": "JA",
+            "role": "Greg Zangief",
+            "person": {
+                "+content": "Kōji Seki",
+                "+@id": "73172"
+            }
+        },
+        {
+            "+@gid": "2914529281",
+            "+@lang": "JA",
+            "role": "Lapis Fulgor",
+            "person": {
+                "+content": "Haruka Shiraishi",
+                "+@id": "104544"
+            }
+        },
+        {
+            "+@gid": "1882550049",
+            "+@lang": "JA",
+            "role": "Sophia",
+            "person": {
+                "+content": "Reina Ueda",
+                "+@id": "116390"
+            }
+        },
+        {
+            "+@gid": "1369883122",
+            "+@lang": "JA",
+            "role": "Kris Argent",
+            "person": {
+                "+content": "Yū Serizawa",
+                "+@id": "118002"
+            }
+        },
+        {
+            "+@gid": "3908085613",
+            "+@lang": "JA",
+            "role": "Eva Renfield",
+            "person": {
+                "+content": "Yō Taichi",
+                "+@id": "119677"
+            }
+        },
+        {
+            "+@gid": "681956835",
+            "+@lang": "JA",
+            "role": "Tino Shade",
+            "person": {
+                "+content": "Miyu Kubota",
+                "+@id": "120928"
+            }
+        },
+        {
+            "+@gid": "2148441371",
+            "+@lang": "JA",
+            "role": "Luda Lumbeck",
+            "person": {
+                "+content": "Akira Sekine",
+                "+@id": "127847"
+            }
+        },
+        {
+            "+@gid": "1624552238",
+            "+@lang": "JA",
+            "role": "Luke Sykol",
+            "person": {
+                "+content": "Kōhei Amasaki",
+                "+@id": "131781"
+            }
+        },
+        {
+            "+@gid": "1461520882",
+            "+@lang": "JA",
+            "role": "Kaina Noss",
+            "person": {
+                "+content": "Haruka Michii",
+                "+@id": "134770"
+            }
+        },
+        {
+            "+@gid": "1980060266",
+            "+@lang": "JA",
+            "role": "Lucia Rogier",
+            "person": {
+                "+content": "Aoi Koga",
+                "+@id": "140695"
+            }
+        },
+        {
+            "+@gid": "1920706168",
+            "+@lang": "JA",
+            "role": "Sitri Smart",
+            "person": {
+                "+content": "Konomi Kohara",
+                "+@id": "153781"
+            }
+        },
+        {
+            "+@gid": "560026968",
+            "+@lang": "JA",
+            "role": "Gilbert Busch",
+            "person": {
+                "+content": "Seiji Maeda",
+                "+@id": "172662"
+            }
+        },
+        {
+            "+@gid": "1058216335",
+            "+@lang": "JA",
+            "role": "Chloe Welter",
+            "person": {
+                "+content": "Satomi Amano",
+                "+@id": "186176"
+            }
+        },
+        {
+            "+@gid": "3363261662",
+            "+@lang": "JA",
+            "role": "Éclair Gladis",
+            "person": {
+                "+content": "Hana Hishikawa",
+                "+@id": "207426"
+            }
+        },
+        {
+            "+@gid": "2423421901",
+            "+@lang": "JA",
+            "role": "Liz Smart",
+            "person": {
+                "+content": "Fairouz Ai",
+                "+@id": "215531"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2868829907",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Zero-G",
+            "+@id": "12033"
+        }
+    },
     "+@date-added": "2024-12-24T17:57:03Z",
-    "+@date-last-modified-at": "2025-02-24T03:01:44Z",
-    "+@date-last-updated-at": "2025-02-24T03:01:44Z"
+    "+@date-last-modified-at": "2025-03-26T04:34:49Z",
+    "+@date-last-updated-at": "2025-03-26T04:34:49Z"
 }
