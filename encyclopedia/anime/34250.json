@@ -2,40 +2,49 @@
     "+@id": "34250",
     "+@gid": "3884425819",
     "+@type": "TV",
-    "+@name": "Hibi wa Sugiredo Meshi Umashi",
+    "+@name": "Food for the Soul",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-02T03:03:41Z",
+    "+@generated-on": "2025-04-01T04:38:30Z",
+    "related-next": {
+        "+@id": "35121",
+        "+@rel": "adaptation"
+    },
     "info": [
         {
             "+@gid": "1604379388",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34250-1604379388.1735688091.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34250-1604379388.1741838161.jpg",
+            "+@width": "143",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34250-1604379388.1735688091.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34250-1604379388.1741838161.jpg",
+                    "+@width": "143",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34250-1604379388.1735688091.jpg",
-                    "+@width": "425",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34250-1604379388.1741838161.jpg",
+                    "+@width": "429",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34250-1604379388.1741838161.jpg",
+                    "+@width": "590",
+                    "+@height": "826"
                 }
             ]
         },
         {
-            "+content": "Hibi wa Sugiredo Meshi Umashi",
-            "+@gid": "2206272499",
-            "+@type": "Main title",
-            "+@lang": "JA"
-        },
-        {
             "+content": "Food for the Soul",
             "+@gid": "2345073531",
-            "+@type": "Alternative title",
+            "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Hibi wa Sugiredo Meshi Umashi",
+            "+@gid": "2206272499",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
         },
         {
             "+content": "日々は過ぎれど飯うまし",
@@ -44,7 +53,12 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2025",
+            "+content": "slice of life",
+            "+@gid": "962432588",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "2025-04-12",
             "+@gid": "3427442888",
             "+@type": "Vintage"
         },
@@ -56,11 +70,33 @@
             "+@href": "https://hibimeshi.com/"
         }
     ],
-    "news": {
-        "+content": "<i>Non Non Biyori</i> Staff Reunites for Original Anime <i>Hibi wa Sugiredo Meshi Umashi: Food for the Soul</i>",
-        "+@datetime": "2024-12-31T13:41:06Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-12-31/non-non-biyori-staff-reunites-for-original-anime-hibi-wa-sugiredo-meshi-umashi-food-for-the-soul/.219651"
-    },
+    "news": [
+        {
+            "+content": "<i>Non Non Biyori</i> Staff Reunites for Original Anime <i>Hibi wa Sugiredo Meshi Umashi: Food for the Soul</i>",
+            "+@datetime": "2024-12-31T13:41:06Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-31/non-non-biyori-staff-reunites-for-original-anime-hibi-wa-sugiredo-meshi-umashi-food-for-the-soul/.219651"
+        },
+        {
+            "+content": "<cite>Food for the Soul</cite> Anime's Video Reveals Cast, More Staff, Opening Song, April 12 TV Debut (Updated)",
+            "+@datetime": "2025-03-13T06:30:38Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-13/food-for-the-soul-anime-video-reveals-cast-more-staff-opening-song-april-12-tv-debut/.222265"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Spring 2025 Season",
+            "+@datetime": "2025-03-19T17:11:51Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-19/crunchyroll-announces-release-schedule-for-spring-2025-season/.222571"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>The Unaware Atelier Meister</cite>, <cite>Once Upon a Witch's Death</cite>, More Anime in India",
+            "+@datetime": "2025-03-22T11:59:20Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-22/crunchyroll-streams-the-unaware-atelier-meister-once-upon-a-witch-death-more-anime-in-india/.222673"
+        },
+        {
+            "+content": "<cite>Food for the Soul</cite> Anime's Video Reveals Ending Song by Reira Ushio",
+            "+@datetime": "2025-03-22T02:59:42Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-21/food-for-the-soul-anime-video-reveals-ending-song-by-reira-ushio/.222684"
+        }
+    ],
     "staff": [
         {
             "+@gid": "4186927149",
@@ -119,6 +155,14 @@
             }
         },
         {
+            "+@gid": "1463345666",
+            "task": "Art Director",
+            "person": {
+                "+content": "Junichi Higashi",
+                "+@id": "89"
+            }
+        },
+        {
             "+@gid": "3092867361",
             "task": "Chief Animation Director",
             "person": {
@@ -127,11 +171,83 @@
             }
         },
         {
+            "+@gid": "1551976784",
+            "task": "3D Director",
+            "person": {
+                "+content": "Motonari Ichikawa",
+                "+@id": "91981"
+            }
+        },
+        {
             "+@gid": "2226253396",
             "task": "Sound Director",
             "person": {
                 "+content": "Takeshi Takadera",
                 "+@id": "15047"
+            }
+        },
+        {
+            "+@gid": "1908616338",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yōichirō Satō",
+                "+@id": "279411"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1446008164",
+            "+@lang": "JA",
+            "role": "Kurea Furudate",
+            "person": {
+                "+content": "Ai Kakuma",
+                "+@id": "109103"
+            }
+        },
+        {
+            "+@gid": "2029354837",
+            "+@lang": "JA",
+            "role": "Shinon Ogawa",
+            "person": {
+                "+content": "Yoshino Aoyama",
+                "+@id": "123095"
+            }
+        },
+        {
+            "+@gid": "3031809747",
+            "+@lang": "JA",
+            "role": "Nana Hoshi",
+            "person": {
+                "+content": "Saya Aizawa",
+                "+@id": "154564"
+            }
+        },
+        {
+            "+@gid": "2551295309",
+            "+@lang": "JA",
+            "role": "Mako Kawai",
+            "person": {
+                "+content": "Hana Shimano",
+                "+@id": "208033"
+            }
+        },
+        {
+            "+@gid": "1974284700",
+            "+@lang": "JA",
+            "role": "Tsutsuji Higa",
+            "person": {
+                "+content": "Natsune Inui",
+                "+@id": "236546"
+            }
+        },
+        {
+            "+@gid": "1664595168",
+            "+@lang": "JA",
+            "role": "Mokotarō",
+            "person": {
+                "+content": "Azuki Moeno",
+                "+@id": "279408"
             }
         }
     ],
@@ -144,6 +260,6 @@
         }
     },
     "+@date-added": "2024-12-31T18:33:24Z",
-    "+@date-last-modified-at": "2025-03-02T03:03:41Z",
-    "+@date-last-updated-at": "2025-03-02T03:03:41Z"
+    "+@date-last-modified-at": "2025-04-01T04:38:31Z",
+    "+@date-last-updated-at": "2025-04-01T04:38:31Z"
 }
