@@ -2,9 +2,9 @@
     "+@id": "34040",
     "+@gid": "3384370577",
     "+@type": "TV",
-    "+@name": "Dekin no Mogura",
+    "+@name": "Dekin no Mogura: The Earthbound Mole",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-02T23:27:11Z",
+    "+@generated-on": "2025-04-02T02:04:43Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29555"
@@ -30,9 +30,15 @@
             ]
         },
         {
+            "+content": "Dekin no Mogura: The Earthbound Mole",
+            "+@gid": "1856790001",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Dekin no Mogura",
             "+@gid": "2882013099",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -66,6 +72,18 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://dekinnomogura.com/"
+        }
+    ],
+    "news": [
+        {
+            "+content": "<cite>Dekin no Mogura</cite> TV Anime Reveals 3 More Cast Members",
+            "+@datetime": "2025-03-21T11:44:08Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-21/dekin-no-mogura-tv-anime-reveals-3-more-cast-members/.222645"
+        },
+        {
+            "+content": "Crunchyroll to Stream <cite>KonoSuba 3 -Bonus Stage-</cite> OVA, <cite>Solo Camping for Two</cite>, <cite>Dekin no Mogura: The Earthbound Mole</cite> Anime",
+            "+@datetime": "2025-03-25T17:05:05Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-25/crunchyroll-to-stream-konosuba-3-bonus-stage-ova-solo-camping-for-two-dekin-no-mogura-the-/.222856"
         }
     ],
     "staff": [
@@ -110,15 +128,44 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "2472176218",
-        "+@lang": "JA",
-        "role": "Momoyuki Mogura",
-        "person": {
-            "+content": "Yūichi Nakamura",
-            "+@id": "15878"
+    "cast": [
+        {
+            "+@gid": "2472176218",
+            "+@lang": "JA",
+            "role": "Momoyuki Mogura",
+            "person": {
+                "+content": "Yūichi Nakamura",
+                "+@id": "15878"
+            }
+        },
+        {
+            "+@gid": "2106023580",
+            "+@lang": "JA",
+            "role": "Yaeko Kirihara",
+            "person": {
+                "+content": "Yukiyo Fujii",
+                "+@id": "87791"
+            }
+        },
+        {
+            "+@gid": "2699950900",
+            "+@lang": "JA",
+            "role": "Kuriaki Magi",
+            "person": {
+                "+content": "Genki Okawa",
+                "+@id": "116968"
+            }
+        },
+        {
+            "+@gid": "438208689",
+            "+@lang": "JA",
+            "role": "Shio Inukai",
+            "person": {
+                "+content": "Akane Fujita",
+                "+@id": "120322"
+            }
         }
-    },
+    ],
     "credit": {
         "+@gid": "1800048665",
         "task": "Animation Production",
@@ -128,6 +175,6 @@
         }
     },
     "+@date-added": "2024-11-18T04:54:24Z",
-    "+@date-last-modified-at": "2025-03-02T23:27:13Z",
-    "+@date-last-updated-at": "2025-03-02T23:27:13Z"
+    "+@date-last-modified-at": "2025-04-02T02:04:45Z",
+    "+@date-last-updated-at": "2025-04-02T02:04:45Z"
 }

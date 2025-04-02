@@ -4,28 +4,33 @@
     "+@type": "ONA",
     "+@name": "Cat's Eye",
     "+@precision": "ONA 2025",
-    "+@generated-on": "2025-03-02T23:27:10Z",
+    "+@generated-on": "2025-04-02T02:04:42Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "2898"
     },
     "info": [
         {
-            "+@gid": "1333967503",
+            "+@gid": "3356619957",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34069-1333967503.1732166698.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34069-3356619957.1742291786.jpg",
+            "+@width": "148",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34069-1333967503.1732166698.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34069-3356619957.1742291786.jpg",
+                    "+@width": "148",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34069-1333967503.1732166698.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34069-3356619957.1742291786.jpg",
+                    "+@width": "443",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34069-3356619957.1742291786.jpg",
+                    "+@width": "1594",
+                    "+@height": "2160"
                 }
             ]
         },
@@ -56,7 +61,7 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2025",
+            "+content": "2025-09",
             "+@gid": "2468674373",
             "+@type": "Vintage"
         },
@@ -68,20 +73,115 @@
             "+@href": "https://catseye-anime.com/"
         }
     ],
-    "news": {
-        "+content": "Tsukasa Hojo's <cite>Cat's Eye</cite> Manga Gets New Anime on Disney+ in 2025",
-        "+@datetime": "2024-11-21T03:36:17Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-11-20/tsukasa-hojo-cat-eye-manga-gets-new-anime-on-disney-in-2025/.218113"
-    },
-    "staff": {
-        "+@gid": "2377104954",
-        "task": "Original creator",
-        "person": {
-            "+content": "Tsukasa Hōjō",
-            "+@id": "3546"
+    "news": [
+        {
+            "+content": "Tsukasa Hojo's <cite>Cat's Eye</cite> Manga Gets New Anime on Disney+ in 2025",
+            "+@datetime": "2024-11-21T03:36:17Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-11-20/tsukasa-hojo-cat-eye-manga-gets-new-anime-on-disney-in-2025/.218113"
+        },
+        {
+            "+content": "New <cite>Cat's Eye</cite> Anime Unveils Teaser, Cast, Staff, September Debut",
+            "+@datetime": "2025-03-18T10:42:17Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-18/new-cat-eye-anime-unveils-teaser-cast-staff-september-debut/.222512"
+        }
+    ],
+    "staff": [
+        {
+            "+@gid": "1227492139",
+            "task": "Director",
+            "person": {
+                "+content": "Yoshifumi Sueda",
+                "+@id": "79991"
+            }
+        },
+        {
+            "+@gid": "4037074781",
+            "task": "Script",
+            "person": {
+                "+content": "Hayashi Mori",
+                "+@id": "125632"
+            }
+        },
+        {
+            "+@gid": "1355829283",
+            "task": "Music",
+            "person": {
+                "+content": "Yuki Hayashi",
+                "+@id": "118529"
+            }
+        },
+        {
+            "+@gid": "2377104954",
+            "task": "Original creator",
+            "person": {
+                "+content": "Tsukasa Hōjō",
+                "+@id": "3546"
+            }
+        },
+        {
+            "+@gid": "2121181972",
+            "task": "Character Design",
+            "person": {
+                "+content": "Yosuke Yabumoto",
+                "+@id": "34469"
+            }
+        },
+        {
+            "+@gid": "131915110",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yosuke Yabumoto",
+                "+@id": "34469"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3274011718",
+            "+@lang": "JA",
+            "role": "Rui Kisugi",
+            "person": {
+                "+content": "Ami Koshimizu",
+                "+@id": "17254"
+            }
+        },
+        {
+            "+@gid": "941581839",
+            "+@lang": "JA",
+            "role": "Toshio Utsumi",
+            "person": {
+                "+content": "Takuya Satō",
+                "+@id": "70856"
+            }
+        },
+        {
+            "+@gid": "2146363552",
+            "+@lang": "JA",
+            "role": "Hitomi Kisugi",
+            "person": {
+                "+content": "Mikako Komatsu",
+                "+@id": "86961"
+            }
+        },
+        {
+            "+@gid": "444318636",
+            "+@lang": "JA",
+            "role": "Ai Kisugi",
+            "person": {
+                "+content": "Yumiri Hanamori",
+                "+@id": "118609"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2561971793",
+        "task": "Animation Production",
+        "company": {
+            "+content": "LIDEN FILMS",
+            "+@id": "11121"
         }
     },
     "+@date-added": "2024-11-21T00:24:08Z",
-    "+@date-last-modified-at": "2025-03-02T23:27:13Z",
-    "+@date-last-updated-at": "2025-03-02T23:27:13Z"
+    "+@date-last-modified-at": "2025-04-02T02:04:45Z",
+    "+@date-last-updated-at": "2025-04-02T02:04:45Z"
 }

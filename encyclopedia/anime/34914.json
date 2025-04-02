@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Yūsha Party o Oidasareta Kiyō Binbō",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-03T02:00:06Z",
+    "+@generated-on": "2025-04-02T02:04:41Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "31316"
@@ -40,6 +40,11 @@
             "+@gid": "2013076129",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "3098057316",
+            "+@type": "Genres"
         },
         {
             "+content": "TVアニメ『勇者パーティを追い出された器用貧乏』",
@@ -128,15 +133,33 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "1384099930",
-        "task": "Animation Production",
-        "company": {
-            "+content": "animation studio42",
-            "+@id": "26520"
+    "credit": [
+        {
+            "+@gid": "1384099930",
+            "task": "Animation Production",
+            "company": {
+                "+content": "animation studio42",
+                "+@id": "26520"
+            }
+        },
+        {
+            "+@gid": "2132292212",
+            "task": "Production",
+            "company": {
+                "+content": "Kodansha",
+                "+@id": "88"
+            }
+        },
+        {
+            "+@gid": "2041272235",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Namco Filmworks",
+                "+@id": "22618"
+            }
         }
-    },
+    ],
     "+@date-added": "2025-03-02T19:01:03Z",
-    "+@date-last-modified-at": "2025-03-03T02:00:32Z",
-    "+@date-last-updated-at": "2025-03-03T02:00:32Z"
+    "+@date-last-modified-at": "2025-04-02T02:04:45Z",
+    "+@date-last-updated-at": "2025-04-02T02:04:45Z"
 }

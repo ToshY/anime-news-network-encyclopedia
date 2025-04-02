@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Uglymug, Epicfighter",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-02T23:27:11Z",
+    "+@generated-on": "2025-04-02T02:04:43Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27736"
@@ -53,6 +53,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "2025-07",
+            "+@gid": "2393828903",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ『ブサメンガチファイター』公式サイト",
             "+@gid": "2181963806",
             "+@type": "Official website",
@@ -60,7 +65,43 @@
             "+@href": "https://busamen-gachi-fighter.com/"
         }
     ],
+    "news": [
+        {
+            "+content": "<cite>'Uglymug, Epicfighter'</cite> Anime Announces 3 Cast Members",
+            "+@datetime": "2025-03-15T09:27:58Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-15/uglymug-epicfighter-anime-announces-3-cast-members/.222405"
+        },
+        {
+            "+content": "<cite>'Uglymug, Epicfighter'</cite> Anime's 1st Video Reveals Staff, July Debut",
+            "+@datetime": "2025-03-22T01:45:14Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-21/uglymug-epicfighter-anime-1st-video-reveals-staff-july-debut/.222679"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "2060904281",
+            "task": "Director",
+            "person": {
+                "+content": "Toshiyuki Sone",
+                "+@id": "147512"
+            }
+        },
+        {
+            "+@gid": "1319470896",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Kenta Ihara",
+                "+@id": "130920"
+            }
+        },
+        {
+            "+@gid": "2384621754",
+            "task": "Music",
+            "person": {
+                "+content": "Ryo Kawasaki",
+                "+@id": "151399"
+            }
+        },
         {
             "+@gid": "1518466015",
             "task": "Original creator",
@@ -76,17 +117,78 @@
                 "+content": "Ryō Hiromatsu",
                 "+@id": "238706"
             }
+        },
+        {
+            "+@gid": "1320791560",
+            "task": "Character Design",
+            "person": {
+                "+content": "Miki Matsumoto",
+                "+@id": "101278"
+            }
+        },
+        {
+            "+@gid": "1110604365",
+            "task": "Art Director",
+            "person": {
+                "+content": "Ryōki Matsumura",
+                "+@id": "149930"
+            }
+        },
+        {
+            "+@gid": "2259279501",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Kōhei Yoshida",
+                "+@id": "123180"
+            }
+        },
+        {
+            "+@gid": "750854199",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Nozomi Shitara",
+                "+@id": "6725"
+            }
         }
     ],
-    "cast": {
-        "+@gid": "2245211695",
-        "+@lang": "JA",
-        "role": "Shigeru Yoshioka",
-        "person": {
-            "+content": "Junichi Suwabe",
-            "+@id": "48696"
+    "cast": [
+        {
+            "+@gid": "2245211695",
+            "+@lang": "JA",
+            "role": "Shigeru Yoshioka",
+            "person": {
+                "+content": "Junichi Suwabe",
+                "+@id": "48696"
+            }
+        },
+        {
+            "+@gid": "2503366005",
+            "+@lang": "JA",
+            "role": "Leeds",
+            "person": {
+                "+content": "Maaya Uchida",
+                "+@id": "94314"
+            }
+        },
+        {
+            "+@gid": "2729645114",
+            "+@lang": "JA",
+            "role": "Seiji",
+            "person": {
+                "+content": "Kento Shiraishi",
+                "+@id": "157903"
+            }
+        },
+        {
+            "+@gid": "2259739488",
+            "+@lang": "JA",
+            "role": "Seika",
+            "person": {
+                "+content": "Konomi Inagaki",
+                "+@id": "206288"
+            }
         }
-    },
+    ],
     "credit": [
         {
             "+@gid": "1211076051",
@@ -106,6 +208,6 @@
         }
     ],
     "+@date-added": "2024-11-18T05:26:13Z",
-    "+@date-last-modified-at": "2025-03-02T23:27:13Z",
-    "+@date-last-updated-at": "2025-03-02T23:27:13Z"
+    "+@date-last-modified-at": "2025-04-02T02:04:45Z",
+    "+@date-last-updated-at": "2025-04-02T02:04:45Z"
 }
