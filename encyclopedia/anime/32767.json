@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Sakamoto Days",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-04T05:01:48Z",
+    "+@generated-on": "2025-04-03T16:40:32Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24170"
+    },
+    "related-next": {
+        "+@id": "35291",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -128,7 +132,7 @@
             "+@type": "Opening Theme"
         },
         {
-            "+content": "#1: \"Futsuu\" by Conton Candy (eps 1-6)",
+            "+content": "#1: \"Futsuu\" by Conton Candy (eps 1-6, 8-9)",
             "+@gid": "1572023110",
             "+@type": "Ending Theme"
         },
@@ -153,9 +157,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "15",
-        "+@weighted_score": "6.5245",
-        "+@bayesian_score": "6.96655"
+        "+@nb_votes": "68",
+        "+@weighted_score": "7.0942",
+        "+@bayesian_score": "7.15551"
     },
     "episode": [
         {
@@ -221,6 +225,30 @@
                 "+@gid": "2435012783",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "All Aboard",
+                "+@gid": "2873020467",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "Bathhouse Mode",
+                "+@gid": "1082977510",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "Casino Battle",
+                "+@gid": "635809572",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -278,6 +306,16 @@
             "+content": "<cite>Sakamoto Days</cite> Anime Casts Kazuyuki Okitsu, Nobuhiko Okamoto",
             "+@datetime": "2025-02-15T14:30:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-02-15/sakamoto-days-anime-casts-kazuyuki-okitsu-nobuhiko-okamoto/.221241"
+        },
+        {
+            "+content": "<cite>Sakamoto Days</cite> Anime Casts Masaaki Mizunaka",
+            "+@datetime": "2025-03-08T14:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-08/sakamoto-days-anime-casts-masaaki-mizunaka/.222092"
+        },
+        {
+            "+content": "<cite>Sakamoto Days</cite> Anime Adds 4 Cast Members",
+            "+@datetime": "2025-03-15T14:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-15/sakamoto-days-anime-adds-4-cast-members/.222360"
         }
     ],
     "staff": [
@@ -292,6 +330,14 @@
         {
             "+@gid": "1368003495",
             "task": "Series Composition",
+            "person": {
+                "+content": "Taku Kishimoto",
+                "+@id": "76253"
+            }
+        },
+        {
+            "+@gid": "2700462774",
+            "task": "Script",
             "person": {
                 "+content": "Taku Kishimoto",
                 "+@id": "76253"
@@ -370,6 +416,14 @@
             }
         },
         {
+            "+@gid": "805942846",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yoko Yanai",
+                "+@id": "250900"
+            }
+        },
+        {
             "+@gid": "3763042289",
             "task": "Episode Director",
             "person": {
@@ -426,6 +480,14 @@
             }
         },
         {
+            "+@gid": "2862291375",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yūki Taki",
+                "+@id": "162684"
+            }
+        },
+        {
             "+@gid": "1009808174",
             "task": "Unit Director",
             "person": {
@@ -479,6 +541,14 @@
             "person": {
                 "+content": "Yukiko Ban",
                 "+@id": "3911"
+            }
+        },
+        {
+            "+@gid": "2663064532",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yuko Iwaoka",
+                "+@id": "3912"
             }
         },
         {
@@ -570,6 +640,14 @@
             }
         },
         {
+            "+@gid": "3375293135",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yumi Horie",
+                "+@id": "37064"
+            }
+        },
+        {
             "+@gid": "1922608161",
             "task": "Animation Director",
             "person": {
@@ -626,6 +704,14 @@
             }
         },
         {
+            "+@gid": "1267505286",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Saki Hisamatsu",
+                "+@id": "72278"
+            }
+        },
+        {
             "+@gid": "2312288490",
             "task": "Animation Director",
             "person": {
@@ -639,6 +725,14 @@
             "person": {
                 "+content": "Michiyuki Nōjō",
                 "+@id": "78608"
+            }
+        },
+        {
+            "+@gid": "3443988697",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Atsumi Koganemaru",
+                "+@id": "84033"
             }
         },
         {
@@ -849,6 +943,15 @@
             "person": {
                 "+content": "Stephen Fu",
                 "+@id": "146239"
+            }
+        },
+        {
+            "+@gid": "2615880773",
+            "+@lang": "EN",
+            "role": "Wutang",
+            "person": {
+                "+content": "Howard Wang",
+                "+@id": "148110"
             }
         },
         {
@@ -1068,6 +1171,33 @@
             }
         },
         {
+            "+@gid": "3056870740",
+            "+@lang": "IT",
+            "role": "Takamura",
+            "person": {
+                "+content": "Ambrogio Colombo",
+                "+@id": "27627"
+            }
+        },
+        {
+            "+@gid": "1919220810",
+            "+@lang": "IT",
+            "role": "Kashima",
+            "person": {
+                "+content": "Daniele Raffaeli",
+                "+@id": "29555"
+            }
+        },
+        {
+            "+@gid": "459355110",
+            "+@lang": "IT",
+            "role": "Lu Wutang",
+            "person": {
+                "+content": "Francesco Venditti",
+                "+@id": "50872"
+            }
+        },
+        {
             "+@gid": "2395424940",
             "+@lang": "IT",
             "role": "Shishiba",
@@ -1284,6 +1414,15 @@
             }
         },
         {
+            "+@gid": "2244128567",
+            "+@lang": "JA",
+            "role": "Wutang",
+            "person": {
+                "+content": "Masaaki Mizunaka",
+                "+@id": "150267"
+            }
+        },
+        {
             "+@gid": "2451927954",
             "+@lang": "JA",
             "role": "Heisuke Mashimo",
@@ -1409,6 +1548,6 @@
         }
     ],
     "+@date-added": "2024-05-27T20:08:26Z",
-    "+@date-last-modified-at": "2025-03-04T05:31:44Z",
-    "+@date-last-updated-at": "2025-03-04T05:31:44Z"
+    "+@date-last-modified-at": "2025-04-03T16:40:39Z",
+    "+@date-last-updated-at": "2025-04-03T16:40:39Z"
 }

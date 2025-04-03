@@ -4,10 +4,14 @@
     "+@type": "manga",
     "+@name": "Lycoris Recoil",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-04T04:33:56Z",
+    "+@generated-on": "2025-04-03T16:40:27Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25104"
+    },
+    "related-next": {
+        "+@id": "34616",
+        "+@rel": "spinoff"
     },
     "info": [
         {
@@ -57,16 +61,30 @@
             "+@type": "Vintage"
         }
     ],
-    "release": {
-        "+content": "Lycoris Recoil (GN 1)",
-        "+@date": "2024-10-29",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=50684"
-    },
-    "news": {
-        "+content": "North American Anime, Manga Releases, October 27-November 2",
-        "+@datetime": "2024-10-30T21:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-10-30/north-american-anime-manga-releases-october-27-november-2/.217303"
-    },
+    "release": [
+        {
+            "+content": "Lycoris Recoil (GN 1)",
+            "+@date": "2024-10-29",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=50684"
+        },
+        {
+            "+content": "Lycoris Recoil (GN 2)",
+            "+@date": "2025-03-04",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52377"
+        }
+    ],
+    "news": [
+        {
+            "+content": "North American Anime, Manga Releases, October 27-November 2",
+            "+@datetime": "2024-10-30T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-10-30/north-american-anime-manga-releases-october-27-november-2/.217303"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, March 2-8",
+            "+@datetime": "2025-03-05T22:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-05/north-american-anime-manga-releases-march-2-8/.221897"
+        }
+    ],
     "staff": {
         "+@gid": "1617562397",
         "task": "Story & Art",
@@ -76,6 +94,6 @@
         }
     },
     "+@date-added": "2024-10-29T14:59:46Z",
-    "+@date-last-modified-at": "2025-03-04T04:33:58Z",
-    "+@date-last-updated-at": "2025-03-04T04:33:58Z"
+    "+@date-last-modified-at": "2025-04-03T16:40:34Z",
+    "+@date-last-updated-at": "2025-04-03T16:40:34Z"
 }
