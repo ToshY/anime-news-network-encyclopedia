@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Clevatess -Majū no Ō to Akago to Shikabane no Yūsha-",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-04T04:33:58Z",
+    "+@generated-on": "2025-04-03T12:56:45Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "32862"
@@ -64,11 +64,18 @@
             "+@href": "https://clevatess.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Clevatess</cite> Anime Casts Saya Aizawa, Unveils New Visual, 2025 Premiere",
-        "+@datetime": "2024-11-28T09:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-11-28/clevatess-anime-casts-saya-aizawa-unveils-new-visual-2025-premiere/.218386"
-    },
+    "news": [
+        {
+            "+content": "<cite>Clevatess</cite> Anime Casts Saya Aizawa, Unveils New Visual, 2025 Premiere",
+            "+@datetime": "2024-11-28T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-11-28/clevatess-anime-casts-saya-aizawa-unveils-new-visual-2025-premiere/.218386"
+        },
+        {
+            "+content": "<cite>Clevatess</cite> Anime Reveals More Cast, Staff, Opening Song in 2nd Promo Video",
+            "+@datetime": "2025-03-22T03:07:26Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-21/clevatess-anime-reveals-more-cast-staff-opening-song-in-2nd-promo-video/.222683"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2999886319",
@@ -103,15 +110,81 @@
             }
         },
         {
-            "+@gid": "2960842878",
+            "+@gid": "2927668390",
             "task": "Character Design",
             "person": {
-                "+content": "Souichirou Sako",
-                "+@id": "51459"
+                "+content": "Sōichirō Sako",
+                "+@id": "280079"
+            }
+        },
+        {
+            "+@gid": "2225436905",
+            "task": "Art Director",
+            "person": {
+                "+content": "Atsushi Morikawa",
+                "+@id": "4785"
+            }
+        },
+        {
+            "+@gid": "4016511190",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Sōichirō Sako",
+                "+@id": "280079"
+            }
+        },
+        {
+            "+@gid": "877382127",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takurō Tsukada",
+                "+@id": "79627"
+            }
+        },
+        {
+            "+@gid": "1782717697",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Kiyotaka Taguchi",
+                "+@id": "95588"
+            }
+        },
+        {
+            "+@gid": "3263006889",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Naoki Tsuji",
+                "+@id": "213869"
+            }
+        },
+        {
+            "+@gid": "2239295457",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Shigeki Asakawa",
+                "+@id": "72311"
             }
         }
     ],
     "cast": [
+        {
+            "+@gid": "3458817883",
+            "+@lang": "JA",
+            "role": "Stefan",
+            "person": {
+                "+content": "Mamoru Miyano",
+                "+@id": "10397"
+            }
+        },
+        {
+            "+@gid": "2818313820",
+            "+@lang": "JA",
+            "role": "Holgas",
+            "person": {
+                "+content": "Kenta Miyake",
+                "+@id": "10398"
+            }
+        },
         {
             "+@gid": "3392899541",
             "+@lang": "JA",
@@ -119,6 +192,15 @@
             "person": {
                 "+content": "Yūichi Nakamura",
                 "+@id": "15878"
+            }
+        },
+        {
+            "+@gid": "2646471136",
+            "+@lang": "JA",
+            "role": "Mirlo",
+            "person": {
+                "+content": "Yūki Ono",
+                "+@id": "57085"
             }
         },
         {
@@ -140,12 +222,48 @@
             }
         },
         {
+            "+@gid": "2733401542",
+            "+@lang": "JA",
+            "role": "Mudo",
+            "person": {
+                "+content": "Yōhei Azakami",
+                "+@id": "108274"
+            }
+        },
+        {
+            "+@gid": "2652176501",
+            "+@lang": "JA",
+            "role": "Minark",
+            "person": {
+                "+content": "Shimba Tsuchiya",
+                "+@id": "121607"
+            }
+        },
+        {
+            "+@gid": "2796843886",
+            "+@lang": "JA",
+            "role": "Katz",
+            "person": {
+                "+content": "Yūma Uchida",
+                "+@id": "124918"
+            }
+        },
+        {
             "+@gid": "2056240951",
             "+@lang": "JA",
             "role": "Luna",
             "person": {
                 "+content": "Saya Aizawa",
                 "+@id": "154564"
+            }
+        },
+        {
+            "+@gid": "806536948",
+            "+@lang": "JA",
+            "role": "King of Haiden",
+            "person": {
+                "+content": "Jun Hashizume",
+                "+@id": "280062"
             }
         }
     ],
@@ -158,6 +276,6 @@
         }
     },
     "+@date-added": "2024-07-02T06:45:51Z",
-    "+@date-last-modified-at": "2025-03-04T04:34:00Z",
-    "+@date-last-updated-at": "2025-03-04T04:34:00Z"
+    "+@date-last-modified-at": "2025-04-03T12:56:50Z",
+    "+@date-last-updated-at": "2025-04-03T12:56:50Z"
 }
