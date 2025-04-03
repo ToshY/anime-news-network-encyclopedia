@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Introduction to Mineralogy",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-04T03:03:25Z",
+    "+@generated-on": "2025-04-03T04:11:21Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "33493"
@@ -70,11 +70,18 @@
             "+@href": "https://rurinohouseki.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Introduction to Mineralogy</cite> Anime's Teaser Reveals Cast, Staff",
-        "+@datetime": "2024-09-16T07:18:58Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-09-16/introduction-to-mineralogy-anime-teaser-reveals-cast-staff/.215593"
-    },
+    "news": [
+        {
+            "+content": "<cite>Introduction to Mineralogy</cite> Anime's Teaser Reveals Cast, Staff",
+            "+@datetime": "2024-09-16T07:18:58Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-09-16/introduction-to-mineralogy-anime-teaser-reveals-cast-staff/.215593"
+        },
+        {
+            "+content": "<cite>Introduction to Mineralogy</cite> TV Anime Reveals More Cast in Promo Video",
+            "+@datetime": "2025-03-20T11:24:41Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-20/introduction-to-mineralogy-tv-anime-reveals-more-cast-in-promo-video/.222610"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1024314808",
@@ -135,6 +142,15 @@
     ],
     "cast": [
         {
+            "+@gid": "2741785315",
+            "+@lang": "JA",
+            "role": "Yōko Imari",
+            "person": {
+                "+content": "Yume Miyamoto",
+                "+@id": "49573"
+            }
+        },
+        {
             "+@gid": "2093657257",
             "+@lang": "JA",
             "role": "Nagi Arato",
@@ -150,6 +166,24 @@
             "person": {
                 "+content": "Miyari Nemoto",
                 "+@id": "185803"
+            }
+        },
+        {
+            "+@gid": "1762802411",
+            "+@lang": "JA",
+            "role": "Aoi Kasamaru",
+            "person": {
+                "+content": "Misuzu Yamada",
+                "+@id": "203100"
+            }
+        },
+        {
+            "+@gid": "1592343182",
+            "+@lang": "JA",
+            "role": "Shōko Seto",
+            "person": {
+                "+content": "Saki Hayashi",
+                "+@id": "279952"
             }
         }
     ],
@@ -172,6 +206,6 @@
         }
     ],
     "+@date-added": "2024-09-10T20:59:37Z",
-    "+@date-last-modified-at": "2025-03-04T03:03:28Z",
-    "+@date-last-updated-at": "2025-03-04T03:03:28Z"
+    "+@date-last-modified-at": "2025-04-03T04:37:26Z",
+    "+@date-last-updated-at": "2025-04-03T04:37:26Z"
 }

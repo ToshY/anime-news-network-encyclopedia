@@ -4,12 +4,31 @@
     "+@type": "TV",
     "+@name": "SHOSHIMIN: How to become Ordinary",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-03-04T03:03:25Z",
+    "+@generated-on": "2025-04-03T04:11:11Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "31486"
     },
     "info": [
+        {
+            "+@gid": "1789390519",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33532-1789390519.1741258952.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33532-1789390519.1741258952.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33532-1789390519.1741258952.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "SHOSHIMIN: How to become Ordinary",
             "+@gid": "2082226870",
@@ -29,9 +48,19 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2025-04",
+            "+content": "2025-04-05",
             "+@gid": "2271818206",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Kaseijin\" (火星人; Martian) by yorushika",
+            "+@gid": "2926318815",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"SugaRiddle\" by Nagi Yanagi",
+            "+@gid": "1670795365",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ『小市民シリーズ』公式サイト",
@@ -41,14 +70,113 @@
             "+@href": "https://shoshimin-anime.com/"
         }
     ],
-    "staff": {
-        "+@gid": "1524568619",
-        "task": "Original creator",
-        "person": {
-            "+content": "Honobu Yonezawa",
-            "+@id": "89605"
+    "news": [
+        {
+            "+content": "<cite>Shoshimin: How to become Ordinary</cite> Anime's 2nd Season Debuts on April 5",
+            "+@datetime": "2025-03-06T10:22:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-06/shoshimin-how-to-become-ordinary-anime-2nd-season-debuts-on-april-5/.222028"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Spring 2025 Season",
+            "+@datetime": "2025-03-19T17:11:51Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-19/crunchyroll-announces-release-schedule-for-spring-2025-season/.222571"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>The Unaware Atelier Meister</cite>, <cite>Once Upon a Witch's Death</cite>, More Anime in India",
+            "+@datetime": "2025-03-22T11:59:20Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-22/crunchyroll-streams-the-unaware-atelier-meister-once-upon-a-witch-death-more-anime-in-india/.222673"
         }
-    },
+    ],
+    "staff": [
+        {
+            "+@gid": "4184288007",
+            "task": "Director",
+            "person": {
+                "+content": "Mamoru Kanbe",
+                "+@id": "2747"
+            }
+        },
+        {
+            "+@gid": "1669243388",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Toshiya Ono",
+                "+@id": "98593"
+            }
+        },
+        {
+            "+@gid": "466248164",
+            "task": "Music",
+            "person": {
+                "+content": "Takahiro Obata",
+                "+@id": "153561"
+            }
+        },
+        {
+            "+@gid": "1524568619",
+            "task": "Original creator",
+            "person": {
+                "+content": "Honobu Yonezawa",
+                "+@id": "89605"
+            }
+        },
+        {
+            "+@gid": "2917678023",
+            "task": "Character Design",
+            "person": {
+                "+content": "Atsushi Saitō",
+                "+@id": "47425"
+            }
+        },
+        {
+            "+@gid": "2704166583",
+            "task": "Art Director",
+            "person": {
+                "+content": "Akira Itō",
+                "+@id": "79077"
+            }
+        },
+        {
+            "+@gid": "2795528583",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Mayu Gushiken",
+                "+@id": "146117"
+            }
+        },
+        {
+            "+@gid": "2609116109",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Katsunori Shimizu",
+                "+@id": "649"
+            }
+        },
+        {
+            "+@gid": "860391344",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Tomohiko Yaginuma",
+                "+@id": "75367"
+            }
+        },
+        {
+            "+@gid": "1849337758",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Yuushi Koshida",
+                "+@id": "54124"
+            }
+        },
+        {
+            "+@gid": "1331801840",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Tomoyuki Shiokawa",
+                "+@id": "46553"
+            }
+        }
+    ],
     "cast": [
         {
             "+@gid": "1608338308",
@@ -96,7 +224,15 @@
             }
         }
     ],
+    "credit": {
+        "+@gid": "2065435196",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Lapin Track",
+            "+@id": "13454"
+        }
+    },
     "+@date-added": "2024-09-14T20:19:41Z",
-    "+@date-last-modified-at": "2025-03-04T03:03:28Z",
-    "+@date-last-updated-at": "2025-03-04T03:03:28Z"
+    "+@date-last-modified-at": "2025-04-03T04:37:26Z",
+    "+@date-last-updated-at": "2025-04-03T04:37:26Z"
 }

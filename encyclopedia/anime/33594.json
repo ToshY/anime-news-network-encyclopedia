@@ -4,33 +4,28 @@
     "+@type": "movie",
     "+@name": "Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to be Loved",
     "+@precision": "movie",
-    "+@generated-on": "2025-03-04T03:03:24Z",
+    "+@generated-on": "2025-04-03T04:10:29Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "23562"
     },
     "info": [
         {
-            "+@gid": "2138827715",
+            "+@gid": "1824336984",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33594-2138827715.1736937390.jpg",
-            "+@width": "140",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33594-1824336984.1742720844.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33594-2138827715.1736937390.jpg",
-                    "+@width": "140",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33594-1824336984.1742720844.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33594-2138827715.1736937390.jpg",
-                    "+@width": "419",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33594-1824336984.1742720844.jpg",
+                    "+@width": "425",
                     "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A33594-2138827715.1736937390.jpg",
-                    "+@width": "797",
-                    "+@height": "1142"
                 }
             ]
         },
@@ -67,6 +62,11 @@
             "+@type": "Premiere date"
         },
         {
+            "+content": "\"Namida no Parade (Tearful Parade)\" by fhána",
+            "+@gid": "1812656680",
+            "+@type": "Opening Theme"
+        },
+        {
             "+content": "映画『小林さんちのメイドラゴン さみしがりやの竜』公式サイト",
             "+@gid": "1710370312",
             "+@type": "Official website",
@@ -74,11 +74,28 @@
             "+@href": "https://maidragon.jp/movie/"
         }
     ],
-    "news": {
-        "+content": "<cite>Miss Kobayashi's Dragon Maid</cite> Film's Teaser Reveals More Cast, June 27 Debut",
-        "+@datetime": "2025-01-15T10:19:36Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-01-15/miss-kobayashi-dragon-maid-film-teaser-reveals-more-cast-june-27-debut/.220060"
-    },
+    "news": [
+        {
+            "+content": "<cite>Miss Kobayashi's Dragon Maid</cite> Film's Teaser Reveals More Cast, June 27 Debut",
+            "+@datetime": "2025-01-15T10:19:36Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-15/miss-kobayashi-dragon-maid-film-teaser-reveals-more-cast-june-27-debut/.220060"
+        },
+        {
+            "+content": "<cite>Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to be Loved</cite> Film Adds 4D Screenings in Japan",
+            "+@datetime": "2025-03-14T11:07:07Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-14/miss-kobayashi-dragon-maid-a-lonely-dragon-wants-to-be-loved-film-adds-4d-screenings-in-japan/.222367"
+        },
+        {
+            "+content": "<cite>Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to be Loved</cite> Film Reveals More Cast, Theme Song by fhána",
+            "+@datetime": "2025-03-23T08:09:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-23/miss-kobayashi-dragon-maid-a-lonely-dragon-wants-to-be-loved-film-reveals-more-cast-theme-song-by-/.222763"
+        },
+        {
+            "+content": "<cite>Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to be Loved</cite> Film's Trailer Reveals Ending Song",
+            "+@datetime": "2025-04-02T09:46:30Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-02/miss-kobayashi-dragon-maid-a-lonely-dragon-wants-to-be-loved-film-trailer-reveals-ending-song/.223148"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1272575282",
@@ -155,6 +172,15 @@
     ],
     "cast": [
         {
+            "+@gid": "1541427569",
+            "+@lang": "JA",
+            "role": "Kimun Kamui",
+            "person": {
+                "+content": "Fumihiko Tachiki",
+                "+@id": "1465"
+            }
+        },
+        {
             "+@gid": "3280740319",
             "+@lang": "JA",
             "role": "Fafnir",
@@ -197,6 +223,15 @@
             "person": {
                 "+content": "Kaori Ishihara",
                 "+@id": "86249"
+            }
+        },
+        {
+            "+@gid": "2931229381",
+            "+@lang": "JA",
+            "role": "Azad",
+            "person": {
+                "+content": "Nobunaga Shimazaki",
+                "+@id": "86706"
             }
         },
         {
@@ -254,6 +289,6 @@
         }
     },
     "+@date-added": "2024-09-21T18:36:19Z",
-    "+@date-last-modified-at": "2025-03-04T03:03:28Z",
-    "+@date-last-updated-at": "2025-03-04T03:03:28Z"
+    "+@date-last-modified-at": "2025-04-03T04:37:26Z",
+    "+@date-last-updated-at": "2025-04-03T04:37:26Z"
 }
