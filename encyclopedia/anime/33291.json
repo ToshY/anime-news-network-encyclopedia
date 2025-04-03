@@ -4,28 +4,28 @@
     "+@type": "TV",
     "+@name": "Daily Life of a Middle-Aged Online Shopper in Another World",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-04T03:18:58Z",
+    "+@generated-on": "2025-04-03T08:39:02Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27488"
     },
     "info": [
         {
-            "+@gid": "3168077582",
+            "+@gid": "2696796201",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33291-3168077582.1731662674.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33291-2696796201.1742291744.jpg",
+            "+@width": "140",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33291-3168077582.1731662674.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33291-2696796201.1742291744.jpg",
+                    "+@width": "140",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33291-3168077582.1731662674.jpg",
-                    "+@width": "424",
-                    "+@height": "600"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33291-2696796201.1742291744.jpg",
+                    "+@width": "350",
+                    "+@height": "500"
                 }
             ]
         },
@@ -48,6 +48,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "adventure",
+            "+@gid": "2209457817",
+            "+@type": "Genres"
+        },
+        {
             "+content": "comedy",
             "+@gid": "3127127204",
             "+@type": "Genres"
@@ -61,6 +66,11 @@
             "+content": "slice of life",
             "+@gid": "2217408387",
             "+@type": "Genres"
+        },
+        {
+            "+content": "ecchi",
+            "+@gid": "1990952655",
+            "+@type": "Themes"
         },
         {
             "+content": "economics",
@@ -105,8 +115,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "5.0621"
+        "+@nb_votes": "15",
+        "+@weighted_score": "5.2235",
+        "+@bayesian_score": "6.26944"
     },
     "news": [
         {
@@ -128,6 +139,11 @@
             "+content": "<cite>Ameku M.D.</cite>, <cite>Headhunted to Another World</cite>, <cite>OKITSURA</cite>, More Anime Simulcast in India",
             "+@datetime": "2024-12-16T07:52:34Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-16/ameku-m.d-headhunted-to-another-world-okitsura-more-anime-simulcast-in-india/.219055"
+        },
+        {
+            "+content": "<cite>The Daily Life of a Middle-Aged Online Shopper in Another World</cite> Anime Announces 3 More Cast Members",
+            "+@datetime": "2025-03-05T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-05/the-daily-life-of-a-middle-aged-online-shopper-in-another-world-anime-announces-3-more-cast-members/.221971"
         }
     ],
     "staff": [
@@ -223,12 +239,30 @@
             }
         },
         {
+            "+@gid": "1709160091",
+            "+@lang": "JA",
+            "role": "Amaranthus",
+            "person": {
+                "+content": "Ami Koshimizu",
+                "+@id": "17254"
+            }
+        },
+        {
             "+@gid": "2429943035",
             "+@lang": "JA",
             "role": "Kenichi",
             "person": {
                 "+content": "Junichi Suwabe",
                 "+@id": "48696"
+            }
+        },
+        {
+            "+@gid": "1308412704",
+            "+@lang": "JA",
+            "role": "Melissa",
+            "person": {
+                "+content": "Kana Hanazawa",
+                "+@id": "53741"
             }
         },
         {
@@ -257,6 +291,15 @@
                 "+content": "Miyu Tomita",
                 "+@id": "145048"
             }
+        },
+        {
+            "+@gid": "3634346420",
+            "+@lang": "JA",
+            "role": "Lilith",
+            "person": {
+                "+content": "Hina Yomiya",
+                "+@id": "209292"
+            }
         }
     ],
     "credit": {
@@ -268,6 +311,6 @@
         }
     },
     "+@date-added": "2024-08-16T16:57:07Z",
-    "+@date-last-modified-at": "2025-03-04T03:40:11Z",
-    "+@date-last-updated-at": "2025-03-04T03:40:11Z"
+    "+@date-last-modified-at": "2025-04-03T08:39:05Z",
+    "+@date-last-updated-at": "2025-04-03T08:39:05Z"
 }

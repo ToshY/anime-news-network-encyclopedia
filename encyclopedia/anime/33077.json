@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Rascal Does Not Dream of Santa Claus",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-04T03:40:08Z",
+    "+@generated-on": "2025-04-03T08:39:03Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "27636"
@@ -48,8 +48,8 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2025",
-            "+@gid": "3164215102",
+            "+content": "2025-07",
+            "+@gid": "3512078473",
             "+@type": "Vintage"
         },
         {
@@ -60,11 +60,18 @@
             "+@href": "https://ao-buta.com/santa/"
         }
     ],
-    "news": {
-        "+content": "<cite>Rascal Does Not Dream of Santa Claus</cite> Anime Reveals Teaser Video, More Cast, New Visual",
-        "+@datetime": "2024-11-23T10:30:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-11-23/rascal-does-not-dream-of-santa-claus-anime-reveals-teaser-video-more-cast-new-visual/.218207"
-    },
+    "news": [
+        {
+            "+content": "<cite>Rascal Does Not Dream of Santa Claus</cite> Anime Reveals Teaser Video, More Cast, New Visual",
+            "+@datetime": "2024-11-23T10:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-11-23/rascal-does-not-dream-of-santa-claus-anime-reveals-teaser-video-more-cast-new-visual/.218207"
+        },
+        {
+            "+content": "<cite>Rascal Does Not Dream of Santa Claus</cite> Anime's Video Reveals More Cast, Opening Song, July TV Premiere",
+            "+@datetime": "2025-03-22T01:13:54Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-21/rascal-does-not-dream-of-santa-claus-anime-video-reveals-more-cast-opening-song-july-tv-premiere/.222677"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1847741902",
@@ -115,15 +122,65 @@
             }
         },
         {
+            "+@gid": "2047994009",
+            "task": "Art Director",
+            "person": {
+                "+content": "Hirofumi Sakagami",
+                "+@id": "84191"
+            }
+        },
+        {
+            "+@gid": "2387550018",
+            "task": "3D Director",
+            "person": {
+                "+content": "Kengo Oda",
+                "+@id": "161337"
+            }
+        },
+        {
+            "+@gid": "1881549688",
+            "task": "3D Director",
+            "person": {
+                "+content": "Hazuki Tanaka",
+                "+@id": "230761"
+            }
+        },
+        {
             "+@gid": "2892825633",
             "task": "Sound Director",
             "person": {
                 "+content": "Yoshikazu Iwanami",
                 "+@id": "979"
             }
+        },
+        {
+            "+@gid": "1456072126",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Xiao Mu Yang",
+                "+@id": "240316"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "2848689023",
+            "+@lang": "JA",
+            "role": "Nodoka Toyohama",
+            "person": {
+                "+content": "Maaya Uchida",
+                "+@id": "94314"
+            }
+        },
+        {
+            "+@gid": "2302407263",
+            "+@lang": "JA",
+            "role": "Shōko Makinohara",
+            "person": {
+                "+content": "Inori Minase",
+                "+@id": "95027"
+            }
+        },
         {
             "+@gid": "1240196884",
             "+@lang": "JA",
@@ -131,6 +188,33 @@
             "person": {
                 "+content": "Asami Seto",
                 "+@id": "95225"
+            }
+        },
+        {
+            "+@gid": "853854359",
+            "+@lang": "JA",
+            "role": "Tomoe Koga",
+            "person": {
+                "+content": "Nao Tōyama",
+                "+@id": "95316"
+            }
+        },
+        {
+            "+@gid": "3211255920",
+            "+@lang": "JA",
+            "role": "Rio Futaba",
+            "person": {
+                "+content": "Atsumi Tanezaki",
+                "+@id": "111376"
+            }
+        },
+        {
+            "+@gid": "2116873340",
+            "+@lang": "JA",
+            "role": "Kaede Azusagawa",
+            "person": {
+                "+content": "Yurika Kubo",
+                "+@id": "112826"
             }
         },
         {
@@ -150,6 +234,42 @@
                 "+content": "Reina Ueda",
                 "+@id": "116390"
             }
+        },
+        {
+            "+@gid": "1179404377",
+            "+@lang": "JA",
+            "role": "Uzuki Hirokawa",
+            "person": {
+                "+content": "Sora Amamiya",
+                "+@id": "119743"
+            }
+        },
+        {
+            "+@gid": "902740193",
+            "+@lang": "JA",
+            "role": "Sara Himeji",
+            "person": {
+                "+content": "Konomi Kohara",
+                "+@id": "153781"
+            }
+        },
+        {
+            "+@gid": "1489579607",
+            "+@lang": "JA",
+            "role": "Miori Mitō",
+            "person": {
+                "+content": "Manaka Iwami",
+                "+@id": "156030"
+            }
+        },
+        {
+            "+@gid": "3782005011",
+            "+@lang": "JA",
+            "role": "Ikumi Akagi",
+            "person": {
+                "+content": "Aya Yamane",
+                "+@id": "173872"
+            }
         }
     ],
     "credit": {
@@ -161,6 +281,6 @@
         }
     },
     "+@date-added": "2024-08-02T17:42:02Z",
-    "+@date-last-modified-at": "2025-03-04T03:40:11Z",
-    "+@date-last-updated-at": "2025-03-04T03:40:11Z"
+    "+@date-last-modified-at": "2025-04-03T08:39:05Z",
+    "+@date-last-updated-at": "2025-04-03T08:39:05Z"
 }

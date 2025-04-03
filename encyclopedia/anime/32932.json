@@ -2,9 +2,9 @@
     "+@id": "32932",
     "+@gid": "1027293640",
     "+@type": "TV",
-    "+@name": "Reincarnated as a Neglected Noble",
+    "+@name": "SHIROHIYO - Reincarnated as a Neglected Noble",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-04T03:40:10Z",
+    "+@generated-on": "2025-04-03T08:39:03Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "32930"
@@ -30,7 +30,7 @@
             ]
         },
         {
-            "+content": "Reincarnated as a Neglected Noble",
+            "+content": "SHIROHIYO - Reincarnated as a Neglected Noble",
             "+@gid": "2456157991",
             "+@type": "Main title",
             "+@lang": "EN"
@@ -63,7 +63,12 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2025-07",
+            "+content": "2025-04-20 (streaming on ABEMA)",
+            "+@gid": "4187344924",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-07 (TV broadcast)",
             "+@gid": "3823554662",
             "+@type": "Vintage"
         },
@@ -75,11 +80,23 @@
             "+@href": "https://shirohiyo.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life</cite> Anime's Video Reveals Cast, Staff, July Debut",
-        "+@datetime": "2025-01-10T08:31:25Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-01-10/reincarnated-as-a-neglected-noble-raising-my-baby-brother-with-memories-from-my-past-life-anime-/.219895"
-    },
+    "news": [
+        {
+            "+content": "<cite>Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life</cite> Anime's Video Reveals Cast, Staff, July Debut",
+            "+@datetime": "2025-01-10T08:31:25Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-10/reincarnated-as-a-neglected-noble-raising-my-baby-brother-with-memories-from-my-past-life-anime-/.219895"
+        },
+        {
+            "+content": "<cite>Reincarnated as a Neglected Noble</cite> Anime Debuts 1st Online Starting on April 20 Before July TV Debut",
+            "+@datetime": "2025-03-28T09:52:40Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-28/reincarnated-as-a-neglected-noble-anime-debuts-1st-online-starting-on-april-20-before-july-tv-debut/.222985"
+        },
+        {
+            "+content": "Crunchyroll to Stream <cite>Kowloon Generic Romance</cite>, <cite>Maebashi Witches</cite>, <cite>Apocalypse Hotel</cite>, More Anime",
+            "+@datetime": "2025-04-02T16:26:12Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-02/crunchyroll-to-stream-kowloon-generic-romance-maebashi-witches-apocalypse-hotel-more-anime/.223162"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3669302722",
@@ -149,12 +166,75 @@
             }
         },
         {
+            "+@gid": "3164439095",
+            "+@lang": "JA",
+            "role": "Victor",
+            "person": {
+                "+content": "Kōji Yusa",
+                "+@id": "51073"
+            }
+        },
+        {
+            "+@gid": "2696423764",
+            "+@lang": "JA",
+            "role": "Princess Hyakka",
+            "person": {
+                "+content": "Aki Toyosaki",
+                "+@id": "62870"
+            }
+        },
+        {
             "+@gid": "117516499",
             "+@lang": "JA",
             "role": "Ageha",
             "person": {
                 "+content": "Misaki Kuno",
                 "+@id": "85915"
+            }
+        },
+        {
+            "+@gid": "1102082371",
+            "+@lang": "JA",
+            "role": "Igor",
+            "person": {
+                "+content": "Ayumu Murase",
+                "+@id": "113308"
+            }
+        },
+        {
+            "+@gid": "3029206295",
+            "+@lang": "JA",
+            "role": "Laala",
+            "person": {
+                "+content": "Hiroki Nanami",
+                "+@id": "127203"
+            }
+        },
+        {
+            "+@gid": "3042840149",
+            "+@lang": "JA",
+            "role": "Rottenmeyer",
+            "person": {
+                "+content": "Haruhi Nanao",
+                "+@id": "129552"
+            }
+        },
+        {
+            "+@gid": "3393342363",
+            "+@lang": "JA",
+            "role": "Romanov",
+            "person": {
+                "+content": "Shunichi Toki",
+                "+@id": "131897"
+            }
+        },
+        {
+            "+@gid": "1926842899",
+            "+@lang": "JA",
+            "role": "Alice Utsunomiya",
+            "person": {
+                "+content": "Rie Hikisaka",
+                "+@id": "154557"
             }
         }
     ],
@@ -167,6 +247,6 @@
         }
     },
     "+@date-added": "2024-07-17T23:06:59Z",
-    "+@date-last-modified-at": "2025-03-04T03:40:11Z",
-    "+@date-last-updated-at": "2025-03-04T03:40:11Z"
+    "+@date-last-modified-at": "2025-04-03T08:39:05Z",
+    "+@date-last-updated-at": "2025-04-03T08:39:05Z"
 }

@@ -4,10 +4,14 @@
     "+@type": "movie",
     "+@name": "Mononoke The Movie: The Ashes of Rage",
     "+@precision": "movie",
-    "+@generated-on": "2025-03-04T03:40:09Z",
+    "+@generated-on": "2025-04-03T08:39:03Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "25858"
+    },
+    "related-next": {
+        "+@id": "35142",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -63,7 +67,7 @@
             "+@type": "Premiere date"
         },
         {
-            "+content": "\"Hana Musou\" (花無双) by Aina The End",
+            "+content": "\"Hana Musō\" (花無双; Peerless Flowers) by Aina The End",
             "+@gid": "2094858179",
             "+@type": "Ending Theme"
         },
@@ -75,6 +79,10 @@
             "+@href": "https://www.mononoke-movie.com/"
         }
     ],
+    "review": {
+        "+content": "<cite>Mononoke The Movie: The Ashes of Rage</cite> Anime Film Review",
+        "+@href": "https://www.animenewsnetwork.com/review/mononoke-the-movie/the-ashes-of-rage/anime-film/.222345"
+    },
     "news": [
         {
             "+content": "<cite>Mononoke</cite> Film Project to Have 3 Films, 2nd Film Opens on March 14, 2025",
@@ -100,6 +108,21 @@
             "+content": "2nd <cite>Mononoke</cite> Film Streams Music Video Featuring Aina the End's New Theme",
             "+@datetime": "2025-03-03T11:35:40Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-03/2nd-mononoke-film-streams-music-video-featuring-aina-the-end-new-theme/.221876"
+        },
+        {
+            "+content": "2nd <cite>Mononoke</cite> Film Streams Special Trailer Featuring Battle Scenes",
+            "+@datetime": "2025-03-10T11:15:04Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-10/2nd-mononoke-film-streams-special-trailer-featuring-battle-scenes/.222166"
+        },
+        {
+            "+content": "3rd <cite>Mononoke</cite> Film Announces Title, Spring 2026 Opening",
+            "+@datetime": "2025-03-14T04:09:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-14/3rd-mononoke-film-announces-title-spring-2026-opening/.222346"
+        },
+        {
+            "+content": "2025 <cite>Doraemon</cite> Film Stays at #1, <cite>Mononoke</cite> Film Opens at #6",
+            "+@datetime": "2025-03-21T04:35:25Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-21/2025-doraemon-film-stays-at-no.1-mononoke-film-opens-at-no.6/.222489"
         }
     ],
     "staff": [
@@ -117,6 +140,78 @@
             "person": {
                 "+content": "Kiyotaka Suzuki",
                 "+@id": "55966"
+            }
+        },
+        {
+            "+@gid": "1220908515",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Yasumi Atarashi",
+                "+@id": "246566"
+            }
+        },
+        {
+            "+@gid": "1875094525",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kenji Nakamura",
+                "+@id": "5305"
+            }
+        },
+        {
+            "+@gid": "2973195952",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kiyotaka Suzuki",
+                "+@id": "55966"
+            }
+        },
+        {
+            "+@gid": "1320282785",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Keisuke Kojima",
+                "+@id": "83263"
+            }
+        },
+        {
+            "+@gid": "1748016081",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Kiyotaka Suzuki",
+                "+@id": "55966"
+            }
+        },
+        {
+            "+@gid": "3152611619",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Yasunori Gotō",
+                "+@id": "82721"
+            }
+        },
+        {
+            "+@gid": "603459816",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Keisuke Kojima",
+                "+@id": "83263"
+            }
+        },
+        {
+            "+@gid": "1952895699",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Jie Yu Peng",
+                "+@id": "195425"
+            }
+        },
+        {
+            "+@gid": "3327540603",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Moeka Akagi",
+                "+@id": "268504"
             }
         },
         {
@@ -157,6 +252,46 @@
             "person": {
                 "+content": "Yūichi Takahashi",
                 "+@id": "31710"
+            }
+        },
+        {
+            "+@gid": "992533098",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Emi Honda",
+                "+@id": "44254"
+            }
+        },
+        {
+            "+@gid": "1240616840",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kanchi Suzuki",
+                "+@id": "129747"
+            }
+        },
+        {
+            "+@gid": "2882973588",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Keisuke Goto",
+                "+@id": "133355"
+            }
+        },
+        {
+            "+@gid": "2193043006",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Norihito Saitama",
+                "+@id": "217071"
+            }
+        },
+        {
+            "+@gid": "2617580586",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuki Ōshima",
+                "+@id": "224707"
             }
         },
         {
@@ -338,6 +473,6 @@
         }
     ],
     "+@date-added": "2024-07-28T16:45:59Z",
-    "+@date-last-modified-at": "2025-03-04T03:40:11Z",
-    "+@date-last-updated-at": "2025-03-04T03:40:11Z"
+    "+@date-last-modified-at": "2025-04-03T08:39:05Z",
+    "+@date-last-updated-at": "2025-04-03T08:39:05Z"
 }
