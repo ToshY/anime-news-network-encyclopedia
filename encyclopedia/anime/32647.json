@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Ameku M.D.: Doctor Detective",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-04T06:39:12Z",
+    "+@generated-on": "2025-04-03T20:32:20Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "32645"
@@ -59,6 +59,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "아메쿠 타카오의 추리 카르테",
+            "+@gid": "2349087686",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
             "+content": "mystery",
             "+@gid": "2170775100",
             "+@type": "Genres"
@@ -92,8 +98,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "8",
-        "+@weighted_score": "5.1146"
+        "+@nb_votes": "30",
+        "+@weighted_score": "6.1657",
+        "+@bayesian_score": "6.5619"
     },
     "news": [
         {
@@ -269,6 +276,15 @@
             }
         },
         {
+            "+@gid": "2499425896",
+            "+@lang": "EN",
+            "role": "Mazaru Ameku",
+            "person": {
+                "+content": "Molly Searcy",
+                "+@id": "121492"
+            }
+        },
+        {
             "+@gid": "2867362463",
             "+@lang": "EN",
             "role": "Yu Takanashi",
@@ -293,6 +309,15 @@
             "person": {
                 "+content": "Jaclyn Thomas",
                 "+@id": "263371"
+            }
+        },
+        {
+            "+@gid": "1888874138",
+            "+@lang": "EN",
+            "role": "Junko Sumida",
+            "person": {
+                "+content": "Elisa Danielle James",
+                "+@id": "280284"
             }
         },
         {
@@ -419,6 +444,6 @@
         }
     ],
     "+@date-added": "2024-04-04T01:31:27Z",
-    "+@date-last-modified-at": "2025-03-04T06:39:15Z",
-    "+@date-last-updated-at": "2025-03-04T06:39:15Z"
+    "+@date-last-modified-at": "2025-04-03T20:32:25Z",
+    "+@date-last-updated-at": "2025-04-03T20:32:25Z"
 }

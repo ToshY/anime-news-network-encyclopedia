@@ -4,28 +4,37 @@
     "+@type": "TV",
     "+@name": "Shangri-La Frontier",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-03-04T06:39:12Z",
+    "+@generated-on": "2025-04-03T20:32:21Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26032"
     },
+    "related-next": {
+        "+@id": "35428",
+        "+@rel": "sequel"
+    },
     "info": [
         {
-            "+@gid": "1804178327",
+            "+@gid": "1219258267",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32624-1804178327.1723717372.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32624-1219258267.1742290919.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32624-1804178327.1723717372.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32624-1219258267.1742290919.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32624-1804178327.1723717372.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32624-1219258267.1742290919.jpg",
+                    "+@width": "423",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A32624-1219258267.1742290919.jpg",
+                    "+@width": "550",
+                    "+@height": "780"
                 }
             ]
         },
@@ -70,9 +79,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "13",
-        "+@weighted_score": "7.2494",
-        "+@bayesian_score": "7.363"
+        "+@nb_votes": "44",
+        "+@weighted_score": "7.6686",
+        "+@bayesian_score": "7.62472"
     },
     "news": [
         {
@@ -134,6 +143,11 @@
             "+content": "<cite>Shangri-La Frontier</cite> Season 2 Reveals New Arc, Cast Members",
             "+@datetime": "2025-02-23T10:01:02Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-02-23/shangri-la-frontier-season-2-reveals-new-arc-cast-members/.221540"
+        },
+        {
+            "+content": "<cite>Shangri-La Frontier</cite> TV Anime Gets 3rd Season",
+            "+@datetime": "2025-03-30T08:27:19Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-30/shangri-la-frontier-tv-anime-gets-3rd-season/.223037"
         }
     ],
     "staff": [
@@ -226,11 +240,27 @@
             }
         },
         {
+            "+@gid": "1701147067",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shinji Nagata",
+                "+@id": "47500"
+            }
+        },
+        {
             "+@gid": "929292838",
             "task": "Storyboard",
             "person": {
                 "+content": "Mitsutoshi Satō",
                 "+@id": "83653"
+            }
+        },
+        {
+            "+@gid": "3369506599",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hiro Ōki",
+                "+@id": "109554"
             }
         },
         {
@@ -330,6 +360,22 @@
             }
         },
         {
+            "+@gid": "3861976454",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yūma Imura",
+                "+@id": "190794"
+            }
+        },
+        {
+            "+@gid": "1800470717",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Asahi Yoshimura",
+                "+@id": "204687"
+            }
+        },
+        {
             "+@gid": "2572661981",
             "task": "Episode Director",
             "person": {
@@ -351,6 +397,14 @@
             "person": {
                 "+content": "Hide Yamamoto",
                 "+@id": "265386"
+            }
+        },
+        {
+            "+@gid": "1722767520",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ying Zhi Tsang",
+                "+@id": "279900"
             }
         },
         {
@@ -570,6 +624,14 @@
             }
         },
         {
+            "+@gid": "1264372031",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shunpei Mochizuki",
+                "+@id": "83388"
+            }
+        },
+        {
             "+@gid": "2661334384",
             "task": "Animation Director",
             "person": {
@@ -714,6 +776,14 @@
             }
         },
         {
+            "+@gid": "2464476048",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Akifumi Nakadai",
+                "+@id": "183937"
+            }
+        },
+        {
             "+@gid": "1558421895",
             "task": "Animation Director",
             "person": {
@@ -738,6 +808,14 @@
             }
         },
         {
+            "+@gid": "1738492630",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jia Xing Chen",
+                "+@id": "214822"
+            }
+        },
+        {
             "+@gid": "4107406926",
             "task": "Animation Director",
             "person": {
@@ -751,6 +829,14 @@
             "person": {
                 "+content": "Jiang Hao Yao",
                 "+@id": "217600"
+            }
+        },
+        {
+            "+@gid": "3989388332",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Facu Escobedo",
+                "+@id": "230525"
             }
         },
         {
@@ -794,11 +880,27 @@
             }
         },
         {
+            "+@gid": "2020121052",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Li Shaochuan",
+                "+@id": "260639"
+            }
+        },
+        {
             "+@gid": "647889250",
             "task": "Animation Director",
             "person": {
                 "+content": "So I Sim",
                 "+@id": "260907"
+            }
+        },
+        {
+            "+@gid": "2998225218",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wen Hui Liu",
+                "+@id": "261301"
             }
         },
         {
@@ -850,6 +952,22 @@
             }
         },
         {
+            "+@gid": "3289559134",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Marurin",
+                "+@id": "270800"
+            }
+        },
+        {
+            "+@gid": "1021607591",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zhu Zhu",
+                "+@id": "271360"
+            }
+        },
+        {
             "+@gid": "2465029604",
             "task": "Animation Director",
             "person": {
@@ -879,6 +997,22 @@
             "person": {
                 "+content": "Hao Lang",
                 "+@id": "278586"
+            }
+        },
+        {
+            "+@gid": "2704483489",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hui Shan",
+                "+@id": "279263"
+            }
+        },
+        {
+            "+@gid": "1642132183",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chen Qu Yi",
+                "+@id": "279264"
             }
         },
         {
@@ -993,6 +1127,15 @@
             }
         },
         {
+            "+@gid": "1504533582",
+            "+@lang": "EN",
+            "role": "Araba",
+            "person": {
+                "+content": "Cris George",
+                "+@id": "74127"
+            }
+        },
+        {
             "+@gid": "1217958106",
             "+@lang": "EN",
             "role": "Tsukuyo Tsukuri",
@@ -1026,6 +1169,15 @@
             "person": {
                 "+content": "Morgan Berry",
                 "+@id": "132751"
+            }
+        },
+        {
+            "+@gid": "3022966328",
+            "+@lang": "EN",
+            "role": "Megumi Natsume",
+            "person": {
+                "+content": "Marisa Duran",
+                "+@id": "154417"
             }
         },
         {
@@ -1089,6 +1241,15 @@
             "person": {
                 "+content": "Martial Leminoux",
                 "+@id": "38549"
+            }
+        },
+        {
+            "+@gid": "2669876451",
+            "+@lang": "FR",
+            "role": "Alaba",
+            "person": {
+                "+content": "Emmanuel Gradi",
+                "+@id": "45713"
             }
         },
         {
@@ -1179,6 +1340,15 @@
             "person": {
                 "+content": "Alan Aubert",
                 "+@id": "134719"
+            }
+        },
+        {
+            "+@gid": "1848729536",
+            "+@lang": "FR",
+            "role": "Megumi Natsume",
+            "person": {
+                "+content": "Marie Tirmont",
+                "+@id": "141845"
             }
         },
         {
@@ -1555,6 +1725,6 @@
         }
     ],
     "+@date-added": "2024-03-31T05:20:43Z",
-    "+@date-last-modified-at": "2025-03-04T06:39:15Z",
-    "+@date-last-updated-at": "2025-03-04T06:39:15Z"
+    "+@date-last-modified-at": "2025-04-03T20:32:25Z",
+    "+@date-last-updated-at": "2025-04-03T20:32:25Z"
 }
