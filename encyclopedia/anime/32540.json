@@ -4,26 +4,26 @@
     "+@type": "TV",
     "+@name": "Chained Soldier",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-03-04T08:34:45Z",
+    "+@generated-on": "2025-04-04T02:03:25Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24978"
     },
     "info": [
         {
-            "+@gid": "2131176534",
+            "+@gid": "3088504823",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32540-2131176534.1711154703.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32540-3088504823.1742703159.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32540-2131176534.1711154703.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32540-3088504823.1742703159.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32540-2131176534.1711154703.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32540-3088504823.1742703159.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
@@ -48,6 +48,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "2026",
+            "+@gid": "3135478145",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ『魔都精兵のスレイブ』公式サイト",
             "+@gid": "1356363224",
             "+@type": "Official website",
@@ -65,6 +70,11 @@
             "+content": "<cite>Chained Soldier</cite> Anime's 2nd Season Casts Kana Hanazawa",
             "+@datetime": "2024-12-22T08:03:04Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-22/chained-soldier-anime-2nd-season-casts-kana-hanazawa/.219400"
+        },
+        {
+            "+content": "<cite>Chained Soldier 2</cite> Anime Reveals Staff, 2026 Debut",
+            "+@datetime": "2025-03-23T04:08:43Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-23/chained-soldier-2-anime-reveals-staff-2026-debut/.222746"
         }
     ],
     "staff": [
@@ -74,6 +84,54 @@
             "person": {
                 "+content": "Masafumi Tamura",
                 "+@id": "41764"
+            }
+        },
+        {
+            "+@gid": "2802431069",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Yasuhiro Nakanishi",
+                "+@id": "205170"
+            }
+        },
+        {
+            "+@gid": "2484946338",
+            "task": "Script",
+            "person": {
+                "+content": "Ohine Ezaki",
+                "+@id": "178709"
+            }
+        },
+        {
+            "+@gid": "1325294025",
+            "task": "Script",
+            "person": {
+                "+content": "Takahiro Nagase",
+                "+@id": "198901"
+            }
+        },
+        {
+            "+@gid": "2064372790",
+            "task": "Script",
+            "person": {
+                "+content": "Yasuhiro Nakanishi",
+                "+@id": "205170"
+            }
+        },
+        {
+            "+@gid": "2959798266",
+            "task": "Script",
+            "person": {
+                "+content": "Kyōta Kanō",
+                "+@id": "280126"
+            }
+        },
+        {
+            "+@gid": "3076643160",
+            "task": "Music",
+            "person": {
+                "+content": "Kohta Yamamoto",
+                "+@id": "149306"
             }
         },
         {
@@ -99,26 +157,205 @@
                 "+content": "Keiya Nakano",
                 "+@id": "38884"
             }
+        },
+        {
+            "+@gid": "2280843566",
+            "task": "Art Director",
+            "person": {
+                "+content": "Shino Ohara",
+                "+@id": "87476"
+            }
+        },
+        {
+            "+@gid": "2300406350",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Chikako Yokota",
+                "+@id": "102801"
+            }
+        },
+        {
+            "+@gid": "1131124605",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Takamasa Taba",
+                "+@id": "196928"
+            }
+        },
+        {
+            "+@gid": "658362409",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Kōji Hayashi",
+                "+@id": "261828"
+            }
         }
     ],
-    "cast": {
-        "+@gid": "2137249202",
-        "+@lang": "JA",
-        "role": "Ren Yamashiro",
-        "person": {
-            "+content": "Kana Hanazawa",
-            "+@id": "53741"
+    "cast": [
+        {
+            "+@gid": "1893380953",
+            "+@lang": "JA",
+            "role": "Rairen",
+            "person": {
+                "+content": "Kujira",
+                "+@id": "3581"
+            }
+        },
+        {
+            "+@gid": "1593956122",
+            "+@lang": "JA",
+            "role": "Jōryū",
+            "person": {
+                "+content": "Hitomi Nabatame",
+                "+@id": "17354"
+            }
+        },
+        {
+            "+@gid": "2635111347",
+            "+@lang": "JA",
+            "role": "Himari Azuma",
+            "person": {
+                "+content": "Yume Miyamoto",
+                "+@id": "49573"
+            }
+        },
+        {
+            "+@gid": "2137249202",
+            "+@lang": "JA",
+            "role": "Ren Yamashiro",
+            "person": {
+                "+content": "Kana Hanazawa",
+                "+@id": "53741"
+            }
+        },
+        {
+            "+@gid": "3576478970",
+            "+@lang": "JA",
+            "role": "Naon Yuno",
+            "person": {
+                "+content": "Rina Hidaka",
+                "+@id": "70503"
+            }
+        },
+        {
+            "+@gid": "1309357923",
+            "+@lang": "JA",
+            "role": "Tenka Izumo",
+            "person": {
+                "+content": "Maaya Uchida",
+                "+@id": "94314"
+            }
+        },
+        {
+            "+@gid": "2522748747",
+            "+@lang": "JA",
+            "role": "Shushu Suruga",
+            "person": {
+                "+content": "Mari Hino",
+                "+@id": "97566"
+            }
+        },
+        {
+            "+@gid": "2367798479",
+            "+@lang": "JA",
+            "role": "Sahara Wakasa",
+            "person": {
+                "+content": "Reina Ueda",
+                "+@id": "116390"
+            }
+        },
+        {
+            "+@gid": "908105076",
+            "+@lang": "JA",
+            "role": "Shikoku",
+            "person": {
+                "+content": "Mako Morino",
+                "+@id": "117057"
+            }
+        },
+        {
+            "+@gid": "3269632356",
+            "+@lang": "JA",
+            "role": "Ginna Bizen",
+            "person": {
+                "+content": "Yuri Yoshida",
+                "+@id": "124324"
+            }
+        },
+        {
+            "+@gid": "3455962368",
+            "+@lang": "JA",
+            "role": "Kyōka Uzen",
+            "person": {
+                "+content": "Akari Kitō",
+                "+@id": "130728"
+            }
+        },
+        {
+            "+@gid": "1306405220",
+            "+@lang": "JA",
+            "role": "Koko Zenibako",
+            "person": {
+                "+content": "Sayaka Senbongi",
+                "+@id": "133460"
+            }
+        },
+        {
+            "+@gid": "2229818898",
+            "+@lang": "JA",
+            "role": "Yūki Wakura",
+            "person": {
+                "+content": "Yūya Hirose",
+                "+@id": "141455"
+            }
+        },
+        {
+            "+@gid": "1549980000",
+            "+@lang": "JA",
+            "role": "Aoba Wakura",
+            "person": {
+                "+content": "Tomori Kusunoki",
+                "+@id": "158678"
+            }
+        },
+        {
+            "+@gid": "3461716258",
+            "+@lang": "JA",
+            "role": "Yachiho Azuma",
+            "person": {
+                "+content": "Nene Hieda",
+                "+@id": "167202"
+            }
+        },
+        {
+            "+@gid": "2491402359",
+            "+@lang": "JA",
+            "role": "Nei Ōkawamura",
+            "person": {
+                "+content": "Hina Tachibana",
+                "+@id": "184347"
+            }
         }
-    },
-    "credit": {
-        "+@gid": "3325034577",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Passione",
-            "+@id": "9928"
+    ],
+    "credit": [
+        {
+            "+@gid": "3325034577",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Passione",
+                "+@id": "9928"
+            }
+        },
+        {
+            "+@gid": "1877586866",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Hayabusa Film",
+                "+@id": "22155"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-03-22T20:43:37Z",
-    "+@date-last-modified-at": "2025-03-04T08:34:48Z",
-    "+@date-last-updated-at": "2025-03-04T08:34:48Z"
+    "+@date-last-modified-at": "2025-04-04T02:03:28Z",
+    "+@date-last-updated-at": "2025-04-04T02:03:28Z"
 }
