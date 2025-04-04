@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Blue Box",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-04T11:26:33Z",
+    "+@generated-on": "2025-04-04T12:55:20Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24652"
+    },
+    "related-next": {
+        "+@id": "35384",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -148,8 +152,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "11",
-        "+@weighted_score": "7.0498"
+        "+@nb_votes": "43",
+        "+@weighted_score": "7.2808",
+        "+@bayesian_score": "7.32616"
     },
     "episode": [
         {
@@ -319,6 +324,38 @@
                 "+@gid": "1325944644",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "22",
+            "title": {
+                "+content": "Inota!",
+                "+@gid": "2393567349",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "23",
+            "title": {
+                "+content": "Spinning",
+                "+@gid": "1544865706",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "24",
+            "title": {
+                "+content": "A Roller Coaster",
+                "+@gid": "3965941582",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "25",
+            "title": {
+                "+content": "Even So",
+                "+@gid": "1691640514",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -376,6 +413,11 @@
             "+content": "<cite>Blue Box</cite> Anime Casts Yūki Kaji",
             "+@datetime": "2025-02-23T15:55:10Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-02-23/blue-box-anime-casts-yuki-kaji/.221534"
+        },
+        {
+            "+content": "<cite>Blue Box</cite> Anime Gets 2nd Season",
+            "+@datetime": "2025-03-27T16:00:35Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-27/blue-box-anime-gets-2nd-season/.222952"
         }
     ],
     "staff": [
@@ -412,7 +454,7 @@
             }
         },
         {
-            "+@gid": "3345849006",
+            "+@gid": "2029139140",
             "task": "Storyboard",
             "person": {
                 "+content": "Yūichirō Yano",
@@ -516,7 +558,7 @@
             }
         },
         {
-            "+@gid": "2366676028",
+            "+@gid": "1550417234",
             "task": "Episode Director",
             "person": {
                 "+content": "Keiko Oyamada",
@@ -700,6 +742,14 @@
             }
         },
         {
+            "+@gid": "2270274551",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Muhammad Ali Mukhtar",
+                "+@id": "226710"
+            }
+        },
+        {
             "+@gid": "1753214933",
             "task": "Sound Director",
             "person": {
@@ -749,6 +799,15 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "2646465667",
+            "+@lang": "EN",
+            "role": "Ayame Moriya",
+            "person": {
+                "+content": "Megan Harvey",
+                "+@id": "27204"
+            }
+        },
         {
             "+@gid": "2020352838",
             "+@lang": "EN",
@@ -831,6 +890,15 @@
             }
         },
         {
+            "+@gid": "3716124729",
+            "+@lang": "EN",
+            "role": "Kazuma Matsuoka",
+            "person": {
+                "+content": "Ryan Colt Levy",
+                "+@id": "188981"
+            }
+        },
+        {
             "+@gid": "2080802714",
             "+@lang": "EN",
             "role": "Karen Moriya",
@@ -855,6 +923,15 @@
             "person": {
                 "+content": "Pablo Cherray",
                 "+@id": "198663"
+            }
+        },
+        {
+            "+@gid": "977770552",
+            "+@lang": "FR",
+            "role": "Karen Moriya",
+            "person": {
+                "+content": "Lauryanne Philippe",
+                "+@id": "212074"
             }
         },
         {
@@ -1021,6 +1098,6 @@
         }
     ],
     "+@date-added": "2023-11-21T03:58:59Z",
-    "+@date-last-modified-at": "2025-03-04T11:26:36Z",
-    "+@date-last-updated-at": "2025-03-04T11:26:36Z"
+    "+@date-last-modified-at": "2025-04-04T12:55:22Z",
+    "+@date-last-updated-at": "2025-04-04T12:55:22Z"
 }

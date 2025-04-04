@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Sword of the Demon Hunter",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-04T11:26:33Z",
+    "+@generated-on": "2025-04-04T12:55:20Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26842"
@@ -48,6 +48,71 @@
             "+@lang": "JA"
         },
         {
+            "+content": "action",
+            "+@gid": "2186224769",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "3746924010",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "psychological",
+            "+@gid": "1186720471",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "supernatural",
+            "+@gid": "860499836",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "demons",
+            "+@gid": "1873217014",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "gore",
+            "+@gid": "1648306665",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "historical",
+            "+@gid": "1641684722",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "revenge",
+            "+@gid": "291998372",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "1743014435",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "swordplay",
+            "+@gid": "3504005876",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "time travel",
+            "+@gid": "2279154662",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "tragedy",
+            "+@gid": "1686064473",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "MA",
+            "+@gid": "3093627107",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "Jinta, a bodyguard to a priestess in a remote mountain village, lives during Japan's Edo period. While Jinta is an outsider to the town, he is still tasked with seeking out a demon in the forest on a quest to vanquish it. But upon meeting the demon, it instead tells Jinta of a puzzling and mysterious future. The novels' story spans 170 years from the Edo period to the Heisei period, with the protagonists traveling through space and time while seeking a meaning for why they wield the blade. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
         },
@@ -64,6 +129,10 @@
             "+@href": "https://kijin-anime.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "6.7011"
+    },
     "news": [
         {
             "+content": "<cite>Sword of the Demon Hunter</cite> TV Anime Reveals Promo Video, Cast, Staff",
@@ -84,6 +153,21 @@
             "+content": "<cite>Sword of the Demon Hunter</cite> TV Anime's 1st Video Unveils March 31 Debut After Delay, Ending Song",
             "+@datetime": "2025-02-12T11:04:18Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-02-12/sword-of-the-demon-hunter-tv-anime-1st-video-unveils-march-31-debut-after-delay-ending-song/.221123"
+        },
+        {
+            "+content": "HIDIVE to Stream <cite>Sword of the Demon Hunter: Kijin Gentosho</cite> Anime",
+            "+@datetime": "2025-03-05T17:55:58Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-05/hidive-to-stream-sword-of-the-demon-hunter-kijin-gentosho-anime/.221986"
+        },
+        {
+            "+content": "<cite>Sword of the Demon Hunter</cite> Anime Reveals Opening Song in 2nd Promo Video",
+            "+@datetime": "2025-03-24T12:03:51Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-24/sword-of-the-demon-hunter-anime-reveals-opening-song-in-2nd-promo-video/.222819"
+        },
+        {
+            "+content": "<cite>Sword of the Demon Hunter</cite> Anime Reveals Additional Cast",
+            "+@datetime": "2025-03-31T15:17:22Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-31/sword-of-the-demon-hunter-anime-reveals-additional-cast/.223083"
         }
     ],
     "staff": [
@@ -150,9 +234,51 @@
                 "+content": "Taro Ikegami",
                 "+@id": "27249"
             }
+        },
+        {
+            "+@gid": "3438828822",
+            "task": "3D Director",
+            "person": {
+                "+content": "Makoto Endō",
+                "+@id": "407"
+            }
+        },
+        {
+            "+@gid": "2739741072",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Noboru Haraguchi",
+                "+@id": "58900"
+            }
+        },
+        {
+            "+@gid": "1708873966",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Ryohei Miyasaka",
+                "+@id": "134621"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "3432706613",
+            "+@lang": "JA",
+            "role": "Jūzō",
+            "person": {
+                "+content": "Masaki Aizawa",
+                "+@id": "8004"
+            }
+        },
+        {
+            "+@gid": "2422154351",
+            "+@lang": "JA",
+            "role": "Yotaka",
+            "person": {
+                "+content": "Hitomi Nabatame",
+                "+@id": "17354"
+            }
+        },
         {
             "+@gid": "1296662816",
             "+@lang": "JA",
@@ -163,12 +289,30 @@
             }
         },
         {
+            "+@gid": "1743632229",
+            "+@lang": "JA",
+            "role": "Somegorō Akitsu",
+            "person": {
+                "+content": "Kōji Yusa",
+                "+@id": "51073"
+            }
+        },
+        {
             "+@gid": "3291158310",
             "+@lang": "JA",
             "role": "Shirayuki",
             "person": {
                 "+content": "Saori Hayami",
                 "+@id": "63462"
+            }
+        },
+        {
+            "+@gid": "1713215664",
+            "+@lang": "JA",
+            "role": "Ofū",
+            "person": {
+                "+content": "Ai Kayano",
+                "+@id": "91009"
             }
         },
         {
@@ -190,12 +334,48 @@
             }
         },
         {
+            "+@gid": "1599938722",
+            "+@lang": "JA",
+            "role": "Naotsugu Miura",
+            "person": {
+                "+content": "Seiichirō Yamashita",
+                "+@id": "121187"
+            }
+        },
+        {
             "+@gid": "3005424550",
             "+@lang": "JA",
             "role": "Jinta",
             "person": {
                 "+content": "Taku Yashiro",
                 "+@id": "130983"
+            }
+        },
+        {
+            "+@gid": "2339437879",
+            "+@lang": "JA",
+            "role": "Kihei Restaurant Owner",
+            "person": {
+                "+content": "Yōji Ueda",
+                "+@id": "131376"
+            }
+        },
+        {
+            "+@gid": "1236340612",
+            "+@lang": "JA",
+            "role": "Zenji",
+            "person": {
+                "+content": "Hiromu Mineta",
+                "+@id": "150636"
+            }
+        },
+        {
+            "+@gid": "1000780257",
+            "+@lang": "JA",
+            "role": "Natsu",
+            "person": {
+                "+content": "Saya Aizawa",
+                "+@id": "154564"
             }
         }
     ],
@@ -208,6 +388,6 @@
         }
     },
     "+@date-added": "2023-11-22T06:33:51Z",
-    "+@date-last-modified-at": "2025-03-04T11:26:36Z",
-    "+@date-last-updated-at": "2025-03-04T11:26:36Z"
+    "+@date-last-modified-at": "2025-04-04T12:55:22Z",
+    "+@date-last-updated-at": "2025-04-04T12:55:22Z"
 }
