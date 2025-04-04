@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "My Happy Marriage",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-03-04T12:53:36Z",
+    "+@generated-on": "2025-04-04T16:38:10Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28952"
     },
     "info": [
         {
-            "+@gid": "2156325763",
+            "+@gid": "2299227280",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A29984-2156325763.1733046171.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A29984-2299227280.1741700878.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A29984-2156325763.1733046171.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A29984-2299227280.1741700878.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A29984-2156325763.1733046171.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A29984-2299227280.1741700878.jpg",
+                    "+@width": "423",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A29984-2299227280.1741700878.jpg",
+                    "+@width": "550",
+                    "+@height": "780"
                 }
             ]
         },
@@ -137,8 +142,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "7.9786"
+        "+@nb_votes": "14",
+        "+@weighted_score": "8.1964",
+        "+@bayesian_score": "7.84964"
     },
     "episode": [
         {
@@ -204,6 +210,38 @@
                 "+@gid": "1788564351",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "22",
+            "title": {
+                "+content": "Dream Tidings",
+                "+@gid": "1100902052",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "23",
+            "title": {
+                "+content": "Promise",
+                "+@gid": "2581555756",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "24",
+            "title": {
+                "+content": "A Resolute Departure",
+                "+@gid": "3898942072",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "25",
+            "title": {
+                "+content": "Feelings Beyond Dreams",
+                "+@gid": "4140028409",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -241,6 +279,16 @@
             "+content": "<cite>My Happy Marriage</cite> Season 2 Streams New Story Trailer",
             "+@datetime": "2025-03-03T14:43:08Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-03/my-happy-marriage-season-2-streams-new-story-trailer/.221838"
+        },
+        {
+            "+content": "<cite>My Happy Marriage</cite> Anime's 25th Episode Delayed to March 31",
+            "+@datetime": "2025-03-20T10:34:41Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-20/my-happy-marriage-anime-25th-episode-delayed-to-march-31/.222609"
+        },
+        {
+            "+content": "<cite>My Happy Marriage</cite> Anime Delays Episode 26 to April 9",
+            "+@datetime": "2025-03-28T05:02:26Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-28/my-happy-marriage-anime-delays-episode-26-to-april-9/.222972"
         }
     ],
     "staff": [
@@ -330,6 +378,14 @@
             "person": {
                 "+content": "Seiichi Akitake",
                 "+@id": "88726"
+            }
+        },
+        {
+            "+@gid": "2520966949",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Sotaro Shimizu",
+                "+@id": "123149"
             }
         },
         {
@@ -597,6 +653,14 @@
             }
         },
         {
+            "+@gid": "2216261169",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Saori Hosoda",
+                "+@id": "115250"
+            }
+        },
+        {
             "+@gid": "3130867796",
             "task": "Animation Director",
             "person": {
@@ -634,6 +698,14 @@
             "person": {
                 "+content": "Jong Beom Kim",
                 "+@id": "152227"
+            }
+        },
+        {
+            "+@gid": "2227477271",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Seiya Ishida",
+                "+@id": "155075"
             }
         },
         {
@@ -725,6 +797,14 @@
             }
         },
         {
+            "+@gid": "3187346721",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kyōka Sakonjū",
+                "+@id": "230242"
+            }
+        },
+        {
             "+@gid": "1879445921",
             "task": "Animation Director",
             "person": {
@@ -810,6 +890,14 @@
             "person": {
                 "+content": "Zhao Wu",
                 "+@id": "278292"
+            }
+        },
+        {
+            "+@gid": "1019785392",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hao Lang",
+                "+@id": "278586"
             }
         },
         {
@@ -993,6 +1081,15 @@
             "person": {
                 "+content": "Lionel Tua",
                 "+@id": "51952"
+            }
+        },
+        {
+            "+@gid": "468591016",
+            "+@lang": "FR",
+            "role": "Naoshi Usui",
+            "person": {
+                "+content": "Patrice Baudrier",
+                "+@id": "62627"
             }
         },
         {
@@ -1347,6 +1444,6 @@
         }
     },
     "+@date-added": "2023-09-20T15:53:03Z",
-    "+@date-last-modified-at": "2025-03-04T12:53:38Z",
-    "+@date-last-updated-at": "2025-03-04T12:53:38Z"
+    "+@date-last-modified-at": "2025-04-04T16:38:11Z",
+    "+@date-last-updated-at": "2025-04-04T16:38:11Z"
 }
