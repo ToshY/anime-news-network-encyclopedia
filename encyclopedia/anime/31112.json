@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "100 Girlfriends Who Really, Really, Really, Really, Really Love You",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-03-04T10:35:57Z",
+    "+@generated-on": "2025-04-04T08:37:43Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "27380"
     },
     "info": [
         {
-            "+@gid": "1962351065",
+            "+@gid": "1927162605",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A31112-1962351065.1726314071.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A31112-1927162605.1741701977.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A31112-1962351065.1726314071.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A31112-1927162605.1741701977.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A31112-1962351065.1726314071.jpg",
-                    "+@width": "425",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A31112-1927162605.1741701977.jpg",
+                    "+@width": "423",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A31112-1927162605.1741701977.jpg",
+                    "+@width": "550",
+                    "+@height": "780"
                 }
             ]
         },
@@ -113,7 +118,7 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "#2: \"Unmei?\" by Amane Shindō, Suzuko Mimori, Rie Takahashi, Lynn, Kanon Takao (eps 4-)",
+            "+content": "#2: \"Unmei?\" by Amane Shindō, Suzuko Mimori, Rie Takahashi, Lynn, Kanon Takao (eps 4-12)",
             "+@gid": "2365619377",
             "+@type": "Ending Theme"
         },
@@ -126,8 +131,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "6",
-        "+@weighted_score": "6.9671"
+        "+@nb_votes": "29",
+        "+@weighted_score": "7.1596",
+        "+@bayesian_score": "7.2576"
     },
     "news": [
         {
@@ -250,6 +256,22 @@
             "person": {
                 "+content": "Ryūhei Aoyagi",
                 "+@id": "81921"
+            }
+        },
+        {
+            "+@gid": "2855966884",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takashi Sano",
+                "+@id": "149963"
+            }
+        },
+        {
+            "+@gid": "2241345911",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yoshihisa Matsumoto",
+                "+@id": "9475"
             }
         },
         {
@@ -405,6 +427,24 @@
             "person": {
                 "+content": "Sara Ragsdale",
                 "+@id": "126054"
+            }
+        },
+        {
+            "+@gid": "1764416311",
+            "+@lang": "EN",
+            "role": "Mimimi Utsukushisugi",
+            "person": {
+                "+content": "Bryn Apprill",
+                "+@id": "126375"
+            }
+        },
+        {
+            "+@gid": "1324549421",
+            "+@lang": "EN",
+            "role": "Meme Kakure",
+            "person": {
+                "+content": "Marianne Bray",
+                "+@id": "126714"
             }
         },
         {
@@ -624,6 +664,6 @@
         }
     },
     "+@date-added": "2023-12-24T16:07:20Z",
-    "+@date-last-modified-at": "2025-03-04T10:35:59Z",
-    "+@date-last-updated-at": "2025-03-04T10:35:59Z"
+    "+@date-last-modified-at": "2025-04-04T08:37:46Z",
+    "+@date-last-updated-at": "2025-04-04T08:37:46Z"
 }
