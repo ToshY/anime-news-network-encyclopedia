@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Sorairo Utility",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-04T09:31:06Z",
+    "+@generated-on": "2025-04-04T04:35:26Z",
     "related-prev": {
         "+@rel": "alternate retelling of",
         "+@id": "24902"
@@ -15,21 +15,21 @@
     },
     "info": [
         {
-            "+@gid": "1282128274",
+            "+@gid": "1426328483",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32015-1282128274.1733142495.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32015-1426328483.1742290242.jpg",
+            "+@width": "140",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32015-1282128274.1733142495.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32015-1426328483.1742290242.jpg",
+                    "+@width": "140",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32015-1282128274.1733142495.jpg",
-                    "+@width": "424",
-                    "+@height": "600"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32015-1426328483.1742290242.jpg",
+                    "+@width": "350",
+                    "+@height": "500"
                 }
             ]
         },
@@ -46,9 +46,44 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "1344513294",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "slice of life",
+            "+@gid": "1600221508",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "golf",
+            "+@gid": "1382729085",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "school",
+            "+@gid": "1898344006",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "sports",
+            "+@gid": "1605755313",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "OC",
+            "+@gid": "249986539",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "Minami Aoba was troubled. She had no particular strengths or things she wanted to do. Leaving school behind, Minami searches for her own \"special uniqueness.\" She stumbles upon the nearby golf practice range by chance. Approached by part-time worker Haruka Akane, Minami grasps the golf club—the \"utility.\" And thus, it was the encounter between Minami and golf. Together with the genius golfer Haruka and Ayaka Hoshimi, who aspires to be an influencer, they seek the moment when they can become the \"protagonist.\"",
             "+@gid": "2004078368",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "1154949951",
+            "+@type": "Running time"
         },
         {
             "+content": "2025-01-03",
@@ -74,8 +109,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "7.674"
+        "+@nb_votes": "20",
+        "+@weighted_score": "7.4445",
+        "+@bayesian_score": "7.45699"
     },
     "news": [
         {
@@ -122,6 +158,11 @@
             "+content": "<cite>Sorairo Utility</cite>, <cite>Birdie Wing</cite> Get Crossover Mini-Anime",
             "+@datetime": "2025-02-12T21:05:30Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-02-12/sorairo-utility-birdie-wing-get-crossover-mini-anime/.221141"
+        },
+        {
+            "+content": "<cite>Sorairo Utility</cite> Anime Casts Maria Naganawa",
+            "+@datetime": "2025-03-05T15:06:50Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-05/sorairo-utility-anime-casts-maria-naganawa/.221981"
         }
     ],
     "staff": [
@@ -174,11 +215,27 @@
             }
         },
         {
+            "+@gid": "1130571602",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takafumi Hoshikawa",
+                "+@id": "10203"
+            }
+        },
+        {
             "+@gid": "3165719630",
             "task": "Storyboard",
             "person": {
                 "+content": "Shigetaka Ikeda",
                 "+@id": "21263"
+            }
+        },
+        {
+            "+@gid": "3269707688",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yūsuke Suzuki",
+                "+@id": "24449"
             }
         },
         {
@@ -190,11 +247,43 @@
             }
         },
         {
+            "+@gid": "649382075",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Akira Amemiya",
+                "+@id": "56302"
+            }
+        },
+        {
             "+@gid": "1987493342",
             "task": "Storyboard",
             "person": {
                 "+content": "Kengo Saitō",
                 "+@id": "83581"
+            }
+        },
+        {
+            "+@gid": "2398656607",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Reo Itoyama",
+                "+@id": "153244"
+            }
+        },
+        {
+            "+@gid": "1438622568",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Aya Takafuji",
+                "+@id": "153660"
+            }
+        },
+        {
+            "+@gid": "2182369200",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Masaoki Nakajima",
+                "+@id": "196682"
             }
         },
         {
@@ -211,6 +300,14 @@
             "person": {
                 "+content": "Shigetaka Ikeda",
                 "+@id": "21263"
+            }
+        },
+        {
+            "+@gid": "1049093652",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shinichi Tabe",
+                "+@id": "51258"
             }
         },
         {
@@ -238,6 +335,30 @@
             }
         },
         {
+            "+@gid": "3800007495",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Kengo Saitō",
+                "+@id": "83581"
+            }
+        },
+        {
+            "+@gid": "2555130343",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Reo Itoyama",
+                "+@id": "153244"
+            }
+        },
+        {
+            "+@gid": "1829248854",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Aya Takafuji",
+                "+@id": "153660"
+            }
+        },
+        {
             "+@gid": "2511483610",
             "task": "Music",
             "person": {
@@ -262,11 +383,27 @@
             }
         },
         {
+            "+@gid": "441640345",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kengo Saitō",
+                "+@id": "83581"
+            }
+        },
+        {
             "+@gid": "1894543514",
             "task": "Animation Director",
             "person": {
                 "+content": "Yasuyuki Noda",
                 "+@id": "2271"
+            }
+        },
+        {
+            "+@gid": "1713061832",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masakatsu Sasaki",
+                "+@id": "7651"
             }
         },
         {
@@ -286,11 +423,27 @@
             }
         },
         {
+            "+@gid": "1652932872",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuji Kikuta",
+                "+@id": "68551"
+            }
+        },
+        {
             "+@gid": "2709233697",
             "task": "Animation Director",
             "person": {
                 "+content": "Kei Sakai",
                 "+@id": "72106"
+            }
+        },
+        {
+            "+@gid": "985359616",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kengo Saitō",
+                "+@id": "83581"
             }
         },
         {
@@ -307,6 +460,30 @@
             "person": {
                 "+content": "Takuma Shimizu",
                 "+@id": "111027"
+            }
+        },
+        {
+            "+@gid": "2353951822",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Reo Itoyama",
+                "+@id": "153244"
+            }
+        },
+        {
+            "+@gid": "1468339744",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Aya Takafuji",
+                "+@id": "153660"
+            }
+        },
+        {
+            "+@gid": "2087158824",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Fumino Kakihata",
+                "+@id": "162074"
             }
         },
         {
@@ -541,6 +718,15 @@
             }
         },
         {
+            "+@gid": "1723448450",
+            "+@lang": "JA",
+            "role": "Hina Yoarashi",
+            "person": {
+                "+content": "Maria Naganawa",
+                "+@id": "127172"
+            }
+        },
+        {
             "+@gid": "1124045866",
             "+@lang": "JA",
             "role": "Haruka Akane",
@@ -568,6 +754,6 @@
         }
     },
     "+@date-added": "2024-02-08T05:35:19Z",
-    "+@date-last-modified-at": "2025-03-04T09:31:13Z",
-    "+@date-last-updated-at": "2025-03-04T09:31:13Z"
+    "+@date-last-modified-at": "2025-04-04T04:35:31Z",
+    "+@date-last-updated-at": "2025-04-04T04:35:31Z"
 }
