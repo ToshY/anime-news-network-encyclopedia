@@ -3,11 +3,15 @@
     "+@gid": "1268554782",
     "+@type": "movie",
     "+@name": "Love Live! Nijigasaki Gakuen School Idol Dōkōkai Kanketsu-hen",
-    "+@precision": "movies",
-    "+@generated-on": "2025-03-04T16:38:56Z",
+    "+@precision": "movie",
+    "+@generated-on": "2025-04-05T04:34:31Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "22934"
+    },
+    "related-next": {
+        "+@id": "35301",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -51,7 +55,7 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "2024-09-06 (Japan, Part 1)",
+            "+content": "2024-09-06 (Japan)",
             "+@gid": "2223093567",
             "+@type": "Premiere date"
         },
@@ -60,7 +64,7 @@
             "+@gid": "1951741813",
             "+@type": "Official website",
             "+@lang": "JA",
-            "+@href": "https://www.lovelive-anime.jp/nijigasaki/movieteaser/"
+            "+@href": "https://www.lovelive-anime.jp/nijigasaki/movie/"
         }
     ],
     "news": [
@@ -98,6 +102,11 @@
             "+content": "2nd <cite>Love Live! Nijigasaki High School Idol Club</cite> Anime Film's Teaser Announces Winter 2025 Debut",
             "+@datetime": "2024-10-20T12:49:43Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-10-20/2nd-love-live-nijigasaki-high-school-idol-club-anime-film-teaser-announces-winter-2025-debut/.216962"
+        },
+        {
+            "+content": "2nd <cite>Love Live! Nijigasaki High School Idol Club</cite> Anime Film to Open on November 7",
+            "+@datetime": "2025-03-23T07:10:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-23/2nd-love-live-nijigasaki-high-school-idol-club-anime-film-to-open-on-november-7/.222761"
         }
     ],
     "staff": [
@@ -115,6 +124,94 @@
             "person": {
                 "+content": "Jin Tanaka",
                 "+@id": "153258"
+            }
+        },
+        {
+            "+@gid": "1510434214",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Chikara Sakurai",
+                "+@id": "15802"
+            }
+        },
+        {
+            "+@gid": "2139276750",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Katsuya Asano",
+                "+@id": "29714"
+            }
+        },
+        {
+            "+@gid": "3604340891",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tomoyuki Kawamura",
+                "+@id": "64718"
+            }
+        },
+        {
+            "+@gid": "1209297573",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ryūhei Aoyagi",
+                "+@id": "81921"
+            }
+        },
+        {
+            "+@gid": "2336780136",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hirokazu Satou",
+                "+@id": "161272"
+            }
+        },
+        {
+            "+@gid": "2396688616",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yūya Horiuchi",
+                "+@id": "167255"
+            }
+        },
+        {
+            "+@gid": "939530245",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Chikara Sakurai",
+                "+@id": "15802"
+            }
+        },
+        {
+            "+@gid": "2423175000",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Katsuya Asano",
+                "+@id": "29714"
+            }
+        },
+        {
+            "+@gid": "2952444325",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Koji Nagatomi",
+                "+@id": "56033"
+            }
+        },
+        {
+            "+@gid": "3337328562",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Akira Yamada",
+                "+@id": "155984"
+            }
+        },
+        {
+            "+@gid": "1907609005",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Hirokazu Satou",
+                "+@id": "161272"
             }
         },
         {
@@ -155,6 +252,46 @@
             "person": {
                 "+content": "Minoru Akiba",
                 "+@id": "28066"
+            }
+        },
+        {
+            "+@gid": "2320090129",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Keisuke Watanabe",
+                "+@id": "10627"
+            }
+        },
+        {
+            "+@gid": "1670945670",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Rio",
+                "+@id": "30861"
+            }
+        },
+        {
+            "+@gid": "2443878311",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Masahito Onoda",
+                "+@id": "96227"
+            }
+        },
+        {
+            "+@gid": "1612216709",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Ryōsuke Yamamoto",
+                "+@id": "147987"
+            }
+        },
+        {
+            "+@gid": "1936793273",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kerorira",
+                "+@id": "172873"
             }
         },
         {
@@ -302,6 +439,6 @@
         }
     },
     "+@date-added": "2023-06-24T19:15:27Z",
-    "+@date-last-modified-at": "2025-03-04T16:38:58Z",
-    "+@date-last-updated-at": "2025-03-04T16:38:58Z"
+    "+@date-last-modified-at": "2025-04-05T04:34:34Z",
+    "+@date-last-updated-at": "2025-04-05T04:34:34Z"
 }

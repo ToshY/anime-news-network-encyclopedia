@@ -4,14 +4,14 @@
     "+@type": "movie",
     "+@name": "Mobile Suit Gundam GQuuuuuuX -Beginning-",
     "+@precision": "movie",
-    "+@generated-on": "2025-03-06T03:39:29Z",
+    "+@generated-on": "2025-04-05T04:34:29Z",
     "related-prev": [
         {
             "+@rel": "part of",
             "+@id": "4189"
         },
         {
-            "+@rel": "alternate retelling of",
+            "+@rel": "compilation of",
             "+@id": "34125"
         }
     ],
@@ -68,6 +68,21 @@
             "+@type": "Premiere date"
         },
         {
+            "+content": "\"Plazma\" by Kenshi Yonezu",
+            "+@gid": "1362655669",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Midnight Reflection\" (ミッドナイト・リフレクション) by Nomelon Nolemon",
+            "+@gid": "3635324411",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Mōdōnatte mo Ii ya\" (もうどうなってもいいや; \"I Don't Care What Happens Anymore\") by Hoshimachi Suisei",
+            "+@gid": "1426627862",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "機動戦士Gundam GQuuuuuuX(ジークアクス) 公式サイト",
             "+@gid": "2179917148",
             "+@type": "Official website",
@@ -76,8 +91,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "7",
-        "+@weighted_score": "7.6922"
+        "+@nb_votes": "8",
+        "+@weighted_score": "7.4567"
     },
     "review": {
         "+content": "<cite>Mobile Suit Gundam GQuuuuuuX -Beginning-</cite> Anime Film Review",
@@ -188,6 +203,26 @@
             "+content": "Live-Action <cite>Trillion Game</cite> Film Drops to #3, <cite>Gundam GQuuuuuuX -Beginning-</cite> to #8",
             "+@datetime": "2025-03-04T02:19:18Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-03/live-action-trillion-game-film-drops-to-no.3-gundam-gquuuuuux-beginning-to-no.8/.221902"
+        },
+        {
+            "+content": "<cite>Gundam GQuuuuuuX -Beginning-</cite> Film Earns Total of US$1,079,898 in U.S. Screenings",
+            "+@datetime": "2025-03-10T07:57:18Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-10/gundam-gquuuuuux-beginning-film-earns-total-of-usd1079898-in-u.s-screenings/.222156"
+        },
+        {
+            "+content": "Online Film Screening Listings Confuse Gundam Titles in UK, Ireland",
+            "+@datetime": "2025-03-14T12:56:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-14/online-film-screening-listings-confuse-gundam-titles-in-uk-ireland/.222378"
+        },
+        {
+            "+content": "2025 <cite>Doraemon</cite> Film Stays at #1, <cite>Mononoke</cite> Film Opens at #6",
+            "+@datetime": "2025-03-21T04:35:25Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-21/2025-doraemon-film-stays-at-no.1-mononoke-film-opens-at-no.6/.222489"
+        },
+        {
+            "+content": "Live-Action <cite>My Love Story with Yamada-kun at Lv999</cite> Film Opens at #5",
+            "+@datetime": "2025-04-01T02:39:47Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-31/live-action-my-love-story-with-yamada-kun-at-lv999-film-opens-at-no.5/.223098"
         }
     ],
     "staff": [
@@ -402,6 +437,24 @@
     ],
     "cast": [
         {
+            "+@gid": "3160270049",
+            "+@lang": "JA",
+            "role": "Haro",
+            "person": {
+                "+content": "Rie Kugimiya",
+                "+@id": "808"
+            }
+        },
+        {
+            "+@gid": "2510430856",
+            "+@lang": "JA",
+            "role": "Challia Bull",
+            "person": {
+                "+content": "Shinji Kawada",
+                "+@id": "14440"
+            }
+        },
+        {
             "+@gid": "2983777783",
             "+@lang": "JA",
             "role": "Nyaan",
@@ -420,12 +473,39 @@
             }
         },
         {
+            "+@gid": "1484701037",
+            "+@lang": "JA",
+            "role": "Denim",
+            "person": {
+                "+content": "Kōsuke Gotō",
+                "+@id": "104565"
+            }
+        },
+        {
+            "+@gid": "2457846483",
+            "+@lang": "JA",
+            "role": "Xavier Olivette",
+            "person": {
+                "+content": "Seiichirō Yamashita",
+                "+@id": "121187"
+            }
+        },
+        {
             "+@gid": "1143920123",
             "+@lang": "JA",
             "role": "Shūji Itō",
             "person": {
                 "+content": "Shimba Tsuchiya",
                 "+@id": "121607"
+            }
+        },
+        {
+            "+@gid": "1590064282",
+            "+@lang": "JA",
+            "role": "Char Aznable",
+            "person": {
+                "+content": "Yūki Shin",
+                "+@id": "150451"
             }
         }
     ],
@@ -456,6 +536,6 @@
         }
     ],
     "+@date-added": "2024-12-03T22:58:54Z",
-    "+@date-last-modified-at": "2025-03-06T03:39:32Z",
-    "+@date-last-updated-at": "2025-03-06T03:39:32Z"
+    "+@date-last-modified-at": "2025-04-05T04:34:34Z",
+    "+@date-last-updated-at": "2025-04-05T04:34:34Z"
 }
