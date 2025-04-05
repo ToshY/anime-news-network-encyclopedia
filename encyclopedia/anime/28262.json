@@ -4,28 +4,37 @@
     "+@type": "TV",
     "+@name": "Medalist",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-04T17:30:48Z",
+    "+@generated-on": "2025-04-05T08:33:39Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24370"
     },
+    "related-next": {
+        "+@id": "35420",
+        "+@rel": "sequel"
+    },
     "info": [
         {
-            "+@gid": "2668563019",
+            "+@gid": "1172860740",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28262-2668563019.1733479197.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28262-1172860740.1741700374.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28262-2668563019.1733479197.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28262-1172860740.1741700374.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A28262-2668563019.1733479197.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A28262-1172860740.1741700374.jpg",
+                    "+@width": "423",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A28262-1172860740.1741700374.jpg",
+                    "+@width": "550",
+                    "+@height": "780"
                 }
             ]
         },
@@ -139,8 +148,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "8.7345"
+        "+@nb_votes": "36",
+        "+@weighted_score": "8.2862",
+        "+@bayesian_score": "8.0713"
     },
     "episode": [
         {
@@ -214,6 +224,38 @@
                 "+@gid": "3191560786",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "Howling at Night",
+                "+@gid": "985759239",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "Dance the Night",
+                "+@gid": "3364796514",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Shirone's Lesson",
+                "+@gid": "3205784104",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "Morning Arrives",
+                "+@gid": "2512054171",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -256,6 +298,11 @@
             "+content": "<cite>Medalist</cite> Anime Gets English Dub",
             "+@datetime": "2024-12-29T07:51:12Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-29/medalist-anime-gets-english-dub/.219579"
+        },
+        {
+            "+content": "<cite>Medalist</cite> Anime Gets 2nd Season",
+            "+@datetime": "2025-03-29T23:54:34Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-29/medalist-anime-gets-2nd-season/.223026"
         }
     ],
     "staff": [
@@ -316,6 +363,22 @@
             }
         },
         {
+            "+@gid": "1536245431",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shigehisa Iida",
+                "+@id": "77021"
+            }
+        },
+        {
+            "+@gid": "2374438289",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hiroyuki Oshima",
+                "+@id": "88989"
+            }
+        },
+        {
             "+@gid": "3308303929",
             "task": "Storyboard",
             "person": {
@@ -348,6 +411,14 @@
             }
         },
         {
+            "+@gid": "2713186403",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Mitsuo Hashimoto",
+                "+@id": "9804"
+            }
+        },
+        {
             "+@gid": "1560922449",
             "task": "Episode Director",
             "person": {
@@ -377,6 +448,14 @@
             "person": {
                 "+content": "Takahiro Hirata",
                 "+@id": "195965"
+            }
+        },
+        {
+            "+@gid": "1986125957",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yuki Kanazawa",
+                "+@id": "202351"
             }
         },
         {
@@ -545,6 +624,15 @@
             }
         },
         {
+            "+@gid": "3627490172",
+            "+@lang": "EN",
+            "role": "Shinichiro Sonidori",
+            "person": {
+                "+content": "Kaiji Tang",
+                "+@id": "70445"
+            }
+        },
+        {
             "+@gid": "1984449655",
             "+@lang": "EN",
             "role": "Ema Yamato",
@@ -698,12 +786,21 @@
             }
         },
         {
-            "+@gid": "2488591529",
-            "+@lang": "JA",
-            "role": "Koichi Kago",
+            "+@gid": "2818554667",
+            "+@lang": "ES",
+            "role": "Inori Yuitsuka",
             "person": {
-                "+content": "Takanori Hoshino",
-                "+@id": "16462"
+                "+content": "Elizabeth Infante",
+                "+@id": "167430"
+            }
+        },
+        {
+            "+@gid": "2472878979",
+            "+@lang": "ES",
+            "role": "Tsukasa Akeuraji",
+            "person": {
+                "+content": "Ditter Ruiz",
+                "+@id": "185617"
             }
         },
         {
@@ -904,6 +1001,6 @@
         }
     ],
     "+@date-added": "2023-05-18T02:27:07Z",
-    "+@date-last-modified-at": "2025-03-04T17:31:08Z",
-    "+@date-last-updated-at": "2025-03-04T17:31:08Z"
+    "+@date-last-modified-at": "2025-04-05T08:33:41Z",
+    "+@date-last-updated-at": "2025-04-05T08:33:41Z"
 }

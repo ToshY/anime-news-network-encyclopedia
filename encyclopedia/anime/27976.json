@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "Tying the Knot With an Amagami Sister",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-04T17:31:01Z",
+    "+@generated-on": "2025-04-05T08:33:39Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25229"
     },
     "info": [
         {
-            "+@gid": "491894180",
+            "+@gid": "943918784",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A27976-491894180.1718391998.jpg",
-            "+@width": "135",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A27976-943918784.1741184662.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A27976-491894180.1718391998.jpg",
-                    "+@width": "135",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A27976-943918784.1741184662.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A27976-491894180.1718391998.jpg",
-                    "+@width": "404",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A27976-943918784.1741184662.jpg",
+                    "+@width": "423",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A27976-943918784.1741184662.jpg",
+                    "+@width": "550",
+                    "+@height": "780"
                 }
             ]
         },
@@ -95,8 +100,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "11",
-        "+@weighted_score": "6.2982"
+        "+@nb_votes": "29",
+        "+@weighted_score": "6.9382",
+        "+@bayesian_score": "7.10472"
     },
     "episode": [
         {
@@ -218,6 +224,14 @@
             }
         },
         {
+            "+@gid": "3071272942",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Masahiko Watanabe",
+                "+@id": "12553"
+            }
+        },
+        {
             "+@gid": "2965726722",
             "task": "Music",
             "person": {
@@ -255,6 +269,22 @@
             "person": {
                 "+content": "Eri Yamanashi",
                 "+@id": "82062"
+            }
+        },
+        {
+            "+@gid": "1385485610",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Henry Kuan",
+                "+@id": "230517"
+            }
+        },
+        {
+            "+@gid": "1627374523",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mixemirai",
+                "+@id": "243494"
             }
         },
         {
@@ -627,6 +657,6 @@
         }
     },
     "+@date-added": "2023-04-21T14:21:21Z",
-    "+@date-last-modified-at": "2025-03-04T17:31:08Z",
-    "+@date-last-updated-at": "2025-03-04T17:31:08Z"
+    "+@date-last-modified-at": "2025-04-05T08:33:41Z",
+    "+@date-last-updated-at": "2025-04-05T08:33:41Z"
 }
