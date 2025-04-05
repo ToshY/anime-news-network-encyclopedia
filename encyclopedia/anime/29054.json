@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Your Forma",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-04T14:33:24Z",
+    "+@generated-on": "2025-04-05T02:01:27Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25780"
+    },
+    "related-next": {
+        "+@id": "35395",
+        "+@rel": "spinoff"
     },
     "info": [
         {
@@ -47,13 +51,73 @@
             "+@lang": "JA"
         },
         {
+            "+content": "drama",
+            "+@gid": "3197160021",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "mystery",
+            "+@gid": "2785089394",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "psychological",
+            "+@gid": "3252877169",
+            "+@type": "Genres"
+        },
+        {
             "+content": "science fiction",
             "+@gid": "2718140901",
             "+@type": "Genres"
         },
         {
+            "+content": "androids",
+            "+@gid": "3559490709",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "artificial intelligence",
+            "+@gid": "283378502",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "detective",
+            "+@gid": "2062723894",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "future",
+            "+@gid": "2143344293",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "police",
+            "+@gid": "1591762237",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "robots",
+            "+@gid": "3680646088",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "technology",
+            "+@gid": "1062943700",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "3252725127",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "In an alternate near future, the Your Forma, a miraculous \"smart thread\" technology initially developed to treat a massive outbreak of viral encephalitis, has become an integral part of daily life. But these convenient devices also record every sight, sound, and emotion their users experience. For Electronic Investigator Echika Hieda, diving into peoples' memories via the Your Forma and hunting for evidence is all part of a day's work. The problem is, she's so adept at what she does that her assistants literally fry their brains trying to keep up with her. After putting one too many aides in the hospital, the top brass finally furnish Echika with a partner on her level, a brilliant yet cheeky android named Harold Lucraft. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "1561196400",
+            "+@type": "Running time"
         },
         {
             "+content": "2025-04-02",
@@ -68,6 +132,10 @@
             "+@href": "https://www.yourforma-anime.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "6"
+    },
     "news": [
         {
             "+content": "<cite>Your Forma</cite> Anime's Teaser Reveals Cast, Staff, April 2025 Debut",
@@ -80,9 +148,29 @@
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-17/hell-teacher-jigoku-sensei-nube-anime-debuts-on-tv-asahi-new-im-animation-w-block-in-july/.219188"
         },
         {
-            "+content": "<cite>Your Forma</cite> Anime's Promotional Video Reveals More Cast, Opening Song",
+            "+content": "<cite>Your Forma</cite> Anime's Promotional Video Reveals More Cast, Opening Song, April 2 Premiere (Updated)",
             "+@datetime": "2025-02-12T12:00:59Z",
-            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-12/your-forma-anime-promotional-video-reveals-more-cast-opening-song/.221110"
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-12/your-forma-anime-promotional-video-reveals-more-cast-opening-song-april-2-premiere/.221110"
+        },
+        {
+            "+content": "<cite>Your Forma</cite> Anime Gets World Premiere Screening at Hawaii's Kawaii Kon on March 15",
+            "+@datetime": "2025-03-07T15:17:01Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-07/your-forma-anime-gets-world-premiere-screening-at-hawaii-kawaii-kon-on-march-15/.222082"
+        },
+        {
+            "+content": "<cite>Your Forma</cite> Anime's 2nd Video Unveils More Cast, 9Lana's Ending Song",
+            "+@datetime": "2025-03-19T12:05:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-19/your-forma-anime-2nd-video-unveils-more-cast-9lana-ending-song/.222555"
+        },
+        {
+            "+content": "<cite>Your Forma</cite> Anime Reveals Creditless Opening Video, Mini-Anime",
+            "+@datetime": "2025-03-28T12:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-28/your-forma-anime-reveals-creditless-opening-video-mini-anime/.222979"
+        },
+        {
+            "+content": "<cite>Your Forma</cite> Anime Streams on Samsung TV Plus in U.S., Canada",
+            "+@datetime": "2025-04-04T00:43:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-03/your-forma-anime-streams-on-samsung-tv-plus-in-u.s-canada/.223217"
         }
     ],
     "staff": [
@@ -133,13 +221,56 @@
                 "+content": "Chikashi Kadekaru",
                 "+@id": "76844"
             }
+        },
+        {
+            "+@gid": "1871679165",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Miki Yoshida",
+                "+@id": "45246"
+            }
+        },
+        {
+            "+@gid": "4006018312",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Junko Sakai",
+                "+@id": "80549"
+            }
         }
     ],
     "cast": [
         {
+            "+@gid": "2820496604",
+            "+@lang": "JA",
+            "role": "Sozon Arturovich Chernov",
+            "person": {
+                "+content": "Jun Fukuyama",
+                "+@id": "337"
+            }
+        },
+        {
+            "+@gid": "1450267690",
+            "+@lang": "JA",
+            "role": "Kazimir Martinovich Szubin",
+            "person": {
+                "+content": "Tomokazu Sugita",
+                "+@id": "910"
+            }
+        },
+        {
+            "+@gid": "859479858",
+            "+@lang": "JA",
+            "role": "Kuprian Valentinovich Napolov",
+            "person": {
+                "+content": "Kōichi Yamadera",
+                "+@id": "5728"
+            }
+        },
+        {
             "+@gid": "2383246594",
             "+@lang": "JA",
-            "role": "Lexie",
+            "role": "Lexie Willow Carter",
             "person": {
                 "+content": "Chiwa Saitō",
                 "+@id": "13834"
@@ -148,7 +279,7 @@
         {
             "+@gid": "3025288289",
             "+@lang": "JA",
-            "role": "Totoki",
+            "role": "Ui Totoki",
             "person": {
                 "+content": "Aya Endō",
                 "+@id": "27752"
@@ -157,7 +288,7 @@
         {
             "+@gid": "2905796143",
             "+@lang": "JA",
-            "role": "Benno",
+            "role": "Benno Kleemann",
             "person": {
                 "+content": "Yuu Hayashi",
                 "+@id": "30876"
@@ -184,7 +315,7 @@
         {
             "+@gid": "2662177966",
             "+@lang": "JA",
-            "role": "Fokine",
+            "role": "Ivan Lukioh Fokine",
             "person": {
                 "+content": "Nobuhiko Okamoto",
                 "+@id": "59411"
@@ -200,24 +331,51 @@
             }
         },
         {
+            "+@gid": "1874444740",
+            "+@lang": "JA",
+            "role": "Raissa Germaine Robin",
+            "person": {
+                "+content": "Hisako Tōjō",
+                "+@id": "112663"
+            }
+        },
+        {
             "+@gid": "524003580",
             "+@lang": "JA",
-            "role": "Darya",
+            "role": "Darya Romanovna Chernova",
             "person": {
                 "+content": "Ayaka Nanase",
                 "+@id": "141770"
             }
         }
     ],
-    "credit": {
-        "+@gid": "3847892097",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Geno Studio",
-            "+@id": "14530"
+    "credit": [
+        {
+            "+@gid": "3847892097",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Geno Studio",
+                "+@id": "14530"
+            }
+        },
+        {
+            "+@gid": "1906076294",
+            "task": "Production",
+            "company": {
+                "+content": "TV Asahi",
+                "+@id": "160"
+            }
+        },
+        {
+            "+@gid": "1706598580",
+            "task": "Production",
+            "company": {
+                "+content": "Kadokawa",
+                "+@id": "15420"
+            }
         }
-    },
+    ],
     "+@date-added": "2023-07-17T12:35:31Z",
-    "+@date-last-modified-at": "2025-03-04T14:33:25Z",
-    "+@date-last-updated-at": "2025-03-04T14:33:25Z"
+    "+@date-last-modified-at": "2025-04-05T02:01:32Z",
+    "+@date-last-updated-at": "2025-04-05T02:01:32Z"
 }
