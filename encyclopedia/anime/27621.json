@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "My Hero Academia",
     "+@precision": "TV 7",
-    "+@generated-on": "2025-03-04T18:39:55Z",
+    "+@generated-on": "2025-04-05T12:50:48Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24773"
@@ -68,9 +68,34 @@
             "+@type": "Genres"
         },
         {
+            "+content": "comedy",
+            "+@gid": "1149201576",
+            "+@type": "Genres"
+        },
+        {
             "+content": "drama",
             "+@gid": "1173582215",
             "+@type": "Genres"
+        },
+        {
+            "+content": "science fiction",
+            "+@gid": "808070572",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "fan service",
+            "+@gid": "3615422309",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "school",
+            "+@gid": "660981561",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "1449061522",
+            "+@type": "Themes"
         },
         {
             "+content": "TA",
@@ -126,9 +151,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "79",
-        "+@weighted_score": "7.9222",
-        "+@bayesian_score": "7.85922"
+        "+@nb_votes": "82",
+        "+@weighted_score": "7.9245",
+        "+@bayesian_score": "7.86315"
     },
     "episode": [
         {
@@ -300,6 +325,11 @@
             }
         }
     ],
+    "release": {
+        "+content": "My Hero Academia - Season 7 Part 1 (BD+DVD)",
+        "+@date": "2025-06-17",
+        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52459"
+    },
     "news": [
         {
             "+content": "<cite>My Hero Academia</cite> Anime's 7th Season Premieres in Spring 2024 (Updated)",
@@ -2046,6 +2076,6 @@
         }
     ],
     "+@date-added": "2023-03-25T07:46:39Z",
-    "+@date-last-modified-at": "2025-03-04T18:39:58Z",
-    "+@date-last-updated-at": "2025-03-04T18:39:58Z"
+    "+@date-last-modified-at": "2025-04-05T12:50:57Z",
+    "+@date-last-updated-at": "2025-04-05T12:50:57Z"
 }
