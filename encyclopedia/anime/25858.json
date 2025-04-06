@@ -4,15 +4,21 @@
     "+@type": "movie",
     "+@name": "Mononoke The Movie: Phantom in the Rain",
     "+@precision": "movie",
-    "+@generated-on": "2025-03-05T03:02:08Z",
+    "+@generated-on": "2025-04-06T20:30:45Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "7890"
     },
-    "related-next": {
-        "+@id": "33019",
-        "+@rel": "sequel"
-    },
+    "related-next": [
+        {
+            "+@id": "33019",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "35072",
+            "+@rel": "adaptation"
+        }
+    ],
     "info": [
         {
             "+@gid": "2259836306",
@@ -125,9 +131,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "25",
-        "+@weighted_score": "8.1242",
-        "+@bayesian_score": "7.90262"
+        "+@nb_votes": "26",
+        "+@weighted_score": "8.0836",
+        "+@bayesian_score": "7.88113"
     },
     "review": {
         "+content": "<cite>Mononoke The Movie: Karakasa</cite> Anime Film Review",
@@ -223,6 +229,11 @@
             "+content": "1st <cite>Mononoke</cite> Film Streams in India on November 28",
             "+@datetime": "2024-11-09T11:30:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-11-09/1st-mononoke-film-streams-in-india-on-november-28/.217665"
+        },
+        {
+            "+content": "2025 <cite>Doraemon</cite> Film Stays at #1, <cite>Mononoke</cite> Film Opens at #6",
+            "+@datetime": "2025-03-21T04:35:25Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-21/2025-doraemon-film-stays-at-no.1-mononoke-film-opens-at-no.6/.222489"
         }
     ],
     "staff": [
@@ -232,6 +243,22 @@
             "person": {
                 "+content": "Kenji Nakamura",
                 "+@id": "5305"
+            }
+        },
+        {
+            "+@gid": "1621361429",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Kenji Nakamura",
+                "+@id": "5305"
+            }
+        },
+        {
+            "+@gid": "1605817504",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Kōji Yamamoto",
+                "+@id": "97670"
             }
         },
         {
@@ -712,6 +739,14 @@
             "person": {
                 "+content": "Yukio Nagasaki",
                 "+@id": "3079"
+            }
+        },
+        {
+            "+@gid": "2786242311",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Hayato Kifune",
+                "+@id": "134520"
             }
         },
         {
@@ -1310,6 +1345,6 @@
         }
     ],
     "+@date-added": "2022-06-18T19:51:34Z",
-    "+@date-last-modified-at": "2025-03-05T03:02:10Z",
-    "+@date-last-updated-at": "2025-03-05T03:02:10Z"
+    "+@date-last-modified-at": "2025-04-06T20:31:03Z",
+    "+@date-last-updated-at": "2025-04-06T20:31:03Z"
 }

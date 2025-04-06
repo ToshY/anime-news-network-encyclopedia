@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Sound! Euphonium 3",
     "+@precision": "TV 3",
-    "+@generated-on": "2025-03-05T03:38:47Z",
+    "+@generated-on": "2025-04-06T20:30:58Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "25753"
+    },
+    "related-next": {
+        "+@id": "35181",
+        "+@rel": "compilation"
     },
     "info": [
         {
@@ -59,6 +63,16 @@
             "+@lang": "JA"
         },
         {
+            "+content": "drama",
+            "+@gid": "2877095663",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "music",
+            "+@gid": "2466383849",
+            "+@type": "Themes"
+        },
+        {
             "+content": "13",
             "+@gid": "3024645389",
             "+@type": "Number of episodes"
@@ -87,9 +101,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "75",
-        "+@weighted_score": "8.3461",
-        "+@bayesian_score": "8.21764"
+        "+@nb_votes": "77",
+        "+@weighted_score": "8.3759",
+        "+@bayesian_score": "8.24594"
     },
     "episode": [
         {
@@ -764,6 +778,6 @@
         }
     ],
     "+@date-added": "2022-06-04T16:37:22Z",
-    "+@date-last-modified-at": "2025-03-05T03:38:52Z",
-    "+@date-last-updated-at": "2025-03-05T03:38:52Z"
+    "+@date-last-modified-at": "2025-04-06T20:31:03Z",
+    "+@date-last-updated-at": "2025-04-06T20:31:03Z"
 }
