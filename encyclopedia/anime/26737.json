@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Pokémon Horizons: The Series",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-04T20:30:57Z",
+    "+@generated-on": "2025-04-06T02:14:24Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "24608"
@@ -99,6 +99,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "drama",
+            "+@gid": "3872163370",
+            "+@type": "Genres"
+        },
+        {
             "+content": "monsters",
             "+@gid": "3123895686",
             "+@type": "Themes"
@@ -174,8 +179,13 @@
             "+@type": "Opening Theme"
         },
         {
-            "+content": "#4: \"Only One Story\" by ZeroBaseOne (eps 68-)",
+            "+content": "#4: \"Only One Story\" by ZeroBaseOne (eps 68-89)",
             "+@gid": "3116538085",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "#5: \"GET BACK\" by Yuzu (eps 90-)",
+            "+@gid": "2260893274",
             "+@type": "Opening Theme"
         },
         {
@@ -189,8 +199,13 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "#3: \"Pikkaan!\" (ピッカーン！; Sparkle!) by Rina Matsuda & Hikaru Morita from Sakurazaka46 (eps 68-)",
+            "+content": "#3: \"Pikkaan!\" (ピッカーン！; Sparkle!) by Rina Matsuda & Hikaru Morita from Sakurazaka46 (eps 68-88)",
             "+@gid": "2425229483",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#4: \"Ready Go\" by ME:I (eps 90-)",
+            "+@gid": "1616664026",
             "+@type": "Ending Theme"
         },
         {
@@ -213,7 +228,7 @@
     ],
     "ratings": {
         "+@nb_votes": "8",
-        "+@weighted_score": "7.3614"
+        "+@weighted_score": "7.36"
     },
     "episode": [
         {
@@ -903,6 +918,30 @@
                 "+@gid": "1474749935",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "87",
+            "title": {
+                "+content": "The Guidance of the Black Rayquaza",
+                "+@gid": "2896584755",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "88",
+            "title": {
+                "+content": "The White Zygarde Causes Shock Waves",
+                "+@gid": "940610751",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "89",
+            "title": {
+                "+content": "At the End of the Adventure",
+                "+@gid": "2401895943",
+                "+@lang": "EN"
+            }
         }
     ],
     "review": [
@@ -1138,6 +1177,11 @@
             "+content": "<cite>Pokémon Horizons: The Search for Laqua</cite> Anime's 2nd Part Premieres on April 25",
             "+@datetime": "2025-03-03T16:40:23Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-03/pokemon-horizons-the-search-for-laqua-anime-2nd-part-premieres-on-april-25/.221887"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, March 3-9",
+            "+@datetime": "2025-03-24T12:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-24/japanese-animation-tv-ranking-march-3-9/.222543"
         }
     ],
     "staff": [
@@ -1806,6 +1850,14 @@
             }
         },
         {
+            "+@gid": "2343652490",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takaaki Sonoda",
+                "+@id": "42851"
+            }
+        },
+        {
             "+@gid": "3608054183",
             "task": "Animation Director",
             "person": {
@@ -1942,6 +1994,14 @@
             }
         },
         {
+            "+@gid": "3700850497",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Miki Ueda",
+                "+@id": "92525"
+            }
+        },
+        {
             "+@gid": "3645338083",
             "task": "Animation Director",
             "person": {
@@ -2006,6 +2066,14 @@
             }
         },
         {
+            "+@gid": "2153230530",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kei Takahashi",
+                "+@id": "121621"
+            }
+        },
+        {
             "+@gid": "3671814171",
             "task": "Animation Director",
             "person": {
@@ -2035,6 +2103,14 @@
             "person": {
                 "+content": "Chiaki Kurakazu",
                 "+@id": "153970"
+            }
+        },
+        {
+            "+@gid": "2575646248",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Asato Ikumi",
+                "+@id": "154474"
             }
         },
         {
@@ -3294,6 +3370,15 @@
             }
         },
         {
+            "+@gid": "2097797814",
+            "+@lang": "JA",
+            "role": "Ult",
+            "person": {
+                "+content": "Natsumi Fujiwara",
+                "+@id": "109744"
+            }
+        },
+        {
             "+@gid": "2493348211",
             "+@lang": "JA",
             "role": "Kihada",
@@ -3616,6 +3701,6 @@
         }
     ],
     "+@date-added": "2022-12-16T07:12:04Z",
-    "+@date-last-modified-at": "2025-03-04T20:30:59Z",
-    "+@date-last-updated-at": "2025-03-04T20:30:59Z"
+    "+@date-last-modified-at": "2025-04-06T02:14:27Z",
+    "+@date-last-updated-at": "2025-04-06T02:14:27Z"
 }

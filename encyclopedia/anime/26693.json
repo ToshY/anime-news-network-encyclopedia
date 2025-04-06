@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Go! Go! Loser Ranger!",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-04T21:28:23Z",
+    "+@generated-on": "2025-04-06T02:14:25Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25187"
@@ -49,6 +49,12 @@
             "+@gid": "2018787460",
             "+@type": "Alternative title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "No Longer Rangers",
+            "+@gid": "2735434877",
+            "+@type": "Alternative title",
+            "+@lang": "FR"
         },
         {
             "+content": "Ranger Reject",
@@ -96,9 +102,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "144",
+        "+@nb_votes": "146",
         "+@weighted_score": "7.3361",
-        "+@bayesian_score": "7.34772"
+        "+@bayesian_score": "7.34755"
     },
     "episode": [
         {
@@ -1000,6 +1006,24 @@
             }
         },
         {
+            "+@gid": "642793698",
+            "+@lang": "FR",
+            "role": "Masurao Nadeshiko",
+            "person": {
+                "+content": "Pascal Germain",
+                "+@id": "45993"
+            }
+        },
+        {
+            "+@gid": "1322715815",
+            "+@lang": "FR",
+            "role": "Yumeko Suzukiri",
+            "person": {
+                "+content": "Delphine Rivière",
+                "+@id": "63286"
+            }
+        },
+        {
             "+@gid": "2328757929",
             "+@lang": "FR",
             "role": "Green Keeper",
@@ -1027,12 +1051,93 @@
             }
         },
         {
+            "+@gid": "3585937506",
+            "+@lang": "FR",
+            "role": "Red Keeper",
+            "person": {
+                "+content": "Adrien Larmande",
+                "+@id": "154105"
+            }
+        },
+        {
+            "+@gid": "2823895530",
+            "+@lang": "FR",
+            "role": "Blue Keeper",
+            "person": {
+                "+content": "Vincent Bonnasseau",
+                "+@id": "163844"
+            }
+        },
+        {
+            "+@gid": "3864626779",
+            "+@lang": "FR",
+            "role": "Troupiére XX",
+            "person": {
+                "+content": "Alice Taurand",
+                "+@id": "173542"
+            }
+        },
+        {
+            "+@gid": "2044136315",
+            "+@lang": "FR",
+            "role": "Yellow Keeper",
+            "person": {
+                "+content": "Erwan Zamor",
+                "+@id": "184969"
+            }
+        },
+        {
+            "+@gid": "597753908",
+            "+@lang": "FR",
+            "role": "Hibiki Sakurama",
+            "person": {
+                "+content": "Julien Portugais",
+                "+@id": "189088"
+            }
+        },
+        {
+            "+@gid": "1117119333",
+            "+@lang": "FR",
+            "role": "Troupier D",
+            "person": {
+                "+content": "Stéphane Otero",
+                "+@id": "216360"
+            }
+        },
+        {
+            "+@gid": "2070739234",
+            "+@lang": "FR",
+            "role": "Yamato Kurusu",
+            "person": {
+                "+content": "Antoine Escallon",
+                "+@id": "229536"
+            }
+        },
+        {
             "+@gid": "2002720922",
             "+@lang": "FR",
             "role": "Pink Keeper",
             "person": {
                 "+content": "Joy Feldman",
                 "+@id": "248023"
+            }
+        },
+        {
+            "+@gid": "3597408296",
+            "+@lang": "FR",
+            "role": "Shun Tokita",
+            "person": {
+                "+content": "Mathias Timsit",
+                "+@id": "278992"
+            }
+        },
+        {
+            "+@gid": "2926069356",
+            "+@lang": "FR",
+            "role": "Ranmaru Koguma",
+            "person": {
+                "+content": "Jean-Charles Deval",
+                "+@id": "278994"
             }
         },
         {
@@ -1261,6 +1366,6 @@
         }
     },
     "+@date-added": "2022-12-05T20:27:18Z",
-    "+@date-last-modified-at": "2025-03-04T21:28:26Z",
-    "+@date-last-updated-at": "2025-03-04T21:28:26Z"
+    "+@date-last-modified-at": "2025-04-06T02:14:27Z",
+    "+@date-last-updated-at": "2025-04-06T02:14:27Z"
 }
