@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Fire Force",
     "+@precision": "TV 3",
-    "+@generated-on": "2025-03-05T03:38:49Z",
+    "+@generated-on": "2025-04-07T02:12:45Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "22952"
@@ -57,6 +57,16 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "#1: \"High Flame\" by Queen Bee",
+            "+@gid": "2714191976",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "#1: \"Urusiren\" by Umeda Cypher",
+            "+@gid": "798022719",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "TVアニメ『炎炎ノ消防隊』",
             "+@gid": "1792390605",
             "+@type": "Official website",
@@ -64,6 +74,10 @@
             "+@href": "https://fireforce-anime.jp/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "8"
+    },
     "news": [
         {
             "+content": "<cite>Fire Force</cite> Anime's 3rd/Final Season Debuts in April 2025 With 2nd Part Airing in January 2026",
@@ -79,6 +93,21 @@
             "+content": "Final <cite>Fire Force</cite> Season's Trailer Reveals April 4 Premiere, Theme Song by Queen Bee",
             "+@datetime": "2025-02-26T18:58:21Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-02-26/final-fire-force-season-trailer-reveals-april-4-premiere-theme-song-by-queen-bee/.221674"
+        },
+        {
+            "+content": "Umeda Cypher Performs 1st Ending Theme for <cite>Fire Force</cite> Anime's Final Season",
+            "+@datetime": "2025-03-07T09:15:28Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-07/umeda-cypher-performs-1st-ending-theme-for-fire-force-anime-final-season/.222071"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Spring 2025 Season",
+            "+@datetime": "2025-03-19T17:11:51Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-19/crunchyroll-announces-release-schedule-for-spring-2025-season/.222571"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>The Unaware Atelier Meister</cite>, <cite>Once Upon a Witch's Death</cite>, More Anime in India",
+            "+@datetime": "2025-03-22T11:59:20Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-22/crunchyroll-streams-the-unaware-atelier-meister-once-upon-a-witch-death-more-anime-in-india/.222673"
         }
     ],
     "staff": [
@@ -104,6 +133,30 @@
             "person": {
                 "+content": "Sei Tsuguta",
                 "+@id": "271718"
+            }
+        },
+        {
+            "+@gid": "2419176635",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Satoshi Kimura",
+                "+@id": "3399"
+            }
+        },
+        {
+            "+@gid": "3147002652",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tatsuma Minamikawa",
+                "+@id": "83516"
+            }
+        },
+        {
+            "+@gid": "1845624156",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Satoshi Kimura",
+                "+@id": "3399"
             }
         },
         {
@@ -324,12 +377,30 @@
             }
         },
         {
+            "+@gid": "1507624029",
+            "+@lang": "JA",
+            "role": "Dragon",
+            "person": {
+                "+content": "Masaki Aizawa",
+                "+@id": "8004"
+            }
+        },
+        {
             "+@gid": "2512563775",
             "+@lang": "JA",
             "role": "Scop",
             "person": {
                 "+content": "Kentarō Itō",
                 "+@id": "8016"
+            }
+        },
+        {
+            "+@gid": "2999640689",
+            "+@lang": "JA",
+            "role": "Fracture",
+            "person": {
+                "+content": "Masaya Matsukaze",
+                "+@id": "8090"
             }
         },
         {
@@ -357,6 +428,15 @@
             "person": {
                 "+content": "Katsuhisa Hōki",
                 "+@id": "10862"
+            }
+        },
+        {
+            "+@gid": "1223709071",
+            "+@lang": "JA",
+            "role": "Stream",
+            "person": {
+                "+content": "Shinji Kawada",
+                "+@id": "14440"
             }
         },
         {
@@ -393,6 +473,15 @@
             "person": {
                 "+content": "Taiten Kusunoki",
                 "+@id": "18813"
+            }
+        },
+        {
+            "+@gid": "2927187963",
+            "+@lang": "JA",
+            "role": "Fairy",
+            "person": {
+                "+content": "Yūko Sanpei",
+                "+@id": "22150"
             }
         },
         {
@@ -438,6 +527,15 @@
             "person": {
                 "+content": "Kengo Kawanishi",
                 "+@id": "64695"
+            }
+        },
+        {
+            "+@gid": "2254587670",
+            "+@lang": "JA",
+            "role": "Gold",
+            "person": {
+                "+content": "Yōko Hikasa",
+                "+@id": "67797"
             }
         },
         {
@@ -639,6 +737,6 @@
         }
     },
     "+@date-added": "2022-05-16T21:39:44Z",
-    "+@date-last-modified-at": "2025-03-05T03:38:52Z",
-    "+@date-last-updated-at": "2025-03-05T03:38:52Z"
+    "+@date-last-modified-at": "2025-04-07T02:12:49Z",
+    "+@date-last-updated-at": "2025-04-07T02:12:49Z"
 }
