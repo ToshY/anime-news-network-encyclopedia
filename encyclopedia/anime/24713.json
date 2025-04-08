@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Magical Destroyers",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-05T12:53:52Z",
+    "+@generated-on": "2025-04-08T08:39:54Z",
     "info": [
         {
             "+@gid": "601935989",
@@ -93,9 +93,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "42",
-        "+@weighted_score": "5.5156",
-        "+@bayesian_score": "5.97911"
+        "+@nb_votes": "43",
+        "+@weighted_score": "5.5433",
+        "+@bayesian_score": "5.99201"
     },
     "episode": [
         {
@@ -1152,15 +1152,33 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "1719064333",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Bibury Animation Studio",
-            "+@id": "16426"
+    "credit": [
+        {
+            "+@gid": "1719064333",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Bibury Animation Studio",
+                "+@id": "16426"
+            }
+        },
+        {
+            "+@gid": "2181958875",
+            "task": "Production",
+            "company": {
+                "+content": "King Records",
+                "+@id": "85"
+            }
+        },
+        {
+            "+@gid": "1599975580",
+            "task": "Production",
+            "company": {
+                "+content": "Mainichi Broadcasting System",
+                "+@id": "10442"
+            }
         }
-    },
+    ],
     "+@date-added": "2021-09-10T08:31:57Z",
-    "+@date-last-modified-at": "2025-03-05T12:53:56Z",
-    "+@date-last-updated-at": "2025-03-05T12:53:56Z"
+    "+@date-last-modified-at": "2025-04-08T08:39:55Z",
+    "+@date-last-updated-at": "2025-04-08T08:39:55Z"
 }
