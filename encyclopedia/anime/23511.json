@@ -4,15 +4,21 @@
     "+@type": "TV",
     "+@name": "IDOLM@STER Million Live!",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-06T03:03:02Z",
+    "+@generated-on": "2025-04-10T16:41:08Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "12436"
     },
-    "related-next": {
-        "+@id": "24786",
-        "+@rel": "related"
-    },
+    "related-next": [
+        {
+            "+@id": "24786",
+            "+@rel": "related"
+        },
+        {
+            "+@id": "34976",
+            "+@rel": "related"
+        }
+    ],
     "info": [
         {
             "+@gid": "2606272578",
@@ -49,6 +55,11 @@
             "+@gid": "2009901036",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "idols",
+            "+@gid": "2251714559",
+            "+@type": "Themes"
         },
         {
             "+content": "2023-08-18 (theatrical screening, Part 1)",
@@ -210,8 +221,8 @@
     ],
     "ratings": {
         "+@nb_votes": "21",
-        "+@weighted_score": "6.5076",
-        "+@bayesian_score": "6.8781"
+        "+@weighted_score": "6.5065",
+        "+@bayesian_score": "6.87723"
     },
     "news": [
         {
@@ -288,6 +299,94 @@
             "person": {
                 "+content": "Yoichi Kato",
                 "+@id": "63399"
+            }
+        },
+        {
+            "+@gid": "983369377",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Junichi Umezawa",
+                "+@id": "41675"
+            }
+        },
+        {
+            "+@gid": "1972065897",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kaori Tsuta",
+                "+@id": "60964"
+            }
+        },
+        {
+            "+@gid": "1861812483",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shinya Watada",
+                "+@id": "63401"
+            }
+        },
+        {
+            "+@gid": "2119741498",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Masanori Takahashi",
+                "+@id": "74574"
+            }
+        },
+        {
+            "+@gid": "1636030444",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shuta Osabe",
+                "+@id": "95769"
+            }
+        },
+        {
+            "+@gid": "3968738523",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yohei Arai",
+                "+@id": "141876"
+            }
+        },
+        {
+            "+@gid": "1827752804",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kazufumi Amai",
+                "+@id": "216960"
+            }
+        },
+        {
+            "+@gid": "3077405963",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takamitsu Hirakawa",
+                "+@id": "138786"
+            }
+        },
+        {
+            "+@gid": "309305179",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kazufumi Amai",
+                "+@id": "216960"
+            }
+        },
+        {
+            "+@gid": "1717391041",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Satoshi Yamamura",
+                "+@id": "216961"
+            }
+        },
+        {
+            "+@gid": "909745817",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Daisuke Shiotani",
+                "+@id": "216962"
             }
         },
         {
@@ -756,6 +855,6 @@
         }
     ],
     "+@date-added": "2020-07-09T15:13:21Z",
-    "+@date-last-modified-at": "2025-03-06T03:03:03Z",
-    "+@date-last-updated-at": "2025-03-06T03:03:03Z"
+    "+@date-last-modified-at": "2025-04-10T16:41:13Z",
+    "+@date-last-updated-at": "2025-04-10T16:41:13Z"
 }
