@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Ninjala",
     "+@precision": "ONA",
-    "+@generated-on": "2025-03-06T03:39:30Z",
+    "+@generated-on": "2025-04-10T20:32:32Z",
     "related-next": {
         "+@id": "24968",
         "+@rel": "related"
@@ -47,6 +47,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "5",
+            "+@gid": "1411095637",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2020-06-23",
             "+@gid": "3259011900",
             "+@type": "Vintage"
@@ -67,6 +72,14 @@
         "+@href": "https://www.animenewsnetwork.com:/news/2020-06-25/gungho-ninjala-game-gets-net-anime-shorts/.161095"
     },
     "staff": [
+        {
+            "+@gid": "1606648449",
+            "task": "Director",
+            "person": {
+                "+content": "Kazuya Ichikawa",
+                "+@id": "66997"
+            }
+        },
         {
             "+@gid": "2386579737",
             "task": "Storyboard",
@@ -97,6 +110,38 @@
             "person": {
                 "+content": "Akane Shimizu",
                 "+@id": "163301"
+            }
+        },
+        {
+            "+@gid": "2130158892",
+            "task": "Original Concept",
+            "person": {
+                "+content": "Kazuki Morishita",
+                "+@id": "176157"
+            }
+        },
+        {
+            "+@gid": "2930563092",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Rianti Hidayat",
+                "+@id": "245073"
+            }
+        },
+        {
+            "+@gid": "924273046",
+            "task": "Character Design",
+            "person": {
+                "+content": "Erina Seki",
+                "+@id": "163266"
+            }
+        },
+        {
+            "+@gid": "936081666",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Erina Seki",
+                "+@id": "163266"
             }
         },
         {
@@ -461,6 +506,6 @@
         }
     ],
     "+@date-added": "2020-07-03T02:16:09Z",
-    "+@date-last-modified-at": "2025-03-06T03:39:32Z",
-    "+@date-last-updated-at": "2025-03-06T03:39:32Z"
+    "+@date-last-modified-at": "2025-04-10T20:32:36Z",
+    "+@date-last-updated-at": "2025-04-10T20:32:36Z"
 }
