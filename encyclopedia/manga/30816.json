@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Gaku-san",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-06T15:31:52Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "2017"
-    },
+    "+@generated-on": "2025-04-12T08:34:10Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "2017"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "22882"
+        }
+    ],
     "info": [
         {
             "+@gid": "2640041841",
@@ -52,9 +58,21 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2021-12-02 (serialized in Morning, 2022 #1)",
+            "+content": "2021-12-02 to 2022-11-24 (serialized in Morning, 2022 #1 - 52)",
             "+@gid": "2897116825",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2022-12-22 (serialized on Comic Days)",
+            "+@gid": "3224575887",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "ガクサン - 佐原実波 / １冊目「うるし、ヤバめの参考書オタクと出会う」 | コミックDAYS",
+            "+@gid": "3385698437",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://comic-days.com/episode/3269754496624186649"
         }
     ],
     "staff": {
@@ -66,6 +84,6 @@
         }
     },
     "+@date-added": "2023-11-22T02:42:58Z",
-    "+@date-last-modified-at": "2025-03-06T15:31:53Z",
-    "+@date-last-updated-at": "2025-03-06T15:31:53Z"
+    "+@date-last-modified-at": "2025-04-12T08:34:13Z",
+    "+@date-last-updated-at": "2025-04-12T08:34:13Z"
 }
