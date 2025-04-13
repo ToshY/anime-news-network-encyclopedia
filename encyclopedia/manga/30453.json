@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Kyō mo Veranda de",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-06T21:28:20Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "2017"
-    },
+    "+@generated-on": "2025-04-13T08:34:58Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "2017"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "22882"
+        }
+    ],
     "info": [
         {
             "+@gid": "99465670",
@@ -68,8 +74,13 @@
             "+@type": "Number of tankoubon"
         },
         {
-            "+content": "2022-09-15 (serialized in Morning, 2022 #42)",
+            "+content": "2022-09-15 to 2024-08-01 (serialized in Morning, 2022 #42 - 2024 #35)",
             "+@gid": "2924448699",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2024-08-07 to 2024-11-20 (serialized on Comic Days)",
+            "+@gid": "934876789",
             "+@type": "Vintage"
         }
     ],
@@ -86,6 +97,6 @@
         }
     },
     "+@date-added": "2023-10-23T09:35:59Z",
-    "+@date-last-modified-at": "2025-03-06T21:28:22Z",
-    "+@date-last-updated-at": "2025-03-06T21:28:22Z"
+    "+@date-last-modified-at": "2025-04-13T08:35:01Z",
+    "+@date-last-updated-at": "2025-04-13T08:35:01Z"
 }
