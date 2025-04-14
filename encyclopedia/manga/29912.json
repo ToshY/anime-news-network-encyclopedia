@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Ah, Sore Pon Desu!",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-07T08:35:16Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "19629"
-    },
+    "+@generated-on": "2025-04-14T20:33:30Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "19629"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "22882"
+        }
+    ],
     "info": [
         {
             "+@gid": "1647174369",
@@ -47,9 +53,31 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2021-08-17 (serialized in Shonen Magazine Edge, Sep 2021)",
+            "+content": "comedy",
+            "+@gid": "2658078957",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "3",
+            "+@gid": "539894699",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2021-08-17 to 2023-10-17 (Shonen Magazine Edge, Sep 2021 - Nov 2023)",
             "+@gid": "1909974974",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2023-12-13 to 2024-02-14 (serialized on Comic Days)",
+            "+@gid": "2380377210",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "あ、それポンです！ - けんたうろす / 第１話 ４人、ついに集結！ | コミックDAYS",
+            "+@gid": "1610226563",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://comic-days.com/episode/316112896845655159"
         }
     ],
     "news": {
@@ -66,6 +94,6 @@
         }
     },
     "+@date-added": "2023-09-15T17:53:19Z",
-    "+@date-last-modified-at": "2025-03-07T08:35:18Z",
-    "+@date-last-updated-at": "2025-03-07T08:35:18Z"
+    "+@date-last-modified-at": "2025-04-14T20:33:31Z",
+    "+@date-last-updated-at": "2025-04-14T20:33:31Z"
 }
