@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "See You Tomorrow at the Food Court",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-15T03:01:23Z",
+    "+@generated-on": "2025-04-14T04:35:59Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26134"
@@ -69,11 +69,18 @@
             "+@href": "https://www.foodcourtjk-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>See You Tomorrow at the Food Court</cite> Anime's Teaser Reveals Main Cast",
-        "+@datetime": "2025-03-07T03:00:22Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-03-06/see-you-tomorrow-at-the-food-court-anime-teaser-reveals-main-cast/.222053"
-    },
+    "news": [
+        {
+            "+content": "<cite>See You Tomorrow at the Food Court</cite> Anime's Teaser Reveals Main Cast",
+            "+@datetime": "2025-03-07T03:00:22Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-06/see-you-tomorrow-at-the-food-court-anime-teaser-reveals-main-cast/.222053"
+        },
+        {
+            "+content": "<cite>See You Tomorrow at the Food Court</cite> Anime Casts Saori Hayami, Jun Fukuyama",
+            "+@datetime": "2025-03-19T09:01:14Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-19/see-you-tomorrow-at-the-food-court-anime-casts-saori-hayami-jun-fukuyama/.222552"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1138640626",
@@ -134,6 +141,24 @@
     ],
     "cast": [
         {
+            "+@gid": "2748101520",
+            "+@lang": "JA",
+            "role": "Duke Abel",
+            "person": {
+                "+content": "Jun Fukuyama",
+                "+@id": "337"
+            }
+        },
+        {
+            "+@gid": "2497951888",
+            "+@lang": "JA",
+            "role": "Saitō",
+            "person": {
+                "+content": "Saori Hayami",
+                "+@id": "63462"
+            }
+        },
+        {
             "+@gid": "2118732135",
             "+@lang": "JA",
             "role": "Yamamoto",
@@ -161,6 +186,6 @@
         }
     },
     "+@date-added": "2024-12-13T04:41:19Z",
-    "+@date-last-modified-at": "2025-03-15T03:01:23Z",
-    "+@date-last-updated-at": "2025-03-15T03:01:23Z"
+    "+@date-last-modified-at": "2025-04-14T04:36:05Z",
+    "+@date-last-updated-at": "2025-04-14T04:36:05Z"
 }

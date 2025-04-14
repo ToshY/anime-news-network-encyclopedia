@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Dra-Q",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-07T04:34:08Z",
+    "+@generated-on": "2025-04-14T04:36:03Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "4043"
@@ -77,11 +77,18 @@
         "+@nb_votes": "1",
         "+@weighted_score": "3"
     },
-    "release": {
-        "+content": "Dra-Q  (GN 1)",
-        "+@date": "2025-01-21",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=51768"
-    },
+    "release": [
+        {
+            "+content": "Dra-Q  (GN 1)",
+            "+@date": "2025-01-21",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=51768"
+        },
+        {
+            "+content": "Dra-Q  (GN 2)",
+            "+@date": "2025-03-18",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52490"
+        }
+    ],
     "news": [
         {
             "+content": "Kodansha USA Licenses <cite>You Must Be This Tall to Propose!</cite>, <cite>Mobile Suit Gundam: Cucuruz Doan's Island</cite>, More Manga",
@@ -92,6 +99,11 @@
             "+content": "North American Anime, Manga Releases, January 19-25",
             "+@datetime": "2025-01-23T22:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-01-23/north-american-anime-manga-releases-january-19-25/.220262"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, March 16-22",
+            "+@datetime": "2025-03-20T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-20/north-american-anime-manga-releases-march-16-22/.222536"
         }
     ],
     "staff": {
@@ -103,6 +115,6 @@
         }
     },
     "+@date-added": "2023-10-04T22:52:00Z",
-    "+@date-last-modified-at": "2025-03-07T04:34:10Z",
-    "+@date-last-updated-at": "2025-03-07T04:34:10Z"
+    "+@date-last-modified-at": "2025-04-14T04:36:04Z",
+    "+@date-last-updated-at": "2025-04-14T04:36:04Z"
 }

@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Re:ZERO -Starting Life in Another World-",
     "+@precision": "TV 5",
-    "+@generated-on": "2025-03-15T03:01:22Z",
+    "+@generated-on": "2025-04-14T04:35:59Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "27619"
+    },
+    "related-next": {
+        "+@id": "35362",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -53,6 +57,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "fantasy",
+            "+@gid": "2897665639",
+            "+@type": "Genres"
+        },
+        {
             "+content": "8",
             "+@gid": "2370724324",
             "+@type": "Number of episodes"
@@ -81,8 +90,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "8.3959"
+        "+@nb_votes": "42",
+        "+@weighted_score": "7.9105",
+        "+@bayesian_score": "7.8078"
     },
     "episode": [
         {
@@ -120,8 +130,32 @@
         {
             "+@num": "63",
             "title": {
-                "+content": "A Warrior's Acclaim",
+                "+content": "The Warrior's Commendation",
                 "+@gid": "3557996201",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "64",
+            "title": {
+                "+content": "Theresia van Astrea",
+                "+@gid": "1020505367",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "65",
+            "title": {
+                "+content": "A Hideous Dinner Party",
+                "+@gid": "3381156596",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "66",
+            "title": {
+                "+content": "The Results of the Battle for Pristella",
+                "+@gid": "539350674",
                 "+@lang": "EN"
             }
         }
@@ -136,6 +170,11 @@
             "+content": "<cite>Re:Zero</cite> Anime's 3rd Season Resumes in India",
             "+@datetime": "2025-02-07T09:06:56Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-02-07/re-zero-anime-3rd-season-resumes-in-india/.220753"
+        },
+        {
+            "+content": "<cite>Re:ZERO -Starting Life in Another World-</cite> Anime Gets 4th Season",
+            "+@datetime": "2025-03-26T15:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-26/re-zero-starting-life-in-another-world-anime-gets-4th-season/.222903"
         }
     ],
     "staff": [
@@ -228,11 +267,27 @@
             }
         },
         {
+            "+@gid": "2576852317",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ryūhei Aoyagi",
+                "+@id": "81921"
+            }
+        },
+        {
             "+@gid": "2925793364",
             "task": "Episode Director",
             "person": {
                 "+content": "Hiroyuki Tsuchiya",
                 "+@id": "11890"
+            }
+        },
+        {
+            "+@gid": "1613174371",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Mamiko Sekiya",
+                "+@id": "77125"
             }
         },
         {
@@ -356,11 +411,35 @@
             }
         },
         {
+            "+@gid": "1507247662",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Min Ki Han",
+                "+@id": "57125"
+            }
+        },
+        {
             "+@gid": "3894170921",
             "task": "Animation Director",
             "person": {
                 "+content": "Keiichi Sugiura",
                 "+@id": "65758"
+            }
+        },
+        {
+            "+@gid": "2017478092",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chie Mishima",
+                "+@id": "72586"
+            }
+        },
+        {
+            "+@gid": "1899831763",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shin'ya Kitamura",
+                "+@id": "78576"
             }
         },
         {
@@ -380,11 +459,27 @@
             }
         },
         {
+            "+@gid": "1800571607",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hisae Ikezu",
+                "+@id": "80099"
+            }
+        },
+        {
             "+@gid": "1930318097",
             "task": "Animation Director",
             "person": {
                 "+content": "Haruka Sagawa",
                 "+@id": "101320"
+            }
+        },
+        {
+            "+@gid": "1552315158",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nanako Ninomiya",
+                "+@id": "101417"
             }
         },
         {
@@ -396,6 +491,14 @@
             }
         },
         {
+            "+@gid": "2663813201",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Miyuki Sugawara",
+                "+@id": "112413"
+            }
+        },
+        {
             "+@gid": "2193439311",
             "task": "Animation Director",
             "person": {
@@ -404,19 +507,27 @@
             }
         },
         {
+            "+@gid": "3358826250",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Taichi Nakaguma",
+                "+@id": "130967"
+            }
+        },
+        {
+            "+@gid": "532174278",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Serena Koi",
+                "+@id": "138743"
+            }
+        },
+        {
             "+@gid": "1543686384",
             "task": "Animation Director",
             "person": {
                 "+content": "Guonian Wang",
                 "+@id": "145998"
-            }
-        },
-        {
-            "+@gid": "1258945466",
-            "task": "Animation Director",
-            "person": {
-                "+content": "Yûta Ōmiya",
-                "+@id": "153232"
             }
         },
         {
@@ -436,6 +547,14 @@
             }
         },
         {
+            "+@gid": "2839036925",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kimikazu Saito",
+                "+@id": "162284"
+            }
+        },
+        {
             "+@gid": "4153873820",
             "task": "Animation Director",
             "person": {
@@ -452,11 +571,27 @@
             }
         },
         {
+            "+@gid": "1942272037",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Minori Nakagawa",
+                "+@id": "167007"
+            }
+        },
+        {
             "+@gid": "3398182890",
             "task": "Animation Director",
             "person": {
                 "+content": "Masato Gotō",
                 "+@id": "172106"
+            }
+        },
+        {
+            "+@gid": "3506952835",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Daisuke Hashimoto",
+                "+@id": "185580"
             }
         },
         {
@@ -500,11 +635,27 @@
             }
         },
         {
+            "+@gid": "1604951837",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kotetsu Sotosaki",
+                "+@id": "248258"
+            }
+        },
+        {
             "+@gid": "2800807605",
             "task": "Animation Director",
             "person": {
                 "+content": "Zhi Lan Cui",
                 "+@id": "258124"
+            }
+        },
+        {
+            "+@gid": "1335495999",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Xin Ran Li",
+                "+@id": "271170"
             }
         },
         {
@@ -542,6 +693,51 @@
     ],
     "cast": [
         {
+            "+@gid": "769154907",
+            "+@lang": "EN",
+            "role": "AI",
+            "person": {
+                "+content": "Keith Silverstein",
+                "+@id": "63324"
+            }
+        },
+        {
+            "+@gid": "1791709166",
+            "+@lang": "EN",
+            "role": "Beatrice",
+            "person": {
+                "+content": "Kira Buckland",
+                "+@id": "70467"
+            }
+        },
+        {
+            "+@gid": "3301024730",
+            "+@lang": "EN",
+            "role": "Anastasia Hoshin",
+            "person": {
+                "+content": "Cassandra Morris",
+                "+@id": "74741"
+            }
+        },
+        {
+            "+@gid": "2052031156",
+            "+@lang": "EN",
+            "role": "Felt",
+            "person": {
+                "+content": "Christine Marie Cabanos",
+                "+@id": "95337"
+            }
+        },
+        {
+            "+@gid": "2192299988",
+            "+@lang": "EN",
+            "role": "Crusch Karsten",
+            "person": {
+                "+content": "Erika Harlacher",
+                "+@id": "104916"
+            }
+        },
+        {
             "+@gid": "1270297779",
             "+@lang": "EN",
             "role": "Subaru Natsuki",
@@ -551,12 +747,84 @@
             }
         },
         {
+            "+@gid": "957190043",
+            "+@lang": "EN",
+            "role": "Capella Emerada Lugunica",
+            "person": {
+                "+content": "Brittany Lauda",
+                "+@id": "124358"
+            }
+        },
+        {
+            "+@gid": "2692511960",
+            "+@lang": "EN",
+            "role": "Priscilla Barielle",
+            "person": {
+                "+content": "Faye Mata",
+                "+@id": "126669"
+            }
+        },
+        {
+            "+@gid": "2197401643",
+            "+@lang": "EN",
+            "role": "Lye Batenkaitos",
+            "person": {
+                "+content": "Erik Scott Kimerer",
+                "+@id": "126707"
+            }
+        },
+        {
+            "+@gid": "121756261",
+            "+@lang": "EN",
+            "role": "Reinhard van Astrea",
+            "person": {
+                "+content": "Robbie Daymond",
+                "+@id": "127931"
+            }
+        },
+        {
+            "+@gid": "3187741952",
+            "+@lang": "EN",
+            "role": "Felix Argyle",
+            "person": {
+                "+content": "Sarah Anne Williams",
+                "+@id": "135491"
+            }
+        },
+        {
+            "+@gid": "3286240439",
+            "+@lang": "EN",
+            "role": "Otto Suwen",
+            "person": {
+                "+content": "Zach Aguilar",
+                "+@id": "135560"
+            }
+        },
+        {
+            "+@gid": "1943213774",
+            "+@lang": "EN",
+            "role": "Julius Juclius",
+            "person": {
+                "+content": "Alejandro Saab",
+                "+@id": "144413"
+            }
+        },
+        {
             "+@gid": "361931934",
             "+@lang": "EN",
             "role": "Garfiel Tinsel",
             "person": {
                 "+content": "Zeno Robinson",
                 "+@id": "151160"
+            }
+        },
+        {
+            "+@gid": "2773691867",
+            "+@lang": "EN",
+            "role": "Ricardo Welkin",
+            "person": {
+                "+content": "Imari Williams",
+                "+@id": "152749"
             }
         },
         {
@@ -578,12 +846,228 @@
             }
         },
         {
+            "+@gid": "2015466626",
+            "+@lang": "EN",
+            "role": "Wilhelm van Astrea",
+            "person": {
+                "+content": "Brock Powell",
+                "+@id": "188741"
+            }
+        },
+        {
+            "+@gid": "2218105227",
+            "+@lang": "EN",
+            "role": "Roy Alphard",
+            "person": {
+                "+content": "Edward Mendoza",
+                "+@id": "197829"
+            }
+        },
+        {
+            "+@gid": "2313887554",
+            "+@lang": "EN",
+            "role": "Kiritaka Muse",
+            "person": {
+                "+content": "Henry Mason",
+                "+@id": "208694"
+            }
+        },
+        {
+            "+@gid": "2518143897",
+            "+@lang": "EN",
+            "role": "Liliana Masquerade",
+            "person": {
+                "+content": "Abby Espiritu",
+                "+@id": "217382"
+            }
+        },
+        {
             "+@gid": "2735620074",
             "+@lang": "EN",
             "role": "Sirius Romanée-Conti",
             "person": {
                 "+content": "Jennifer Sun Bell",
                 "+@id": "229690"
+            }
+        },
+        {
+            "+@gid": "1967434637",
+            "+@lang": "FR",
+            "role": "Lye Batenkaitos",
+            "person": {
+                "+content": "Hervé Grull",
+                "+@id": "40001"
+            }
+        },
+        {
+            "+@gid": "2566262973",
+            "+@lang": "FR",
+            "role": "Capella Emerada Lugunica",
+            "person": {
+                "+content": "Isabelle Volpe",
+                "+@id": "51640"
+            }
+        },
+        {
+            "+@gid": "3682125777",
+            "+@lang": "FR",
+            "role": "Aldebaran",
+            "person": {
+                "+content": "Jérémy Zylberberg",
+                "+@id": "70472"
+            }
+        },
+        {
+            "+@gid": "537871855",
+            "+@lang": "FR",
+            "role": "Felix Argyle",
+            "person": {
+                "+content": "Karl-Line Heller",
+                "+@id": "77506"
+            }
+        },
+        {
+            "+@gid": "2609428491",
+            "+@lang": "FR",
+            "role": "Regulus Corneas",
+            "person": {
+                "+content": "Jérémy Prévost",
+                "+@id": "81134"
+            }
+        },
+        {
+            "+@gid": "1609177871",
+            "+@lang": "FR",
+            "role": "Roy Alphard",
+            "person": {
+                "+content": "Alan Aubert",
+                "+@id": "134719"
+            }
+        },
+        {
+            "+@gid": "2350500403",
+            "+@lang": "FR",
+            "role": "Liliana Masquerade",
+            "person": {
+                "+content": "Valérie Bachère",
+                "+@id": "136049"
+            }
+        },
+        {
+            "+@gid": "1776642926",
+            "+@lang": "FR",
+            "role": "Kiritaka Muse",
+            "person": {
+                "+content": "Julien Rampon",
+                "+@id": "146168"
+            }
+        },
+        {
+            "+@gid": "2056441036",
+            "+@lang": "FR",
+            "role": "Ricardo Welkin",
+            "person": {
+                "+content": "Julien Rampon",
+                "+@id": "146168"
+            }
+        },
+        {
+            "+@gid": "2545833519",
+            "+@lang": "FR",
+            "role": "Beatrice",
+            "person": {
+                "+content": "Clara Soares",
+                "+@id": "153590"
+            }
+        },
+        {
+            "+@gid": "1308788888",
+            "+@lang": "FR",
+            "role": "Julius Euclius",
+            "person": {
+                "+content": "Adrien Larmande",
+                "+@id": "154105"
+            }
+        },
+        {
+            "+@gid": "1693986652",
+            "+@lang": "FR",
+            "role": "Reinhard van Astrea",
+            "person": {
+                "+content": "Nicolas Dussaut",
+                "+@id": "168524"
+            }
+        },
+        {
+            "+@gid": "2403619125",
+            "+@lang": "FR",
+            "role": "Anastasia Hoshin",
+            "person": {
+                "+content": "Estelle Darazi",
+                "+@id": "169128"
+            }
+        },
+        {
+            "+@gid": "2704952367",
+            "+@lang": "FR",
+            "role": "Felt",
+            "person": {
+                "+content": "Emilie Marié",
+                "+@id": "169459"
+            }
+        },
+        {
+            "+@gid": "2345305308",
+            "+@lang": "FR",
+            "role": "Crusch Karsten",
+            "person": {
+                "+content": "Célia Asensio",
+                "+@id": "176171"
+            }
+        },
+        {
+            "+@gid": "1573404314",
+            "+@lang": "FR",
+            "role": "Subaru Natsuki",
+            "person": {
+                "+content": "Rémi Gutton",
+                "+@id": "198220"
+            }
+        },
+        {
+            "+@gid": "2623068023",
+            "+@lang": "FR",
+            "role": "Emilia",
+            "person": {
+                "+content": "Lou Viguier",
+                "+@id": "214392"
+            }
+        },
+        {
+            "+@gid": "936078964",
+            "+@lang": "FR",
+            "role": "Sirius Romanée-Conti",
+            "person": {
+                "+content": "Julie Mouchel",
+                "+@id": "226425"
+            }
+        },
+        {
+            "+@gid": "624781710",
+            "+@lang": "FR",
+            "role": "Priscilla Barielle",
+            "person": {
+                "+content": "Lola Nedelian",
+                "+@id": "230660"
+            }
+        },
+        {
+            "+@gid": "3553319845",
+            "+@lang": "FR",
+            "role": "Otto Suwen",
+            "person": {
+                "+content": "Alexandre Croo",
+                "+@id": "237377"
             }
         },
         {
@@ -656,6 +1140,15 @@
             "person": {
                 "+content": "Yūichi Nakamura",
                 "+@id": "15878"
+            }
+        },
+        {
+            "+@gid": "2724275786",
+            "+@lang": "JA",
+            "role": "Beatrice",
+            "person": {
+                "+content": "Satomi Arai",
+                "+@id": "26718"
             }
         },
         {
@@ -785,6 +1278,6 @@
         }
     },
     "+@date-added": "2024-12-13T21:28:25Z",
-    "+@date-last-modified-at": "2025-03-15T03:01:23Z",
-    "+@date-last-updated-at": "2025-03-15T03:01:23Z"
+    "+@date-last-modified-at": "2025-04-14T04:36:05Z",
+    "+@date-last-updated-at": "2025-04-14T04:36:05Z"
 }
