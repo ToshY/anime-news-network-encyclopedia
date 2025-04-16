@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Sutta Monda!",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-07T13:33:26Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "2017"
-    },
+    "+@generated-on": "2025-04-16T08:40:59Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "2017"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "21182"
+        }
+    ],
     "info": [
         {
             "+@gid": "1374919770",
@@ -47,9 +53,21 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2020-01-16 (serialized in Morning, 2020 #7)",
+            "+content": "2020-01-16 to 2021-08-26 (serialized in Morning, 2020 #7 - 2021 #39)",
             "+@gid": "2654367919",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2021-10-21 (serialized in Morning two, Dec 2021)",
+            "+@gid": "1624321397",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "刷ったもんだ！ - 染谷みのる / 第１刷 夢のズレ、正す | モーニング・ツー",
+            "+@gid": "449111442",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://comic-days.com/episode/10834108156740232296"
         }
     ],
     "staff": {
@@ -61,6 +79,6 @@
         }
     },
     "+@date-added": "2023-08-21T23:54:08Z",
-    "+@date-last-modified-at": "2025-03-07T13:33:28Z",
-    "+@date-last-updated-at": "2025-03-07T13:33:28Z"
+    "+@date-last-modified-at": "2025-04-16T08:41:03Z",
+    "+@date-last-updated-at": "2025-04-16T08:41:03Z"
 }
