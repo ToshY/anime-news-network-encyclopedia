@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Dare ga Okudera Shō o Koroshita no ka?",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-07T17:29:45Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "19629"
-    },
+    "+@generated-on": "2025-04-16T20:33:16Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "19629"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "22882"
+        }
+    ],
     "info": [
         {
             "+@gid": "1765119250",
@@ -58,9 +64,26 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2023-02-17 (serialized in Shonen Magazine Edge, Mar 2023)",
+            "+content": "4",
+            "+@gid": "1912509901",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2023-02-17 to 2023-10-17 (Shonen Magazine Edge, Mar - Nov 2023)",
             "+@gid": "3968357992",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2023-12-27 to 2024-11-13 (serialized on Comic Days)",
+            "+@gid": "2780708709",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "誰が奥寺翔を殺したのか？ - 河田雄志/行徒 / 第１話 １９９４年１０月１２日 | コミックDAYS",
+            "+@gid": "3033842831",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://comic-days.com/episode/4855956445090792517"
         }
     ],
     "news": [
@@ -99,6 +122,6 @@
         }
     ],
     "+@date-added": "2023-08-09T18:59:50Z",
-    "+@date-last-modified-at": "2025-03-07T17:29:47Z",
-    "+@date-last-updated-at": "2025-03-07T17:29:47Z"
+    "+@date-last-modified-at": "2025-04-16T20:33:19Z",
+    "+@date-last-updated-at": "2025-04-16T20:33:19Z"
 }
