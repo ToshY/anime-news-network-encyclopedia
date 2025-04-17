@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Moeyo Ken",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-07T17:29:46Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "19645"
-    },
+    "+@generated-on": "2025-04-17T02:08:13Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "19645"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "26633"
+        }
+    ],
     "info": [
         {
             "+@gid": "1841142079",
@@ -62,9 +68,21 @@
             "+@type": "Number of tankoubon"
         },
         {
-            "+content": "2021-10-21 (serialized in Monthly Comic Bunch, Dec 2021)",
+            "+content": "2021-10-21 to 2024-03-21 (Monthly Comic Bunch, Dec 2021 - May 2024)",
             "+@gid": "1573198385",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2024-04-05 (serialized on Comic Bunch Kai / Kurage Bunch)",
+            "+@gid": "4085699694",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "燃えよ剣 - 原作：司馬遼太郎 漫画：奏ヨシキ / 第一話 バラガキ | コミックバンチKai",
+            "+@gid": "2248207385",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://kuragebunch.com/episode/316112896948880872"
         }
     ],
     "staff": [
@@ -94,6 +112,6 @@
         }
     ],
     "+@date-added": "2023-08-07T18:20:38Z",
-    "+@date-last-modified-at": "2025-03-07T17:29:47Z",
-    "+@date-last-updated-at": "2025-03-07T17:29:47Z"
+    "+@date-last-modified-at": "2025-04-17T02:08:14Z",
+    "+@date-last-updated-at": "2025-04-17T02:08:14Z"
 }

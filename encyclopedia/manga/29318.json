@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Tank Chair",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-07T17:29:46Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "24256"
-    },
+    "+@generated-on": "2025-04-17T02:08:13Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "19627"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "24256"
+        }
+    ],
     "info": [
         {
             "+@gid": "2014927785",
@@ -52,8 +58,13 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2022-11-05 (serialized in Magazine Pocket)",
+            "+content": "2022-11-05 to 2024-08-24 (serialized in Magazine Pocket)",
             "+@gid": "1748862184",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2024-11-26 (serialized in Shonen Sirius, Jan 2025)",
+            "+@gid": "487463464",
             "+@type": "Vintage"
         },
         {
@@ -78,6 +89,11 @@
             "+content": "Tank Chair  (GN 2)",
             "+@date": "2024-12-10",
             "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=51414"
+        },
+        {
+            "+content": "Tank Chair  (GN 3)",
+            "+@date": "2025-03-11",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52446"
         }
     ],
     "news": [
@@ -105,6 +121,11 @@
             "+content": "North American Anime, Manga Releases, December 8-14",
             "+@datetime": "2024-12-12T22:01:46Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-12/north-american-anime-manga-releases-december-8-14/.218853"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, March 9-15",
+            "+@datetime": "2025-03-12T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-12/north-american-anime-manga-releases-march-9-15/.222183"
         }
     ],
     "staff": {
@@ -116,6 +137,6 @@
         }
     },
     "+@date-added": "2023-08-07T09:07:26Z",
-    "+@date-last-modified-at": "2025-03-07T17:29:47Z",
-    "+@date-last-updated-at": "2025-03-07T17:29:47Z"
+    "+@date-last-modified-at": "2025-04-17T02:08:14Z",
+    "+@date-last-updated-at": "2025-04-17T02:08:14Z"
 }
