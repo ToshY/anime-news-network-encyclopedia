@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Fuzzy Lips",
     "+@precision": "OAV",
-    "+@generated-on": "2025-03-07T18:37:56Z",
+    "+@generated-on": "2025-04-17T04:36:59Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "18229"
@@ -92,8 +92,8 @@
     ],
     "ratings": {
         "+@nb_votes": "32",
-        "+@weighted_score": "6.8487",
-        "+@bayesian_score": "7.03009"
+        "+@weighted_score": "6.8705",
+        "+@bayesian_score": "7.04545"
     },
     "release": [
         {
@@ -140,6 +140,14 @@
             }
         },
         {
+            "+@gid": "2808785949",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Pari",
+                "+@id": "274234"
+            }
+        },
+        {
             "+@gid": "3242506257",
             "task": "Episode Director",
             "person": {
@@ -172,11 +180,35 @@
             }
         },
         {
+            "+@gid": "4031231501",
+            "task": "Art Director",
+            "person": {
+                "+content": "hidehide",
+                "+@id": "179167"
+            }
+        },
+        {
             "+@gid": "2972537514",
             "task": "Animation Director",
             "person": {
                 "+content": "Sawako Yamamoto",
                 "+@id": "15217"
+            }
+        },
+        {
+            "+@gid": "3403288040",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Chiaki Saegusa",
+                "+@id": "47983"
+            }
+        },
+        {
+            "+@gid": "1064134735",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Kenji Kuwabara",
+                "+@id": "18332"
             }
         },
         {
@@ -262,15 +294,25 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2123696182",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Studio 1st",
-            "+@id": "19749"
+    "credit": [
+        {
+            "+@gid": "2123696182",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Studio 1st",
+                "+@id": "19749"
+            }
+        },
+        {
+            "+@gid": "2550504148",
+            "task": "Production",
+            "company": {
+                "+content": "Pashmina",
+                "+@id": "11039"
+            }
         }
-    },
+    ],
     "+@date-added": "2016-04-19T17:11:18Z",
-    "+@date-last-modified-at": "2025-03-07T18:37:59Z",
-    "+@date-last-updated-at": "2025-03-07T18:37:59Z"
+    "+@date-last-modified-at": "2025-04-17T04:37:03Z",
+    "+@date-last-updated-at": "2025-04-17T04:37:03Z"
 }
