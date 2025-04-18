@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Typhoon Noruda",
     "+@precision": "movie",
-    "+@generated-on": "2025-03-08T02:37:30Z",
+    "+@generated-on": "2025-04-18T12:54:29Z",
     "info": [
         {
             "+@gid": "1386512801",
@@ -93,8 +93,8 @@
     ],
     "ratings": {
         "+@nb_votes": "63",
-        "+@weighted_score": "6.3001",
-        "+@bayesian_score": "6.50134"
+        "+@weighted_score": "6.3",
+        "+@bayesian_score": "6.50116"
     },
     "release": {
         "+content": "Typhoon Noruda (Blu-ray)",
@@ -274,15 +274,33 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2574178211",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Studio Colorido",
-            "+@id": "13518"
+    "credit": [
+        {
+            "+@gid": "2574178211",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Studio Colorido",
+                "+@id": "13518"
+            }
+        },
+        {
+            "+@gid": "1023569629",
+            "task": "Production",
+            "company": {
+                "+content": "TOHO",
+                "+@id": "39"
+            }
+        },
+        {
+            "+@gid": "1032427645",
+            "task": "Production",
+            "company": {
+                "+content": "Fuji Television Network",
+                "+@id": "479"
+            }
         }
-    },
+    ],
     "+@date-added": "2015-04-24T12:18:15Z",
-    "+@date-last-modified-at": "2025-03-08T02:37:31Z",
-    "+@date-last-updated-at": "2025-03-08T02:37:31Z"
+    "+@date-last-modified-at": "2025-04-18T12:54:31Z",
+    "+@date-last-updated-at": "2025-04-18T12:54:31Z"
 }

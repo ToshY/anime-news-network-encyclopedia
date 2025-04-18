@@ -4,16 +4,46 @@
     "+@type": "manga",
     "+@name": "Blue Wolves of Mibu",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-08T02:37:27Z",
+    "+@generated-on": "2025-04-18T12:54:28Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "6457"
     },
-    "related-next": {
-        "+@id": "29882",
-        "+@rel": "adaptation"
-    },
+    "related-next": [
+        {
+            "+@id": "29882",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "35196",
+            "+@rel": "sequel"
+        }
+    ],
     "info": [
+        {
+            "+@gid": "3342871285",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28854-3342871285.1742220455.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28854-3342871285.1742220455.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A28854-3342871285.1742220455.jpg",
+                    "+@width": "422",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A28854-3342871285.1742220455.jpg",
+                    "+@width": "1054",
+                    "+@height": "1500"
+                }
+            ]
+        },
         {
             "+content": "The Blue Wolves of Mibu",
             "+@gid": "1223435492",
@@ -53,7 +83,12 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2021-10-13 (serialized in Weekly Shonen Magazine, 2021 #46)",
+            "+content": "14",
+            "+@gid": "2031928444",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2021-10-13 to 2024-04-17 (Weekly Shonen Magazine, 2021 #46 - 2024 #20)",
             "+@gid": "2554973766",
             "+@type": "Vintage"
         }
@@ -139,6 +174,6 @@
         }
     },
     "+@date-added": "2023-07-02T03:48:28Z",
-    "+@date-last-modified-at": "2025-03-08T02:37:28Z",
-    "+@date-last-updated-at": "2025-03-08T02:37:28Z"
+    "+@date-last-modified-at": "2025-04-18T12:54:30Z",
+    "+@date-last-updated-at": "2025-04-18T12:54:30Z"
 }
