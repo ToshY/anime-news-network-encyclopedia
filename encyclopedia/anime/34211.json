@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "DAN DA DAN",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-03-20T04:34:43Z",
+    "+@generated-on": "2025-04-19T08:33:40Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "30869"
@@ -13,18 +13,18 @@
         {
             "+@gid": "2833293397",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34211-2833293397.1734648375.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34211-2833293397.1743726214.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34211-2833293397.1734648375.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34211-2833293397.1743726214.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34211-2833293397.1734648375.jpg",
-                    "+@width": "425",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34211-2833293397.1743726214.jpg",
+                    "+@width": "424",
                     "+@height": "600"
                 }
             ]
@@ -127,7 +127,7 @@
             "+@type": "Running time"
         },
         {
-            "+content": "2025-07",
+            "+content": "2025-07-03",
             "+@gid": "2681870785",
             "+@type": "Vintage"
         },
@@ -139,11 +139,23 @@
             "+@href": "https://anime-dandadan.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>DAN DA DAN</cite> 2nd Season Anime's Teaser Video Streamed",
-        "+@datetime": "2024-12-21T08:37:56Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-12-21/dan-da-dan-2nd-season-anime-teaser-video-streamed/.219369"
-    },
+    "news": [
+        {
+            "+content": "<cite>DAN DA DAN</cite> 2nd Season Anime's Teaser Video Streamed",
+            "+@datetime": "2024-12-21T08:37:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-21/dan-da-dan-2nd-season-anime-teaser-video-streamed/.219369"
+        },
+        {
+            "+content": "<cite>DAN DA DAN</cite> 2nd Season Anime Unveils New Cast Member, Visual, July 3 Premiere (Updated)",
+            "+@datetime": "2025-04-03T15:21:57Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-03/dan-da-dan-2nd-season-anime-unveils-new-cast-member-visual-july-3-premiere/.223207"
+        },
+        {
+            "+content": "<cite>DAN DA DAN</cite> 2nd Season Anime to Hit Indian Theaters on May 30",
+            "+@datetime": "2025-04-04T11:01:18Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-04/dan-da-dan-2nd-season-anime-to-hit-indian-theaters-on-may-30/.223240"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1612698590",
@@ -172,6 +184,87 @@
     ],
     "cast": [
         {
+            "+@gid": "3375860687",
+            "+@lang": "JA",
+            "role": "Turbo Granny",
+            "person": {
+                "+content": "Mayumi Tanaka",
+                "+@id": "301"
+            }
+        },
+        {
+            "+@gid": "3185339802",
+            "+@lang": "JA",
+            "role": "Seiko Ayase",
+            "person": {
+                "+content": "Nana Mizuki",
+                "+@id": "436"
+            }
+        },
+        {
+            "+@gid": "2251306946",
+            "+@lang": "JA",
+            "role": "Dover Demon",
+            "person": {
+                "+content": "Tomokazu Seki",
+                "+@id": "529"
+            }
+        },
+        {
+            "+@gid": "2176999761",
+            "+@lang": "JA",
+            "role": "Acrobatic Silky",
+            "person": {
+                "+content": "Kikuko Inoue",
+                "+@id": "542"
+            }
+        },
+        {
+            "+@gid": "2305684104",
+            "+@lang": "JA",
+            "role": "Alien Serpo",
+            "person": {
+                "+content": "Kazuya Nakai",
+                "+@id": "551"
+            }
+        },
+        {
+            "+@gid": "2082996466",
+            "+@lang": "JA",
+            "role": "Tarō",
+            "person": {
+                "+content": "Tomokazu Sugita",
+                "+@id": "910"
+            }
+        },
+        {
+            "+@gid": "2086586965",
+            "+@lang": "JA",
+            "role": "Hana",
+            "person": {
+                "+content": "Fumi Hirano",
+                "+@id": "1662"
+            }
+        },
+        {
+            "+@gid": "2869924773",
+            "+@lang": "JA",
+            "role": "Flatwoods Monster",
+            "person": {
+                "+content": "Ryūzaburō Ōtomo",
+                "+@id": "3106"
+            }
+        },
+        {
+            "+@gid": "3076797632",
+            "+@lang": "JA",
+            "role": "Naki Kitō",
+            "person": {
+                "+content": "Masako Isobe",
+                "+@id": "8420"
+            }
+        },
+        {
             "+@gid": "850151684",
             "+@lang": "JA",
             "role": "Momo Ayase",
@@ -181,12 +274,39 @@
             }
         },
         {
+            "+@gid": "3855006905",
+            "+@lang": "JA",
+            "role": "Evil Eye (Jashi)",
+            "person": {
+                "+content": "Mutsumi Tamura",
+                "+@id": "70817"
+            }
+        },
+        {
+            "+@gid": "804306098",
+            "+@lang": "JA",
+            "role": "Aira Shiratori",
+            "person": {
+                "+content": "Ayane Sakura",
+                "+@id": "94383"
+            }
+        },
+        {
             "+@gid": "2517544488",
             "+@lang": "JA",
             "role": "Ken \"Okarun\" Takakura",
             "person": {
                 "+content": "Natsuki Hanae",
                 "+@id": "106773"
+            }
+        },
+        {
+            "+@gid": "1727604870",
+            "+@lang": "JA",
+            "role": "Jin \"Jiji\" Enjōji",
+            "person": {
+                "+content": "Kaito Ishikawa",
+                "+@id": "114052"
             }
         }
     ],
@@ -199,6 +319,6 @@
         }
     },
     "+@date-added": "2024-12-19T17:45:18Z",
-    "+@date-last-modified-at": "2025-03-20T04:34:45Z",
-    "+@date-last-updated-at": "2025-03-20T04:34:45Z"
+    "+@date-last-modified-at": "2025-04-19T08:33:43Z",
+    "+@date-last-updated-at": "2025-04-19T08:33:43Z"
 }
