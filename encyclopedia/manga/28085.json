@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Jakushō Soshage-bu no Bokura ga Kamigē o Tsukuru Made",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-08T15:24:46Z",
-    "related-prev": {
-        "+@rel": "adapted from",
-        "+@id": "28084"
-    },
+    "+@generated-on": "2025-04-20T12:51:35Z",
+    "related-prev": [
+        {
+            "+@rel": "adapted from",
+            "+@id": "28084"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "32953"
+        }
+    ],
     "info": [
         {
             "+@gid": "3287149449",
@@ -57,7 +63,12 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2021-12-24 (serialized on Comic Jardi)",
+            "+content": "3",
+            "+@gid": "866100531",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2021-12-24 to 2025-01-31 (serialized on Comic Jardin)",
             "+@gid": "1790992152",
             "+@type": "Vintage"
         },
@@ -96,6 +107,6 @@
         }
     ],
     "+@date-added": "2023-04-30T03:24:52Z",
-    "+@date-last-modified-at": "2025-03-08T15:24:46Z",
-    "+@date-last-updated-at": "2025-03-08T15:24:46Z"
+    "+@date-last-modified-at": "2025-04-20T12:51:37Z",
+    "+@date-last-updated-at": "2025-04-20T12:51:37Z"
 }
