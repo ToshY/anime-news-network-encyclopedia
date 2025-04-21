@@ -2,9 +2,9 @@
     "+@id": "15063",
     "+@gid": "2045978685",
     "+@type": "movie",
-    "+@name": "Re-Birthday",
+    "+@name": "Happy Birthday",
     "+@precision": "movie",
-    "+@generated-on": "2025-03-08T23:24:22Z",
+    "+@generated-on": "2025-04-21T12:55:50Z",
     "info": [
         {
             "+@gid": "3537741336",
@@ -26,8 +26,8 @@
             ]
         },
         {
-            "+content": "Re-Birthday",
-            "+@gid": "1909826645",
+            "+content": "Happy Birthday",
+            "+@gid": "2752619542",
             "+@type": "Main title",
             "+@lang": "EN"
         },
@@ -36,6 +36,12 @@
             "+@gid": "2115565684",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "Re-Birthday",
+            "+@gid": "1909826645",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
         },
         {
             "+content": "ハッピーバースデー 命かがやく瞬間（とき）",
@@ -76,7 +82,7 @@
     ],
     "ratings": {
         "+@nb_votes": "11",
-        "+@weighted_score": "7.9108"
+        "+@weighted_score": "7.9097"
     },
     "staff": [
         {
@@ -171,12 +177,21 @@
             "+@gid": "2593177625",
             "task": "Producer",
             "person": {
-                "+content": "Sozaburo Katsura",
+                "+content": "Sōzaburō Katsura",
                 "+@id": "29111"
             }
         }
     ],
     "cast": [
+        {
+            "+@gid": "2644988081",
+            "+@lang": "JA",
+            "role": "Megumi Hanamura",
+            "person": {
+                "+content": "Yuki Masuda",
+                "+@id": "839"
+            }
+        },
         {
             "+@gid": "455205963",
             "+@lang": "JA",
@@ -184,6 +199,24 @@
             "person": {
                 "+content": "Kōsuke Okano",
                 "+@id": "1043"
+            }
+        },
+        {
+            "+@gid": "1678087389",
+            "+@lang": "JA",
+            "role": "Daisuke Kobayashi",
+            "person": {
+                "+content": "Toshiharu Sakurai",
+                "+@id": "3252"
+            }
+        },
+        {
+            "+@gid": "2061678554",
+            "+@lang": "JA",
+            "role": "Junko Kanazawa",
+            "person": {
+                "+content": "Taeko Kawata",
+                "+@id": "5267"
             }
         },
         {
@@ -196,9 +229,9 @@
             }
         },
         {
-            "+@gid": "2006428326",
+            "+@gid": "2798565295",
             "+@lang": "JA",
-            "role": "Masako",
+            "role": "Masako Hori",
             "person": {
                 "+content": "Ikuko Tani",
                 "+@id": "9860"
@@ -242,6 +275,6 @@
         }
     ],
     "+@date-added": "2013-01-09T14:25:00Z",
-    "+@date-last-modified-at": "2025-03-08T23:24:27Z",
-    "+@date-last-updated-at": "2025-03-08T23:24:27Z"
+    "+@date-last-modified-at": "2025-04-21T12:55:51Z",
+    "+@date-last-updated-at": "2025-04-21T12:55:51Z"
 }
