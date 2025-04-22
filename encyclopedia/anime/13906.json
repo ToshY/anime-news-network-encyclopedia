@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Patema Inverted",
     "+@precision": "movie",
-    "+@generated-on": "2025-03-09T08:28:18Z",
+    "+@generated-on": "2025-04-22T20:33:17Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "14890"
@@ -46,6 +46,12 @@
             "+@gid": "2271418264",
             "+@type": "Alternative title",
             "+@lang": "FR"
+        },
+        {
+            "+content": "Patema sottosopra",
+            "+@gid": "1753364815",
+            "+@type": "Alternative title",
+            "+@lang": "IT"
         },
         {
             "+content": "Sakasama no Patema",
@@ -158,8 +164,8 @@
     ],
     "ratings": {
         "+@nb_votes": "492",
-        "+@weighted_score": "7.8595",
-        "+@bayesian_score": "7.84964"
+        "+@weighted_score": "7.8593",
+        "+@bayesian_score": "7.84943"
     },
     "review": {
         "+content": "Patema Inverted",
@@ -862,12 +868,39 @@
             }
         },
         {
+            "+@gid": "1879329428",
+            "+@lang": "RU",
+            "role": "Lagos",
+            "person": {
+                "+content": "Mikhail Kadanin",
+                "+@id": "69103"
+            }
+        },
+        {
+            "+@gid": "1934169890",
+            "+@lang": "RU",
+            "role": "Porta",
+            "person": {
+                "+content": "Vasily Markov",
+                "+@id": "110297"
+            }
+        },
+        {
             "+@gid": "3365382252",
             "+@lang": "RU",
             "role": "Age",
             "person": {
                 "+content": "Yuri Romanov",
                 "+@id": "117468"
+            }
+        },
+        {
+            "+@gid": "564674068",
+            "+@lang": "RU",
+            "role": "Patema",
+            "person": {
+                "+content": "Anastasia Kondratieva",
+                "+@id": "281571"
             }
         }
     ],
@@ -922,6 +955,6 @@
         }
     ],
     "+@date-added": "2011-12-25T10:29:31Z",
-    "+@date-last-modified-at": "2025-03-09T08:28:21Z",
-    "+@date-last-updated-at": "2025-03-09T08:28:21Z"
+    "+@date-last-modified-at": "2025-04-22T20:33:19Z",
+    "+@date-last-updated-at": "2025-04-22T20:33:19Z"
 }

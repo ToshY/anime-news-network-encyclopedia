@@ -4,8 +4,36 @@
     "+@type": "manga",
     "+@name": "Breakfast with My Two-Tailed Cat",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-09T07:22:15Z",
+    "+@generated-on": "2025-04-22T20:33:15Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "35494"
+    },
     "info": [
+        {
+            "+@gid": "1690210728",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A27190-1690210728.1743303139.jpg",
+            "+@width": "200",
+            "+@height": "175",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A27190-1690210728.1743303139.jpg",
+                    "+@width": "200",
+                    "+@height": "175"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A27190-1690210728.1743303139.jpg",
+                    "+@width": "500",
+                    "+@height": "437"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A27190-1690210728.1743303139.jpg",
+                    "+@width": "1052",
+                    "+@height": "920"
+                }
+            ]
+        },
         {
             "+content": "Breakfast with My Two-Tailed Cat",
             "+@gid": "1024847763",
@@ -25,6 +53,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "fantasy",
+            "+@gid": "509303592",
+            "+@type": "Genres"
+        },
+        {
             "+content": "slice of life",
             "+@gid": "1845028373",
             "+@type": "Genres"
@@ -38,6 +71,23 @@
             "+content": "2023-01-12 (serialized on Matogrosso)",
             "+@gid": "3744033524",
             "+@type": "Vintage"
+        }
+    ],
+    "release": [
+        {
+            "+content": "Breakfast with My Two-Tailed Cat (GN 1)",
+            "+@date": "2023-12-19",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52542"
+        },
+        {
+            "+content": "Breakfast with My Two-Tailed Cat (GN 2)",
+            "+@date": "2024-05-28",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52543"
+        },
+        {
+            "+content": "Breakfast with My Two-Tailed Cat (GN 3)",
+            "+@date": "2025-03-25",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52544"
         }
     ],
     "news": [
@@ -55,6 +105,11 @@
             "+content": "North American Anime, Manga Releases, May 26-June 1",
             "+@datetime": "2024-05-29T21:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-05-29/north-american-anime-manga-releases-may-26-june-1/.211293"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, March 23-29",
+            "+@datetime": "2025-03-28T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-28/north-american-anime-manga-releases-march-23-29/.222870"
         }
     ],
     "staff": {
@@ -66,6 +121,6 @@
         }
     },
     "+@date-added": "2023-02-22T18:32:00Z",
-    "+@date-last-modified-at": "2025-03-09T07:22:17Z",
-    "+@date-last-updated-at": "2025-03-09T07:22:17Z"
+    "+@date-last-modified-at": "2025-04-22T20:33:15Z",
+    "+@date-last-updated-at": "2025-04-22T20:33:15Z"
 }
