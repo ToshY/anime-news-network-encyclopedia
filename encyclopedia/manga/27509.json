@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Yozora no Futari Camp Gohan",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-09T02:43:22Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "27445"
-    },
+    "+@generated-on": "2025-04-22T02:11:18Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "27445"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "28651"
+        }
+    ],
     "info": [
         {
             "+@gid": "2313898879",
@@ -53,9 +59,26 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2022-01-07 (serialized in Weekly Manga Times, 2022 1/21 iss)",
+            "+content": "4",
+            "+@gid": "1375865491",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2022-01-07 to 2022-07-15 (Weekly Manga Times, 2022 1/21 - 8/5 iss)",
             "+@gid": "2205044606",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2022-10-07 to 2025-03-07 (serialized on Comic Trail)",
+            "+@gid": "782699671",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "第1夜 / 夜空のふたりキャンプごはん - 春露彗 | コミックトレイル｜漫画とつながるフェス空間！",
+            "+@gid": "1289053475",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://comic-trail.com/episode/3270296674397798178"
         }
     ],
     "staff": {
@@ -67,6 +90,6 @@
         }
     },
     "+@date-added": "2023-03-21T01:46:53Z",
-    "+@date-last-modified-at": "2025-03-09T02:43:23Z",
-    "+@date-last-updated-at": "2025-03-09T02:43:23Z"
+    "+@date-last-modified-at": "2025-04-22T02:11:20Z",
+    "+@date-last-updated-at": "2025-04-22T02:11:20Z"
 }
