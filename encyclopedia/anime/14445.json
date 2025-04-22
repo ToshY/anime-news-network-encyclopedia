@@ -4,15 +4,21 @@
     "+@type": "TV",
     "+@name": "JoJo's Bizarre Adventure",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-09T04:28:31Z",
+    "+@generated-on": "2025-04-22T04:37:13Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "1900"
     },
-    "related-next": {
-        "+@id": "15692",
-        "+@rel": "sequel"
-    },
+    "related-next": [
+        {
+            "+@id": "15692",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "35638",
+            "+@rel": "spinoff"
+        }
+    ],
     "info": [
         {
             "+@gid": "2335750940",
@@ -181,7 +187,7 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "917",
+        "+@nb_votes": "920",
         "+@weighted_score": "7.7672",
         "+@bayesian_score": "7.76314"
     },
@@ -677,6 +683,11 @@
             "+content": "JOJODAY Event 'Connecting Past and Future' of <cite>JoJo's Bizarre Adventure</cite> Anime to be Held on April 12",
             "+@datetime": "2024-12-13T11:27:44Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-13/jojoday-event-connecting-past-and-future-of-jojo-bizarre-adventure-anime-to-be-held-on-april-12/.218994"
+        },
+        {
+            "+content": "<cite>JoJo's Bizarre Adventure</cite> Anime's Hindi Dub Streams on Muse India",
+            "+@datetime": "2025-04-21T10:36:01Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-21/jojo-bizarre-adventure-anime-hindi-dub-streams-on-muse-india/.223753"
         }
     ],
     "staff": [
@@ -2839,6 +2850,6 @@
         }
     ],
     "+@date-added": "2012-07-05T13:38:39Z",
-    "+@date-last-modified-at": "2025-03-09T04:28:34Z",
-    "+@date-last-updated-at": "2025-03-09T04:28:34Z"
+    "+@date-last-modified-at": "2025-04-22T04:37:14Z",
+    "+@date-last-updated-at": "2025-04-22T04:37:14Z"
 }
