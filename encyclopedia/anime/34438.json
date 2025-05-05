@@ -2,22 +2,47 @@
     "+@id": "34438",
     "+@gid": "2207338813",
     "+@type": "movie",
-    "+@name": "IDOLiSH7",
-    "+@precision": "movie",
-    "+@generated-on": "2025-03-30T04:35:34Z",
+    "+@name": "IDOLiSH7 First BEAT!",
+    "+@precision": "movies",
+    "+@generated-on": "2025-05-05T16:41:31Z",
     "related-prev": {
         "+@rel": "compilation of",
         "+@id": "20122"
     },
     "info": [
         {
-            "+content": "IDOLiSH7",
+            "+@gid": "2428902058",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34438-2428902058.1745982482.jpg",
+            "+@width": "140",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34438-2428902058.1745982482.jpg",
+                    "+@width": "140",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34438-2428902058.1745982482.jpg",
+                    "+@width": "421",
+                    "+@height": "600"
+                }
+            ]
+        },
+        {
+            "+content": "IDOLiSH7 First BEAT!",
             "+@gid": "1124016238",
             "+@type": "Main title",
             "+@lang": "EN"
         },
         {
-            "+content": "アイドリッシュセブン",
+            "+content": "IDOLiSH7 First BEAT! Gekijō Sōshūhen",
+            "+@gid": "3565371894",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "アイドリッシュセブン First BEAT! 劇場総集編",
             "+@gid": "3015287013",
             "+@type": "Alternative title",
             "+@lang": "JA"
@@ -26,17 +51,273 @@
             "+content": "idols",
             "+@gid": "3505341855",
             "+@type": "Themes"
+        },
+        {
+            "+content": "2025-10-03",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-10-03 (Japan, Part 1)",
+            "+@gid": "2011415068",
+            "+@type": "Premiere date"
+        },
+        {
+            "+content": "2025-12-05 (Japan, Part 2)",
+            "+@gid": "1538682563",
+            "+@type": "Premiere date"
+        },
+        {
+            "+content": "公式『アイドリッシュセブン First BEAT! 劇場総集編』",
+            "+@gid": "3236866048",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://idolish7.com/aninana/firstbeat/"
         }
     ],
-    "staff": {
-        "+@gid": "2623861261",
-        "task": "Original Character Design",
-        "person": {
-            "+content": "Arina Tanemura",
-            "+@id": "973"
+    "staff": [
+        {
+            "+@gid": "2207126848",
+            "task": "Director",
+            "person": {
+                "+content": "Makoto Bessho",
+                "+@id": "5935"
+            }
+        },
+        {
+            "+@gid": "3615081407",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Ayumi Sekine",
+                "+@id": "90142"
+            }
+        },
+        {
+            "+@gid": "1118613678",
+            "task": "Music",
+            "person": {
+                "+content": "Tatsuya Katō",
+                "+@id": "163265"
+            }
+        },
+        {
+            "+@gid": "3454353226",
+            "task": "Original creator",
+            "person": {
+                "+content": "Bunta Tsushimi",
+                "+@id": "146355"
+            }
+        },
+        {
+            "+@gid": "2623861261",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Arina Tanemura",
+                "+@id": "973"
+            }
+        },
+        {
+            "+@gid": "3335866089",
+            "task": "Art Director",
+            "person": {
+                "+content": "Maho Takahashi",
+                "+@id": "18554"
+            }
+        },
+        {
+            "+@gid": "2974253364",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Michio Satō",
+                "+@id": "3356"
+            }
+        },
+        {
+            "+@gid": "1224331061",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Masami Inomata",
+                "+@id": "33491"
+            }
+        },
+        {
+            "+@gid": "1267576786",
+            "task": "Animation Character Design",
+            "person": {
+                "+content": "Kasumi Fukagawa",
+                "+@id": "130379"
+            }
+        },
+        {
+            "+@gid": "896996447",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Takatoshi Hamano",
+                "+@id": "89595"
+            }
+        },
+        {
+            "+@gid": "2303497134",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Miki Yoshida",
+                "+@id": "45246"
+            }
+        },
+        {
+            "+@gid": "2179908801",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Ryosuke Tsuda",
+                "+@id": "59930"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1572561391",
+            "+@lang": "JA",
+            "role": "Otoharu Takanashi",
+            "person": {
+                "+content": "Susumu Chiba",
+                "+@id": "775"
+            }
+        },
+        {
+            "+@gid": "3387873733",
+            "+@lang": "JA",
+            "role": "Sōsuke Yaotome",
+            "person": {
+                "+content": "Katsuyuki Konishi",
+                "+@id": "780"
+            }
+        },
+        {
+            "+@gid": "2804494366",
+            "+@lang": "JA",
+            "role": "Gaku Yaotome",
+            "person": {
+                "+content": "Wataru Hatano",
+                "+@id": "17481"
+            }
+        },
+        {
+            "+@gid": "2353604894",
+            "+@lang": "JA",
+            "role": "Kaoru Anesagi",
+            "person": {
+                "+content": "Yoshihisa Kawahara",
+                "+@id": "18802"
+            }
+        },
+        {
+            "+@gid": "1249055665",
+            "+@lang": "JA",
+            "role": "Sōgo Ōsaka",
+            "person": {
+                "+content": "Atsushi Abe",
+                "+@id": "26846"
+            }
+        },
+        {
+            "+@gid": "244725382",
+            "+@lang": "JA",
+            "role": "Tamaki Yotsuba",
+            "person": {
+                "+content": "KENN",
+                "+@id": "32078"
+            }
+        },
+        {
+            "+@gid": "2099292140",
+            "+@lang": "JA",
+            "role": "Riku Nanase",
+            "person": {
+                "+content": "Kenshō Ono",
+                "+@id": "33692"
+            }
+        },
+        {
+            "+@gid": "3218718645",
+            "+@lang": "JA",
+            "role": "Mitsuki Izumi",
+            "person": {
+                "+content": "Tsubasa Yonaga",
+                "+@id": "63638"
+            }
+        },
+        {
+            "+@gid": "3488707487",
+            "+@lang": "JA",
+            "role": "Banri Ōgami",
+            "person": {
+                "+content": "Kazuyuki Okitsu",
+                "+@id": "67851"
+            }
+        },
+        {
+            "+@gid": "930430910",
+            "+@lang": "JA",
+            "role": "Ryūnosuke Tsunashi",
+            "person": {
+                "+content": "Takuya Satō",
+                "+@id": "70856"
+            }
+        },
+        {
+            "+@gid": "1213277747",
+            "+@lang": "JA",
+            "role": "Nagi Rokuya",
+            "person": {
+                "+content": "Takuya Eguchi",
+                "+@id": "76338"
+            }
+        },
+        {
+            "+@gid": "3742615094",
+            "+@lang": "JA",
+            "role": "Iori Izumi",
+            "person": {
+                "+content": "Toshiki Masuda",
+                "+@id": "99623"
+            }
+        },
+        {
+            "+@gid": "1732666249",
+            "+@lang": "JA",
+            "role": "Ten Kujō",
+            "person": {
+                "+content": "Sōma Saitō",
+                "+@id": "104960"
+            }
+        },
+        {
+            "+@gid": "1487246127",
+            "+@lang": "JA",
+            "role": "Yamato Nikaidō",
+            "person": {
+                "+content": "Yusuke Shirai",
+                "+@id": "105873"
+            }
+        },
+        {
+            "+@gid": "3058877595",
+            "+@lang": "JA",
+            "role": "Tsumugi Takanashi",
+            "person": {
+                "+content": "Satomi Satō",
+                "+@id": "270294"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "1382278057",
+        "task": "Animation Production",
+        "company": {
+            "+content": "TROYCA",
+            "+@id": "12192"
         }
     },
     "+@date-added": "2025-01-25T22:55:42Z",
-    "+@date-last-modified-at": "2025-03-30T04:35:34Z",
-    "+@date-last-updated-at": "2025-03-30T04:35:34Z"
+    "+@date-last-modified-at": "2025-05-05T16:41:33Z",
+    "+@date-last-updated-at": "2025-05-05T16:41:33Z"
 }
