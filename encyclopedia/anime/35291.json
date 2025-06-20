@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Sakamoto Days",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-04-23T02:12:01Z",
+    "+@generated-on": "2025-06-20T13:10:26Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32767"
@@ -52,9 +52,19 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2025-07",
+            "+content": "2025-07-14",
             "+@gid": "2150384331",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Method\" by Kroi",
+            "+@gid": "2079807864",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Dandelion\" by go!go!vanillas",
+            "+@gid": "1103360734",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ『SAKAMOTO DAYS』公式サイト",
@@ -64,29 +74,298 @@
             "+@href": "https://sakamotodays.jp/"
         }
     ],
-    "news": {
-        "+content": "<cite>Sakamoto Days</cite> Anime Reveals More Cast, Visual for Show's 2nd Part",
-        "+@datetime": "2025-03-22T08:47:06Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-03-22/sakamoto-days-anime-reveals-more-cast-visual-for-show-2nd-part/.222707"
-    },
-    "staff": {
-        "+@gid": "1650650887",
-        "task": "Original creator",
-        "person": {
-            "+content": "Yuuto Suzuki",
-            "+@id": "230918"
+    "news": [
+        {
+            "+content": "<cite>Sakamoto Days</cite> Anime Reveals More Cast, Visual for Show's 2nd Part",
+            "+@datetime": "2025-03-22T08:47:06Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-22/sakamoto-days-anime-reveals-more-cast-visual-for-show-2nd-part/.222707"
+        },
+        {
+            "+content": "<cite>Sakamoto Days</cite> Anime's 2nd Part Main Trailer Reveals Opening Song, July 14 Premiere",
+            "+@datetime": "2025-05-13T23:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-13/sakamoto-days-anime-2nd-part-main-trailer-reveals-opening-song-july-14-premiere/.224409"
+        },
+        {
+            "+content": "<cite>Sakamoto Days</cite> Anime's 2nd Part New Trailer Reveals Additional Cast, Ending Song",
+            "+@datetime": "2025-06-15T06:35:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-15/sakamoto-days-anime-2nd-part-new-trailer-reveals-additional-cast-ending-song/.225597"
         }
-    },
-    "cast": {
-        "+@gid": "1351601092",
-        "+@lang": "JA",
-        "role": "Gaku",
-        "person": {
-            "+content": "Kōki Uchiyama",
-            "+@id": "56091"
+    ],
+    "staff": [
+        {
+            "+@gid": "2365835456",
+            "task": "Director",
+            "person": {
+                "+content": "Masaki Watanabe",
+                "+@id": "43175"
+            }
+        },
+        {
+            "+@gid": "1614040024",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Taku Kishimoto",
+                "+@id": "76253"
+            }
+        },
+        {
+            "+@gid": "2708189999",
+            "task": "Music",
+            "person": {
+                "+content": "Yuki Hayashi",
+                "+@id": "118529"
+            }
+        },
+        {
+            "+@gid": "1650650887",
+            "task": "Original creator",
+            "person": {
+                "+content": "Yuuto Suzuki",
+                "+@id": "230918"
+            }
+        },
+        {
+            "+@gid": "1184690459",
+            "task": "Character Design",
+            "person": {
+                "+content": "Yō Moriyama",
+                "+@id": "85240"
+            }
+        },
+        {
+            "+@gid": "408876662",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yukiko Maruyama",
+                "+@id": "11859"
+            }
+        },
+        {
+            "+@gid": "2660488014",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Jin Aketagawa",
+                "+@id": "8466"
+            }
+        },
+        {
+            "+@gid": "1813600311",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Polun Tsai",
+                "+@id": "153964"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2156112606",
+            "+@lang": "JA",
+            "role": "Tarō Sakamoto",
+            "person": {
+                "+content": "Tomokazu Sugita",
+                "+@id": "910"
+            }
+        },
+        {
+            "+@gid": "1621567062",
+            "+@lang": "JA",
+            "role": "X (Slur)",
+            "person": {
+                "+content": "Daisuke Namikawa",
+                "+@id": "1289"
+            }
+        },
+        {
+            "+@gid": "3607338342",
+            "+@lang": "JA",
+            "role": "Rion Akao",
+            "person": {
+                "+content": "Mamiko Noto",
+                "+@id": "3166"
+            }
+        },
+        {
+            "+@gid": "1660790377",
+            "+@lang": "JA",
+            "role": "Saw",
+            "person": {
+                "+content": "Kōsuke Toriumi",
+                "+@id": "3445"
+            }
+        },
+        {
+            "+@gid": "521594872",
+            "+@lang": "JA",
+            "role": "Dump",
+            "person": {
+                "+content": "Yūko Kaida",
+                "+@id": "9194"
+            }
+        },
+        {
+            "+@gid": "3235548127",
+            "+@lang": "JA",
+            "role": "Kanaguri",
+            "person": {
+                "+content": "Satoshi Hino",
+                "+@id": "15417"
+            }
+        },
+        {
+            "+@gid": "3892245641",
+            "+@lang": "JA",
+            "role": "Hyo",
+            "person": {
+                "+content": "Hiroki Yasumoto",
+                "+@id": "30785"
+            }
+        },
+        {
+            "+@gid": "1351601092",
+            "+@lang": "JA",
+            "role": "Gaku",
+            "person": {
+                "+content": "Kōki Uchiyama",
+                "+@id": "56091"
+            }
+        },
+        {
+            "+@gid": "248222295",
+            "+@lang": "JA",
+            "role": "Ōsaragi",
+            "person": {
+                "+content": "Saori Hayami",
+                "+@id": "63462"
+            }
+        },
+        {
+            "+@gid": "2725996672",
+            "+@lang": "JA",
+            "role": "Kashima",
+            "person": {
+                "+content": "Kazuyuki Okitsu",
+                "+@id": "67851"
+            }
+        },
+        {
+            "+@gid": "2067116112",
+            "+@lang": "JA",
+            "role": "Minimalist",
+            "person": {
+                "+content": "Ryōta Takeuchi",
+                "+@id": "69834"
+            }
+        },
+        {
+            "+@gid": "3425835352",
+            "+@lang": "JA",
+            "role": "Shin Asakura",
+            "person": {
+                "+content": "Nobunaga Shimazaki",
+                "+@id": "86706"
+            }
+        },
+        {
+            "+@gid": "1452538281",
+            "+@lang": "JA",
+            "role": "Lu Shaotang",
+            "person": {
+                "+content": "Ayane Sakura",
+                "+@id": "94383"
+            }
+        },
+        {
+            "+@gid": "2449813598",
+            "+@lang": "JA",
+            "role": "Aoi Sakamoto",
+            "person": {
+                "+content": "Nao Tōyama",
+                "+@id": "95316"
+            }
+        },
+        {
+            "+@gid": "2075627401",
+            "+@lang": "JA",
+            "role": "Nagumo",
+            "person": {
+                "+content": "Natsuki Hanae",
+                "+@id": "106773"
+            }
+        },
+        {
+            "+@gid": "2728052101",
+            "+@lang": "JA",
+            "role": "Mafuyu Seba",
+            "person": {
+                "+content": "Daiki Yamashita",
+                "+@id": "119386"
+            }
+        },
+        {
+            "+@gid": "2890526798",
+            "+@lang": "JA",
+            "role": "Akira Akao",
+            "person": {
+                "+content": "M.A.O",
+                "+@id": "123756"
+            }
+        },
+        {
+            "+@gid": "1820915632",
+            "+@lang": "JA",
+            "role": "Shishiba",
+            "person": {
+                "+content": "Taku Yashiro",
+                "+@id": "130983"
+            }
+        },
+        {
+            "+@gid": "3174281888",
+            "+@lang": "JA",
+            "role": "Hana Sakamoto",
+            "person": {
+                "+content": "Hina Kino",
+                "+@id": "142069"
+            }
+        },
+        {
+            "+@gid": "1072511772",
+            "+@lang": "JA",
+            "role": "Heisuke Mashimo",
+            "person": {
+                "+content": "Ryōta Suzuki",
+                "+@id": "174131"
+            }
+        },
+        {
+            "+@gid": "1572606472",
+            "+@lang": "JA",
+            "role": "Apart",
+            "person": {
+                "+content": "Chiaki Kobayashi",
+                "+@id": "176057"
+            }
+        },
+        {
+            "+@gid": "3437627714",
+            "+@lang": "JA",
+            "role": "Takamura",
+            "person": {
+                "+content": "Hōchū Ōtsuka",
+                "+@id": "274643"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2803693795",
+        "task": "Animation Production",
+        "company": {
+            "+content": "TMS Entertainment",
+            "+@id": "292"
         }
     },
     "+@date-added": "2025-03-22T20:15:47Z",
-    "+@date-last-modified-at": "2025-04-23T02:12:05Z",
-    "+@date-last-updated-at": "2025-04-23T02:12:05Z"
+    "+@date-last-modified-at": "2025-06-20T13:10:27Z",
+    "+@date-last-updated-at": "2025-06-20T13:10:27Z"
 }

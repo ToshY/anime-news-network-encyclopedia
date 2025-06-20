@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "PuniRunes Puni 3",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-23T02:12:01Z",
+    "+@generated-on": "2025-06-20T13:04:14Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32911"
@@ -13,18 +13,18 @@
         {
             "+@gid": "2632672660",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35282-2632672660.1742631360.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35282-2632672660.1748576397.jpg",
             "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35282-2632672660.1742631360.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35282-2632672660.1748576397.jpg",
                     "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35282-2632672660.1742631360.jpg",
-                    "+@width": "426",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35282-2632672660.1748576397.jpg",
+                    "+@width": "425",
                     "+@height": "600"
                 }
             ]
@@ -54,15 +54,190 @@
             "+@href": "https://www.tv-tokyo.co.jp/anime/punirunes3/"
         }
     ],
-    "staff": {
-        "+@gid": "1614102285",
-        "task": "Music",
-        "person": {
-            "+content": "Takahiro Obata",
-            "+@id": "153561"
+    "news": {
+        "+content": "<cite>PuniRunes Puni 3</cite> Anime Announces More Cast, July 5 Premiere",
+        "+@datetime": "2025-05-30T02:58:41Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-05-29/punirunes-puni-3-anime-announces-more-cast-july-5-premiere/.224933"
+    },
+    "staff": [
+        {
+            "+@gid": "764562430",
+            "task": "Director",
+            "person": {
+                "+content": "Haruki Kasugamori",
+                "+@id": "87745"
+            }
+        },
+        {
+            "+@gid": "2629884222",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Gigaemon Ichikawa",
+                "+@id": "145724"
+            }
+        },
+        {
+            "+@gid": "1614102285",
+            "task": "Music",
+            "person": {
+                "+content": "Takahiro Obata",
+                "+@id": "153561"
+            }
+        },
+        {
+            "+@gid": "2593805048",
+            "task": "Character Design",
+            "person": {
+                "+content": "Sayuri Ichiishi",
+                "+@id": "8114"
+            }
+        },
+        {
+            "+@gid": "2151779233",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Noriyoshi Konuma",
+                "+@id": "84893"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3399990942",
+            "+@lang": "JA",
+            "role": "Narrator",
+            "person": {
+                "+content": "Daisuke Ono",
+                "+@id": "14929"
+            }
+        },
+        {
+            "+@gid": "1064911439",
+            "+@lang": "JA",
+            "role": "Raburun",
+            "person": {
+                "+content": "Aya Uchida",
+                "+@id": "71069"
+            }
+        },
+        {
+            "+@gid": "2922102834",
+            "+@lang": "JA",
+            "role": "Yuka's Mom",
+            "person": {
+                "+content": "Aya Uchida",
+                "+@id": "71069"
+            }
+        },
+        {
+            "+@gid": "2146233211",
+            "+@lang": "JA",
+            "role": "Yuka's Dad",
+            "person": {
+                "+content": "Shinya Takahashi",
+                "+@id": "74624"
+            }
+        },
+        {
+            "+@gid": "679484118",
+            "+@lang": "JA",
+            "role": "Aoi",
+            "person": {
+                "+content": "Mikako Komatsu",
+                "+@id": "86961"
+            }
+        },
+        {
+            "+@gid": "2432695295",
+            "+@lang": "JA",
+            "role": "Enerun",
+            "person": {
+                "+content": "Mikako Komatsu",
+                "+@id": "86961"
+            }
+        },
+        {
+            "+@gid": "2125350632",
+            "+@lang": "JA",
+            "role": "Airun",
+            "person": {
+                "+content": "Megumi Han",
+                "+@id": "104148"
+            }
+        },
+        {
+            "+@gid": "2389497534",
+            "+@lang": "JA",
+            "role": "Togerun",
+            "person": {
+                "+content": "Ryōta Iwasaki",
+                "+@id": "116478"
+            }
+        },
+        {
+            "+@gid": "1559011308",
+            "+@lang": "JA",
+            "role": "Yuka",
+            "person": {
+                "+content": "Yuna Taniguchi",
+                "+@id": "123965"
+            }
+        },
+        {
+            "+@gid": "2160649023",
+            "+@lang": "JA",
+            "role": "Ururun",
+            "person": {
+                "+content": "Tomohiro Yamaguchi",
+                "+@id": "127192"
+            }
+        },
+        {
+            "+@gid": "1133700903",
+            "+@lang": "JA",
+            "role": "Komugi",
+            "person": {
+                "+content": "Hina Kino",
+                "+@id": "142069"
+            }
+        },
+        {
+            "+@gid": "944741421",
+            "+@lang": "JA",
+            "role": "Kuurun",
+            "person": {
+                "+content": "Hina Kino",
+                "+@id": "142069"
+            }
+        },
+        {
+            "+@gid": "1368922891",
+            "+@lang": "JA",
+            "role": "Tomorun",
+            "person": {
+                "+content": "Madoka Asahina",
+                "+@id": "143949"
+            }
+        },
+        {
+            "+@gid": "2341687100",
+            "+@lang": "JA",
+            "role": "Juerun",
+            "person": {
+                "+content": "Fūka Izumi",
+                "+@id": "201580"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "968415533",
+        "task": "Animation Production",
+        "company": {
+            "+content": "OLM Digital",
+            "+@id": "380"
         }
     },
     "+@date-added": "2025-03-22T04:15:13Z",
-    "+@date-last-modified-at": "2025-04-23T02:12:05Z",
-    "+@date-last-updated-at": "2025-04-23T02:12:05Z"
+    "+@date-last-modified-at": "2025-06-20T13:10:27Z",
+    "+@date-last-updated-at": "2025-06-20T13:10:27Z"
 }

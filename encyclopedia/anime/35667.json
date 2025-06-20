@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Daisy's Life",
     "+@precision": "movie",
-    "+@generated-on": "2025-04-15T02:12:51Z",
+    "+@generated-on": "2025-06-20T13:10:22Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "35666"
@@ -53,6 +53,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "drama",
+            "+@gid": "2976098956",
+            "+@type": "Genres"
+        },
+        {
             "+content": "2025-06-13",
             "+@type": "Vintage"
         },
@@ -67,11 +72,18 @@
             "+@type": "Premiere date"
         }
     ],
-    "news": {
-        "+content": "Masaaki Yuasa Directs <cite>Daisy's Life</cite> Anime Film",
-        "+@datetime": "2025-04-14T10:42:07Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-04-14/masaaki-yuasa-directs-daisy-life-anime-film/.223545"
-    },
+    "news": [
+        {
+            "+content": "Masaaki Yuasa Directs <cite>Daisy's Life</cite> Anime Film",
+            "+@datetime": "2025-04-14T10:42:07Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-14/masaaki-yuasa-directs-daisy-life-anime-film/.223545"
+        },
+        {
+            "+content": "Annecy Film Fest Screens David Production's <cite>Star Wars Visions</cite> Episode",
+            "+@datetime": "2025-04-20T00:40:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-19/annecy-film-fest-screens-david-production-star-wars-visions-episode/.223717"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2407894584",
@@ -133,6 +145,6 @@
         }
     ],
     "+@date-added": "2025-04-14T20:05:51Z",
-    "+@date-last-modified-at": "2025-04-15T02:12:52Z",
-    "+@date-last-updated-at": "2025-04-15T02:12:52Z"
+    "+@date-last-modified-at": "2025-06-20T13:10:27Z",
+    "+@date-last-updated-at": "2025-06-20T13:10:27Z"
 }
