@@ -2,9 +2,9 @@
     "+@id": "34558",
     "+@gid": "3523691497",
     "+@type": "TV",
-    "+@name": "Chanto Suenai Kyūketsuki-chan",
+    "+@name": "Li'l Miss Vampire Can't Suck Right",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-06T02:14:23Z",
+    "+@generated-on": "2025-06-20T20:33:56Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "34557"
@@ -30,9 +30,15 @@
             ]
         },
         {
+            "+content": "Li'l Miss Vampire Can't Suck Right",
+            "+@gid": "2195263749",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Chanto Suenai Kyūketsuki-chan",
             "+@gid": "3019878036",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -59,11 +65,18 @@
             "+@href": "https://kyuketsuki-chan.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Vampires Chan Can't Suck Properly</cite> Comedy Manga Gets TV Anime in 2025",
-        "+@datetime": "2025-02-04T09:00:14Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-02-04/vampires-chan-cant-suck-properly-comedy-manga-gets-tv-anime-in-2025/.220818"
-    },
+    "news": [
+        {
+            "+content": "<cite>Vampires Chan Can't Suck Properly</cite> Comedy Manga Gets TV Anime in 2025",
+            "+@datetime": "2025-02-04T09:00:14Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-04/vampires-chan-cant-suck-properly-comedy-manga-gets-tv-anime-in-2025/.220818"
+        },
+        {
+            "+content": "<cite>Li'l Miss Vampire Can't Suck Right</cite> Anime Streams Teaser Promo Video",
+            "+@datetime": "2025-06-07T03:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-06/lil-miss-vampire-cant-suck-right-anime-streams-teaser-promo-video/.225218"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3846097314",
@@ -82,6 +95,14 @@
             }
         },
         {
+            "+@gid": "2204575169",
+            "task": "Music",
+            "person": {
+                "+content": "Tomoki Kikuya",
+                "+@id": "58429"
+            }
+        },
+        {
             "+@gid": "1051304879",
             "task": "Original creator",
             "person": {
@@ -95,6 +116,38 @@
             "person": {
                 "+content": "Takuya Tani",
                 "+@id": "63443"
+            }
+        },
+        {
+            "+@gid": "3188622196",
+            "task": "Art Director",
+            "person": {
+                "+content": "Ze Chen Yang",
+                "+@id": "180590"
+            }
+        },
+        {
+            "+@gid": "2920678371",
+            "task": "3D Director",
+            "person": {
+                "+content": "Toshirō Hamamura",
+                "+@id": "80332"
+            }
+        },
+        {
+            "+@gid": "2762383661",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Ryōsuke Naya",
+                "+@id": "259754"
+            }
+        },
+        {
+            "+@gid": "2390118748",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Rieko Koike",
+                "+@id": "78164"
             }
         }
     ],
@@ -127,6 +180,6 @@
         }
     },
     "+@date-added": "2025-02-04T07:49:57Z",
-    "+@date-last-modified-at": "2025-04-06T02:14:27Z",
-    "+@date-last-updated-at": "2025-04-06T02:14:27Z"
+    "+@date-last-modified-at": "2025-06-20T20:33:57Z",
+    "+@date-last-updated-at": "2025-06-20T20:33:57Z"
 }
