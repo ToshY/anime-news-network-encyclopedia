@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "As One",
     "+@precision": "movie",
-    "+@generated-on": "2025-05-05T16:41:28Z",
+    "+@generated-on": "2025-06-20T16:41:58Z",
     "info": [
         {
             "+@gid": "1508421593",
@@ -43,9 +43,13 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2025 (summer)",
-            "+@gid": "3129440018",
+            "+content": "2025-08-22",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-08-22 (Japan)",
+            "+@gid": "2415021677",
+            "+@type": "Premiere date"
         },
         {
             "+content": "映画『アズワン／AS ONE』公式サイト",
@@ -55,11 +59,23 @@
             "+@href": "https://gaga.ne.jp/asone/"
         }
     ],
-    "news": {
-        "+content": "Square Enix, Sunrise Make <cite>'As One'</cite> Anime Film Prequel to <cite>Starwing Paradox</cite> Game",
-        "+@datetime": "2025-03-04T00:52:21Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-03-03/square-enix-sunrise-make-as-one-anime-film-prequel-to-starwing-paradox-game/.221901"
-    },
+    "news": [
+        {
+            "+content": "Square Enix, Sunrise Make <cite>'As One'</cite> Anime Film Prequel to <cite>Starwing Paradox</cite> Game",
+            "+@datetime": "2025-03-04T00:52:21Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-03/square-enix-sunrise-make-as-one-anime-film-prequel-to-starwing-paradox-game/.221901"
+        },
+        {
+            "+content": "<cite>Starwing Paradox</cite> Prequel Anime Film <cite>'As One'</cite>  Reveals More Staff, August 22 Debut in Teaser",
+            "+@datetime": "2025-05-08T00:30:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-07/starwing-paradox-prequel-anime-film-as-one-reveals-more-staff-august-22-debut-in-teaser/.224250"
+        },
+        {
+            "+content": "<cite>Starwing Paradox</cite> Prequel Anime Film <cite>'As One'</cite> Casts Ruki Shiroiwa",
+            "+@datetime": "2025-06-03T23:59:14Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-03/starwing-paradox-prequel-anime-film-as-one-casts-ruki-shiroiwa/.225084"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2936614912",
@@ -70,23 +86,130 @@
             }
         },
         {
+            "+@gid": "2259395341",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Masaya Honda",
+                "+@id": "37478"
+            }
+        },
+        {
+            "+@gid": "1193608940",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Shatner Nishida",
+                "+@id": "170114"
+            }
+        },
+        {
+            "+@gid": "2972234002",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Kana Matsui",
+                "+@id": "215960"
+            }
+        },
+        {
             "+@gid": "1981575555",
             "task": "Character Design",
             "person": {
                 "+content": "Yoshiyuki Sadamoto",
                 "+@id": "17"
             }
+        },
+        {
+            "+@gid": "3404935918",
+            "task": "Mechanical design",
+            "person": {
+                "+content": "Ippei Gyōbu",
+                "+@id": "98378"
+            }
+        },
+        {
+            "+@gid": "2850325210",
+            "task": "Producer",
+            "person": {
+                "+content": "Joe Teng",
+                "+@id": "179200"
+            }
+        },
+        {
+            "+@gid": "3754456999",
+            "task": "Producer",
+            "person": {
+                "+content": "Takafumi Yūki",
+                "+@id": "209784"
+            }
+        },
+        {
+            "+@gid": "3395218549",
+            "task": "Producer",
+            "person": {
+                "+content": "Yōhei Suzuki",
+                "+@id": "274125"
+            }
+        },
+        {
+            "+@gid": "1565426754",
+            "task": "Producer",
+            "person": {
+                "+content": "Yōsuke Tsuda",
+                "+@id": "282445"
+            }
+        },
+        {
+            "+@gid": "1973736047",
+            "task": "Producer",
+            "person": {
+                "+content": "Hiroaki Miki",
+                "+@id": "282446"
+            }
         }
     ],
-    "credit": {
-        "+@gid": "4035976234",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Sunrise",
-            "+@id": "34"
+    "cast": {
+        "+@gid": "2407125124",
+        "+@lang": "JA",
+        "role": "Yō",
+        "person": {
+            "+content": "Ruki Shiroiwa",
+            "+@id": "283558"
         }
     },
+    "credit": [
+        {
+            "+@gid": "1850312587",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Honoo",
+                "+@id": "26754"
+            }
+        },
+        {
+            "+@gid": "1762898569",
+            "task": "Animation Production",
+            "company": {
+                "+content": "StudioGOONEYS",
+                "+@id": "26755"
+            }
+        },
+        {
+            "+@gid": "560349131",
+            "task": "Production",
+            "company": {
+                "+content": "Nada Holdings",
+                "+@id": "16749"
+            }
+        },
+        {
+            "+@gid": "2562541446",
+            "task": "Production",
+            "company": {
+                "+content": "Throne Inc.",
+                "+@id": "21507"
+            }
+        }
+    ],
     "+@date-added": "2025-03-04T03:49:15Z",
-    "+@date-last-modified-at": "2025-05-05T16:41:33Z",
-    "+@date-last-updated-at": "2025-05-05T16:41:33Z"
+    "+@date-last-modified-at": "2025-06-20T16:41:59Z",
+    "+@date-last-updated-at": "2025-06-20T16:41:59Z"
 }

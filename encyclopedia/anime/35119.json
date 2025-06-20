@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "All You Need Is Kill",
     "+@precision": "movie",
-    "+@generated-on": "2025-04-15T02:12:49Z",
+    "+@generated-on": "2025-06-20T16:41:58Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "13843"
@@ -46,11 +46,51 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "2025-06-09",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-06-09 (screened at Annecy International Animation Film Festival)",
+            "+@gid": "1923231760",
+            "+@type": "Premiere date"
+        },
+        {
             "+content": "「ALL YOU NEED IS KILL」アニメーション公式サイト",
             "+@gid": "1438145627",
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://aynk-anime.com/"
+        }
+    ],
+    "review": {
+        "+content": "<cite>All You Need Is Kill</cite> Anime Film Review",
+        "+@href": "https://www.animenewsnetwork.com/review/all-you-need-is-kill/anime-film/.225753"
+    },
+    "news": [
+        {
+            "+content": "Annecy Screens 2nd <cite>Mononoke</cite> Film, <cite>All You Need Is Kill</cite> Anime",
+            "+@datetime": "2025-05-01T18:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-01/annecy-screens-2nd-mononoke-film-all-you-need-is-kill-anime/.224104"
+        },
+        {
+            "+content": "Singer-Songwriter Akasaki Performs Theme for <cite>All You Need is Kill</cite> Anime",
+            "+@datetime": "2025-05-24T03:52:24Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-23/singer-songwriter-akasaki-performs-theme-for-all-you-need-is-kill-anime/.224750"
+        },
+        {
+            "+content": "<cite>All You Need is Kill</cite> Anime Stars Ai Mikami, Natsuki Hanae",
+            "+@datetime": "2025-06-06T04:57:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-06/all-you-need-is-kill-anime-stars-ai-mikami-natsuki-hanae/.225196"
+        },
+        {
+            "+content": "GKIDS to Screen <cite>All You Need is Kill</cite> Anime in Theaters",
+            "+@datetime": "2025-06-11T15:29:09Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-11/gkids-to-screen-all-you-need-is-kill-anime-in-theaters/.225452"
+        },
+        {
+            "+content": "<cite>All You Need is Kill</cite> Anime Adds 3 Cast Members",
+            "+@datetime": "2025-06-13T03:28:15Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-12/all-you-need-is-kill-anime-adds-3-cast-members/.225518"
         }
     ],
     "staff": [
@@ -63,11 +103,138 @@
             }
         },
         {
+            "+@gid": "2189690763",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Yuichiro Kido",
+                "+@id": "135888"
+            }
+        },
+        {
+            "+@gid": "2981540393",
+            "task": "Music",
+            "person": {
+                "+content": "Yasuhiro Maeda",
+                "+@id": "128700"
+            }
+        },
+        {
             "+@gid": "1963831195",
             "task": "Original creator",
             "person": {
                 "+content": "Hiroshi Sakurazaka",
                 "+@id": "73944"
+            }
+        },
+        {
+            "+@gid": "2510269313",
+            "task": "Character Design",
+            "person": {
+                "+content": "Izumi Murakami",
+                "+@id": "88581"
+            }
+        },
+        {
+            "+@gid": "1524401220",
+            "task": "Art Director",
+            "person": {
+                "+content": "Tomotaka Kubo",
+                "+@id": "81285"
+            }
+        },
+        {
+            "+@gid": "2391892193",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tomonari Nakajima",
+                "+@id": "24389"
+            }
+        },
+        {
+            "+@gid": "795100061",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hisato Tokumaru",
+                "+@id": "257290"
+            }
+        },
+        {
+            "+@gid": "2837525020",
+            "task": "Mechanical design",
+            "person": {
+                "+content": "Jūki Izumo",
+                "+@id": "138024"
+            }
+        },
+        {
+            "+@gid": "803431209",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Takanori Nakashima",
+                "+@id": "283992"
+            }
+        },
+        {
+            "+@gid": "1756385246",
+            "task": "Producer",
+            "person": {
+                "+content": "Eiko Tanaka",
+                "+@id": "2230"
+            }
+        },
+        {
+            "+@gid": "1389573279",
+            "task": "Producer",
+            "person": {
+                "+content": "Noriko Dohi",
+                "+@id": "124882"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "678897814",
+            "+@lang": "JA",
+            "role": "Shasta",
+            "person": {
+                "+content": "Kana Hanazawa",
+                "+@id": "53741"
+            }
+        },
+        {
+            "+@gid": "3008490708",
+            "+@lang": "JA",
+            "role": "Rita",
+            "person": {
+                "+content": "Ai Mikami",
+                "+@id": "97166"
+            }
+        },
+        {
+            "+@gid": "945877832",
+            "+@lang": "JA",
+            "role": "Keiji",
+            "person": {
+                "+content": "Natsuki Hanae",
+                "+@id": "106773"
+            }
+        },
+        {
+            "+@gid": "1448789001",
+            "+@lang": "JA",
+            "role": "Raychell",
+            "person": {
+                "+content": "hiccorohee",
+                "+@id": "237115"
+            }
+        },
+        {
+            "+@gid": "2847652812",
+            "+@lang": "JA",
+            "role": "Yonaval",
+            "person": {
+                "+content": "mo-junior high school",
+                "+@id": "283991"
             }
         }
     ],
@@ -90,6 +257,6 @@
         }
     ],
     "+@date-added": "2025-03-13T01:04:51Z",
-    "+@date-last-modified-at": "2025-04-15T02:12:53Z",
-    "+@date-last-updated-at": "2025-04-15T02:12:53Z"
+    "+@date-last-modified-at": "2025-06-20T16:41:59Z",
+    "+@date-last-updated-at": "2025-06-20T16:41:59Z"
 }
