@@ -4,27 +4,27 @@
     "+@type": "TV",
     "+@name": "Welcome to the Outcast's Restaurant!",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-15T04:36:10Z",
+    "+@generated-on": "2025-06-21T02:17:57Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25334"
     },
     "info": [
         {
-            "+@gid": "1730082179",
+            "+@gid": "2564236455",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34176-1730082179.1734300789.jpg",
-            "+@width": "143",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34176-2564236455.1745154384.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34176-1730082179.1734300789.jpg",
-                    "+@width": "143",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34176-2564236455.1745154384.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34176-1730082179.1734300789.jpg",
-                    "+@width": "430",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34176-2564236455.1745154384.jpg",
+                    "+@width": "425",
                     "+@height": "600"
                 }
             ]
@@ -58,13 +58,18 @@
             "+@type": "Themes"
         },
         {
-            "+content": "This light novel series follows the adventures of Dennis, a level 99 cook who’s just been exiled from the guild he’s been working at for many years, who decides to set up his own diner in the countryside. <em class=de-emphasized>(from manga)</em>",
+            "+content": "Dennis is a level 99 cook who’s just been exiled from the guild he’s been working at for many years and decides to set up his own diner in the countryside. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2025-07",
-            "+@gid": "2165066570",
+            "+content": "2025-07-03",
+            "+@gid": "1188900293",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Unique\" by Dannie May",
+            "+@gid": "1429824730",
+            "+@type": "Opening Theme"
         },
         {
             "+content": "「追放者食堂へようこそ！」TVアニメ公式サイト",
@@ -74,11 +79,28 @@
             "+@href": "https://tsuihosha-shokudo.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Welcome to the Outcast's Restaurant!</cite> TV Anime's Teaser Reveals Cast, Staff, July Debut",
-        "+@datetime": "2025-03-18T09:48:27Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-03-18/welcome-to-the-outcast-restaurant-tv-anime-teaser-reveals-cast-staff-july-debut/.222511"
-    },
+    "news": [
+        {
+            "+content": "<cite>Welcome to the Outcast's Restaurant!</cite> TV Anime's Teaser Reveals Cast, Staff, July Debut",
+            "+@datetime": "2025-03-18T09:48:27Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-18/welcome-to-the-outcast-restaurant-tv-anime-teaser-reveals-cast-staff-july-debut/.222511"
+        },
+        {
+            "+content": "<cite>Welcome to the Outcast's Restaurant!</cite> Anime's New Video Unveils More Cast & Staff, Opening Song, July 3 Debut",
+            "+@datetime": "2025-04-20T11:45:06Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-20/welcome-to-the-outcast-restaurant-anime-new-video-unveils-more-cast-and-staff-opening-song-july-3-/.223730"
+        },
+        {
+            "+content": "<cite>Welcome to the Outcast's Restaurant!</cite> Anime's 2nd Video Reveals New Cast, Ending Song",
+            "+@datetime": "2025-05-28T09:57:09Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-28/welcome-to-the-outcast-restaurant-anime-2nd-video-reveals-new-cast-ending-song/.224883"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Summer 2025 Season",
+            "+@datetime": "2025-06-18T17:58:39Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-18/crunchyroll-announces-release-schedule-for-summer-2025-season/.225751"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3088548718",
@@ -135,9 +157,60 @@
                 "+content": "Aoi Yamato",
                 "+@id": "153607"
             }
+        },
+        {
+            "+@gid": "1765562762",
+            "task": "Art Director",
+            "person": {
+                "+content": "Kenji Kato",
+                "+@id": "252"
+            }
+        },
+        {
+            "+@gid": "1639346145",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Noriyoshi Konuma",
+                "+@id": "84893"
+            }
+        },
+        {
+            "+@gid": "1518002756",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Atsushi Satō",
+                "+@id": "211184"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "2611210525",
+            "+@lang": "JA",
+            "role": "Vivia",
+            "person": {
+                "+content": "Mariya Ise",
+                "+@id": "46112"
+            }
+        },
+        {
+            "+@gid": "1390380378",
+            "+@lang": "JA",
+            "role": "Katie",
+            "person": {
+                "+content": "Chika Anzai",
+                "+@id": "78724"
+            }
+        },
+        {
+            "+@gid": "733799163",
+            "+@lang": "JA",
+            "role": "Bachel",
+            "person": {
+                "+content": "Satsumi Matsuda",
+                "+@id": "125534"
+            }
+        },
         {
             "+@gid": "2323813073",
             "+@lang": "JA",
@@ -145,6 +218,24 @@
             "person": {
                 "+content": "Shunsuke Takeuchi",
                 "+@id": "132044"
+            }
+        },
+        {
+            "+@gid": "2470688187",
+            "+@lang": "JA",
+            "role": "Henrietta",
+            "person": {
+                "+content": "Sayumi Suzushiro",
+                "+@id": "170536"
+            }
+        },
+        {
+            "+@gid": "2511451679",
+            "+@lang": "JA",
+            "role": "Vigor",
+            "person": {
+                "+content": "Ryōta Suzuki",
+                "+@id": "174131"
             }
         },
         {
@@ -166,6 +257,6 @@
         }
     },
     "+@date-added": "2024-12-15T17:12:00Z",
-    "+@date-last-modified-at": "2025-04-15T04:36:13Z",
-    "+@date-last-updated-at": "2025-04-15T04:36:13Z"
+    "+@date-last-modified-at": "2025-06-21T02:17:57Z",
+    "+@date-last-updated-at": "2025-06-21T02:17:57Z"
 }

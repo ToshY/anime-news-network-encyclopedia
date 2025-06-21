@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Water Magician",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-11T02:04:44Z",
+    "+@generated-on": "2025-06-21T02:17:55Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "30704"
@@ -57,9 +57,19 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2025-07",
+            "+content": "2025-07-03",
             "+@gid": "2106478543",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Blue Motion\" by Meiyo Densetsu",
+            "+@gid": "3241794309",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Tayutau Mamani\" (Sway as You Please) by Misaki",
+            "+@gid": "983851462",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ「水属性の魔法使い」公式サイト",
@@ -67,6 +77,28 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://mizuzokusei-anime.com/"
+        }
+    ],
+    "news": [
+        {
+            "+content": "<cite>The Water Magician</cite> Anime Reveals July 3 Debut, More Cast, Crunchyroll Streaming",
+            "+@datetime": "2025-06-13T07:22:14Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-13/the-water-magician-anime-reveals-july-3-debut-more-cast-crunchyroll-streaming/.225522"
+        },
+        {
+            "+content": "<cite>The Water Magician</cite> Anime to Stream in India",
+            "+@datetime": "2025-06-15T06:00:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-15/the-water-magician-anime-to-stream-in-india/.225587"
+        },
+        {
+            "+content": "Netflix Streams <cite>Leviathan</cite> Anime in India",
+            "+@datetime": "2025-06-16T06:13:35Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-16/netflix-streams-leviathan-anime-in-india/.225616"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Summer 2025 Season",
+            "+@datetime": "2025-06-18T17:58:39Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-18/crunchyroll-announces-release-schedule-for-summer-2025-season/.225751"
         }
     ],
     "staff": [
@@ -84,6 +116,22 @@
             "person": {
                 "+content": "Jun Kumagai",
                 "+@id": "106350"
+            }
+        },
+        {
+            "+@gid": "1982281765",
+            "task": "Music",
+            "person": {
+                "+content": "Sayaka Aoki",
+                "+@id": "207922"
+            }
+        },
+        {
+            "+@gid": "737525132",
+            "task": "Music",
+            "person": {
+                "+content": "Akira Kosemura",
+                "+@id": "210100"
             }
         },
         {
@@ -117,9 +165,69 @@
                 "+content": "Yūka Kozutsumi",
                 "+@id": "148389"
             }
+        },
+        {
+            "+@gid": "1252157607",
+            "task": "Art Director",
+            "person": {
+                "+content": "Asuka Komiyama",
+                "+@id": "22638"
+            }
+        },
+        {
+            "+@gid": "1963480199",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Hajime Takakuwa",
+                "+@id": "12967"
+            }
+        },
+        {
+            "+@gid": "1157345264",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Shinya Kanetake",
+                "+@id": "171020"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "2606299399",
+            "+@lang": "JA",
+            "role": "Michael (alias)",
+            "person": {
+                "+content": "Takehito Koyasu",
+                "+@id": "662"
+            }
+        },
+        {
+            "+@gid": "2789628549",
+            "+@lang": "JA",
+            "role": "Lihya",
+            "person": {
+                "+content": "Kaori Ishihara",
+                "+@id": "86249"
+            }
+        },
+        {
+            "+@gid": "1036575638",
+            "+@lang": "JA",
+            "role": "Hugh McGrath",
+            "person": {
+                "+content": "Satoshi Mikami",
+                "+@id": "86669"
+            }
+        },
+        {
+            "+@gid": "1450281718",
+            "+@lang": "JA",
+            "role": "Nils",
+            "person": {
+                "+content": "Genki Muro",
+                "+@id": "102875"
+            }
+        },
         {
             "+@gid": "1624363383",
             "+@lang": "JA",
@@ -127,6 +235,24 @@
             "person": {
                 "+content": "Ayumu Murase",
                 "+@id": "113308"
+            }
+        },
+        {
+            "+@gid": "1445976727",
+            "+@lang": "JA",
+            "role": "Nina",
+            "person": {
+                "+content": "Miku Itō",
+                "+@id": "119924"
+            }
+        },
+        {
+            "+@gid": "1470662449",
+            "+@lang": "JA",
+            "role": "Amon",
+            "person": {
+                "+content": "Kōhei Amasaki",
+                "+@id": "131781"
             }
         },
         {
@@ -139,12 +265,39 @@
             }
         },
         {
+            "+@gid": "3421635015",
+            "+@lang": "JA",
+            "role": "Rin",
+            "person": {
+                "+content": "Sara Matsumoto",
+                "+@id": "145810"
+            }
+        },
+        {
             "+@gid": "1051314347",
             "+@lang": "JA",
             "role": "Abel",
             "person": {
                 "+content": "Kazuki Ura",
                 "+@id": "172811"
+            }
+        },
+        {
+            "+@gid": "1662402228",
+            "+@lang": "JA",
+            "role": "Eto",
+            "person": {
+                "+content": "Naoya Miyase",
+                "+@id": "193424"
+            }
+        },
+        {
+            "+@gid": "2788080200",
+            "+@lang": "JA",
+            "role": "Lewin",
+            "person": {
+                "+content": "Hōchū Ōtsuka",
+                "+@id": "274643"
             }
         }
     ],
@@ -167,6 +320,6 @@
         }
     ],
     "+@date-added": "2025-01-09T23:15:48Z",
-    "+@date-last-modified-at": "2025-04-11T02:04:46Z",
-    "+@date-last-updated-at": "2025-04-11T02:04:46Z"
+    "+@date-last-modified-at": "2025-06-21T02:17:57Z",
+    "+@date-last-updated-at": "2025-06-21T02:17:57Z"
 }
