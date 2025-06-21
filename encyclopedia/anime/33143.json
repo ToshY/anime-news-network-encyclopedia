@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Kaiju No. 8: Mission Recon",
     "+@precision": "movie",
-    "+@generated-on": "2025-04-03T08:39:02Z",
+    "+@generated-on": "2025-06-21T16:41:20Z",
     "related-prev": {
         "+@rel": "compilation of",
         "+@id": "26176"
@@ -42,6 +42,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Kaiju No. 8: Misión De Reconocimiento",
+            "+@gid": "1585415505",
+            "+@type": "Alternative title",
+            "+@lang": "ES"
+        },
+        {
             "+content": "怪獣8号",
             "+@gid": "2962541456",
             "+@type": "Alternative title",
@@ -67,6 +73,11 @@
             "+@type": "Premiere date"
         },
         {
+            "+content": "2025-04-10 (Colombia)",
+            "+@gid": "2329002149",
+            "+@type": "Premiere date"
+        },
+        {
             "+content": "2025-04-11 (Poland)",
             "+@gid": "1435338505",
             "+@type": "Premiere date"
@@ -84,6 +95,10 @@
             "+@href": "https://kaiju-no8.net/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "5"
+    },
     "news": [
         {
             "+content": "<cite>Kaiju No. 8</cite> Anime's Compilation Film Previewed in Video",
@@ -104,6 +119,11 @@
             "+content": "Crunchyroll India Streams <i>Kaiju No. 8</i> Compilation Film's Trailer",
             "+@datetime": "2025-03-29T10:40:44Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-29/crunchyroll-india-streams-kaiju-no-8-compilation-film-trailer/.223010"
+        },
+        {
+            "+content": "<cite>COLORFUL STAGE! The Movie: A Miku Who Can't Sing</cite> Film Ranks #7 in U.S. Box Office",
+            "+@datetime": "2025-04-21T09:47:19Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-21/colorful-stage-the-movie-a-miku-who-cant-sing-film-ranks-no.7-in-u.s-box-office/.223751"
         }
     ],
     "staff": [
@@ -206,12 +226,138 @@
     ],
     "cast": [
         {
+            "+@gid": "1734250203",
+            "+@lang": "EN",
+            "role": "Hakua Igarashi",
+            "person": {
+                "+content": "Molly Searcy",
+                "+@id": "121492"
+            }
+        },
+        {
+            "+@gid": "2072609144",
+            "+@lang": "EN",
+            "role": "Mina Ashiro",
+            "person": {
+                "+content": "Katelyn Barr",
+                "+@id": "132390"
+            }
+        },
+        {
+            "+@gid": "2250776744",
+            "+@lang": "EN",
+            "role": "Kaiju No. 9/Takamichi Hodaka",
+            "person": {
+                "+content": "Alejandro Saab",
+                "+@id": "144413"
+            }
+        },
+        {
+            "+@gid": "1820231499",
+            "+@lang": "EN",
+            "role": "Haruichi Izumo",
+            "person": {
+                "+content": "Howard Wang",
+                "+@id": "148110"
+            }
+        },
+        {
+            "+@gid": "1734771981",
+            "+@lang": "EN",
+            "role": "Soshiro Hoshina",
+            "person": {
+                "+content": "Landon McDonald",
+                "+@id": "148198"
+            }
+        },
+        {
+            "+@gid": "2409826271",
+            "+@lang": "EN",
+            "role": "Masahide \"Toku\" Tokuda",
+            "person": {
+                "+content": "Michael Stimac",
+                "+@id": "155854"
+            }
+        },
+        {
+            "+@gid": "3200552406",
+            "+@lang": "EN",
+            "role": "Kafka Hibino",
+            "person": {
+                "+content": "Nazeeh Tarsha",
+                "+@id": "158692"
+            }
+        },
+        {
+            "+@gid": "1430417215",
+            "+@lang": "EN",
+            "role": "Ryo Ikaruga",
+            "person": {
+                "+content": "Zac Loera",
+                "+@id": "165002"
+            }
+        },
+        {
+            "+@gid": "967072735",
+            "+@lang": "EN",
+            "role": "Aoi Kaguragi",
+            "person": {
+                "+content": "Jonah Scott",
+                "+@id": "184821"
+            }
+        },
+        {
+            "+@gid": "2009972071",
+            "+@lang": "EN",
+            "role": "Kaiju No. 10",
+            "person": {
+                "+content": "Brent Mukai",
+                "+@id": "192303"
+            }
+        },
+        {
+            "+@gid": "3046662491",
+            "+@lang": "EN",
+            "role": "Reno Ichikawa",
+            "person": {
+                "+content": "Adam McArthur",
+                "+@id": "200259"
+            }
+        },
+        {
+            "+@gid": "2346792421",
+            "+@lang": "EN",
+            "role": "Konomi Okonogi",
+            "person": {
+                "+content": "Celeste Perez",
+                "+@id": "203685"
+            }
+        },
+        {
+            "+@gid": "1345678013",
+            "+@lang": "EN",
+            "role": "Iharu Furuhashi",
+            "person": {
+                "+content": "Ben Stegmair",
+                "+@id": "226251"
+            }
+        },
+        {
             "+@gid": "1897214694",
             "+@lang": "EN",
             "role": "Kikoru Shinomiya",
             "person": {
                 "+content": "Abigail Blythe",
                 "+@id": "229925"
+            }
+        },
+        {
+            "+@gid": "670157935",
+            "+@lang": "EN",
+            "role": "Akari Minase",
+            "person": {
+                "+content": "Monica Flatley",
+                "+@id": "240600"
             }
         },
         {
@@ -341,6 +487,6 @@
         }
     },
     "+@date-added": "2024-08-05T23:07:28Z",
-    "+@date-last-modified-at": "2025-04-03T08:39:05Z",
-    "+@date-last-updated-at": "2025-04-03T08:39:05Z"
+    "+@date-last-modified-at": "2025-06-21T16:41:22Z",
+    "+@date-last-updated-at": "2025-06-21T16:41:22Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "I Left My A-Rank Party",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-03T04:11:27Z",
+    "+@generated-on": "2025-06-21T16:41:17Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "33467"
@@ -86,8 +86,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "9",
-        "+@weighted_score": "6.8255"
+        "+@nb_votes": "18",
+        "+@weighted_score": "6.3914",
+        "+@bayesian_score": "6.84598"
     },
     "news": [
         {
@@ -139,6 +140,21 @@
             "+content": "Crunchyroll Announces Release Schedule for Spring 2025 Season",
             "+@datetime": "2025-03-19T17:11:51Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-19/crunchyroll-announces-release-schedule-for-spring-2025-season/.222571"
+        },
+        {
+            "+content": "<cite>JoJo's Bizarre Adventure</cite> Anime's Hindi Dub Streams on Muse India",
+            "+@datetime": "2025-04-21T10:36:01Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-21/jojo-bizarre-adventure-anime-hindi-dub-streams-on-muse-india/.223753"
+        },
+        {
+            "+content": "<cite>I Left My A-Rank Party</cite> Anime Casts Shunsuke Takeuchi",
+            "+@datetime": "2025-04-25T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-25/i-left-my-a-rank-party-anime-casts-shunsuke-takeuchi/.223903"
+        },
+        {
+            "+content": "<cite>I Left My A-Rank Party</cite> Anime's 3rd Part Unveils More Cast, New Ending Song in Video",
+            "+@datetime": "2025-05-14T13:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-14/i-left-my-a-rank-party-anime-3rd-part-unveils-more-cast-new-ending-song-in-video/.224427"
         }
     ],
     "staff": [
@@ -172,6 +188,14 @@
             "person": {
                 "+content": "Shinichi Watanabe",
                 "+@id": "512"
+            }
+        },
+        {
+            "+@gid": "1898473545",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Katsumi Ono",
+                "+@id": "12549"
             }
         },
         {
@@ -247,6 +271,22 @@
             }
         },
         {
+            "+@gid": "2149446348",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Akira Takahashi",
+                "+@id": "7595"
+            }
+        },
+        {
+            "+@gid": "975474383",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Akio Takami",
+                "+@id": "9183"
+            }
+        },
+        {
             "+@gid": "997412840",
             "task": "Animation Director",
             "person": {
@@ -281,6 +321,15 @@
     ],
     "cast": [
         {
+            "+@gid": "1976431449",
+            "+@lang": "EN",
+            "role": "Maniella",
+            "person": {
+                "+content": "Monica Rial",
+                "+@id": "2074"
+            }
+        },
+        {
             "+@gid": "2049304320",
             "+@lang": "EN",
             "role": "Marina",
@@ -305,6 +354,15 @@
             "person": {
                 "+content": "Bryn Apprill",
                 "+@id": "126375"
+            }
+        },
+        {
+            "+@gid": "2486022786",
+            "+@lang": "EN",
+            "role": "Niberune",
+            "person": {
+                "+content": "Megan Shipman",
+                "+@id": "126916"
             }
         },
         {
@@ -371,6 +429,15 @@
             }
         },
         {
+            "+@gid": "2625119653",
+            "+@lang": "EN",
+            "role": "King Vincent V",
+            "person": {
+                "+content": "Gerard Caster",
+                "+@id": "223750"
+            }
+        },
+        {
             "+@gid": "2451875886",
             "+@lang": "EN",
             "role": "Camilla",
@@ -434,6 +501,15 @@
             }
         },
         {
+            "+@gid": "2186917522",
+            "+@lang": "JA",
+            "role": "Vincent V",
+            "person": {
+                "+content": "Shūhei Sakaguchi",
+                "+@id": "22535"
+            }
+        },
+        {
             "+@gid": "3184791033",
             "+@lang": "JA",
             "role": "Camilla",
@@ -470,6 +546,15 @@
             }
         },
         {
+            "+@gid": "1660548083",
+            "+@lang": "JA",
+            "role": "Mastoma",
+            "person": {
+                "+content": "Shunsuke Takeuchi",
+                "+@id": "132044"
+            }
+        },
+        {
             "+@gid": "1901323156",
             "+@lang": "JA",
             "role": "Yuke",
@@ -485,6 +570,15 @@
             "person": {
                 "+content": "Maria Sashide",
                 "+@id": "152049"
+            }
+        },
+        {
+            "+@gid": "1986501304",
+            "+@lang": "JA",
+            "role": "Selfie-chan",
+            "person": {
+                "+content": "Natsumi Kawaida",
+                "+@id": "155490"
             }
         },
         {
@@ -551,6 +645,6 @@
         }
     },
     "+@date-added": "2024-09-05T01:18:30Z",
-    "+@date-last-modified-at": "2025-04-03T04:37:26Z",
-    "+@date-last-updated-at": "2025-04-03T04:37:26Z"
+    "+@date-last-modified-at": "2025-06-21T16:41:22Z",
+    "+@date-last-updated-at": "2025-06-21T16:41:22Z"
 }

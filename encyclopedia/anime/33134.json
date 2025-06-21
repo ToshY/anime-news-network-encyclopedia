@@ -2,9 +2,9 @@
     "+@id": "33134",
     "+@gid": "1971997329",
     "+@type": "TV",
-    "+@name": "Kikaijikake no Marie",
+    "+@name": "Mechanical Marie",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-03T08:39:02Z",
+    "+@generated-on": "2025-06-21T16:41:20Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29719"
@@ -13,26 +13,32 @@
         {
             "+@gid": "3734584570",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33134-3734584570.1722843453.jpg",
-            "+@width": "160",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33134-3734584570.1745407310.jpg",
+            "+@width": "143",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33134-3734584570.1722843453.jpg",
-                    "+@width": "160",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33134-3734584570.1745407310.jpg",
+                    "+@width": "143",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33134-3734584570.1722843453.jpg",
-                    "+@width": "480",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33134-3734584570.1745407310.jpg",
+                    "+@width": "429",
                     "+@height": "600"
                 }
             ]
         },
         {
+            "+content": "Mechanical Marie",
+            "+@gid": "1034814698",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Kikaijikake no Marie",
             "+@gid": "2346326308",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -55,17 +61,114 @@
             "+content": "maid",
             "+@gid": "3182580972",
             "+@type": "Themes"
+        },
+        {
+            "+content": "2025-10",
+            "+@gid": "814599627",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ『機械じかけのマリー』",
+            "+@gid": "3844728736",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://mechanicalmarie-anime.com/"
         }
     ],
-    "staff": {
-        "+@gid": "2358364263",
-        "task": "Original creator",
-        "person": {
-            "+content": "Aki Akimoto",
-            "+@id": "249614"
-        }
+    "news": {
+        "+content": "<cite>Mechanical Marie</cite> Anime's Teaser Reveals Main Cast, Staff, Fall Debut",
+        "+@datetime": "2025-04-23T10:50:49Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-04-23/mechanical-marie-anime-teaser-reveals-main-cast-staff-fall-debut/.223829"
     },
+    "staff": [
+        {
+            "+@gid": "3452375107",
+            "task": "Director",
+            "person": {
+                "+content": "Junji Nishimura",
+                "+@id": "58"
+            }
+        },
+        {
+            "+@gid": "2095005496",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Mariko Kunisawa",
+                "+@id": "74555"
+            }
+        },
+        {
+            "+@gid": "1277877357",
+            "task": "Music",
+            "person": {
+                "+content": "Yasuharu Takanashi",
+                "+@id": "37756"
+            }
+        },
+        {
+            "+@gid": "970460420",
+            "task": "Music",
+            "person": {
+                "+content": "Johannes Nilsson",
+                "+@id": "187171"
+            }
+        },
+        {
+            "+@gid": "2358364263",
+            "task": "Original creator",
+            "person": {
+                "+content": "Aki Akimoto",
+                "+@id": "249614"
+            }
+        },
+        {
+            "+@gid": "3109880216",
+            "task": "Character Design",
+            "person": {
+                "+content": "Yōko Kikuchi",
+                "+@id": "345"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2055473368",
+            "+@lang": "JA",
+            "role": "Marie",
+            "person": {
+                "+content": "Nao Tōyama",
+                "+@id": "95316"
+            }
+        },
+        {
+            "+@gid": "2524316927",
+            "+@lang": "JA",
+            "role": "Arthur",
+            "person": {
+                "+content": "Haruki Ishiya",
+                "+@id": "124503"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "3079923959",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Zero-G",
+                "+@id": "12033"
+            }
+        },
+        {
+            "+@gid": "541494077",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Liber",
+                "+@id": "22757"
+            }
+        }
+    ],
     "+@date-added": "2024-08-05T03:35:37Z",
-    "+@date-last-modified-at": "2025-04-03T08:39:05Z",
-    "+@date-last-updated-at": "2025-04-03T08:39:05Z"
+    "+@date-last-modified-at": "2025-06-21T16:41:22Z",
+    "+@date-last-updated-at": "2025-06-21T16:41:22Z"
 }

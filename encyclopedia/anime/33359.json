@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Wandance",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-03T08:39:02Z",
+    "+@generated-on": "2025-06-21T16:41:18Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25239"
@@ -13,19 +13,24 @@
         {
             "+@gid": "1414357642",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33359-1414357642.1724288170.jpg",
-            "+@width": "144",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33359-1414357642.1745399690.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33359-1414357642.1724288170.jpg",
-                    "+@width": "144",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33359-1414357642.1745399690.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33359-1414357642.1724288170.jpg",
-                    "+@width": "431",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33359-1414357642.1745399690.jpg",
+                    "+@width": "424",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A33359-1414357642.1745399690.jpg",
+                    "+@width": "1158",
+                    "+@height": "1638"
                 }
             ]
         },
@@ -42,7 +47,11 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2025",
+            "+content": "Kaboku has always just gone with the flow, marching in step to the drumbeat of the expectations of those around him: parents, school, plans for the future. It feels predictable, safe, and… empty. But one night, Kaboku's at school late, and he happens on a girl alone, moving wildly, turning a blank space of concrete into a canvas. This is Hikari Wanda, a member of the hip-hop dance club. Kaboku is immediately smitten, but the road to stepping out of his shell is a long one. The club is almost entirely girls, and they're all, well, way better than him. What's ahead is unknown, and that's terrifying, but it also means, for the first time in Kaboku's life… a taste of freedom. <em class=de-emphasized>(from manga)</em>",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2025-10",
             "+@gid": "2062211187",
             "+@type": "Vintage"
         },
@@ -54,19 +63,106 @@
             "+@href": "https://wandance.asmik-ace.co.jp/"
         }
     ],
-    "news": {
-        "+content": "Disney+ to Stream <cite>Wandance</cite>, <cite>Medalist</cite>, <cite>Go! Go! Loser Ranger</cite> Season 2 Anime",
-        "+@datetime": "2024-11-21T16:42:29Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-11-21/disney-to-stream-wandance-medalist-go-go-loser-ranger-season-2-anime/.218135"
-    },
-    "staff": {
-        "+@gid": "2357040518",
-        "task": "Original creator",
-        "person": {
-            "+content": "Coffee",
-            "+@id": "204502"
+    "news": [
+        {
+            "+content": "Disney+ to Stream <cite>Wandance</cite>, <cite>Medalist</cite>, <cite>Go! Go! Loser Ranger</cite> Season 2 Anime",
+            "+@datetime": "2024-11-21T16:42:29Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-11-21/disney-to-stream-wandance-medalist-go-go-loser-ranger-season-2-anime/.218135"
+        },
+        {
+            "+content": "<cite>Wandance</cite> Hip-Hop Dance Anime Reveals Cast, October Premiere",
+            "+@datetime": "2025-04-23T14:38:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-23/wandance-hip-hop-dance-anime-reveals-cast-october-premiere/.223835"
+        },
+        {
+            "+content": "<cite>Wandance</cite> Hip-Hop Dance Anime Unveils More Cast",
+            "+@datetime": "2025-06-12T03:27:41Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-11/wandance-hip-hop-dance-anime-unveils-more-cast/.225476"
         }
-    },
+    ],
+    "staff": [
+        {
+            "+@gid": "2447858324",
+            "task": "Director",
+            "person": {
+                "+content": "Michiya Katō",
+                "+@id": "42508"
+            }
+        },
+        {
+            "+@gid": "2357040518",
+            "task": "Original creator",
+            "person": {
+                "+content": "Coffee",
+                "+@id": "204502"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2268511147",
+            "+@lang": "JA",
+            "role": "Usen Takumi",
+            "person": {
+                "+content": "Yuu Hayashi",
+                "+@id": "30876"
+            }
+        },
+        {
+            "+@gid": "1980855804",
+            "+@lang": "JA",
+            "role": "Kaboku Kotani",
+            "person": {
+                "+content": "Kōki Uchiyama",
+                "+@id": "56091"
+            }
+        },
+        {
+            "+@gid": "869337613",
+            "+@lang": "JA",
+            "role": "Iori Itsukushima",
+            "person": {
+                "+content": "Toshiki Masuda",
+                "+@id": "99623"
+            }
+        },
+        {
+            "+@gid": "1679073645",
+            "+@lang": "JA",
+            "role": "On Miyao",
+            "person": {
+                "+content": "Ayaka Suwa",
+                "+@id": "118240"
+            }
+        },
+        {
+            "+@gid": "2718218359",
+            "+@lang": "JA",
+            "role": "Assei",
+            "person": {
+                "+content": "Chikahiro Kobayashi",
+                "+@id": "121091"
+            }
+        },
+        {
+            "+@gid": "1442484675",
+            "+@lang": "JA",
+            "role": "Gaku Kabeya",
+            "person": {
+                "+content": "Yūma Uchida",
+                "+@id": "124918"
+            }
+        },
+        {
+            "+@gid": "3682572597",
+            "+@lang": "JA",
+            "role": "Hikari Wanda",
+            "person": {
+                "+content": "Hina Yomiya",
+                "+@id": "209292"
+            }
+        }
+    ],
     "credit": [
         {
             "+@gid": "2457658719",
@@ -86,6 +182,6 @@
         }
     ],
     "+@date-added": "2024-08-21T20:52:12Z",
-    "+@date-last-modified-at": "2025-04-03T08:39:05Z",
-    "+@date-last-updated-at": "2025-04-03T08:39:05Z"
+    "+@date-last-modified-at": "2025-06-21T16:41:22Z",
+    "+@date-last-updated-at": "2025-06-21T16:41:22Z"
 }
