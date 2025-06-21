@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "Fragrant Flower Blooms With Dignity",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-03T04:11:04Z",
+    "+@generated-on": "2025-06-21T12:56:09Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27864"
     },
     "info": [
         {
-            "+@gid": "2776276701",
+            "+@gid": "1546311627",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33549-2776276701.1742626002.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33549-1546311627.1749271756.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33549-2776276701.1742626002.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33549-1546311627.1749271756.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33549-2776276701.1742626002.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33549-1546311627.1749271756.jpg",
+                    "+@width": "425",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A33549-1546311627.1749271756.jpg",
+                    "+@width": "849",
+                    "+@height": "1200"
                 }
             ]
         },
@@ -57,9 +62,19 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2025-07",
-            "+@gid": "2683127304",
+            "+content": "2025-07-05",
+            "+@gid": "2640217841",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Manazashi wa Hikari\" (まなざしは光) by Tatsuya Kitani",
+            "+@gid": "1048555920",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Hare no Hi ni\" (On This Sunny Day) by Reira Ushio",
+            "+@gid": "1590485745",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ『薫る花は凛と咲く』公式サイト",
@@ -69,11 +84,23 @@
             "+@href": "https://kaoruhana-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>The Fragrant Flower Blooms With Dignity</cite> TV Anime's New Video Announces  Main Cast, Staff, July Debut",
-        "+@datetime": "2025-03-22T06:23:22Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-03-22/the-fragrant-flower-blooms-with-dignity-tv-anime-new-video-announces-main-cast-staff-july-debut/.222698"
-    },
+    "news": [
+        {
+            "+content": "<cite>The Fragrant Flower Blooms With Dignity</cite> TV Anime's New Video Announces  Main Cast, Staff, July Debut",
+            "+@datetime": "2025-03-22T06:23:22Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-22/the-fragrant-flower-blooms-with-dignity-tv-anime-new-video-announces-main-cast-staff-july-debut/.222698"
+        },
+        {
+            "+content": "<cite>The Fragrant Flower Blooms With Dignity</cite> TV Anime's Promo Video Reveals Theme Songs, July 5 Debut (Updated)",
+            "+@datetime": "2025-06-06T03:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-05/the-fragrant-flower-blooms-with-dignity-tv-anime-promo-video-reveals-theme-songs-july-5-debut/.225177"
+        },
+        {
+            "+content": "<cite>The Fragrant Flower Blooms With Dignity</cite> TV Anime Releases in India on July 13",
+            "+@datetime": "2025-06-08T09:09:06Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-08/the-fragrant-flower-blooms-with-dignity-tv-anime-releases-in-india-on-july-13/.225278"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2085602055",
@@ -116,11 +143,43 @@
             }
         },
         {
+            "+@gid": "569852129",
+            "task": "Art Director",
+            "person": {
+                "+content": "Asuka Kōki",
+                "+@id": "200175"
+            }
+        },
+        {
             "+@gid": "1011431757",
             "task": "Chief Animation Director",
             "person": {
                 "+content": "Kōhei Tokuoka",
                 "+@id": "95421"
+            }
+        },
+        {
+            "+@gid": "957383279",
+            "task": "3D Director",
+            "person": {
+                "+content": "Keita Watanabe",
+                "+@id": "262791"
+            }
+        },
+        {
+            "+@gid": "2292916098",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Takatoshi Hamano",
+                "+@id": "89595"
+            }
+        },
+        {
+            "+@gid": "1047253527",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yukiko Nagase",
+                "+@id": "80015"
             }
         }
     ],
@@ -189,6 +248,6 @@
         }
     },
     "+@date-added": "2024-09-16T05:01:16Z",
-    "+@date-last-modified-at": "2025-04-03T04:37:26Z",
-    "+@date-last-updated-at": "2025-04-03T04:37:26Z"
+    "+@date-last-modified-at": "2025-06-21T12:56:10Z",
+    "+@date-last-updated-at": "2025-06-21T12:56:10Z"
 }

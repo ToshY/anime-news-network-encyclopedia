@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "CITY The Animation",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-03T04:10:28Z",
+    "+@generated-on": "2025-06-21T12:56:09Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "19034"
@@ -46,9 +46,23 @@
             "+@type": "Genres"
         },
         {
+            "+content": "Penniless college student Midori Nagumo lives in an ordinary city filled with not-quite-ordinary people. And as this reckless girl runs about, she sets the city in motion. Midori is in a bit of a bind. She is in debt, and her landlady is trying to shake her down for unpaid rent. Her best friend refuses to loan her cash since she’s wised up to her tricks. Maybe some bullying would help. Or a bit of petty theft. Neither is sustainable. Maybe getting a job would settle things... But working means less time for fun adventures in the big city... <em class=de-emphasized>(from manga)</em>",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "2025-07-06",
             "+@gid": "349890212",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Hello\" by Riho Furui",
+            "+@gid": "3818808194",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Lucky\" by TOMOO",
+            "+@gid": "3181901396",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "『CITY THE ANIMATION』公式サイト",
@@ -78,6 +92,41 @@
             "+content": "<cite>City The Animation</cite> Casts Yū Miyazaki, Ryōta Suzuki",
             "+@datetime": "2025-03-31T10:33:06Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-31/city-the-animation-casts-yu-miyazaki-ryota-suzuki/.223070"
+        },
+        {
+            "+content": "<cite>CITY The Animation</cite> Reveals 2 New Cast Members",
+            "+@datetime": "2025-04-07T10:48:54Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-07/city-the-animation-reveals-2-new-cast-members/.223296"
+        },
+        {
+            "+content": "<cite>CITY The Animation</cite> Adds Yūko Gotō, Jin Domon to Cast",
+            "+@datetime": "2025-04-14T09:45:01Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-14/city-the-animation-adds-yuko-goto-jin-domon-to-cast/.223541"
+        },
+        {
+            "+content": "<cite>CITY The Animation</cite> Adds 2 More Cast Members",
+            "+@datetime": "2025-04-21T10:33:45Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-21/city-the-animation-adds-2-more-cast-members/.223755"
+        },
+        {
+            "+content": "<cite>CITY The Animation</cite> Casts Jun Fukuyama",
+            "+@datetime": "2025-04-28T09:48:59Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-28/city-the-animation-casts-jun-fukuyama/.223988"
+        },
+        {
+            "+content": "<cite>CITY The Animation</cite> Casts Hōchū Ōtsuka as Narrator",
+            "+@datetime": "2025-04-30T09:56:51Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-30/city-the-animation-casts-hochu-otsuka-as-narrator/.224060"
+        },
+        {
+            "+content": "<cite>CITY The Animation</cite> Previews Opening Song in 2nd Trailer Video",
+            "+@datetime": "2025-06-08T08:06:44Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-08/city-the-animation-previews-opening-song-in-2nd-trailer-video/.225303"
+        },
+        {
+            "+content": "<cite>CITY The Animation</cite> to Stream on Amazon Prime Video Worldwide",
+            "+@datetime": "2025-06-14T02:49:45Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-13/city-the-animation-to-stream-on-amazon-prime-video-worldwide/.225575"
         }
     ],
     "staff": [
@@ -156,12 +205,48 @@
     ],
     "cast": [
         {
+            "+@gid": "1546672933",
+            "+@lang": "FR",
+            "role": "Midori Nagumo",
+            "person": {
+                "+content": "Aaricia Dubois",
+                "+@id": "86544"
+            }
+        },
+        {
+            "+@gid": "2022536817",
+            "+@lang": "FR",
+            "role": "Wako Izumi",
+            "person": {
+                "+content": "Marie Du Bled",
+                "+@id": "145504"
+            }
+        },
+        {
+            "+@gid": "2731969082",
+            "+@lang": "FR",
+            "role": "Ayumu Niikura",
+            "person": {
+                "+content": "Marie Braam",
+                "+@id": "164178"
+            }
+        },
+        {
             "+@gid": "2124406470",
             "+@lang": "JA",
             "role": "Adatara's Mother",
             "person": {
                 "+content": "Mayumi Asano",
                 "+@id": "335"
+            }
+        },
+        {
+            "+@gid": "1948112787",
+            "+@lang": "JA",
+            "role": "Nobuteru Tekaridake",
+            "person": {
+                "+content": "Jun Fukuyama",
+                "+@id": "337"
             }
         },
         {
@@ -189,6 +274,33 @@
             "person": {
                 "+content": "Miyu Irino",
                 "+@id": "1207"
+            }
+        },
+        {
+            "+@gid": "2468074698",
+            "+@lang": "JA",
+            "role": "Ii Hito (The Good Guy)",
+            "person": {
+                "+content": "Kiyomitsu Mizuuchi",
+                "+@id": "10932"
+            }
+        },
+        {
+            "+@gid": "2952861826",
+            "+@lang": "JA",
+            "role": "Sumire Sakurakomi Tanabe",
+            "person": {
+                "+content": "Yūko Gotō",
+                "+@id": "12602"
+            }
+        },
+        {
+            "+@gid": "3187386671",
+            "+@lang": "JA",
+            "role": "Hotaka",
+            "person": {
+                "+content": "Jin Domon",
+                "+@id": "15722"
             }
         },
         {
@@ -228,12 +340,30 @@
             }
         },
         {
+            "+@gid": "3046061082",
+            "+@lang": "JA",
+            "role": "Yamato Kurogane",
+            "person": {
+                "+content": "Atsushi Kousaka",
+                "+@id": "68497"
+            }
+        },
+        {
             "+@gid": "1134654886",
             "+@lang": "JA",
             "role": "Midori Nagumo",
             "person": {
                 "+content": "Mikako Komatsu",
                 "+@id": "86961"
+            }
+        },
+        {
+            "+@gid": "2211868794",
+            "+@lang": "JA",
+            "role": "Obaba",
+            "person": {
+                "+content": "Kazutomi Yamamoto",
+                "+@id": "90129"
             }
         },
         {
@@ -282,6 +412,15 @@
             }
         },
         {
+            "+@gid": "2583124810",
+            "+@lang": "JA",
+            "role": "Rindō Obina",
+            "person": {
+                "+content": "Makoto Kaneko",
+                "+@id": "156027"
+            }
+        },
+        {
             "+@gid": "3245684476",
             "+@lang": "JA",
             "role": "Kamome Adatara",
@@ -316,6 +455,51 @@
                 "+content": "Haruna Fukushima",
                 "+@id": "258564"
             }
+        },
+        {
+            "+@gid": "2901661610",
+            "+@lang": "PT",
+            "role": "Wako Izumi",
+            "person": {
+                "+content": "Hannah Buttel",
+                "+@id": "88423"
+            }
+        },
+        {
+            "+@gid": "1442104954",
+            "+@lang": "PT",
+            "role": "Matsuri Makabe",
+            "person": {
+                "+content": "Ana Elena Bittencourt",
+                "+@id": "142593"
+            }
+        },
+        {
+            "+@gid": "1931362762",
+            "+@lang": "PT",
+            "role": "Ayumu Niikura",
+            "person": {
+                "+content": "Linn Jardim",
+                "+@id": "154610"
+            }
+        },
+        {
+            "+@gid": "1770354756",
+            "+@lang": "PT",
+            "role": "Midori Nagumo",
+            "person": {
+                "+content": "Pamella Rodrigues",
+                "+@id": "163354"
+            }
+        },
+        {
+            "+@gid": "2072188312",
+            "+@lang": "PT",
+            "role": "Eri Amakazari",
+            "person": {
+                "+content": "Arthur Carneiro",
+                "+@id": "258326"
+            }
         }
     ],
     "credit": {
@@ -327,6 +511,6 @@
         }
     },
     "+@date-added": "2024-09-21T18:57:27Z",
-    "+@date-last-modified-at": "2025-04-03T04:37:26Z",
-    "+@date-last-updated-at": "2025-04-03T04:37:26Z"
+    "+@date-last-modified-at": "2025-06-21T12:56:10Z",
+    "+@date-last-updated-at": "2025-06-21T12:56:10Z"
 }

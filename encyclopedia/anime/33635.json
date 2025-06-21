@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Mononoke Lecture Logs of Chuzenji-sensei",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-03T02:03:35Z",
+    "+@generated-on": "2025-06-21T12:56:08Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "30355"
@@ -85,6 +85,10 @@
             "+@href": "https://chuzenji-anime.jp/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "6"
+    },
     "news": [
         {
             "+content": "<cite>The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries</cite> Manga Gets Anime in 2025",
@@ -329,17 +333,60 @@
                 "+content": "Hikaru Akao",
                 "+@id": "150594"
             }
+        },
+        {
+            "+@gid": "585706180",
+            "+@lang": "JA",
+            "role": "Eriko Shiroyama",
+            "person": {
+                "+content": "Minori Fujidera",
+                "+@id": "214095"
+            }
         }
     ],
-    "credit": {
-        "+@gid": "3665503323",
-        "task": "Animation Production",
-        "company": {
-            "+content": "100Studio",
-            "+@id": "23734"
+    "credit": [
+        {
+            "+@gid": "3665503323",
+            "task": "Animation Production",
+            "company": {
+                "+content": "100Studio",
+                "+@id": "23734"
+            }
+        },
+        {
+            "+@gid": "2884067076",
+            "task": "Production",
+            "company": {
+                "+content": "Pony Canyon",
+                "+@id": "269"
+            }
+        },
+        {
+            "+@gid": "1163006889",
+            "task": "Production",
+            "company": {
+                "+content": "TV Tokyo Medianet",
+                "+@id": "378"
+            }
+        },
+        {
+            "+@gid": "2832213520",
+            "task": "Production",
+            "company": {
+                "+content": "AT-X",
+                "+@id": "518"
+            }
+        },
+        {
+            "+@gid": "2234296003",
+            "task": "Production",
+            "company": {
+                "+content": "Bit Grooove Promotion",
+                "+@id": "21341"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-10-01T08:12:31Z",
-    "+@date-last-modified-at": "2025-04-03T02:03:36Z",
-    "+@date-last-updated-at": "2025-04-03T02:03:36Z"
+    "+@date-last-modified-at": "2025-06-21T12:56:10Z",
+    "+@date-last-updated-at": "2025-06-21T12:56:10Z"
 }
