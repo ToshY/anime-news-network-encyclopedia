@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Cardfight!! Vanguard Divinez Deluxe-hen",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-03T02:03:34Z",
+    "+@generated-on": "2025-06-21T08:38:23Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32675"
+    },
+    "related-next": {
+        "+@id": "36281",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -74,6 +78,11 @@
             "+content": "<cite>Cardfight!! Vanguard DivineZ Deluxe-hen</cite> Anime's Promo Video Reveals Theme Songs, January 11 Premiere",
             "+@datetime": "2024-12-17T19:34:59Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-17/cardfight-vanguard-divinez-deluxe-hen-anime-promo-video-reveals-theme-songs-january-11-premiere/.219193"
+        },
+        {
+            "+content": "<cite>Cardfight!! Vanguard Divinez Deluxe Arc</cite> Anime's English Dub Premieres on April 25",
+            "+@datetime": "2025-04-18T07:36:41Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-18/cardfight-vanguard-divinez-deluxe-arc-anime-english-dub-premieres-on-april-25/.223664"
         }
     ],
     "staff": [
@@ -203,6 +212,14 @@
             "person": {
                 "+content": "Daigo Yamagishi",
                 "+@id": "79628"
+            }
+        },
+        {
+            "+@gid": "877504262",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Taku Yamada",
+                "+@id": "90823"
             }
         },
         {
@@ -502,11 +519,27 @@
             }
         },
         {
+            "+@gid": "2139755447",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tsuboshi",
+                "+@id": "264815"
+            }
+        },
+        {
             "+@gid": "3883455115",
             "task": "Animation Director",
             "person": {
                 "+content": "Juh Yeong Um",
                 "+@id": "275858"
+            }
+        },
+        {
+            "+@gid": "2064517275",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Di Ne Kim",
+                "+@id": "281568"
             }
         },
         {
@@ -559,6 +592,123 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "1919222973",
+            "+@lang": "EN",
+            "role": "Michiru Hazama",
+            "person": {
+                "+content": "Brett Bauer",
+                "+@id": "32308"
+            }
+        },
+        {
+            "+@gid": "3186201098",
+            "+@lang": "EN",
+            "role": "Suō Yobitsugi",
+            "person": {
+                "+content": "Brett Bauer",
+                "+@id": "32308"
+            }
+        },
+        {
+            "+@gid": "3325009261",
+            "+@lang": "EN",
+            "role": "Senka Kanae",
+            "person": {
+                "+content": "Izumi Kitta",
+                "+@id": "72996"
+            }
+        },
+        {
+            "+@gid": "3835950705",
+            "+@lang": "EN",
+            "role": "Nao",
+            "person": {
+                "+content": "Rocio Barahona",
+                "+@id": "74055"
+            }
+        },
+        {
+            "+@gid": "1617849428",
+            "+@lang": "EN",
+            "role": "Raika Koshiba",
+            "person": {
+                "+content": "Alex Bergen",
+                "+@id": "126262"
+            }
+        },
+        {
+            "+@gid": "3401662149",
+            "+@lang": "EN",
+            "role": "Erika Myōjō",
+            "person": {
+                "+content": "Lexi Ly",
+                "+@id": "173136"
+            }
+        },
+        {
+            "+@gid": "1864604370",
+            "+@lang": "EN",
+            "role": "Kuon Aikawa",
+            "person": {
+                "+content": "Thomas Love",
+                "+@id": "174879"
+            }
+        },
+        {
+            "+@gid": "3889586540",
+            "+@lang": "EN",
+            "role": "Akina Myōdō",
+            "person": {
+                "+content": "Ethan Snowden",
+                "+@id": "175224"
+            }
+        },
+        {
+            "+@gid": "2571363424",
+            "+@lang": "EN",
+            "role": "Gui",
+            "person": {
+                "+content": "Ethan Snowden",
+                "+@id": "175224"
+            }
+        },
+        {
+            "+@gid": "3792271940",
+            "+@lang": "EN",
+            "role": "Suzune Rokuōin",
+            "person": {
+                "+content": "Kimberly Gray",
+                "+@id": "191754"
+            }
+        },
+        {
+            "+@gid": "943007823",
+            "+@lang": "EN",
+            "role": "Megumi Okura",
+            "person": {
+                "+content": "LilyPichu",
+                "+@id": "202846"
+            }
+        },
+        {
+            "+@gid": "1538200606",
+            "+@lang": "EN",
+            "role": "Mirei Minae",
+            "person": {
+                "+content": "Emma Fowler Houghton",
+                "+@id": "213308"
+            }
+        },
+        {
+            "+@gid": "1680083762",
+            "+@lang": "EN",
+            "role": "Kagetsu Yakumo",
+            "person": {
+                "+content": "Nolan Brown",
+                "+@id": "281852"
+            }
+        },
         {
             "+@gid": "2267486255",
             "+@lang": "JA",
@@ -712,6 +862,6 @@
         }
     ],
     "+@date-added": "2024-10-12T08:04:29Z",
-    "+@date-last-modified-at": "2025-04-03T02:03:36Z",
-    "+@date-last-updated-at": "2025-04-03T02:03:36Z"
+    "+@date-last-modified-at": "2025-06-21T08:38:24Z",
+    "+@date-last-updated-at": "2025-06-21T08:38:24Z"
 }

@@ -4,28 +4,37 @@
     "+@type": "TV",
     "+@name": "Beginning After The End",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-03T02:03:34Z",
+    "+@generated-on": "2025-06-21T08:38:22Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "33777"
     },
+    "related-next": {
+        "+@id": "36517",
+        "+@rel": "sequel"
+    },
     "info": [
         {
-            "+@gid": "841783376",
+            "+@gid": "2750753442",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33779-841783376.1741167600.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33779-2750753442.1747589059.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33779-841783376.1741167600.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33779-2750753442.1747589059.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33779-841783376.1741167600.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33779-2750753442.1747589059.jpg",
+                    "+@width": "423",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A33779-2750753442.1747589059.jpg",
+                    "+@width": "550",
+                    "+@height": "780"
                 }
             ]
         },
@@ -53,13 +62,28 @@
             "+@type": "Genres"
         },
         {
+            "+content": "drama",
+            "+@gid": "1802333354",
+            "+@type": "Genres"
+        },
+        {
             "+content": "fantasy",
             "+@gid": "1908292196",
             "+@type": "Genres"
         },
         {
+            "+content": "TA",
+            "+@gid": "3853887092",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "King Grey is a once-powerful ruler reborn as Arthur Leywin, a boy with untapped potential. He discovers that his new life is filled with danger and adventure at every turn. From mastering powerful spells to facing fierce enemies, Arthur must use his skills and wits to protect those he cares about and uncover the secrets of his mysterious reincarnation. Along the way, he finds friendship, challenges, and a destiny that could reshape the very world around him. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "3186263376",
+            "+@type": "Running time"
         },
         {
             "+content": "2025-04-02",
@@ -82,8 +106,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "6"
+        "+@nb_votes": "27",
+        "+@weighted_score": "6.5367",
+        "+@bayesian_score": "6.84178"
     },
     "news": [
         {
@@ -120,6 +145,16 @@
             "+content": "<cite>The Beginning After the End</cite> Anime Reveals seiza's Theme Song in Creditless Ending Sequence Video",
             "+@datetime": "2025-03-30T06:19:54Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-30/the-beginning-after-the-end-anime-reveals-seiza-theme-song-in-creditless-ending-sequence-video/.223031"
+        },
+        {
+            "+content": "<cite>The Beginning After the End</cite> Anime Reveals English Dub Cast, Wednesday Debut",
+            "+@datetime": "2025-04-16T10:11:58Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-16/the-beginning-after-the-end-anime-reveals-english-dub-cast-wednesday-debut/.223598"
+        },
+        {
+            "+content": "<cite>The Beginning After The End</cite> Anime Casts Gen Sato, Shōya Chiba",
+            "+@datetime": "2025-06-16T11:11:28Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-16/the-beginning-after-the-end-anime-casts-gen-sato-shoya-chiba/.225647"
         }
     ],
     "staff": [
@@ -137,6 +172,118 @@
             "person": {
                 "+content": "Takamitsu Kōno",
                 "+@id": "260945"
+            }
+        },
+        {
+            "+@gid": "4157399669",
+            "task": "Script",
+            "person": {
+                "+content": "Tōko Machida",
+                "+@id": "75184"
+            }
+        },
+        {
+            "+@gid": "2917375090",
+            "task": "Script",
+            "person": {
+                "+content": "Satoko Sekine",
+                "+@id": "75686"
+            }
+        },
+        {
+            "+@gid": "3082693580",
+            "task": "Script",
+            "person": {
+                "+content": "Ayumi Sekine",
+                "+@id": "90142"
+            }
+        },
+        {
+            "+@gid": "1447542554",
+            "task": "Script",
+            "person": {
+                "+content": "Takamitsu Kōno",
+                "+@id": "260945"
+            }
+        },
+        {
+            "+@gid": "2696665643",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Keitarō Motonaga",
+                "+@id": "603"
+            }
+        },
+        {
+            "+@gid": "1388847695",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takehiro Nakayama",
+                "+@id": "11246"
+            }
+        },
+        {
+            "+@gid": "516416324",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Bob Shirohata",
+                "+@id": "11408"
+            }
+        },
+        {
+            "+@gid": "2441933497",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Goichi Iwahata",
+                "+@id": "13901"
+            }
+        },
+        {
+            "+@gid": "1565591710",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Honami Inamura",
+                "+@id": "189450"
+            }
+        },
+        {
+            "+@gid": "2068628149",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takashi Iida",
+                "+@id": "243100"
+            }
+        },
+        {
+            "+@gid": "2066115877",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Keitarō Motonaga",
+                "+@id": "603"
+            }
+        },
+        {
+            "+@gid": "1320351139",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shunji Yoshida",
+                "+@id": "3895"
+            }
+        },
+        {
+            "+@gid": "1482252394",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Norihiko Nagahama",
+                "+@id": "30971"
+            }
+        },
+        {
+            "+@gid": "2301050293",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Honami Inamura",
+                "+@id": "189450"
             }
         },
         {
@@ -162,9 +309,203 @@
                 "+content": "Masami Sueoka",
                 "+@id": "90613"
             }
+        },
+        {
+            "+@gid": "3624446283",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Takayuki Chiba",
+                "+@id": "15795"
+            }
+        },
+        {
+            "+@gid": "1993545331",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shinichiro Minami",
+                "+@id": "10708"
+            }
+        },
+        {
+            "+@gid": "1384692850",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Konomi Sakurai",
+                "+@id": "25200"
+            }
+        },
+        {
+            "+@gid": "1720077369",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazuyuki Ikai",
+                "+@id": "35484"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "1375345779",
+            "+@lang": "EN",
+            "role": "Alice Leywin",
+            "person": {
+                "+content": "Colleen Clinkenbeard",
+                "+@id": "20342"
+            }
+        },
+        {
+            "+@gid": "2356181857",
+            "+@lang": "EN",
+            "role": "Sylvia",
+            "person": {
+                "+content": "Lydia Mackay",
+                "+@id": "39188"
+            }
+        },
+        {
+            "+@gid": "1073955373",
+            "+@lang": "EN",
+            "role": "Grey",
+            "person": {
+                "+content": "Christopher Wehkamp",
+                "+@id": "112286"
+            }
+        },
+        {
+            "+@gid": "1794654353",
+            "+@lang": "EN",
+            "role": "Arthur Leywin",
+            "person": {
+                "+content": "Amber May",
+                "+@id": "184798"
+            }
+        },
+        {
+            "+@gid": "2371751800",
+            "+@lang": "EN",
+            "role": "Tessia Eralith",
+            "person": {
+                "+content": "Abigail Blythe",
+                "+@id": "229925"
+            }
+        },
+        {
+            "+@gid": "1845782225",
+            "+@lang": "EN",
+            "role": "Helen Shard",
+            "person": {
+                "+content": "Erin Kelly Noble",
+                "+@id": "234005"
+            }
+        },
+        {
+            "+@gid": "2902747258",
+            "+@lang": "EN",
+            "role": "Reynolds Leywin",
+            "person": {
+                "+content": "Jessie James Grelle",
+                "+@id": "241210"
+            }
+        },
+        {
+            "+@gid": "1363391466",
+            "+@lang": "EN",
+            "role": "Adam Krensh",
+            "person": {
+                "+content": "Nick Huber",
+                "+@id": "253890"
+            }
+        },
+        {
+            "+@gid": "2897604177",
+            "+@lang": "FR",
+            "role": "Durden Walker",
+            "person": {
+                "+content": "Benjamin Thomas",
+                "+@id": "19359"
+            }
+        },
+        {
+            "+@gid": "1097338227",
+            "+@lang": "FR",
+            "role": "Jasmine Flamesworth",
+            "person": {
+                "+content": "Célia Torrens",
+                "+@id": "59628"
+            }
+        },
+        {
+            "+@gid": "3479619452",
+            "+@lang": "FR",
+            "role": "Alice Leywin",
+            "person": {
+                "+content": "Valerie Muzzi",
+                "+@id": "80050"
+            }
+        },
+        {
+            "+@gid": "2932084516",
+            "+@lang": "FR",
+            "role": "Lilia Helstea",
+            "person": {
+                "+content": "Aaricia Dubois",
+                "+@id": "86544"
+            }
+        },
+        {
+            "+@gid": "1203268112",
+            "+@lang": "FR",
+            "role": "Adam Krensh",
+            "person": {
+                "+content": "Olivier premel",
+                "+@id": "126589"
+            }
+        },
+        {
+            "+@gid": "2015199449",
+            "+@lang": "FR",
+            "role": "Arthur Leywin",
+            "person": {
+                "+content": "Ludivine Deworst",
+                "+@id": "152463"
+            }
+        },
+        {
+            "+@gid": "2160690931",
+            "+@lang": "FR",
+            "role": "Grey",
+            "person": {
+                "+content": "Maxime Van Stantfoort",
+                "+@id": "152792"
+            }
+        },
+        {
+            "+@gid": "1768931201",
+            "+@lang": "FR",
+            "role": "Angela Rose",
+            "person": {
+                "+content": "Audrey Devos",
+                "+@id": "164175"
+            }
+        },
+        {
+            "+@gid": "2488384056",
+            "+@lang": "FR",
+            "role": "Tessia Eralith",
+            "person": {
+                "+content": "Catherine Hanotiau",
+                "+@id": "189972"
+            }
+        },
+        {
+            "+@gid": "2265924613",
+            "+@lang": "FR",
+            "role": "Reynolds Leywin",
+            "person": {
+                "+content": "Michaël Conte",
+                "+@id": "281709"
+            }
+        },
         {
             "+@gid": "1939104452",
             "+@lang": "JA",
@@ -275,15 +616,79 @@
             }
         },
         {
+            "+@gid": "2019546847",
+            "task": "Production",
+            "company": {
+                "+content": "Fuji Television Network",
+                "+@id": "30"
+            }
+        },
+        {
+            "+@gid": "1587695096",
+            "task": "Production",
+            "company": {
+                "+content": "MOVIC",
+                "+@id": "52"
+            }
+        },
+        {
+            "+@gid": "2140167531",
+            "task": "Production",
+            "company": {
+                "+content": "AT-X",
+                "+@id": "518"
+            }
+        },
+        {
+            "+@gid": "3094425964",
+            "task": "Production",
+            "company": {
+                "+content": "The Klockworx Co., Ltd.",
+                "+@id": "614"
+            }
+        },
+        {
+            "+@gid": "2891328626",
+            "task": "Production",
+            "company": {
+                "+content": "Hakuhodo Inc.",
+                "+@id": "1310"
+            }
+        },
+        {
+            "+@gid": "2178269824",
+            "task": "Production",
+            "company": {
+                "+content": "Crunchyroll",
+                "+@id": "7606"
+            }
+        },
+        {
             "+@gid": "2560052217",
             "task": "Production",
             "company": {
                 "+content": "Slowcurve Co., Ltd.",
                 "+@id": "8214"
             }
+        },
+        {
+            "+@gid": "1706048862",
+            "task": "Production",
+            "company": {
+                "+content": "Kansai Telecasting Corporation",
+                "+@id": "11907"
+            }
+        },
+        {
+            "+@gid": "3126170544",
+            "task": "Production",
+            "company": {
+                "+content": "bilibili",
+                "+@id": "14614"
+            }
         }
     ],
     "+@date-added": "2024-10-19T23:29:45Z",
-    "+@date-last-modified-at": "2025-04-03T02:03:36Z",
-    "+@date-last-updated-at": "2025-04-03T02:03:36Z"
+    "+@date-last-modified-at": "2025-06-21T08:38:24Z",
+    "+@date-last-updated-at": "2025-06-21T08:38:24Z"
 }

@@ -2,9 +2,9 @@
     "+@id": "33888",
     "+@gid": "1870619853",
     "+@type": "TV",
-    "+@name": "Kaya-chan wa Kowakunai",
+    "+@name": "Kaya-chan Isn't Scary",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-02T04:36:55Z",
+    "+@generated-on": "2025-06-21T08:38:22Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28168"
@@ -30,9 +30,15 @@
             ]
         },
         {
+            "+content": "Kaya-chan Isn't Scary",
+            "+@gid": "403905768",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Kaya-chan wa Kowakunai",
             "+@gid": "1143271878",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -45,17 +51,115 @@
             "+content": "horror",
             "+@gid": "812538944",
             "+@type": "Genres"
+        },
+        {
+            "+content": "TVアニメ『カヤちゃんはコワくない』公式サイト",
+            "+@gid": "3430059190",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://kayachan.com/"
         }
     ],
-    "staff": {
-        "+@gid": "961110196",
-        "task": "Original creator",
-        "person": {
-            "+content": "Tarō Yuri",
-            "+@id": "242053"
+    "news": {
+        "+content": "<cite>Kaya-chan Isn't Scary</cite> Anime Reveals Staff, Cast in 1st Promo Video",
+        "+@datetime": "2025-06-06T10:05:11Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-06-06/kaya-chan-isnt-scary-anime-reveals-staff-cast-in-1st-promo-video/.225199"
+    },
+    "staff": [
+        {
+            "+@gid": "3846498531",
+            "task": "Director",
+            "person": {
+                "+content": "Hiroshi Ikehata",
+                "+@id": "89837"
+            }
+        },
+        {
+            "+@gid": "2057395309",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Shigeru Murakoshi",
+                "+@id": "128991"
+            }
+        },
+        {
+            "+@gid": "2348108724",
+            "task": "Music",
+            "person": {
+                "+content": "Kohta Yamamoto",
+                "+@id": "149306"
+            }
+        },
+        {
+            "+@gid": "2037663651",
+            "task": "Music",
+            "person": {
+                "+content": "Shun Narita",
+                "+@id": "183022"
+            }
+        },
+        {
+            "+@gid": "961110196",
+            "task": "Original creator",
+            "person": {
+                "+content": "Tarō Yuri",
+                "+@id": "242053"
+            }
+        },
+        {
+            "+@gid": "245397491",
+            "task": "Character Design",
+            "person": {
+                "+content": "Tarō Yamada",
+                "+@id": "3577"
+            }
+        },
+        {
+            "+@gid": "3279220750",
+            "task": "Character Design",
+            "person": {
+                "+content": "Hiroyuki Moriguchi",
+                "+@id": "123355"
+            }
+        },
+        {
+            "+@gid": "1308170182",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Yukio Nagasaki",
+                "+@id": "3079"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3281203138",
+            "+@lang": "JA",
+            "role": "Chie Sensei",
+            "person": {
+                "+content": "Maaya Uchida",
+                "+@id": "94314"
+            }
+        },
+        {
+            "+@gid": "1107307898",
+            "+@lang": "JA",
+            "role": "Kaya-chan",
+            "person": {
+                "+content": "Azusa Tachibana",
+                "+@id": "242598"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2912552026",
+        "task": "Animation Production",
+        "company": {
+            "+content": "East Fish Studio",
+            "+@id": "17601"
         }
     },
     "+@date-added": "2024-11-01T03:19:05Z",
-    "+@date-last-modified-at": "2025-04-02T04:36:57Z",
-    "+@date-last-updated-at": "2025-04-02T04:36:57Z"
+    "+@date-last-modified-at": "2025-06-21T08:38:24Z",
+    "+@date-last-updated-at": "2025-06-21T08:38:24Z"
 }
