@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Champignon Witch",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-14T04:35:59Z",
+    "+@generated-on": "2025-06-21T04:39:42Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29158"
@@ -13,18 +13,23 @@
         {
             "+@gid": "2054443203",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34162-2054443203.1734084990.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34162-2054443203.1748601615.jpg",
+            "+@width": "200",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34162-2054443203.1734084990.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34162-2054443203.1748601615.jpg",
+                    "+@width": "200",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34162-2054443203.1734084990.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34162-2054443203.1748601615.jpg",
+                    "+@width": "500",
+                    "+@height": "500"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34162-2054443203.1748601615.jpg",
+                    "+@width": "600",
                     "+@height": "600"
                 }
             ]
@@ -51,17 +56,87 @@
             "+content": "fantasy",
             "+@gid": "3523280793",
             "+@type": "Genres"
+        },
+        {
+            "+content": "2026-01",
+            "+@gid": "773946895",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ「シャンピニオンの魔女」公式サイト",
+            "+@gid": "2684711298",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://champignon-pr.com/"
         }
     ],
-    "staff": {
-        "+@gid": "1143042521",
-        "task": "Original creator",
+    "news": {
+        "+content": "<cite>Champignon Witch</cite> TV Anime's Video Reveals Cast, January 2026 Premiere",
+        "+@datetime": "2025-05-30T09:36:51Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-05-30/champignon-witch-tv-anime-video-reveals-cast-january-2026-premiere/.224946"
+    },
+    "staff": [
+        {
+            "+@gid": "2334151487",
+            "task": "Director",
+            "person": {
+                "+content": "Yōsuke Kubo",
+                "+@id": "92873"
+            }
+        },
+        {
+            "+@gid": "2916499804",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Yūko Kakihara",
+                "+@id": "260892"
+            }
+        },
+        {
+            "+@gid": "1143042521",
+            "task": "Original creator",
+            "person": {
+                "+content": "Tachibana Higuchi",
+                "+@id": "32616"
+            }
+        },
+        {
+            "+@gid": "483843372",
+            "task": "Character Design",
+            "person": {
+                "+content": "Miki Matsumoto",
+                "+@id": "101278"
+            }
+        }
+    ],
+    "cast": {
+        "+@gid": "2248693242",
+        "+@lang": "JA",
+        "role": "Luna",
         "person": {
-            "+content": "Tachibana Higuchi",
-            "+@id": "32616"
+            "+content": "Haruka Shiraishi",
+            "+@id": "104544"
         }
     },
+    "credit": [
+        {
+            "+@gid": "2160554519",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Typhoon Graphics",
+                "+@id": "13498"
+            }
+        },
+        {
+            "+@gid": "2187785190",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Qzil.la",
+                "+@id": "23466"
+            }
+        }
+    ],
     "+@date-added": "2024-12-13T05:15:05Z",
-    "+@date-last-modified-at": "2025-04-14T04:36:05Z",
-    "+@date-last-updated-at": "2025-04-14T04:36:05Z"
+    "+@date-last-modified-at": "2025-06-21T04:39:44Z",
+    "+@date-last-updated-at": "2025-06-21T04:39:44Z"
 }

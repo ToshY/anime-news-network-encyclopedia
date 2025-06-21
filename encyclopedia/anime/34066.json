@@ -4,32 +4,33 @@
     "+@type": "TV",
     "+@name": "Anne Shirley",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-02T02:04:43Z",
-    "related-prev": {
-        "+@rel": "related to",
-        "+@id": "421"
-    },
+    "+@generated-on": "2025-06-21T04:39:43Z",
     "related-next": {
         "+@id": "34249",
         "+@rel": "adaptation"
     },
     "info": [
         {
-            "+@gid": "3155193806",
+            "+@gid": "3839511318",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34066-3155193806.1738734773.jpg",
-            "+@width": "143",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34066-3839511318.1743685514.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34066-3155193806.1738734773.jpg",
-                    "+@width": "143",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34066-3839511318.1743685514.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34066-3155193806.1738734773.jpg",
-                    "+@width": "402",
-                    "+@height": "561"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34066-3839511318.1743685514.jpg",
+                    "+@width": "423",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34066-3839511318.1743685514.jpg",
+                    "+@width": "550",
+                    "+@height": "780"
                 }
             ]
         },
@@ -44,6 +45,41 @@
             "+@gid": "867333795",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "2073077221",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "slice of life",
+            "+@gid": "561505942",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "historical",
+            "+@gid": "2310726125",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "school",
+            "+@gid": "2231477302",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "AA",
+            "+@gid": "1449269737",
+            "+@type": "Objectionable content"
+        },
+        {
+            "+content": "Prince Edward Island is a beautiful, small island in Canada. By mistake, the orphaned Anne Shirley is taken in by the elderly Cuthbert siblings, Marilla and Matthew, at Green Gables. Although they are confused, they are comforted by Anne's imagination, and their bond as a family deepens. She meets Gilbert Blythe, who becomes her constant rival, and Diana Barry, who becomes her confidant. And through her interactions with her classmates, teachers, and the people in the village, the young Anne grows up.",
+            "+@gid": "2445529789",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "3223276802",
+            "+@type": "Running time"
         },
         {
             "+content": "24",
@@ -73,6 +109,10 @@
             "+@href": "https://anime-ann-e.jp/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "5",
+        "+@weighted_score": "7.1769"
+    },
     "news": [
         {
             "+content": "<i>Anne of Green Gables</i> Novels Get New Anime by Answer Studio Next Spring",
@@ -108,6 +148,21 @@
             "+content": "Crunchyroll Streams <cite>The Unaware Atelier Meister</cite>, <cite>Once Upon a Witch's Death</cite>, More Anime in India",
             "+@datetime": "2025-03-22T11:59:20Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-22/crunchyroll-streams-the-unaware-atelier-meister-once-upon-a-witch-death-more-anime-in-india/.222673"
+        },
+        {
+            "+content": "<cite>Fire Force</cite> Season 3, <cite>Anne Shirley</cite> Anime Reveal English Dub Casts",
+            "+@datetime": "2025-04-18T18:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-18/fire-force-season-3-anne-shirley-anime-reveal-english-dub-casts/.223685"
+        },
+        {
+            "+content": "<cite>Metallic Rouge</cite>, <cite>Anne Shirley</cite> Anime Screen in Competition at Annecy",
+            "+@datetime": "2025-06-05T19:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-05/metallic-rouge-anne-shirley-anime-screen-in-competition-at-annecy/.225176"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Summer 2025 Season",
+            "+@datetime": "2025-06-18T17:58:39Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-18/crunchyroll-announces-release-schedule-for-summer-2025-season/.225751"
         }
     ],
     "staff": [
@@ -125,6 +180,22 @@
             "person": {
                 "+content": "Natsuko Takahashi",
                 "+@id": "4629"
+            }
+        },
+        {
+            "+@gid": "2647135997",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Naoko Yamada",
+                "+@id": "39705"
+            }
+        },
+        {
+            "+@gid": "1188932979",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Naoko Yamada",
+                "+@id": "39705"
             }
         },
         {
@@ -190,9 +261,200 @@
                 "+content": "Shinji Saitō",
                 "+@id": "192938"
             }
+        },
+        {
+            "+@gid": "1068459773",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Motoyoshi Tokunaga",
+                "+@id": "8496"
+            }
+        },
+        {
+            "+@gid": "2708365688",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Hiroyuki Tachimoto",
+                "+@id": "126064"
+            }
+        },
+        {
+            "+@gid": "1637807305",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Yōko Matsuzaki",
+                "+@id": "147324"
+            }
+        },
+        {
+            "+@gid": "2927726856",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Genichi Kimura",
+                "+@id": "229320"
+            }
+        },
+        {
+            "+@gid": "3643614340",
+            "task": "Producer",
+            "person": {
+                "+content": "Shigehiko Sato",
+                "+@id": "74600"
+            }
+        },
+        {
+            "+@gid": "3584734562",
+            "task": "Producer",
+            "person": {
+                "+content": "Ikuhiro Kuriyama",
+                "+@id": "111340"
+            }
+        },
+        {
+            "+@gid": "1615459998",
+            "task": "Producer",
+            "person": {
+                "+content": "Mami Nakatani",
+                "+@id": "231522"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "2392524400",
+            "+@lang": "EN",
+            "role": "Marilla Cuthbert",
+            "person": {
+                "+content": "Linda Leonard",
+                "+@id": "64274"
+            }
+        },
+        {
+            "+@gid": "3276790613",
+            "+@lang": "EN",
+            "role": "Matthew Cuthbert",
+            "person": {
+                "+content": "Randy Pearlman",
+                "+@id": "107748"
+            }
+        },
+        {
+            "+@gid": "1167187535",
+            "+@lang": "EN",
+            "role": "Muriel Stacy",
+            "person": {
+                "+content": "Molly Searcy",
+                "+@id": "121492"
+            }
+        },
+        {
+            "+@gid": "2104616446",
+            "+@lang": "EN",
+            "role": "Rachel Lynde",
+            "person": {
+                "+content": "Casey Casper",
+                "+@id": "167481"
+            }
+        },
+        {
+            "+@gid": "1464339103",
+            "+@lang": "EN",
+            "role": "Ruby Gillis",
+            "person": {
+                "+content": "Hayden Daviau",
+                "+@id": "174838"
+            }
+        },
+        {
+            "+@gid": "2276728134",
+            "+@lang": "EN",
+            "role": "Gilbert Blythe",
+            "person": {
+                "+content": "Corey Wilder",
+                "+@id": "235777"
+            }
+        },
+        {
+            "+@gid": "1715949993",
+            "+@lang": "EN",
+            "role": "Anne Shirley",
+            "person": {
+                "+content": "Monica Flatley",
+                "+@id": "240600"
+            }
+        },
+        {
+            "+@gid": "774368969",
+            "+@lang": "EN",
+            "role": "Jane Andrews",
+            "person": {
+                "+content": "Rebecca Danae",
+                "+@id": "249604"
+            }
+        },
+        {
+            "+@gid": "2747400414",
+            "+@lang": "EN",
+            "role": "Diana Barry",
+            "person": {
+                "+content": "Amanda Gael",
+                "+@id": "259198"
+            }
+        },
+        {
+            "+@gid": "3050804651",
+            "+@lang": "ES",
+            "role": "Anne Shirley",
+            "person": {
+                "+content": "Annie Rojas",
+                "+@id": "129768"
+            }
+        },
+        {
+            "+@gid": "2299336989",
+            "+@lang": "ES",
+            "role": "Rachel Lynde",
+            "person": {
+                "+content": "Mariana de Iraola",
+                "+@id": "146907"
+            }
+        },
+        {
+            "+@gid": "1542073686",
+            "+@lang": "ES",
+            "role": "Gilbert Blythe",
+            "person": {
+                "+content": "Diego Becerril",
+                "+@id": "171065"
+            }
+        },
+        {
+            "+@gid": "2598875540",
+            "+@lang": "ES",
+            "role": "Diana Barry",
+            "person": {
+                "+content": "Micaela Oddera",
+                "+@id": "203816"
+            }
+        },
+        {
+            "+@gid": "1108166828",
+            "+@lang": "ES",
+            "role": "Marilla Cuthbert",
+            "person": {
+                "+content": "Sara Souza",
+                "+@id": "208658"
+            }
+        },
+        {
+            "+@gid": "1543542144",
+            "+@lang": "ES",
+            "role": "Matthew Cuthbert",
+            "person": {
+                "+content": "Rene Sagatsume",
+                "+@id": "281880"
+            }
+        },
         {
             "+@gid": "2551339299",
             "+@lang": "JA",
@@ -200,6 +462,24 @@
             "person": {
                 "+content": "Yasunori Matsumoto",
                 "+@id": "499"
+            }
+        },
+        {
+            "+@gid": "3081967053",
+            "+@lang": "JA",
+            "role": "Muriel Stacy",
+            "person": {
+                "+content": "Fumiko Orikasa",
+                "+@id": "912"
+            }
+        },
+        {
+            "+@gid": "2809729907",
+            "+@lang": "JA",
+            "role": "Rachel Lynde",
+            "person": {
+                "+content": "Kimiko Saitō",
+                "+@id": "3224"
             }
         },
         {
@@ -212,12 +492,39 @@
             }
         },
         {
+            "+@gid": "1677934328",
+            "+@lang": "JA",
+            "role": "Josie Pye",
+            "person": {
+                "+content": "Aki Sasamori",
+                "+@id": "57807"
+            }
+        },
+        {
             "+@gid": "1622991629",
             "+@lang": "JA",
             "role": "J.A. Harrison",
             "person": {
                 "+content": "Hikari Ōta",
                 "+@id": "86138"
+            }
+        },
+        {
+            "+@gid": "1489133467",
+            "+@lang": "JA",
+            "role": "Ruby Gillis",
+            "person": {
+                "+content": "Sora Amamiya",
+                "+@id": "119743"
+            }
+        },
+        {
+            "+@gid": "1405369232",
+            "+@lang": "JA",
+            "role": "Charlie Sloane",
+            "person": {
+                "+content": "Chiharu Sawashiro",
+                "+@id": "124336"
             }
         },
         {
@@ -239,6 +546,15 @@
             }
         },
         {
+            "+@gid": "1171800922",
+            "+@lang": "JA",
+            "role": "Jane Andrews",
+            "person": {
+                "+content": "Sayaka Kikuchi",
+                "+@id": "191669"
+            }
+        },
+        {
             "+@gid": "2331314302",
             "+@lang": "JA",
             "role": "Gilbert Blythe",
@@ -246,17 +562,68 @@
                 "+content": "Naoya Miyase",
                 "+@id": "193424"
             }
+        },
+        {
+            "+@gid": "2670250091",
+            "+@lang": "JA",
+            "role": "Fred Wright",
+            "person": {
+                "+content": "Kazuki Takeuchi",
+                "+@id": "277180"
+            }
         }
     ],
-    "credit": {
-        "+@gid": "3150128988",
-        "task": "Animation Production",
-        "company": {
-            "+content": "The Answer Studio",
-            "+@id": "26116"
+    "credit": [
+        {
+            "+@gid": "2246048915",
+            "task": "Animation Production",
+            "company": {
+                "+content": "The Answer Studio",
+                "+@id": "6851"
+            }
+        },
+        {
+            "+@gid": "3150128988",
+            "task": "Animation Production",
+            "company": {
+                "+content": "The Answer Studio",
+                "+@id": "26116"
+            }
+        },
+        {
+            "+@gid": "2168494219",
+            "task": "Production",
+            "company": {
+                "+content": "Fuji Television Network",
+                "+@id": "30"
+            }
+        },
+        {
+            "+@gid": "2240243337",
+            "task": "Production",
+            "company": {
+                "+content": "Fuji Creative Corporation",
+                "+@id": "1281"
+            }
+        },
+        {
+            "+@gid": "585480768",
+            "task": "Production",
+            "company": {
+                "+content": "Fujipacific Music",
+                "+@id": "13880"
+            }
+        },
+        {
+            "+@gid": "2463488898",
+            "task": "Production",
+            "company": {
+                "+content": "The Answer Studio",
+                "+@id": "26116"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-11-20T01:03:24Z",
-    "+@date-last-modified-at": "2025-04-02T02:04:45Z",
-    "+@date-last-updated-at": "2025-04-02T02:04:45Z"
+    "+@date-last-modified-at": "2025-06-21T04:39:44Z",
+    "+@date-last-updated-at": "2025-06-21T04:39:44Z"
 }

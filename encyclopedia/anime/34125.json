@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "Mobile Suit Gundam GQuuuuuuX",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-05T04:34:29Z",
-    "related-prev": {
-        "+@rel": "part of",
-        "+@id": "4189"
-    },
+    "+@generated-on": "2025-06-21T04:39:43Z",
+    "related-prev": [
+        {
+            "+@rel": "alternate retelling of",
+            "+@id": "46"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "4189"
+        }
+    ],
     "related-next": {
         "+@id": "34126",
         "+@rel": "compilation"
@@ -52,9 +58,34 @@
             "+@lang": "JA"
         },
         {
+            "+content": "action",
+            "+@gid": "1210684813",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "science fiction",
+            "+@gid": "1418439061",
+            "+@type": "Genres"
+        },
+        {
             "+content": "mecha",
             "+@gid": "2093356489",
             "+@type": "Themes"
+        },
+        {
+            "+content": "military",
+            "+@gid": "3147167081",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "real robot",
+            "+@gid": "3063491537",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "1584744919",
+            "+@type": "Objectionable content"
         },
         {
             "+content": "Amate Yuzuriha is a high-school student living peacefully in a space colony floating in outer space. When she meets a war refugee named Nyaan, Amate is drawn into the illegal mobile suit dueling sport known as Clan Battle. Under the entry name \"Machu,\" she throws herself into fierce battle day after day, piloting the GQuuuuuuX. Then, an unidentified Gundam mobile suit pursued by both the space force and the police appears before her, along with its pilot, a boy named Shūji.",
@@ -62,8 +93,8 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2025-04-08",
-            "+@gid": "1238127189",
+            "+content": "2025-04-08 to 2025-06-25",
+            "+@gid": "445508010",
             "+@type": "Vintage"
         },
         {
@@ -72,11 +103,158 @@
             "+@type": "Opening Theme"
         },
         {
+            "+content": "\"Mōdōnatte mo Ii ya\" (もうどうなってもいいや; \"I Don't Care What Happens Anymore\") by Hoshimachi Suisei",
+            "+@gid": "1926845771",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#2: \"Beyond the Time ~Möbius no Sora wo Koete~\" (BEYOND THE TIME ~メビウスの宇宙を越えて~) by TM Network (ep 11)",
+            "+@gid": "241141242",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"HALO\" by Nomelon Nolemon (ep 7)",
+            "+@gid": "1538869682",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Hoshīmono Subete\" (欲しいものすべて; All I Want) by Orika Okachi (ep 4)",
+            "+@gid": "1112506723",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Kienai\" (きえない; Afterimage) by NOMELON NOLEMON (eps 6-7)",
+            "+@gid": "3693849720",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Midnight Reflection\" (ミッドナイト・リフレクション) by NOMELON NOLEMON (ep 1)",
+            "+@gid": "2837052745",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Natsu no Genzaichi\" (夏の現在地; Summer of the Mirage) by Orika Okachi (ep 5)",
+            "+@gid": "2576230193",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Suisō no Machi Kara\" (水槽の街から; From the Aquarium City) by Miki Maria (ep 5)",
+            "+@gid": "613910946",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Yoru ni Saku\" (夜に咲く; \"Blooms in the Night\") by Hoshimachi Suisei (ep 3)",
+            "+@gid": "2002207920",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "機動戦士Gundam GQuuuuuuX(ジークアクス) 公式サイト",
             "+@gid": "4158321609",
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://www.gundam.info/feature/gquuuuuux/"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "5",
+        "+@weighted_score": "5.6883"
+    },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "The Red Gundam",
+                "+@gid": "1599361055",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "The White Gundam",
+                "+@gid": "1890766939",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "Machu in Clan Battle",
+                "+@gid": "2208516568",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "The Witch's War",
+                "+@gid": "2827552408",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "Nyaan Doesn't Know About Kira-Kira",
+                "+@gid": "1760710117",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "The Plot to Assassinate Kycilia",
+                "+@gid": "2756316278",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "Machu's Rebellion",
+                "+@gid": "2157888094",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "Falling on the Moon",
+                "+@gid": "2437493309",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "The Rose of Sharon",
+                "+@gid": "3007613848",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "Yomagn'tho Blockade",
+                "+@gid": "725364885",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "Alphacide",
+                "+@gid": "2288137957",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "That's Why I...",
+                "+@gid": "3402889418",
+                "+@lang": "EN"
+            }
         }
     ],
     "review": {
@@ -128,6 +306,66 @@
             "+content": "<cite>Gundam GQuuuuuuX</cite> TV Anime Reveals New Promo Reel, Confirms Theme Songs",
             "+@datetime": "2025-03-23T08:00:16Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-23/gundam-gquuuuuux-tv-anime-reveals-new-promo-reel-confirms-theme-songs/.222764"
+        },
+        {
+            "+content": "<cite>Gundam GQuuuuuuX</cite> TV Anime Reveals English Cast for Same-Day Dub",
+            "+@datetime": "2025-04-08T18:45:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-08/gundam-gquuuuuux-tv-anime-reveals-english-cast-for-same-day-dub/.223341"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, April 7-13",
+            "+@datetime": "2025-04-19T19:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-19/japanese-animation-tv-ranking-april-7-13/.223694"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, April 14-20",
+            "+@datetime": "2025-04-26T15:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-26/japanese-animation-tv-ranking-april-14-20/.223902"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, April 21-27",
+            "+@datetime": "2025-05-02T20:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-02/japanese-animation-tv-ranking-april-21-27/.224127"
+        },
+        {
+            "+content": "Anime Expo Hosts <cite>Mobile Suit Gundam GQuuuuuuX</cite> Staff, Naohiro Ogata, Peach-Pit, More",
+            "+@datetime": "2025-05-12T19:11:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-12/anime-expo-hosts-mobile-suit-gundam-gquuuuuux-staff-naohiro-ogata-peach-pit-more/.224386"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, April 28-May 4",
+            "+@datetime": "2025-05-15T14:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-15/japanese-animation-tv-ranking-april-28-may-4/.224465"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, May 5-11",
+            "+@datetime": "2025-05-17T14:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-17/japanese-animation-tv-ranking-may-5-11/.224504"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, May 12-18",
+            "+@datetime": "2025-05-24T14:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-24/japanese-animation-tv-ranking-may-12-18/.224722"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, May 26-June 1",
+            "+@datetime": "2025-06-07T14:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-07/japanese-animation-tv-ranking-may-26-june-1/.225161"
+        },
+        {
+            "+content": "Anime Expo Hosts More <cite>Gundam GQuuuuuuX</cite> Cast Members, Sasara Sekine",
+            "+@datetime": "2025-06-11T19:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-11/anime-expo-hosts-more-gundam-gquuuuuux-cast-members-sasara-sekine/.225422"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, June 2-8",
+            "+@datetime": "2025-06-14T22:05:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-14/japanese-animation-tv-ranking-june-2-8/.225577"
+        },
+        {
+            "+content": "<cite>Gundam GQuuuuuuX</cite> Anime Unveils New Version of TM Network's Insert Song",
+            "+@datetime": "2025-06-18T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-18/gundam-gquuuuuux-anime-unveils-new-version-of-tm-network-insert-song/.225759"
         }
     ],
     "staff": [
@@ -188,11 +426,99 @@
             }
         },
         {
+            "+@gid": "1754654384",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tetsuro Araki",
+                "+@id": "21259"
+            }
+        },
+        {
             "+@gid": "3041490149",
             "task": "Storyboard",
             "person": {
                 "+content": "Tōko Yatabe",
                 "+@id": "148167"
+            }
+        },
+        {
+            "+@gid": "2401844626",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kazuya Tsurumaki",
+                "+@id": "172"
+            }
+        },
+        {
+            "+@gid": "3509837109",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tetsuro Araki",
+                "+@id": "21259"
+            }
+        },
+        {
+            "+@gid": "2666408359",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Daizen Komatsuda",
+                "+@id": "33486"
+            }
+        },
+        {
+            "+@gid": "2041638324",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tōko Yatabe",
+                "+@id": "148167"
+            }
+        },
+        {
+            "+@gid": "836204294",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kohei Kuratomi",
+                "+@id": "184877"
+            }
+        },
+        {
+            "+@gid": "1277663594",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shinnosuke Itō",
+                "+@id": "188131"
+            }
+        },
+        {
+            "+@gid": "3836044525",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Kazuya Tsurumaki",
+                "+@id": "172"
+            }
+        },
+        {
+            "+@gid": "3322400709",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Tōko Yatabe",
+                "+@id": "148167"
+            }
+        },
+        {
+            "+@gid": "3054608969",
+            "task": "Music",
+            "person": {
+                "+content": "Yoshimasa Terui",
+                "+@id": "178304"
+            }
+        },
+        {
+            "+@gid": "589998642",
+            "task": "Music",
+            "person": {
+                "+content": "Masayuki Hasuo",
+                "+@id": "273850"
             }
         },
         {
@@ -212,15 +538,805 @@
             }
         },
         {
+            "+@gid": "2640357795",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Yoshikazu Yasuhiko",
+                "+@id": "705"
+            }
+        },
+        {
             "+@gid": "2040291686",
             "task": "Character Design",
             "person": {
                 "+content": "Take",
                 "+@id": "85937"
             }
+        },
+        {
+            "+@gid": "2158476315",
+            "task": "Art Director",
+            "person": {
+                "+content": "Hiroshi Katō",
+                "+@id": "16"
+            }
+        },
+        {
+            "+@gid": "2330381661",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hidenori Matsubara",
+                "+@id": "290"
+            }
+        },
+        {
+            "+@gid": "1874028204",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mayumi Nakamura",
+                "+@id": "18944"
+            }
+        },
+        {
+            "+@gid": "2613084361",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yumi Ikeda",
+                "+@id": "124931"
+            }
+        },
+        {
+            "+@gid": "3162829837",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Fumie Kobori",
+                "+@id": "154608"
+            }
+        },
+        {
+            "+@gid": "629788553",
+            "task": "Translation",
+            "person": {
+                "+content": "Dan Kanemitsu",
+                "+@id": "354"
+            }
+        },
+        {
+            "+@gid": "3086966383",
+            "task": "Animation Character Design",
+            "person": {
+                "+content": "Yumi Ikeda",
+                "+@id": "124931"
+            }
+        },
+        {
+            "+@gid": "1084837205",
+            "task": "Animation Character Design",
+            "person": {
+                "+content": "Fumie Kobori",
+                "+@id": "154608"
+            }
+        },
+        {
+            "+@gid": "1487615217",
+            "task": "Mechanical design",
+            "person": {
+                "+content": "Ikuto Yamashita",
+                "+@id": "3734"
+            }
+        },
+        {
+            "+@gid": "2801372281",
+            "task": "Mechanical design",
+            "person": {
+                "+content": "Se Jun Kim",
+                "+@id": "60283"
+            }
+        },
+        {
+            "+@gid": "3293848398",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Haru Yamada",
+                "+@id": "135072"
+            }
+        },
+        {
+            "+@gid": "1857431607",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Takashi Suzuki",
+                "+@id": "172491"
+            }
+        },
+        {
+            "+@gid": "2979199959",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Takahiro Maruyama",
+                "+@id": "244050"
+            }
+        },
+        {
+            "+@gid": "3625273082",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Kazuya Yamazaki",
+                "+@id": "244625"
+            }
+        },
+        {
+            "+@gid": "2467769856",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Hitoshi Minami",
+                "+@id": "283552"
+            }
+        },
+        {
+            "+@gid": "1541964139",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Tomoyuki Shiokawa",
+                "+@id": "46553"
+            }
+        },
+        {
+            "+@gid": "1344676607",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Naohiro Ogata",
+                "+@id": "79788"
+            }
+        },
+        {
+            "+@gid": "1999979674",
+            "task": "Producer",
+            "person": {
+                "+content": "Keisuke Kasai",
+                "+@id": "132195"
+            }
+        },
+        {
+            "+@gid": "2611224376",
+            "task": "Producer",
+            "person": {
+                "+content": "Masayuki Banzai",
+                "+@id": "220916"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "1630303307",
+            "+@lang": "EN",
+            "role": "Annqi",
+            "person": {
+                "+content": "Meredith Zeitlin",
+                "+@id": "64886"
+            }
+        },
+        {
+            "+@gid": "2424389589",
+            "+@lang": "EN",
+            "role": "Kaine",
+            "person": {
+                "+content": "Casey Mongillo",
+                "+@id": "74826"
+            }
+        },
+        {
+            "+@gid": "1250112863",
+            "+@lang": "EN",
+            "role": "Char Aznable",
+            "person": {
+                "+content": "Kyle McCarley",
+                "+@id": "135130"
+            }
+        },
+        {
+            "+@gid": "2096622923",
+            "+@lang": "EN",
+            "role": "Xavier Olivette",
+            "person": {
+                "+content": "Ry McKeand",
+                "+@id": "171465"
+            }
+        },
+        {
+            "+@gid": "3072950076",
+            "+@lang": "EN",
+            "role": "Nyaan",
+            "person": {
+                "+content": "Anairis Quiñones",
+                "+@id": "184795"
+            }
+        },
+        {
+            "+@gid": "2573687812",
+            "+@lang": "EN",
+            "role": "Shuji Ito",
+            "person": {
+                "+content": "Paul Castro Jr.",
+                "+@id": "204899"
+            }
+        },
+        {
+            "+@gid": "1720956874",
+            "+@lang": "EN",
+            "role": "Comoli Harcourt",
+            "person": {
+                "+content": "Cat Protano",
+                "+@id": "212023"
+            }
+        },
+        {
+            "+@gid": "2158370877",
+            "+@lang": "EN",
+            "role": "HARO",
+            "person": {
+                "+content": "Ellie Dritch",
+                "+@id": "215961"
+            }
+        },
+        {
+            "+@gid": "2868656089",
+            "+@lang": "EN",
+            "role": "Tamaki Yuzuriha",
+            "person": {
+                "+content": "Jennifer Sun Bell",
+                "+@id": "229690"
+            }
+        },
+        {
+            "+@gid": "1925559752",
+            "+@lang": "EN",
+            "role": "Jezzi",
+            "person": {
+                "+content": "Jack De Sena",
+                "+@id": "265635"
+            }
+        },
+        {
+            "+@gid": "795724666",
+            "+@lang": "EN",
+            "role": "Amate Yuzuriha / Machu",
+            "person": {
+                "+content": "Thea Saccoliti",
+                "+@id": "280936"
+            }
+        },
+        {
+            "+@gid": "2580559657",
+            "+@lang": "EN",
+            "role": "Nabu",
+            "person": {
+                "+content": "Harley Yeager",
+                "+@id": "280939"
+            }
+        },
+        {
+            "+@gid": "2040540428",
+            "+@lang": "EN",
+            "role": "Challia Bull",
+            "person": {
+                "+content": "Fajer Al-Kaisi",
+                "+@id": "281866"
+            }
+        },
+        {
+            "+@gid": "2595531102",
+            "+@lang": "ES",
+            "role": "Challia Bull",
+            "person": {
+                "+content": "Enrique Cervantes",
+                "+@id": "3759"
+            }
+        },
+        {
+            "+@gid": "2613139392",
+            "+@lang": "ES",
+            "role": "Kycilia Zabi",
+            "person": {
+                "+content": "Erika Rendón",
+                "+@id": "24147"
+            }
+        },
+        {
+            "+@gid": "1929562879",
+            "+@lang": "ES",
+            "role": "Jezzi",
+            "person": {
+                "+content": "Rolando De la Fuente",
+                "+@id": "31134"
+            }
+        },
+        {
+            "+@gid": "3174792384",
+            "+@lang": "ES",
+            "role": "Xavier Olivette",
+            "person": {
+                "+content": "Adolfo Moreno",
+                "+@id": "50916"
+            }
+        },
+        {
+            "+@gid": "937524058",
+            "+@lang": "ES",
+            "role": "Challia Bull",
+            "person": {
+                "+content": "Juan Antonio Arroyo",
+                "+@id": "59617"
+            }
+        },
+        {
+            "+@gid": "3572272212",
+            "+@lang": "ES",
+            "role": "Char Aznable",
+            "person": {
+                "+content": "Roberto Cuenca Rodríguez Jr.",
+                "+@id": "62598"
+            }
+        },
+        {
+            "+@gid": "2428624518",
+            "+@lang": "ES",
+            "role": "Nyaan",
+            "person": {
+                "+content": "Sara Heras",
+                "+@id": "80806"
+            }
+        },
+        {
+            "+@gid": "2464467326",
+            "+@lang": "ES",
+            "role": "Kaine",
+            "person": {
+                "+content": "Carlos Bautista",
+                "+@id": "86471"
+            }
+        },
+        {
+            "+@gid": "1796586049",
+            "+@lang": "ES",
+            "role": "Annqi",
+            "person": {
+                "+content": "Ana de Castro",
+                "+@id": "89563"
+            }
+        },
+        {
+            "+@gid": "703362197",
+            "+@lang": "ES",
+            "role": "Nabu",
+            "person": {
+                "+content": "Víctor Ruiz",
+                "+@id": "116583"
+            }
+        },
+        {
+            "+@gid": "1677136545",
+            "+@lang": "ES",
+            "role": "Shuji Ito",
+            "person": {
+                "+content": "Carlos Larios",
+                "+@id": "120592"
+            }
+        },
+        {
+            "+@gid": "1936256226",
+            "+@lang": "ES",
+            "role": "Comoli Harcourt",
+            "person": {
+                "+content": "Dolores Mondragón",
+                "+@id": "133264"
+            }
+        },
+        {
+            "+@gid": "1535347243",
+            "+@lang": "ES",
+            "role": "Jezzi",
+            "person": {
+                "+content": "Jesús Pinillos",
+                "+@id": "138434"
+            }
+        },
+        {
+            "+@gid": "4171787178",
+            "+@lang": "ES",
+            "role": "Xavier Olivette",
+            "person": {
+                "+content": "Alejandro Bono",
+                "+@id": "154163"
+            }
+        },
+        {
+            "+@gid": "2376003665",
+            "+@lang": "ES",
+            "role": "Annqi",
+            "person": {
+                "+content": "Jennifer Medel",
+                "+@id": "155499"
+            }
+        },
+        {
+            "+@gid": "1896203807",
+            "+@lang": "ES",
+            "role": "Haro",
+            "person": {
+                "+content": "Sandra Olarra",
+                "+@id": "155779"
+            }
+        },
+        {
+            "+@gid": "1854964264",
+            "+@lang": "ES",
+            "role": "Char Aznable",
+            "person": {
+                "+content": "Óscar López",
+                "+@id": "179981"
+            }
+        },
+        {
+            "+@gid": "2839214811",
+            "+@lang": "ES",
+            "role": "Shuji Ito",
+            "person": {
+                "+content": "Ivan Garcia",
+                "+@id": "192735"
+            }
+        },
+        {
+            "+@gid": "2268218215",
+            "+@lang": "ES",
+            "role": "Amate Yuzuriha",
+            "person": {
+                "+content": "Valeria Mejía",
+                "+@id": "203266"
+            }
+        },
+        {
+            "+@gid": "3770674604",
+            "+@lang": "ES",
+            "role": "Nyaan",
+            "person": {
+                "+content": "Melissa Hernández",
+                "+@id": "208960"
+            }
+        },
+        {
+            "+@gid": "1409496627",
+            "+@lang": "ES",
+            "role": "Nabu",
+            "person": {
+                "+content": "Michel Tejerina",
+                "+@id": "213553"
+            }
+        },
+        {
+            "+@gid": "2153400305",
+            "+@lang": "ES",
+            "role": "Amate Yuzuriha",
+            "person": {
+                "+content": "Irene Valadés",
+                "+@id": "221722"
+            }
+        },
+        {
+            "+@gid": "3336011436",
+            "+@lang": "ES",
+            "role": "Lalah Sune",
+            "person": {
+                "+content": "Julia Bilous",
+                "+@id": "229045"
+            }
+        },
+        {
+            "+@gid": "1508876696",
+            "+@lang": "ES",
+            "role": "Kaine",
+            "person": {
+                "+content": "Alex Delint",
+                "+@id": "246333"
+            }
+        },
+        {
+            "+@gid": "2847529142",
+            "+@lang": "FR",
+            "role": "Nyaan",
+            "person": {
+                "+content": "Claire Tefnin",
+                "+@id": "53859"
+            }
+        },
+        {
+            "+@gid": "1208372935",
+            "+@lang": "FR",
+            "role": "Char Aznable",
+            "person": {
+                "+content": "Philippe Allard",
+                "+@id": "53861"
+            }
+        },
+        {
+            "+@gid": "2688290934",
+            "+@lang": "FR",
+            "role": "Kycilia Zabi",
+            "person": {
+                "+content": "Fabienne Loriaux",
+                "+@id": "58717"
+            }
+        },
+        {
+            "+@gid": "2551985591",
+            "+@lang": "FR",
+            "role": "Comoli Harcourt",
+            "person": {
+                "+content": "Nancy Philippot",
+                "+@id": "109491"
+            }
+        },
+        {
+            "+@gid": "3196019487",
+            "+@lang": "FR",
+            "role": "Jezzi",
+            "person": {
+                "+content": "Pierre Le Bec",
+                "+@id": "120795"
+            }
+        },
+        {
+            "+@gid": "921000784",
+            "+@lang": "FR",
+            "role": "Annqi",
+            "person": {
+                "+content": "Sophie Frison",
+                "+@id": "124498"
+            }
+        },
+        {
+            "+@gid": "3874882598",
+            "+@lang": "FR",
+            "role": "Xavier Olivette",
+            "person": {
+                "+content": "Alexis Flamant",
+                "+@id": "124896"
+            }
+        },
+        {
+            "+@gid": "1797657435",
+            "+@lang": "FR",
+            "role": "Amate \"Machu\" Yuzuriha",
+            "person": {
+                "+content": "Alayin Dubois",
+                "+@id": "134762"
+            }
+        },
+        {
+            "+@gid": "771880470",
+            "+@lang": "FR",
+            "role": "Haro",
+            "person": {
+                "+content": "Marie Du Bled",
+                "+@id": "145504"
+            }
+        },
+        {
+            "+@gid": "3327941208",
+            "+@lang": "FR",
+            "role": "Challia Bull",
+            "person": {
+                "+content": "Maxime Van Stantfoort",
+                "+@id": "152792"
+            }
+        },
+        {
+            "+@gid": "1579385364",
+            "+@lang": "FR",
+            "role": "Nabu",
+            "person": {
+                "+content": "Jonathan Simon",
+                "+@id": "176972"
+            }
+        },
+        {
+            "+@gid": "984216035",
+            "+@lang": "FR",
+            "role": "Kaine",
+            "person": {
+                "+content": "Arthur Dubois",
+                "+@id": "213181"
+            }
+        },
+        {
+            "+@gid": "2099686466",
+            "+@lang": "FR",
+            "role": "Rassit",
+            "person": {
+                "+content": "Julie Dieu",
+                "+@id": "217020"
+            }
+        },
+        {
+            "+@gid": "993691322",
+            "+@lang": "FR",
+            "role": "Shūji Itō",
+            "person": {
+                "+content": "Valentin Vanstechelman",
+                "+@id": "273368"
+            }
+        },
+        {
+            "+@gid": "2158797021",
+            "+@lang": "IT",
+            "role": "Challia Bull",
+            "person": {
+                "+content": "Simone D'Andrea",
+                "+@id": "18128"
+            }
+        },
+        {
+            "+@gid": "3699447617",
+            "+@lang": "IT",
+            "role": "Kycilia Zabi",
+            "person": {
+                "+content": "Rossella Acerbo",
+                "+@id": "26004"
+            }
+        },
+        {
+            "+@gid": "499584212",
+            "+@lang": "IT",
+            "role": "Shiiko Sugai",
+            "person": {
+                "+content": "Letizia Ciampa",
+                "+@id": "27425"
+            }
+        },
+        {
+            "+@gid": "2735780942",
+            "+@lang": "IT",
+            "role": "Mulligan",
+            "person": {
+                "+content": "David Chevalier",
+                "+@id": "35847"
+            }
+        },
+        {
+            "+@gid": "2968199756",
+            "+@lang": "IT",
+            "role": "Jezzi",
+            "person": {
+                "+content": "Francesco Venditti",
+                "+@id": "50872"
+            }
+        },
+        {
+            "+@gid": "2255067885",
+            "+@lang": "IT",
+            "role": "Xavier Olivette",
+            "person": {
+                "+content": "Flavio Aquilone",
+                "+@id": "51269"
+            }
+        },
+        {
+            "+@gid": "3974265314",
+            "+@lang": "IT",
+            "role": "Nabu",
+            "person": {
+                "+content": "Manuel Meli",
+                "+@id": "59722"
+            }
+        },
+        {
+            "+@gid": "1190127632",
+            "+@lang": "IT",
+            "role": "Annqi",
+            "person": {
+                "+content": "Valentina Favazza",
+                "+@id": "61334"
+            }
+        },
+        {
+            "+@gid": "2122231190",
+            "+@lang": "IT",
+            "role": "Lalah Sune",
+            "person": {
+                "+content": "Joy Saltarelli",
+                "+@id": "70851"
+            }
+        },
+        {
+            "+@gid": "2376334439",
+            "+@lang": "IT",
+            "role": "Char Aznable",
+            "person": {
+                "+content": "Alessandro Campaiola Ward",
+                "+@id": "103411"
+            }
+        },
+        {
+            "+@gid": "2547007410",
+            "+@lang": "IT",
+            "role": "Amate Yuzuriha / Machu",
+            "person": {
+                "+content": "Emanuela Ionica",
+                "+@id": "113996"
+            }
+        },
+        {
+            "+@gid": "896301665",
+            "+@lang": "IT",
+            "role": "Nyaan",
+            "person": {
+                "+content": "Rossa Caputo",
+                "+@id": "131043"
+            }
+        },
+        {
+            "+@gid": "2159266947",
+            "+@lang": "IT",
+            "role": "Char Aznable",
+            "person": {
+                "+content": "Alessandro Campaiola",
+                "+@id": "131277"
+            }
+        },
+        {
+            "+@gid": "2355178747",
+            "+@lang": "IT",
+            "role": "Kaine",
+            "person": {
+                "+content": "Andrea Di Maggio",
+                "+@id": "144553"
+            }
+        },
+        {
+            "+@gid": "2557948853",
+            "+@lang": "IT",
+            "role": "Shuuji",
+            "person": {
+                "+content": "Federico Campaiola",
+                "+@id": "145398"
+            }
+        },
+        {
+            "+@gid": "1222341046",
+            "+@lang": "IT",
+            "role": "Char Aznable",
+            "person": {
+                "+content": "Gabriele Vender",
+                "+@id": "174805"
+            }
+        },
+        {
+            "+@gid": "1223658913",
+            "+@lang": "IT",
+            "role": "Comoli Harcourt",
+            "person": {
+                "+content": "Alice Venditti",
+                "+@id": "174954"
+            }
+        },
+        {
+            "+@gid": "1989596510",
+            "+@lang": "IT",
+            "role": "Haro",
+            "person": {
+                "+content": "Beatrice Manfredi",
+                "+@id": "265447"
+            }
+        },
+        {
+            "+@gid": "2340400512",
+            "+@lang": "JA",
+            "role": "Kycilia Zabi",
+            "person": {
+                "+content": "Kaori Nazuka",
+                "+@id": "439"
+            }
+        },
         {
             "+@gid": "2491822588",
             "+@lang": "JA",
@@ -285,15 +1401,6 @@
             }
         },
         {
-            "+@gid": "3386569980",
-            "+@lang": "JA",
-            "role": "Denim",
-            "person": {
-                "+content": "Kōsuke Gotō",
-                "+@id": "104565"
-            }
-        },
-        {
             "+@gid": "770188462",
             "+@lang": "JA",
             "role": "Comoli Harcourt",
@@ -346,15 +1453,6 @@
                 "+content": "Yūsuke Nagano",
                 "+@id": "163649"
             }
-        },
-        {
-            "+@gid": "1447821930",
-            "+@lang": "JA",
-            "role": "Dren",
-            "person": {
-                "+content": "Taichi Takeda",
-                "+@id": "171344"
-            }
         }
     ],
     "credit": [
@@ -373,9 +1471,25 @@
                 "+content": "Khara",
                 "+@id": "6686"
             }
+        },
+        {
+            "+@gid": "2054749078",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon Television Network",
+                "+@id": "834"
+            }
+        },
+        {
+            "+@gid": "2736820388",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Namco Filmworks",
+                "+@id": "22618"
+            }
         }
     ],
     "+@date-added": "2024-12-03T22:53:59Z",
-    "+@date-last-modified-at": "2025-04-05T04:34:34Z",
-    "+@date-last-updated-at": "2025-04-05T04:34:34Z"
+    "+@date-last-modified-at": "2025-06-21T04:39:44Z",
+    "+@date-last-updated-at": "2025-06-21T04:39:44Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Mobile Suit Gundam GQuuuuuuX -Beginning-",
     "+@precision": "movie",
-    "+@generated-on": "2025-04-05T04:34:29Z",
+    "+@generated-on": "2025-06-21T04:39:42Z",
     "related-prev": [
         {
             "+@rel": "part of",
@@ -54,9 +54,39 @@
             "+@lang": "JA"
         },
         {
+            "+content": "action",
+            "+@gid": "536654536",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "science fiction",
+            "+@gid": "2979972048",
+            "+@type": "Genres"
+        },
+        {
             "+content": "mecha",
             "+@gid": "2269448404",
             "+@type": "Themes"
+        },
+        {
+            "+content": "military",
+            "+@gid": "373038915",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "real robot",
+            "+@gid": "918611653",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "1945048048",
+            "+@type": "Objectionable content"
+        },
+        {
+            "+content": "In an alternate version of the One Year War in U.C. 0079, Char Aznable steals the Gundam mobile suit, resulting in a series of events leading to the Principality of Zeon winning the war in U.C. 0080. However, Char and the Red Gundam mysteriously disappear following a phenomenon known as the \"Zeknova\" during his mission to destroy the Solomon asteroid. Five years later, high-school student Amate Yuzuriha finds herself in the illegal mobile suit dueling sport known as Clan Battle after encountering a war refugee named Nyaan. Under the entry name \"Machu\", she pilots the GQuuuuuuX and partners with a mysterious boy named Shuji, who now pilots the Red Gundam that was once used by Char.",
+            "+@gid": "2941120023",
+            "+@type": "Plot Summary"
         },
         {
             "+content": "2025-01-17",
@@ -69,8 +99,13 @@
         },
         {
             "+content": "\"Plazma\" by Kenshi Yonezu",
-            "+@gid": "1362655669",
-            "+@type": "Opening Theme"
+            "+@gid": "3157578693",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Colony no Kanojo\" (コロニーの彼女; The Girl on a Space Colony) by Orika Okachi",
+            "+@gid": "2123871052",
+            "+@type": "Insert song"
         },
         {
             "+content": "\"Midnight Reflection\" (ミッドナイト・リフレクション) by Nomelon Nolemon",
@@ -91,8 +126,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "8",
-        "+@weighted_score": "7.4567"
+        "+@nb_votes": "10",
+        "+@weighted_score": "7.4985"
     },
     "review": {
         "+content": "<cite>Mobile Suit Gundam GQuuuuuuX -Beginning-</cite> Anime Film Review",
@@ -437,6 +472,15 @@
     ],
     "cast": [
         {
+            "+@gid": "1337617507",
+            "+@lang": "JA",
+            "role": "Kycillia Zabi",
+            "person": {
+                "+content": "Kaori Nazuka",
+                "+@id": "439"
+            }
+        },
+        {
             "+@gid": "3160270049",
             "+@lang": "JA",
             "role": "Haro",
@@ -446,12 +490,57 @@
             }
         },
         {
+            "+@gid": "627116591",
+            "+@lang": "JA",
+            "role": "Tamaki Yuzuriha",
+            "person": {
+                "+content": "Rie Kugimiya",
+                "+@id": "808"
+            }
+        },
+        {
+            "+@gid": "1727065901",
+            "+@lang": "JA",
+            "role": "Paolo Cassius",
+            "person": {
+                "+content": "Hiroshi Naka",
+                "+@id": "2146"
+            }
+        },
+        {
             "+@gid": "2510430856",
             "+@lang": "JA",
             "role": "Challia Bull",
             "person": {
                 "+content": "Shinji Kawada",
                 "+@id": "14440"
+            }
+        },
+        {
+            "+@gid": "1928266924",
+            "+@lang": "JA",
+            "role": "Dr. Flanagan",
+            "person": {
+                "+content": "Hiroshi Shirokuma",
+                "+@id": "39263"
+            }
+        },
+        {
+            "+@gid": "2203217063",
+            "+@lang": "JA",
+            "role": "Anqqi",
+            "person": {
+                "+content": "Mariya Ise",
+                "+@id": "46112"
+            }
+        },
+        {
+            "+@gid": "3755258164",
+            "+@lang": "JA",
+            "role": "Jezzi",
+            "person": {
+                "+content": "Yukitoshi Tokumoto",
+                "+@id": "56329"
             }
         },
         {
@@ -473,12 +562,30 @@
             }
         },
         {
+            "+@gid": "1775346494",
+            "+@lang": "JA",
+            "role": "Nabu",
+            "person": {
+                "+content": "Shōya Chiba",
+                "+@id": "97379"
+            }
+        },
+        {
             "+@gid": "1484701037",
             "+@lang": "JA",
             "role": "Denim",
             "person": {
                 "+content": "Kōsuke Gotō",
                 "+@id": "104565"
+            }
+        },
+        {
+            "+@gid": "2396930558",
+            "+@lang": "JA",
+            "role": "Comoli Harcourt",
+            "person": {
+                "+content": "Akane Fujita",
+                "+@id": "120322"
             }
         },
         {
@@ -506,6 +613,15 @@
             "person": {
                 "+content": "Yūki Shin",
                 "+@id": "150451"
+            }
+        },
+        {
+            "+@gid": "3509209192",
+            "+@lang": "JA",
+            "role": "Kaine",
+            "person": {
+                "+content": "Yūsuke Nagano",
+                "+@id": "163649"
             }
         }
     ],
@@ -536,6 +652,6 @@
         }
     ],
     "+@date-added": "2024-12-03T22:58:54Z",
-    "+@date-last-modified-at": "2025-04-05T04:34:34Z",
-    "+@date-last-updated-at": "2025-04-05T04:34:34Z"
+    "+@date-last-modified-at": "2025-06-21T04:39:44Z",
+    "+@date-last-updated-at": "2025-06-21T04:39:44Z"
 }
