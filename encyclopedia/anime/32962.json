@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "Rock is a Lady's Modesty",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-03T08:39:03Z",
+    "+@generated-on": "2025-06-21T20:32:17Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28086"
     },
     "info": [
         {
-            "+@gid": "3090580964",
+            "+@gid": "2407732059",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32962-3090580964.1741265842.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32962-2407732059.1747588323.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32962-3090580964.1741265842.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32962-2407732059.1747588323.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32962-3090580964.1741265842.jpg",
-                    "+@width": "425",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32962-2407732059.1747588323.jpg",
+                    "+@width": "423",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A32962-2407732059.1747588323.jpg",
+                    "+@width": "550",
+                    "+@height": "780"
                 }
             ]
         },
@@ -48,8 +53,23 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "3839102740",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "slice of life",
+            "+@gid": "868232242",
+            "+@type": "Genres"
+        },
+        {
             "+content": "music",
             "+@gid": "1708848603",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "school",
+            "+@gid": "1141431034",
             "+@type": "Themes"
         },
         {
@@ -79,6 +99,10 @@
             "+@href": "https://rocklady.rocks/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "9",
+        "+@weighted_score": "5.374"
+    },
     "news": [
         {
             "+content": "<cite>Rock Is a Lady's Modesty</cite> Anime's 1st Promo Video Reveals Main Cast, Staff, April Debut",
@@ -114,6 +138,11 @@
             "+content": "<cite>Rock is a Lady's Modesty</cite> Anime Unveils Character Video, Visual for Tamaki",
             "+@datetime": "2025-03-20T11:33:34Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-20/rock-is-a-lady-modesty-anime-unveils-character-video-visual-for-tamaki/.222611"
+        },
+        {
+            "+content": "Ani-One Streams <cite>Rock is a Lady's Modesty</cite> Anime in India",
+            "+@datetime": "2025-04-11T14:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-11/ani-one-streams-rock-is-a-lady-modesty-anime-in-india/.223431"
         }
     ],
     "staff": [
@@ -131,6 +160,54 @@
             "person": {
                 "+content": "Shogo Yasukawa",
                 "+@id": "68405"
+            }
+        },
+        {
+            "+@gid": "2233123244",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ryuichi Kimura",
+                "+@id": "44817"
+            }
+        },
+        {
+            "+@gid": "3028589901",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shinya Watada",
+                "+@id": "63401"
+            }
+        },
+        {
+            "+@gid": "2319588280",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takahiko Kyōgoku",
+                "+@id": "116202"
+            }
+        },
+        {
+            "+@gid": "1373301866",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Naoya Ando",
+                "+@id": "117508"
+            }
+        },
+        {
+            "+@gid": "2111949437",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takahiko Kyōgoku",
+                "+@id": "116202"
+            }
+        },
+        {
+            "+@gid": "2953856475",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takashi Kojima",
+                "+@id": "266301"
             }
         },
         {
@@ -155,6 +232,70 @@
             "person": {
                 "+content": "Hirofumi Sakagami",
                 "+@id": "84191"
+            }
+        },
+        {
+            "+@gid": "1033903146",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ako Kagiyama",
+                "+@id": "7509"
+            }
+        },
+        {
+            "+@gid": "1245862330",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kenta Taniguchi",
+                "+@id": "50960"
+            }
+        },
+        {
+            "+@gid": "2543938092",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Min Ki Han",
+                "+@id": "57125"
+            }
+        },
+        {
+            "+@gid": "2760800375",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Taeko Mitsuhashi",
+                "+@id": "103072"
+            }
+        },
+        {
+            "+@gid": "1426985759",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Risa Miyadani",
+                "+@id": "108415"
+            }
+        },
+        {
+            "+@gid": "2088211474",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Miki Yoshino",
+                "+@id": "207093"
+            }
+        },
+        {
+            "+@gid": "1549860259",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuka Shiga",
+                "+@id": "210391"
+            }
+        },
+        {
+            "+@gid": "2665409253",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tsutomu Ōno",
+                "+@id": "225238"
             }
         },
         {
@@ -183,6 +324,15 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "3559960199",
+            "+@lang": "JA",
+            "role": "Yuka Suzunomiya",
+            "person": {
+                "+content": "Kaori Nazuka",
+                "+@id": "439"
+            }
+        },
         {
             "+@gid": "128038884",
             "+@lang": "JA",
@@ -218,17 +368,92 @@
                 "+content": "Miyuri Shimabukuro",
                 "+@id": "162965"
             }
+        },
+        {
+            "+@gid": "2246709413",
+            "+@lang": "JA",
+            "role": "Alice Suzunomiya",
+            "person": {
+                "+content": "Saho Shirasu",
+                "+@id": "179437"
+            }
         }
     ],
-    "credit": {
-        "+@gid": "2860480023",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Bandai Namco Pictures",
-            "+@id": "13900"
+    "credit": [
+        {
+            "+@gid": "2860480023",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Bandai Namco Pictures",
+                "+@id": "13900"
+            }
+        },
+        {
+            "+@gid": "2373811003",
+            "task": "Production",
+            "company": {
+                "+content": "MOVIC",
+                "+@id": "52"
+            }
+        },
+        {
+            "+@gid": "1802190598",
+            "task": "Production",
+            "company": {
+                "+content": "Pony Canyon",
+                "+@id": "269"
+            }
+        },
+        {
+            "+@gid": "2354838431",
+            "task": "Production",
+            "company": {
+                "+content": "Tokyo Broadcasting System",
+                "+@id": "552"
+            }
+        },
+        {
+            "+@gid": "2410296704",
+            "task": "Production",
+            "company": {
+                "+content": "Hakusensha",
+                "+@id": "817"
+            }
+        },
+        {
+            "+@gid": "2532141985",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Namco Pictures",
+                "+@id": "13900"
+            }
+        },
+        {
+            "+@gid": "223901370",
+            "task": "Production",
+            "company": {
+                "+content": "Shochiku",
+                "+@id": "14702"
+            }
+        },
+        {
+            "+@gid": "2657251738",
+            "task": "Production",
+            "company": {
+                "+content": "Rakuten",
+                "+@id": "17369"
+            }
+        },
+        {
+            "+@gid": "952757302",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Namco Music Live",
+                "+@id": "22617"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-07-23T19:03:42Z",
-    "+@date-last-modified-at": "2025-04-03T08:39:05Z",
-    "+@date-last-updated-at": "2025-04-03T08:39:05Z"
+    "+@date-last-modified-at": "2025-06-21T20:32:18Z",
+    "+@date-last-updated-at": "2025-06-21T20:32:18Z"
 }

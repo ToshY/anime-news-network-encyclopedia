@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "SANDA",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-03T12:56:44Z",
+    "+@generated-on": "2025-06-21T20:32:17Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27832"
@@ -45,7 +45,7 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2025-10",
+            "+content": "2025-10-03",
             "+@gid": "1231006788",
             "+@type": "Vintage"
         },
@@ -57,11 +57,18 @@
             "+@href": "https://sanda.red/"
         }
     ],
-    "news": {
-        "+content": "<i>BEASTARS</i> Creator Paru Itagaki's <cite>Sanda</cite> Anime Unveils Teaser, Cast, Staff, Fall 2025 Debut",
-        "+@datetime": "2024-12-24T15:28:28Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-12-24/beastars-creator-paru-itagaki-sanda-anime-unveils-teaser-cast-staff-fall-2025-debut/.219477"
-    },
+    "news": [
+        {
+            "+content": "<i>BEASTARS</i> Creator Paru Itagaki's <cite>Sanda</cite> Anime Unveils Teaser, Cast, Staff, Fall 2025 Debut",
+            "+@datetime": "2024-12-24T15:28:28Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-24/beastars-creator-paru-itagaki-sanda-anime-unveils-teaser-cast-staff-fall-2025-debut/.219477"
+        },
+        {
+            "+content": "<cite>Sanda</cite> Anime Reveals New Promo Video, October 3 Debut, World Premiere at Anime Expo",
+            "+@datetime": "2025-06-06T09:48:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-06/sanda-anime-reveals-new-promo-video-october-3-debut-world-premiere-at-anime-expo/.225200"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3166666105",
@@ -122,12 +129,48 @@
     ],
     "cast": [
         {
+            "+@gid": "949642777",
+            "+@lang": "JA",
+            "role": "Shiori Fuyumura",
+            "person": {
+                "+content": "Umeka Shōji",
+                "+@id": "49373"
+            }
+        },
+        {
+            "+@gid": "1899498684",
+            "+@lang": "JA",
+            "role": "Nico Kazao",
+            "person": {
+                "+content": "Misato Matsuoka",
+                "+@id": "53103"
+            }
+        },
+        {
             "+@gid": "2425884397",
             "+@lang": "JA",
             "role": "Kazushige Sanda",
             "person": {
                 "+content": "Ayumu Murase",
                 "+@id": "113308"
+            }
+        },
+        {
+            "+@gid": "1094840890",
+            "+@lang": "JA",
+            "role": "Hitoshi Amaya",
+            "person": {
+                "+content": "Yūki Shin",
+                "+@id": "150451"
+            }
+        },
+        {
+            "+@gid": "3189661370",
+            "+@lang": "JA",
+            "role": "Ichie Ono",
+            "person": {
+                "+content": "Anna Nagase",
+                "+@id": "196760"
             }
         },
         {
@@ -149,6 +192,6 @@
         }
     },
     "+@date-added": "2024-07-10T18:23:19Z",
-    "+@date-last-modified-at": "2025-04-03T12:56:50Z",
-    "+@date-last-updated-at": "2025-04-03T12:56:50Z"
+    "+@date-last-modified-at": "2025-06-21T20:32:18Z",
+    "+@date-last-updated-at": "2025-06-21T20:32:18Z"
 }

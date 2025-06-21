@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Blue Exorcist: The Blue Night Saga",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-03T12:56:45Z",
+    "+@generated-on": "2025-06-21T20:32:18Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32565"
@@ -86,9 +86,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "20",
-        "+@weighted_score": "7.8436",
-        "+@bayesian_score": "7.69887"
+        "+@nb_votes": "34",
+        "+@weighted_score": "7.9561",
+        "+@bayesian_score": "7.82314"
     },
     "news": [
         {
@@ -316,30 +316,12 @@
     ],
     "cast": [
         {
-            "+@gid": "3694392426",
-            "+@lang": "EN",
-            "role": "Shura Kirigakure",
-            "person": {
-                "+content": "Wendee Lee",
-                "+@id": "1184"
-            }
-        },
-        {
             "+@gid": "571202533",
             "+@lang": "EN",
             "role": "Yukio Okumura",
             "person": {
                 "+content": "Johnny Yong Bosch",
                 "+@id": "1283"
-            }
-        },
-        {
-            "+@gid": "1767513871",
-            "+@lang": "EN",
-            "role": "Konekomaru Miwa",
-            "person": {
-                "+content": "Mona Marshall",
-                "+@id": "3029"
             }
         },
         {
@@ -361,15 +343,6 @@
             }
         },
         {
-            "+@gid": "1667555769",
-            "+@lang": "EN",
-            "role": "Renzo Shima",
-            "person": {
-                "+content": "Brian Beacock",
-                "+@id": "4019"
-            }
-        },
-        {
             "+@gid": "1211763810",
             "+@lang": "EN",
             "role": "Rin Okumura",
@@ -388,24 +361,6 @@
             }
         },
         {
-            "+@gid": "2547406033",
-            "+@lang": "EN",
-            "role": "Ryuji Suguro",
-            "person": {
-                "+content": "Kyle Hebert",
-                "+@id": "50042"
-            }
-        },
-        {
-            "+@gid": "2421476797",
-            "+@lang": "EN",
-            "role": "Arthur A. Angel",
-            "person": {
-                "+content": "David Vincent",
-                "+@id": "55038"
-            }
-        },
-        {
             "+@gid": "2150925676",
             "+@lang": "EN",
             "role": "Nicolae Eminescu",
@@ -421,24 +376,6 @@
             "person": {
                 "+content": "Cherami Leigh",
                 "+@id": "64331"
-            }
-        },
-        {
-            "+@gid": "549537943",
-            "+@lang": "EN",
-            "role": "Izumo Kamiki",
-            "person": {
-                "+content": "Kira Buckland",
-                "+@id": "70467"
-            }
-        },
-        {
-            "+@gid": "3790732158",
-            "+@lang": "EN",
-            "role": "Shiemi Moriyama",
-            "person": {
-                "+content": "Christine Marie Cabanos",
-                "+@id": "95337"
             }
         },
         {
@@ -466,15 +403,6 @@
             "person": {
                 "+content": "Matt Shipman",
                 "+@id": "134957"
-            }
-        },
-        {
-            "+@gid": "3790947666",
-            "+@lang": "EN",
-            "role": "Shiro",
-            "person": {
-                "+content": "Stephen Fu",
-                "+@id": "146239"
             }
         },
         {
@@ -595,6 +523,15 @@
             }
         },
         {
+            "+@gid": "2004224243",
+            "+@lang": "FR",
+            "role": "Drac Dragulescu",
+            "person": {
+                "+content": "Jean-François Bordier",
+                "+@id": "272531"
+            }
+        },
+        {
             "+@gid": "2356389368",
             "+@lang": "JA",
             "role": "Yukio Okumura",
@@ -622,15 +559,6 @@
             }
         },
         {
-            "+@gid": "2268387070",
-            "+@lang": "JA",
-            "role": "Ryūji Suguro",
-            "person": {
-                "+content": "Kazuya Nakai",
-                "+@id": "551"
-            }
-        },
-        {
             "+@gid": "3326521634",
             "+@lang": "JA",
             "role": "Shirō Fujimoto",
@@ -646,15 +574,6 @@
             "person": {
                 "+content": "Miyu Irino",
                 "+@id": "1207"
-            }
-        },
-        {
-            "+@gid": "1756314534",
-            "+@lang": "JA",
-            "role": "Shirō Fujimoto (young)",
-            "person": {
-                "+content": "Daisuke Namikawa",
-                "+@id": "1289"
             }
         },
         {
@@ -694,15 +613,6 @@
             }
         },
         {
-            "+@gid": "2220001805",
-            "+@lang": "JA",
-            "role": "Izumo Kamiki",
-            "person": {
-                "+content": "Eri Kitamura",
-                "+@id": "13838"
-            }
-        },
-        {
             "+@gid": "2209400955",
             "+@lang": "JA",
             "role": "Satan",
@@ -712,57 +622,12 @@
             }
         },
         {
-            "+@gid": "2514063191",
-            "+@lang": "JA",
-            "role": "Arthur A. Angel",
-            "person": {
-                "+content": "Daisuke Ono",
-                "+@id": "14929"
-            }
-        },
-        {
-            "+@gid": "287473951",
-            "+@lang": "JA",
-            "role": "Shura Kirigakure",
-            "person": {
-                "+content": "Rina Satō",
-                "+@id": "16411"
-            }
-        },
-        {
-            "+@gid": "2292182552",
-            "+@lang": "JA",
-            "role": "Renzō Shima",
-            "person": {
-                "+content": "Kōji Yusa",
-                "+@id": "51073"
-            }
-        },
-        {
-            "+@gid": "2223118730",
-            "+@lang": "JA",
-            "role": "Shiemi Moriyama",
-            "person": {
-                "+content": "Kana Hanazawa",
-                "+@id": "53741"
-            }
-        },
-        {
             "+@gid": "3407808466",
             "+@lang": "JA",
             "role": "Lucifer",
             "person": {
                 "+content": "Kōki Uchiyama",
                 "+@id": "56091"
-            }
-        },
-        {
-            "+@gid": "2805805546",
-            "+@lang": "JA",
-            "role": "Konekomaru Miwa",
-            "person": {
-                "+content": "Yūki Kaji",
-                "+@id": "58051"
             }
         },
         {
@@ -802,6 +667,6 @@
         }
     },
     "+@date-added": "2024-07-05T21:16:41Z",
-    "+@date-last-modified-at": "2025-04-03T12:56:50Z",
-    "+@date-last-updated-at": "2025-04-03T12:56:50Z"
+    "+@date-last-modified-at": "2025-06-21T20:32:18Z",
+    "+@date-last-updated-at": "2025-06-21T20:32:18Z"
 }
