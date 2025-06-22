@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "Shiunji Family Children",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-04T04:35:25Z",
+    "+@generated-on": "2025-06-22T12:55:59Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27838"
     },
     "info": [
         {
-            "+@gid": "2415159935",
+            "+@gid": "1149796918",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32099-2415159935.1741347223.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32099-1149796918.1747587477.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32099-2415159935.1741347223.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32099-1149796918.1747587477.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32099-2415159935.1741347223.jpg",
-                    "+@width": "425",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32099-1149796918.1747587477.jpg",
+                    "+@width": "423",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A32099-1149796918.1747587477.jpg",
+                    "+@width": "550",
+                    "+@height": "780"
                 }
             ]
         },
@@ -80,6 +85,10 @@
             "+@href": "https://shiunjifamily.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "5",
+        "+@weighted_score": "4.7179"
+    },
     "news": [
         {
             "+content": "<cite>Rent-A-Girlfriend</cite> Creator Reiji Miyajima's <cite>The Shiunji Family Children</cite> Manga Gets TV Anime",
@@ -115,6 +124,16 @@
             "+content": "Crunchyroll Streams <cite>The Unaware Atelier Meister</cite>, <cite>Once Upon a Witch's Death</cite>, More Anime in India",
             "+@datetime": "2025-03-22T11:59:20Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-22/crunchyroll-streams-the-unaware-atelier-meister-once-upon-a-witch-death-more-anime-in-india/.222673"
+        },
+        {
+            "+content": "<cite>The Shiunji Family Children</cite> Anime Reveals English Dub Cast, April 29 Premiere",
+            "+@datetime": "2025-04-28T20:15:06Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-28/the-shiunji-family-children-anime-reveals-english-dub-cast-april-29-premiere/.224013"
+        },
+        {
+            "+content": "Hindi Dubs for <cite>The Shiunji Family Children</cite>, <cite>Teogonia</cite> Anime Stream on Crunchyroll",
+            "+@datetime": "2025-05-04T11:36:09Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-04/hindi-dubs-for-the-shiunji-family-children-teogonia-anime-stream-on-crunchyroll/.224146"
         }
     ],
     "staff": [
@@ -132,6 +151,22 @@
             "person": {
                 "+content": "Noboru Kimura",
                 "+@id": "18594"
+            }
+        },
+        {
+            "+@gid": "1029000227",
+            "task": "Script",
+            "person": {
+                "+content": "Noboru Kimura",
+                "+@id": "18594"
+            }
+        },
+        {
+            "+@gid": "2531549730",
+            "task": "Script",
+            "person": {
+                "+content": "Michihiro Tsuchiya",
+                "+@id": "63946"
             }
         },
         {
@@ -223,6 +258,14 @@
             }
         },
         {
+            "+@gid": "1884843034",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiromi Nakagawa",
+                "+@id": "28047"
+            }
+        },
+        {
             "+@gid": "1116855619",
             "task": "Sound Director",
             "person": {
@@ -240,6 +283,150 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "3861313848",
+            "+@lang": "EN",
+            "role": "Kaname Shiunji",
+            "person": {
+                "+content": "Cris George",
+                "+@id": "74127"
+            }
+        },
+        {
+            "+@gid": "1669186669",
+            "+@lang": "EN",
+            "role": "Kotono Shiunji",
+            "person": {
+                "+content": "Terri Doty",
+                "+@id": "74567"
+            }
+        },
+        {
+            "+@gid": "1444209433",
+            "+@lang": "EN",
+            "role": "Shion Shiunji",
+            "person": {
+                "+content": "Dallas Reid",
+                "+@id": "122344"
+            }
+        },
+        {
+            "+@gid": "2022493624",
+            "+@lang": "EN",
+            "role": "Minami Shiunji",
+            "person": {
+                "+content": "Morgan Berry",
+                "+@id": "132751"
+            }
+        },
+        {
+            "+@gid": "3237372593",
+            "+@lang": "EN",
+            "role": "Seiha Shiunji",
+            "person": {
+                "+content": "Amber May",
+                "+@id": "184798"
+            }
+        },
+        {
+            "+@gid": "1803971825",
+            "+@lang": "EN",
+            "role": "Banri Shiunji",
+            "person": {
+                "+content": "Taylor Murphy",
+                "+@id": "246277"
+            }
+        },
+        {
+            "+@gid": "3785717369",
+            "+@lang": "EN",
+            "role": "Ouka Shiunji",
+            "person": {
+                "+content": "Rebecca Danae",
+                "+@id": "249604"
+            }
+        },
+        {
+            "+@gid": "2562335731",
+            "+@lang": "EN",
+            "role": "Arata Shiunji",
+            "person": {
+                "+content": "Abi Kumar",
+                "+@id": "265461"
+            }
+        },
+        {
+            "+@gid": "1293558584",
+            "+@lang": "ES",
+            "role": "Kaname Shiunji",
+            "person": {
+                "+content": "Oscar Gomez",
+                "+@id": "24153"
+            }
+        },
+        {
+            "+@gid": "2034941100",
+            "+@lang": "ES",
+            "role": "Arata Shiunji",
+            "person": {
+                "+content": "Gerardo Ortega",
+                "+@id": "155770"
+            }
+        },
+        {
+            "+@gid": "145710424",
+            "+@lang": "ES",
+            "role": "Minami Shiunji",
+            "person": {
+                "+content": "Amanda Hinojosa",
+                "+@id": "166040"
+            }
+        },
+        {
+            "+@gid": "988089940",
+            "+@lang": "ES",
+            "role": "Kotono Shiunji",
+            "person": {
+                "+content": "Elizabeth Infante",
+                "+@id": "167430"
+            }
+        },
+        {
+            "+@gid": "1970331856",
+            "+@lang": "ES",
+            "role": "Banri Shiunji",
+            "person": {
+                "+content": "Gabriela Ortiz",
+                "+@id": "169195"
+            }
+        },
+        {
+            "+@gid": "1137639433",
+            "+@lang": "ES",
+            "role": "Shion Shiunji",
+            "person": {
+                "+content": "Erick Padilla",
+                "+@id": "200694"
+            }
+        },
+        {
+            "+@gid": "2151721954",
+            "+@lang": "ES",
+            "role": "Ouka Shiunji",
+            "person": {
+                "+content": "Gabriela Hernandez",
+                "+@id": "228460"
+            }
+        },
+        {
+            "+@gid": "1921718393",
+            "+@lang": "ES",
+            "role": "Seiha Shiunji",
+            "person": {
+                "+content": "Edith González",
+                "+@id": "271823"
+            }
+        },
         {
             "+@gid": "894141492",
             "+@lang": "JA",
@@ -313,15 +500,81 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2900901155",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Dōga Kōbō",
-            "+@id": "228"
+    "credit": [
+        {
+            "+@gid": "2900901155",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Dōga Kōbō",
+                "+@id": "228"
+            }
+        },
+        {
+            "+@gid": "2988700725",
+            "task": "Production",
+            "company": {
+                "+content": "Dōga Kōbō",
+                "+@id": "228"
+            }
+        },
+        {
+            "+@gid": "1491311128",
+            "task": "Production",
+            "company": {
+                "+content": "AT-X",
+                "+@id": "518"
+            }
+        },
+        {
+            "+@gid": "2150339699",
+            "task": "Production",
+            "company": {
+                "+content": "Hakusensha",
+                "+@id": "817"
+            }
+        },
+        {
+            "+@gid": "2009376244",
+            "task": "Production",
+            "company": {
+                "+content": "Kansai Telecasting Corporation",
+                "+@id": "11907"
+            }
+        },
+        {
+            "+@gid": "2881893109",
+            "task": "Production",
+            "company": {
+                "+content": "Tokyo MX",
+                "+@id": "13028"
+            }
+        },
+        {
+            "+@gid": "3737668135",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon BS Broadcasting Corporation",
+                "+@id": "15105"
+            }
+        },
+        {
+            "+@gid": "2841551178",
+            "task": "Production",
+            "company": {
+                "+content": "Kadokawa",
+                "+@id": "15420"
+            }
+        },
+        {
+            "+@gid": "1934246960",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Namco Music Live",
+                "+@id": "22617"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-02-14T05:30:50Z",
-    "+@date-last-modified-at": "2025-04-04T04:35:31Z",
-    "+@date-last-updated-at": "2025-04-04T04:35:31Z"
+    "+@date-last-modified-at": "2025-06-22T12:56:01Z",
+    "+@date-last-updated-at": "2025-06-22T12:56:01Z"
 }
