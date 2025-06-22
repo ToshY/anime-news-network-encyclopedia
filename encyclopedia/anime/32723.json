@@ -2,9 +2,9 @@
     "+@id": "32723",
     "+@gid": "2887632601",
     "+@type": "TV",
-    "+@name": "Makina-san’s a Love Bot?!",
+    "+@name": "Kakushite! Makina-san!!",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-03T20:32:19Z",
+    "+@generated-on": "2025-06-22T04:44:36Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "32722"
@@ -30,22 +30,78 @@
             ]
         },
         {
-            "+content": "Makina-san’s a Love Bot?!",
-            "+@gid": "1310972114",
-            "+@type": "Main title",
-            "+@lang": "EN"
-        },
-        {
             "+content": "Kakushite! Makina-san!!",
             "+@gid": "1455983496",
-            "+@type": "Alternative title",
+            "+@type": "Main title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "Copriti, Makina!",
+            "+@gid": "252394240",
+            "+@type": "Alternative title",
+            "+@lang": "IT"
+        },
+        {
+            "+content": "Makina-san’s a Love Bot?!",
+            "+@gid": "1310972114",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
         },
         {
             "+content": "かくして！マキナさん!!",
             "+@gid": "686689431",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "2128150292",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "769980690",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "science fiction",
+            "+@gid": "1005256582",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "androids",
+            "+@gid": "2058615570",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "ecchi",
+            "+@gid": "3872840386",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "otaku",
+            "+@gid": "3298009696",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "school",
+            "+@gid": "2034976017",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "MA",
+            "+@gid": "1249127744",
+            "+@type": "Objectionable content"
+        },
+        {
+            "+content": "Makina is the hottest girl in school, but she has a secret that robot-focused student Eita stumbles upon one night when Makina approaches him for help: she is actually a robot built to seduce men. Eita is fascinated enough by this to help her with her maintenance, though he is much more on edge with Makina's attempts to seduce him.",
+            "+@gid": "2461180914",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "12",
+            "+@gid": "1058915240",
+            "+@type": "Running time"
         },
         {
             "+content": "2025-04-06",
@@ -65,6 +121,10 @@
             "+@href": "https://makinasan-anime.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "5",
+        "+@weighted_score": "3.408"
+    },
     "news": [
         {
             "+content": "<cite>Kakushite! Makina-san!!</cite> TV Anime Reveals Main Cast, Staff",
@@ -85,6 +145,16 @@
             "+content": "OceanVeil Streams <cite>Makina-san's a Love Bot?!</cite> AnimeFesta Anime",
             "+@datetime": "2025-03-25T08:09:26Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-25/oceanveil-streams-makina-san-a-love-bot-animefesta-anime/.222847"
+        },
+        {
+            "+content": "Anime Times Adds <cite>Yaiba</cite>, <cite>My Hero Academia: Vigilantes</cite>, More Anime in India",
+            "+@datetime": "2025-04-15T03:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-15/anime-times-adds-yaiba-my-hero-academia-vigilantes-more-anime-in-india/.223535"
+        },
+        {
+            "+content": "<cite>Makina-san's a Love Bot?!</cite> AnimeFesta Anime Gets English Dub on April 30",
+            "+@datetime": "2025-04-21T19:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-21/makina-san-a-love-bot-animefesta-anime-gets-english-dub-on-april-30/.223731"
         }
     ],
     "staff": [
@@ -155,6 +225,60 @@
     ],
     "cast": [
         {
+            "+@gid": "2313635388",
+            "+@lang": "EN",
+            "role": "Alma Sakimori",
+            "person": {
+                "+content": "Elsie Lovelock",
+                "+@id": "191446"
+            }
+        },
+        {
+            "+@gid": "722134511",
+            "+@lang": "EN",
+            "role": "Ms. Oya (Landlady)",
+            "person": {
+                "+content": "Jennifer Silverman",
+                "+@id": "223804"
+            }
+        },
+        {
+            "+@gid": "1603357166",
+            "+@lang": "EN",
+            "role": "Eita Akutsu",
+            "person": {
+                "+content": "P.M. Seymour",
+                "+@id": "227120"
+            }
+        },
+        {
+            "+@gid": "2439071850",
+            "+@lang": "EN",
+            "role": "Makina Amagatsu",
+            "person": {
+                "+content": "Chloe Eves",
+                "+@id": "274174"
+            }
+        },
+        {
+            "+@gid": "1319921155",
+            "+@lang": "EN",
+            "role": "Mimika Imose",
+            "person": {
+                "+content": "Mana T. Johnson",
+                "+@id": "281387"
+            }
+        },
+        {
+            "+@gid": "903177535",
+            "+@lang": "EN",
+            "role": "Mamimi",
+            "person": {
+                "+content": "Hayley Nelson",
+                "+@id": "281511"
+            }
+        },
+        {
             "+@gid": "3112783443",
             "+@lang": "JA",
             "role": "Ōya-san (Landlady)",
@@ -218,6 +342,6 @@
         }
     },
     "+@date-added": "2024-05-10T01:11:13Z",
-    "+@date-last-modified-at": "2025-04-03T20:32:24Z",
-    "+@date-last-updated-at": "2025-04-03T20:32:24Z"
+    "+@date-last-modified-at": "2025-06-22T04:44:39Z",
+    "+@date-last-updated-at": "2025-06-22T04:44:39Z"
 }

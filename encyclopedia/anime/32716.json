@@ -4,12 +4,31 @@
     "+@type": "TV",
     "+@name": "Awajima Hyakkei",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-03T20:32:19Z",
+    "+@generated-on": "2025-06-22T04:44:37Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "16775"
     },
     "info": [
+        {
+            "+@gid": "2421885279",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32716-2421885279.1747137119.jpg",
+            "+@width": "142",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32716-2421885279.1747137119.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32716-2421885279.1747137119.jpg",
+                    "+@width": "425",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Awajima Hyakkei",
             "+@gid": "1800548113",
@@ -25,17 +44,92 @@
         {
             "+content": "The omnibus series follows different girls through out time as they attend an operatic music school. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2026",
+            "+@gid": "1308456059",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ『淡島百景』公式サイト",
+            "+@gid": "1939707559",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://awajima-anime.com/"
         }
     ],
-    "staff": {
-        "+@gid": "2557866629",
-        "task": "Original creator",
-        "person": {
-            "+content": "Takako Shimura",
-            "+@id": "61942"
+    "news": {
+        "+content": "<cite>Awajima Hyakkei</cite> Anime's Teaser Unveils Staff at Madhouse, 2026 TV Debut",
+        "+@datetime": "2025-05-13T09:02:00Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-05-13/awajima-hyakkei-anime-teaser-unveils-staff-at-madhouse-2026-tv-debut/.224404"
+    },
+    "staff": [
+        {
+            "+@gid": "2499774204",
+            "task": "Director",
+            "person": {
+                "+content": "Morio Asaka",
+                "+@id": "909"
+            }
+        },
+        {
+            "+@gid": "2152059501",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Yasuhiro Nakanishi",
+                "+@id": "205170"
+            }
+        },
+        {
+            "+@gid": "591051138",
+            "task": "Music",
+            "person": {
+                "+content": "Takahiro Obata",
+                "+@id": "153561"
+            }
+        },
+        {
+            "+@gid": "2557866629",
+            "task": "Original creator",
+            "person": {
+                "+content": "Takako Shimura",
+                "+@id": "61942"
+            }
+        },
+        {
+            "+@gid": "2948730960",
+            "task": "Character Design",
+            "person": {
+                "+content": "Kunihiko Hamada",
+                "+@id": "15570"
+            }
+        },
+        {
+            "+@gid": "1097571842",
+            "task": "Art Director",
+            "person": {
+                "+content": "Hideki Nakamura",
+                "+@id": "15279"
+            }
+        },
+        {
+            "+@gid": "932228897",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Junko Sakai",
+                "+@id": "80549"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2310503997",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Madhouse",
+            "+@id": "48"
         }
     },
     "+@date-added": "2024-05-09T00:51:29Z",
-    "+@date-last-modified-at": "2025-04-03T20:32:24Z",
-    "+@date-last-updated-at": "2025-04-03T20:32:24Z"
+    "+@date-last-modified-at": "2025-06-22T04:44:39Z",
+    "+@date-last-updated-at": "2025-06-22T04:44:39Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Eiga Odekake Kozame Tokai no Otomodachi",
     "+@precision": "movie",
-    "+@generated-on": "2025-04-03T16:40:37Z",
+    "+@generated-on": "2025-06-22T04:44:36Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28357"
@@ -42,9 +42,18 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2025 (summer)",
-            "+@gid": "1892537674",
+            "+content": "adventure",
+            "+@gid": "1835737720",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "2025-08-22",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-08-22 (Japan)",
+            "+@gid": "3342386636",
+            "+@type": "Premiere date"
         },
         {
             "+content": "アニメ「おでかけ子ザメ」公式サイト",
@@ -74,6 +83,11 @@
             "+content": "<cite>Odekake Kozame</cite> Anime Film Reveals 2 New Cast Members",
             "+@datetime": "2025-03-23T06:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-23/odekake-kozame-anime-film-reveals-2-new-cast-members/.222735"
+        },
+        {
+            "+content": "<cite>Odekake Kozame</cite> Anime Film's 1st Trailer Reveals More Cast, August 22 Premiere",
+            "+@datetime": "2025-04-24T23:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-24/odekake-kozame-anime-film-1st-trailer-reveals-more-cast-august-22-premiere/.223874"
         }
     ],
     "staff": [
@@ -182,12 +196,39 @@
             }
         },
         {
+            "+@gid": "2333823465",
+            "+@lang": "JA",
+            "role": "Big Brother Salaryman",
+            "person": {
+                "+content": "Toshiya Miyata",
+                "+@id": "197255"
+            }
+        },
+        {
             "+@gid": "1673710166",
             "+@lang": "JA",
             "role": "Miho",
             "person": {
                 "+content": "Rin Kurusu",
                 "+@id": "235828"
+            }
+        },
+        {
+            "+@gid": "1564825310",
+            "+@lang": "JA",
+            "role": "Mr. Bartender",
+            "person": {
+                "+content": "Akira Takano",
+                "+@id": "269249"
+            }
+        },
+        {
+            "+@gid": "3136978075",
+            "+@lang": "JA",
+            "role": "Mr. Host",
+            "person": {
+                "+content": "Kazuto Mokudai",
+                "+@id": "270035"
             }
         }
     ],
@@ -210,6 +251,6 @@
         }
     ],
     "+@date-added": "2024-05-10T20:36:45Z",
-    "+@date-last-modified-at": "2025-04-03T16:40:39Z",
-    "+@date-last-updated-at": "2025-04-03T16:40:39Z"
+    "+@date-last-modified-at": "2025-06-22T04:44:39Z",
+    "+@date-last-updated-at": "2025-06-22T04:44:39Z"
 }
