@@ -27,9 +27,6 @@ All data retrieved from the Anime News Network API is converted from XML to JSON
 - Encyclopedia entries are **not** available for ["related"](https://www.animenewsnetwork.com/encyclopedia/) entries, including but not limited to, `live-action` (type), `cancelled` (status), `Chinese` (non-Japanese).
 - Encyclopedia entries are updated (when missing or outdated) in batches of `50` items per workflow run at cron schedule `15 */4 * * *` (actual workflow execution time may be [delayed](https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows#schedule)).
 
-> [!IMPORTANT]
-> The cron schedules have been disabled for the time being due to 403 response codes.
-
 ### ✍️ Notes
 
 - The `date_added` property in the reports is converted to [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) standard.
