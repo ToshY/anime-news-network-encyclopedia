@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "From Bureaucrat to Villainess: Dad's Been Reincarnated!",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-04T08:37:42Z",
+    "+@generated-on": "2025-06-22T16:40:20Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "31162"
@@ -40,6 +40,12 @@
             "+@gid": "2723074819",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "Il papà impiegato reincarnato nella perfida nobildonna del videogioco",
+            "+@gid": "148946730",
+            "+@type": "Alternative title",
+            "+@lang": "IT"
         },
         {
             "+content": "悪役令嬢転生おじさん",
@@ -105,9 +111,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "51",
-        "+@weighted_score": "7.2383",
-        "+@bayesian_score": "7.28662"
+        "+@nb_votes": "74",
+        "+@weighted_score": "7.2117",
+        "+@bayesian_score": "7.25109"
     },
     "news": [
         {
@@ -154,6 +160,16 @@
             "+content": "HIDIVE Streams English Dubs for <cite>From Bureaucrat to Villainess</cite>, <cite>Beheneko</cite> Anime",
             "+@datetime": "2025-03-26T16:26:17Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-26/hidive-streams-english-dubs-for-from-bureaucrat-to-villainess-beheneko-anime/.222909"
+        },
+        {
+            "+content": "<cite>From Bureaucrat to Villainess</cite> Anime Reveals English Dub Cast",
+            "+@datetime": "2025-04-14T18:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-14/from-bureaucrat-to-villainess-anime-reveals-english-dub-cast/.223550"
+        },
+        {
+            "+content": "Netflix Adds <cite>From Bureaucrat to Villainess: Dad's Been Reincarnated!</cite>, 2 More Anime in India",
+            "+@datetime": "2025-04-25T14:24:43Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-25/netflix-adds-from-bureaucrat-to-villainess-dad-been-reincarnated-2-more-anime-in-india/.223908"
         }
     ],
     "staff": [
@@ -174,11 +190,59 @@
             }
         },
         {
+            "+@gid": "1650337701",
+            "task": "Script",
+            "person": {
+                "+content": "Shingo Irie",
+                "+@id": "109730"
+            }
+        },
+        {
+            "+@gid": "2071795611",
+            "task": "Script",
+            "person": {
+                "+content": "Hiroyuki Kishikura",
+                "+@id": "200126"
+            }
+        },
+        {
+            "+@gid": "2185637303",
+            "task": "Script",
+            "person": {
+                "+content": "Aoi Uno",
+                "+@id": "264025"
+            }
+        },
+        {
+            "+@gid": "2694271210",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takeshi Mori",
+                "+@id": "27"
+            }
+        },
+        {
+            "+@gid": "1785734341",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yasufumi Soejima",
+                "+@id": "17693"
+            }
+        },
+        {
             "+@gid": "1314322745",
             "task": "Storyboard",
             "person": {
                 "+content": "Tetsuya Takeuchi",
                 "+@id": "32001"
+            }
+        },
+        {
+            "+@gid": "3613982555",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takahide Ogata",
+                "+@id": "34078"
             }
         },
         {
@@ -190,6 +254,30 @@
             }
         },
         {
+            "+@gid": "2986279389",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tomoko Iwasaki",
+                "+@id": "88202"
+            }
+        },
+        {
+            "+@gid": "3261567964",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shinpei Matsuo",
+                "+@id": "143616"
+            }
+        },
+        {
+            "+@gid": "2900767438",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takahiro Okao",
+                "+@id": "10009"
+            }
+        },
+        {
             "+@gid": "2578552271",
             "task": "Episode Director",
             "person": {
@@ -198,11 +286,75 @@
             }
         },
         {
+            "+@gid": "1190717516",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takahide Ogata",
+                "+@id": "34078"
+            }
+        },
+        {
+            "+@gid": "809239591",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hidekazu Oka",
+                "+@id": "75818"
+            }
+        },
+        {
+            "+@gid": "2329461869",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yūsuke Onoda",
+                "+@id": "80280"
+            }
+        },
+        {
+            "+@gid": "2598155520",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yuki Morita",
+                "+@id": "132229"
+            }
+        },
+        {
+            "+@gid": "2458277772",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ken Katō",
+                "+@id": "222422"
+            }
+        },
+        {
+            "+@gid": "2087234822",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kōji Komurakata",
+                "+@id": "248675"
+            }
+        },
+        {
+            "+@gid": "3579144994",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Yasufumi Soejima",
+                "+@id": "17693"
+            }
+        },
+        {
             "+@gid": "366971533",
             "task": "Unit Director",
             "person": {
                 "+content": "Tetsuya Takeuchi",
                 "+@id": "32001"
+            }
+        },
+        {
+            "+@gid": "2969823526",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Madoka Yaguchi",
+                "+@id": "221899"
             }
         },
         {
@@ -270,6 +422,214 @@
             }
         },
         {
+            "+@gid": "1549894329",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kazue Tamari",
+                "+@id": "34693"
+            }
+        },
+        {
+            "+@gid": "1351828307",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yuki Nishioka",
+                "+@id": "72870"
+            }
+        },
+        {
+            "+@gid": "2803254751",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Haruka Matsunae",
+                "+@id": "147216"
+            }
+        },
+        {
+            "+@gid": "2044629001",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Junko Matsushita",
+                "+@id": "11612"
+            }
+        },
+        {
+            "+@gid": "3960821032",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Akiharu Ishii",
+                "+@id": "12819"
+            }
+        },
+        {
+            "+@gid": "3184325892",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Noriko Otake",
+                "+@id": "18244"
+            }
+        },
+        {
+            "+@gid": "2013755304",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Konomi Sakurai",
+                "+@id": "25200"
+            }
+        },
+        {
+            "+@gid": "674511843",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yusuke Shimizu",
+                "+@id": "31895"
+            }
+        },
+        {
+            "+@gid": "2006995336",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yukiko Shimizu",
+                "+@id": "33156"
+            }
+        },
+        {
+            "+@gid": "1787466250",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kenji Irie",
+                "+@id": "34671"
+            }
+        },
+        {
+            "+@gid": "538586292",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazue Tamari",
+                "+@id": "34693"
+            }
+        },
+        {
+            "+@gid": "2813609082",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazuyuki Ikai",
+                "+@id": "35484"
+            }
+        },
+        {
+            "+@gid": "2143646171",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tsuyoshi Ichiki",
+                "+@id": "38701"
+            }
+        },
+        {
+            "+@gid": "3279594899",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuki Nishioka",
+                "+@id": "72870"
+            }
+        },
+        {
+            "+@gid": "1909886425",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kanako Tsuji",
+                "+@id": "83949"
+            }
+        },
+        {
+            "+@gid": "870379573",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Liang Chen",
+                "+@id": "114624"
+            }
+        },
+        {
+            "+@gid": "3242821578",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Asami Ōta",
+                "+@id": "116771"
+            }
+        },
+        {
+            "+@gid": "3511678865",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chiemi Kishi",
+                "+@id": "130939"
+            }
+        },
+        {
+            "+@gid": "4022486619",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Soji Nezu",
+                "+@id": "130940"
+            }
+        },
+        {
+            "+@gid": "612911116",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Haruka Matsunae",
+                "+@id": "147216"
+            }
+        },
+        {
+            "+@gid": "2163566786",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sayo Sugiyama",
+                "+@id": "184511"
+            }
+        },
+        {
+            "+@gid": "747771664",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mao Tsunoda",
+                "+@id": "196976"
+            }
+        },
+        {
+            "+@gid": "1606527092",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wei Feng Du",
+                "+@id": "199760"
+            }
+        },
+        {
+            "+@gid": "1329130094",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Xu Long Wei",
+                "+@id": "209146"
+            }
+        },
+        {
+            "+@gid": "1215108806",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hoan Tran",
+                "+@id": "217307"
+            }
+        },
+        {
+            "+@gid": "3933093934",
+            "task": "Animation Director",
+            "person": {
+                "+content": "sata Risuku",
+                "+@id": "225373"
+            }
+        },
+        {
             "+@gid": "2750998713",
             "task": "Sound Director",
             "person": {
@@ -284,9 +644,184 @@
                 "+content": "Kotomi Murayama",
                 "+@id": "152135"
             }
+        },
+        {
+            "+@gid": "2510919915",
+            "task": "Producer",
+            "person": {
+                "+content": "Takumi Kohama",
+                "+@id": "40908"
+            }
+        },
+        {
+            "+@gid": "2803009156",
+            "task": "Producer",
+            "person": {
+                "+content": "Shintaro Yoshitake",
+                "+@id": "101030"
+            }
+        },
+        {
+            "+@gid": "2981908625",
+            "task": "Producer",
+            "person": {
+                "+content": "Takehiro Sumi",
+                "+@id": "107354"
+            }
+        },
+        {
+            "+@gid": "1799644062",
+            "task": "Producer",
+            "person": {
+                "+content": "Seiji Ando",
+                "+@id": "122711"
+            }
+        },
+        {
+            "+@gid": "1786233514",
+            "task": "Producer",
+            "person": {
+                "+content": "Hiroyuki Aoi",
+                "+@id": "137266"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "3714489619",
+            "+@lang": "EN",
+            "role": "Grenat",
+            "person": {
+                "+content": "Monica Rial",
+                "+@id": "2074"
+            }
+        },
+        {
+            "+@gid": "3484117288",
+            "+@lang": "EN",
+            "role": "Lucas Vierge",
+            "person": {
+                "+content": "Clint Bickham",
+                "+@id": "19672"
+            }
+        },
+        {
+            "+@gid": "3024102140",
+            "+@lang": "EN",
+            "role": "Josette",
+            "person": {
+                "+content": "Brittney Karbowski",
+                "+@id": "44595"
+            }
+        },
+        {
+            "+@gid": "3240342776",
+            "+@lang": "EN",
+            "role": "Mitsuko Tondabayashi",
+            "person": {
+                "+content": "Joanne Bonasso",
+                "+@id": "53593"
+            }
+        },
+        {
+            "+@gid": "2673472461",
+            "+@lang": "EN",
+            "role": "Virgile Vierge",
+            "person": {
+                "+content": "Brandon Hearnsberger",
+                "+@id": "60077"
+            }
+        },
+        {
+            "+@gid": "825647213",
+            "+@lang": "EN",
+            "role": "Lambert Balance",
+            "person": {
+                "+content": "Dylan Godwin",
+                "+@id": "101096"
+            }
+        },
+        {
+            "+@gid": "575898785",
+            "+@lang": "EN",
+            "role": "Grace Auvergne",
+            "person": {
+                "+content": "Rachael Messer",
+                "+@id": "125777"
+            }
+        },
+        {
+            "+@gid": "1224074597",
+            "+@lang": "EN",
+            "role": "Kenzaburo Tondabayashi",
+            "person": {
+                "+content": "James Belcher",
+                "+@id": "131870"
+            }
+        },
+        {
+            "+@gid": "1488124186",
+            "+@lang": "EN",
+            "role": "Leopold Auvergne",
+            "person": {
+                "+content": "Josh Morrison",
+                "+@id": "134779"
+            }
+        },
+        {
+            "+@gid": "3340586312",
+            "+@lang": "EN",
+            "role": "Hinako Tondabayashi",
+            "person": {
+                "+content": "Karlii Hoch",
+                "+@id": "147637"
+            }
+        },
+        {
+            "+@gid": "107687508",
+            "+@lang": "EN",
+            "role": "Auguste Lion",
+            "person": {
+                "+content": "Michael Wronski",
+                "+@id": "168641"
+            }
+        },
+        {
+            "+@gid": "2314640370",
+            "+@lang": "EN",
+            "role": "Pierre Gemeaux",
+            "person": {
+                "+content": "James Marler",
+                "+@id": "170252"
+            }
+        },
+        {
+            "+@gid": "2597092531",
+            "+@lang": "EN",
+            "role": "Anna Doll",
+            "person": {
+                "+content": "Cat Thomas",
+                "+@id": "170995"
+            }
+        },
+        {
+            "+@gid": "1624977656",
+            "+@lang": "EN",
+            "role": "Richard Verseau",
+            "person": {
+                "+content": "Alan Brincks",
+                "+@id": "172486"
+            }
+        },
+        {
+            "+@gid": "1014178244",
+            "+@lang": "EN",
+            "role": "Francette Mercure",
+            "person": {
+                "+content": "Donna Bella Litton",
+                "+@id": "223714"
+            }
+        },
         {
             "+@gid": "439063880",
             "+@lang": "JA",
@@ -421,15 +956,6 @@
                 "+content": "Ryōta Suzuki",
                 "+@id": "174131"
             }
-        },
-        {
-            "+@gid": "1339453421",
-            "+@lang": "JA",
-            "role": "Headmaster",
-            "person": {
-                "+content": "Hōchū Ōtsuka",
-                "+@id": "274643"
-            }
         }
     ],
     "credit": {
@@ -441,6 +967,6 @@
         }
     },
     "+@date-added": "2023-12-28T07:11:17Z",
-    "+@date-last-modified-at": "2025-04-04T08:37:46Z",
-    "+@date-last-updated-at": "2025-04-04T08:37:46Z"
+    "+@date-last-modified-at": "2025-06-22T16:40:28Z",
+    "+@date-last-updated-at": "2025-06-22T16:40:28Z"
 }

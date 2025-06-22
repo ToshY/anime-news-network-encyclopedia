@@ -4,7 +4,11 @@
     "+@type": "movie",
     "+@name": "Calabi-Yau no Sukima",
     "+@precision": "movie",
-    "+@generated-on": "2025-04-04T08:37:42Z",
+    "+@generated-on": "2025-06-22T16:40:18Z",
+    "related-prev": {
+        "+@rel": "spinoff of",
+        "+@id": "21211"
+    },
     "info": [
         {
             "+@gid": "2630753857",
@@ -38,15 +42,41 @@
             "+@lang": "JA"
         }
     ],
-    "staff": {
-        "+@gid": "1066588619",
-        "task": "Director",
-        "person": {
-            "+content": "Saku Sakamoto",
-            "+@id": "86023"
+    "staff": [
+        {
+            "+@gid": "1066588619",
+            "task": "Director",
+            "person": {
+                "+content": "Saku Sakamoto",
+                "+@id": "86023"
+            }
+        },
+        {
+            "+@gid": "1156358567",
+            "task": "Script",
+            "person": {
+                "+content": "Saku Sakamoto",
+                "+@id": "86023"
+            }
+        },
+        {
+            "+@gid": "1177951636",
+            "task": "Music",
+            "person": {
+                "+content": "Saku Sakamoto",
+                "+@id": "86023"
+            }
+        },
+        {
+            "+@gid": "851712574",
+            "task": "Original creator",
+            "person": {
+                "+content": "Saku Sakamoto",
+                "+@id": "86023"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-01-10T23:13:23Z",
-    "+@date-last-modified-at": "2025-04-04T08:37:46Z",
-    "+@date-last-updated-at": "2025-04-04T08:37:46Z"
+    "+@date-last-modified-at": "2025-06-22T16:40:28Z",
+    "+@date-last-updated-at": "2025-06-22T16:40:28Z"
 }
