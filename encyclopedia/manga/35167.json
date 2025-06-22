@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "23:45 Re;",
     "+@precision": "manga",
-    "+@generated-on": "2025-04-15T02:12:49Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "35166"
-    },
+    "+@generated-on": "2025-06-22T08:38:14Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "28884"
+        },
+        {
+            "+@rel": "sequel of",
+            "+@id": "35166"
+        }
+    ],
     "info": [
         {
             "+content": "23:45 Re;",
@@ -20,6 +26,11 @@
             "+content": "supernatural",
             "+@gid": "265206612",
             "+@type": "Genres"
+        },
+        {
+            "+content": "2016-03-30 to 2016-10-28 (serialized in gateau, May - Dec 2016)",
+            "+@gid": "559669560",
+            "+@type": "Vintage"
         }
     ],
     "release": {
@@ -36,6 +47,6 @@
         }
     },
     "+@date-added": "2025-03-15T10:30:34Z",
-    "+@date-last-modified-at": "2025-04-15T02:12:51Z",
-    "+@date-last-updated-at": "2025-04-15T02:12:51Z"
+    "+@date-last-modified-at": "2025-06-22T08:38:15Z",
+    "+@date-last-updated-at": "2025-06-22T08:38:15Z"
 }

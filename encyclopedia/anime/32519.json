@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Ishura",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-04-04T02:03:26Z",
+    "+@generated-on": "2025-06-22T08:38:16Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "27125"
@@ -125,8 +125,13 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "12",
-        "+@weighted_score": "5.8778"
+        "+@nb_votes": "20",
+        "+@weighted_score": "6.258",
+        "+@bayesian_score": "6.73758"
+    },
+    "review": {
+        "+content": "<cite>Ishura</cite> Season 2 Anime Series Review",
+        "+@href": "https://www.animenewsnetwork.com/review/ishura-episode-13-24/anime-series/.223955"
     },
     "news": [
         {
@@ -626,7 +631,7 @@
         {
             "+@gid": "2383039424",
             "+@lang": "FR",
-            "role": "Harghent",
+            "role": "Hargent",
             "person": {
                 "+content": "Swan Demarsan",
                 "+@id": "206374"
@@ -867,6 +872,15 @@
             }
         },
         {
+            "+@gid": "2064717018",
+            "+@lang": "JA",
+            "role": "Kia the World Word",
+            "person": {
+                "+content": "Aoi Yūki",
+                "+@id": "68107"
+            }
+        },
+        {
             "+@gid": "1365989678",
             "+@lang": "JA",
             "role": "Yukiharu the Twilight Diver",
@@ -903,6 +917,15 @@
             }
         },
         {
+            "+@gid": "3117474021",
+            "+@lang": "JA",
+            "role": "Yuno the Distant Talon",
+            "person": {
+                "+content": "Reina Ueda",
+                "+@id": "116390"
+            }
+        },
+        {
             "+@gid": "2930015760",
             "+@lang": "JA",
             "role": "Cuneigh the Wanderer",
@@ -919,6 +942,15 @@
                 "+content": "Rie Takahashi",
                 "+@id": "126148"
             }
+        },
+        {
+            "+@gid": "3433400844",
+            "+@lang": "JA",
+            "role": "Shiki Aihara, Enemy of All",
+            "person": {
+                "+content": "Tomori Kusunoki",
+                "+@id": "158678"
+            }
         }
     ],
     "credit": {
@@ -930,6 +962,6 @@
         }
     },
     "+@date-added": "2024-03-20T19:17:06Z",
-    "+@date-last-modified-at": "2025-04-04T02:03:28Z",
-    "+@date-last-updated-at": "2025-04-04T02:03:28Z"
+    "+@date-last-modified-at": "2025-06-22T08:38:18Z",
+    "+@date-last-updated-at": "2025-06-22T08:38:18Z"
 }

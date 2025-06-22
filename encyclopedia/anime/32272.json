@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Baban Baban Ban Vampire",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-04T02:03:27Z",
+    "+@generated-on": "2025-06-22T08:38:16Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27375"
@@ -64,8 +64,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "12",
-        "+@weighted_score": "5.167"
+        "+@nb_votes": "16",
+        "+@weighted_score": "5.6168",
+        "+@bayesian_score": "6.44997"
     },
     "news": [
         {
@@ -107,6 +108,11 @@
             "+content": "Japanese Animation TV Ranking, March 17-23",
             "+@datetime": "2025-03-30T20:15:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-30/japanese-animation-tv-ranking-march-17-23/.223032"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, March 24-30",
+            "+@datetime": "2025-04-05T12:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-05/japanese-animation-tv-ranking-march-24-30/.223232"
         }
     ],
     "staff": [
@@ -264,15 +270,89 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "676139526",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Gaina",
-            "+@id": "17301"
+    "credit": [
+        {
+            "+@gid": "676139526",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Gaina",
+                "+@id": "17301"
+            }
+        },
+        {
+            "+@gid": "2561107051",
+            "task": "Production",
+            "company": {
+                "+content": "MOVIC",
+                "+@id": "52"
+            }
+        },
+        {
+            "+@gid": "2032877527",
+            "task": "Production",
+            "company": {
+                "+content": "TV Asahi",
+                "+@id": "160"
+            }
+        },
+        {
+            "+@gid": "1739753890",
+            "task": "Production",
+            "company": {
+                "+content": "Akita Publishing",
+                "+@id": "596"
+            }
+        },
+        {
+            "+@gid": "746797384",
+            "task": "Production",
+            "company": {
+                "+content": "East Japan Marketing & Communications, Inc.",
+                "+@id": "1018"
+            }
+        },
+        {
+            "+@gid": "2821791906",
+            "task": "Production",
+            "company": {
+                "+content": "TV Asahi Music",
+                "+@id": "2025"
+            }
+        },
+        {
+            "+@gid": "1760317030",
+            "task": "Production",
+            "company": {
+                "+content": "BS Asahi",
+                "+@id": "4696"
+            }
+        },
+        {
+            "+@gid": "2486215019",
+            "task": "Production",
+            "company": {
+                "+content": "Shochiku",
+                "+@id": "14702"
+            }
+        },
+        {
+            "+@gid": "2841600873",
+            "task": "Production",
+            "company": {
+                "+content": "Lawson Entertainment",
+                "+@id": "18128"
+            }
+        },
+        {
+            "+@gid": "1657695931",
+            "task": "Production",
+            "company": {
+                "+content": "LY Corporation",
+                "+@id": "26791"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-02-29T04:27:20Z",
-    "+@date-last-modified-at": "2025-04-04T02:03:28Z",
-    "+@date-last-updated-at": "2025-04-04T02:03:28Z"
+    "+@date-last-modified-at": "2025-06-22T08:38:18Z",
+    "+@date-last-updated-at": "2025-06-22T08:38:18Z"
 }

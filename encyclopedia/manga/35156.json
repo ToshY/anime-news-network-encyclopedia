@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Watashi Yori Kireina Otoko no Ko",
     "+@precision": "manga",
-    "+@generated-on": "2025-04-15T02:12:50Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "4225"
-    },
+    "+@generated-on": "2025-06-22T08:38:14Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "4225"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "27506"
+        }
+    ],
     "info": [
         {
             "+@gid": "1346541180",
@@ -52,8 +58,13 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2020-06-05 (serialized in Princess, July 2020)",
+            "+content": "2020-06-05 to 2021-01-06 (serialized in Princess, Jul 2020 - Feb 2021)",
             "+@gid": "1312384987",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2023-12-01 to 2025-04-01 (serialized in Petit Princess, vols. 81 - 97)",
+            "+@gid": "439667364",
             "+@type": "Vintage"
         }
     ],
@@ -66,6 +77,6 @@
         }
     },
     "+@date-added": "2025-03-14T09:54:53Z",
-    "+@date-last-modified-at": "2025-04-15T02:12:51Z",
-    "+@date-last-updated-at": "2025-04-15T02:12:51Z"
+    "+@date-last-modified-at": "2025-06-22T08:38:15Z",
+    "+@date-last-updated-at": "2025-06-22T08:38:15Z"
 }

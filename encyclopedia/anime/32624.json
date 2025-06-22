@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Shangri-La Frontier",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-04-03T20:32:21Z",
+    "+@generated-on": "2025-06-22T08:38:15Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26032"
@@ -56,6 +56,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "OC",
+            "+@gid": "1682159375",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "2024-10-13",
             "+@gid": "751081196",
             "+@type": "Vintage"
@@ -79,9 +84,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "44",
-        "+@weighted_score": "7.6686",
-        "+@bayesian_score": "7.62472"
+        "+@nb_votes": "85",
+        "+@weighted_score": "7.7324",
+        "+@bayesian_score": "7.69831"
     },
     "news": [
         {
@@ -1016,6 +1021,14 @@
             }
         },
         {
+            "+@gid": "2568982571",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zi Lan Zhong",
+                "+@id": "282090"
+            }
+        },
+        {
             "+@gid": "1560033018",
             "task": "Sound Director",
             "person": {
@@ -1136,15 +1149,6 @@
             }
         },
         {
-            "+@gid": "1217958106",
-            "+@lang": "EN",
-            "role": "Tsukuyo Tsukuri",
-            "person": {
-                "+content": "Michelle Rojas",
-                "+@id": "115434"
-            }
-        },
-        {
             "+@gid": "2892542119",
             "+@lang": "EN",
             "role": "Akitsu Akane",
@@ -1190,15 +1194,6 @@
             }
         },
         {
-            "+@gid": "4024393100",
-            "+@lang": "EN",
-            "role": "Ritsu Amachi",
-            "person": {
-                "+content": "Sarah Roach",
-                "+@id": "184047"
-            }
-        },
-        {
             "+@gid": "2254099257",
             "+@lang": "EN",
             "role": "Rei Saiga / Psyger-0",
@@ -1223,15 +1218,6 @@
             "person": {
                 "+content": "Molly Zhang",
                 "+@id": "206773"
-            }
-        },
-        {
-            "+@gid": "2356073445",
-            "+@lang": "EN",
-            "role": "Sakai Tsukuyogi",
-            "person": {
-                "+content": "Daniel Van Thomas",
-                "+@id": "228454"
             }
         },
         {
@@ -1352,6 +1338,15 @@
             }
         },
         {
+            "+@gid": "2069928389",
+            "+@lang": "FR",
+            "role": "Sylvia Goldberg",
+            "person": {
+                "+content": "Camille Gondard",
+                "+@id": "146317"
+            }
+        },
+        {
             "+@gid": "3466359355",
             "+@lang": "FR",
             "role": "Mold",
@@ -1451,42 +1446,6 @@
             }
         },
         {
-            "+@gid": "1934627410",
-            "+@lang": "JA",
-            "role": "Ritsu Amachi",
-            "person": {
-                "+content": "Kaori Nazuka",
-                "+@id": "439"
-            }
-        },
-        {
-            "+@gid": "1495819471",
-            "+@lang": "JA",
-            "role": "Vysache",
-            "person": {
-                "+content": "Akio Ōtsuka",
-                "+@id": "459"
-            }
-        },
-        {
-            "+@gid": "2789533718",
-            "+@lang": "JA",
-            "role": "Sakai Tsukuyogi",
-            "person": {
-                "+content": "Kenji Nojima",
-                "+@id": "4667"
-            }
-        },
-        {
-            "+@gid": "2204899061",
-            "+@lang": "JA",
-            "role": "Tsukuyo Tsukuri",
-            "person": {
-                "+content": "Ami Koshimizu",
-                "+@id": "17254"
-            }
-        },
-        {
             "+@gid": "1668765981",
             "+@lang": "JA",
             "role": "Akane Akitsu",
@@ -1574,15 +1533,6 @@
             "person": {
                 "+content": "Yumiri Hanamori",
                 "+@id": "118609"
-            }
-        },
-        {
-            "+@gid": "2891328525",
-            "+@lang": "JA",
-            "role": "Orcelott",
-            "person": {
-                "+content": "Seiichirō Yamashita",
-                "+@id": "121187"
             }
         },
         {
@@ -1725,6 +1675,6 @@
         }
     ],
     "+@date-added": "2024-03-31T05:20:43Z",
-    "+@date-last-modified-at": "2025-04-03T20:32:25Z",
-    "+@date-last-updated-at": "2025-04-03T20:32:25Z"
+    "+@date-last-modified-at": "2025-06-22T08:38:18Z",
+    "+@date-last-updated-at": "2025-06-22T08:38:18Z"
 }

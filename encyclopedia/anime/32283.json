@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Honey Lemon Soda",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-04T02:03:27Z",
+    "+@generated-on": "2025-06-22T08:38:16Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25987"
@@ -45,6 +45,11 @@
             "+@gid": "2300558639",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "1930785340",
+            "+@type": "Genres"
         },
         {
             "+content": "drama",
@@ -99,9 +104,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "38",
-        "+@weighted_score": "6.7091",
-        "+@bayesian_score": "6.90463"
+        "+@nb_votes": "63",
+        "+@weighted_score": "6.8194",
+        "+@bayesian_score": "6.93161"
     },
     "news": [
         {
@@ -222,7 +227,7 @@
             "+@gid": "1794923295",
             "task": "Storyboard",
             "person": {
-                "+content": "Kouichi Takada",
+                "+content": "Kōichi Takada",
                 "+@id": "31361"
             }
         },
@@ -280,6 +285,14 @@
             "person": {
                 "+content": "Hideki Okamoto",
                 "+@id": "12964"
+            }
+        },
+        {
+            "+@gid": "483482830",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hiroyasu Oda",
+                "+@id": "51194"
             }
         },
         {
@@ -414,8 +427,16 @@
             "+@gid": "3168489470",
             "task": "Animation Director",
             "person": {
-                "+content": "Ryoichi Oki",
+                "+content": "Ryōichi Ōki",
                 "+@id": "17287"
+            }
+        },
+        {
+            "+@gid": "185676774",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masahiro Fujii",
+                "+@id": "31709"
             }
         },
         {
@@ -512,6 +533,14 @@
             "person": {
                 "+content": "Qiang Sun",
                 "+@id": "115117"
+            }
+        },
+        {
+            "+@gid": "1097703140",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yurika Sako",
+                "+@id": "138736"
             }
         },
         {
@@ -881,6 +910,15 @@
             }
         },
         {
+            "+@gid": "1260254486",
+            "+@lang": "FR",
+            "role": "Yoshimi Ishimori",
+            "person": {
+                "+content": "Benjamin Thomas",
+                "+@id": "19359"
+            }
+        },
+        {
             "+@gid": "1603112161",
             "+@lang": "FR",
             "role": "Uka Ishimori",
@@ -923,6 +961,15 @@
             "person": {
                 "+content": "Catherine Hanotiau",
                 "+@id": "189972"
+            }
+        },
+        {
+            "+@gid": "2388422803",
+            "+@lang": "FR",
+            "role": "Professeur Abe",
+            "person": {
+                "+content": "Arthur Dubois",
+                "+@id": "213181"
             }
         },
         {
@@ -1048,6 +1095,6 @@
         }
     ],
     "+@date-added": "2024-03-01T02:28:01Z",
-    "+@date-last-modified-at": "2025-04-04T02:03:28Z",
-    "+@date-last-updated-at": "2025-04-04T02:03:28Z"
+    "+@date-last-modified-at": "2025-06-22T08:38:18Z",
+    "+@date-last-updated-at": "2025-06-22T08:38:18Z"
 }
