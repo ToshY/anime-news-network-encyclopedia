@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Mr. Osomatsu",
     "+@precision": "TV 4",
-    "+@generated-on": "2025-04-03T16:40:31Z",
+    "+@generated-on": "2025-06-22T02:31:05Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "23500"
@@ -13,24 +13,19 @@
         {
             "+@gid": "2198653288",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32792-2198653288.1736158897.jpg",
-            "+@width": "200",
-            "+@height": "119",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32792-2198653288.1749192434.jpg",
+            "+@width": "152",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32792-2198653288.1736158897.jpg",
-                    "+@width": "200",
-                    "+@height": "119"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32792-2198653288.1749192434.jpg",
+                    "+@width": "152",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32792-2198653288.1736158897.jpg",
-                    "+@width": "500",
-                    "+@height": "297"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A32792-2198653288.1736158897.jpg",
-                    "+@width": "600",
-                    "+@height": "356"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32792-2198653288.1749192434.jpg",
+                    "+@width": "455",
+                    "+@height": "600"
                 }
             ]
         },
@@ -53,8 +48,8 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2025-07",
-            "+@gid": "1997280567",
+            "+content": "2025-07-08",
+            "+@gid": "1107162656",
             "+@type": "Vintage"
         },
         {
@@ -65,11 +60,28 @@
             "+@href": "https://osomatsusan.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Mr. Osomatsu</cite> Season 4's Teaser Unveils July Premiere",
-        "+@datetime": "2025-01-06T09:59:37Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-01-06/mr-osomatsu-season-4-teaser-unveils-july-premiere/.219752"
-    },
+    "news": [
+        {
+            "+content": "<cite>Mr. Osomatsu</cite> Season 4's Teaser Unveils July Premiere",
+            "+@datetime": "2025-01-06T09:59:37Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-06/mr-osomatsu-season-4-teaser-unveils-july-premiere/.219752"
+        },
+        {
+            "+content": "<cite>Mr. Osomatsu</cite> Season 4 Anime Reveals New Teaser Video",
+            "+@datetime": "2025-04-25T11:53:06Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-25/mr-osomatsu-season-4-anime-reveals-new-teaser-video/.223909"
+        },
+        {
+            "+content": "<cite>Mr. Osomatsu</cite> Season 4 Reveals Opening Song Artists DA PUMP",
+            "+@datetime": "2025-05-30T00:46:27Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-29/mr-osomatsu-season-4-reveals-opening-song-artists-da-pump/.224930"
+        },
+        {
+            "+content": "<cite>Mr. Osomatsu</cite> Season 4 Anime's Promo Video Reveals Theme Songs, July 8 Premiere",
+            "+@datetime": "2025-06-05T16:42:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-05/mr-osomatsu-season-4-anime-promo-video-reveals-theme-songs-july-8-premiere/.225180"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1226000032",
@@ -88,6 +100,14 @@
             }
         },
         {
+            "+@gid": "2017624927",
+            "task": "Music",
+            "person": {
+                "+content": "Yukari Hashimoto",
+                "+@id": "17541"
+            }
+        },
+        {
             "+@gid": "1173621309",
             "task": "Original creator",
             "person": {
@@ -102,6 +122,46 @@
                 "+content": "Eiji Abiko",
                 "+@id": "18278"
             }
+        },
+        {
+            "+@gid": "1699418215",
+            "task": "Art Director",
+            "person": {
+                "+content": "Seiki Tamura",
+                "+@id": "1824"
+            }
+        },
+        {
+            "+@gid": "1375748175",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kasumi Wada",
+                "+@id": "46551"
+            }
+        },
+        {
+            "+@gid": "2842224065",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Haru Watanabe",
+                "+@id": "81878"
+            }
+        },
+        {
+            "+@gid": "1048415295",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Hiromi Kikuta",
+                "+@id": "1372"
+            }
+        },
+        {
+            "+@gid": "1403946830",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Tōru Fukushi",
+                "+@id": "14909"
+            }
         }
     ],
     "cast": [
@@ -115,6 +175,24 @@
             }
         },
         {
+            "+@gid": "2734996550",
+            "+@lang": "JA",
+            "role": "Dayon",
+            "person": {
+                "+content": "Nobuo Tobita",
+                "+@id": "666"
+            }
+        },
+        {
+            "+@gid": "2401751255",
+            "+@lang": "JA",
+            "role": "Matsuzō Matsuno",
+            "person": {
+                "+content": "Kazuhiko Inoue",
+                "+@id": "722"
+            }
+        },
+        {
             "+@gid": "2616254598",
             "+@lang": "JA",
             "role": "Todomatsu Matsuno",
@@ -124,12 +202,30 @@
             }
         },
         {
+            "+@gid": "4127078250",
+            "+@lang": "JA",
+            "role": "Matsuyo Matsuno",
+            "person": {
+                "+content": "Kujira",
+                "+@id": "3581"
+            }
+        },
+        {
             "+@gid": "1439710698",
             "+@lang": "JA",
             "role": "Osomatsu Matsuno",
             "person": {
                 "+content": "Takahiro Sakurai",
                 "+@id": "5039"
+            }
+        },
+        {
+            "+@gid": "1151860492",
+            "+@lang": "JA",
+            "role": "Iyami",
+            "person": {
+                "+content": "Kenichi Suzumura",
+                "+@id": "5894"
             }
         },
         {
@@ -158,6 +254,42 @@
                 "+content": "Yūichi Nakamura",
                 "+@id": "15878"
             }
+        },
+        {
+            "+@gid": "1005358357",
+            "+@lang": "JA",
+            "role": "Totoko",
+            "person": {
+                "+content": "Aya Endō",
+                "+@id": "27752"
+            }
+        },
+        {
+            "+@gid": "1862033636",
+            "+@lang": "JA",
+            "role": "Hatabō",
+            "person": {
+                "+content": "Momoko Saito",
+                "+@id": "41625"
+            }
+        },
+        {
+            "+@gid": "3226326170",
+            "+@lang": "JA",
+            "role": "Chibita",
+            "person": {
+                "+content": "Sachi Kokuryu",
+                "+@id": "55289"
+            }
+        },
+        {
+            "+@gid": "1014592651",
+            "+@lang": "JA",
+            "role": "Dekapan",
+            "person": {
+                "+content": "Yōji Ueda",
+                "+@id": "131376"
+            }
         }
     ],
     "credit": {
@@ -169,6 +301,6 @@
         }
     },
     "+@date-added": "2024-06-06T05:52:26Z",
-    "+@date-last-modified-at": "2025-04-03T16:40:39Z",
-    "+@date-last-updated-at": "2025-04-03T16:40:39Z"
+    "+@date-last-modified-at": "2025-06-22T02:31:07Z",
+    "+@date-last-updated-at": "2025-06-22T02:31:07Z"
 }

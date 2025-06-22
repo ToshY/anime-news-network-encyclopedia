@@ -2,38 +2,39 @@
     "+@id": "32761",
     "+@gid": "3424173808",
     "+@type": "movie",
-    "+@name": "Housenka",
+    "+@name": "Last Blossom",
     "+@precision": "movie",
-    "+@generated-on": "2025-04-03T16:40:33Z",
+    "+@generated-on": "2025-06-22T02:31:06Z",
     "info": [
         {
             "+@gid": "2084877678",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32761-2084877678.1716544666.jpg",
-            "+@width": "200",
-            "+@height": "113",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32761-2084877678.1745469897.jpg",
+            "+@width": "142",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32761-2084877678.1716544666.jpg",
-                    "+@width": "200",
-                    "+@height": "113"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32761-2084877678.1745469897.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32761-2084877678.1716544666.jpg",
-                    "+@width": "500",
-                    "+@height": "281"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A32761-2084877678.1716544666.jpg",
-                    "+@width": "1920",
-                    "+@height": "1080"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32761-2084877678.1745469897.jpg",
+                    "+@width": "427",
+                    "+@height": "600"
                 }
             ]
         },
         {
+            "+content": "The Last Blossom",
+            "+@gid": "2571267281",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Housenka",
             "+@gid": "2560460287",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -43,20 +44,48 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Autumn 2023. Akutsu, an elderly inmate serving life in prison, is on the verge of a lonely death in his single cell. A talking Housenka flower says to him, \"What a rotten life you had.\" Akutsu starts reflecting on his past. Summer 1986. Akutsu is living with Nana and her son Kensuke in a shabby apartment with a garden full of Housenka. It is the tale of a one-night victorious comeback by a dying yakuza, and his family's story told by a flower that blooms in prison.",
+            "+@gid": "2329695860",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "2024-06-12",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2025 (fall)",
+            "+@gid": "2543434751",
             "+@type": "Vintage"
         },
         {
             "+content": "2024-06-12 (screened at Annecy as a \"work in progress\")",
             "+@gid": "2301281856",
             "+@type": "Premiere date"
+        },
+        {
+            "+content": "映画『ホウセンカ』",
+            "+@gid": "2481694792",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://anime-housenka.com/"
         }
     ],
-    "news": {
-        "+content": "Annecy Reveals <cite>ODDTAXI</cite> Duo's New <cite>Housenka</cite> Film",
-        "+@datetime": "2024-05-24T04:53:41Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-05-24/annecy-reveals-oddtaxi-duo-new-housenka-film/.211131"
+    "review": {
+        "+content": "<cite>The Last Blossom</cite> Anime Film Review",
+        "+@href": "https://www.animenewsnetwork.com/review/the-last-blossom/anime-film/.225406"
     },
+    "news": [
+        {
+            "+content": "Annecy Reveals <cite>ODDTAXI</cite> Duo's New <cite>Housenka</cite> Film",
+            "+@datetime": "2024-05-24T04:53:41Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-05-24/annecy-reveals-oddtaxi-duo-new-housenka-film/.211131"
+        },
+        {
+            "+content": "<cite>The Last Blossom</cite> Anime Film's Teaser Reveals Cast, Composers, Fall Debut",
+            "+@datetime": "2025-04-24T02:25:54Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-23/the-last-blossom-anime-film-teaser-reveals-cast-composers-fall-debut/.223854"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2958219567",
@@ -72,6 +101,38 @@
             "person": {
                 "+content": "Kazuya Konomoto",
                 "+@id": "259651"
+            }
+        },
+        {
+            "+@gid": "1932765589",
+            "task": "Music",
+            "person": {
+                "+content": "Shōhei Takagi",
+                "+@id": "191131"
+            }
+        },
+        {
+            "+@gid": "1969662189",
+            "task": "Music",
+            "person": {
+                "+content": "cero",
+                "+@id": "191145"
+            }
+        },
+        {
+            "+@gid": "2878101866",
+            "task": "Music",
+            "person": {
+                "+content": "Yū Arauchi",
+                "+@id": "281781"
+            }
+        },
+        {
+            "+@gid": "2197179533",
+            "task": "Music",
+            "person": {
+                "+content": "Tsubasa Hashimoto",
+                "+@id": "281782"
             }
         },
         {
@@ -91,6 +152,53 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "3668367789",
+            "+@lang": "JA",
+            "role": "Akutsu",
+            "person": {
+                "+content": "Kaoru Kobayashi",
+                "+@id": "2040"
+            }
+        },
+        {
+            "+@gid": "1980432171",
+            "+@lang": "JA",
+            "role": "Nana Nagata",
+            "person": {
+                "+content": "Yoshiko Miyazaki",
+                "+@id": "49501"
+            }
+        },
+        {
+            "+@gid": "529580559",
+            "+@lang": "JA",
+            "role": "Housenka flower",
+            "person": {
+                "+content": "Pierre Taki",
+                "+@id": "55744"
+            }
+        },
+        {
+            "+@gid": "1473945622",
+            "+@lang": "JA",
+            "role": "Nana Nagata",
+            "person": {
+                "+content": "Hikari Mitsushima",
+                "+@id": "146935"
+            }
+        },
+        {
+            "+@gid": "2291298132",
+            "+@lang": "JA",
+            "role": "Akutsu",
+            "person": {
+                "+content": "Junki Tozuka",
+                "+@id": "241380"
+            }
+        }
+    ],
     "credit": {
         "+@gid": "2096346540",
         "task": "Animation Production",
@@ -100,6 +208,6 @@
         }
     },
     "+@date-added": "2024-05-24T05:56:12Z",
-    "+@date-last-modified-at": "2025-04-03T16:40:39Z",
-    "+@date-last-updated-at": "2025-04-03T16:40:39Z"
+    "+@date-last-modified-at": "2025-06-22T02:31:07Z",
+    "+@date-last-updated-at": "2025-06-22T02:31:07Z"
 }

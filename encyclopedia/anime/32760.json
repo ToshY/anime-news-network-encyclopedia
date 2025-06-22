@@ -2,9 +2,9 @@
     "+@id": "32760",
     "+@gid": "1408982965",
     "+@type": "movie",
-    "+@name": "Hyakuemu",
+    "+@name": "100 Meters",
     "+@precision": "movie",
-    "+@generated-on": "2025-04-03T16:40:33Z",
+    "+@generated-on": "2025-06-22T02:31:06Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "32759"
@@ -13,31 +13,32 @@
         {
             "+@gid": "1576060739",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32760-1576060739.1716543602.jpg",
-            "+@width": "200",
-            "+@height": "112",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32760-1576060739.1745205285.jpg",
+            "+@width": "141",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32760-1576060739.1716543602.jpg",
-                    "+@width": "200",
-                    "+@height": "112"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32760-1576060739.1745205285.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32760-1576060739.1716543602.jpg",
-                    "+@width": "500",
-                    "+@height": "281"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A32760-1576060739.1716543602.jpg",
-                    "+@width": "1160",
-                    "+@height": "652"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32760-1576060739.1745205285.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
                 }
             ]
         },
         {
+            "+content": "100 Meters",
+            "+@gid": "1019043389",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Hyakuemu",
             "+@gid": "469050829",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -47,25 +48,55 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2024-06-11",
-            "+@type": "Vintage"
+            "+content": "100M",
+            "+@gid": "3206942338",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
         },
         {
-            "+content": "2025 (Japanese theatrical release)",
-            "+@gid": "3475898085",
+            "+content": "2024-06-11",
             "+@type": "Vintage"
         },
         {
             "+content": "2024-06-11 (screened at Annecy as a \"work in progress\")",
             "+@gid": "1762271701",
             "+@type": "Premiere date"
+        },
+        {
+            "+content": "2025-09-19 (Japan theatrical release)",
+            "+@gid": "2330606798",
+            "+@type": "Premiere date"
+        },
+        {
+            "+content": "映画『ひゃくえむ。』公式サイト",
+            "+@gid": "3363518145",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://hyakuemu-anime.com/"
         }
     ],
-    "news": {
-        "+content": "Annecy Reveals <cite>ON-GAKU: Our Sound</cite> Director Kenji Iwaisawa's New Film <cite>Hyakuemu</cite> (Updated)",
-        "+@datetime": "2024-05-24T04:25:52Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-05-24/annecy-reveals-on-gaku-our-sound-director-kenji-iwaisawa-new-film-hyakuemu/.211127"
-    },
+    "news": [
+        {
+            "+content": "Annecy Reveals <cite>ON-GAKU: Our Sound</cite> Director Kenji Iwaisawa's New Film <cite>Hyakuemu</cite> (Updated)",
+            "+@datetime": "2024-05-24T04:25:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-05-24/annecy-reveals-on-gaku-our-sound-director-kenji-iwaisawa-new-film-hyakuemu/.211127"
+        },
+        {
+            "+content": "Kenji Iwaisawa's <cite>100M</cite> Film Reveals Cast, Composer, September 19 Debut in Teaser",
+            "+@datetime": "2025-04-21T01:02:55Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-20/kenji-iwaisawa-100m-film-reveals-cast-composer-september-19-debut-in-teaser/.223742"
+        },
+        {
+            "+content": "GKIDS to Screen Kenji Iwaisawa's <cite>100 Meters</cite> Film in N. American Theaters in October",
+            "+@datetime": "2025-04-21T17:19:28Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-21/gkids-to-screen-kenji-iwaisawa-100-meters-film-in-n-american-theaters-in-october/.223767"
+        },
+        {
+            "+content": "Kōki Uchiyama, Kenjirō Tsuda Join Cast of Kenji Iwaisawa's <cite>100 Meters</cite> Anime Film",
+            "+@datetime": "2025-06-13T08:43:05Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-13/koki-uchiyama-kenjiro-tsuda-join-cast-of-kenji-iwaisawa-100-meters-anime-film/.225533"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1718963863",
@@ -73,6 +104,22 @@
             "person": {
                 "+content": "Kenji Iwaisawa",
                 "+@id": "186313"
+            }
+        },
+        {
+            "+@gid": "2745781844",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Yasuyuki Mutō",
+                "+@id": "10527"
+            }
+        },
+        {
+            "+@gid": "3762239652",
+            "task": "Music",
+            "person": {
+                "+content": "Hiroaki Tsutsumi",
+                "+@id": "120845"
             }
         },
         {
@@ -100,8 +147,8 @@
             }
         },
         {
-            "+@gid": "2543461411",
-            "task": "Animation Director",
+            "+@gid": "2309592332",
+            "task": "Chief Animation Director",
             "person": {
                 "+content": "Keisuke Kojima",
                 "+@id": "83263"
@@ -129,6 +176,44 @@
             "person": {
                 "+content": "Yūki Katayama",
                 "+@id": "224678"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2257710597",
+            "+@lang": "JA",
+            "role": "Kaidō",
+            "person": {
+                "+content": "Kenjirō Tsuda",
+                "+@id": "39751"
+            }
+        },
+        {
+            "+@gid": "1891850419",
+            "+@lang": "JA",
+            "role": "Saizu",
+            "person": {
+                "+content": "Kōki Uchiyama",
+                "+@id": "56091"
+            }
+        },
+        {
+            "+@gid": "2898636531",
+            "+@lang": "JA",
+            "role": "Togashi",
+            "person": {
+                "+content": "Tori Matsuzaka",
+                "+@id": "80316"
+            }
+        },
+        {
+            "+@gid": "2109203350",
+            "+@lang": "JA",
+            "role": "Komiya",
+            "person": {
+                "+content": "Shōta Sometani",
+                "+@id": "126586"
             }
         }
     ],
@@ -167,6 +252,6 @@
         }
     ],
     "+@date-added": "2024-05-24T05:37:20Z",
-    "+@date-last-modified-at": "2025-04-03T16:40:39Z",
-    "+@date-last-updated-at": "2025-04-03T16:40:39Z"
+    "+@date-last-modified-at": "2025-06-22T02:31:07Z",
+    "+@date-last-updated-at": "2025-06-22T02:31:07Z"
 }
