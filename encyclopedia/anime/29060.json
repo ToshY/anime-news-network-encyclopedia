@@ -4,7 +4,7 @@
     "+@type": "special",
     "+@name": "Tales of Crestoria: The Wake of Sin",
     "+@precision": "special",
-    "+@generated-on": "2025-04-05T02:01:26Z",
+    "+@generated-on": "2025-06-23T08:44:33Z",
     "info": [
         {
             "+@gid": "2153325143",
@@ -47,11 +47,16 @@
             "+content": "2020-10-18",
             "+@gid": "2256527796",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Light in You\" by Ryu Miho",
+            "+@gid": "1651269615",
+            "+@type": "Insert song"
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "6.5038"
+        "+@nb_votes": "3",
+        "+@weighted_score": "6.9754"
     },
     "staff": [
         {
@@ -71,6 +76,46 @@
             }
         },
         {
+            "+@gid": "1852718005",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Toshihisa Yokoshima",
+                "+@id": "204645"
+            }
+        },
+        {
+            "+@gid": "2886126285",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Toshihisa Yokoshima",
+                "+@id": "204645"
+            }
+        },
+        {
+            "+@gid": "926241535",
+            "task": "Music",
+            "person": {
+                "+content": "Ryūdai Abe",
+                "+@id": "130416"
+            }
+        },
+        {
+            "+@gid": "1849065318",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Kōsuke Fujishima",
+                "+@id": "289"
+            }
+        },
+        {
+            "+@gid": "1191312294",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Mutsumi Inomata",
+                "+@id": "2586"
+            }
+        },
+        {
             "+@gid": "1957250236",
             "task": "Original Character Design",
             "person": {
@@ -79,47 +124,102 @@
             }
         },
         {
-            "+@gid": "2707654866",
-            "task": "Character Design",
-            "person": {
-                "+content": "Mutsumi Inomata",
-                "+@id": "2586"
-            }
-        },
-        {
-            "+@gid": "1376004748",
-            "task": "Character Design",
-            "person": {
-                "+content": "Kōsuke Fujishima",
-                "+@id": "5436"
-            }
-        },
-        {
-            "+@gid": "1064464906",
-            "task": "Character Design",
+            "+@gid": "1936113483",
+            "task": "Original Character Design",
             "person": {
                 "+content": "Daigo Okumura",
                 "+@id": "74847"
             }
         },
         {
-            "+@gid": "692161551",
-            "task": "Character Design",
+            "+@gid": "3544460471",
+            "task": "Original Character Design",
             "person": {
                 "+content": "Miyuki Kobayashi",
                 "+@id": "88731"
             }
+        },
+        {
+            "+@gid": "2268202313",
+            "task": "Character Design",
+            "person": {
+                "+content": "Daisuke Sajiki",
+                "+@id": "32356"
+            }
+        },
+        {
+            "+@gid": "2423899830",
+            "task": "Character Design",
+            "person": {
+                "+content": "Yūki Narita",
+                "+@id": "79245"
+            }
+        },
+        {
+            "+@gid": "2426254694",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Toru Konno",
+                "+@id": "127303"
+            }
+        },
+        {
+            "+@gid": "2180418817",
+            "task": "Producer",
+            "person": {
+                "+content": "Tomomi Tagawa",
+                "+@id": "282477"
+            }
         }
     ],
-    "credit": {
-        "+@gid": "2382677118",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Kamikaze Douga",
-            "+@id": "4551"
+    "cast": [
+        {
+            "+@gid": "2805662275",
+            "+@lang": "JA",
+            "role": "Misella",
+            "person": {
+                "+content": "Yui Ishikawa",
+                "+@id": "63509"
+            }
+        },
+        {
+            "+@gid": "3649825898",
+            "+@lang": "JA",
+            "role": "Vicious",
+            "person": {
+                "+content": "Yūma Uchida",
+                "+@id": "124918"
+            }
+        },
+        {
+            "+@gid": "1575599605",
+            "+@lang": "JA",
+            "role": "Kanata Hjuger",
+            "person": {
+                "+content": "Kōhei Amasaki",
+                "+@id": "131781"
+            }
         }
-    },
+    ],
+    "credit": [
+        {
+            "+@gid": "2382677118",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Kamikaze Douga",
+                "+@id": "4551"
+            }
+        },
+        {
+            "+@gid": "2362879613",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Namco Entertainment",
+                "+@id": "13564"
+            }
+        }
+    ],
     "+@date-added": "2023-07-17T15:26:58Z",
-    "+@date-last-modified-at": "2025-04-05T02:01:32Z",
-    "+@date-last-updated-at": "2025-04-05T02:01:32Z"
+    "+@date-last-modified-at": "2025-06-23T08:44:34Z",
+    "+@date-last-updated-at": "2025-06-23T08:44:34Z"
 }
