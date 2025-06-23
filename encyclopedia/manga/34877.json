@@ -2,9 +2,13 @@
     "+@id": "34877",
     "+@gid": "2242487082",
     "+@type": "manga",
-    "+@name": "RenaiRikon #Anthology",
+    "+@name": "Anthology",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-31T04:35:47Z",
+    "+@generated-on": "2025-06-23T04:48:45Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "36604"
+    },
     "info": [
         {
             "+@gid": "2274454378",
@@ -31,14 +35,62 @@
             ]
         },
         {
-            "+content": "#RenaiRikon #Anthology",
-            "+@gid": "1423966212",
+            "+content": "#Anthology",
+            "+@gid": "1833539579",
             "+@type": "Main title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "#AoharuFurin #Anthology",
+            "+@gid": "2162475291",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "#IsekaiObasan #Anthology",
+            "+@gid": "2791526087",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "#KawaiiShine #Anthology",
+            "+@gid": "2334349643",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "#アオハル不倫 #アンソロジー",
+            "+@gid": "1422553211",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "#アンソロジー",
+            "+@gid": "1992760189",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "#カワイイ死ね #アンソロジー",
+            "+@gid": "3900115051",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
             "+content": "#レンアイ離婚 #アンソロジー",
             "+@gid": "1789390607",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "#異世界オバサン #アンソロジー",
+            "+@gid": "730753596",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "#RenaiRikon #Anthology",
+            "+@gid": "1423966212",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
@@ -53,7 +105,7 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2024-05-02 to 2024-07-02 (one-shots in JOUR, Jun - Aug 2024)",
+            "+content": "2024-05-02 to 2025-04-02 (one-shots in JOUR, Jun 2024 - May 2025)",
             "+@gid": "1851421266",
             "+@type": "Vintage"
         }
@@ -76,11 +128,91 @@
             }
         },
         {
+            "+@gid": "2044860147",
+            "task": "Story & Art",
+            "person": {
+                "+content": "Kuromaru",
+                "+@id": "52927"
+            }
+        },
+        {
+            "+@gid": "3970342776",
+            "task": "Story & Art",
+            "person": {
+                "+content": "Takako Shimura",
+                "+@id": "61942"
+            }
+        },
+        {
+            "+@gid": "2833364532",
+            "task": "Story & Art",
+            "person": {
+                "+content": "Akiyo Kurosawa",
+                "+@id": "65720"
+            }
+        },
+        {
+            "+@gid": "2402142204",
+            "task": "Story & Art",
+            "person": {
+                "+content": "Yuki Ozawa",
+                "+@id": "120311"
+            }
+        },
+        {
+            "+@gid": "2363104651",
+            "task": "Story & Art",
+            "person": {
+                "+content": "Hirochi Maki",
+                "+@id": "135847"
+            }
+        },
+        {
+            "+@gid": "1485199911",
+            "task": "Story & Art",
+            "person": {
+                "+content": "Shuninta Amano",
+                "+@id": "182658"
+            }
+        },
+        {
+            "+@gid": "2013009973",
+            "task": "Story & Art",
+            "person": {
+                "+content": "Auri Hirao",
+                "+@id": "182665"
+            }
+        },
+        {
+            "+@gid": "2564412541",
+            "task": "Story & Art",
+            "person": {
+                "+content": "Akiko Monden",
+                "+@id": "201462"
+            }
+        },
+        {
             "+@gid": "1911508636",
             "task": "Story & Art",
             "person": {
                 "+content": "iko",
                 "+@id": "219533"
+            }
+        },
+        {
+            "+@gid": "3733414362",
+            "task": "Story & Art",
+            "person": {
+                "+content": "NEJIGANAMETA",
+                "+@id": "219878"
+            }
+        },
+        {
+            "+@gid": "2395000491",
+            "task": "Story & Art",
+            "person": {
+                "+content": "Kiwa Irie",
+                "+@id": "233747"
             }
         },
         {
@@ -90,9 +222,41 @@
                 "+content": "Mio Fujita",
                 "+@id": "252045"
             }
+        },
+        {
+            "+@gid": "1304341002",
+            "task": "Story & Art",
+            "person": {
+                "+content": "Marukawa",
+                "+@id": "280542"
+            }
+        },
+        {
+            "+@gid": "2505512537",
+            "task": "Story & Art",
+            "person": {
+                "+content": "Takumi Kobayashi",
+                "+@id": "282324"
+            }
+        },
+        {
+            "+@gid": "2443104525",
+            "task": "Story & Art",
+            "person": {
+                "+content": "Misao Kataoka",
+                "+@id": "283515"
+            }
+        },
+        {
+            "+@gid": "1507581002",
+            "task": "Story & Art",
+            "person": {
+                "+content": "Iraramomoi",
+                "+@id": "283516"
+            }
         }
     ],
     "+@date-added": "2025-02-28T19:19:26Z",
-    "+@date-last-modified-at": "2025-03-31T04:35:50Z",
-    "+@date-last-updated-at": "2025-03-31T04:35:50Z"
+    "+@date-last-modified-at": "2025-06-23T04:48:47Z",
+    "+@date-last-updated-at": "2025-06-23T04:48:47Z"
 }
