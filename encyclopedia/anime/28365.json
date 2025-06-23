@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "Zatsu Tabi -That's Journey-",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-05T08:33:38Z",
+    "+@generated-on": "2025-06-23T16:44:14Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28363"
     },
     "info": [
         {
-            "+@gid": "2363384094",
+            "+@gid": "2680046404",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28365-2363384094.1740830545.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28365-2680046404.1747587013.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28365-2363384094.1740830545.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28365-2680046404.1747587013.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A28365-2363384094.1740830545.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A28365-2680046404.1747587013.jpg",
+                    "+@width": "423",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A28365-2680046404.1747587013.jpg",
+                    "+@width": "550",
+                    "+@height": "780"
                 }
             ]
         },
@@ -42,6 +47,16 @@
             "+@lang": "JA"
         },
         {
+            "+content": "adventure",
+            "+@gid": "2526371271",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "1518890612",
+            "+@type": "Genres"
+        },
+        {
             "+content": "slice of life",
             "+@gid": "1130242065",
             "+@type": "Genres"
@@ -52,8 +67,18 @@
             "+@type": "Themes"
         },
         {
+            "+content": "OC",
+            "+@gid": "187761025",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "Chika Suzugamori is a college student who has been shopping some manga pitches around to publishers ever since she won a rookie manga award, but keeps getting rejected. Just as she was about to lose hope in ever breaking into the manga industry, she decides on a whim to go traveling without any particular goal. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "1806125904",
+            "+@type": "Running time"
         },
         {
             "+content": "2025-04-07",
@@ -68,6 +93,10 @@
             "+@href": "https://zatsutabi.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "3.8827"
+    },
     "news": [
         {
             "+content": "<cite>Zatsu Tabi -That's Journey-</cite> Anime's Teaser Unveils Cast, Staff, 2025 TV Debut",
@@ -158,6 +187,30 @@
             }
         },
         {
+            "+@gid": "2123318846",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Junko Matsushita",
+                "+@id": "11612"
+            }
+        },
+        {
+            "+@gid": "475037497",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Cerberus",
+                "+@id": "195297"
+            }
+        },
+        {
+            "+@gid": "2101994195",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Facu Escobedo",
+                "+@id": "230525"
+            }
+        },
+        {
             "+@gid": "3908468853",
             "task": "3D Director",
             "person": {
@@ -238,15 +291,65 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "454339729",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Makaria",
-            "+@id": "14769"
+    "credit": [
+        {
+            "+@gid": "454339729",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Makaria",
+                "+@id": "14769"
+            }
+        },
+        {
+            "+@gid": "2704586840",
+            "task": "Production",
+            "company": {
+                "+content": "Pony Canyon",
+                "+@id": "269"
+            }
+        },
+        {
+            "+@gid": "4071503104",
+            "task": "Production",
+            "company": {
+                "+content": "AT-X",
+                "+@id": "518"
+            }
+        },
+        {
+            "+@gid": "3117573928",
+            "task": "Production",
+            "company": {
+                "+content": "YTV",
+                "+@id": "2318"
+            }
+        },
+        {
+            "+@gid": "2648099976",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon BS Broadcasting Corporation",
+                "+@id": "15105"
+            }
+        },
+        {
+            "+@gid": "2938604287",
+            "task": "Production",
+            "company": {
+                "+content": "Kadokawa",
+                "+@id": "15420"
+            }
+        },
+        {
+            "+@gid": "1332323598",
+            "task": "Production",
+            "company": {
+                "+content": "Pia",
+                "+@id": "19710"
+            }
         }
-    },
+    ],
     "+@date-added": "2023-05-26T00:14:51Z",
-    "+@date-last-modified-at": "2025-04-05T08:33:41Z",
-    "+@date-last-updated-at": "2025-04-05T08:33:41Z"
+    "+@date-last-modified-at": "2025-06-23T16:44:16Z",
+    "+@date-last-updated-at": "2025-06-23T16:44:16Z"
 }
