@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Dead Mount Death Play",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-04-05T04:34:31Z",
+    "+@generated-on": "2025-06-23T13:02:45Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26567"
@@ -101,14 +101,21 @@
     ],
     "ratings": {
         "+@nb_votes": "200",
-        "+@weighted_score": "6.8055",
-        "+@bayesian_score": "6.84643"
+        "+@weighted_score": "6.805",
+        "+@bayesian_score": "6.8459"
     },
-    "release": {
-        "+content": "Dead Mount Death Play - Part 2 (Blu-ray)",
-        "+@date": "2025-01-07",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=50477"
-    },
+    "release": [
+        {
+            "+content": "Dead Mount Death Play - Part 2 (Blu-ray)",
+            "+@date": "2025-01-07",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=50477"
+        },
+        {
+            "+content": "Dead Mount Death Play - Part 2 [UK] (Blu-ray)",
+            "+@date": "2025-02-03",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=53337"
+        }
+    ],
     "news": [
         {
             "+content": "<cite>Dead Mount Death Play</cite> Anime Unveils Teaser Video, Key Visual, October 9 Debut for 2nd Half",
@@ -393,12 +400,12 @@
             }
         },
         {
-            "+@gid": "3317275455",
+            "+@gid": "1653526158",
             "+@lang": "EN",
-            "role": "Civil A. Sabaramond",
+            "role": "Lulu",
             "person": {
-                "+content": "Kolton Kirschke",
-                "+@id": "253649"
+                "+content": "Nia Celeste",
+                "+@id": "246014"
             }
         },
         {
@@ -408,6 +415,15 @@
             "person": {
                 "+content": "Rudy Lopez",
                 "+@id": "255300"
+            }
+        },
+        {
+            "+@gid": "2988534249",
+            "+@lang": "EN",
+            "role": "Civil A. Sabaramond",
+            "person": {
+                "+content": "Kolten Kirschke",
+                "+@id": "272747"
             }
         },
         {
@@ -825,6 +841,6 @@
         }
     },
     "+@date-added": "2023-06-27T18:41:28Z",
-    "+@date-last-modified-at": "2025-04-05T04:34:34Z",
-    "+@date-last-updated-at": "2025-04-05T04:34:34Z"
+    "+@date-last-modified-at": "2025-06-23T13:02:47Z",
+    "+@date-last-updated-at": "2025-06-23T13:02:47Z"
 }
