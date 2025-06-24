@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Can a Boy-Girl Friendship Survive?",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-06T12:32:54Z",
+    "+@generated-on": "2025-06-24T20:35:07Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26204"
@@ -48,13 +48,43 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "1675061482",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "797984104",
+            "+@type": "Genres"
+        },
+        {
             "+content": "romance",
             "+@gid": "3179763339",
             "+@type": "Genres"
         },
         {
+            "+content": "love polygon",
+            "+@gid": "1784423099",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "school",
+            "+@gid": "1911719006",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "OC",
+            "+@gid": "1609700109",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "Himari Inuzuka and the flower-loving Yū Natsume swore to be friends forever during middle school. They spend their time together happily, even until high school. But when Yū's first love reappears in his life, their relationship slowly becomes more chaotic, and Himari and Yū's relationship slowly turns into something else. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "1569707913",
+            "+@type": "Running time"
         },
         {
             "+content": "2025-04-04",
@@ -80,8 +110,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "8"
+        "+@nb_votes": "26",
+        "+@weighted_score": "6.2098",
+        "+@bayesian_score": "6.63157"
     },
     "news": [
         {
@@ -153,6 +184,110 @@
             }
         },
         {
+            "+@gid": "3245703434",
+            "task": "Script",
+            "person": {
+                "+content": "Nozu Yaemori",
+                "+@id": "274126"
+            }
+        },
+        {
+            "+@gid": "2334114336",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Miyuki Ishida",
+                "+@id": "18022"
+            }
+        },
+        {
+            "+@gid": "564261309",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ken'ichi Nishida",
+                "+@id": "19089"
+            }
+        },
+        {
+            "+@gid": "541148052",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kentarō Suzuki",
+                "+@id": "78595"
+            }
+        },
+        {
+            "+@gid": "2818709852",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Masato Matsune",
+                "+@id": "103231"
+            }
+        },
+        {
+            "+@gid": "1343568969",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ei Tanaka",
+                "+@id": "168623"
+            }
+        },
+        {
+            "+@gid": "2651186291",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yōhei Suzuki",
+                "+@id": "274125"
+            }
+        },
+        {
+            "+@gid": "1646399886",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Masashi Tsukino",
+                "+@id": "16453"
+            }
+        },
+        {
+            "+@gid": "1448563570",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Miyuki Ishida",
+                "+@id": "18022"
+            }
+        },
+        {
+            "+@gid": "1984596468",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shūji Miyazaki",
+                "+@id": "49516"
+            }
+        },
+        {
+            "+@gid": "1834282440",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Daisuke Kurose",
+                "+@id": "50403"
+            }
+        },
+        {
+            "+@gid": "2836861170",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Miyuki Ishida",
+                "+@id": "18022"
+            }
+        },
+        {
+            "+@gid": "1698693626",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Kentarō Suzuki",
+                "+@id": "78595"
+            }
+        },
+        {
             "+@gid": "2864405889",
             "task": "Music",
             "person": {
@@ -185,11 +320,235 @@
             }
         },
         {
+            "+@gid": "3505327174",
+            "task": "Art Director",
+            "person": {
+                "+content": "Sakura Murakami",
+                "+@id": "176464"
+            }
+        },
+        {
+            "+@gid": "3323945846",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Shinya Hasegawa",
+                "+@id": "4289"
+            }
+        },
+        {
+            "+@gid": "3126673025",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kazumi Ono",
+                "+@id": "68181"
+            }
+        },
+        {
+            "+@gid": "1948102339",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Natsuki Ōyama",
+                "+@id": "169910"
+            }
+        },
+        {
+            "+@gid": "2358335300",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yumi Nakayama",
+                "+@id": "691"
+            }
+        },
+        {
+            "+@gid": "3369165828",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yukako Tsuzuki",
+                "+@id": "15208"
+            }
+        },
+        {
+            "+@gid": "2613050226",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ryōichi Ōki",
+                "+@id": "17287"
+            }
+        },
+        {
+            "+@gid": "1596886831",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kōji Ogawa",
+                "+@id": "29586"
+            }
+        },
+        {
+            "+@gid": "1575353317",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Maki Sawai",
+                "+@id": "32801"
+            }
+        },
+        {
+            "+@gid": "756356977",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kanae Komatsu",
+                "+@id": "64050"
+            }
+        },
+        {
+            "+@gid": "3111689687",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazumi Ono",
+                "+@id": "68181"
+            }
+        },
+        {
+            "+@gid": "3415473441",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hironori Hano",
+                "+@id": "80343"
+            }
+        },
+        {
+            "+@gid": "2475759096",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Beom Seok Hong",
+                "+@id": "114049"
+            }
+        },
+        {
+            "+@gid": "1500891565",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Haruka Tsubata",
+                "+@id": "138739"
+            }
+        },
+        {
+            "+@gid": "1854809145",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mika Takahashi",
+                "+@id": "168972"
+            }
+        },
+        {
+            "+@gid": "2241082783",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ryōsuke Tanigawa",
+                "+@id": "263651"
+            }
+        },
+        {
             "+@gid": "1468139868",
             "task": "Sound Director",
             "person": {
                 "+content": "Jin Aketagawa",
                 "+@id": "8466"
+            }
+        },
+        {
+            "+@gid": "2730801054",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Mayu Yokokawa",
+                "+@id": "202000"
+            }
+        },
+        {
+            "+@gid": "2516505127",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yoshihiro Tōgō",
+                "+@id": "155154"
+            }
+        },
+        {
+            "+@gid": "2323846268",
+            "task": "Producer",
+            "person": {
+                "+content": "Toyota Todoroki",
+                "+@id": "64706"
+            }
+        },
+        {
+            "+@gid": "2344737996",
+            "task": "Producer",
+            "person": {
+                "+content": "Nao Matsumura",
+                "+@id": "114882"
+            }
+        },
+        {
+            "+@gid": "1946476012",
+            "task": "Producer",
+            "person": {
+                "+content": "Yūichirō Kurokawa",
+                "+@id": "178501"
+            }
+        },
+        {
+            "+@gid": "2823636774",
+            "task": "Producer",
+            "person": {
+                "+content": "Ayana Kawanami",
+                "+@id": "181078"
+            }
+        },
+        {
+            "+@gid": "1415299978",
+            "task": "Producer",
+            "person": {
+                "+content": "Yōsuke Nagafuchi",
+                "+@id": "208189"
+            }
+        },
+        {
+            "+@gid": "2598151393",
+            "task": "Producer",
+            "person": {
+                "+content": "Yūko Matsui",
+                "+@id": "230344"
+            }
+        },
+        {
+            "+@gid": "2925394982",
+            "task": "Producer",
+            "person": {
+                "+content": "Miho Kikuchi",
+                "+@id": "231810"
+            }
+        },
+        {
+            "+@gid": "1334265486",
+            "task": "Producer",
+            "person": {
+                "+content": "Kōji Sawahata",
+                "+@id": "261067"
+            }
+        },
+        {
+            "+@gid": "2508806348",
+            "task": "Producer",
+            "person": {
+                "+content": "Mina Yamaoka",
+                "+@id": "267962"
+            }
+        },
+        {
+            "+@gid": "1164070092",
+            "task": "Producer",
+            "person": {
+                "+content": "Yō Katayama",
+                "+@id": "278009"
             }
         }
     ],
@@ -340,6 +699,6 @@
         }
     ],
     "+@date-added": "2022-08-10T03:33:01Z",
-    "+@date-last-modified-at": "2025-04-06T12:50:59Z",
-    "+@date-last-updated-at": "2025-04-06T12:50:59Z"
+    "+@date-last-modified-at": "2025-06-24T20:35:08Z",
+    "+@date-last-updated-at": "2025-06-24T20:35:08Z"
 }
