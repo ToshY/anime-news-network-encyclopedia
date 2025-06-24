@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "2.5 Dimensional Seduction",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-06T02:14:24Z",
+    "+@generated-on": "2025-06-24T08:44:01Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25282"
@@ -152,9 +152,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "35",
-        "+@weighted_score": "7.2622",
-        "+@bayesian_score": "7.32016"
+        "+@nb_votes": "36",
+        "+@weighted_score": "7.2537",
+        "+@bayesian_score": "7.31244"
     },
     "episode": [
         {
@@ -333,11 +333,6 @@
             "+@href": "https://www.animenewsnetwork.com:/news/2024-09-15/2.5-dimensional-seduction-anime-reveals-2nd-half-promo-video-new-theme-songs-cast-member/.215546"
         },
         {
-            "+content": "North American Anime, Manga Releases, November 17-23",
-            "+@datetime": "2024-11-22T22:00:00Z",
-            "+@href": "https://www.animenewsnetwork.com:/news/2024-11-22/north-american-anime-manga-releases-november-17-23/.218046"
-        },
-        {
             "+content": "<cite>2.5 Dimensional Seduction</cite> Anime Gets 2nd Season",
             "+@datetime": "2024-12-13T15:32:05Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-13/2.5-dimensional-seduction-anime-gets-2nd-season/.219000"
@@ -346,6 +341,11 @@
             "+content": "Netflix Streams <cite>Puniru is a Kawaii Slime</cite>, <cite>2.5 Dimensional Seduction</cite> Anime in India",
             "+@datetime": "2025-02-07T12:32:19Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-02-07/netflix-streams-puniru-is-a-kawaii-slime-2.5-dimensional-seduction-anime-in-india/.220952"
+        },
+        {
+            "+content": "<cite>2.5 Dimensional Seduction</cite> Anime Gets English Dub on May 7",
+            "+@datetime": "2025-05-06T17:10:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-06/2.5-dimensional-seduction-anime-gets-english-dub-on-may-7/.224217"
         }
     ],
     "staff": [
@@ -377,7 +377,7 @@
             "+@gid": "2451943535",
             "task": "Script",
             "person": {
-                "+content": "Kouichi Takada",
+                "+content": "Kōichi Takada",
                 "+@id": "31361"
             }
         },
@@ -417,7 +417,7 @@
             "+@gid": "3201131676",
             "task": "Storyboard",
             "person": {
-                "+content": "Kouichi Takada",
+                "+content": "Kōichi Takada",
                 "+@id": "31361"
             }
         },
@@ -433,7 +433,7 @@
             "+@gid": "565127145",
             "task": "Storyboard",
             "person": {
-                "+content": "Shuuji Miyazaki",
+                "+content": "Shūji Miyazaki",
                 "+@id": "49516"
             }
         },
@@ -473,7 +473,7 @@
             "+@gid": "1302421299",
             "task": "Episode Director",
             "person": {
-                "+content": "Shuuji Miyazaki",
+                "+content": "Shūji Miyazaki",
                 "+@id": "49516"
             }
         },
@@ -937,6 +937,24 @@
             }
         },
         {
+            "+@gid": "2274203629",
+            "+@lang": "DE",
+            "role": "Ogino",
+            "person": {
+                "+content": "Thomas Nero Wolff",
+                "+@id": "39930"
+            }
+        },
+        {
+            "+@gid": "2154573505",
+            "+@lang": "DE",
+            "role": "Ririsa Amano",
+            "person": {
+                "+content": "Rieke Werner",
+                "+@id": "67599"
+            }
+        },
+        {
             "+@gid": "2264067478",
             "+@lang": "DE",
             "role": "Mayuri Hanyū",
@@ -946,12 +964,165 @@
             }
         },
         {
+            "+@gid": "1124922742",
+            "+@lang": "DE",
+            "role": "Masamune Okumura",
+            "person": {
+                "+content": "Patrick Keller",
+                "+@id": "121003"
+            }
+        },
+        {
             "+@gid": "1475279035",
             "+@lang": "DE",
             "role": "Mikari Tachibana",
             "person": {
                 "+content": "Lisa May-Mitsching",
                 "+@id": "211193"
+            }
+        },
+        {
+            "+@gid": "930232699",
+            "+@lang": "EN",
+            "role": "Mayuri Hanyu",
+            "person": {
+                "+content": "Shelley Calene-Black",
+                "+@id": "4919"
+            }
+        },
+        {
+            "+@gid": "1920121564",
+            "+@lang": "EN",
+            "role": "Magino",
+            "person": {
+                "+content": "Courtney Lomelo",
+                "+@id": "134981"
+            }
+        },
+        {
+            "+@gid": "1304824909",
+            "+@lang": "EN",
+            "role": "Ogino",
+            "person": {
+                "+content": "Benjamin McLaughlin",
+                "+@id": "147456"
+            }
+        },
+        {
+            "+@gid": "558289866",
+            "+@lang": "EN",
+            "role": "Ririsa Amano",
+            "person": {
+                "+content": "Shanae'a Moore",
+                "+@id": "152266"
+            }
+        },
+        {
+            "+@gid": "265770304",
+            "+@lang": "EN",
+            "role": "Masamune Okumura",
+            "person": {
+                "+content": "Jack Stansbury",
+                "+@id": "220224"
+            }
+        },
+        {
+            "+@gid": "2036445508",
+            "+@lang": "EN",
+            "role": "Mikari Tachibana",
+            "person": {
+                "+content": "Jade Kelly",
+                "+@id": "226466"
+            }
+        },
+        {
+            "+@gid": "4063448445",
+            "+@lang": "ES",
+            "role": "Aria Kisaki",
+            "person": {
+                "+content": "Ana Lobo",
+                "+@id": "23439"
+            }
+        },
+        {
+            "+@gid": "3519572172",
+            "+@lang": "ES",
+            "role": "Mayuri Hanyu",
+            "person": {
+                "+content": "Adriana Casas",
+                "+@id": "24165"
+            }
+        },
+        {
+            "+@gid": "2085011233",
+            "+@lang": "ES",
+            "role": "Ririsa Amano",
+            "person": {
+                "+content": "Nycolle González",
+                "+@id": "121463"
+            }
+        },
+        {
+            "+@gid": "3555115042",
+            "+@lang": "ES",
+            "role": "Magino",
+            "person": {
+                "+content": "Alicia Barragán",
+                "+@id": "129425"
+            }
+        },
+        {
+            "+@gid": "1091314361",
+            "+@lang": "ES",
+            "role": "Nonoa",
+            "person": {
+                "+content": "Annie Rojas",
+                "+@id": "129768"
+            }
+        },
+        {
+            "+@gid": "1869164704",
+            "+@lang": "ES",
+            "role": "Masamune Okumura",
+            "person": {
+                "+content": "Iván Bastidas",
+                "+@id": "149105"
+            }
+        },
+        {
+            "+@gid": "935211876",
+            "+@lang": "ES",
+            "role": "Nonoa",
+            "person": {
+                "+content": "María García",
+                "+@id": "152809"
+            }
+        },
+        {
+            "+@gid": "1143375386",
+            "+@lang": "ES",
+            "role": "Ogino",
+            "person": {
+                "+content": "Gerardo Ortega",
+                "+@id": "155770"
+            }
+        },
+        {
+            "+@gid": "3317898161",
+            "+@lang": "ES",
+            "role": "Mikari Tachibana",
+            "person": {
+                "+content": "Azucena Miranda",
+                "+@id": "155874"
+            }
+        },
+        {
+            "+@gid": "1730153112",
+            "+@lang": "ES",
+            "role": "Nagomi",
+            "person": {
+                "+content": "Scarlet Miuller",
+                "+@id": "207316"
             }
         },
         {
@@ -1090,6 +1261,6 @@
         }
     },
     "+@date-added": "2022-12-09T20:04:25Z",
-    "+@date-last-modified-at": "2025-04-06T02:14:27Z",
-    "+@date-last-updated-at": "2025-04-06T02:14:27Z"
+    "+@date-last-modified-at": "2025-06-24T08:44:03Z",
+    "+@date-last-updated-at": "2025-06-24T08:44:03Z"
 }
