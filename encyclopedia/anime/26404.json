@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Ghost Cat Anzu",
     "+@precision": "movie",
-    "+@generated-on": "2025-04-06T08:34:39Z",
+    "+@generated-on": "2025-06-24T16:43:28Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26403"
@@ -92,18 +92,25 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "6.7052"
+        "+@nb_votes": "6",
+        "+@weighted_score": "6.9884"
     },
     "review": {
         "+content": "<cite>Ghost Cat Anzu</cite> Anime Movie Review",
         "+@href": "https://www.animenewsnetwork.com/review/ghost-cat-anzu/anime-movie/.217560"
     },
-    "release": {
-        "+content": "Ghost Cat Anzu (Blu-ray)",
-        "+@date": "2025-03-04",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=51629"
-    },
+    "release": [
+        {
+            "+content": "Ghost Cat Anzu (Blu-ray)",
+            "+@date": "2025-03-04",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=51629"
+        },
+        {
+            "+content": "Ghost Cat Anzu (DVD)",
+            "+@date": "2025-03-19",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=53609"
+        }
+    ],
     "news": [
         {
             "+content": "Shin-ei Animation Partners with French Studio for <cite>Ghost Cat Anzu</cite> Film",
@@ -204,6 +211,11 @@
             "+content": "JFF Festival in Ireland in April Will Include Anime Titles",
             "+@datetime": "2025-03-28T22:29:44Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-28/jff-festival-in-ireland-in-april-will-include-anime-titles/.223005"
+        },
+        {
+            "+content": "<i>Ghost Cat Anzu</i> Cinema Screening in Cardiff on Sunday",
+            "+@datetime": "2025-05-17T12:17:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-17/ghost-cat-anzu-cinema-screening-in-cardiff-on-sunday/.224528"
         }
     ],
     "staff": [
@@ -436,6 +448,42 @@
             }
         },
         {
+            "+@gid": "2451627465",
+            "+@lang": "ES",
+            "role": "Anzu",
+            "person": {
+                "+content": "Eduard Itchart",
+                "+@id": "50502"
+            }
+        },
+        {
+            "+@gid": "2305814077",
+            "+@lang": "ES",
+            "role": "Tetsuya",
+            "person": {
+                "+content": "Raúl Llorens",
+                "+@id": "50790"
+            }
+        },
+        {
+            "+@gid": "3825101604",
+            "+@lang": "ES",
+            "role": "Patró",
+            "person": {
+                "+content": "Lluis Marco",
+                "+@id": "52340"
+            }
+        },
+        {
+            "+@gid": "2115778180",
+            "+@lang": "ES",
+            "role": "Karin",
+            "person": {
+                "+content": "Àngels Ribalta",
+                "+@id": "191748"
+            }
+        },
+        {
             "+@gid": "2124496403",
             "+@lang": "FR",
             "role": "Anzu",
@@ -572,6 +620,6 @@
         }
     ],
     "+@date-added": "2022-10-03T22:32:41Z",
-    "+@date-last-modified-at": "2025-04-06T08:34:42Z",
-    "+@date-last-updated-at": "2025-04-06T08:34:42Z"
+    "+@date-last-modified-at": "2025-06-24T16:43:30Z",
+    "+@date-last-updated-at": "2025-06-24T16:43:30Z"
 }
