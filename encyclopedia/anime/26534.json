@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "April Showers Bring May Flowers",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-06T04:37:43Z",
+    "+@generated-on": "2025-06-24T13:02:01Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26533"
@@ -42,6 +42,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "BUSUNI-HANATABA-WO",
+            "+@gid": "1723712844",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
             "+content": "ブスに花束を。",
             "+@gid": "3738866129",
             "+@type": "Alternative title",
@@ -52,7 +58,7 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2025-07",
+            "+content": "2025-07-04",
             "+@gid": "2347531925",
             "+@type": "Vintage"
         },
@@ -64,11 +70,23 @@
             "+@href": "https://busunihanatabawo.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>April Showers Bring May Flowers</cite> TV Anime Reveals Main Cast, Staff, July Debut in Teaser Video",
-        "+@datetime": "2025-02-28T09:26:37Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-02-28/april-showers-bring-may-flowers-tv-anime-reveals-main-cast-staff-july-debut-in-teaser-video/.221764"
-    },
+    "news": [
+        {
+            "+content": "<cite>April Showers Bring May Flowers</cite> TV Anime Reveals Main Cast, Staff, July Debut in Teaser Video",
+            "+@datetime": "2025-02-28T09:26:37Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-28/april-showers-bring-may-flowers-tv-anime-reveals-main-cast-staff-july-debut-in-teaser-video/.221764"
+        },
+        {
+            "+content": "TWS, Ayumu Imazu Perform Opening Theme for <cite>April Showers Bring May Flowers</cite> TV Anime",
+            "+@datetime": "2025-05-16T10:51:43Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-16/tws-ayumu-imazu-perform-opening-theme-for-april-showers-bring-may-flowers-tv-anime/.224506"
+        },
+        {
+            "+content": "<cite>April Showers Bring May Flowers</cite> TV Anime's Video Reveals Cast, July 4 Premiere",
+            "+@datetime": "2025-05-30T10:23:12Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-30/april-showers-bring-may-flowers-tv-anime-video-reveals-cast-july-4-premiere/.224948"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2489595260",
@@ -163,6 +181,15 @@
             }
         },
         {
+            "+@gid": "2834030973",
+            "+@lang": "JA",
+            "role": "Tsutomu Shinbashi",
+            "person": {
+                "+content": "Tasuku Hatanaka",
+                "+@id": "99622"
+            }
+        },
+        {
             "+@gid": "1584070020",
             "+@lang": "JA",
             "role": "Yōsuke Ueno",
@@ -179,6 +206,15 @@
                 "+content": "Yoshino Aoyama",
                 "+@id": "123095"
             }
+        },
+        {
+            "+@gid": "1792131443",
+            "+@lang": "JA",
+            "role": "Keisuke Ueno",
+            "person": {
+                "+content": "Makoto Koichi",
+                "+@id": "143804"
+            }
         }
     ],
     "credit": {
@@ -190,6 +226,6 @@
         }
     },
     "+@date-added": "2022-11-04T06:07:27Z",
-    "+@date-last-modified-at": "2025-04-06T04:37:45Z",
-    "+@date-last-updated-at": "2025-04-06T04:37:45Z"
+    "+@date-last-modified-at": "2025-06-24T13:02:03Z",
+    "+@date-last-updated-at": "2025-06-24T13:02:03Z"
 }

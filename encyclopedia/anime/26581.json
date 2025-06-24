@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Bye Bye, Earth",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-06T04:37:42Z",
+    "+@generated-on": "2025-06-24T13:02:00Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26578"
@@ -51,6 +51,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "swordplay",
+            "+@gid": "1873448281",
+            "+@type": "Themes"
+        },
+        {
             "+content": "Set on an Earth where all people take the form of animals, Bell is the only girl in the world without animal characteristics. She sets out to discover if there are other beings like her. Bell wields a sword and becomes involved in the struggles between the cities and the outside world. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
         },
@@ -73,9 +78,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "47",
-        "+@weighted_score": "5.1333",
-        "+@bayesian_score": "5.64093"
+        "+@nb_votes": "51",
+        "+@weighted_score": "5.0919",
+        "+@bayesian_score": "5.57599"
     },
     "episode": [
         {
@@ -246,7 +251,7 @@
             "+@gid": "830086094",
             "task": "Script",
             "person": {
-                "+content": "Hiroshi Ohnogi",
+                "+content": "Hiroshi Ōnogi",
                 "+@id": "402"
             }
         },
@@ -505,6 +510,15 @@
             }
         },
         {
+            "+@gid": "2947169163",
+            "+@lang": "EN",
+            "role": "Benedictine",
+            "person": {
+                "+content": "Elise Baughman",
+                "+@id": "13313"
+            }
+        },
+        {
             "+@gid": "2658942974",
             "+@lang": "EN",
             "role": "King Rawhide",
@@ -547,6 +561,15 @@
             "person": {
                 "+content": "Megan Shipman",
                 "+@id": "126916"
+            }
+        },
+        {
+            "+@gid": "1309612960",
+            "+@lang": "EN",
+            "role": "Kitty the All",
+            "person": {
+                "+content": "Kyle Igneczi",
+                "+@id": "148012"
             }
         },
         {
@@ -774,6 +797,6 @@
         }
     ],
     "+@date-added": "2022-11-17T10:37:21Z",
-    "+@date-last-modified-at": "2025-04-06T04:37:45Z",
-    "+@date-last-updated-at": "2025-04-06T04:37:45Z"
+    "+@date-last-modified-at": "2025-06-24T13:02:03Z",
+    "+@date-last-updated-at": "2025-06-24T13:02:03Z"
 }
