@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Ragna Crimson",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-07T04:35:42Z",
+    "+@generated-on": "2025-06-25T13:02:57Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24497"
@@ -144,9 +144,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "115",
-        "+@weighted_score": "6.5159",
-        "+@bayesian_score": "6.61343"
+        "+@nb_votes": "117",
+        "+@weighted_score": "6.4791",
+        "+@bayesian_score": "6.5787"
     },
     "episode": [
         {
@@ -342,11 +342,18 @@
             }
         }
     ],
-    "release": {
-        "+content": "Ragna Crimson - Collector's Edition [SteelBook] (Blu-ray)",
-        "+@date": "2025-03-11",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=51467"
-    },
+    "release": [
+        {
+            "+content": "Ragna Crimson - Collector's Edition [SteelBook] (Blu-ray)",
+            "+@date": "2025-03-11",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=51467"
+        },
+        {
+            "+content": "Ragna Crimson - Complete Collection (Blu-ray)",
+            "+@date": "2025-09-16",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=53542"
+        }
+    ],
     "news": [
         {
             "+content": "Sentai Filmworks Licenses <cite>Peter Grill</cite> Season 2, <cite>Chiikawa</cite>, <cite>Ragna Crimson</cite>, More",
@@ -1325,6 +1332,15 @@
             }
         },
         {
+            "+@gid": "2083964367",
+            "+@lang": "EN",
+            "role": "Future Ragna",
+            "person": {
+                "+content": "Ty Mahany",
+                "+@id": "44676"
+            }
+        },
+        {
             "+@gid": "1742678327",
             "+@lang": "EN",
             "role": "Slime",
@@ -1415,6 +1431,15 @@
             }
         },
         {
+            "+@gid": "2584025466",
+            "+@lang": "EN",
+            "role": "Michael",
+            "person": {
+                "+content": "Joe Daniels",
+                "+@id": "163527"
+            }
+        },
+        {
             "+@gid": "1864578432",
             "+@lang": "EN",
             "role": "Olto Zora",
@@ -1451,12 +1476,30 @@
             }
         },
         {
+            "+@gid": "1024677297",
+            "+@lang": "EN",
+            "role": "Disas Trois",
+            "person": {
+                "+content": "Alan Brincks",
+                "+@id": "172486"
+            }
+        },
+        {
             "+@gid": "2897776931",
             "+@lang": "EN",
             "role": "Majorca",
             "person": {
                 "+content": "Savanna Menzel",
                 "+@id": "172518"
+            }
+        },
+        {
+            "+@gid": "1083788483",
+            "+@lang": "EN",
+            "role": "Grymwelte",
+            "person": {
+                "+content": "Matthew David Rudd",
+                "+@id": "187135"
             }
         },
         {
@@ -1505,6 +1548,15 @@
             }
         },
         {
+            "+@gid": "1684480069",
+            "+@lang": "JA",
+            "role": "Grymwelte",
+            "person": {
+                "+content": "Takehito Koyasu",
+                "+@id": "662"
+            }
+        },
+        {
             "+@gid": "2185198143",
             "+@lang": "JA",
             "role": "Olto Zora",
@@ -1514,12 +1566,30 @@
             }
         },
         {
+            "+@gid": "1671287241",
+            "+@lang": "JA",
+            "role": "Borgius",
+            "person": {
+                "+content": "Katsuyuki Konishi",
+                "+@id": "780"
+            }
+        },
+        {
             "+@gid": "1929690408",
             "+@lang": "JA",
             "role": "Christopher Algren",
             "person": {
                 "+content": "Kenji Hamada",
                 "+@id": "798"
+            }
+        },
+        {
+            "+@gid": "2913221282",
+            "+@lang": "JA",
+            "role": "Future Ragna",
+            "person": {
+                "+content": "Nobutoshi Canna",
+                "+@id": "1070"
             }
         },
         {
@@ -1640,6 +1710,15 @@
             }
         },
         {
+            "+@gid": "3233621610",
+            "+@lang": "JA",
+            "role": "Michael",
+            "person": {
+                "+content": "Yoshihito Sasaki",
+                "+@id": "108051"
+            }
+        },
+        {
             "+@gid": "1655758439",
             "+@lang": "JA",
             "role": "Crimson",
@@ -1664,6 +1743,15 @@
             "person": {
                 "+content": "Daiki Yamashita",
                 "+@id": "119386"
+            }
+        },
+        {
+            "+@gid": "3672960467",
+            "+@lang": "JA",
+            "role": "Disas Trois",
+            "person": {
+                "+content": "Shunsuke Takeuchi",
+                "+@id": "132044"
             }
         },
         {
@@ -1730,6 +1818,6 @@
         }
     },
     "+@date-added": "2022-03-19T02:02:28Z",
-    "+@date-last-modified-at": "2025-04-07T04:35:46Z",
-    "+@date-last-updated-at": "2025-04-07T04:35:46Z"
+    "+@date-last-modified-at": "2025-06-25T13:02:58Z",
+    "+@date-last-updated-at": "2025-06-25T13:02:58Z"
 }
