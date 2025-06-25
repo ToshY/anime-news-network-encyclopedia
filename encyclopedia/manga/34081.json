@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Full Metal Panic! Family",
     "+@precision": "manga",
-    "+@generated-on": "2025-04-03T02:03:42Z",
-    "related-prev": {
-        "+@rel": "adapted from",
-        "+@id": "34082"
-    },
+    "+@generated-on": "2025-06-25T02:22:59Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "12652"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "34082"
+        }
+    ],
     "info": [
         {
             "+@gid": "2350031341",
@@ -45,6 +51,11 @@
             "+@gid": "1922026280",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "2024-12-09 (serialized in Dragon Age, Jan 2025)",
+            "+@gid": "2192207883",
+            "+@type": "Vintage"
         }
     ],
     "news": {
@@ -62,6 +73,14 @@
             }
         },
         {
+            "+@gid": "2633164765",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Shikidouji",
+                "+@id": "10213"
+            }
+        },
+        {
             "+@gid": "1183282562",
             "task": "Art",
             "person": {
@@ -71,6 +90,6 @@
         }
     ],
     "+@date-added": "2024-11-23T17:23:05Z",
-    "+@date-last-modified-at": "2025-04-03T02:03:44Z",
-    "+@date-last-updated-at": "2025-04-03T02:03:44Z"
+    "+@date-last-modified-at": "2025-06-25T02:23:01Z",
+    "+@date-last-updated-at": "2025-06-25T02:23:01Z"
 }
