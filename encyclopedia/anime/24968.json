@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Ninjala",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-07T20:32:41Z",
+    "+@generated-on": "2025-06-26T04:44:41Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "23485"
@@ -123,8 +123,13 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "#9: \"Night Before A Dance\" (ないとびふぉあーだんす) by Panda Dragon (eps 149-)",
+            "+content": "#9: \"Night Before A Dance\" (ないとびふぉあーだんす) by Panda Dragon (eps 149-172)",
             "+@gid": "3825552199",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#10: \"Kesara Basara\" (ケサラバサラ) by Yuko Suzuhana (eps 173-)",
+            "+@gid": "949952235",
             "+@type": "Ending Theme"
         },
         {
@@ -1359,6 +1364,78 @@
                 "+@gid": "2694176836",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "154",
+            "title": {
+                "+content": "New Shadows Fall",
+                "+@gid": "2686041446",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "155",
+            "title": {
+                "+content": "Call Me Mistress Shade",
+                "+@gid": "2358798097",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "156",
+            "title": {
+                "+content": "Sink that Winning Dunk, Van!",
+                "+@gid": "2880812902",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "157",
+            "title": {
+                "+content": "Laugh and Peace",
+                "+@gid": "2876323466",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "158",
+            "title": {
+                "+content": "Follow the Lights",
+                "+@gid": "1724294544",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "159",
+            "title": {
+                "+content": "Beware of the Drink Thief",
+                "+@gid": "964963686",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "160",
+            "title": {
+                "+content": "False Advertisements",
+                "+@gid": "2815408215",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "161",
+            "title": {
+                "+content": "Trouble in the Mist",
+                "+@gid": "2085920994",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "162",
+            "title": {
+                "+content": "The Unsealer",
+                "+@gid": "3986436929",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -1655,11 +1732,11 @@
             }
         },
         {
-            "+@gid": "1864945074",
+            "+@gid": "3753698321",
             "task": "Storyboard",
             "person": {
-                "+content": "Kodai Mamasa",
-                "+@id": "252946"
+                "+content": "Kōdai Mashō",
+                "+@id": "283513"
             }
         },
         {
@@ -1871,6 +1948,14 @@
             }
         },
         {
+            "+@gid": "1243458783",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ken Kiyota",
+                "+@id": "94597"
+            }
+        },
+        {
             "+@gid": "2595930551",
             "task": "Episode Director",
             "person": {
@@ -1975,19 +2060,19 @@
             }
         },
         {
-            "+@gid": "1927654372",
-            "task": "Episode Director",
-            "person": {
-                "+content": "Kodai Mamasa",
-                "+@id": "252946"
-            }
-        },
-        {
             "+@gid": "1775374007",
             "task": "Episode Director",
             "person": {
                 "+content": "Saaki Kudo",
                 "+@id": "252982"
+            }
+        },
+        {
+            "+@gid": "2971936548",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kōdai Mashō",
+                "+@id": "283513"
             }
         },
         {
@@ -2063,11 +2148,11 @@
             }
         },
         {
-            "+@gid": "1752308177",
+            "+@gid": "2162799815",
             "task": "Unit Director",
             "person": {
-                "+content": "Kodai Mamasa",
-                "+@id": "252946"
+                "+content": "Kōdai Mashō",
+                "+@id": "283513"
             }
         },
         {
@@ -2207,6 +2292,14 @@
             }
         },
         {
+            "+@gid": "1695835972",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Etsushi Mori",
+                "+@id": "11220"
+            }
+        },
+        {
             "+@gid": "2539931922",
             "task": "Animation Director",
             "person": {
@@ -2234,7 +2327,7 @@
             "+@gid": "962556448",
             "task": "Animation Director",
             "person": {
-                "+content": "Mitsuo Shindo",
+                "+content": "Mitsuo Shindō",
                 "+@id": "19290"
             }
         },
@@ -2354,7 +2447,7 @@
             "+@gid": "3860840228",
             "task": "Animation Director",
             "person": {
-                "+content": "Shuji Tanaka",
+                "+content": "Shūji Tanaka",
                 "+@id": "45777"
             }
         },
@@ -2372,14 +2465,6 @@
             "person": {
                 "+content": "Kurika Yamagata",
                 "+@id": "47386"
-            }
-        },
-        {
-            "+@gid": "548186188",
-            "task": "Animation Director",
-            "person": {
-                "+content": "SHINGO",
-                "+@id": "48285"
             }
         },
         {
@@ -2407,10 +2492,18 @@
             }
         },
         {
+            "+@gid": "2700362945",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mai Ishii",
+                "+@id": "55764"
+            }
+        },
+        {
             "+@gid": "3109862711",
             "task": "Animation Director",
             "person": {
-                "+content": "Ichiro Hattori",
+                "+content": "Ichirō Hattori",
                 "+@id": "55983"
             }
         },
@@ -2567,6 +2660,14 @@
             }
         },
         {
+            "+@gid": "3209391227",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Aya Nasuno",
+                "+@id": "81478"
+            }
+        },
+        {
             "+@gid": "2203371759",
             "task": "Animation Director",
             "person": {
@@ -2676,6 +2777,14 @@
             "person": {
                 "+content": "Eun Mi Han",
                 "+@id": "100299"
+            }
+        },
+        {
+            "+@gid": "2860513818",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ru Jun Fan",
+                "+@id": "101424"
             }
         },
         {
@@ -2988,6 +3097,14 @@
             "person": {
                 "+content": "Chan Joo Lee",
                 "+@id": "188067"
+            }
+        },
+        {
+            "+@gid": "2516396396",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yong Jiang",
+                "+@id": "188677"
             }
         },
         {
@@ -3415,14 +3532,6 @@
             }
         },
         {
-            "+@gid": "1863285106",
-            "task": "Animation Director",
-            "person": {
-                "+content": "Fumi Nasuno",
-                "+@id": "256199"
-            }
-        },
-        {
             "+@gid": "3599204038",
             "task": "Animation Director",
             "person": {
@@ -3439,11 +3548,51 @@
             }
         },
         {
+            "+@gid": "1731886182",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ren Yi Sun",
+                "+@id": "273687"
+            }
+        },
+        {
+            "+@gid": "1077309937",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Na Dan Yue",
+                "+@id": "274907"
+            }
+        },
+        {
             "+@gid": "3471360340",
             "task": "Animation Director",
             "person": {
                 "+content": "Hua Zheng Sun",
                 "+@id": "277803"
+            }
+        },
+        {
+            "+@gid": "817593674",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ya Chen Ji",
+                "+@id": "280273"
+            }
+        },
+        {
+            "+@gid": "2099123742",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tsuki Mori",
+                "+@id": "281097"
+            }
+        },
+        {
+            "+@gid": "3906558543",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Akira Mizumoto",
+                "+@id": "281098"
             }
         },
         {
@@ -3620,12 +3769,30 @@
             }
         },
         {
+            "+@gid": "1401726756",
+            "+@lang": "JA",
+            "role": "Gumnyūdō",
+            "person": {
+                "+content": "Kenta Miyake",
+                "+@id": "10398"
+            }
+        },
+        {
             "+@gid": "1345274858",
             "+@lang": "JA",
             "role": "Max",
             "person": {
                 "+content": "Taiten Kusunoki",
                 "+@id": "18813"
+            }
+        },
+        {
+            "+@gid": "1910446557",
+            "+@lang": "JA",
+            "role": "Hebimaru",
+            "person": {
+                "+content": "Setsuji Satō",
+                "+@id": "21158"
             }
         },
         {
@@ -3817,6 +3984,6 @@
         }
     ],
     "+@date-added": "2021-11-13T05:41:28Z",
-    "+@date-last-modified-at": "2025-04-07T20:32:46Z",
-    "+@date-last-updated-at": "2025-04-07T20:32:46Z"
+    "+@date-last-modified-at": "2025-06-26T04:44:42Z",
+    "+@date-last-updated-at": "2025-06-26T04:44:42Z"
 }

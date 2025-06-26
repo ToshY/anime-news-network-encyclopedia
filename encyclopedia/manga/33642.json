@@ -4,8 +4,40 @@
     "+@type": "manga",
     "+@name": "PUNKS TRIANGLE",
     "+@precision": "manga",
-    "+@generated-on": "2025-04-04T08:37:39Z",
+    "+@generated-on": "2025-06-26T04:44:41Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "33309"
+    },
+    "related-next": {
+        "+@id": "36723",
+        "+@rel": "sequel"
+    },
     "info": [
+        {
+            "+@gid": "2115115572",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33642-2115115572.1750794572.jpg",
+            "+@width": "142",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33642-2115115572.1750794572.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33642-2115115572.1750794572.jpg",
+                    "+@width": "427",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A33642-2115115572.1750794572.jpg",
+                    "+@width": "1068",
+                    "+@height": "1500"
+                }
+            ]
+        },
         {
             "+content": "PUNKS TRIANGLE",
             "+@gid": "1845557807",
@@ -17,6 +49,11 @@
             "+@gid": "2337281549",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "1051964945",
+            "+@type": "Genres"
         },
         {
             "+content": "romance",
@@ -39,16 +76,43 @@
             "+@type": "Number of tankoubon"
         },
         {
-            "+content": "2022-05-21 to 2023-05-24 (serialized in .Bloom)",
-            "+@gid": "2579378167",
+            "+content": "2022-05-21 to 2022-07-16 (serialized in NUUDE, vols. 12 - 13)",
+            "+@gid": "2314978473",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2022-11-25 to 2023-03-25 (serialized in .Bloom, vols. 35 - 37)",
+            "+@gid": "1025162441",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2023-05-25 (epilogue in .Bloom, vol. 38)",
+            "+@gid": "1939105241",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Seven Seas Licenses <cite>Cat Man</cite>, <cite>Lion Hearts</cite>, <cite>The Trapped Former Villainess Wants to Escape from the Sadistic Prince</cite>, 3 Other Titles",
-        "+@datetime": "2024-10-03T02:53:28Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-10-02/seven-seas-licenses-cat-man-lion-hearts-the-trapped-former-villainess-wants-to-escape-from-the-/.216282"
+    "release": {
+        "+content": "PUNKS TRIANGLE (GN)",
+        "+@date": "2025-04-15",
+        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52772"
     },
+    "news": [
+        {
+            "+content": "Seven Seas Licenses <cite>Cat Man</cite>, <cite>Lion Hearts</cite>, <cite>The Trapped Former Villainess Wants to Escape from the Sadistic Prince</cite>, 3 Other Titles",
+            "+@datetime": "2024-10-03T02:53:28Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-10-02/seven-seas-licenses-cat-man-lion-hearts-the-trapped-former-villainess-wants-to-escape-from-the-/.216282"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, April 13-19",
+            "+@datetime": "2025-04-18T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-18/north-american-anime-manga-releases-april-13-19/.223561"
+        },
+        {
+            "+content": "<cite>PUNKS TRIANGLE</cite> Boys' Love Manga Gets Live-Action Show",
+            "+@datetime": "2025-06-25T02:08:15Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-24/punks-triangle-boys-love-manga-gets-live-action-show/.225977"
+        }
+    ],
     "staff": {
         "+@gid": "1312123982",
         "task": "Story & Art",
@@ -58,6 +122,6 @@
         }
     },
     "+@date-added": "2024-10-03T00:01:21Z",
-    "+@date-last-modified-at": "2025-04-04T08:37:43Z",
-    "+@date-last-updated-at": "2025-04-04T08:37:43Z"
+    "+@date-last-modified-at": "2025-06-26T04:44:42Z",
+    "+@date-last-updated-at": "2025-06-26T04:44:42Z"
 }
