@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Blue Giant",
     "+@precision": "movie",
-    "+@generated-on": "2025-04-08T02:04:41Z",
+    "+@generated-on": "2025-06-26T08:43:40Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "18251"
@@ -87,9 +87,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "26",
-        "+@weighted_score": "8.2164",
-        "+@bayesian_score": "7.96967"
+        "+@nb_votes": "27",
+        "+@weighted_score": "8.3033",
+        "+@bayesian_score": "8.03413"
     },
     "review": {
         "+content": "Blue Giant",
@@ -413,6 +413,22 @@
             }
         },
         {
+            "+@gid": "3681759155",
+            "task": "3D Director",
+            "person": {
+                "+content": "William Tanuarto",
+                "+@id": "188415"
+            }
+        },
+        {
+            "+@gid": "4178826939",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Yuzuru Tachikawa",
+                "+@id": "84034"
+            }
+        },
+        {
             "+@gid": "2607018627",
             "task": "Director of Photography",
             "person": {
@@ -609,6 +625,6 @@
         }
     },
     "+@date-added": "2021-10-20T21:06:46Z",
-    "+@date-last-modified-at": "2025-04-08T02:04:44Z",
-    "+@date-last-updated-at": "2025-04-08T02:04:44Z"
+    "+@date-last-modified-at": "2025-06-26T08:43:41Z",
+    "+@date-last-updated-at": "2025-06-26T08:43:41Z"
 }
