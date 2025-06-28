@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "GALAXIAS",
     "+@precision": "manga",
-    "+@generated-on": "2025-04-06T08:34:42Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "6457"
-    },
+    "+@generated-on": "2025-06-28T02:18:17Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "6457"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "24256"
+        }
+    ],
     "info": [
         {
             "+@gid": "3332213332",
@@ -47,9 +53,21 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2024-07-17 (serialized in Weekly Shonen Magazine, 2024 #32)",
+            "+content": "2024-07-17 to 2025-01-15 (Weekly Shonen Magazine, 2024 #32 - 2025 #7)",
             "+@gid": "1185823972",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-02-05 (serialized on Magazine Pocket)",
+            "+@gid": "1093005848",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "GALAXIAS | 【第1話】HelloWorld!! &#x2F; マガポケ | 少年マガジン公式無料漫画アプリ",
+            "+@gid": "2182885344",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://pocket.shonenmagazine.com/title/02559/episode/399595"
         }
     ],
     "news": [
@@ -73,6 +91,6 @@
         }
     },
     "+@date-added": "2024-07-17T03:56:06Z",
-    "+@date-last-modified-at": "2025-04-06T08:34:43Z",
-    "+@date-last-updated-at": "2025-04-06T08:34:43Z"
+    "+@date-last-modified-at": "2025-06-28T02:18:18Z",
+    "+@date-last-updated-at": "2025-06-28T02:18:18Z"
 }

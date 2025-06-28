@@ -2,9 +2,9 @@
     "+@id": "32939",
     "+@gid": "2433918769",
     "+@type": "manga",
-    "+@name": "Achira Kochira Bokura",
+    "+@name": "Here and There and Us",
     "+@precision": "manga",
-    "+@generated-on": "2025-04-06T08:34:42Z",
+    "+@generated-on": "2025-06-28T02:18:17Z",
     "related-prev": [
         {
             "+@rel": "serialized in",
@@ -45,9 +45,15 @@
             ]
         },
         {
+            "+content": "Here and There and Us",
+            "+@gid": "2230404248",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Achira Kochira Bokura",
             "+@gid": "2523981080",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -55,6 +61,11 @@
             "+@gid": "1666787803",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "2212838226",
+            "+@type": "Genres"
         },
         {
             "+content": "2",
@@ -67,11 +78,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "<cite>Hibana</cite> Magazine's Individual Series' Plans Announced",
-        "+@datetime": "2017-08-06T16:45:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2017-08-06/hibana-magazine-individual-series-plans-announced/.119723"
-    },
+    "news": [
+        {
+            "+content": "<cite>Hibana</cite> Magazine's Individual Series' Plans Announced",
+            "+@datetime": "2017-08-06T16:45:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2017-08-06/hibana-magazine-individual-series-plans-announced/.119723"
+        },
+        {
+            "+content": "Manga Planet Licenses Thanat's <cite>Here and There and Us</cite>, More Manga for Print Release in English",
+            "+@datetime": "2025-06-19T07:49:42Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-19/manga-planet-licenses-thanat-here-and-there-and-us-more-manga-for-print-release-in-english/.225610"
+        }
+    ],
     "staff": {
         "+@gid": "2558016571",
         "task": "Story & Art",
@@ -81,6 +99,6 @@
         }
     },
     "+@date-added": "2024-07-21T18:00:51Z",
-    "+@date-last-modified-at": "2025-04-06T08:34:43Z",
-    "+@date-last-updated-at": "2025-04-06T08:34:43Z"
+    "+@date-last-modified-at": "2025-06-28T02:18:18Z",
+    "+@date-last-updated-at": "2025-06-28T02:18:18Z"
 }
