@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "To Your Eternity",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-10T12:57:08Z",
+    "+@generated-on": "2025-06-28T20:32:56Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "20343"
@@ -104,9 +104,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "496",
-        "+@weighted_score": "7.8144",
-        "+@bayesian_score": "7.80576"
+        "+@nb_votes": "499",
+        "+@weighted_score": "7.8026",
+        "+@bayesian_score": "7.79428"
     },
     "episode": [
         {
@@ -270,11 +270,23 @@
             }
         }
     ],
-    "release": {
-        "+content": "To Your Eternity - Season 1 (Blu-ray)",
-        "+@date": "2024-07-30",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=48502"
-    },
+    "release": [
+        {
+            "+content": "To Your Eternity - Season 1 (Blu-ray)",
+            "+@date": "2024-07-30",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=48502"
+        },
+        {
+            "+content": "To Your Eternity - Season 1 [UK] (Blu-ray)",
+            "+@date": "2025-01-20",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=53302"
+        },
+        {
+            "+content": "To Your Eternity - Season 1 [AU] (Blu-ray)",
+            "+@date": "2025-03-05",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=53485"
+        }
+    ],
     "news": [
         {
             "+content": "<cite>To Your Eternity</cite> TV Anime Reveals 1st Promo Video, Staff",
@@ -699,6 +711,24 @@
             }
         },
         {
+            "+@gid": "2713830038",
+            "+@lang": "EN",
+            "role": "Booze Man",
+            "person": {
+                "+content": "Steve Kramer",
+                "+@id": "536"
+            }
+        },
+        {
+            "+@gid": "3757231709",
+            "+@lang": "EN",
+            "role": "Penna",
+            "person": {
+                "+content": "Dorothy Fahn",
+                "+@id": "3040"
+            }
+        },
+        {
             "+@gid": "1264098582",
             "+@lang": "EN",
             "role": "Gugu",
@@ -768,6 +798,15 @@
             "person": {
                 "+content": "Ryan Bartley",
                 "+@id": "137736"
+            }
+        },
+        {
+            "+@gid": "2178650651",
+            "+@lang": "EN",
+            "role": "Uroy",
+            "person": {
+                "+content": "Xander Mobus",
+                "+@id": "150662"
             }
         },
         {
@@ -1437,6 +1476,6 @@
         }
     ],
     "+@date-added": "2020-09-04T21:46:50Z",
-    "+@date-last-modified-at": "2025-04-10T12:57:10Z",
-    "+@date-last-updated-at": "2025-04-10T12:57:10Z"
+    "+@date-last-modified-at": "2025-06-28T20:32:58Z",
+    "+@date-last-updated-at": "2025-06-28T20:32:58Z"
 }
