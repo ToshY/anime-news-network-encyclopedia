@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Naisho no Lily",
     "+@precision": "manga",
-    "+@generated-on": "2025-04-08T02:04:25Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "22885"
-    },
+    "+@generated-on": "2025-06-29T12:56:56Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "22885"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "35977"
+        }
+    ],
     "info": [
         {
             "+@gid": "2183858611",
@@ -53,9 +59,21 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2021-11-20 (serialized in Ciao Deluxe, Jan 2022)",
+            "+content": "2021-11-20 to 2024-09-20 (Ciao Deluxe, Jan 2022 - Nov 2024)",
             "+@gid": "1048067448",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2024-11-23 (serialized on Ciao Plus)",
+            "+@gid": "3175864340",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "ないしょのリリー &#x2F; ふじたはすみ &#x2F; ＃1（前編）",
+            "+@gid": "785812624",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://ciao.shogakukan.co.jp/comics/title/00206/episode/5477"
         }
     ],
     "news": {
@@ -72,6 +90,6 @@
         }
     },
     "+@date-added": "2024-02-26T23:44:53Z",
-    "+@date-last-modified-at": "2025-04-08T02:04:27Z",
-    "+@date-last-updated-at": "2025-04-08T02:04:27Z"
+    "+@date-last-modified-at": "2025-06-29T12:56:58Z",
+    "+@date-last-updated-at": "2025-06-29T12:56:58Z"
 }
