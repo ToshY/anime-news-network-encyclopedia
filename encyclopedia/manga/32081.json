@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Final Yamato",
     "+@precision": "manga",
-    "+@generated-on": "2025-04-08T08:39:53Z",
-    "related-prev": {
-        "+@rel": "adapted from",
-        "+@id": "3645"
-    },
+    "+@generated-on": "2025-06-29T20:33:10Z",
+    "related-prev": [
+        {
+            "+@rel": "adapted from",
+            "+@id": "3645"
+        },
+        {
+            "+@rel": "sequel of",
+            "+@id": "36708"
+        }
+    ],
     "info": [
         {
             "+@gid": "1661272721",
@@ -53,6 +59,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "science fiction",
+            "+@gid": "918587869",
+            "+@type": "Genres"
+        },
+        {
             "+content": "The arrival of Aquarius, a watery world that will flood all of the Earth, threatens humanity. The Yamato must attempt to stop this travesty that has been arranged by the Dinguil, another race that has lost their homeworld to the same planet. <em class=de-emphasized>(from movie)</em>",
             "+@type": "Plot Summary"
         },
@@ -85,6 +96,6 @@
         }
     ],
     "+@date-added": "2024-02-12T06:53:07Z",
-    "+@date-last-modified-at": "2025-04-08T08:39:55Z",
-    "+@date-last-updated-at": "2025-04-08T08:39:55Z"
+    "+@date-last-modified-at": "2025-06-29T20:33:11Z",
+    "+@date-last-updated-at": "2025-06-29T20:33:11Z"
 }
