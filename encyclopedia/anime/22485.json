@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Mewkledreamy",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-12T12:51:05Z",
+    "+@generated-on": "2025-06-30T16:43:33Z",
     "related-next": {
         "+@id": "24065",
         "+@rel": "sequel"
@@ -81,7 +81,7 @@
     ],
     "ratings": {
         "+@nb_votes": "7",
-        "+@weighted_score": "6.4433"
+        "+@weighted_score": "6.4426"
     },
     "episode": [
         {
@@ -806,7 +806,7 @@
             "+@gid": "2666462478",
             "task": "Animation Director",
             "person": {
-                "+content": "Ryoichi Oki",
+                "+content": "Ryōichi Ōki",
                 "+@id": "17287"
             }
         },
@@ -1021,6 +1021,15 @@
     ],
     "cast": [
         {
+            "+@gid": "3835562623",
+            "+@lang": "JA",
+            "role": "Queen of Nightmares",
+            "person": {
+                "+content": "Aya Hisakawa",
+                "+@id": "503"
+            }
+        },
+        {
             "+@gid": "1600468824",
             "+@lang": "JA",
             "role": "The Queen Above the Skies",
@@ -1045,6 +1054,15 @@
             "person": {
                 "+content": "Aki Toyosaki",
                 "+@id": "62870"
+            }
+        },
+        {
+            "+@gid": "2413369014",
+            "+@lang": "JA",
+            "role": "Professor Aoi",
+            "person": {
+                "+content": "Kazuyuki Okitsu",
+                "+@id": "67851"
             }
         },
         {
@@ -1093,12 +1111,30 @@
             }
         },
         {
+            "+@gid": "2535657303",
+            "+@lang": "JA",
+            "role": "Shohei Kitada",
+            "person": {
+                "+content": "Makoto Furukawa",
+                "+@id": "123459"
+            }
+        },
+        {
             "+@gid": "3291635531",
             "+@lang": "JA",
             "role": "Asahi Minagawa",
             "person": {
                 "+content": "Yūsuke Kobayashi",
                 "+@id": "123728"
+            }
+        },
+        {
+            "+@gid": "3424467246",
+            "+@lang": "JA",
+            "role": "Kyu-chan",
+            "person": {
+                "+content": "Asuna Tomari",
+                "+@id": "128602"
             }
         },
         {
@@ -1193,6 +1229,6 @@
         }
     ],
     "+@date-added": "2019-08-31T21:52:22Z",
-    "+@date-last-modified-at": "2025-04-12T12:51:12Z",
-    "+@date-last-updated-at": "2025-04-12T12:51:12Z"
+    "+@date-last-modified-at": "2025-06-30T16:43:34Z",
+    "+@date-last-updated-at": "2025-06-30T16:43:34Z"
 }
