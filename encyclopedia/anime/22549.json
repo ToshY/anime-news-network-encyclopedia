@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "Isekai Quartet 2",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-12T08:34:08Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "21992"
-    },
+    "+@generated-on": "2025-06-30T12:50:54Z",
+    "related-prev": [
+        {
+            "+@rel": "spinoff of",
+            "+@id": "19826"
+        },
+        {
+            "+@rel": "sequel of",
+            "+@id": "21992"
+        }
+    ],
     "related-next": {
         "+@id": "24505",
         "+@rel": "sequel"
@@ -75,8 +81,8 @@
     ],
     "ratings": {
         "+@nb_votes": "113",
-        "+@weighted_score": "7.1357",
-        "+@bayesian_score": "7.17081"
+        "+@weighted_score": "7.1351",
+        "+@bayesian_score": "7.17016"
     },
     "episode": [
         {
@@ -1372,6 +1378,6 @@
         }
     ],
     "+@date-added": "2019-10-07T19:51:45Z",
-    "+@date-last-modified-at": "2025-04-12T08:34:11Z",
-    "+@date-last-updated-at": "2025-04-12T08:34:11Z"
+    "+@date-last-modified-at": "2025-06-30T13:02:17Z",
+    "+@date-last-updated-at": "2025-06-30T13:02:17Z"
 }
