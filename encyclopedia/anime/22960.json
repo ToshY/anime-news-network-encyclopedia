@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Mobile Suit Gundam Hathaway",
     "+@precision": "movie",
-    "+@generated-on": "2025-04-12T02:01:44Z",
+    "+@generated-on": "2025-06-30T04:48:01Z",
     "related-prev": [
         {
             "+@rel": "sequel of",
@@ -15,6 +15,10 @@
             "+@id": "4189"
         }
     ],
+    "related-next": {
+        "+@id": "36742",
+        "+@rel": "sequel"
+    },
     "info": [
         {
             "+@gid": "2125598533",
@@ -121,9 +125,19 @@
             "+@type": "Premiere date"
         },
         {
+            "+content": "\"Möbius\" by mpi, Laco and Benjamin",
+            "+@gid": "1456082368",
+            "+@type": "Opening Theme"
+        },
+        {
             "+content": "\"Senkou\" by [Alexandros]",
             "+@gid": "2229356300",
             "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"TRACER\" by Benjamin",
+            "+@gid": "3281948100",
+            "+@type": "Insert song"
         },
         {
             "+content": "『機動戦士ガンダム 閃光のハサウェイ』公式サイト",
@@ -135,8 +149,8 @@
     ],
     "ratings": {
         "+@nb_votes": "68",
-        "+@weighted_score": "7.6817",
-        "+@bayesian_score": "7.64869"
+        "+@weighted_score": "7.6812",
+        "+@bayesian_score": "7.64809"
     },
     "review": {
         "+content": "Mobile Suit Gundam Hathaway",
@@ -499,6 +513,22 @@
             }
         },
         {
+            "+@gid": "1981756820",
+            "task": "Art design",
+            "person": {
+                "+content": "Tomoaki Okada",
+                "+@id": "4656"
+            }
+        },
+        {
+            "+@gid": "1342622325",
+            "task": "Art design",
+            "person": {
+                "+content": "Hideki Nakamura",
+                "+@id": "106657"
+            }
+        },
+        {
             "+@gid": "3391373205",
             "task": "Sound Director",
             "person": {
@@ -547,6 +577,22 @@
             }
         },
         {
+            "+@gid": "810349482",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Takayuki Aizu",
+                "+@id": "77722"
+            }
+        },
+        {
+            "+@gid": "3034392809",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yūki Kawashita",
+                "+@id": "89162"
+            }
+        },
+        {
             "+@gid": "2692181691",
             "task": "Director of Photography",
             "person": {
@@ -555,11 +601,35 @@
             }
         },
         {
+            "+@gid": "955792075",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Takuya Ogata",
+                "+@id": "149512"
+            }
+        },
+        {
             "+@gid": "1305642296",
             "task": "Executive producer",
             "person": {
                 "+content": "Naohiro Ogata",
                 "+@id": "79788"
+            }
+        },
+        {
+            "+@gid": "1562908040",
+            "task": "Producer",
+            "person": {
+                "+content": "Hisakazu Naka",
+                "+@id": "82710"
+            }
+        },
+        {
+            "+@gid": "2295023723",
+            "task": "Producer",
+            "person": {
+                "+content": "Hiroyuki Kikugawa",
+                "+@id": "111733"
             }
         }
     ],
@@ -1610,6 +1680,6 @@
         }
     ],
     "+@date-added": "2019-12-31T12:07:44Z",
-    "+@date-last-modified-at": "2025-04-12T02:01:47Z",
-    "+@date-last-updated-at": "2025-04-12T02:01:47Z"
+    "+@date-last-modified-at": "2025-06-30T04:48:03Z",
+    "+@date-last-updated-at": "2025-06-30T04:48:03Z"
 }
