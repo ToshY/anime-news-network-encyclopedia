@@ -4,7 +4,17 @@
     "+@type": "manga",
     "+@name": "Superstar o Utatte",
     "+@precision": "manga",
-    "+@generated-on": "2025-04-10T16:41:04Z",
+    "+@generated-on": "2025-07-02T02:22:13Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "1364"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "31356"
+        }
+    ],
     "info": [
         {
             "+@gid": "1773235126",
@@ -37,6 +47,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Superstar wo utatte - La voce della strada",
+            "+@gid": "2391751541",
+            "+@type": "Alternative title",
+            "+@lang": "IT"
+        },
+        {
             "+content": "スーパースターを唄って。",
             "+@gid": "1014547088",
             "+@type": "Alternative title",
@@ -48,8 +64,13 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2023-02-27 (serialized in Monthly Spirits, Apr 2023)",
+            "+content": "2023-02-27 to 2024-03-27 (Monthly Spirits, Apr 2023 - May 2024)",
             "+@gid": "3751764896",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2024-04-01 (serialized in Big Comic Spirits, 2024 #18)",
+            "+@gid": "1488825915",
             "+@type": "Vintage"
         }
     ],
@@ -67,6 +88,6 @@
         }
     },
     "+@date-added": "2024-01-06T19:36:17Z",
-    "+@date-last-modified-at": "2025-04-10T16:41:11Z",
-    "+@date-last-updated-at": "2025-04-10T16:41:11Z"
+    "+@date-last-modified-at": "2025-07-02T02:22:14Z",
+    "+@date-last-updated-at": "2025-07-02T02:22:14Z"
 }
