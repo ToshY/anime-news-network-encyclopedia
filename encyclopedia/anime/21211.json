@@ -4,11 +4,21 @@
     "+@type": "movie",
     "+@name": "Aragne: Sign of Vermilion",
     "+@precision": "movie",
-    "+@generated-on": "2025-04-14T02:14:03Z",
-    "related-next": {
-        "+@id": "26478",
-        "+@rel": "related"
-    },
+    "+@generated-on": "2025-07-02T04:44:58Z",
+    "related-next": [
+        {
+            "+@id": "26478",
+            "+@rel": "related"
+        },
+        {
+            "+@id": "31447",
+            "+@rel": "spinoff"
+        },
+        {
+            "+@id": "35962",
+            "+@rel": "compilation"
+        }
+    ],
     "info": [
         {
             "+@gid": "1020348067",
@@ -81,9 +91,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "17",
-        "+@weighted_score": "5.4435",
-        "+@bayesian_score": "6.32425"
+        "+@nb_votes": "18",
+        "+@weighted_score": "5.419",
+        "+@bayesian_score": "6.28115"
     },
     "release": {
         "+content": "Aragne: Sign of Vermillion (Sub.Blu-ray)",
@@ -201,6 +211,6 @@
         }
     ],
     "+@date-added": "2018-07-16T17:18:26Z",
-    "+@date-last-modified-at": "2025-04-14T02:14:06Z",
-    "+@date-last-updated-at": "2025-04-14T02:14:06Z"
+    "+@date-last-modified-at": "2025-07-02T04:45:06Z",
+    "+@date-last-updated-at": "2025-07-02T04:45:06Z"
 }
