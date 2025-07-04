@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Dragon Ball Z TV Special 1 Anime Comics",
     "+@precision": "manga",
-    "+@generated-on": "2025-04-13T20:30:16Z",
+    "+@generated-on": "2025-07-04T20:33:39Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "104"
@@ -36,6 +36,18 @@
             "+@lang": "EN"
         },
         {
+            "+content": "Dragon Ball Z Special 1: Bardock, The Father of Goku",
+            "+@gid": "2035408232",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
+            "+content": "Dragon Ball Z: Bardock - The Father of Goku",
+            "+@gid": "2864529374",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Dragon Ball Z: Tatta Hitori no Saishū Kessen Frieza ni Idonda Z-Senshi Kakarot no Chichi Anime Comics",
             "+@gid": "2417266597",
             "+@type": "Alternative title",
@@ -56,15 +68,33 @@
             "+@type": "Vintage"
         }
     ],
-    "staff": {
-        "+@gid": "1357803939",
-        "task": "Original creator",
-        "person": {
-            "+content": "Akira Toriyama",
-            "+@id": "12"
+    "staff": [
+        {
+            "+@gid": "1357803939",
+            "task": "Original creator",
+            "person": {
+                "+content": "Akira Toriyama",
+                "+@id": "12"
+            }
+        },
+        {
+            "+@gid": "2697742704",
+            "task": "Character Design",
+            "person": {
+                "+content": "Minoru Maeda",
+                "+@id": "14"
+            }
+        },
+        {
+            "+@gid": "2885144697",
+            "task": "Character Design",
+            "person": {
+                "+content": "Katsuyoshi Nakatsuru",
+                "+@id": "4041"
+            }
         }
-    },
+    ],
     "+@date-added": "2023-10-09T16:34:44Z",
-    "+@date-last-modified-at": "2025-04-13T20:30:18Z",
-    "+@date-last-updated-at": "2025-04-13T20:30:18Z"
+    "+@date-last-modified-at": "2025-07-04T20:33:41Z",
+    "+@date-last-updated-at": "2025-07-04T20:33:41Z"
 }
