@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Kindaichi 37-sai no Jikenbo",
     "+@precision": "manga",
-    "+@generated-on": "2025-04-14T16:40:04Z",
+    "+@generated-on": "2025-07-05T12:56:33Z",
     "related-prev": [
         {
             "+@rel": "serialized in",
@@ -19,6 +19,10 @@
             "+@id": "22882"
         }
     ],
+    "related-next": {
+        "+@id": "36496",
+        "+@rel": "sequel"
+    },
     "info": [
         {
             "+@gid": "1393491225",
@@ -68,12 +72,17 @@
             "+@type": "Genres"
         },
         {
+            "+content": "18",
+            "+@gid": "3739780561",
+            "+@type": "Number of tankoubon"
+        },
+        {
             "+content": "2018-01-23 to 2022-01-11 (serialized in Evening, 2018 #4 - 2022 #3)",
             "+@gid": "1615778544",
             "+@type": "Vintage"
         },
         {
-            "+content": "2023-04-26 (serialized on Comic Days)",
+            "+content": "2023-04-26 to 2024-11-27 (serialized on Comic Days)",
             "+@gid": "285012728",
             "+@type": "Vintage"
         },
@@ -156,6 +165,6 @@
         }
     ],
     "+@date-added": "2023-09-22T09:58:55Z",
-    "+@date-last-modified-at": "2025-04-14T16:40:06Z",
-    "+@date-last-updated-at": "2025-04-14T16:40:06Z"
+    "+@date-last-modified-at": "2025-07-05T12:56:34Z",
+    "+@date-last-updated-at": "2025-07-05T12:56:34Z"
 }
