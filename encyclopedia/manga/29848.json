@@ -2,9 +2,9 @@
     "+@id": "29848",
     "+@gid": "3289060748",
     "+@type": "manga",
-    "+@name": "Ore to Mō Ichido, First Love",
+    "+@name": "Love at First Memory",
     "+@precision": "manga",
-    "+@generated-on": "2025-04-15T08:41:08Z",
+    "+@generated-on": "2025-07-06T02:32:16Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "4013"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "Love at First Memory",
+            "+@gid": "836685685",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Ore to Mō Ichido, First Love",
             "+@gid": "2556453231",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -57,16 +63,33 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2022-12-28 (serialized in Nakayoshi, Feb 2023)",
+            "+content": "5",
+            "+@gid": "2119593210",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2022-12-28 to 2025-06-03 (serialized in Nakayoshi, Feb 2023-Jul 2025)",
             "+@gid": "2165589020",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "<cite>A Springtime with Ninjas'</cite> Narumi Hasegaki Launches New Manga in December",
-        "+@datetime": "2022-12-06T08:37:21Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2022-12-06/a-springtime-with-ninjas-narumi-hasegaki-launches-new-manga-in-december/.192557"
-    },
+    "news": [
+        {
+            "+content": "<cite>A Springtime with Ninjas'</cite> Narumi Hasegaki Launches New Manga in December",
+            "+@datetime": "2022-12-06T08:37:21Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2022-12-06/a-springtime-with-ninjas-narumi-hasegaki-launches-new-manga-in-december/.192557"
+        },
+        {
+            "+content": "Narumi Hagesaki to End <cite>Ore to Mō Ichido, First Love</cite> Manga in June",
+            "+@datetime": "2025-05-04T16:06:10Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-04/narumi-hagesaki-to-end-ore-to-mo-ichido-first-love-manga-in-june/.224151"
+        },
+        {
+            "+content": "Kodansha USA Licenses <cite>GALAXIAS</cite>, <cite>OMORI</cite>, <cite>Fruit of the Underworld</cite>, More Manga for Spring 2026",
+            "+@datetime": "2025-07-04T20:32:42Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-04/kodansha-usa-licenses-galaxias-omori-fruit-of-the-underworld-more-manga-for-spring-2026/.226312"
+        }
+    ],
     "staff": {
         "+@gid": "1580097838",
         "task": "Story & Art",
@@ -76,6 +99,6 @@
         }
     },
     "+@date-added": "2023-09-12T03:02:11Z",
-    "+@date-last-modified-at": "2025-04-15T08:41:11Z",
-    "+@date-last-updated-at": "2025-04-15T08:41:11Z"
+    "+@date-last-modified-at": "2025-07-06T02:32:18Z",
+    "+@date-last-updated-at": "2025-07-06T02:32:18Z"
 }
