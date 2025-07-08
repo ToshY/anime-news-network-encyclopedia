@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Ronja the Robber's Daughter",
     "+@precision": "TV",
-    "+@generated-on": "2025-04-20T02:17:16Z",
+    "+@generated-on": "2025-07-08T02:23:35Z",
     "info": [
         {
             "+@gid": "2647931325",
@@ -47,6 +47,12 @@
             "+@gid": "1358737464",
             "+@type": "Alternative title",
             "+@lang": "SV"
+        },
+        {
+            "+content": "Ronja, córka zbójnika",
+            "+@gid": "2015973783",
+            "+@type": "Alternative title",
+            "+@lang": "PL"
         },
         {
             "+content": "Ronja, Fille de Brigand",
@@ -135,6 +141,16 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "2019-12-10 (Poland)",
+            "+@gid": "3430134984",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2019-12-10 (Poland, TVP ABC)",
+            "+@gid": "3481285806",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "\"Haru no Sakebi\" (春のさけび; Call of Spring) by Aoi Teshima",
             "+@gid": "2678321391",
             "+@type": "Opening Theme"
@@ -178,8 +194,8 @@
     ],
     "ratings": {
         "+@nb_votes": "68",
-        "+@weighted_score": "6.7089",
-        "+@bayesian_score": "6.83201"
+        "+@weighted_score": "6.709",
+        "+@bayesian_score": "6.83191"
     },
     "episode": [
         {
@@ -1556,6 +1572,24 @@
             }
         },
         {
+            "+@gid": "1139002931",
+            "+@lang": "PL",
+            "role": "Narrator",
+            "person": {
+                "+content": "Agnieszka Fajlhauer",
+                "+@id": "75516"
+            }
+        },
+        {
+            "+@gid": "2215605417",
+            "+@lang": "PL",
+            "role": "Ronja",
+            "person": {
+                "+content": "Olga Cybińska",
+                "+@id": "249393"
+            }
+        },
+        {
             "+@gid": "753221399",
             "+@lang": "SV",
             "role": "Mattis",
@@ -1663,6 +1697,6 @@
         }
     ],
     "+@date-added": "2014-01-31T21:42:22Z",
-    "+@date-last-modified-at": "2025-04-20T02:17:18Z",
-    "+@date-last-updated-at": "2025-04-20T02:17:18Z"
+    "+@date-last-modified-at": "2025-07-08T02:23:37Z",
+    "+@date-last-updated-at": "2025-07-08T02:23:37Z"
 }
