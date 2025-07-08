@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Bless",
     "+@precision": "manga by Sonoyama",
-    "+@generated-on": "2025-04-18T12:54:29Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "19629"
-    },
+    "+@generated-on": "2025-07-08T20:35:36Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "19627"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "19629"
+        }
+    ],
     "info": [
         {
             "+@gid": "616918708",
@@ -52,8 +58,13 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2022-01-17 (serialized in Shonen Magazine Edge, Feb 2022)",
+            "+content": "2022-01-17 to 2023-08-17 (Shonen Magazine Edge, Feb 2022 - Sep 2023)",
             "+@gid": "1000199146",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2023-12-25 (serialized in Shonen Sirius, Feb 2024)",
+            "+@gid": "3887470528",
             "+@type": "Vintage"
         }
     ],
@@ -77,6 +88,11 @@
             "+content": "Bless  (GN 4)",
             "+@date": "2025-02-25",
             "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52638"
+        },
+        {
+            "+content": "Bless  (GN 5)",
+            "+@date": "2025-06-24",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=53739"
         }
     ],
     "news": [
@@ -109,6 +125,11 @@
             "+content": "North American Anime, Manga Releases, September 29-October 5",
             "+@datetime": "2024-10-02T21:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-10-02/north-american-anime-manga-releases-september-29-october-5/.216243"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, June 22-28",
+            "+@datetime": "2025-06-27T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-27/north-american-anime-manga-releases-june-22-28/.225930"
         }
     ],
     "staff": {
@@ -120,6 +141,6 @@
         }
     },
     "+@date-added": "2023-06-29T09:19:33Z",
-    "+@date-last-modified-at": "2025-04-18T12:54:30Z",
-    "+@date-last-updated-at": "2025-04-18T12:54:30Z"
+    "+@date-last-modified-at": "2025-07-08T20:35:38Z",
+    "+@date-last-updated-at": "2025-07-08T20:35:38Z"
 }
