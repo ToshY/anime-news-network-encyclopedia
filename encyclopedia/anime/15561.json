@@ -4,7 +4,7 @@
     "+@type": "special",
     "+@name": "Lupin the 3rd: Princess of the Breeze!",
     "+@precision": "special",
-    "+@generated-on": "2025-04-20T12:51:39Z",
+    "+@generated-on": "2025-07-08T13:01:57Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "3053"
@@ -101,6 +101,11 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "\"Theme of Lupin III '78 (2002 version)\" by Yuji Ohno",
+            "+@gid": "1700293369",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "ルパン三世 princess of the breeze&#xFF5E;隠された空中都市&#xFF5E; - 金曜ロードSHOW!",
             "+@gid": "2105005487",
             "+@type": "Official website",
@@ -109,9 +114,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "24",
-        "+@weighted_score": "6.5585",
-        "+@bayesian_score": "6.88086"
+        "+@nb_votes": "25",
+        "+@weighted_score": "6.5769",
+        "+@bayesian_score": "6.88408"
     },
     "release": {
         "+content": "Lupin the 3rd: Princess of the Breeze! (Sub.Blu-ray)",
@@ -395,6 +400,30 @@
                 "+content": "Shigemitsu Hamao",
                 "+@id": "98568"
             }
+        },
+        {
+            "+@gid": "1907567664",
+            "task": "Producer",
+            "person": {
+                "+content": "Toshio Nakatani",
+                "+@id": "2091"
+            }
+        },
+        {
+            "+@gid": "2363999211",
+            "task": "Producer",
+            "person": {
+                "+content": "Yosuke Tsuruki",
+                "+@id": "30756"
+            }
+        },
+        {
+            "+@gid": "2183472568",
+            "task": "Producer",
+            "person": {
+                "+content": "Atsushi Kirimoto",
+                "+@id": "122486"
+            }
         }
     ],
     "cast": [
@@ -669,15 +698,41 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2228832709",
-        "task": "Production",
-        "company": {
-            "+content": "TMS Entertainment",
-            "+@id": "292"
+    "credit": [
+        {
+            "+@gid": "893612164",
+            "task": "Animation Production",
+            "company": {
+                "+content": "TMS Entertainment",
+                "+@id": "292"
+            }
+        },
+        {
+            "+@gid": "1870916607",
+            "task": "Animation Production",
+            "company": {
+                "+content": "8PAN",
+                "+@id": "16711"
+            }
+        },
+        {
+            "+@gid": "2228832709",
+            "task": "Production",
+            "company": {
+                "+content": "TMS Entertainment",
+                "+@id": "292"
+            }
+        },
+        {
+            "+@gid": "3835318770",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon Television Network",
+                "+@id": "834"
+            }
         }
-    },
+    ],
     "+@date-added": "2013-08-12T13:11:06Z",
-    "+@date-last-modified-at": "2025-04-20T12:51:42Z",
-    "+@date-last-updated-at": "2025-04-20T12:51:42Z"
+    "+@date-last-modified-at": "2025-07-08T13:02:00Z",
+    "+@date-last-updated-at": "2025-07-08T13:02:00Z"
 }
