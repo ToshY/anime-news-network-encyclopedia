@@ -2,13 +2,19 @@
     "+@id": "28993",
     "+@gid": "2254613682",
     "+@type": "manga",
-    "+@name": "Akuyaku Reijou no Naka no Hito",
+    "+@name": "One Within the Villainess",
     "+@precision": "manga",
-    "+@generated-on": "2025-04-18T04:37:29Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "20821"
-    },
+    "+@generated-on": "2025-07-08T08:44:08Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "20821"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "36323"
+        }
+    ],
     "info": [
         {
             "+@gid": "2353388671",
@@ -35,10 +41,10 @@
             ]
         },
         {
-            "+content": "Akuyaku Reijou no Naka no Hito",
-            "+@gid": "2986177754",
+            "+content": "The One Within the Villainess",
+            "+@gid": "3390686379",
             "+@type": "Main title",
-            "+@lang": "JA"
+            "+@lang": "FR"
         },
         {
             "+content": "Akuyaku Reijō no Naka no Hito",
@@ -53,12 +59,6 @@
             "+@lang": "JA"
         },
         {
-            "+content": "The One Within the Villainess",
-            "+@gid": "3390686379",
-            "+@type": "Alternative title",
-            "+@lang": "FR"
-        },
-        {
             "+content": "悪役令嬢の中の人～断罪された転生者のため嘘つきヒロインに復讐いたします～",
             "+@gid": "1585668234",
             "+@type": "Alternative title",
@@ -68,6 +68,11 @@
             "+content": "revenge",
             "+@gid": "1175663309",
             "+@type": "Themes"
+        },
+        {
+            "+content": "6",
+            "+@gid": "416237905",
+            "+@type": "Number of tankoubon"
         },
         {
             "+content": "2021-11-19 (serialized on Comic Lake)",
@@ -82,6 +87,11 @@
             "+@href": "https://comic.pixiv.net/works/7926"
         }
     ],
+    "news": {
+        "+content": "<cite>Akuyaku Reijō no Naka no Hito</cite> Isekai Villainess Novels & Manga Get Anime",
+        "+@datetime": "2025-05-30T03:38:24Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-05-29/akuyaku-reijo-no-naka-no-hito-isekai-villainess-novels-and-manga-get-anime/.224935"
+    },
     "staff": [
         {
             "+@gid": "3484087132",
@@ -109,6 +119,6 @@
         }
     ],
     "+@date-added": "2023-07-11T10:02:57Z",
-    "+@date-last-modified-at": "2025-04-18T04:37:31Z",
-    "+@date-last-updated-at": "2025-04-18T04:37:31Z"
+    "+@date-last-modified-at": "2025-07-08T08:44:09Z",
+    "+@date-last-updated-at": "2025-07-08T08:44:09Z"
 }
