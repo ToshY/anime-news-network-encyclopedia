@@ -4,7 +4,11 @@
     "+@type": "manga",
     "+@name": "Nukarumi no Shokutaku",
     "+@precision": "manga",
-    "+@generated-on": "2025-04-19T08:33:43Z",
+    "+@generated-on": "2025-07-09T13:02:25Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "24266"
+    },
     "info": [
         {
             "+@gid": "1406299485",
@@ -43,7 +47,17 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2020-11-13 (serialized on Comic Kingdom)",
+            "+content": "drama",
+            "+@gid": "908184701",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "9",
+            "+@gid": "1494196018",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2020-11-13 to 2025-05-08",
             "+@gid": "3923281306",
             "+@type": "Vintage"
         }
@@ -57,6 +71,6 @@
         }
     },
     "+@date-added": "2023-06-08T22:32:27Z",
-    "+@date-last-modified-at": "2025-04-19T08:33:44Z",
-    "+@date-last-updated-at": "2025-04-19T08:33:44Z"
+    "+@date-last-modified-at": "2025-07-09T13:02:27Z",
+    "+@date-last-updated-at": "2025-07-09T13:02:27Z"
 }
