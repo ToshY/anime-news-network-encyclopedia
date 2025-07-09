@@ -4,15 +4,21 @@
     "+@type": "manga",
     "+@name": "Kirio Fanclub",
     "+@precision": "manga",
-    "+@generated-on": "2025-04-19T16:36:43Z",
+    "+@generated-on": "2025-07-09T16:44:24Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "32952"
     },
-    "related-next": {
-        "+@id": "33542",
-        "+@rel": "adaptation"
-    },
+    "related-next": [
+        {
+            "+@id": "33542",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "35935",
+            "+@rel": "spinoff"
+        }
+    ],
     "info": [
         {
             "+@gid": "3696702650",
@@ -42,6 +48,12 @@
             "+content": "Kirio Fanclub",
             "+@gid": "3596285469",
             "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
+            "+content": "Kirio Fan Club",
+            "+@gid": "2053208760",
+            "+@type": "Alternative title",
             "+@lang": "EN"
         },
         {
@@ -103,6 +115,11 @@
             "+content": "<cite>Kono Manga ga Sugoi!</cite> Editors Unveil Full List of Top 2025 Manga",
             "+@datetime": "2024-12-12T15:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-12/kono-manga-ga-sugoi-editors-unveil-full-list-of-top-2025-manga/.218909"
+        },
+        {
+            "+content": "Kodansha USA Licenses <cite>GALAXIAS</cite>, <cite>OMORI</cite>, <cite>Fruit of the Underworld</cite>, More Manga for Spring 2026",
+            "+@datetime": "2025-07-04T20:32:42Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-04/kodansha-usa-licenses-galaxias-omori-fruit-of-the-underworld-more-manga-for-spring-2026/.226312"
         }
     ],
     "staff": {
@@ -114,6 +131,6 @@
         }
     },
     "+@date-added": "2023-05-30T22:37:07Z",
-    "+@date-last-modified-at": "2025-04-19T16:36:46Z",
-    "+@date-last-updated-at": "2025-04-19T16:36:46Z"
+    "+@date-last-modified-at": "2025-07-09T16:44:24Z",
+    "+@date-last-updated-at": "2025-07-09T16:44:24Z"
 }
