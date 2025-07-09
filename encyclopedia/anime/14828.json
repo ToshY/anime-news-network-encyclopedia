@@ -4,7 +4,7 @@
     "+@type": "special",
     "+@name": "Lupin the 3rd: The Secret Page of Marco Polo!",
     "+@precision": "special",
-    "+@generated-on": "2025-04-21T20:32:21Z",
+    "+@generated-on": "2025-07-09T20:35:28Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "3053"
@@ -108,12 +108,22 @@
             "+content": "2012-11-02",
             "+@gid": "1277653063",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Theme From Lupin III '89\" by Yuji Ohno",
+            "+@gid": "1275462348",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Lupin Sansei Ai no Theme\" (ルパン三世 愛のテーマ; Love Theme of Lupin the Third) by DOUBLE",
+            "+@gid": "2220097989",
+            "+@type": "Ending Theme"
         }
     ],
     "ratings": {
-        "+@nb_votes": "26",
-        "+@weighted_score": "6.9946",
-        "+@bayesian_score": "7.15507"
+        "+@nb_votes": "27",
+        "+@weighted_score": "7.0326",
+        "+@bayesian_score": "7.17628"
     },
     "release": {
         "+content": "Lupin the 3rd: The Secret Page of Marco Polo! (Sub.Blu-ray)",
@@ -670,15 +680,25 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "4169090881",
-        "task": "Production",
-        "company": {
-            "+content": "TMS Entertainment",
-            "+@id": "292"
+    "credit": [
+        {
+            "+@gid": "4169090881",
+            "task": "Production",
+            "company": {
+                "+content": "TMS Entertainment",
+                "+@id": "292"
+            }
+        },
+        {
+            "+@gid": "3772371833",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon Television Network",
+                "+@id": "834"
+            }
         }
-    },
+    ],
     "+@date-added": "2012-09-27T21:45:27Z",
-    "+@date-last-modified-at": "2025-04-21T20:32:22Z",
-    "+@date-last-updated-at": "2025-04-21T20:32:22Z"
+    "+@date-last-modified-at": "2025-07-09T20:35:29Z",
+    "+@date-last-updated-at": "2025-07-09T20:35:29Z"
 }
