@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "K-ON!",
     "+@precision": "movie",
-    "+@generated-on": "2025-04-24T08:41:39Z",
+    "+@generated-on": "2025-07-12T08:39:47Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "11262"
@@ -84,6 +84,11 @@
         {
             "+content": "music",
             "+@gid": "2255923540",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "school life",
+            "+@gid": "1893033917",
             "+@type": "Themes"
         },
         {
@@ -202,8 +207,8 @@
     ],
     "ratings": {
         "+@nb_votes": "735",
-        "+@weighted_score": "7.9624",
-        "+@bayesian_score": "7.95395"
+        "+@weighted_score": "7.9625",
+        "+@bayesian_score": "7.95402"
     },
     "review": [
         {
@@ -548,22 +553,6 @@
             "person": {
                 "+content": "Reiko Yoshida",
                 "+@id": "110"
-            }
-        },
-        {
-            "+@gid": "1549584740",
-            "task": "Screenplay",
-            "person": {
-                "+content": "Jukki Hanada",
-                "+@id": "16408"
-            }
-        },
-        {
-            "+@gid": "565370234",
-            "task": "Screenplay",
-            "person": {
-                "+content": "Katsuhiko Muramoto",
-                "+@id": "38089"
             }
         },
         {
@@ -997,6 +986,6 @@
         }
     ],
     "+@date-added": "2010-10-01T20:54:22Z",
-    "+@date-last-modified-at": "2025-04-24T08:41:54Z",
-    "+@date-last-updated-at": "2025-04-24T08:41:54Z"
+    "+@date-last-modified-at": "2025-07-12T08:39:49Z",
+    "+@date-last-updated-at": "2025-07-12T08:39:49Z"
 }

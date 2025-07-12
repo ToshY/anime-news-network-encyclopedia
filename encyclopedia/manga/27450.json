@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Rose Bertin: The Dressmaker That Launched a Thousand Dreams",
     "+@precision": "manga",
-    "+@generated-on": "2025-04-22T08:40:10Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "19645"
-    },
+    "+@generated-on": "2025-07-12T08:39:46Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "19645"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "26633"
+        }
+    ],
     "info": [
         {
             "+@gid": "1796195507",
@@ -64,9 +70,21 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2018-12-21 (serialized in Monthly Comic Bunch)",
-            "+@gid": "2044331579",
+            "+content": "2018-12-21 to 2023-09-21 (Comic Bunch, Feb 2019 - Nov 2023)",
+            "+@gid": "3272786347",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2024-11-22 (serialized on Comic Bunch Kai / Kurage Bunch)",
+            "+@gid": "2618226282",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "傾国の仕立て屋 ローズ・ベルタン - 磯見仁月 / 第1話 可愛いドレス | コミックバンチKai",
+            "+@gid": "2451540010",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://kuragebunch.com/episode/13933686331620137739"
         }
     ],
     "staff": {
@@ -78,6 +96,6 @@
         }
     },
     "+@date-added": "2023-03-17T23:27:24Z",
-    "+@date-last-modified-at": "2025-04-22T08:40:16Z",
-    "+@date-last-updated-at": "2025-04-22T08:40:16Z"
+    "+@date-last-modified-at": "2025-07-12T08:39:47Z",
+    "+@date-last-updated-at": "2025-07-12T08:39:47Z"
 }
