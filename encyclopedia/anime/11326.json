@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Pico×CoCo×Chico",
     "+@precision": "OAV",
-    "+@generated-on": "2025-03-09T22:27:07Z",
+    "+@generated-on": "2025-07-13T08:38:51Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "8647"
@@ -155,8 +155,8 @@
     ],
     "ratings": {
         "+@nb_votes": "95",
-        "+@weighted_score": "5.7136",
-        "+@bayesian_score": "5.92581"
+        "+@weighted_score": "5.7143",
+        "+@bayesian_score": "5.9262"
     },
     "staff": [
         {
@@ -240,26 +240,15 @@
             }
         }
     ],
-    "cast": [
-        {
-            "+@gid": "3716044285",
-            "+@lang": "JA",
-            "role": "Pico",
-            "person": {
-                "+content": "Hikaru Ikeda",
-                "+@id": "19975"
-            }
-        },
-        {
-            "+@gid": "1961042292",
-            "+@lang": "JA",
-            "role": "Pico",
-            "person": {
-                "+content": "Pico",
-                "+@id": "73818"
-            }
+    "cast": {
+        "+@gid": "228663265",
+        "+@lang": "JA",
+        "role": "Pico Onedari",
+        "person": {
+            "+content": "Yuu Mikage",
+            "+@id": "6884"
         }
-    ],
+    },
     "credit": {
         "+@gid": "712182469",
         "task": "Production",
@@ -269,6 +258,6 @@
         }
     },
     "+@date-added": "2010-03-04T10:42:17Z",
-    "+@date-last-modified-at": "2025-03-09T22:27:10Z",
-    "+@date-last-updated-at": "2025-03-09T22:27:10Z"
+    "+@date-last-modified-at": "2025-07-13T08:38:53Z",
+    "+@date-last-updated-at": "2025-07-13T08:38:53Z"
 }
