@@ -4,15 +4,21 @@
     "+@type": "manga",
     "+@name": "Summer Hikaru Died",
     "+@precision": "manga",
-    "+@generated-on": "2025-04-24T20:32:55Z",
+    "+@generated-on": "2025-07-14T16:44:30Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "19913"
     },
-    "related-next": {
-        "+@id": "32758",
-        "+@rel": "adaptation"
-    },
+    "related-next": [
+        {
+            "+@id": "32758",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "33802",
+            "+@rel": "adaptation"
+        }
+    ],
     "info": [
         {
             "+@gid": "3780276233",
@@ -104,7 +110,7 @@
     ],
     "ratings": {
         "+@nb_votes": "2",
-        "+@weighted_score": "7.8343"
+        "+@weighted_score": "7.8337"
     },
     "review": {
         "+content": "The Summer Hikaru Died GN 1",
@@ -248,6 +254,6 @@
         }
     },
     "+@date-added": "2022-09-16T20:14:41Z",
-    "+@date-last-modified-at": "2025-04-24T20:32:56Z",
-    "+@date-last-updated-at": "2025-04-24T20:32:56Z"
+    "+@date-last-modified-at": "2025-07-14T16:44:32Z",
+    "+@date-last-updated-at": "2025-07-14T16:44:32Z"
 }
