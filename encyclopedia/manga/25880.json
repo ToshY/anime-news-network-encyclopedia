@@ -4,15 +4,29 @@
     "+@type": "manga",
     "+@name": "Twilight Out of Focus",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-09T22:27:08Z",
+    "+@generated-on": "2025-07-15T13:04:35Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "28885"
     },
-    "related-next": {
-        "+@id": "28893",
-        "+@rel": "adaptation"
-    },
+    "related-next": [
+        {
+            "+@id": "28893",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "35661",
+            "+@rel": "spinoff"
+        },
+        {
+            "+@id": "35662",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "35663",
+            "+@rel": "spinoff"
+        }
+    ],
     "info": [
         {
             "+@gid": "2770347429",
@@ -78,8 +92,8 @@
             "+@type": "Number of tankoubon"
         },
         {
-            "+content": "2019 (serialized in Honey Milk)",
-            "+@gid": "2776311004",
+            "+content": "2018-06-10 to 2019-03-10 (serialized in Honey Milk, vols. 25 - 34)",
+            "+@gid": "2613060399",
             "+@type": "Vintage"
         }
     ],
@@ -91,11 +105,18 @@
         "+content": "<cite>Twilight Out of Focus</cite> Volumes 1-4 Manga Review",
         "+@href": "https://www.animenewsnetwork.com/review/twilight-out-of-focus/volumes-1-4/.212363"
     },
-    "release": {
-        "+content": "Twilight Out of Focus  (GN 1)",
-        "+@date": "2023-05-09",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=50038"
-    },
+    "release": [
+        {
+            "+content": "Twilight Out of Focus  (GN 1)",
+            "+@date": "2023-05-09",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=50038"
+        },
+        {
+            "+content": "Twilight Out of Focus [Box Set] (GN 1-4)",
+            "+@date": "2025-06-17",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=53579"
+        }
+    ],
     "news": [
         {
             "+content": "Kodansha Comics Publishes '<cite>Having an Idol-Loving Boyfriend is the Best!</cite>,' 9 More New Manga in March",
@@ -151,6 +172,11 @@
             "+content": "North American Anime, Manga Releases, February 16-22",
             "+@datetime": "2025-02-21T22:02:22Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-02-21/north-american-anime-manga-releases-february-16-22/.221368"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, June 15-21",
+            "+@datetime": "2025-06-20T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-20/north-american-anime-manga-releases-june-15-21/.225672"
         }
     ],
     "staff": {
@@ -162,6 +188,6 @@
         }
     },
     "+@date-added": "2022-06-21T18:33:57Z",
-    "+@date-last-modified-at": "2025-03-09T22:27:09Z",
-    "+@date-last-updated-at": "2025-03-09T22:27:09Z"
+    "+@date-last-modified-at": "2025-07-15T13:04:36Z",
+    "+@date-last-updated-at": "2025-07-15T13:04:36Z"
 }
