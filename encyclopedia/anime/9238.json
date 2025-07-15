@@ -4,7 +4,11 @@
     "+@type": "OAV",
     "+@name": "Mars",
     "+@precision": "OAV",
-    "+@generated-on": "2025-03-10T10:31:20Z",
+    "+@generated-on": "2025-07-15T04:53:10Z",
+    "related-prev": {
+        "+@rel": "adapted from",
+        "+@id": "35524"
+    },
     "info": [
         {
             "+@gid": "2998883290",
@@ -46,6 +50,10 @@
             "+content": "mecha",
             "+@gid": "541187330",
             "+@type": "Themes"
+        },
+        {
+            "+content": "A new island appears off the coast of Japan, and when a TV journalist helicopters in to report on it he sees a naked man on the island. The man is rescued & brought to Japan, all while the report finds its way to six men in New York, who remark that \"Mars\" has awakened too early. Mars, it turns out, is an alien whose job it is to judge whether or not Earth should be destroyed, based on whether or not humanity can be trusted with space travel. Mars, though, decides to side with humanity & fights back against his fellow six aliens using Gaia, the giant robot he can command. However, should Mars be killed then Gaia will self-destruct, which would result in Earth's eradication. <em class=de-emphasized>(from manga by M. Yokoyama)</em>",
+            "+@type": "Plot Summary"
         },
         {
             "+content": "half hour",
@@ -118,7 +126,7 @@
             "+@gid": "2465027492",
             "task": "Episode Director",
             "person": {
-                "+content": "Yuji Himaki",
+                "+content": "Yūji Himaki",
                 "+@id": "14242"
             }
         },
@@ -237,6 +245,24 @@
     ],
     "cast": [
         {
+            "+@gid": "3011103868",
+            "+@lang": "JA",
+            "role": "Shin",
+            "person": {
+                "+content": "Shigeru Chiba",
+                "+@id": "427"
+            }
+        },
+        {
+            "+@gid": "4008100363",
+            "+@lang": "JA",
+            "role": "Cabinet Secretary",
+            "person": {
+                "+content": "Osamu Kobayashi",
+                "+@id": "642"
+            }
+        },
+        {
             "+@gid": "2459335129",
             "+@lang": "JA",
             "role": "Nike",
@@ -255,6 +281,33 @@
             }
         },
         {
+            "+@gid": "2639702582",
+            "+@lang": "JA",
+            "role": "Ōgaki",
+            "person": {
+                "+content": "Toshihiko Seki",
+                "+@id": "693"
+            }
+        },
+        {
+            "+@gid": "2810165066",
+            "+@lang": "JA",
+            "role": "Harumi Yamaguchi",
+            "person": {
+                "+content": "Akiko Hiramatsu",
+                "+@id": "854"
+            }
+        },
+        {
+            "+@gid": "2187082271",
+            "+@lang": "JA",
+            "role": "Gill",
+            "person": {
+                "+content": "Norio Wakamoto",
+                "+@id": "954"
+            }
+        },
+        {
             "+@gid": "2895253229",
             "+@lang": "JA",
             "role": "Mars",
@@ -264,12 +317,48 @@
             }
         },
         {
+            "+@gid": "1397247916",
+            "+@lang": "JA",
+            "role": "Al",
+            "person": {
+                "+content": "Kiyoshi Kawakubo",
+                "+@id": "1018"
+            }
+        },
+        {
             "+@gid": "2109708339",
             "+@lang": "JA",
             "role": "Reiko Yamaguchi",
             "person": {
                 "+content": "Emi Shinohara",
                 "+@id": "1275"
+            }
+        },
+        {
+            "+@gid": "2649992157",
+            "+@lang": "JA",
+            "role": "Ra",
+            "person": {
+                "+content": "Yoshito Yasuhara",
+                "+@id": "2109"
+            }
+        },
+        {
+            "+@gid": "523312837",
+            "+@lang": "JA",
+            "role": "Kongō Captain",
+            "person": {
+                "+content": "Hidetoshi Nakamura",
+                "+@id": "2402"
+            }
+        },
+        {
+            "+@gid": "2083367106",
+            "+@lang": "JA",
+            "role": "Milo",
+            "person": {
+                "+content": "Ryūsei Nakao",
+                "+@id": "4668"
             }
         }
     ],
@@ -292,6 +381,6 @@
         }
     ],
     "+@date-added": "2008-01-26T12:43:55Z",
-    "+@date-last-modified-at": "2025-03-10T10:31:27Z",
-    "+@date-last-updated-at": "2025-03-10T10:31:27Z"
+    "+@date-last-modified-at": "2025-07-15T04:53:12Z",
+    "+@date-last-updated-at": "2025-07-15T04:53:12Z"
 }
