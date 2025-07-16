@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Babel's Book",
     "+@precision": "movie",
-    "+@generated-on": "2025-03-10T19:27:01Z",
+    "+@generated-on": "2025-07-16T13:05:05Z",
     "info": [
         {
             "+@gid": "2501412693",
@@ -71,8 +71,8 @@
     ],
     "ratings": {
         "+@nb_votes": "44",
-        "+@weighted_score": "5.7304",
-        "+@bayesian_score": "6.12866"
+        "+@weighted_score": "5.7645",
+        "+@bayesian_score": "6.15455"
     },
     "release": {
         "+content": "Franz Kafka's A Country Doctor & Other Fantastic Films by Koji Yamamura (Sub.DVD)",
@@ -105,15 +105,26 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "791516247",
-        "+@lang": "JA",
-        "role": "Sister",
-        "person": {
-            "+content": "Yui Makino",
-            "+@id": "38425"
+    "cast": [
+        {
+            "+@gid": "791516247",
+            "+@lang": "JA",
+            "role": "Sister",
+            "person": {
+                "+content": "Yui Makino",
+                "+@id": "38425"
+            }
+        },
+        {
+            "+@gid": "2203028770",
+            "+@lang": "JA",
+            "role": "Brother",
+            "person": {
+                "+content": "Takaaki Namiki",
+                "+@id": "147158"
+            }
         }
-    },
+    ],
     "credit": [
         {
             "+@gid": "2493654051",
@@ -133,6 +144,6 @@
         }
     ],
     "+@date-added": "2007-04-04T03:15:56Z",
-    "+@date-last-modified-at": "2025-03-10T19:27:03Z",
-    "+@date-last-updated-at": "2025-03-10T19:27:03Z"
+    "+@date-last-modified-at": "2025-07-16T13:05:06Z",
+    "+@date-last-updated-at": "2025-07-16T13:05:06Z"
 }
