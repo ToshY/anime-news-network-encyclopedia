@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Gacha Girls Corps",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-10T04:29:09Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "22029"
-    },
+    "+@generated-on": "2025-07-16T04:52:50Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "22029"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "36319"
+        }
+    ],
     "info": [
         {
             "+@gid": "3467965346",
@@ -58,8 +64,8 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2018 (serialized in Comic Ride)",
-            "+@gid": "3167773751",
+            "+content": "2018-03-30 (serialized in Comic Ride, vol. 22)",
+            "+@gid": "2101854727",
             "+@type": "Vintage"
         }
     ],
@@ -153,6 +159,6 @@
         }
     ],
     "+@date-added": "2022-02-11T16:24:12Z",
-    "+@date-last-modified-at": "2025-03-10T04:29:12Z",
-    "+@date-last-updated-at": "2025-03-10T04:29:12Z"
+    "+@date-last-modified-at": "2025-07-16T04:52:50Z",
+    "+@date-last-updated-at": "2025-07-16T04:52:50Z"
 }
