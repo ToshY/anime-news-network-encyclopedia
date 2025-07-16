@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Kim no Jūjika",
     "+@precision": "movie",
-    "+@generated-on": "2025-03-10T16:35:59Z",
+    "+@generated-on": "2025-07-16T02:28:46Z",
     "info": [
         {
             "+@gid": "2988636691",
@@ -60,6 +60,16 @@
             "+content": "1990-07-21 (Japan)",
             "+@gid": "3642095509",
             "+@type": "Premiere date"
+        },
+        {
+            "+content": "\"Shōkigan\" (小祈願) by Tomio Miyashita",
+            "+@gid": "1177697638",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Arirang\" (アリラン) by Yasuyoshi Ōta",
+            "+@gid": "1289719806",
+            "+@type": "Insert song"
         }
     ],
     "staff": [
@@ -80,6 +90,30 @@
             }
         },
         {
+            "+@gid": "1490925990",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kōichi Mashimo",
+                "+@id": "372"
+            }
+        },
+        {
+            "+@gid": "1606260599",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Koji Masunari",
+                "+@id": "3449"
+            }
+        },
+        {
+            "+@gid": "2430845819",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Yoshizō Tsuda",
+                "+@id": "53214"
+            }
+        },
+        {
             "+@gid": "1943396780",
             "task": "Music",
             "person": {
@@ -93,6 +127,22 @@
             "person": {
                 "+content": "Noboru Wada",
                 "+@id": "65938"
+            }
+        },
+        {
+            "+@gid": "1514129852",
+            "task": "Character Design",
+            "person": {
+                "+content": "Masami Suda",
+                "+@id": "2445"
+            }
+        },
+        {
+            "+@gid": "1557652754",
+            "task": "Character Design",
+            "person": {
+                "+content": "Hyeong-In Park",
+                "+@id": "106389"
             }
         },
         {
@@ -112,10 +162,34 @@
             }
         },
         {
+            "+@gid": "2491039169",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masami Suda",
+                "+@id": "2445"
+            }
+        },
+        {
+            "+@gid": "2933287259",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hyeong-In Park",
+                "+@id": "106389"
+            }
+        },
+        {
+            "+@gid": "1020129856",
+            "task": "Mechanical design",
+            "person": {
+                "+content": "Kunio Aoi",
+                "+@id": "19228"
+            }
+        },
+        {
             "+@gid": "2858595787",
             "task": "Director of Photography",
             "person": {
-                "+content": "Koutaro Yokoyama",
+                "+content": "Kōtarō Yokoyama",
                 "+@id": "11995"
             }
         },
@@ -138,21 +212,48 @@
     ],
     "cast": [
         {
-            "+@gid": "603543680",
+            "+@gid": "1970671586",
             "+@lang": "JA",
-            "role": "Sefan",
+            "role": "Kim Se-hwan",
             "person": {
                 "+content": "Masako Nozawa",
                 "+@id": "508"
             }
         },
         {
-            "+@gid": "1878923884",
+            "+@gid": "2580189287",
             "+@lang": "JA",
-            "role": "Jae-ha",
+            "role": "Yang",
+            "person": {
+                "+content": "Yūsaku Yara",
+                "+@id": "1311"
+            }
+        },
+        {
+            "+@gid": "2700721613",
+            "+@lang": "JA",
+            "role": "Sun-ja",
+            "person": {
+                "+content": "Yoshino Takamori",
+                "+@id": "1588"
+            }
+        },
+        {
+            "+@gid": "1376168654",
+            "+@lang": "JA",
+            "role": "Narrator",
+            "person": {
+                "+content": "Kiyoshi Kobayashi",
+                "+@id": "2170"
+            }
+        },
+        {
+            "+@gid": "1962933964",
+            "+@lang": "JA",
+            "role": "Kim Jae-ha",
             "person": {
                 "+content": "Tōru Furuya",
-                "+@id": "1105"
+                "+@id": "3076"
             }
         },
         {
@@ -162,6 +263,15 @@
             "person": {
                 "+content": "Hiroko Maruyama",
                 "+@id": "3108"
+            }
+        },
+        {
+            "+@gid": "2110959794",
+            "+@lang": "JA",
+            "role": "Kim Haeng-ju",
+            "person": {
+                "+content": "Kōichi Kitamura",
+                "+@id": "6566"
             }
         },
         {
@@ -181,6 +291,15 @@
                 "+content": "Tomie Kataoka",
                 "+@id": "9829"
             }
+        },
+        {
+            "+@gid": "1137388739",
+            "+@lang": "JA",
+            "role": "Sun-nee",
+            "person": {
+                "+content": "Masako Miura",
+                "+@id": "9915"
+            }
         }
     ],
     "credit": {
@@ -192,6 +311,6 @@
         }
     },
     "+@date-added": "2007-06-11T13:37:01Z",
-    "+@date-last-modified-at": "2025-03-10T16:36:00Z",
-    "+@date-last-updated-at": "2025-03-10T16:36:00Z"
+    "+@date-last-modified-at": "2025-07-16T02:28:48Z",
+    "+@date-last-updated-at": "2025-07-16T02:28:48Z"
 }
