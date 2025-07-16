@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Neko de Yokereba",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-10T07:25:39Z",
-    "related-next": {
-        "+@id": "25031",
-        "+@rel": "adaptation"
-    },
+    "+@generated-on": "2025-07-16T20:37:46Z",
+    "related-next": [
+        {
+            "+@id": "25031",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "35320",
+            "+@rel": "related"
+        }
+    ],
     "info": [
         {
             "+@gid": "2477906964",
@@ -42,6 +48,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "4",
+            "+@gid": "2261950277",
+            "+@type": "Number of tankoubon"
+        },
+        {
             "+content": "2019-04-12 (serialized on Neko Neko Yokocho)",
             "+@gid": "2295750262",
             "+@type": "Vintage"
@@ -68,6 +79,6 @@
         }
     },
     "+@date-added": "2021-12-03T18:52:53Z",
-    "+@date-last-modified-at": "2025-03-10T07:25:42Z",
-    "+@date-last-updated-at": "2025-03-10T07:25:42Z"
+    "+@date-last-modified-at": "2025-07-16T20:37:50Z",
+    "+@date-last-updated-at": "2025-07-16T20:37:50Z"
 }
