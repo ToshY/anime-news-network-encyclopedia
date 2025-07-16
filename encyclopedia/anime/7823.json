@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Pocket Monsters: Pikachu no Fuyuyasumi",
     "+@precision": "OAV",
-    "+@generated-on": "2025-03-10T19:41:51Z",
+    "+@generated-on": "2025-07-16T16:45:21Z",
     "related-prev": [
         {
             "+@rel": "related to",
@@ -44,16 +44,58 @@
             ]
         },
         {
+            "+@gid": "480550489",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A7823-480550489.1751904038.jpg",
+            "+@width": "133",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A7823-480550489.1751904038.jpg",
+                    "+@width": "133",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A7823-480550489.1751904038.jpg",
+                    "+@width": "400",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A7823-480550489.1751904038.jpg",
+                    "+@width": "928",
+                    "+@height": "1392"
+                }
+            ]
+        },
+        {
             "+content": "Pocket Monsters: Pikachu no Fuyuyasumi",
             "+@gid": "2280954844",
             "+@type": "Main title",
             "+@lang": "EN"
         },
         {
+            "+content": "As Férias de Inverno de Pikachu - Noite de Natal!/Jogos Kanga",
+            "+@gid": "2155003431",
+            "+@type": "Alternative title",
+            "+@lang": "PT"
+        },
+        {
+            "+content": "Las Vacaciones Invernales De Pikachu - La Noche De Navidad / Jugando Con Kanga",
+            "+@gid": "2361587732",
+            "+@type": "Alternative title",
+            "+@lang": "ES"
+        },
+        {
             "+content": "Le vacanze invernali di Pikachu: Natale con i Pokémon / Divertimento sulla neve",
             "+@gid": "1340132372",
             "+@type": "Alternative title",
             "+@lang": "IT"
+        },
+        {
+            "+content": "Pokemon: Catastrophes à la veille de Noël",
+            "+@gid": "1609468533",
+            "+@type": "Alternative title",
+            "+@lang": "FR"
         },
         {
             "+content": "Pokemon: Pikachu's Winter Vacation",
@@ -68,9 +110,24 @@
             "+@lang": "JA"
         },
         {
+            "+content": "adventure",
+            "+@gid": "1090481650",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "1954927376",
+            "+@type": "Genres"
+        },
+        {
             "+content": "AA",
             "+@gid": "2472563956",
             "+@type": "Objectionable content"
+        },
+        {
+            "+content": "Ash lets Pikachu and his other Pokemon friends at a winter cabin, but they get in all sorts of trouble.",
+            "+@gid": "2325504809",
+            "+@type": "Plot Summary"
         },
         {
             "+content": "2",
@@ -99,8 +156,8 @@
     ],
     "ratings": {
         "+@nb_votes": "31",
-        "+@weighted_score": "6.0294",
-        "+@bayesian_score": "6.45698"
+        "+@weighted_score": "6.0424",
+        "+@bayesian_score": "6.46558"
     },
     "staff": [
         {
@@ -112,11 +169,43 @@
             }
         },
         {
+            "+@gid": "2822925243",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Toshiaki Suzuki",
+                "+@id": "9677"
+            }
+        },
+        {
+            "+@gid": "3551674534",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yūji Asada",
+                "+@id": "10189"
+            }
+        },
+        {
             "+@gid": "2166617394",
             "task": "Original Concept",
             "person": {
                 "+content": "Satoshi Tajiri",
                 "+@id": "3902"
+            }
+        },
+        {
+            "+@gid": "2749682675",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masaaki Iwane",
+                "+@id": "14173"
+            }
+        },
+        {
+            "+@gid": "623843599",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Keishi Sakai",
+                "+@id": "29597"
             }
         }
     ],
@@ -286,6 +375,14 @@
     ],
     "credit": [
         {
+            "+@gid": "2126316353",
+            "task": "Production",
+            "company": {
+                "+content": "TV Tokyo",
+                "+@id": "262"
+            }
+        },
+        {
             "+@gid": "2802267678",
             "task": "Production",
             "company": {
@@ -300,9 +397,57 @@
                 "+content": "Nintendo",
                 "+@id": "620"
             }
+        },
+        {
+            "+@gid": "1655345671",
+            "task": "Production",
+            "company": {
+                "+content": "ShoPro Entertainment",
+                "+@id": "1080"
+            }
+        },
+        {
+            "+@gid": "3054916839",
+            "task": "Production",
+            "company": {
+                "+content": "Creatures",
+                "+@id": "2693"
+            }
+        },
+        {
+            "+@gid": "2376044789",
+            "task": "Production",
+            "company": {
+                "+content": "GAME FREAK",
+                "+@id": "2694"
+            }
+        },
+        {
+            "+@gid": "1136420165",
+            "task": "Production",
+            "company": {
+                "+content": "East Japan Marketing & Communications, Inc.",
+                "+@id": "2695"
+            }
+        },
+        {
+            "+@gid": "3012000647",
+            "task": "Production",
+            "company": {
+                "+content": "Pikachu Project",
+                "+@id": "2696"
+            }
+        },
+        {
+            "+@gid": "1752854643",
+            "task": "Production",
+            "company": {
+                "+content": "Pikachu the Movie",
+                "+@id": "26980"
+            }
         }
     ],
     "+@date-added": "2007-03-27T04:21:27Z",
-    "+@date-last-modified-at": "2025-03-10T20:31:28Z",
-    "+@date-last-updated-at": "2025-03-10T20:31:28Z"
+    "+@date-last-modified-at": "2025-07-16T16:45:24Z",
+    "+@date-last-updated-at": "2025-07-16T16:45:24Z"
 }
