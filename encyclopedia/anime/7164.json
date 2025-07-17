@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Joker - Marginal City",
     "+@precision": "OAV",
-    "+@generated-on": "2025-03-11T03:41:11Z",
+    "+@generated-on": "2025-07-17T16:45:15Z",
     "info": [
         {
             "+@gid": "826170018",
@@ -73,12 +73,22 @@
         {
             "+content": "1992-04-21",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Itsunohi mo\" (いつの日も) by Michie Tomizawa",
+            "+@gid": "1056664220",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Magical Cat\" (マジカル キャット) by Michie Tomizawa",
+            "+@gid": "2521961550",
+            "+@type": "Insert song"
         }
     ],
     "ratings": {
         "+@nb_votes": "16",
-        "+@weighted_score": "4.7719",
-        "+@bayesian_score": "5.98435"
+        "+@weighted_score": "4.7712",
+        "+@bayesian_score": "5.98307"
     },
     "staff": [
         {
@@ -125,7 +135,7 @@
             "+@gid": "497742450",
             "task": "Original creator",
             "person": {
-                "+content": "Yuu Maki",
+                "+content": "Yū Maki",
                 "+@id": "168998"
             }
         },
@@ -143,6 +153,14 @@
             "person": {
                 "+content": "Miyuki Shimabukuro",
                 "+@id": "12093"
+            }
+        },
+        {
+            "+@gid": "2423504513",
+            "task": "Character Design",
+            "person": {
+                "+content": "Chūichi Iguchi",
+                "+@id": "95816"
             }
         },
         {
@@ -213,9 +231,18 @@
             }
         },
         {
-            "+@gid": "2125001081",
+            "+@gid": "2437836838",
             "+@lang": "JA",
-            "role": "Rikudou Rin",
+            "role": "Saki",
+            "person": {
+                "+content": "Urara Takano",
+                "+@id": "304"
+            }
+        },
+        {
+            "+@gid": "1176254878",
+            "+@lang": "JA",
+            "role": "Rīn Rikudō",
             "person": {
                 "+content": "Yasunori Matsumoto",
                 "+@id": "499"
@@ -226,8 +253,17 @@
             "+@lang": "JA",
             "role": "Joker",
             "person": {
-                "+content": "Shō Hayami",
+                "+content": "Show Hayami",
                 "+@id": "724"
+            }
+        },
+        {
+            "+@gid": "866806860",
+            "+@lang": "JA",
+            "role": "Dr. Bayfarm",
+            "person": {
+                "+content": "Jūrōta Kosugi",
+                "+@id": "849"
             }
         },
         {
@@ -259,6 +295,6 @@
         }
     ],
     "+@date-added": "2006-11-22T11:56:18Z",
-    "+@date-last-modified-at": "2025-03-11T03:41:14Z",
-    "+@date-last-updated-at": "2025-03-11T03:41:14Z"
+    "+@date-last-modified-at": "2025-07-17T16:45:19Z",
+    "+@date-last-updated-at": "2025-07-17T16:45:19Z"
 }
