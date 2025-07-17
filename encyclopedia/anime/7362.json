@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Sekai Dōwa Anime Zenshū",
     "+@precision": "OAV",
-    "+@generated-on": "2025-03-10T23:28:30Z",
+    "+@generated-on": "2025-07-17T04:52:29Z",
     "related-next": {
         "+@id": "34140",
         "+@rel": "compilation"
@@ -199,6 +199,62 @@
             }
         },
         {
+            "+@gid": "2875801704",
+            "task": "Original story",
+            "person": {
+                "+content": "Charles Perrault",
+                "+@id": "6620"
+            }
+        },
+        {
+            "+@gid": "2699330865",
+            "task": "Original story",
+            "person": {
+                "+content": "Hans Christian Andersen",
+                "+@id": "22197"
+            }
+        },
+        {
+            "+@gid": "1794600057",
+            "task": "Original story",
+            "person": {
+                "+content": "Jacob Grimm",
+                "+@id": "28887"
+            }
+        },
+        {
+            "+@gid": "2148057158",
+            "task": "Original story",
+            "person": {
+                "+content": "Wilhelm Grimm",
+                "+@id": "28888"
+            }
+        },
+        {
+            "+@gid": "2835680309",
+            "task": "Original story",
+            "person": {
+                "+content": "Helen Bannerman",
+                "+@id": "282917"
+            }
+        },
+        {
+            "+@gid": "1549787923",
+            "task": "Original story",
+            "person": {
+                "+content": "Hanna Diyab",
+                "+@id": "282918"
+            }
+        },
+        {
+            "+@gid": "2040114829",
+            "task": "Original story",
+            "person": {
+                "+content": "James Halliwell-Phillipps",
+                "+@id": "282919"
+            }
+        },
+        {
             "+@gid": "2693141926",
             "task": "Art Director",
             "person": {
@@ -231,15 +287,26 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "799784103",
-        "+@lang": "EN",
-        "role": "Narrator",
-        "person": {
-            "+content": "Susan Brooks",
-            "+@id": "223777"
+    "cast": [
+        {
+            "+@gid": "799784103",
+            "+@lang": "EN",
+            "role": "Narrator",
+            "person": {
+                "+content": "Susan Brooks",
+                "+@id": "223777"
+            }
+        },
+        {
+            "+@gid": "2438402750",
+            "+@lang": "JA",
+            "role": "Narration",
+            "person": {
+                "+content": "Toshiko Fujita",
+                "+@id": "1668"
+            }
         }
-    },
+    ],
     "credit": [
         {
             "+@gid": "2497299101",
@@ -259,6 +326,6 @@
         }
     ],
     "+@date-added": "2006-12-09T00:04:30Z",
-    "+@date-last-modified-at": "2025-03-10T23:28:31Z",
-    "+@date-last-updated-at": "2025-03-10T23:28:31Z"
+    "+@date-last-modified-at": "2025-07-17T04:52:30Z",
+    "+@date-last-updated-at": "2025-07-17T04:52:30Z"
 }

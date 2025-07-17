@@ -4,11 +4,17 @@
     "+@type": "magazine",
     "+@name": "Sylph",
     "+@precision": "anthology",
-    "+@generated-on": "2025-03-10T09:27:12Z",
-    "related-next": {
-        "+@id": "8555",
-        "+@rel": "serialized"
-    },
+    "+@generated-on": "2025-07-17T04:52:28Z",
+    "related-next": [
+        {
+            "+@id": "8555",
+            "+@rel": "serialized"
+        },
+        {
+            "+@id": "36242",
+            "+@rel": "serialized"
+        }
+    ],
     "info": [
         {
             "+content": "Sylph",
@@ -67,6 +73,6 @@
         }
     ],
     "+@date-added": "2021-08-29T14:24:11Z",
-    "+@date-last-modified-at": "2025-03-10T09:27:14Z",
-    "+@date-last-updated-at": "2025-03-10T09:27:14Z"
+    "+@date-last-modified-at": "2025-07-17T04:52:30Z",
+    "+@date-last-updated-at": "2025-07-17T04:52:30Z"
 }
