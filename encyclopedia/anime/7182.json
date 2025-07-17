@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Oz",
     "+@precision": "OAV",
-    "+@generated-on": "2025-03-11T03:03:46Z",
+    "+@generated-on": "2025-07-17T13:04:52Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "5646"
@@ -52,7 +52,7 @@
             "+@type": "Themes"
         },
         {
-            "+content": "The story is set in 2021, 31 years after World War III. Filicia Epstein, a bionics genius, came to Sabano and Sergent Mutou was ordered to protect her. Searching for her only brother, Lyon, Filicia encountered with 1019, a cybernoid, who directed them to the phantom city, OZ, which is a shelter created by Lyon. As the story unfolds, they gradually realised what 'OZ' actually was...",
+            "+content": "The story is set in 2021, 31 years after World War III. Filicia Epstein, a bionics genius, came to Sabano and Sergent Mutō was ordered to protect her. Searching for her only brother, Lyon, Filicia encountered with 1019, a cybernoid, who directed them to the phantom city, OZ, which is a shelter created by Lyon. As the story unfolds, they gradually realised what 'OZ' actually was...",
             "+@gid": "2032356948",
             "+@type": "Plot Summary"
         },
@@ -72,14 +72,15 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "\"幾千の麦の夢 ~ Harvest Of Gold\" by Youichirou Yoshikawa",
-            "+@gid": "458825670",
+            "+content": "\"Ikusen no Mugi no Yume - Harvest of Gold\" (幾千の麦の夢 ~ Harvest Of Gold) by Yōichirō Yoshikawa",
+            "+@gid": "1388470770",
             "+@type": "Ending Theme"
         }
     ],
     "ratings": {
-        "+@nb_votes": "12",
-        "+@weighted_score": "5.1231"
+        "+@nb_votes": "13",
+        "+@weighted_score": "5.0415",
+        "+@bayesian_score": "6.25805"
     },
     "staff": [
         {
@@ -102,7 +103,7 @@
             "+@gid": "2767929121",
             "task": "Music",
             "person": {
-                "+content": "Yoichiro Yoshikawa",
+                "+content": "Yōichirō Yoshikawa",
                 "+@id": "3085"
             }
         },
@@ -205,30 +206,93 @@
     ],
     "cast": [
         {
-            "+@gid": "2624235432",
+            "+@gid": "591908404",
             "+@lang": "JA",
-            "role": "Muto",
+            "role": "Sgt. Yō Mutō",
             "person": {
                 "+content": "Yasunori Matsumoto",
                 "+@id": "499"
             }
         },
         {
-            "+@gid": "2624279032",
+            "+@gid": "2199481469",
             "+@lang": "JA",
-            "role": "Felicia Epstein",
+            "role": "Dr. Phylicia Melissa Epstein",
             "person": {
                 "+content": "Yūko Minaguchi",
                 "+@id": "528"
             }
         },
         {
-            "+@gid": "1147700229",
+            "+@gid": "2681215914",
             "+@lang": "JA",
-            "role": "Android 1019",
+            "role": "Rupert Epstein",
+            "person": {
+                "+content": "Osamu Saka",
+                "+@id": "929"
+            }
+        },
+        {
+            "+@gid": "1821588367",
+            "+@lang": "JA",
+            "role": "Android 1024",
+            "person": {
+                "+content": "Keiko Toda",
+                "+@id": "931"
+            }
+        },
+        {
+            "+@gid": "1557002009",
+            "+@lang": "JA",
+            "role": "Cybernoid 1019",
             "person": {
                 "+content": "Toshiko Fujita",
                 "+@id": "1668"
+            }
+        },
+        {
+            "+@gid": "2819094495",
+            "+@lang": "JA",
+            "role": "Android 1021",
+            "person": {
+                "+content": "Mari Yokoo",
+                "+@id": "2087"
+            }
+        },
+        {
+            "+@gid": "4015563810",
+            "+@lang": "JA",
+            "role": "Dr. Sidney Dantley",
+            "person": {
+                "+content": "Tamio Ōki",
+                "+@id": "3559"
+            }
+        },
+        {
+            "+@gid": "776577691",
+            "+@lang": "JA",
+            "role": "Lt. Otis Nate",
+            "person": {
+                "+content": "Kōichi Yamadera",
+                "+@id": "5728"
+            }
+        },
+        {
+            "+@gid": "2639241741",
+            "+@lang": "JA",
+            "role": "Leon Conrad Epstein",
+            "person": {
+                "+content": "Yūji Mitsuya",
+                "+@id": "6902"
+            }
+        },
+        {
+            "+@gid": "2568718790",
+            "+@lang": "KO",
+            "role": "Android 1024",
+            "person": {
+                "+content": "Hyeon-Jin Lee",
+                "+@id": "96176"
             }
         },
         {
@@ -238,24 +302,6 @@
             "person": {
                 "+content": "Myeong-Seon Lee",
                 "+@id": "96192"
-            }
-        },
-        {
-            "+@gid": "1197223708",
-            "+@lang": "KO",
-            "role": "Muto",
-            "person": {
-                "+content": "Won-Hyeong Choi",
-                "+@id": "96257"
-            }
-        },
-        {
-            "+@gid": "2537149601",
-            "+@lang": "KO",
-            "role": "Felicia Epstein",
-            "person": {
-                "+content": "Sun Young Park",
-                "+@id": "96459"
             }
         }
     ],
@@ -268,6 +314,6 @@
         }
     },
     "+@date-added": "2006-11-24T01:27:27Z",
-    "+@date-last-modified-at": "2025-03-11T03:03:47Z",
-    "+@date-last-updated-at": "2025-03-11T03:03:47Z"
+    "+@date-last-modified-at": "2025-07-17T13:04:53Z",
+    "+@date-last-updated-at": "2025-07-17T13:04:53Z"
 }
