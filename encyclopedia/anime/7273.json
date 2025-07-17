@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Huckleberry no Bōken",
     "+@precision": "movie",
-    "+@generated-on": "2025-03-11T02:00:35Z",
+    "+@generated-on": "2025-07-17T08:45:05Z",
     "related-prev": {
         "+@rel": "compilation of",
         "+@id": "2127"
@@ -47,6 +47,12 @@
         {
             "+content": "Aventuras en el Mississippi",
             "+@gid": "1366851962",
+            "+@type": "Alternative title",
+            "+@lang": "ES"
+        },
+        {
+            "+content": "Huckleberry Finn",
+            "+@gid": "3893753969",
             "+@type": "Alternative title",
             "+@lang": "ES"
         },
@@ -98,6 +104,10 @@
             "+@type": "Ending Theme"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "7"
+    },
     "staff": [
         {
             "+@gid": "2970611340",
@@ -286,6 +296,6 @@
         }
     },
     "+@date-added": "2006-12-01T03:19:05Z",
-    "+@date-last-modified-at": "2025-03-11T02:00:42Z",
-    "+@date-last-updated-at": "2025-03-11T02:00:42Z"
+    "+@date-last-modified-at": "2025-07-17T08:45:06Z",
+    "+@date-last-updated-at": "2025-07-17T08:45:06Z"
 }
