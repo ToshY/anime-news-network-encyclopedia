@@ -4,15 +4,21 @@
     "+@type": "manga",
     "+@name": "Young Ladies Don't Play Fighting Games",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-10T15:31:14Z",
+    "+@generated-on": "2025-07-17T20:37:23Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "18912"
     },
-    "related-next": {
-        "+@id": "34922",
-        "+@rel": "adaptation"
-    },
+    "related-next": [
+        {
+            "+@id": "34922",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "36363",
+            "+@rel": "adaptation"
+        }
+    ],
     "info": [
         {
             "+@gid": "2055307096",
@@ -69,7 +75,7 @@
     ],
     "ratings": {
         "+@nb_votes": "3",
-        "+@weighted_score": "8.1707"
+        "+@weighted_score": "8.1733"
     },
     "release": [
         {
@@ -179,6 +185,6 @@
         }
     },
     "+@date-added": "2021-01-20T13:10:26Z",
-    "+@date-last-modified-at": "2025-03-10T15:31:19Z",
-    "+@date-last-updated-at": "2025-03-10T15:31:19Z"
+    "+@date-last-modified-at": "2025-07-17T20:37:25Z",
+    "+@date-last-updated-at": "2025-07-17T20:37:25Z"
 }
