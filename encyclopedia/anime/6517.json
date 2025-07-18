@@ -2,9 +2,9 @@
     "+@id": "6517",
     "+@gid": "743118704",
     "+@type": "TV",
-    "+@name": "Takoyaki Mant-Man",
+    "+@name": "Takoyaki Mantle Man",
     "+@precision": "TV",
-    "+@generated-on": "2025-03-11T09:31:33Z",
+    "+@generated-on": "2025-07-18T20:36:22Z",
     "info": [
         {
             "+@gid": "2637316463",
@@ -26,15 +26,9 @@
             ]
         },
         {
-            "+content": "Takoyaki Mant-Man",
-            "+@gid": "2163522880",
+            "+content": "Takoyaki Mantle Man",
+            "+@gid": "3374976714",
             "+@type": "Main title",
-            "+@lang": "JA"
-        },
-        {
-            "+content": "Takoyaki Mantoman",
-            "+@gid": "1918190462",
-            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -74,11 +68,11 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "Takoyaki Mant-Man @ Pierrot",
-            "+@gid": "1915058027",
+            "+content": "Takoyaki Mantle Man @ Pierrot",
+            "+@gid": "3555071118",
             "+@type": "Official website",
-            "+@lang": "JA",
-            "+@href": "http://pierrot.jp/title/takoyaki/"
+            "+@lang": "EN",
+            "+@href": "https://en.pierrot.jp/archive/1995/tv90_18.html"
         }
     ],
     "ratings": {
@@ -1180,11 +1174,51 @@
             }
         },
         {
+            "+@gid": "2616453468",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Yoshio Urasawa",
+                "+@id": "8516"
+            }
+        },
+        {
+            "+@gid": "2928701261",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Yoshio Urasawa",
+                "+@id": "8516"
+            }
+        },
+        {
+            "+@gid": "3938396525",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Akatsuki Yamatoya",
+                "+@id": "38270"
+            }
+        },
+        {
             "+@gid": "3821121840",
             "task": "Storyboard",
             "person": {
                 "+content": "Shinji Satō",
                 "+@id": "5455"
+            }
+        },
+        {
+            "+@gid": "2729067045",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hirotsugu Kawasaki",
+                "+@id": "63"
+            }
+        },
+        {
+            "+@gid": "253925704",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Noriyuki Abe",
+                "+@id": "1609"
             }
         },
         {
@@ -1196,11 +1230,155 @@
             }
         },
         {
+            "+@gid": "3872354209",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Osamu Nabeshima",
+                "+@id": "10710"
+            }
+        },
+        {
+            "+@gid": "2842017757",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Masami Anno",
+                "+@id": "12375"
+            }
+        },
+        {
+            "+@gid": "3696094246",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Akira Shigino",
+                "+@id": "14496"
+            }
+        },
+        {
+            "+@gid": "2676329735",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Masakatsu Iijima",
+                "+@id": "16342"
+            }
+        },
+        {
+            "+@gid": "2310886503",
+            "task": "Music",
+            "person": {
+                "+content": "Kazunori Maruyama",
+                "+@id": "16305"
+            }
+        },
+        {
             "+@gid": "3663237251",
             "task": "Original creator",
             "person": {
                 "+content": "Hiroo Takada",
                 "+@id": "55688"
+            }
+        },
+        {
+            "+@gid": "1966772320",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Yasutoshi Nakamura",
+                "+@id": "4351"
+            }
+        },
+        {
+            "+@gid": "2564528294",
+            "task": "Character Design",
+            "person": {
+                "+content": "Tsuguyuki Kubo",
+                "+@id": "95836"
+            }
+        },
+        {
+            "+@gid": "3186368251",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yūji Ikeda",
+                "+@id": "13"
+            }
+        },
+        {
+            "+@gid": "3595150068",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hirotsugu Kawasaki",
+                "+@id": "63"
+            }
+        },
+        {
+            "+@gid": "1443827076",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hideyuki Motohashi",
+                "+@id": "274"
+            }
+        },
+        {
+            "+@gid": "2275250976",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hirotaka Kinoshita",
+                "+@id": "10210"
+            }
+        },
+        {
+            "+@gid": "3508108993",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Motosuke Takahashi",
+                "+@id": "30818"
+            }
+        },
+        {
+            "+@gid": "1590391391",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tsuguyuki Kubo",
+                "+@id": "95836"
+            }
+        },
+        {
+            "+@gid": "1167818116",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shinji Satō",
+                "+@id": "191495"
+            }
+        },
+        {
+            "+@gid": "2156979706",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Fusanobu Fujiyama",
+                "+@id": "4453"
+            }
+        },
+        {
+            "+@gid": "3301969254",
+            "task": "Producer",
+            "person": {
+                "+content": "Noriko Kobayashi",
+                "+@id": "815"
+            }
+        },
+        {
+            "+@gid": "2878667281",
+            "task": "Producer",
+            "person": {
+                "+content": "Kyōtarō Kimura",
+                "+@id": "5162"
+            }
+        },
+        {
+            "+@gid": "3222062222",
+            "task": "Producer",
+            "person": {
+                "+content": "Naoyuki Oshikiri",
+                "+@id": "14532"
             }
         }
     ],
@@ -1273,20 +1451,30 @@
             "+@lang": "JA",
             "role": "Yellow",
             "person": {
-                "+content": "Tooru Migiwa",
+                "+content": "Tōru Migiwa",
                 "+@id": "55689"
             }
         }
     ],
-    "credit": {
-        "+@gid": "2370294524",
-        "task": "Production",
-        "company": {
-            "+content": "Pierrot",
-            "+@id": "118"
+    "credit": [
+        {
+            "+@gid": "2370294524",
+            "task": "Production",
+            "company": {
+                "+content": "Pierrot",
+                "+@id": "118"
+            }
+        },
+        {
+            "+@gid": "1933166374",
+            "task": "Production",
+            "company": {
+                "+content": "TV Tokyo",
+                "+@id": "262"
+            }
         }
-    },
+    ],
     "+@date-added": "2006-04-20T03:11:58Z",
-    "+@date-last-modified-at": "2025-03-11T09:31:39Z",
-    "+@date-last-updated-at": "2025-03-11T09:31:39Z"
+    "+@date-last-modified-at": "2025-07-18T20:36:25Z",
+    "+@date-last-updated-at": "2025-07-18T20:36:25Z"
 }

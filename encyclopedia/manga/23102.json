@@ -4,11 +4,21 @@
     "+@type": "manga",
     "+@name": "Ghost in the Shell: The Human Algorithm",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-10T19:26:52Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "14326"
-    },
+    "+@generated-on": "2025-07-18T20:36:22Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "13121"
+        },
+        {
+            "+@rel": "sequel of",
+            "+@id": "14326"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "22882"
+        }
+    ],
     "info": [
         {
             "+content": "Ghost in the Shell: The Human Algorithm",
@@ -44,14 +54,26 @@
             "+@type": "Number of tankoubon"
         },
         {
-            "+content": "2019-09-20 (serialized in Young Magazine)",
-            "+@gid": "1581824048",
+            "+content": "2019-09-16 to 2025-04-21 (serialized on Comic Days)",
+            "+@gid": "2309630135",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2019-09-20 to 2021-11-18 (Monthly Young Magazine, Oct 2019 - Dec 2021)",
+            "+@gid": "2564770565",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "攻殻機動隊 THE HUMAN ALGORITHM - 藤咲淳一/吉本祐樹/Based on &quot;THE GHOST IN THE SHELL&quot; series / 第１話 | コミックDAYS",
+            "+@gid": "1632796501",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://comic-days.com/episode/10834108156659896838"
         }
     ],
     "ratings": {
         "+@nb_votes": "2",
-        "+@weighted_score": "8.4203"
+        "+@weighted_score": "8.113"
     },
     "release": [
         {
@@ -73,6 +95,11 @@
             "+content": "The Ghost in the Shell: The Human Algorithm (GN 4)",
             "+@date": "2024-01-23",
             "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=47300"
+        },
+        {
+            "+content": "The Ghost in the Shell: The Human Algorithm (GN 5)",
+            "+@date": "2025-06-17",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=53566"
         }
     ],
     "news": [
@@ -127,9 +154,14 @@
             "+@href": "https://www.animenewsnetwork.com:/news/2024-01-25/north-american-anime-manga-releases-january-21-27/.206798"
         },
         {
-            "+content": "<cite>Ghost in the Shell: The Human Algorithm</cite> Manga to End in 8th Volume",
+            "+content": "<cite>Ghost in the Shell: The Human Algorithm</cite> Manga to End in 8th Volume (Updated)",
             "+@datetime": "2024-11-25T04:03:24Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-11-24/ghost-in-the-shell-the-human-algorithm-manga-to-end-in-8th-volume/.218245"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, June 15-21",
+            "+@datetime": "2025-06-20T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-20/north-american-anime-manga-releases-june-15-21/.225672"
         }
     ],
     "staff": [
@@ -151,6 +183,6 @@
         }
     ],
     "+@date-added": "2020-03-18T14:28:16Z",
-    "+@date-last-modified-at": "2025-03-10T19:26:53Z",
-    "+@date-last-updated-at": "2025-03-10T19:26:53Z"
+    "+@date-last-modified-at": "2025-07-18T20:36:24Z",
+    "+@date-last-updated-at": "2025-07-18T20:36:24Z"
 }
