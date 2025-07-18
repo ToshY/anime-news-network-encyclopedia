@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Kingdom Hearts III",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-10T15:31:17Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "8020"
-    },
+    "+@generated-on": "2025-07-18T02:30:57Z",
+    "related-prev": [
+        {
+            "+@rel": "sequel of",
+            "+@id": "8020"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "12369"
+        }
+    ],
     "info": [
         {
             "+@gid": "2197956303",
@@ -41,6 +47,12 @@
             "+@lang": "EN"
         },
         {
+            "+content": "キングダム ハーツIII",
+            "+@gid": "3015053649",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
             "+content": "When Master Xehanort has returned along with the remaining members of Organization XIII, he strives to accomplish what he had started. That goal is to re-create the x-blade and use it to open Kingdom Hearts with a second Keyblade War which will be a grand struggle on both light and darkness. It’s up to Sora, Donald, & Goofy who once again set on a journey that involves finding the “Key to Return Hearts” which will be needed in order to revive all of the fallen keyblade wielders and allies who will be greatly needed for the battle that is coming upon them all.",
             "+@gid": "1818001431",
             "+@type": "Plot Summary"
@@ -51,8 +63,8 @@
             "+@type": "Number of tankoubon"
         },
         {
-            "+content": "2019-04-29 (serialized on Gangan Online)",
-            "+@gid": "2280074465",
+            "+content": "2019-04-29 to 2024-12-26 (serialized on Gangan Online)",
+            "+@gid": "1840705051",
             "+@type": "Vintage"
         }
     ],
@@ -61,6 +73,16 @@
         "+@weighted_score": "5"
     },
     "news": [
+        {
+            "+content": "Shiro Amano Returns to Pen <cite>Kingdom Hearts III</cite> Manga (Updated)",
+            "+@datetime": "2019-03-16T13:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2019-03-16/shiro-amano-returns-to-pen-kingdom-hearts-iii-manga/.144558"
+        },
+        {
+            "+content": "Yen Press Releases <cite>Kingdom Hearts III</cite> Manga, <cite>Kingdom Hearts χ</cite> Novel in English",
+            "+@datetime": "2019-06-13T07:40:46Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2019-06-13/yen-press-releases-kingdom-hearts-iii-manga-kingdom-hearts-novel-in-english/.147628"
+        },
         {
             "+content": "North American Anime, Manga Releases, November 29-December 5",
             "+@datetime": "2020-12-01T22:30:00Z",
@@ -101,6 +123,6 @@
         }
     ],
     "+@date-added": "2020-12-01T17:35:44Z",
-    "+@date-last-modified-at": "2025-03-10T15:31:19Z",
-    "+@date-last-updated-at": "2025-03-10T15:31:19Z"
+    "+@date-last-modified-at": "2025-07-18T02:30:58Z",
+    "+@date-last-updated-at": "2025-07-18T02:30:58Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "special",
     "+@name": "Galaxy Express 999: Can You Live Like a Warrior?",
     "+@precision": "special",
-    "+@generated-on": "2025-03-11T05:32:01Z",
+    "+@generated-on": "2025-07-18T02:31:00Z",
     "related-prev": {
         "+@rel": "alternate retelling of",
         "+@id": "1361"
@@ -113,8 +113,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "8",
-        "+@weighted_score": "6.0495"
+        "+@nb_votes": "9",
+        "+@weighted_score": "5.931"
     },
     "release": {
         "+content": "Galaxy Express 999 - The TV Series Collection 3: Terminus (Sub.Blu-ray 3)",
@@ -311,15 +311,25 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2116715932",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Toei Animation",
-            "+@id": "145"
+    "credit": [
+        {
+            "+@gid": "2116715932",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Toei Animation",
+                "+@id": "145"
+            }
+        },
+        {
+            "+@gid": "485507435",
+            "task": "Production",
+            "company": {
+                "+content": "Fuji Television Network",
+                "+@id": "162"
+            }
         }
-    },
+    ],
     "+@date-added": "2006-10-20T09:45:24Z",
-    "+@date-last-modified-at": "2025-03-11T05:32:03Z",
-    "+@date-last-updated-at": "2025-03-11T05:32:03Z"
+    "+@date-last-modified-at": "2025-07-18T02:31:03Z",
+    "+@date-last-updated-at": "2025-07-18T02:31:03Z"
 }
