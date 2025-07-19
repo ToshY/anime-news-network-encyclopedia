@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Kemono Friends a la Carte",
     "+@precision": "manga",
-    "+@generated-on": "2025-03-10T22:32:26Z",
+    "+@generated-on": "2025-07-19T08:41:44Z",
     "related-prev": {
         "+@rel": "spinoff of",
         "+@id": "18799"
@@ -52,6 +52,11 @@
             "+@gid": "3068000019",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "2017-03-21",
+            "+@gid": "2838139225",
+            "+@type": "Vintage"
         }
     ],
     "ratings": {
@@ -113,14 +118,6 @@
         }
     ],
     "staff": [
-        {
-            "+@gid": "1890317772",
-            "task": "Story & Art",
-            "person": {
-                "+content": "shimada",
-                "+@id": "11763"
-            }
-        },
         {
             "+@gid": "1545616594",
             "task": "Story & Art",
@@ -189,7 +186,7 @@
             "+@gid": "3666136288",
             "task": "Story & Art",
             "person": {
-                "+content": "Tsuki Kagami",
+                "+content": "Kagamitsuki",
                 "+@id": "187715"
             }
         },
@@ -248,9 +245,17 @@
                 "+content": "Akamaru",
                 "+@id": "187722"
             }
+        },
+        {
+            "+@gid": "1890317772",
+            "task": "Story & Art",
+            "person": {
+                "+content": "Shimada",
+                "+@id": "282318"
+            }
         }
     ],
     "+@date-added": "2019-11-17T13:36:30Z",
-    "+@date-last-modified-at": "2025-03-10T22:32:26Z",
-    "+@date-last-updated-at": "2025-03-10T22:32:26Z"
+    "+@date-last-modified-at": "2025-07-19T08:41:45Z",
+    "+@date-last-updated-at": "2025-07-19T08:41:45Z"
 }
