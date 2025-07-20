@@ -4,28 +4,28 @@
     "+@type": "TV",
     "+@name": "Sakamoto Days",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-06-20T13:10:26Z",
+    "+@generated-on": "2025-07-20T16:41:26Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32767"
     },
     "info": [
         {
-            "+@gid": "1077565910",
+            "+@gid": "2316856540",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35291-1077565910.1742688985.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35291-2316856540.1752588127.jpg",
+            "+@width": "140",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35291-1077565910.1742688985.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35291-2316856540.1752588127.jpg",
+                    "+@width": "140",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35291-1077565910.1742688985.jpg",
-                    "+@width": "425",
-                    "+@height": "600"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35291-2316856540.1752588127.jpg",
+                    "+@width": "350",
+                    "+@height": "500"
                 }
             ]
         },
@@ -47,9 +47,59 @@
             "+@type": "Genres"
         },
         {
+            "+content": "comedy",
+            "+@gid": "1866551796",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "1469450252",
+            "+@type": "Genres"
+        },
+        {
             "+content": "assassins",
             "+@gid": "1474319597",
             "+@type": "Themes"
+        },
+        {
+            "+content": "crime",
+            "+@gid": "4214468718",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "gore",
+            "+@gid": "2027268621",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "mafia",
+            "+@gid": "1756878175",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "1632540736",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "MA",
+            "+@gid": "3238178029",
+            "+@type": "Objectionable content"
+        },
+        {
+            "+content": "Taro Sakamoto, once the world's greatest assassin, is now a retired family man. However, the underworld keeps pulling him back in. This time, four serial killers are on the loose and coming for not only him but his friends and family as well. He is settling to have what it takes to stop them and—more importantly—to resolve it without killing them.",
+            "+@gid": "1650707967",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "1871174572",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "11",
+            "+@gid": "2381793830",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2025-07-14",
@@ -72,6 +122,28 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://sakamotodays.jp/"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "3",
+        "+@weighted_score": "7.9141"
+    },
+    "episode": [
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Overload",
+                "+@gid": "2631294850",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "Just Desserts",
+                "+@gid": "2388861066",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -106,6 +178,22 @@
             "person": {
                 "+content": "Taku Kishimoto",
                 "+@id": "76253"
+            }
+        },
+        {
+            "+@gid": "1658597554",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tetsuro Araki",
+                "+@id": "21259"
+            }
+        },
+        {
+            "+@gid": "3049045771",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Tetsuro Araki",
+                "+@id": "21259"
             }
         },
         {
@@ -158,6 +246,294 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "2625117713",
+            "+@lang": "EN",
+            "role": "Saw",
+            "person": {
+                "+content": "David Vincent",
+                "+@id": "55038"
+            }
+        },
+        {
+            "+@gid": "1493713890",
+            "+@lang": "EN",
+            "role": "Taro Sakamoto",
+            "person": {
+                "+content": "Matthew Mercer",
+                "+@id": "62521"
+            }
+        },
+        {
+            "+@gid": "704312958",
+            "+@lang": "EN",
+            "role": "Shishiba",
+            "person": {
+                "+content": "Keith Silverstein",
+                "+@id": "63324"
+            }
+        },
+        {
+            "+@gid": "1909992898",
+            "+@lang": "EN",
+            "role": "Osaragi",
+            "person": {
+                "+content": "Xanthe Huynh",
+                "+@id": "69839"
+            }
+        },
+        {
+            "+@gid": "2868147574",
+            "+@lang": "EN",
+            "role": "Hana Sakamoto",
+            "person": {
+                "+content": "Grace Lu",
+                "+@id": "118077"
+            }
+        },
+        {
+            "+@gid": "867308825",
+            "+@lang": "EN",
+            "role": "Apart",
+            "person": {
+                "+content": "Erik Scott Kimerer",
+                "+@id": "126707"
+            }
+        },
+        {
+            "+@gid": "1234908797",
+            "+@lang": "EN",
+            "role": "Kashima",
+            "person": {
+                "+content": "Daman Mills",
+                "+@id": "134672"
+            }
+        },
+        {
+            "+@gid": "474014764",
+            "+@lang": "EN",
+            "role": "Hyo",
+            "person": {
+                "+content": "Imari Williams",
+                "+@id": "152749"
+            }
+        },
+        {
+            "+@gid": "2077992269",
+            "+@lang": "EN",
+            "role": "Nagumo",
+            "person": {
+                "+content": "Aleks Le",
+                "+@id": "174640"
+            }
+        },
+        {
+            "+@gid": "1625493002",
+            "+@lang": "EN",
+            "role": "Dump",
+            "person": {
+                "+content": "Tiana Camacho",
+                "+@id": "190003"
+            }
+        },
+        {
+            "+@gid": "744447802",
+            "+@lang": "EN",
+            "role": "Minimalist",
+            "person": {
+                "+content": "Daniel Walton",
+                "+@id": "227233"
+            }
+        },
+        {
+            "+@gid": "2558984820",
+            "+@lang": "EN",
+            "role": "Takamura",
+            "person": {
+                "+content": "Keythe Farley",
+                "+@id": "230012"
+            }
+        },
+        {
+            "+@gid": "21550062",
+            "+@lang": "EN",
+            "role": "Lu Shaotang",
+            "person": {
+                "+content": "Rosalie Chiang",
+                "+@id": "237516"
+            }
+        },
+        {
+            "+@gid": "2965282093",
+            "+@lang": "EN",
+            "role": "Shin Asakura",
+            "person": {
+                "+content": "Dallas Liu",
+                "+@id": "275762"
+            }
+        },
+        {
+            "+@gid": "3079634129",
+            "+@lang": "EN",
+            "role": "Aoi Sakamoto",
+            "person": {
+                "+content": "Rosie Okumura",
+                "+@id": "275763"
+            }
+        },
+        {
+            "+@gid": "3914536706",
+            "+@lang": "EN",
+            "role": "Heisuke Mashimo",
+            "person": {
+                "+content": "Xolo Maridueña",
+                "+@id": "275765"
+            }
+        },
+        {
+            "+@gid": "3143239881",
+            "+@lang": "EN",
+            "role": "X (Slur)",
+            "person": {
+                "+content": "Vinnie Hacker",
+                "+@id": "277053"
+            }
+        },
+        {
+            "+@gid": "2828562276",
+            "+@lang": "EN",
+            "role": "Gaku",
+            "person": {
+                "+content": "Jacob Bertrand",
+                "+@id": "285392"
+            }
+        },
+        {
+            "+@gid": "2497954441",
+            "+@lang": "FR",
+            "role": "Minimalist",
+            "person": {
+                "+content": "Alexandre Coadour",
+                "+@id": "38387"
+            }
+        },
+        {
+            "+@gid": "584862283",
+            "+@lang": "FR",
+            "role": "Apart",
+            "person": {
+                "+content": "Hervé Grull",
+                "+@id": "40001"
+            }
+        },
+        {
+            "+@gid": "2668477362",
+            "+@lang": "FR",
+            "role": "Lu Shaotang",
+            "person": {
+                "+content": "Karine Foviau",
+                "+@id": "53257"
+            }
+        },
+        {
+            "+@gid": "2240759985",
+            "+@lang": "FR",
+            "role": "Shin Asakura",
+            "person": {
+                "+content": "Simon Koukissa",
+                "+@id": "57321"
+            }
+        },
+        {
+            "+@gid": "979132130",
+            "+@lang": "FR",
+            "role": "Hyo",
+            "person": {
+                "+content": "Charles Mendiant",
+                "+@id": "149400"
+            }
+        },
+        {
+            "+@gid": "1986602902",
+            "+@lang": "FR",
+            "role": "Saw",
+            "person": {
+                "+content": "Erwan Tostain",
+                "+@id": "151004"
+            }
+        },
+        {
+            "+@gid": "1427973019",
+            "+@lang": "FR",
+            "role": "Shishiba",
+            "person": {
+                "+content": "Aurélien Raynal",
+                "+@id": "173843"
+            }
+        },
+        {
+            "+@gid": "2450023233",
+            "+@lang": "FR",
+            "role": "Tarō Sakamoto",
+            "person": {
+                "+content": "Jérémie Bedrune",
+                "+@id": "182436"
+            }
+        },
+        {
+            "+@gid": "1715089171",
+            "+@lang": "FR",
+            "role": "Nagumo",
+            "person": {
+                "+content": "Simon Herlin",
+                "+@id": "197938"
+            }
+        },
+        {
+            "+@gid": "1217076583",
+            "+@lang": "FR",
+            "role": "Heisuke Mashimo",
+            "person": {
+                "+content": "Sébastien Baulain",
+                "+@id": "207045"
+            }
+        },
+        {
+            "+@gid": "2221904558",
+            "+@lang": "FR",
+            "role": "Ōsaragi",
+            "person": {
+                "+content": "Lou Viguier",
+                "+@id": "214392"
+            }
+        },
+        {
+            "+@gid": "1042148294",
+            "+@lang": "FR",
+            "role": "Aoi Sakamoto",
+            "person": {
+                "+content": "Véronique Desmadryl",
+                "+@id": "218380"
+            }
+        },
+        {
+            "+@gid": "2810871418",
+            "+@lang": "FR",
+            "role": "Dump",
+            "person": {
+                "+content": "Ninon Moreau",
+                "+@id": "242662"
+            }
+        },
+        {
+            "+@gid": "861341957",
+            "+@lang": "FR",
+            "role": "Hana Sakamoto",
+            "person": {
+                "+content": "Jehanne Thellier",
+                "+@id": "253417"
+            }
+        },
         {
             "+@gid": "2156112606",
             "+@lang": "JA",
@@ -366,6 +742,6 @@
         }
     },
     "+@date-added": "2025-03-22T20:15:47Z",
-    "+@date-last-modified-at": "2025-06-20T13:10:27Z",
-    "+@date-last-updated-at": "2025-06-20T13:10:27Z"
+    "+@date-last-modified-at": "2025-07-20T16:41:27Z",
+    "+@date-last-updated-at": "2025-07-20T16:41:27Z"
 }
