@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "SHIBUYA♡HACHI",
     "+@precision": "TV 3",
-    "+@generated-on": "2025-06-20T16:41:58Z",
+    "+@generated-on": "2025-07-20T20:35:20Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "33142"
@@ -53,9 +53,29 @@
             "+@type": "Genres"
         },
         {
+            "+content": "3",
+            "+@gid": "3709995217",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "13",
+            "+@gid": "2270787563",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2025-04-05",
             "+@gid": "1958339828",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Brand New Episode\" by HACHI",
+            "+@gid": "2099545022",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Dusk\" by HACHI (ep 31)",
+            "+@gid": "1817660299",
+            "+@type": "Insert song"
         },
         {
             "+content": "SHIBUYA♡HACHI テレビ東京アニメ公式",
@@ -128,6 +148,14 @@
             }
         },
         {
+            "+@gid": "1812599079",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tomomi Kikawada",
+                "+@id": "167620"
+            }
+        },
+        {
             "+@gid": "582571337",
             "task": "Storyboard",
             "person": {
@@ -136,11 +164,27 @@
             }
         },
         {
+            "+@gid": "2174498572",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yuka Akabane",
+                "+@id": "200918"
+            }
+        },
+        {
             "+@gid": "1978475825",
             "task": "Storyboard",
             "person": {
                 "+content": "Shigeyoshi Tsukahara",
                 "+@id": "209131"
+            }
+        },
+        {
+            "+@gid": "1279567748",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Waka Hamaguchi",
+                "+@id": "248414"
             }
         },
         {
@@ -165,6 +209,14 @@
             "person": {
                 "+content": "Shigeyoshi Tsukahara",
                 "+@id": "209131"
+            }
+        },
+        {
+            "+@gid": "1853235665",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Waka Hamaguchi",
+                "+@id": "248414"
             }
         },
         {
@@ -321,6 +373,6 @@
         }
     },
     "+@date-added": "2025-03-08T21:19:02Z",
-    "+@date-last-modified-at": "2025-06-20T16:41:59Z",
-    "+@date-last-updated-at": "2025-06-20T16:41:59Z"
+    "+@date-last-modified-at": "2025-07-20T20:35:22Z",
+    "+@date-last-updated-at": "2025-07-20T20:35:22Z"
 }

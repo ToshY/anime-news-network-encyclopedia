@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Record of Ragnarok III",
     "+@precision": "TV 3",
-    "+@generated-on": "2025-06-20T16:41:58Z",
+    "+@generated-on": "2025-07-20T20:35:20Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24643"
@@ -13,19 +13,24 @@
         {
             "+@gid": "791689638",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35140-791689638.1741935432.jpg",
-            "+@width": "141",
-            "+@height": "200",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35140-791689638.1751861925.jpg",
+            "+@width": "200",
+            "+@height": "142",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35140-791689638.1741935432.jpg",
-                    "+@width": "141",
-                    "+@height": "200"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35140-791689638.1751861925.jpg",
+                    "+@width": "200",
+                    "+@height": "142"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35140-791689638.1741935432.jpg",
-                    "+@width": "423",
-                    "+@height": "600"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35140-791689638.1751861925.jpg",
+                    "+@width": "500",
+                    "+@height": "355"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A35140-791689638.1751861925.jpg",
+                    "+@width": "600",
+                    "+@height": "426"
                 }
             ]
         },
@@ -58,11 +63,28 @@
             "+@type": "Genres"
         },
         {
+            "+content": "2025-12",
+            "+@gid": "3413070763",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "アニメ『終末のワルキューレ』公式サイト",
             "+@gid": "1824566855",
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://ragnarok-official.com/"
+        }
+    ],
+    "news": [
+        {
+            "+content": "<cite>Record of Ragnarok</cite> Season 3 Anime Reveals December 2025 Premiere in New Trailer",
+            "+@datetime": "2025-07-05T21:20:34Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-05/record-of-ragnarok-season-3-anime-reveals-december-2025-premiere-in-new-trailer/.226355"
+        },
+        {
+            "+content": "<cite>Record of Ragnarok</cite> Season 3 Anime Reveals Visual, More Cast",
+            "+@datetime": "2025-07-07T03:22:39Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-06/record-of-ragnarok-season-3-anime-reveals-visual-more-cast/.226399"
         }
     ],
     "staff": [
@@ -77,6 +99,14 @@
         {
             "+@gid": "3204625386",
             "task": "Series Composition",
+            "person": {
+                "+content": "Yasuyuki Mutō",
+                "+@id": "10527"
+            }
+        },
+        {
+            "+@gid": "1060013682",
+            "task": "Script",
             "person": {
                 "+content": "Yasuyuki Mutō",
                 "+@id": "10527"
@@ -129,6 +159,86 @@
                 "+content": "Nao Kawashima",
                 "+@id": "107165"
             }
+        },
+        {
+            "+@gid": "2674016300",
+            "task": "Art Director",
+            "person": {
+                "+content": "Sung Hyun Park",
+                "+@id": "113535"
+            }
+        },
+        {
+            "+@gid": "1203665198",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Hiroki Uchida",
+                "+@id": "203476"
+            }
+        },
+        {
+            "+@gid": "1272699746",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yasushi Kimura",
+                "+@id": "19918"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3012121180",
+            "+@lang": "JA",
+            "role": "Hades",
+            "person": {
+                "+content": "Ryōtarō Okiayu",
+                "+@id": "718"
+            }
+        },
+        {
+            "+@gid": "1408858845",
+            "+@lang": "JA",
+            "role": "Beelzebub",
+            "person": {
+                "+content": "Daisuke Namikawa",
+                "+@id": "1289"
+            }
+        },
+        {
+            "+@gid": "641830977",
+            "+@lang": "JA",
+            "role": "Apollo",
+            "person": {
+                "+content": "Kenichi Suzumura",
+                "+@id": "5894"
+            }
+        },
+        {
+            "+@gid": "1050430419",
+            "+@lang": "JA",
+            "role": "King Leonidas",
+            "person": {
+                "+content": "Hiroshi Shirokuma",
+                "+@id": "39263"
+            }
+        },
+        {
+            "+@gid": "2561309862",
+            "+@lang": "JA",
+            "role": "Shi Huang Di",
+            "person": {
+                "+content": "Kaito Ishikawa",
+                "+@id": "114052"
+            }
+        },
+        {
+            "+@gid": "2498572979",
+            "+@lang": "JA",
+            "role": "Nikola Tesla",
+            "person": {
+                "+content": "Makoto Furukawa",
+                "+@id": "123459"
+            }
         }
     ],
     "credit": [
@@ -150,6 +260,6 @@
         }
     ],
     "+@date-added": "2025-03-14T02:56:06Z",
-    "+@date-last-modified-at": "2025-06-20T16:41:59Z",
-    "+@date-last-updated-at": "2025-06-20T16:41:59Z"
+    "+@date-last-modified-at": "2025-07-20T20:35:22Z",
+    "+@date-last-updated-at": "2025-07-20T20:35:22Z"
 }
