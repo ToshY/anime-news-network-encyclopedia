@@ -4,10 +4,20 @@
     "+@type": "manga",
     "+@name": "Space Battleship Yamato: The New Voyage",
     "+@precision": "manga",
-    "+@generated-on": "2025-06-21T08:38:29Z",
-    "related-prev": {
-        "+@rel": "adapted from",
-        "+@id": "3752"
+    "+@generated-on": "2025-07-21T13:06:09Z",
+    "related-prev": [
+        {
+            "+@rel": "adapted from",
+            "+@id": "3752"
+        },
+        {
+            "+@rel": "sequel of",
+            "+@id": "36707"
+        }
+    ],
+    "related-next": {
+        "+@id": "36706",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -66,6 +76,6 @@
         }
     ],
     "+@date-added": "2025-06-16T04:19:18Z",
-    "+@date-last-modified-at": "2025-06-21T08:38:31Z",
-    "+@date-last-updated-at": "2025-06-21T08:38:31Z"
+    "+@date-last-modified-at": "2025-07-21T13:06:11Z",
+    "+@date-last-updated-at": "2025-07-21T13:06:11Z"
 }

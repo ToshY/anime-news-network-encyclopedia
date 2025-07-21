@@ -4,29 +4,24 @@
     "+@type": "movie",
     "+@name": "Scarlet",
     "+@precision": "movie",
-    "+@generated-on": "2025-06-21T02:17:56Z",
+    "+@generated-on": "2025-07-21T13:06:09Z",
     "info": [
         {
-            "+@gid": "1774346724",
+            "+@gid": "415851816",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34230-1774346724.1734947181.jpg",
-            "+@width": "200",
-            "+@height": "84",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34230-415851816.1751598670.jpg",
+            "+@width": "141",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34230-1774346724.1734947181.jpg",
-                    "+@width": "200",
-                    "+@height": "84"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34230-415851816.1751598670.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34230-1774346724.1734947181.jpg",
-                    "+@width": "500",
-                    "+@height": "209"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34230-1774346724.1734947181.jpg",
-                    "+@width": "1280",
-                    "+@height": "536"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34230-415851816.1751598670.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
                 }
             ]
         },
@@ -47,6 +42,16 @@
             "+@gid": "2602558663",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "action",
+            "+@gid": "242124325",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "845605121",
+            "+@type": "Genres"
         },
         {
             "+content": "revenge",
@@ -71,6 +76,13 @@
             "+content": "2026-01-30 (Poland)",
             "+@gid": "1512146771",
             "+@type": "Premiere date"
+        },
+        {
+            "+content": "Official Website",
+            "+@gid": "2400226700",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://scarlet-movie.jp/"
         }
     ],
     "news": [
@@ -88,6 +100,16 @@
             "+content": "Mamoru Hosoda's <cite>Scarlet</cite> Anime Film Opens in Indian Theaters on December 12",
             "+@datetime": "2025-04-29T11:16:39Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-04-29/mamoru-hosoda-scarlet-anime-film-opens-in-indian-theaters-on-december-12/.224036"
+        },
+        {
+            "+content": "Mamoru Hosoda's <cite>Scarlet</cite> Anime Film Announces Main Cast",
+            "+@datetime": "2025-07-03T22:14:25Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-03/mamoru-hosoda-scarlet-anime-film-announces-main-cast/.226277"
+        },
+        {
+            "+content": "Mamoru Hosoda's <cite>Scarlet</cite> Anime Film Announces More Cast",
+            "+@datetime": "2025-07-15T23:58:15Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-15/mamoru-hosoda-scarlet-anime-film-announces-more-cast/.226707"
         }
     ],
     "staff": [
@@ -108,11 +130,51 @@
             }
         },
         {
+            "+@gid": "1330663141",
+            "task": "Music",
+            "person": {
+                "+content": "Taisei Iwasaki",
+                "+@id": "133142"
+            }
+        },
+        {
             "+@gid": "3990927152",
             "task": "Original creator",
             "person": {
                 "+content": "Mamoru Hosoda",
                 "+@id": "4068"
+            }
+        },
+        {
+            "+@gid": "897417732",
+            "task": "Character Design",
+            "person": {
+                "+content": "Tadahiro Uesugi",
+                "+@id": "185389"
+            }
+        },
+        {
+            "+@gid": "1114370656",
+            "task": "Character Design",
+            "person": {
+                "+content": "Jin Kim",
+                "+@id": "206151"
+            }
+        },
+        {
+            "+@gid": "1753185653",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takaaki Yamashita",
+                "+@id": "4061"
+            }
+        },
+        {
+            "+@gid": "1271392463",
+            "task": "Producer",
+            "person": {
+                "+content": "Nozomu Takahashi",
+                "+@id": "4203"
             }
         },
         {
@@ -122,17 +184,192 @@
                 "+content": "Yūichirō Saitō",
                 "+@id": "56387"
             }
+        },
+        {
+            "+@gid": "1311052949",
+            "task": "Producer",
+            "person": {
+                "+content": "Toshimi Tanio",
+                "+@id": "225761"
+            }
         }
     ],
-    "credit": {
-        "+@gid": "1214048185",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Studio Chizu",
-            "+@id": "10469"
+    "cast": [
+        {
+            "+@gid": "3097769468",
+            "+@lang": "JA",
+            "role": "Polonius",
+            "person": {
+                "+content": "Kazuhiro Yamaji",
+                "+@id": "10484"
+            }
+        },
+        {
+            "+@gid": "688436213",
+            "+@lang": "JA",
+            "role": "Amulet",
+            "person": {
+                "+content": "Masachika Ichimura",
+                "+@id": "14389"
+            }
+        },
+        {
+            "+@gid": "1575540552",
+            "+@lang": "JA",
+            "role": "Rosencrantz",
+            "person": {
+                "+content": "Munetaka Aoki",
+                "+@id": "17813"
+            }
+        },
+        {
+            "+@gid": "2626820451",
+            "+@lang": "JA",
+            "role": "Cornelius",
+            "person": {
+                "+content": "Yutaka Matsushige",
+                "+@id": "20896"
+            }
+        },
+        {
+            "+@gid": "3145139767",
+            "+@lang": "JA",
+            "role": "Laertes",
+            "person": {
+                "+content": "Tokio Emoto",
+                "+@id": "55361"
+            }
+        },
+        {
+            "+@gid": "879466635",
+            "+@lang": "JA",
+            "role": "Claudius",
+            "person": {
+                "+content": "Kōji Yakusho",
+                "+@id": "80194"
+            }
+        },
+        {
+            "+@gid": "2022848777",
+            "+@lang": "JA",
+            "role": "Hijiri",
+            "person": {
+                "+content": "Masaki Okada",
+                "+@id": "86709"
+            }
+        },
+        {
+            "+@gid": "1493392392",
+            "+@lang": "JA",
+            "role": "Scarlet",
+            "person": {
+                "+content": "Mana Ashida",
+                "+@id": "104225"
+            }
+        },
+        {
+            "+@gid": "2827730301",
+            "+@lang": "JA",
+            "role": "Guildenstern",
+            "person": {
+                "+content": "Shōta Sometani",
+                "+@id": "126586"
+            }
+        },
+        {
+            "+@gid": "291605170",
+            "+@lang": "JA",
+            "role": "Voltemand",
+            "person": {
+                "+content": "Kōtarō Yoshida",
+                "+@id": "182335"
+            }
+        },
+        {
+            "+@gid": "2794511954",
+            "+@lang": "JA",
+            "role": "Gertrude",
+            "person": {
+                "+content": "Yuki Saitō",
+                "+@id": "225995"
+            }
         }
-    },
+    ],
+    "credit": [
+        {
+            "+@gid": "1214048185",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Studio Chizu",
+                "+@id": "10469"
+            }
+        },
+        {
+            "+@gid": "2998706773",
+            "task": "Production",
+            "company": {
+                "+content": "Dentsu Inc.",
+                "+@id": "63"
+            }
+        },
+        {
+            "+@gid": "1686171402",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon Television Network",
+                "+@id": "124"
+            }
+        },
+        {
+            "+@gid": "2209428085",
+            "task": "Production",
+            "company": {
+                "+content": "Sony Pictures",
+                "+@id": "412"
+            }
+        },
+        {
+            "+@gid": "2060599093",
+            "task": "Production",
+            "company": {
+                "+content": "YTV",
+                "+@id": "555"
+            }
+        },
+        {
+            "+@gid": "1533004822",
+            "task": "Production",
+            "company": {
+                "+content": "Hakuhodo Inc.",
+                "+@id": "1310"
+            }
+        },
+        {
+            "+@gid": "3251763178",
+            "task": "Production",
+            "company": {
+                "+content": "Studio Chizu",
+                "+@id": "10469"
+            }
+        },
+        {
+            "+@gid": "1117407552",
+            "task": "Production",
+            "company": {
+                "+content": "East Japan Marketing & Communications, Inc.",
+                "+@id": "14386"
+            }
+        },
+        {
+            "+@gid": "1584346808",
+            "task": "Production",
+            "company": {
+                "+content": "Kadokawa",
+                "+@id": "15420"
+            }
+        }
+    ],
     "+@date-added": "2024-12-23T04:45:18Z",
-    "+@date-last-modified-at": "2025-06-21T02:17:57Z",
-    "+@date-last-updated-at": "2025-06-21T02:17:57Z"
+    "+@date-last-modified-at": "2025-07-21T13:06:11Z",
+    "+@date-last-updated-at": "2025-07-21T13:06:11Z"
 }

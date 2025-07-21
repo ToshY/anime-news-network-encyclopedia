@@ -4,7 +4,11 @@
     "+@type": "TV",
     "+@name": "Arcanadea",
     "+@precision": "TV",
-    "+@generated-on": "2025-06-21T02:17:56Z",
+    "+@generated-on": "2025-07-21T13:06:10Z",
+    "related-prev": {
+        "+@rel": "related to",
+        "+@id": "36827"
+    },
     "info": [
         {
             "+@gid": "3262101855",
@@ -45,20 +49,46 @@
             "+@href": "https://www.arcanadea-anime.com/"
         }
     ],
-    "news": {
-        "+content": "Kotobukiya's <cite>Arcanadea</cite> Figure Series Gets TV Anime",
-        "+@datetime": "2024-12-20T12:39:53Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-12-20/kotobukiya-arcanadea-figure-series-gets-tv-anime/.219328"
-    },
-    "staff": {
-        "+@gid": "2593622988",
-        "task": "Producer",
+    "news": [
+        {
+            "+content": "Kotobukiya's <cite>Arcanadea</cite> Figure Series Gets TV Anime",
+            "+@datetime": "2024-12-20T12:39:53Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-20/kotobukiya-arcanadea-figure-series-gets-tv-anime/.219328"
+        },
+        {
+            "+content": "<cite>Arcanadea</cite> TV Anime's Super Teaser Unveils Kaede Hondo as Lumitea",
+            "+@datetime": "2025-07-01T09:52:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-01/arcanadea-tv-anime-super-teaser-unveils-kaede-hondo-as-lumitea/.226197"
+        }
+    ],
+    "staff": [
+        {
+            "+@gid": "2076130815",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "necömi",
+                "+@id": "203773"
+            }
+        },
+        {
+            "+@gid": "2593622988",
+            "task": "Producer",
+            "person": {
+                "+content": "Shōhei Chiba",
+                "+@id": "279549"
+            }
+        }
+    ],
+    "cast": {
+        "+@gid": "3702671917",
+        "+@lang": "JA",
+        "role": "Lumitea",
         "person": {
-            "+content": "Shōhei Chiba",
-            "+@id": "279549"
+            "+content": "Kaede Hondo",
+            "+@id": "140600"
         }
     },
     "+@date-added": "2024-12-20T07:57:56Z",
-    "+@date-last-modified-at": "2025-06-21T02:17:57Z",
-    "+@date-last-updated-at": "2025-06-21T02:17:57Z"
+    "+@date-last-modified-at": "2025-07-21T13:06:11Z",
+    "+@date-last-updated-at": "2025-07-21T13:06:11Z"
 }

@@ -4,28 +4,28 @@
     "+@type": "TV",
     "+@name": "DAN DA DAN",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-06-21T02:17:56Z",
+    "+@generated-on": "2025-07-21T13:06:10Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "30869"
     },
     "info": [
         {
-            "+@gid": "2833293397",
+            "+@gid": "2104663910",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34211-2833293397.1743726214.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34211-2104663910.1752225424.jpg",
+            "+@width": "140",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34211-2833293397.1743726214.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34211-2104663910.1752225424.jpg",
+                    "+@width": "140",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34211-2833293397.1743726214.jpg",
-                    "+@width": "424",
-                    "+@height": "600"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34211-2104663910.1752225424.jpg",
+                    "+@width": "350",
+                    "+@height": "500"
                 }
             ]
         },
@@ -132,6 +132,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "889049114",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2025-07-03",
             "+@gid": "2681870785",
             "+@type": "Vintage"
@@ -152,6 +157,36 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://anime-dandadan.com/"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "6",
+        "+@weighted_score": "8.2677"
+    },
+    "episode": [
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "Like, This Is the Legend of the Giant Snake",
+                "+@gid": "1226473653",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "14",
+            "title": {
+                "+content": "The Evil Eye",
+                "+@gid": "1375686544",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "15",
+            "title": {
+                "+content": "You Won't Get Away With This!",
+                "+@gid": "3054957439",
+                "+@lang": "EN"
+            }
         }
     ],
     "review": {
@@ -223,6 +258,16 @@
             "+content": "Crunchyroll Announces Release Schedule for Summer 2025 Season",
             "+@datetime": "2025-06-18T17:58:39Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-06-18/crunchyroll-announces-release-schedule-for-summer-2025-season/.225751"
+        },
+        {
+            "+content": "Muse India Also Streams <cite>The Stunned Hero and the Assassin Princesses</cite>, 3 More Anime",
+            "+@datetime": "2025-07-04T09:55:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-04/muse-india-also-streams-the-stunned-hero-and-the-assassin-princesses-3-more-anime/.226248"
+        },
+        {
+            "+content": "Hindi Dubs of <cite>Welcome to the Outcast's Restaurant!</cite>, <cite>Dekin no Mogura</cite>, More Stream on Anime Times",
+            "+@datetime": "2025-07-13T10:57:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-13/hindi-dubs-of-welcome-to-the-outcast-restaurant-dekin-no-mogura-more-stream-on-anime-times/.226586"
         }
     ],
     "staff": [
@@ -259,6 +304,86 @@
             }
         },
         {
+            "+@gid": "3291042433",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Eisaku Kawanami",
+                "+@id": "37653"
+            }
+        },
+        {
+            "+@gid": "3859197276",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tetsuya Wakano",
+                "+@id": "37793"
+            }
+        },
+        {
+            "+@gid": "2118267795",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Jong Heo",
+                "+@id": "178586"
+            }
+        },
+        {
+            "+@gid": "1687504864",
+            "task": "Storyboard",
+            "person": {
+                "+content": "MicAOz",
+                "+@id": "217852"
+            }
+        },
+        {
+            "+@gid": "1569607335",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Komugiko2000",
+                "+@id": "284896"
+            }
+        },
+        {
+            "+@gid": "2311086983",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tetsuya Wakano",
+                "+@id": "37793"
+            }
+        },
+        {
+            "+@gid": "2529854182",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yoshihiko Mori",
+                "+@id": "148487"
+            }
+        },
+        {
+            "+@gid": "2220978447",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kayona Yamada",
+                "+@id": "177453"
+            }
+        },
+        {
+            "+@gid": "1658346678",
+            "task": "Unit Director",
+            "person": {
+                "+content": "MicAOz",
+                "+@id": "217852"
+            }
+        },
+        {
+            "+@gid": "2428864363",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Komugiko2000",
+                "+@id": "284896"
+            }
+        },
+        {
             "+@gid": "2502854836",
             "task": "Music",
             "person": {
@@ -291,6 +416,238 @@
             }
         },
         {
+            "+@gid": "1892211969",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yumi Kobayashi",
+                "+@id": "26366"
+            }
+        },
+        {
+            "+@gid": "1821797626",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yumi Horie",
+                "+@id": "37064"
+            }
+        },
+        {
+            "+@gid": "1863084093",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Dai Imaoka",
+                "+@id": "37067"
+            }
+        },
+        {
+            "+@gid": "1264776668",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Myoung Jun Cha",
+                "+@id": "52576"
+            }
+        },
+        {
+            "+@gid": "2020440312",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shouko Nishigaki",
+                "+@id": "75802"
+            }
+        },
+        {
+            "+@gid": "1047429261",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Noriko Ogura",
+                "+@id": "78613"
+            }
+        },
+        {
+            "+@gid": "2470540360",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuki Yabuta",
+                "+@id": "96591"
+            }
+        },
+        {
+            "+@gid": "1969256205",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tomomi Noda",
+                "+@id": "108037"
+            }
+        },
+        {
+            "+@gid": "2626150463",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kyung Eun Kim",
+                "+@id": "110116"
+            }
+        },
+        {
+            "+@gid": "1598555972",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yū Yoshiyama",
+                "+@id": "115495"
+            }
+        },
+        {
+            "+@gid": "1626146203",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ja-Cheon Gu",
+                "+@id": "121374"
+            }
+        },
+        {
+            "+@gid": "1836388146",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Keika Ushimaru",
+                "+@id": "137390"
+            }
+        },
+        {
+            "+@gid": "432014771",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shiho Sakuramoto",
+                "+@id": "191464"
+            }
+        },
+        {
+            "+@gid": "2285631962",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yi Fan Feng",
+                "+@id": "193916"
+            }
+        },
+        {
+            "+@gid": "2191920126",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chae Eun Kim",
+                "+@id": "205087"
+            }
+        },
+        {
+            "+@gid": "894209063",
+            "task": "Animation Director",
+            "person": {
+                "+content": "MicAOz",
+                "+@id": "217852"
+            }
+        },
+        {
+            "+@gid": "2273906465",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Xiao Long Xie",
+                "+@id": "234858"
+            }
+        },
+        {
+            "+@gid": "1787847170",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Blues Lee",
+                "+@id": "252210"
+            }
+        },
+        {
+            "+@gid": "2416113926",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Gui A",
+                "+@id": "261212"
+            }
+        },
+        {
+            "+@gid": "1978125076",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yang Hao Tong Li",
+                "+@id": "261213"
+            }
+        },
+        {
+            "+@gid": "694150095",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chang Ye",
+                "+@id": "261306"
+            }
+        },
+        {
+            "+@gid": "3371331179",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tomiharu",
+                "+@id": "269617"
+            }
+        },
+        {
+            "+@gid": "1956715441",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Genta Ishimori",
+                "+@id": "271261"
+            }
+        },
+        {
+            "+@gid": "776332627",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Guozi Huise",
+                "+@id": "272345"
+            }
+        },
+        {
+            "+@gid": "1946714672",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tong Xu",
+                "+@id": "272812"
+            }
+        },
+        {
+            "+@gid": "3916416171",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Qie Zi Yin",
+                "+@id": "273672"
+            }
+        },
+        {
+            "+@gid": "3232371458",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jingai Xiumian",
+                "+@id": "284902"
+            }
+        },
+        {
+            "+@gid": "2329213919",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yang Yan",
+                "+@id": "284904"
+            }
+        },
+        {
+            "+@gid": "2824954040",
+            "task": "Animation Director",
+            "person": {
+                "+content": "k621",
+                "+@id": "284915"
+            }
+        },
+        {
             "+@gid": "3651180155",
             "task": "Sound Director",
             "person": {
@@ -304,6 +661,70 @@
             "person": {
                 "+content": "Kazuto Izumita",
                 "+@id": "178577"
+            }
+        },
+        {
+            "+@gid": "2248484338",
+            "task": "Producer",
+            "person": {
+                "+content": "Takako Yamamori",
+                "+@id": "81224"
+            }
+        },
+        {
+            "+@gid": "2690513389",
+            "task": "Producer",
+            "person": {
+                "+content": "Tatsuya Ishikawa",
+                "+@id": "114532"
+            }
+        },
+        {
+            "+@gid": "862743749",
+            "task": "Producer",
+            "person": {
+                "+content": "Hiroyuki Aoi",
+                "+@id": "137266"
+            }
+        },
+        {
+            "+@gid": "1817295682",
+            "task": "Producer",
+            "person": {
+                "+content": "Hiroshi Kamei",
+                "+@id": "147594"
+            }
+        },
+        {
+            "+@gid": "2094100778",
+            "task": "Producer",
+            "person": {
+                "+content": "Satoshi Suzuki",
+                "+@id": "147826"
+            }
+        },
+        {
+            "+@gid": "1111470219",
+            "task": "Producer",
+            "person": {
+                "+content": "Kōhei Sakita",
+                "+@id": "165350"
+            }
+        },
+        {
+            "+@gid": "438481554",
+            "task": "Producer",
+            "person": {
+                "+content": "Yoshiko Makabe",
+                "+@id": "217050"
+            }
+        },
+        {
+            "+@gid": "1920675360",
+            "task": "Producer",
+            "person": {
+                "+content": "Sōichirō Saitō",
+                "+@id": "233180"
             }
         }
     ],
@@ -441,6 +862,303 @@
             "person": {
                 "+content": "Morgana Ignis",
                 "+@id": "259814"
+            }
+        },
+        {
+            "+@gid": "2306259808",
+            "+@lang": "ES",
+            "role": "Naki Kito",
+            "person": {
+                "+content": "Ana Isabel Hernando",
+                "+@id": "50626"
+            }
+        },
+        {
+            "+@gid": "2495346538",
+            "+@lang": "ES",
+            "role": "Jin \"Jiji\" Enjoji",
+            "person": {
+                "+content": "Jaime Pérez de Sevilla",
+                "+@id": "157550"
+            }
+        },
+        {
+            "+@gid": "3040356477",
+            "+@lang": "ES",
+            "role": "Ken \"Okarun\" Takakura",
+            "person": {
+                "+content": "Joel Gómez Jiménez",
+                "+@id": "176895"
+            }
+        },
+        {
+            "+@gid": "2516833721",
+            "+@lang": "ES",
+            "role": "Turbo Granny",
+            "person": {
+                "+content": "Alexia Lorrio",
+                "+@id": "187957"
+            }
+        },
+        {
+            "+@gid": "2358816716",
+            "+@lang": "ES",
+            "role": "Manjiro",
+            "person": {
+                "+content": "Rubén Borra",
+                "+@id": "267847"
+            }
+        },
+        {
+            "+@gid": "1779883593",
+            "+@lang": "ES",
+            "role": "Momo Ayase",
+            "person": {
+                "+content": "Irene Arévalo",
+                "+@id": "271288"
+            }
+        },
+        {
+            "+@gid": "1691167023",
+            "+@lang": "FR",
+            "role": "Jin \"Jiji\" Enjōji",
+            "person": {
+                "+content": "Emmanuel Garijo",
+                "+@id": "27188"
+            }
+        },
+        {
+            "+@gid": "3126526835",
+            "+@lang": "FR",
+            "role": "Naki Kitō",
+            "person": {
+                "+content": "Virginie Ledieu",
+                "+@id": "28707"
+            }
+        },
+        {
+            "+@gid": "2115662758",
+            "+@lang": "FR",
+            "role": "Turbo Granny",
+            "person": {
+                "+content": "Nathalie Homs",
+                "+@id": "29181"
+            }
+        },
+        {
+            "+@gid": "1343944174",
+            "+@lang": "FR",
+            "role": "Mémé Turbo",
+            "person": {
+                "+content": "Claudine Grémy",
+                "+@id": "53157"
+            }
+        },
+        {
+            "+@gid": "1711464757",
+            "+@lang": "FR",
+            "role": "Démon de Dover",
+            "person": {
+                "+content": "Thierry Wermuth",
+                "+@id": "53973"
+            }
+        },
+        {
+            "+@gid": "1596251274",
+            "+@lang": "FR",
+            "role": "Manjiro",
+            "person": {
+                "+content": "Maxime Baudoin",
+                "+@id": "57040"
+            }
+        },
+        {
+            "+@gid": "2723946983",
+            "+@lang": "FR",
+            "role": "Tarō",
+            "person": {
+                "+content": "Guillaume Orsat",
+                "+@id": "61283"
+            }
+        },
+        {
+            "+@gid": "2275882763",
+            "+@lang": "FR",
+            "role": "Seiko Ayase",
+            "person": {
+                "+content": "Véronique Augereau",
+                "+@id": "71275"
+            }
+        },
+        {
+            "+@gid": "2206850460",
+            "+@lang": "FR",
+            "role": "Okarun",
+            "person": {
+                "+content": "Tom Trouffier",
+                "+@id": "77696"
+            }
+        },
+        {
+            "+@gid": "1488913157",
+            "+@lang": "FR",
+            "role": "Aira Shitatori",
+            "person": {
+                "+content": "Alice Orsat",
+                "+@id": "109045"
+            }
+        },
+        {
+            "+@gid": "2777319627",
+            "+@lang": "FR",
+            "role": "Momo",
+            "person": {
+                "+content": "Jaynelia Coadou",
+                "+@id": "129621"
+            }
+        },
+        {
+            "+@gid": "2625904687",
+            "+@lang": "FR",
+            "role": "Aira Shiratori",
+            "person": {
+                "+content": "Emmylou Homs",
+                "+@id": "135316"
+            }
+        },
+        {
+            "+@gid": "1779736736",
+            "+@lang": "FR",
+            "role": "Naki Kitō",
+            "person": {
+                "+content": "Isabelle Leprince",
+                "+@id": "150862"
+            }
+        },
+        {
+            "+@gid": "3043106281",
+            "+@lang": "FR",
+            "role": "Seiko Ayase",
+            "person": {
+                "+content": "Géraldine Asselin",
+                "+@id": "151000"
+            }
+        },
+        {
+            "+@gid": "581980154",
+            "+@lang": "FR",
+            "role": "Démon de Dover",
+            "person": {
+                "+content": "Jérémy Bardeau",
+                "+@id": "162907"
+            }
+        },
+        {
+            "+@gid": "3049756375",
+            "+@lang": "FR",
+            "role": "Chiquitita",
+            "person": {
+                "+content": "Estelle Darazi",
+                "+@id": "169128"
+            }
+        },
+        {
+            "+@gid": "3307235847",
+            "+@lang": "FR",
+            "role": "Momo",
+            "person": {
+                "+content": "Anaïs Delva",
+                "+@id": "173795"
+            }
+        },
+        {
+            "+@gid": "1234362735",
+            "+@lang": "FR",
+            "role": "Hana",
+            "person": {
+                "+content": "Nathalié Aranda",
+                "+@id": "178057"
+            }
+        },
+        {
+            "+@gid": "2381246599",
+            "+@lang": "FR",
+            "role": "Jin \"Jiji\" Enjōji",
+            "person": {
+                "+content": "Oscar Douieb",
+                "+@id": "180446"
+            }
+        },
+        {
+            "+@gid": "1045878200",
+            "+@lang": "FR",
+            "role": "Manjiro",
+            "person": {
+                "+content": "Sébastien Minéo",
+                "+@id": "202598"
+            }
+        },
+        {
+            "+@gid": "2084191654",
+            "+@lang": "FR",
+            "role": "Tarō",
+            "person": {
+                "+content": "Thibault Oleksiak",
+                "+@id": "226424"
+            }
+        },
+        {
+            "+@gid": "1952812596",
+            "+@lang": "FR",
+            "role": "Chiquitita",
+            "person": {
+                "+content": "Iliana Sakji",
+                "+@id": "232135"
+            }
+        },
+        {
+            "+@gid": "1665497748",
+            "+@lang": "FR",
+            "role": "Okarun",
+            "person": {
+                "+content": "Marius Blivet",
+                "+@id": "253737"
+            }
+        },
+        {
+            "+@gid": "1756876538",
+            "+@lang": "IT",
+            "role": "Naki Kitō",
+            "person": {
+                "+content": "Alessandra Cassioli",
+                "+@id": "15786"
+            }
+        },
+        {
+            "+@gid": "1850678716",
+            "+@lang": "IT",
+            "role": "Jin \"Jiji\" Enjoji",
+            "person": {
+                "+content": "Riccardo Suarez",
+                "+@id": "131046"
+            }
+        },
+        {
+            "+@gid": "1723324286",
+            "+@lang": "IT",
+            "role": "Momo Ayase",
+            "person": {
+                "+content": "Ilaria Pellicone",
+                "+@id": "175792"
+            }
+        },
+        {
+            "+@gid": "3564356087",
+            "+@lang": "IT",
+            "role": "Ken \"Okarun\" Takakura",
+            "person": {
+                "+content": "Valeriano Corini",
+                "+@id": "198894"
             }
         },
         {
@@ -597,6 +1315,6 @@
         }
     },
     "+@date-added": "2024-12-19T17:45:18Z",
-    "+@date-last-modified-at": "2025-06-21T02:17:57Z",
-    "+@date-last-updated-at": "2025-06-21T02:17:57Z"
+    "+@date-last-modified-at": "2025-07-21T13:06:11Z",
+    "+@date-last-updated-at": "2025-07-21T13:06:11Z"
 }

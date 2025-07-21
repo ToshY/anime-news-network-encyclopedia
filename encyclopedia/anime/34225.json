@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Ranma ½",
     "+@precision": "TV 2025",
-    "+@generated-on": "2025-06-21T02:17:56Z",
+    "+@generated-on": "2025-07-21T13:06:09Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32929"
@@ -113,9 +113,19 @@
             "+@type": "Objectionable content"
         },
         {
+            "+content": "As Ranma continues to live out his daily life in Furinkan while residing at the Tendos’ residence with his dad, an array of new rivals and previously engaged fiancés start to show up in town. Such as amazonian warrior Shampoo who now resides at a newly opened noodle shop with her great grandmother Cologne, the leader of the amazons. Other individuals include Gosunkugi, a ritualistic wallflower who wants Akane for himself, Mousse a Chinese martial artist who wants to win Shampoo’s heart by defeating Ranma, Ukyo, a tomboy okonomiyaki chef who was engaged to Ranma ten years prior, and finally Happosai, the founder and grandmaster of Anything Goes Martial Arts, who is a skilled fighter but is also a pervert.",
+            "+@gid": "1990820951",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "23",
             "+@gid": "1057423335",
             "+@type": "Running time"
+        },
+        {
+            "+content": "2025-10",
+            "+@gid": "1575152674",
+            "+@type": "Vintage"
         },
         {
             "+content": "「らんま1/2」公式サイト",
@@ -125,19 +135,124 @@
             "+@href": "https://ranma-pr.com/"
         }
     ],
-    "news": {
-        "+content": "New <cite>Ranma 1/2</cite> Anime's 2nd Season Gets Advanced Screening, Live Dubbing on June 22",
-        "+@datetime": "2025-05-23T19:48:22Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-05-23/new-ranma-1-2-anime-2nd-season-gets-advanced-screening-live-dubbing-on-june-22/.224742"
-    },
-    "staff": {
-        "+@gid": "100355065",
-        "task": "Original creator",
-        "person": {
-            "+content": "Rumiko Takahashi",
-            "+@id": "149"
+    "news": [
+        {
+            "+content": "New <cite>Ranma 1/2</cite> Anime's 2nd Season Gets Advanced Screening, Live Dubbing on June 22",
+            "+@datetime": "2025-05-23T19:48:22Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-23/new-ranma-1-2-anime-2nd-season-gets-advanced-screening-live-dubbing-on-june-22/.224742"
+        },
+        {
+            "+content": "New <cite>Ranma 1/2</cite> Anime Season 2's 1st Trailer Unveils More Cast, Updated Staff, October Debut",
+            "+@datetime": "2025-06-22T12:37:13Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-22/new-ranma-1-2-anime-season-2-1st-trailer-unveils-more-cast-updated-staff-october-debut/.225891"
         }
-    },
+    ],
+    "staff": [
+        {
+            "+@gid": "2598544187",
+            "task": "Director",
+            "person": {
+                "+content": "Kōnosuke Uda",
+                "+@id": "9447"
+            }
+        },
+        {
+            "+@gid": "1595179821",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Kimiko Ueno",
+                "+@id": "83183"
+            }
+        },
+        {
+            "+@gid": "3784610482",
+            "task": "Music",
+            "person": {
+                "+content": "Kaoru Wada",
+                "+@id": "275"
+            }
+        },
+        {
+            "+@gid": "100355065",
+            "task": "Original creator",
+            "person": {
+                "+content": "Rumiko Takahashi",
+                "+@id": "149"
+            }
+        },
+        {
+            "+@gid": "1026634139",
+            "task": "Character Design",
+            "person": {
+                "+content": "Hiromi Taniguchi",
+                "+@id": "78735"
+            }
+        },
+        {
+            "+@gid": "2316508920",
+            "task": "Art Director",
+            "person": {
+                "+content": "Chihiro Ōkawa",
+                "+@id": "26095"
+            }
+        },
+        {
+            "+@gid": "911975530",
+            "task": "Art Director",
+            "person": {
+                "+content": "Ryūta Hayashi",
+                "+@id": "124473"
+            }
+        },
+        {
+            "+@gid": "2328153223",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Takeshi Yoshioka",
+                "+@id": "46556"
+            }
+        },
+        {
+            "+@gid": "2595755597",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yoshiko Saitō",
+                "+@id": "70798"
+            }
+        },
+        {
+            "+@gid": "2128647581",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kōsuke Kawamura",
+                "+@id": "78306"
+            }
+        },
+        {
+            "+@gid": "1998065534",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Nao Ōtsu",
+                "+@id": "152565"
+            }
+        },
+        {
+            "+@gid": "3595284782",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Kōnosuke Uda",
+                "+@id": "9447"
+            }
+        },
+        {
+            "+@gid": "3618189642",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Atsushi Kanō",
+                "+@id": "204387"
+            }
+        }
+    ],
     "cast": [
         {
             "+@gid": "1269233635",
@@ -165,9 +280,170 @@
                 "+content": "Megumi Hayashibara",
                 "+@id": "391"
             }
+        },
+        {
+            "+@gid": "1115349245",
+            "+@lang": "JA",
+            "role": "Ukyo Kuonji",
+            "person": {
+                "+content": "Kaori Nazuka",
+                "+@id": "439"
+            }
+        },
+        {
+            "+@gid": "589226274",
+            "+@lang": "JA",
+            "role": "Hikaru Gosunkugi",
+            "person": {
+                "+content": "Akira Ishida",
+                "+@id": "443"
+            }
+        },
+        {
+            "+@gid": "3072904755",
+            "+@lang": "JA",
+            "role": "Sōun Tendō",
+            "person": {
+                "+content": "Akio Ōtsuka",
+                "+@id": "459"
+            }
+        },
+        {
+            "+@gid": "1268032904",
+            "+@lang": "JA",
+            "role": "Ichirō",
+            "person": {
+                "+content": "Tomokazu Seki",
+                "+@id": "529"
+            }
+        },
+        {
+            "+@gid": "1832126065",
+            "+@lang": "JA",
+            "role": "Kasumi Tendō",
+            "person": {
+                "+content": "Kikuko Inoue",
+                "+@id": "542"
+            }
+        },
+        {
+            "+@gid": "2273549887",
+            "+@lang": "JA",
+            "role": "Tōfū Ono",
+            "person": {
+                "+content": "Toshiyuki Morikawa",
+                "+@id": "692"
+            }
+        },
+        {
+            "+@gid": "2221577600",
+            "+@lang": "JA",
+            "role": "Mousse",
+            "person": {
+                "+content": "Toshihiko Seki",
+                "+@id": "693"
+            }
+        },
+        {
+            "+@gid": "2402865867",
+            "+@lang": "JA",
+            "role": "Happosai",
+            "person": {
+                "+content": "Kazuhiko Inoue",
+                "+@id": "722"
+            }
+        },
+        {
+            "+@gid": "598099924",
+            "+@lang": "JA",
+            "role": "Nabiki Tendō",
+            "person": {
+                "+content": "Minami Takayama",
+                "+@id": "845"
+            }
+        },
+        {
+            "+@gid": "2345305290",
+            "+@lang": "JA",
+            "role": "Shampoo",
+            "person": {
+                "+content": "Rei Sakuma",
+                "+@id": "853"
+            }
+        },
+        {
+            "+@gid": "2734537888",
+            "+@lang": "JA",
+            "role": "Tatewaki Kunō",
+            "person": {
+                "+content": "Tomokazu Sugita",
+                "+@id": "910"
+            }
+        },
+        {
+            "+@gid": "3905899606",
+            "+@lang": "JA",
+            "role": "Ryōga Hibiki",
+            "person": {
+                "+content": "Kōichi Yamadera",
+                "+@id": "5728"
+            }
+        },
+        {
+            "+@gid": "2754508781",
+            "+@lang": "JA",
+            "role": "Mikado Sanzen'in",
+            "person": {
+                "+content": "Mamoru Miyano",
+                "+@id": "10397"
+            }
+        },
+        {
+            "+@gid": "1903234931",
+            "+@lang": "JA",
+            "role": "Cologne",
+            "person": {
+                "+content": "Ako Mayama",
+                "+@id": "36901"
+            }
+        },
+        {
+            "+@gid": "3855576005",
+            "+@lang": "JA",
+            "role": "Azusa Shiratori",
+            "person": {
+                "+content": "Aoi Yūki",
+                "+@id": "68107"
+            }
+        },
+        {
+            "+@gid": "2088457774",
+            "+@lang": "JA",
+            "role": "Genma Saotome",
+            "person": {
+                "+content": "Chō",
+                "+@id": "68750"
+            }
+        },
+        {
+            "+@gid": "1578531781",
+            "+@lang": "JA",
+            "role": "Kodachi Kunō",
+            "person": {
+                "+content": "Ayane Sakura",
+                "+@id": "94383"
+            }
         }
     ],
+    "credit": {
+        "+@gid": "894343688",
+        "task": "Animation Production",
+        "company": {
+            "+content": "MAPPA",
+            "+@id": "10189"
+        }
+    },
     "+@date-added": "2024-12-21T18:38:25Z",
-    "+@date-last-modified-at": "2025-06-21T02:17:57Z",
-    "+@date-last-updated-at": "2025-06-21T02:17:57Z"
+    "+@date-last-modified-at": "2025-07-21T13:06:11Z",
+    "+@date-last-updated-at": "2025-07-21T13:06:11Z"
 }
