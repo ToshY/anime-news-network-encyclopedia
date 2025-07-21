@@ -4,28 +4,28 @@
     "+@type": "TV",
     "+@name": "Welcome to the Outcast's Restaurant!",
     "+@precision": "TV",
-    "+@generated-on": "2025-06-21T02:17:57Z",
+    "+@generated-on": "2025-07-21T16:45:45Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25334"
     },
     "info": [
         {
-            "+@gid": "2564236455",
+            "+@gid": "2456430105",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34176-2564236455.1745154384.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34176-2456430105.1752231146.jpg",
+            "+@width": "140",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34176-2564236455.1745154384.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34176-2456430105.1752231146.jpg",
+                    "+@width": "140",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34176-2564236455.1745154384.jpg",
-                    "+@width": "425",
-                    "+@height": "600"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34176-2456430105.1752231146.jpg",
+                    "+@width": "350",
+                    "+@height": "500"
                 }
             ]
         },
@@ -48,8 +48,23 @@
             "+@lang": "JA"
         },
         {
+            "+content": "adventure",
+            "+@gid": "1475822281",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "2962957166",
+            "+@type": "Genres"
+        },
+        {
             "+content": "fantasy",
             "+@gid": "2072082296",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "slice of life",
+            "+@gid": "2205739135",
             "+@type": "Genres"
         },
         {
@@ -58,8 +73,18 @@
             "+@type": "Themes"
         },
         {
+            "+content": "TA",
+            "+@gid": "3053284267",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "Dennis is a level 99 cook who’s just been exiled from the guild he’s been working at for many years and decides to set up his own diner in the countryside. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "1262762544",
+            "+@type": "Running time"
         },
         {
             "+content": "2025-07-03",
@@ -79,6 +104,10 @@
             "+@href": "https://tsuihosha-shokudo.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "3",
+        "+@weighted_score": "4.1537"
+    },
     "news": [
         {
             "+content": "<cite>Welcome to the Outcast's Restaurant!</cite> TV Anime's Teaser Reveals Cast, Staff, July Debut",
@@ -99,6 +128,16 @@
             "+content": "Crunchyroll Announces Release Schedule for Summer 2025 Season",
             "+@datetime": "2025-06-18T17:58:39Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-06-18/crunchyroll-announces-release-schedule-for-summer-2025-season/.225751"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>Detectives These Days Are Crazy!</cite>, <cite>Silent Witch</cite>, More Anime in India in Summer 2025",
+            "+@datetime": "2025-06-21T09:04:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-21/crunchyroll-streams-detectives-these-days-are-crazy-silent-witch-more-anime-in-india-in-summer-2025/.225842"
+        },
+        {
+            "+content": "Hindi Dubs of <cite>Welcome to the Outcast's Restaurant!</cite>, <cite>Dekin no Mogura</cite>, More Stream on Anime Times",
+            "+@datetime": "2025-07-13T10:57:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-13/hindi-dubs-of-welcome-to-the-outcast-restaurant-dekin-no-mogura-more-stream-on-anime-times/.226586"
         }
     ],
     "staff": [
@@ -185,12 +224,30 @@
     ],
     "cast": [
         {
+            "+@gid": "1053001566",
+            "+@lang": "JA",
+            "role": "Volvo",
+            "person": {
+                "+content": "Yoshimitsu Shimoyama",
+                "+@id": "20597"
+            }
+        },
+        {
             "+@gid": "2611210525",
             "+@lang": "JA",
             "role": "Vivia",
             "person": {
                 "+content": "Mariya Ise",
                 "+@id": "46112"
+            }
+        },
+        {
+            "+@gid": "1817227933",
+            "+@lang": "JA",
+            "role": "Narrator",
+            "person": {
+                "+content": "Chō",
+                "+@id": "68750"
             }
         },
         {
@@ -212,6 +269,15 @@
             }
         },
         {
+            "+@gid": "2153996259",
+            "+@lang": "JA",
+            "role": "Pigtails",
+            "person": {
+                "+content": "Akira Sekine",
+                "+@id": "127847"
+            }
+        },
+        {
             "+@gid": "2323813073",
             "+@lang": "JA",
             "role": "Dennis",
@@ -230,12 +296,39 @@
             }
         },
         {
+            "+@gid": "2138999980",
+            "+@lang": "JA",
+            "role": "Ponytail",
+            "person": {
+                "+content": "Aino Shimada",
+                "+@id": "172194"
+            }
+        },
+        {
             "+@gid": "2511451679",
             "+@lang": "JA",
             "role": "Vigor",
             "person": {
                 "+content": "Ryōta Suzuki",
                 "+@id": "174131"
+            }
+        },
+        {
+            "+@gid": "1783725177",
+            "+@lang": "JA",
+            "role": "Cynthia",
+            "person": {
+                "+content": "Minori Fujidera",
+                "+@id": "214095"
+            }
+        },
+        {
+            "+@gid": "1779500962",
+            "+@lang": "JA",
+            "role": "Florian",
+            "person": {
+                "+content": "Minori Fujidera",
+                "+@id": "214095"
             }
         },
         {
@@ -248,15 +341,105 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "1914395795",
-        "task": "Animation Production",
-        "company": {
-            "+content": "OLM",
-            "+@id": "33"
+    "credit": [
+        {
+            "+@gid": "1914395795",
+            "task": "Animation Production",
+            "company": {
+                "+content": "OLM",
+                "+@id": "33"
+            }
+        },
+        {
+            "+@gid": "1416502606",
+            "task": "Production",
+            "company": {
+                "+content": "OLM",
+                "+@id": "33"
+            }
+        },
+        {
+            "+@gid": "4016041473",
+            "task": "Production",
+            "company": {
+                "+content": "AT-X",
+                "+@id": "518"
+            }
+        },
+        {
+            "+@gid": "2514660095",
+            "task": "Production",
+            "company": {
+                "+content": "The Klockworx Co., Ltd.",
+                "+@id": "614"
+            }
+        },
+        {
+            "+@gid": "3741283192",
+            "task": "Production",
+            "company": {
+                "+content": "Chubu-Nippon Broadcasting Co., Ltd.",
+                "+@id": "5686"
+            }
+        },
+        {
+            "+@gid": "2383206465",
+            "task": "Production",
+            "company": {
+                "+content": "Overlap",
+                "+@id": "11334"
+            }
+        },
+        {
+            "+@gid": "2061431914",
+            "task": "Production",
+            "company": {
+                "+content": "Avex Pictures",
+                "+@id": "13014"
+            }
+        },
+        {
+            "+@gid": "3056486240",
+            "task": "Production",
+            "company": {
+                "+content": "Tokyo MX",
+                "+@id": "13028"
+            }
+        },
+        {
+            "+@gid": "1779564679",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon BS Broadcasting Corporation",
+                "+@id": "15105"
+            }
+        },
+        {
+            "+@gid": "2310262679",
+            "task": "Production",
+            "company": {
+                "+content": "MAGNET",
+                "+@id": "18113"
+            }
+        },
+        {
+            "+@gid": "1783359909",
+            "task": "Production",
+            "company": {
+                "+content": "Bit Grooove Promotion",
+                "+@id": "21341"
+            }
+        },
+        {
+            "+@gid": "2137231748",
+            "task": "Production",
+            "company": {
+                "+content": "HIKE",
+                "+@id": "23901"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-12-15T17:12:00Z",
-    "+@date-last-modified-at": "2025-06-21T02:17:57Z",
-    "+@date-last-updated-at": "2025-06-21T02:17:57Z"
+    "+@date-last-modified-at": "2025-07-21T16:45:48Z",
+    "+@date-last-updated-at": "2025-07-21T16:45:48Z"
 }

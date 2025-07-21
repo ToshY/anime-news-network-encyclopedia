@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "Takopi's Original Sin",
     "+@precision": "TV",
-    "+@generated-on": "2025-06-21T04:39:42Z",
+    "+@generated-on": "2025-07-21T16:45:46Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25549"
     },
     "info": [
         {
-            "+@gid": "1689710237",
+            "+@gid": "2081954509",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34142-1689710237.1747783954.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34142-2081954509.1752229472.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34142-1689710237.1747783954.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34142-2081954509.1752229472.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34142-1689710237.1747783954.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34142-2081954509.1752229472.jpg",
+                    "+@width": "423",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34142-2081954509.1752229472.jpg",
+                    "+@width": "550",
+                    "+@height": "780"
                 }
             ]
         },
@@ -53,8 +58,43 @@
             "+@type": "Genres"
         },
         {
+            "+content": "psychological",
+            "+@gid": "3156742474",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "science fiction",
+            "+@gid": "2002596859",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "aliens",
+            "+@gid": "3157032381",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "school",
+            "+@gid": "2441067527",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "time travel",
+            "+@gid": "1898670305",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "MA",
+            "+@gid": "1937741148",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "Takopi travels from his home of Happy Planet to spread happiness across Earth, but meets the unsmiling Shizuka upon landing. Her friends at school and home life seem to be the source of her somber expression—and the pure-hearted Takopi is determined to change things for the better. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "1914240679",
+            "+@type": "Running time"
         },
         {
             "+content": "6",
@@ -84,6 +124,10 @@
             "+@href": "https://www.tbs.co.jp/anime/takopi_project/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "8.4377"
+    },
     "news": [
         {
             "+content": "<cite>Takopi's Original Sin</cite> Manga Gets Anime",
@@ -114,6 +158,16 @@
             "+content": "Crunchyroll Streams <cite>Takopi's Original Sin</cite> Anime in India on June 28",
             "+@datetime": "2025-06-20T16:09:43Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-06-20/crunchyroll-streams-takopi-original-sin-anime-in-india-on-june-28/.225834"
+        },
+        {
+            "+content": "Ani-One Asia Also Streams <cite>Takopi's Original Sin</cite> Anime in India",
+            "+@datetime": "2025-06-30T07:07:35Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-30/ani-one-asia-also-streams-takopi-original-sin-anime-in-india/.226137"
+        },
+        {
+            "+content": "Hindi Dubs of <cite>Welcome to the Outcast's Restaurant!</cite>, <cite>Dekin no Mogura</cite>, More Stream on Anime Times",
+            "+@datetime": "2025-07-13T10:57:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-13/hindi-dubs-of-welcome-to-the-outcast-restaurant-dekin-no-mogura-more-stream-on-anime-times/.226586"
         }
     ],
     "staff": [
@@ -131,6 +185,110 @@
             "person": {
                 "+content": "Shinya Iino",
                 "+@id": "111063"
+            }
+        },
+        {
+            "+@gid": "2536421955",
+            "task": "Script",
+            "person": {
+                "+content": "Shinya Iino",
+                "+@id": "111063"
+            }
+        },
+        {
+            "+@gid": "579861481",
+            "task": "Script",
+            "person": {
+                "+content": "Ko Nekota",
+                "+@id": "168948"
+            }
+        },
+        {
+            "+@gid": "2693411895",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shinya Iino",
+                "+@id": "111063"
+            }
+        },
+        {
+            "+@gid": "709117152",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Toya Ooshima",
+                "+@id": "135085"
+            }
+        },
+        {
+            "+@gid": "3257436372",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Moaang",
+                "+@id": "171395"
+            }
+        },
+        {
+            "+@gid": "1519007497",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Rikka",
+                "+@id": "207320"
+            }
+        },
+        {
+            "+@gid": "1963839235",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ren Onodera",
+                "+@id": "284602"
+            }
+        },
+        {
+            "+@gid": "2341655967",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shinya Iino",
+                "+@id": "111063"
+            }
+        },
+        {
+            "+@gid": "2543028221",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Toya Ooshima",
+                "+@id": "135085"
+            }
+        },
+        {
+            "+@gid": "397979300",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Moaang",
+                "+@id": "171395"
+            }
+        },
+        {
+            "+@gid": "376306707",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Rikka",
+                "+@id": "207320"
+            }
+        },
+        {
+            "+@gid": "1376066737",
+            "task": "Unit Director",
+            "person": {
+                "+content": "China",
+                "+@id": "152032"
+            }
+        },
+        {
+            "+@gid": "1894884301",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Ren Onodera",
+                "+@id": "284602"
             }
         },
         {
@@ -166,6 +324,70 @@
             }
         },
         {
+            "+@gid": "2201391022",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Keita Nagahara",
+                "+@id": "141406"
+            }
+        },
+        {
+            "+@gid": "2133735854",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hirotoshi Arai",
+                "+@id": "81305"
+            }
+        },
+        {
+            "+@gid": "3355089553",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Keita Nagahara",
+                "+@id": "141406"
+            }
+        },
+        {
+            "+@gid": "2525651626",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tsuyoshi Iida",
+                "+@id": "142947"
+            }
+        },
+        {
+            "+@gid": "3434316076",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Moaang",
+                "+@id": "171395"
+            }
+        },
+        {
+            "+@gid": "2109462387",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hayate Nakamura",
+                "+@id": "181519"
+            }
+        },
+        {
+            "+@gid": "1304381790",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Weilin Zhang",
+                "+@id": "189386"
+            }
+        },
+        {
+            "+@gid": "1723227312",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Rikka",
+                "+@id": "207320"
+            }
+        },
+        {
             "+@gid": "2776590135",
             "task": "Sound Director",
             "person": {
@@ -187,6 +409,22 @@
             "person": {
                 "+content": "Yū Wakabayashi",
                 "+@id": "228052"
+            }
+        },
+        {
+            "+@gid": "2332893383",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Shinya Watanabe",
+                "+@id": "166450"
+            }
+        },
+        {
+            "+@gid": "104272163",
+            "task": "Producer",
+            "person": {
+                "+content": "Kotaro Sudo",
+                "+@id": "93034"
             }
         }
     ],
@@ -247,6 +485,6 @@
         }
     ],
     "+@date-added": "2024-12-09T22:35:47Z",
-    "+@date-last-modified-at": "2025-06-21T04:39:44Z",
-    "+@date-last-updated-at": "2025-06-21T04:39:44Z"
+    "+@date-last-modified-at": "2025-07-21T16:45:48Z",
+    "+@date-last-updated-at": "2025-07-21T16:45:48Z"
 }
