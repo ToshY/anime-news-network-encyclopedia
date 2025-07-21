@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Aikatsu! x PriPara THE MOVIE -Deai no Kiseki!-",
     "+@precision": "movie",
-    "+@generated-on": "2025-06-21T04:39:41Z",
+    "+@generated-on": "2025-07-21T04:56:02Z",
     "related-prev": [
         {
             "+@rel": "related to",
@@ -19,24 +19,19 @@
         {
             "+@gid": "819167318",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35818-819167318.1745408717.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35818-819167318.1752659774.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35818-819167318.1745408717.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35818-819167318.1752659774.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35818-819167318.1745408717.jpg",
-                    "+@width": "424",
-                    "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A35818-819167318.1745408717.jpg",
-                    "+@width": "1446",
-                    "+@height": "2048"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35818-819167318.1752659774.jpg",
+                    "+@width": "404",
+                    "+@height": "573"
                 }
             ]
         },
@@ -58,9 +53,13 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2025 (fall)",
-            "+@gid": "3649843889",
+            "+content": "2025-10-10",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-10-10 (Japan)",
+            "+@gid": "2817460583",
+            "+@type": "Premiere date"
         },
         {
             "+content": "アイカツ!×プリパラ THE MOVIE -出会いのキセキ！-",
@@ -70,11 +69,18 @@
             "+@href": "https://aikatsu-pripara-10movie.jp/"
         }
     ],
-    "news": {
-        "+content": "<i>Aikatsu, PriPara</i> Idols Get Crossover Anime Film This Fall",
-        "+@datetime": "2025-04-23T12:34:10Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-04-23/aikatsu-pripara-idols-get-crossover-anime-film-this-fall/.223831"
-    },
+    "news": [
+        {
+            "+content": "<i>Aikatsu, PriPara</i> Idols Get Crossover Anime Film This Fall",
+            "+@datetime": "2025-04-23T12:34:10Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-23/aikatsu-pripara-idols-get-crossover-anime-film-this-fall/.223831"
+        },
+        {
+            "+content": "<cite>Aikatsu! x PriPara THE MOVIE -Deai no Kiseki!-</cite> Anime Film Reveals Full Cast, Staff, Theme Songs, October 10 Debut (Updated)",
+            "+@datetime": "2025-07-16T13:57:08Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-16/aikatsu-x-pripara-the-movie-deai-no-kiseki-anime-film-reveals-full-cast-staff-theme-songs-october-/.226721"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2347445307",
@@ -93,6 +99,14 @@
             }
         },
         {
+            "+@gid": "2687963125",
+            "task": "Music",
+            "person": {
+                "+content": "Shunsuke Takizawa",
+                "+@id": "134400"
+            }
+        },
+        {
             "+@gid": "504709810",
             "task": "Character Design",
             "person": {
@@ -107,9 +121,84 @@
                 "+content": "Hiroko Yaguchi",
                 "+@id": "65247"
             }
+        },
+        {
+            "+@gid": "3493921348",
+            "task": "Art Director",
+            "person": {
+                "+content": "Kenichi Tajiri",
+                "+@id": "19997"
+            }
+        },
+        {
+            "+@gid": "2924929015",
+            "task": "Art Director",
+            "person": {
+                "+content": "Natsuko Komatsu",
+                "+@id": "85404"
+            }
+        },
+        {
+            "+@gid": "3170942879",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Tatsuya Akitsu",
+                "+@id": "122553"
+            }
+        },
+        {
+            "+@gid": "2649363563",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Hiromi Kikuta",
+                "+@id": "1372"
+            }
+        },
+        {
+            "+@gid": "2894375148",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Yoshihiro Otobe",
+                "+@id": "79190"
+            }
+        },
+        {
+            "+@gid": "3499423811",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yōichi Ōgami",
+                "+@id": "6695"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "545441941",
+            "+@lang": "JA",
+            "role": "Hibiki Shikyoin",
+            "person": {
+                "+content": "Mitsuki Saiga",
+                "+@id": "411"
+            }
+        },
+        {
+            "+@gid": "1942424616",
+            "+@lang": "JA",
+            "role": "Gaaruru",
+            "person": {
+                "+content": "Asami Sanada",
+                "+@id": "3680"
+            }
+        },
+        {
+            "+@gid": "908378315",
+            "+@lang": "JA",
+            "role": "Aroma Kurosu",
+            "person": {
+                "+content": "Yui Makino",
+                "+@id": "38425"
+            }
+        },
         {
             "+@gid": "2183636921",
             "+@lang": "JA",
@@ -117,6 +206,51 @@
             "person": {
                 "+content": "Yui Ishikawa",
                 "+@id": "63509"
+            }
+        },
+        {
+            "+@gid": "909345252",
+            "+@lang": "JA",
+            "role": "Kokone Kurisu",
+            "person": {
+                "+content": "Kanae Itō",
+                "+@id": "66684"
+            }
+        },
+        {
+            "+@gid": "2387528946",
+            "+@lang": "JA",
+            "role": "Falulu",
+            "person": {
+                "+content": "Chinatsu Akasaki",
+                "+@id": "89894"
+            }
+        },
+        {
+            "+@gid": "1863857798",
+            "+@lang": "JA",
+            "role": "Mikan Shiratama",
+            "person": {
+                "+content": "Yui Watanabe",
+                "+@id": "97897"
+            }
+        },
+        {
+            "+@gid": "1558868432",
+            "+@lang": "JA",
+            "role": "Nono Daichi",
+            "person": {
+                "+content": "Kotori Koiwai",
+                "+@id": "104166"
+            }
+        },
+        {
+            "+@gid": "2168863533",
+            "+@lang": "JA",
+            "role": "Nina Dojima",
+            "person": {
+                "+content": "Asami Yano",
+                "+@id": "106038"
             }
         },
         {
@@ -129,12 +263,57 @@
             }
         },
         {
+            "+@gid": "2234445590",
+            "+@lang": "JA",
+            "role": "Madoka Amahane",
+            "person": {
+                "+content": "Chihiro Kawakami",
+                "+@id": "118531"
+            }
+        },
+        {
+            "+@gid": "1146849788",
+            "+@lang": "JA",
+            "role": "Shion Toudou",
+            "person": {
+                "+content": "Saki Yamakita",
+                "+@id": "119197"
+            }
+        },
+        {
+            "+@gid": "1677983092",
+            "+@lang": "JA",
+            "role": "Fuwari Midorikaze",
+            "person": {
+                "+content": "Azusa Satō",
+                "+@id": "119198"
+            }
+        },
+        {
+            "+@gid": "1873856599",
+            "+@lang": "JA",
+            "role": "Dorothy West",
+            "person": {
+                "+content": "Azuki Shibuya",
+                "+@id": "119244"
+            }
+        },
+        {
             "+@gid": "1602526828",
             "+@lang": "JA",
             "role": "Sophie Hojo",
             "person": {
                 "+content": "Miyu Kubota",
                 "+@id": "120928"
+            }
+        },
+        {
+            "+@gid": "2781283829",
+            "+@lang": "JA",
+            "role": "Leona West",
+            "person": {
+                "+content": "Yūki Wakai",
+                "+@id": "121836"
             }
         },
         {
@@ -156,12 +335,147 @@
             }
         },
         {
+            "+@gid": "1628174737",
+            "+@lang": "JA",
+            "role": "Lisa Shirakaba",
+            "person": {
+                "+content": "Sanae Fuku",
+                "+@id": "123885"
+            }
+        },
+        {
+            "+@gid": "3323153915",
+            "+@lang": "JA",
+            "role": "Miyabi Fujiwara",
+            "person": {
+                "+content": "Akira Sekine",
+                "+@id": "127847"
+            }
+        },
+        {
+            "+@gid": "1987864654",
+            "+@lang": "JA",
+            "role": "Akari Ōzora (Singing Voice)",
+            "person": {
+                "+content": "Ruka Endō",
+                "+@id": "129521"
+            }
+        },
+        {
             "+@gid": "1315175558",
             "+@lang": "JA",
             "role": "Sumire Hikami",
             "person": {
                 "+content": "Yū Wakui",
                 "+@id": "129990"
+            }
+        },
+        {
+            "+@gid": "2947113352",
+            "+@lang": "JA",
+            "role": "Hinaki Shinjo (Singing Voice)",
+            "person": {
+                "+content": "Miki Mirai",
+                "+@id": "135773"
+            }
+        },
+        {
+            "+@gid": "2273511177",
+            "+@lang": "JA",
+            "role": "Juri Kurebayashi (singing voice)",
+            "person": {
+                "+content": "Miho Amane",
+                "+@id": "135774"
+            }
+        },
+        {
+            "+@gid": "1977925962",
+            "+@lang": "JA",
+            "role": "Nono Daichi (singing voice)",
+            "person": {
+                "+content": "Miho Amane",
+                "+@id": "135774"
+            }
+        },
+        {
+            "+@gid": "1244230135",
+            "+@lang": "JA",
+            "role": "Madoka Amahane (singing voice)",
+            "person": {
+                "+content": "Kana Matsuzawa",
+                "+@id": "135776"
+            }
+        },
+        {
+            "+@gid": "2080598940",
+            "+@lang": "JA",
+            "role": "Nina Dōjima (singing voice)",
+            "person": {
+                "+content": "Kana Matsuzawa",
+                "+@id": "135776"
+            }
+        },
+        {
+            "+@gid": "2630399034",
+            "+@lang": "JA",
+            "role": "Miyabi Fujiwara (singing voice)",
+            "person": {
+                "+content": "Remi Mitani",
+                "+@id": "135777"
+            }
+        },
+        {
+            "+@gid": "532391191",
+            "+@lang": "JA",
+            "role": "Kokone Kurisu (singing voice)",
+            "person": {
+                "+content": "Eri Aino",
+                "+@id": "135778"
+            }
+        },
+        {
+            "+@gid": "1899083811",
+            "+@lang": "JA",
+            "role": "Lisa Shirakaba (singing voice)",
+            "person": {
+                "+content": "Nanase Matsuoka",
+                "+@id": "146759"
+            }
+        },
+        {
+            "+@gid": "1406010191",
+            "+@lang": "JA",
+            "role": "Rin Kurosawa (singing voice)",
+            "person": {
+                "+content": "Nanase Matsuoka",
+                "+@id": "146759"
+            }
+        },
+        {
+            "+@gid": "2207016863",
+            "+@lang": "JA",
+            "role": "Rin Kurosawa",
+            "person": {
+                "+content": "Yūki Takada",
+                "+@id": "147090"
+            }
+        },
+        {
+            "+@gid": "2979867114",
+            "+@lang": "JA",
+            "role": "Juri Kurebayashi",
+            "person": {
+                "+content": "Aya Saitō",
+                "+@id": "149093"
+            }
+        },
+        {
+            "+@gid": "1779194886",
+            "+@lang": "JA",
+            "role": "Sumire Hikami (Singing Voice)",
+            "person": {
+                "+content": "Rie Fujishiro",
+                "+@id": "275099"
             }
         }
     ],
@@ -174,6 +488,6 @@
         }
     },
     "+@date-added": "2025-04-23T07:44:13Z",
-    "+@date-last-modified-at": "2025-06-21T04:39:41Z",
-    "+@date-last-updated-at": "2025-06-21T04:39:41Z"
+    "+@date-last-modified-at": "2025-07-21T04:56:04Z",
+    "+@date-last-updated-at": "2025-07-21T04:56:04Z"
 }
