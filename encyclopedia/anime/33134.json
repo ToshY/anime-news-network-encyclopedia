@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Mechanical Marie",
     "+@precision": "TV",
-    "+@generated-on": "2025-06-21T16:41:20Z",
+    "+@generated-on": "2025-07-22T16:46:09Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29719"
@@ -75,11 +75,18 @@
             "+@href": "https://mechanicalmarie-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Mechanical Marie</cite> Anime's Teaser Reveals Main Cast, Staff, Fall Debut",
-        "+@datetime": "2025-04-23T10:50:49Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-04-23/mechanical-marie-anime-teaser-reveals-main-cast-staff-fall-debut/.223829"
-    },
+    "news": [
+        {
+            "+content": "<cite>Mechanical Marie</cite> Anime's Teaser Reveals Main Cast, Staff, Fall Debut",
+            "+@datetime": "2025-04-23T10:50:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-23/mechanical-marie-anime-teaser-reveals-main-cast-staff-fall-debut/.223829"
+        },
+        {
+            "+content": "<cite>Mechanical Marie</cite> Anime Reveals Trailer, More Cast, October 2025 Premiere",
+            "+@datetime": "2025-07-05T17:59:15Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-05/mechanical-marie-anime-reveals-trailer-more-cast-october-2025-premiere/.226348"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3452375107",
@@ -132,6 +139,15 @@
     ],
     "cast": [
         {
+            "+@gid": "1193933377",
+            "+@lang": "JA",
+            "role": "Marie-2",
+            "person": {
+                "+content": "Ami Koshimizu",
+                "+@id": "17254"
+            }
+        },
+        {
             "+@gid": "2055473368",
             "+@lang": "JA",
             "role": "Marie",
@@ -147,6 +163,15 @@
             "person": {
                 "+content": "Haruki Ishiya",
                 "+@id": "124503"
+            }
+        },
+        {
+            "+@gid": "1969277738",
+            "+@lang": "JA",
+            "role": "Noah",
+            "person": {
+                "+content": "Chiaki Kobayashi",
+                "+@id": "176057"
             }
         }
     ],
@@ -169,6 +194,6 @@
         }
     ],
     "+@date-added": "2024-08-05T03:35:37Z",
-    "+@date-last-modified-at": "2025-06-21T16:41:22Z",
-    "+@date-last-updated-at": "2025-06-21T16:41:22Z"
+    "+@date-last-modified-at": "2025-07-22T16:46:12Z",
+    "+@date-last-updated-at": "2025-07-22T16:46:12Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Hell Teacher: Jigoku Sensei Nube",
     "+@precision": "TV 2025",
-    "+@generated-on": "2025-06-21T20:32:17Z",
+    "+@generated-on": "2025-07-22T16:46:10Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "4099"
@@ -15,21 +15,26 @@
     },
     "info": [
         {
-            "+@gid": "2111697436",
+            "+@gid": "1892685704",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32957-2111697436.1749290398.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32957-1892685704.1740752587.jpg",
+            "+@width": "146",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32957-2111697436.1749290398.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32957-1892685704.1740752587.jpg",
+                    "+@width": "146",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32957-2111697436.1749290398.jpg",
-                    "+@width": "423",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32957-1892685704.1740752587.jpg",
+                    "+@width": "437",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A32957-1892685704.1740752587.jpg",
+                    "+@width": "2000",
+                    "+@height": "2748"
                 }
             ]
         },
@@ -60,14 +65,24 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "\"P0WER -Akuryo Taisan-\" (P0WER -悪霊退散-) by -SKS- ZIGZAG",
+            "+content": "\"P0WER -Akuryo Taisan-\" (P0WER -悪霊退散-) by -SKS- ZIGZAG (eps 2-)",
             "+@gid": "1122296967",
             "+@type": "Opening Theme"
         },
         {
-            "+content": "\"Sunflower\" (ひまわり) by Chilli Beans.",
+            "+content": "#1: \"P0WER -Akuryo Taisan-\" (P0WER -悪霊退散-) by -SKS- ZIGZAG (ep 1)",
+            "+@gid": "3515721522",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#2: \"Sunflower\" (ひまわり) by Chilli Beans. (eps 2-)",
             "+@gid": "2669377777",
             "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Bari Bari Saikyō No. 1\" (バリバリ最強NO.1) by FEEL SO BAD (ep 1)",
+            "+@gid": "1693977698",
+            "+@type": "Insert song"
         },
         {
             "+content": "Hell Teacher: Jigoku Sensei Nube Official Website",
@@ -82,6 +97,44 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://nube-anime.com/"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "4",
+        "+@weighted_score": "5.0251"
+    },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "The 99-Legged Bug",
+                "+@gid": "1617002341",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "Rampage of the Fox Demon",
+                "+@gid": "2192696859",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "The Midnight Honor Student",
+                "+@gid": "3081786851",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "The Rokurokubi",
+                "+@gid": "1609678824",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -124,6 +177,21 @@
             "+content": "<cite>Hell Teacher: Jigoku Sensei Nube</cite> Anime Reveals Theme Songs in New Video",
             "+@datetime": "2025-06-07T09:30:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-06-07/hell-teacher-jigoku-sensei-nube-anime-reveals-theme-songs-in-new-video/.225274"
+        },
+        {
+            "+content": "<cite>Hell Teacher: Jigoku Sensei Nube</cite> Anime Reveals Streaming Platforms Outside Japan",
+            "+@datetime": "2025-06-26T09:02:13Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-26/hell-teacher-jigoku-sensei-nube-anime-reveals-streaming-platforms-outside-japan/.226039"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, June 30-July 6",
+            "+@datetime": "2025-07-12T14:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-12/japanese-animation-tv-ranking-june-30-july-6/.226546"
+        },
+        {
+            "+content": "<cite>Hell Teacher: Jigoku Sensei Nube</cite> Anime Casts Takaya Kuroda",
+            "+@datetime": "2025-07-17T12:00:50Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-17/hell-teacher-jigoku-sensei-nube-anime-casts-takaya-kuroda/.226764"
         }
     ],
     "staff": [
@@ -141,6 +209,70 @@
             "person": {
                 "+content": "Yoshiki Ōkusa",
                 "+@id": "163933"
+            }
+        },
+        {
+            "+@gid": "1106461848",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Minoru Ōhara",
+                "+@id": "11986"
+            }
+        },
+        {
+            "+@gid": "2992442491",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hirokazu Hisayuki",
+                "+@id": "14936"
+            }
+        },
+        {
+            "+@gid": "1580984308",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ai Yoshimura",
+                "+@id": "79372"
+            }
+        },
+        {
+            "+@gid": "2934099469",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yasuyuki Ōishi",
+                "+@id": "99740"
+            }
+        },
+        {
+            "+@gid": "2688317606",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yasunori Gotō",
+                "+@id": "82721"
+            }
+        },
+        {
+            "+@gid": "1308923652",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Fumito Yamada",
+                "+@id": "231625"
+            }
+        },
+        {
+            "+@gid": "1059190177",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Hirokazu Hisayuki",
+                "+@id": "14936"
+            }
+        },
+        {
+            "+@gid": "1636728856",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Ai Yoshimura",
+                "+@id": "79372"
             }
         },
         {
@@ -184,6 +316,102 @@
             }
         },
         {
+            "+@gid": "969853483",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Atsuko Takahashi",
+                "+@id": "2128"
+            }
+        },
+        {
+            "+@gid": "2667348256",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yū Yoshiyama",
+                "+@id": "115495"
+            }
+        },
+        {
+            "+@gid": "1841060984",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Atsuko Takahashi",
+                "+@id": "2128"
+            }
+        },
+        {
+            "+@gid": "3345664054",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kumiko Horikoshi",
+                "+@id": "41927"
+            }
+        },
+        {
+            "+@gid": "803084491",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shinya Kameyama",
+                "+@id": "44248"
+            }
+        },
+        {
+            "+@gid": "1411646182",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masato Nishikawa",
+                "+@id": "44511"
+            }
+        },
+        {
+            "+@gid": "2114121937",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tomoyuki Ōshita",
+                "+@id": "73636"
+            }
+        },
+        {
+            "+@gid": "488754895",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sakurako Sagano",
+                "+@id": "91662"
+            }
+        },
+        {
+            "+@gid": "2676008320",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Eriko Itō",
+                "+@id": "107432"
+            }
+        },
+        {
+            "+@gid": "1763756271",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yōsuke Murata",
+                "+@id": "119094"
+            }
+        },
+        {
+            "+@gid": "1649047008",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kenichi Kangawa",
+                "+@id": "152679"
+            }
+        },
+        {
+            "+@gid": "2014837939",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Maho Tanabe",
+                "+@id": "226838"
+            }
+        },
+        {
             "+@gid": "1636771860",
             "task": "3D Director",
             "person": {
@@ -206,6 +434,54 @@
                 "+content": "Eiko Hiramoto",
                 "+@id": "157679"
             }
+        },
+        {
+            "+@gid": "2908184226",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Makoto Ōyoshi",
+                "+@id": "256910"
+            }
+        },
+        {
+            "+@gid": "1758366831",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Takashi Hanada",
+                "+@id": "262922"
+            }
+        },
+        {
+            "+@gid": "571015784",
+            "task": "Producer",
+            "person": {
+                "+content": "Kaoru Okehara",
+                "+@id": "137110"
+            }
+        },
+        {
+            "+@gid": "1684920927",
+            "task": "Producer",
+            "person": {
+                "+content": "Hayato Kurohiji",
+                "+@id": "180822"
+            }
+        },
+        {
+            "+@gid": "695708542",
+            "task": "Producer",
+            "person": {
+                "+content": "Takuya Nagamine",
+                "+@id": "276590"
+            }
+        },
+        {
+            "+@gid": "2104536340",
+            "task": "Producer",
+            "person": {
+                "+content": "Emiko Sawai",
+                "+@id": "285840"
+            }
         }
     ],
     "cast": [
@@ -221,10 +497,28 @@
         {
             "+@gid": "1759928327",
             "+@lang": "JA",
-            "role": "Meisuke \"Nube\" Nueno",
+            "role": "Meisuke \"Nūbē\" Nueno",
             "person": {
                 "+content": "Ryōtarō Okiayu",
                 "+@id": "718"
+            }
+        },
+        {
+            "+@gid": "2165792174",
+            "+@lang": "JA",
+            "role": "Dōmori Principal",
+            "person": {
+                "+content": "Yasuhiko Kawazu",
+                "+@id": "2063"
+            }
+        },
+        {
+            "+@gid": "3031823994",
+            "+@lang": "JA",
+            "role": "Hatamonba",
+            "person": {
+                "+content": "Takaya Kuroda",
+                "+@id": "10402"
             }
         },
         {
@@ -345,15 +639,57 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2430210434",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Studio KAI",
-            "+@id": "19288"
+    "credit": [
+        {
+            "+@gid": "2430210434",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Studio KAI",
+                "+@id": "19288"
+            }
+        },
+        {
+            "+@gid": "2502277175",
+            "task": "Production",
+            "company": {
+                "+content": "Toei Animation",
+                "+@id": "145"
+            }
+        },
+        {
+            "+@gid": "2256458258",
+            "task": "Production",
+            "company": {
+                "+content": "TV Asahi",
+                "+@id": "160"
+            }
+        },
+        {
+            "+@gid": "2896660883",
+            "task": "Production",
+            "company": {
+                "+content": "Shueisha",
+                "+@id": "909"
+            }
+        },
+        {
+            "+@gid": "3081172457",
+            "task": "Production",
+            "company": {
+                "+content": "REMOW",
+                "+@id": "24816"
+            }
+        },
+        {
+            "+@gid": "3473243881",
+            "task": "Production",
+            "company": {
+                "+content": "Shueisha DeNA Projects",
+                "+@id": "26952"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-07-23T17:53:52Z",
-    "+@date-last-modified-at": "2025-06-21T20:32:18Z",
-    "+@date-last-updated-at": "2025-06-21T20:32:18Z"
+    "+@date-last-modified-at": "2025-07-22T16:46:12Z",
+    "+@date-last-updated-at": "2025-07-22T16:46:12Z"
 }
