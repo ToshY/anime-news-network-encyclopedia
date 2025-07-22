@@ -4,28 +4,28 @@
     "+@type": "TV",
     "+@name": "Dekin no Mogura: The Earthbound Mole",
     "+@precision": "TV",
-    "+@generated-on": "2025-06-21T04:39:43Z",
+    "+@generated-on": "2025-07-22T02:30:11Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29555"
     },
     "info": [
         {
-            "+@gid": "2596756454",
+            "+@gid": "2374110338",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34040-2596756454.1744972847.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34040-2374110338.1752225813.jpg",
+            "+@width": "140",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34040-2596756454.1744972847.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34040-2374110338.1752225813.jpg",
+                    "+@width": "140",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34040-2596756454.1744972847.jpg",
-                    "+@width": "425",
-                    "+@height": "600"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34040-2374110338.1752225813.jpg",
+                    "+@width": "350",
+                    "+@height": "500"
                 }
             ]
         },
@@ -48,6 +48,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "3396591437",
+            "+@type": "Genres"
+        },
+        {
             "+content": "mystery",
             "+@gid": "2836667383",
             "+@type": "Genres"
@@ -58,8 +63,28 @@
             "+@type": "Genres"
         },
         {
+            "+content": "ghosts",
+            "+@gid": "814554785",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "spirits",
+            "+@gid": "1690534915",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "4182430640",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "University students Magi and Yaeko one day witness a Kōjien dictionary falling on the head of a man and hurting him. However, despite bleeding from his head, the man expresses that he does not want them to call an ambulance or the police for him, which seems suspicious. In addition, after this encounter, both Magi and Yaeko start seeing strange things. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "3070467193",
+            "+@type": "Running time"
         },
         {
             "+content": "2025-07-07",
@@ -74,6 +99,10 @@
             "+@href": "https://dekinnomogura.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "4"
+    },
     "news": [
         {
             "+content": "<cite>Dekin no Mogura</cite> TV Anime Reveals 3 More Cast Members",
@@ -104,6 +133,21 @@
             "+content": "Crunchyroll Announces Release Schedule for Summer 2025 Season",
             "+@datetime": "2025-06-18T17:58:39Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-06-18/crunchyroll-announces-release-schedule-for-summer-2025-season/.225751"
+        },
+        {
+            "+content": "Ani-One Asia Streams <cite>Onmyō Kaiten Re:verse</cite>, <cite>Fermat Kitchen</cite>, More Anime in India",
+            "+@datetime": "2025-06-28T06:13:04Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-28/ani-one-asia-streams-onmyo-kaiten-re-verse-fermat-kitchen-more-anime-in-india/.225757"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>Detectives These Days Are Crazy!</cite>, <cite>Silent Witch</cite>, More Anime in India in Summer 2025",
+            "+@datetime": "2025-06-21T09:04:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-21/crunchyroll-streams-detectives-these-days-are-crazy-silent-witch-more-anime-in-india-in-summer-2025/.225842"
+        },
+        {
+            "+content": "Hindi Dubs of <cite>Welcome to the Outcast's Restaurant!</cite>, <cite>Dekin no Mogura</cite>, More Stream on Anime Times",
+            "+@datetime": "2025-07-13T10:57:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-13/hindi-dubs-of-welcome-to-the-outcast-restaurant-dekin-no-mogura-more-stream-on-anime-times/.226586"
         }
     ],
     "staff": [
@@ -169,6 +213,22 @@
             "person": {
                 "+content": "Kazuhiko Shibuya",
                 "+@id": "11880"
+            }
+        },
+        {
+            "+@gid": "2152008657",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takuro Shinbo",
+                "+@id": "20775"
+            }
+        },
+        {
+            "+@gid": "1241215070",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yukiko Sekita",
+                "+@id": "205606"
             }
         },
         {
@@ -271,15 +331,73 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "1800048665",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Brain's Base",
-            "+@id": "1396"
+    "credit": [
+        {
+            "+@gid": "1800048665",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Brain's Base",
+                "+@id": "1396"
+            }
+        },
+        {
+            "+@gid": "623269556",
+            "task": "Production",
+            "company": {
+                "+content": "Kodansha",
+                "+@id": "88"
+            }
+        },
+        {
+            "+@gid": "1925392262",
+            "task": "Production",
+            "company": {
+                "+content": "Crunchyroll",
+                "+@id": "7606"
+            }
+        },
+        {
+            "+@gid": "2398421183",
+            "task": "Production",
+            "company": {
+                "+content": "A-Sketch",
+                "+@id": "12609"
+            }
+        },
+        {
+            "+@gid": "2708493067",
+            "task": "Production",
+            "company": {
+                "+content": "Avex Pictures",
+                "+@id": "13014"
+            }
+        },
+        {
+            "+@gid": "2773080825",
+            "task": "Production",
+            "company": {
+                "+content": "Tokyo MX",
+                "+@id": "13028"
+            }
+        },
+        {
+            "+@gid": "2104970481",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon BS Broadcasting Corporation",
+                "+@id": "15105"
+            }
+        },
+        {
+            "+@gid": "2516649776",
+            "task": "Production",
+            "company": {
+                "+content": "arma bianca",
+                "+@id": "21292"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-11-18T04:54:24Z",
-    "+@date-last-modified-at": "2025-06-21T04:39:44Z",
-    "+@date-last-updated-at": "2025-06-21T04:39:44Z"
+    "+@date-last-modified-at": "2025-07-22T02:30:13Z",
+    "+@date-last-updated-at": "2025-07-22T02:30:13Z"
 }
