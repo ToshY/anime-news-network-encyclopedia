@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Dangers in My Heart",
     "+@precision": "movie",
-    "+@generated-on": "2025-06-21T12:56:08Z",
+    "+@generated-on": "2025-07-22T04:53:05Z",
     "related-prev": [
         {
             "+@rel": "compilation of",
@@ -19,24 +19,24 @@
         {
             "+@gid": "3692555782",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33630-3692555782.1727603776.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33630-3692555782.1751340657.jpg",
+            "+@width": "150",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33630-3692555782.1727603776.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33630-3692555782.1751340657.jpg",
+                    "+@width": "150",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33630-3692555782.1727603776.jpg",
-                    "+@width": "423",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33630-3692555782.1751340657.jpg",
+                    "+@width": "450",
                     "+@height": "600"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A33630-3692555782.1727603776.jpg",
-                    "+@width": "700",
-                    "+@height": "992"
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A33630-3692555782.1751340657.jpg",
+                    "+@width": "1536",
+                    "+@height": "2048"
                 }
             ]
         },
@@ -74,25 +74,65 @@
             "+@type": "Genres"
         },
         {
-            "+content": "TVアニメ「僕の心のヤバイやつ」公式サイト",
+            "+content": "2026-02-13",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2026-02-13 (Japan)",
+            "+@gid": "2167149689",
+            "+@type": "Premiere date"
+        },
+        {
+            "+content": "劇場版「僕の心のヤバイやつ」公式サイト",
             "+@gid": "2254161204",
             "+@type": "Official website",
             "+@lang": "JA",
-            "+@href": "https://bokuyaba-anime.com/"
+            "+@href": "https://bokuyaba-anime-movie.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>The Dangers in My Heart</cite> TV Anime Gets Compilation Film With Some New Footage",
-        "+@datetime": "2024-09-29T10:32:57Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-09-29/the-dangers-in-my-heart-tv-anime-gets-compilation-film-with-some-new-footage/.216141"
-    },
+    "news": [
+        {
+            "+content": "<cite>The Dangers in My Heart</cite> TV Anime Gets Compilation Film With Some New Footage",
+            "+@datetime": "2024-09-29T10:32:57Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-09-29/the-dangers-in-my-heart-tv-anime-gets-compilation-film-with-some-new-footage/.216141"
+        },
+        {
+            "+content": "<cite>The Dangers in My Heart</cite> Compilation Film's Teaser Reveals February 2026 Opening",
+            "+@datetime": "2025-07-01T03:02:54Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-30/the-dangers-in-my-heart-compilation-film-teaser-reveals-february-2026-opening/.226177"
+        }
+    ],
     "staff": [
         {
-            "+@gid": "2766037954",
-            "task": "Director",
+            "+@gid": "1365955948",
+            "task": "Chief Director",
             "person": {
                 "+content": "Hiroaki Akagi",
                 "+@id": "21675"
+            }
+        },
+        {
+            "+@gid": "1717668459",
+            "task": "Director",
+            "person": {
+                "+content": "Da Li Chen",
+                "+@id": "130392"
+            }
+        },
+        {
+            "+@gid": "1864551073",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Jukki Hanada",
+                "+@id": "16408"
+            }
+        },
+        {
+            "+@gid": "2411198349",
+            "task": "Music",
+            "person": {
+                "+content": "kensuke ushio",
+                "+@id": "125625"
             }
         },
         {
@@ -101,6 +141,46 @@
             "person": {
                 "+content": "Norio Sakurai",
                 "+@id": "74049"
+            }
+        },
+        {
+            "+@gid": "2227856743",
+            "task": "Character Design",
+            "person": {
+                "+content": "Masato Katsumata",
+                "+@id": "155694"
+            }
+        },
+        {
+            "+@gid": "3081046064",
+            "task": "Art Director",
+            "person": {
+                "+content": "Masaki Mayuzumi",
+                "+@id": "41529"
+            }
+        },
+        {
+            "+@gid": "3888960772",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Noriyoshi Konuma",
+                "+@id": "84893"
+            }
+        },
+        {
+            "+@gid": "2799867771",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Kentarō Minegishi",
+                "+@id": "85411"
+            }
+        },
+        {
+            "+@gid": "3539837828",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yūichi Takezawa",
+                "+@id": "98537"
             }
         },
         {
@@ -140,7 +220,15 @@
             }
         }
     ],
+    "credit": {
+        "+@gid": "2496438562",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Shin-Ei Animation",
+            "+@id": "2019"
+        }
+    },
     "+@date-added": "2024-09-29T05:54:28Z",
-    "+@date-last-modified-at": "2025-06-21T12:56:10Z",
-    "+@date-last-updated-at": "2025-06-21T12:56:10Z"
+    "+@date-last-modified-at": "2025-07-22T04:53:07Z",
+    "+@date-last-updated-at": "2025-07-22T04:53:07Z"
 }
