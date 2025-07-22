@@ -4,12 +4,31 @@
     "+@type": "OAV",
     "+@name": "Kaiju No. 8: Hoshina's Day Off",
     "+@precision": "OAV",
-    "+@generated-on": "2025-06-21T16:41:20Z",
+    "+@generated-on": "2025-07-22T08:45:57Z",
     "related-prev": {
         "+@rel": "side story of",
         "+@id": "26176"
     },
     "info": [
+        {
+            "+@gid": "1844090435",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33144-1844090435.1752223012.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33144-1844090435.1752223012.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33144-1844090435.1752223012.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Kaiju No. 8: Hoshina's Day Off",
             "+@gid": "3889813720",
@@ -29,6 +48,16 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "963179461",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "slice of life",
+            "+@gid": "1330089545",
+            "+@type": "Genres"
+        },
+        {
             "+content": "2025-03-28 (theatrical screening)",
             "+@gid": "2094658278",
             "+@type": "Vintage"
@@ -42,8 +71,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "8"
+        "+@nb_votes": "13",
+        "+@weighted_score": "6.3025",
+        "+@bayesian_score": "6.88855"
     },
     "news": [
         {
@@ -78,15 +108,31 @@
             "+@gid": "3105851907",
             "task": "Script",
             "person": {
-                "+content": "Yuichiro Kido",
+                "+content": "Yūichirō Kido",
                 "+@id": "135888"
+            }
+        },
+        {
+            "+@gid": "1051308271",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Naoki Arakawa",
+                "+@id": "52053"
+            }
+        },
+        {
+            "+@gid": "1774805757",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shintaro Itoga",
+                "+@id": "11610"
             }
         },
         {
             "+@gid": "2395709720",
             "task": "Music",
             "person": {
-                "+content": "Yuta Bando",
+                "+content": "Yūta Bandō",
                 "+@id": "197080"
             }
         },
@@ -128,6 +174,70 @@
             "person": {
                 "+content": "Tetsuya Nishio",
                 "+@id": "420"
+            }
+        },
+        {
+            "+@gid": "2162907927",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tetsuya Nishio",
+                "+@id": "420"
+            }
+        },
+        {
+            "+@gid": "1627618487",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Satoru Nakamura",
+                "+@id": "8221"
+            }
+        },
+        {
+            "+@gid": "1610148133",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kyōko Kotani",
+                "+@id": "40347"
+            }
+        },
+        {
+            "+@gid": "1530796671",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Saki Hasegawa",
+                "+@id": "95226"
+            }
+        },
+        {
+            "+@gid": "2296040341",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tomoko Kitagawa",
+                "+@id": "140317"
+            }
+        },
+        {
+            "+@gid": "2648986879",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zearth Sato",
+                "+@id": "168777"
+            }
+        },
+        {
+            "+@gid": "3029445767",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Xuan Zhou",
+                "+@id": "188680"
+            }
+        },
+        {
+            "+@gid": "1751503761",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hangcen Jiang",
+                "+@id": "242466"
             }
         },
         {
@@ -256,12 +366,111 @@
             }
         },
         {
+            "+@gid": "2168510671",
+            "+@lang": "JA",
+            "role": "Curator",
+            "person": {
+                "+content": "Mitsuru Ogata",
+                "+@id": "3253"
+            }
+        },
+        {
+            "+@gid": "3198311853",
+            "+@lang": "JA",
+            "role": "Vice-Curator",
+            "person": {
+                "+content": "Shinya Fukumatsu",
+                "+@id": "52179"
+            }
+        },
+        {
             "+@gid": "2037548765",
             "+@lang": "JA",
             "role": "Sōshirō Hoshina",
             "person": {
                 "+content": "Kengo Kawanishi",
                 "+@id": "64695"
+            }
+        },
+        {
+            "+@gid": "2033344838",
+            "+@lang": "JA",
+            "role": "Haruichi Izumo",
+            "person": {
+                "+content": "Keisuke Kōmoto",
+                "+@id": "72017"
+            }
+        },
+        {
+            "+@gid": "2329269432",
+            "+@lang": "JA",
+            "role": "Mina Ashiro",
+            "person": {
+                "+content": "Asami Seto",
+                "+@id": "95225"
+            }
+        },
+        {
+            "+@gid": "3520216624",
+            "+@lang": "JA",
+            "role": "Aoi Kaguragi",
+            "person": {
+                "+content": "Shunsuke Takeuchi",
+                "+@id": "132044"
+            }
+        },
+        {
+            "+@gid": "2107005593",
+            "+@lang": "JA",
+            "role": "Iharu Furuhashi",
+            "person": {
+                "+content": "Yūki Shin",
+                "+@id": "150451"
+            }
+        },
+        {
+            "+@gid": "1490746677",
+            "+@lang": "JA",
+            "role": "Reno Ichikawa",
+            "person": {
+                "+content": "Wataru Katō",
+                "+@id": "151799"
+            }
+        },
+        {
+            "+@gid": "882154279",
+            "+@lang": "JA",
+            "role": "Akari Minase",
+            "person": {
+                "+content": "Nene Hieda",
+                "+@id": "167202"
+            }
+        },
+        {
+            "+@gid": "3155470556",
+            "+@lang": "JA",
+            "role": "Kafka Hibino",
+            "person": {
+                "+content": "Masaya Fukunishi",
+                "+@id": "168276"
+            }
+        },
+        {
+            "+@gid": "2262099081",
+            "+@lang": "JA",
+            "role": "Hakua Igarashi",
+            "person": {
+                "+content": "Mayuko Kazama",
+                "+@id": "195565"
+            }
+        },
+        {
+            "+@gid": "1508069374",
+            "+@lang": "JA",
+            "role": "Kikoru Shinomiya",
+            "person": {
+                "+content": "Fairouz Ai",
+                "+@id": "215531"
             }
         }
     ],
@@ -274,6 +483,6 @@
         }
     },
     "+@date-added": "2024-08-05T23:11:59Z",
-    "+@date-last-modified-at": "2025-06-21T16:41:22Z",
-    "+@date-last-updated-at": "2025-06-21T16:41:22Z"
+    "+@date-last-modified-at": "2025-07-22T08:45:58Z",
+    "+@date-last-updated-at": "2025-07-22T08:45:58Z"
 }

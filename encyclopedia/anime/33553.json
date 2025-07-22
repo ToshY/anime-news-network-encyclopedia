@@ -1,29 +1,18 @@
 {
     "+@id": "33553",
     "+@gid": "1657236289",
-    "+@type": "TV",
+    "+@type": "movie",
     "+@name": "Virgin Punk",
-    "+@precision": "TV",
-    "+@generated-on": "2025-06-21T12:56:09Z",
+    "+@precision": "movies",
+    "+@generated-on": "2025-07-22T08:45:55Z",
     "info": [
         {
             "+@gid": "1688343640",
             "+@type": "Picture",
             "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33553-1688343640.1742633612.jpg",
-            "+@width": "142",
-            "+@height": "200",
-            "img": [
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33553-1688343640.1742633612.jpg",
-                    "+@width": "142",
-                    "+@height": "200"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33553-1688343640.1742633612.jpg",
-                    "+@width": "425",
-                    "+@height": "600"
-                }
-            ]
+            "img": {
+                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33553-1688343640.1742633612.jpg"
+            }
         },
         {
             "+content": "Virgin Punk",
@@ -60,6 +49,10 @@
             "+@href": "https://virgin-punk.com/"
         }
     ],
+    "review": {
+        "+content": "<cite>Virgin Punk: Clockwork Girl</cite> Anime Film Review",
+        "+@href": "https://www.animenewsnetwork.com/review/virgin-punk/clockwork-girl/anime-film/.226215"
+    },
     "news": [
         {
             "+content": "Aniplex Unveils <cite>Virgin Punk</cite> Original Animation Series by Director Yasuomi Umetsu, Studio Shaft",
@@ -70,6 +63,21 @@
             "+content": "Yasuomi Umetsu, Shaft's <cite>Virgin Punk</cite> Original Anime Reveals Cast for 1st Story",
             "+@datetime": "2025-03-22T00:42:55Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-21/yasuomi-umetsu-shaft-virgin-punk-original-anime-reveals-cast-for-1st-story/.222675"
+        },
+        {
+            "+content": "2025 <cite>Anpanman</cite> Film Opens at #8 at Japanese Box Office",
+            "+@datetime": "2025-07-07T07:07:35Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-07/2025-anpanman-film-opens-at-no.8-at-japanese-box-office/.226203"
+        },
+        {
+            "+content": "Aniplex USA to Release 'Clockwork Girl' Episode of <cite>Virgin Punk</cite> Original Anime Theatrically",
+            "+@datetime": "2025-07-04T01:07:01Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-03/aniplex-usa-to-release-clockwork-girl-episode-of-virgin-punk-original-anime-theatrically/.226281"
+        },
+        {
+            "+content": "Live-Action <cite>Baban Baban Ban Vampire</cite> Film Opens at #5",
+            "+@datetime": "2025-07-10T07:35:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-10/live-action-baban-baban-ban-vampire-film-opens-at-no.5/.226498"
         }
     ],
     "staff": [
@@ -95,6 +103,22 @@
             "person": {
                 "+content": "Yūya Takahashi",
                 "+@id": "166892"
+            }
+        },
+        {
+            "+@gid": "3697218347",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yasuomi Umetsu",
+                "+@id": "3145"
+            }
+        },
+        {
+            "+@gid": "1279748543",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Yasuomi Umetsu",
+                "+@id": "3145"
             }
         },
         {
@@ -135,6 +159,14 @@
             "person": {
                 "+content": "Yuki Funagakure",
                 "+@id": "202687"
+            }
+        },
+        {
+            "+@gid": "1756803915",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yasuomi Umetsu",
+                "+@id": "3145"
             }
         },
         {
@@ -254,6 +286,6 @@
         }
     ],
     "+@date-added": "2024-09-16T06:35:23Z",
-    "+@date-last-modified-at": "2025-06-21T12:56:10Z",
-    "+@date-last-updated-at": "2025-06-21T12:56:10Z"
+    "+@date-last-modified-at": "2025-07-22T08:45:58Z",
+    "+@date-last-updated-at": "2025-07-22T08:45:58Z"
 }

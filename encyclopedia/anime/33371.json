@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Uma Musume: Cinderella Gray",
     "+@precision": "TV",
-    "+@generated-on": "2025-06-21T16:41:18Z",
+    "+@generated-on": "2025-07-22T08:45:56Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27647"
+    },
+    "related-next": {
+        "+@id": "36789",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -47,6 +51,31 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "2955716066",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "tournament",
+            "+@gid": "1930579499",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "idols",
+            "+@gid": "3224453227",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "racing",
+            "+@gid": "1766585972",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "school",
+            "+@gid": "2552608401",
+            "+@type": "Themes"
+        },
+        {
             "+content": "Kasamatsu Training Center Academy is located in a deserted area. One Uma Musume appears there. Her name is Oguri Cap. Her overwhelming running style overturns all common sense. Soon, the ash-covered girl known as a \"monster\" will carve out a new legend.",
             "+@gid": "983845772",
             "+@type": "Plot Summary"
@@ -65,8 +94,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "2"
+        "+@nb_votes": "14",
+        "+@weighted_score": "8.2502",
+        "+@bayesian_score": "7.87676"
     },
     "news": [
         {
@@ -204,6 +234,14 @@
             }
         },
         {
+            "+@gid": "1990976497",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takudai Kakuchi",
+                "+@id": "215498"
+            }
+        },
+        {
             "+@gid": "1290513450",
             "task": "Storyboard",
             "person": {
@@ -217,6 +255,14 @@
             "person": {
                 "+content": "Takehiro Miura",
                 "+@id": "29860"
+            }
+        },
+        {
+            "+@gid": "2118828288",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Daisuke Tsukushi",
+                "+@id": "39253"
             }
         },
         {
@@ -276,6 +322,14 @@
             }
         },
         {
+            "+@gid": "1628367754",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Nao Enomoto",
+                "+@id": "150482"
+            }
+        },
+        {
             "+@gid": "3572589564",
             "task": "Episode Director",
             "person": {
@@ -305,6 +359,14 @@
             "person": {
                 "+content": "Yorihiro Tanimoto",
                 "+@id": "190997"
+            }
+        },
+        {
+            "+@gid": "2456609753",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takudai Kakuchi",
+                "+@id": "215498"
             }
         },
         {
@@ -412,11 +474,43 @@
             }
         },
         {
+            "+@gid": "1716100470",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Sayuri Sakimoto",
+                "+@id": "112337"
+            }
+        },
+        {
             "+@gid": "3670542939",
             "task": "Chief Animation Director",
             "person": {
                 "+content": "Yōsuke Fukumoto",
                 "+@id": "156942"
+            }
+        },
+        {
+            "+@gid": "1852533803",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Akira Takata",
+                "+@id": "8052"
+            }
+        },
+        {
+            "+@gid": "528516503",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiromi Okazaki",
+                "+@id": "11830"
+            }
+        },
+        {
+            "+@gid": "1935240188",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mariko Aoki",
+                "+@id": "18289"
             }
         },
         {
@@ -433,6 +527,14 @@
             "person": {
                 "+content": "Atsushi Komori",
                 "+@id": "38844"
+            }
+        },
+        {
+            "+@gid": "3202897553",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Asuka Shimizu",
+                "+@id": "41550"
             }
         },
         {
@@ -460,6 +562,14 @@
             }
         },
         {
+            "+@gid": "948163259",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kengo Matsumoto",
+                "+@id": "57864"
+            }
+        },
+        {
             "+@gid": "1464852347",
             "task": "Animation Director",
             "person": {
@@ -481,6 +591,14 @@
             "person": {
                 "+content": "Satoshi Ichinokawa",
                 "+@id": "77141"
+            }
+        },
+        {
+            "+@gid": "1695739644",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tomoki Kōda",
+                "+@id": "77772"
             }
         },
         {
@@ -524,6 +642,14 @@
             }
         },
         {
+            "+@gid": "1596887313",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nanako Ninomiya",
+                "+@id": "101417"
+            }
+        },
+        {
             "+@gid": "2300057559",
             "task": "Animation Director",
             "person": {
@@ -561,6 +687,14 @@
             "person": {
                 "+content": "Daiki Watanabe",
                 "+@id": "132659"
+            }
+        },
+        {
+            "+@gid": "2050431888",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Asuka Hayashi",
+                "+@id": "133798"
             }
         },
         {
@@ -628,11 +762,43 @@
             }
         },
         {
+            "+@gid": "2749231513",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wen Sheng Li",
+                "+@id": "204225"
+            }
+        },
+        {
             "+@gid": "1437951547",
             "task": "Animation Director",
             "person": {
                 "+content": "Guang Ming",
                 "+@id": "208692"
+            }
+        },
+        {
+            "+@gid": "2457349005",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Guang Long",
+                "+@id": "209975"
+            }
+        },
+        {
+            "+@gid": "2821494986",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tsukasa Izumisaka",
+                "+@id": "216890"
+            }
+        },
+        {
+            "+@gid": "2294232273",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kozue",
+                "+@id": "221248"
             }
         },
         {
@@ -668,6 +834,14 @@
             }
         },
         {
+            "+@gid": "1633835800",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yōko Nozawa",
+                "+@id": "246025"
+            }
+        },
+        {
             "+@gid": "3483479012",
             "task": "Animation Director",
             "person": {
@@ -681,6 +855,14 @@
             "person": {
                 "+content": "Sayo Kunou",
                 "+@id": "270943"
+            }
+        },
+        {
+            "+@gid": "3007936776",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yun Hsin Chang",
+                "+@id": "272683"
             }
         },
         {
@@ -724,6 +906,14 @@
             }
         },
         {
+            "+@gid": "2340121213",
+            "task": "Animation Director",
+            "person": {
+                "+content": "MeNex00",
+                "+@id": "284691"
+            }
+        },
+        {
             "+@gid": "2938931871",
             "task": "3D Director",
             "person": {
@@ -740,11 +930,27 @@
             }
         },
         {
+            "+@gid": "2083826981",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Masaharu Okazaki",
+                "+@id": "85175"
+            }
+        },
+        {
             "+@gid": "3397564008",
             "task": "Director of Photography",
             "person": {
                 "+content": "Akane Fushihara",
                 "+@id": "107551"
+            }
+        },
+        {
+            "+@gid": "1947563464",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Ting Zhen Xu",
+                "+@id": "206038"
             }
         },
         {
@@ -808,6 +1014,15 @@
             }
         },
         {
+            "+@gid": "3345648375",
+            "+@lang": "JA",
+            "role": "Katsumi Komiyama",
+            "person": {
+                "+content": "Ryōko Shiraishi",
+                "+@id": "16480"
+            }
+        },
+        {
             "+@gid": "1792626423",
             "+@lang": "JA",
             "role": "Hiyori Kawamura",
@@ -841,6 +1056,24 @@
             "person": {
                 "+content": "Shiori Izawa",
                 "+@id": "74850"
+            }
+        },
+        {
+            "+@gid": "712297008",
+            "+@lang": "JA",
+            "role": "Lord Royal",
+            "person": {
+                "+content": "Hibiku Yamamura",
+                "+@id": "81692"
+            }
+        },
+        {
+            "+@gid": "2509245823",
+            "+@lang": "JA",
+            "role": "Dynam Heroine",
+            "person": {
+                "+content": "Rumi Ōkubo",
+                "+@id": "88587"
             }
         },
         {
@@ -961,6 +1194,15 @@
             }
         },
         {
+            "+@gid": "1822990194",
+            "+@lang": "JA",
+            "role": "Sirius Symboli",
+            "person": {
+                "+content": "Fairouz Ai",
+                "+@id": "215531"
+            }
+        },
+        {
             "+@gid": "1587969702",
             "+@lang": "JA",
             "role": "Yaeno Muteki",
@@ -997,6 +1239,6 @@
         }
     },
     "+@date-added": "2024-08-24T07:32:46Z",
-    "+@date-last-modified-at": "2025-06-21T16:41:22Z",
-    "+@date-last-updated-at": "2025-06-21T16:41:22Z"
+    "+@date-last-modified-at": "2025-07-22T08:45:58Z",
+    "+@date-last-updated-at": "2025-07-22T08:45:58Z"
 }
