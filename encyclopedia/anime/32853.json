@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Summer Pockets",
     "+@precision": "TV",
-    "+@generated-on": "2025-06-22T02:31:01Z",
+    "+@generated-on": "2025-07-22T20:37:55Z",
     "related-next": [
         {
             "+@id": "35565",
@@ -13,6 +13,10 @@
         {
             "+@id": "35566",
             "+@rel": "adaptation"
+        },
+        {
+            "+@id": "36787",
+            "+@rel": "compilation"
         }
     ],
     "info": [
@@ -81,8 +85,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "5.5257"
+        "+@nb_votes": "5",
+        "+@weighted_score": "6.3412"
     },
     "news": [
         {
@@ -149,6 +153,16 @@
             "+content": "Crunchyroll Announces Release Schedule for Summer 2025 Season",
             "+@datetime": "2025-06-18T17:58:39Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-06-18/crunchyroll-announces-release-schedule-for-summer-2025-season/.225751"
+        },
+        {
+            "+content": "<cite>Summer Pockets</cite> TV Anime Gets Compilation Film on August 15",
+            "+@datetime": "2025-06-29T00:44:28Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-28/summer-pockets-tv-anime-gets-compilation-film-on-august-15/.226118"
+        },
+        {
+            "+content": "<cite>Summer Pockets</cite> TV Anime Unveils 6th Video, Visual Featuring Shiroha Naruse",
+            "+@datetime": "2025-07-14T10:33:04Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-14/summer-pockets-tv-anime-unveils-6th-video-visual-featuring-shiroha-naruse/.226620"
         }
     ],
     "staff": [
@@ -174,6 +188,14 @@
             "person": {
                 "+content": "Yasunori Yamada",
                 "+@id": "4375"
+            }
+        },
+        {
+            "+@gid": "450352956",
+            "task": "Script",
+            "person": {
+                "+content": "Takashi Aoshima",
+                "+@id": "25380"
             }
         },
         {
@@ -225,6 +247,14 @@
             }
         },
         {
+            "+@gid": "3248906923",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Keiichiro Kawaguchi",
+                "+@id": "39496"
+            }
+        },
+        {
             "+@gid": "1716538856",
             "task": "Storyboard",
             "person": {
@@ -238,6 +268,14 @@
             "person": {
                 "+content": "Yoshihiro Hiramine",
                 "+@id": "79306"
+            }
+        },
+        {
+            "+@gid": "3574206989",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kaori",
+                "+@id": "119239"
             }
         },
         {
@@ -457,6 +495,14 @@
             }
         },
         {
+            "+@gid": "2338489343",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Motoaki Satō",
+                "+@id": "52460"
+            }
+        },
+        {
             "+@gid": "3582102881",
             "task": "Chief Animation Director",
             "person": {
@@ -478,6 +524,14 @@
             "person": {
                 "+content": "Saki Yanagawa",
                 "+@id": "146976"
+            }
+        },
+        {
+            "+@gid": "2975752044",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Atsushi Yamamoto",
+                "+@id": "13584"
             }
         },
         {
@@ -537,11 +591,35 @@
             }
         },
         {
+            "+@gid": "1422661495",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Aki Yamauchi",
+                "+@id": "55763"
+            }
+        },
+        {
             "+@gid": "1837061843",
             "task": "Animation Director",
             "person": {
                 "+content": "Yoshihiro Maeda",
                 "+@id": "58562"
+            }
+        },
+        {
+            "+@gid": "1397580049",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kenrō Tokuda",
+                "+@id": "78733"
+            }
+        },
+        {
+            "+@gid": "2726911548",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Saori Tagashira",
+                "+@id": "79304"
             }
         },
         {
@@ -617,11 +695,43 @@
             }
         },
         {
+            "+@gid": "3332725483",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Futafusa",
+                "+@id": "180981"
+            }
+        },
+        {
+            "+@gid": "1848140101",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zeng Yao Ye",
+                "+@id": "188683"
+            }
+        },
+        {
+            "+@gid": "1719075951",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nanase Katagiri",
+                "+@id": "188959"
+            }
+        },
+        {
             "+@gid": "1179241686",
             "task": "Animation Director",
             "person": {
                 "+content": "Jia Hui Chen",
                 "+@id": "196600"
+            }
+        },
+        {
+            "+@gid": "1807405284",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Bo Yuan Chen",
+                "+@id": "199389"
             }
         },
         {
@@ -649,6 +759,14 @@
             }
         },
         {
+            "+@gid": "2993102212",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Xuan Ran Fan",
+                "+@id": "214371"
+            }
+        },
+        {
             "+@gid": "3371034576",
             "task": "Animation Director",
             "person": {
@@ -673,6 +791,14 @@
             }
         },
         {
+            "+@gid": "2092077453",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Momoyo",
+                "+@id": "241522"
+            }
+        },
+        {
             "+@gid": "909111588",
             "task": "Animation Director",
             "person": {
@@ -686,6 +812,22 @@
             "person": {
                 "+content": "Ryōsuke Tanigawa",
                 "+@id": "263651"
+            }
+        },
+        {
+            "+@gid": "194565593",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ria Caluya",
+                "+@id": "267752"
+            }
+        },
+        {
+            "+@gid": "793680057",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jeorgie Balance",
+                "+@id": "267754"
             }
         },
         {
@@ -987,6 +1129,6 @@
         }
     ],
     "+@date-added": "2024-06-29T02:56:43Z",
-    "+@date-last-modified-at": "2025-06-22T02:31:07Z",
-    "+@date-last-updated-at": "2025-06-22T02:31:07Z"
+    "+@date-last-modified-at": "2025-07-22T20:37:58Z",
+    "+@date-last-updated-at": "2025-07-22T20:37:58Z"
 }

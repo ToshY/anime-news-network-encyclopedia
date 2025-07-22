@@ -2,9 +2,9 @@
     "+@id": "32821",
     "+@gid": "1146226738",
     "+@type": "TV",
-    "+@name": "Tokyo Revengers: Santen Sensō-hen",
+    "+@name": "Tokyo Revengers: War of the Three Titans Arc",
     "+@precision": "TV",
-    "+@generated-on": "2025-06-22T02:31:03Z",
+    "+@generated-on": "2025-07-22T20:37:56Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "27739"
@@ -30,9 +30,15 @@
             ]
         },
         {
+            "+content": "Tokyo Revengers: War of the Three Titans Arc",
+            "+@gid": "2565653627",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Tokyo Revengers: Santen Sensō-hen",
             "+@gid": "1153980449",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "EN"
         },
         {
@@ -42,6 +48,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "2026",
+            "+@gid": "2081448651",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ『東京リベンジャーズ』公式サイト",
             "+@gid": "1877860102",
             "+@type": "Official website",
@@ -49,15 +60,18 @@
             "+@href": "https://tokyo-revengers-anime.com/"
         }
     ],
-    "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "10"
-    },
-    "news": {
-        "+content": "<cite>Tokyo Revengers</cite> Anime Reveals New Arc's  <cite>Santen Sensō-hen</cite> Title, Staff, Visual",
-        "+@datetime": "2025-03-22T02:42:05Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-03-21/tokyo-revengers-anime-reveals-new-arc-santen-senso-hen-title-staff-visual/.222685"
-    },
+    "news": [
+        {
+            "+content": "<cite>Tokyo Revengers</cite> Anime Reveals New Arc's  <cite>Santen Sensō-hen</cite> Title, Staff, Visual",
+            "+@datetime": "2025-03-22T02:42:05Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-21/tokyo-revengers-anime-reveals-new-arc-santen-senso-hen-title-staff-visual/.222685"
+        },
+        {
+            "+content": "<cite>Tokyo Revengers: War of the Three Titans Arc's</cite> 1st Trailer Unveils More Cast, 2026 Debut",
+            "+@datetime": "2025-06-22T11:15:19Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-22/tokyo-revengers-war-of-the-three-titans-arc-1st-trailer-unveils-more-cast-2026-debut/.225886"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1240942191",
@@ -192,6 +206,15 @@
             "person": {
                 "+content": "Yuu Hayashi",
                 "+@id": "30876"
+            }
+        },
+        {
+            "+@gid": "1964940972",
+            "+@lang": "JA",
+            "role": "Senju Kawaragi",
+            "person": {
+                "+content": "Mariya Ise",
+                "+@id": "46112"
             }
         },
         {
@@ -384,6 +407,6 @@
         }
     },
     "+@date-added": "2024-06-16T20:19:03Z",
-    "+@date-last-modified-at": "2025-06-22T02:31:07Z",
-    "+@date-last-updated-at": "2025-06-22T02:31:07Z"
+    "+@date-last-modified-at": "2025-07-22T20:37:58Z",
+    "+@date-last-updated-at": "2025-07-22T20:37:58Z"
 }

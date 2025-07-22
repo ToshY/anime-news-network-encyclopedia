@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Princession Orchestra",
     "+@precision": "TV",
-    "+@generated-on": "2025-06-22T02:31:04Z",
+    "+@generated-on": "2025-07-22T20:37:56Z",
     "info": [
         {
             "+@gid": "2141343868",
@@ -68,7 +68,7 @@
             "+@type": "Opening Theme"
         },
         {
-            "+content": "#1: \"Kimi to Tsunagu Orchestra\" (君とつなぐオーケストラ) by Orcheria (eps 2-4, 6-)",
+            "+content": "#1: \"Kimi to Tsunagu Orchestra\" (君とつなぐオーケストラ) by Orcheria (eps 2-4, 6-12,14-)",
             "+@gid": "664023730",
             "+@type": "Ending Theme"
         },
@@ -78,12 +78,22 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "\"Gekkou It's ME!\" (激光 It's ME!) by Princess Meteor (CV: Azusa Tachibana) (eps 5-6,10-11)",
+            "+content": "#3: \"Shimei wa Akaki Serenade\" (使命は赤きセレナーデ) by Band Snatch (ep 13)",
+            "+@gid": "1964753806",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Escort Diamond\" (エスコートダイヤモンド) by Calist (CV: Chiaki Kobayashi) (ep 13)",
+            "+@gid": "2186314660",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Gekkou It's ME!\" (激光 It's ME!) by Princess Meteor (CV: Azusa Tachibana) (eps 5-6,10-12,14)",
             "+@gid": "2074172529",
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Innocent Call\" (イノセントコール) by Princess Ripple (CV: Azusa Aoi) (eps 2-5,7)",
+            "+content": "\"Innocent Call\" (イノセントコール) by Princess Ripple (CV: Azusa Aoi) (eps 2-5,7,12,14)",
             "+@gid": "2936477801",
             "+@type": "Insert song"
         },
@@ -93,12 +103,12 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"OVER THE BLAZE\" by Princess Zeal (CV: Yuri Fujimoto) (eps 1-3,5,7,10)",
+            "+content": "\"OVER THE BLAZE\" by Princess Zeal (CV: Yuri Fujimoto) (eps 1-3,5,7,10,12,15)",
             "+@gid": "448906289",
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Shimei wa Akaki Serenade -Ver.First Blood-\" (使命は赤きセレナーデ -Ver.First Blood-) by Callisto (CV: Chiaki Kobayashi) (ep 12)",
+            "+content": "\"Shimei wa Akaki Serenade -Ver.First Blood-\" (使命は赤きセレナーデ -Ver.First Blood-) by Calist (CV: Chiaki Kobayashi) (ep 12)",
             "+@gid": "1294007589",
             "+@type": "Insert song"
         },
@@ -120,6 +130,10 @@
             "+@href": "https://princess-session.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "8"
+    },
     "news": [
         {
             "+content": "<cite>Princession Orchestra</cite> Original Anime Announced for 2025",
@@ -160,6 +174,11 @@
             "+content": "<cite>Princession Orchestra</cite> Anime's Video Reveals More Cast",
             "+@datetime": "2025-03-22T03:29:06Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-21/princession-orchestra-anime-video-reveals-more-cast/.222690"
+        },
+        {
+            "+content": "<cite>Princession Orchestra</cite> Anime Briefly Streams 1st 2 Episodes With English Subtitles (Updated)",
+            "+@datetime": "2025-07-05T04:57:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-05/princession-orchestra-anime-briefly-streams-1st-2-episodes-with-english-subtitles/.226326"
         }
     ],
     "staff": [
@@ -472,6 +491,24 @@
             }
         },
         {
+            "+@gid": "2367535132",
+            "+@lang": "JA",
+            "role": "Kagari Shirube/Princess Zeal",
+            "person": {
+                "+content": "Yuri Fujimoto",
+                "+@id": "3556"
+            }
+        },
+        {
+            "+@gid": "1456573624",
+            "+@lang": "JA",
+            "role": "Nabiyu",
+            "person": {
+                "+content": "Hiro Shimono",
+                "+@id": "7636"
+            }
+        },
+        {
             "+@gid": "3085033194",
             "+@lang": "JA",
             "role": "Naville",
@@ -517,21 +554,39 @@
             }
         },
         {
+            "+@gid": "810923206",
+            "+@lang": "JA",
+            "role": "Saki Somoto",
+            "person": {
+                "+content": "Misaki Kuno",
+                "+@id": "85915"
+            }
+        },
+        {
             "+@gid": "1726867219",
             "+@lang": "JA",
             "role": "Himura Mikan",
             "person": {
-                "+content": "Rumi Okubo",
+                "+content": "Rumi Ōkubo",
                 "+@id": "88587"
             }
         },
         {
-            "+@gid": "1425534596",
+            "+@gid": "2131716114",
             "+@lang": "JA",
-            "role": "Adjutant",
+            "role": "Manabi Hakase",
             "person": {
-                "+content": "Yū Hatanaka",
-                "+@id": "91159"
+                "+content": "Maaya Uchida",
+                "+@id": "94314"
+            }
+        },
+        {
+            "+@gid": "2306683984",
+            "+@lang": "JA",
+            "role": "Giita",
+            "person": {
+                "+content": "Shōya Chiba",
+                "+@id": "97379"
             }
         },
         {
@@ -541,6 +596,24 @@
             "person": {
                 "+content": "Shōya Chiba",
                 "+@id": "97379"
+            }
+        },
+        {
+            "+@gid": "1903925728",
+            "+@lang": "JA",
+            "role": "Adjutant",
+            "person": {
+                "+content": "Tasuku Hatanaka",
+                "+@id": "99622"
+            }
+        },
+        {
+            "+@gid": "219458879",
+            "+@lang": "JA",
+            "role": "Bass",
+            "person": {
+                "+content": "Junya Enoki",
+                "+@id": "109167"
             }
         },
         {
@@ -562,12 +635,30 @@
             }
         },
         {
-            "+@gid": "2682606573",
+            "+@gid": "3765258988",
             "+@lang": "JA",
-            "role": "Rona Kanade",
+            "role": "Eggs",
             "person": {
-                "+content": "Satsumi Matsuda",
-                "+@id": "125534"
+                "+content": "Ayaka Asai",
+                "+@id": "122672"
+            }
+        },
+        {
+            "+@gid": "1865418189",
+            "+@lang": "JA",
+            "role": "Sumire Fuuka",
+            "person": {
+                "+content": "Akari Kitō",
+                "+@id": "130728"
+            }
+        },
+        {
+            "+@gid": "1532788648",
+            "+@lang": "JA",
+            "role": "Dodome-san",
+            "person": {
+                "+content": "Chitose Morinaga",
+                "+@id": "131782"
             }
         },
         {
@@ -687,6 +778,6 @@
         }
     ],
     "+@date-added": "2024-06-14T19:29:38Z",
-    "+@date-last-modified-at": "2025-06-22T02:31:07Z",
-    "+@date-last-updated-at": "2025-06-22T02:31:07Z"
+    "+@date-last-modified-at": "2025-07-22T20:37:58Z",
+    "+@date-last-updated-at": "2025-07-22T20:37:58Z"
 }
