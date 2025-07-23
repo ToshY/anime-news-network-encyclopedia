@@ -26,6 +26,13 @@ jobs:
       - name: Setup YQ
         uses: mikefarah/yq@v4.44.5
 
+      - name: Setup JQ
+        uses: supplypike/setup-bin@v4
+        with:
+          uri: 'https://github.com/jqlang/jq/releases/download/jq-1.8.1/jq-linux-amd64'
+          name: 'jq'
+          version: '1.8.1'
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
