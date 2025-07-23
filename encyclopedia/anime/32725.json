@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Eiga Odekake Kozame Tokai no Otomodachi",
     "+@precision": "movie",
-    "+@generated-on": "2025-06-22T04:44:36Z",
+    "+@generated-on": "2025-07-23T02:31:40Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28357"
@@ -13,18 +13,18 @@
         {
             "+@gid": "3529452084",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32725-3529452084.1741347043.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32725-3529452084.1753008139.jpg",
             "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32725-3529452084.1741347043.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32725-3529452084.1753008139.jpg",
                     "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32725-3529452084.1741347043.jpg",
-                    "+@width": "425",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32725-3529452084.1753008139.jpg",
+                    "+@width": "426",
                     "+@height": "600"
                 }
             ]
@@ -88,6 +88,11 @@
             "+content": "<cite>Odekake Kozame</cite> Anime Film's 1st Trailer Reveals More Cast, August 22 Premiere",
             "+@datetime": "2025-04-24T23:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-04-24/odekake-kozame-anime-film-1st-trailer-reveals-more-cast-august-22-premiere/.223874"
+        },
+        {
+            "+content": "<cite>Odekake Kozame</cite> Anime Film Reveals Theme Song, More Cast in 2nd Trailer",
+            "+@datetime": "2025-07-20T10:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-20/odekake-kozame-anime-film-reveals-theme-song-more-cast-in-2nd-trailer/.226835"
         }
     ],
     "staff": [
@@ -105,6 +110,22 @@
             "person": {
                 "+content": "Hiroaki Nagashima",
                 "+@id": "245221"
+            }
+        },
+        {
+            "+@gid": "759318130",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Chihiro Kumano",
+                "+@id": "192061"
+            }
+        },
+        {
+            "+@gid": "2931791404",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Chihiro Kumano",
+                "+@id": "192061"
             }
         },
         {
@@ -132,15 +153,49 @@
             }
         },
         {
+            "+@gid": "2718475880",
+            "task": "Art Director",
+            "person": {
+                "+content": "Masayo Kitajima",
+                "+@id": "181094"
+            }
+        },
+        {
             "+@gid": "2250307970",
             "task": "Sound Director",
             "person": {
                 "+content": "Kisuke Koizumi",
                 "+@id": "30629"
             }
+        },
+        {
+            "+@gid": "1235573972",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Akemi Sasaki",
+                "+@id": "22078"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "1433902437",
+            "+@lang": "JA",
+            "role": "Ojii-san",
+            "person": {
+                "+content": "Naomi Kusumi",
+                "+@id": "460"
+            }
+        },
+        {
+            "+@gid": "2253877422",
+            "+@lang": "JA",
+            "role": "Proprietress",
+            "person": {
+                "+content": "Kana Ueda",
+                "+@id": "1568"
+            }
+        },
         {
             "+@gid": "1660647442",
             "+@lang": "JA",
@@ -187,12 +242,48 @@
             }
         },
         {
+            "+@gid": "2120845827",
+            "+@lang": "JA",
+            "role": "Manabu",
+            "person": {
+                "+content": "Makoto Koichi",
+                "+@id": "143804"
+            }
+        },
+        {
+            "+@gid": "1123774448",
+            "+@lang": "JA",
+            "role": "Photographer Lady",
+            "person": {
+                "+content": "Ai Furihata",
+                "+@id": "145686"
+            }
+        },
+        {
             "+@gid": "2666915662",
             "+@lang": "JA",
             "role": "Sora",
             "person": {
                 "+content": "Manaka Iwami",
                 "+@id": "156030"
+            }
+        },
+        {
+            "+@gid": "2600656090",
+            "+@lang": "JA",
+            "role": "Dobel-san",
+            "person": {
+                "+content": "Ryōta Suzuki",
+                "+@id": "174131"
+            }
+        },
+        {
+            "+@gid": "3021110795",
+            "+@lang": "JA",
+            "role": "Model Lady",
+            "person": {
+                "+content": "Sayaka Kikuchi",
+                "+@id": "191669"
             }
         },
         {
@@ -251,6 +342,6 @@
         }
     ],
     "+@date-added": "2024-05-10T20:36:45Z",
-    "+@date-last-modified-at": "2025-06-22T04:44:39Z",
-    "+@date-last-updated-at": "2025-06-22T04:44:39Z"
+    "+@date-last-modified-at": "2025-07-23T02:31:42Z",
+    "+@date-last-updated-at": "2025-07-23T02:31:42Z"
 }
