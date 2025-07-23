@@ -1,6 +1,8 @@
 import json
+import os
 import re
 import subprocess as sp
+import tempfile
 from pathlib import Path
 from datetime import datetime, timezone
 
@@ -100,18 +102,36 @@ def _iso_string_to_timestamp(input_datetime: str) -> int:
     return int(iso_datetime.timestamp())
 
 
-def _has_git_diff(file):
+def _has_json_contents_diff(file1: Path, file2_dict):
+    with tempfile.NamedTemporaryFile(
+        mode="w+", suffix=".json", delete=False
+    ) as temp_file:
+        json.dump(file2_dict, temp_file, sort_keys=False, indent=4, ensure_ascii=False)
+        temp_file_path = temp_file.name
+
     try:
-        sp.run(
-            ["git", "diff", "--quiet", file],
-            check=True,
+        result = sp.run(
+            [
+                "bash",
+                "-c",
+                f'diff <(jq \'del(."+@generated-on", ."+@date-last-modified-at", ."+@date-last-updated-at")\' --sort-keys {str(file1)}) <(jq \'del(."+@generated-on", ."+@date-last-modified-at", ."+@date-last-updated-at")\' --sort-keys {temp_file_path})',
+            ],
             stdout=sp.PIPE,
             stderr=sp.PIPE,
+            text=True,
+            shell=False,
         )
 
-        return False
-    except sp.CalledProcessError:
-        return True
+        if result.returncode == 0:
+            return False
+        elif result.returncode == 1:
+            return True
+        else:
+            logger.critical(
+                f"An error occurred while comparing JSON files: {result.stdout}"
+            )
+    finally:
+        os.remove(temp_file_path)
 
 
 def _get_encyclopedia_directory(encyclopedia_directory: Path, category: str) -> Path:
@@ -268,13 +288,11 @@ def _apply_additional_date_info(encyclopedia_entry, report_entry):
         # This was already reformatted to ISO in report, so no additional formatting needed here.
         encyclopedia_entry["+@date-added"] = report_entry["item"]["date_added"]
 
-    # "+@date-last-modified-at" denotes when the file was modified through a git diff check.
-    if "+@date-last-modified-at" in encyclopedia_entry:
-        if report_entry["file"] is not None and _has_git_diff(report_entry["file"]):
-            encyclopedia_entry["+@date-last-updated-at"] = _datetime_object_to_iso(
-                _get_current_datetime()
-            )
-    else:
+    # "+@date-last-modified-at" denotes when the file was modified through diff check of the JSON files
+    if report_entry["file"] is not None and _has_json_contents_diff(
+        report_entry["file"], encyclopedia_entry
+    ):
+        logger.info(f"File contents changed for {encyclopedia_entry['+@id']}")
         encyclopedia_entry["+@date-last-modified-at"] = _datetime_object_to_iso(
             _get_current_datetime()
         )
