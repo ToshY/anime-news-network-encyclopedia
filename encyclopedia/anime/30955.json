@@ -4,12 +4,31 @@
     "+@type": "TV",
     "+@name": "Ascendance of a Bookworm",
     "+@precision": "TV 4",
-    "+@generated-on": "2025-06-22T20:32:34Z",
+    "+@generated-on": "2025-07-23T16:46:40Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24606"
     },
     "info": [
+        {
+            "+@gid": "1647031328",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A30955-1647031328.1751884998.jpg",
+            "+@width": "142",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A30955-1647031328.1751884998.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A30955-1647031328.1751884998.jpg",
+                    "+@width": "426",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Ascendance of a Bookworm",
             "+@gid": "687017741",
@@ -35,17 +54,60 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2026",
+            "+content": "2026-04",
             "+@gid": "2048664958",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ「本好きの下剋上 司書になるためには手段を選んでいられません」公式サイト",
+            "+@gid": "2352069878",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://booklove-anime.jp/"
         }
     ],
-    "news": {
-        "+content": "New <cite>Ascendance of a Bookworm</cite> Anime Reveals TV Format, 2026 Debut",
-        "+@datetime": "2024-12-05T08:52:57Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-12-05/new-ascendance-of-a-bookworm-anime-reveals-tv-format-2026-debut/.218635"
-    },
+    "news": [
+        {
+            "+content": "New <cite>Ascendance of a Bookworm</cite> Anime Reveals TV Format, 2026 Debut",
+            "+@datetime": "2024-12-05T08:52:57Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-05/new-ascendance-of-a-bookworm-anime-reveals-tv-format-2026-debut/.218635"
+        },
+        {
+            "+content": "<cite>Ascendance of a Bookworm: Adopted Daughter of an Archduke</cite> Anime Reveals Spring 2026 Debut",
+            "+@datetime": "2025-07-05T22:40:28Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-05/ascendance-of-a-bookworm-adopted-daughter-of-an-archduke-anime-reveals-spring-2026-debut/.226345"
+        },
+        {
+            "+content": "<cite>Ascendance of a Bookworm: Adopted Daughter of an Archduke</cite> Anime's Teaser Video Reveals Returning Cast, New Staff",
+            "+@datetime": "2025-07-07T10:38:10Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-07/ascendance-of-a-bookworm-adopted-daughter-of-an-archduke-anime-teaser-video-reveals-returning-cast-/.226409"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "2633304422",
+            "task": "Director",
+            "person": {
+                "+content": "Yoshiaki Iwasaki",
+                "+@id": "383"
+            }
+        },
+        {
+            "+@gid": "2077598299",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Mariko Kunisawa",
+                "+@id": "74555"
+            }
+        },
+        {
+            "+@gid": "2644605870",
+            "task": "Music",
+            "person": {
+                "+content": "MICHIRU",
+                "+@id": "66785"
+            }
+        },
         {
             "+@gid": "1906857726",
             "task": "Original creator",
@@ -55,11 +117,47 @@
             }
         },
         {
+            "+@gid": "1200575514",
+            "task": "Original creator",
+            "person": {
+                "+content": "Ryō Namino",
+                "+@id": "196255"
+            }
+        },
+        {
             "+@gid": "2516408952",
             "task": "Original Character Design",
             "person": {
                 "+content": "You Shiina",
                 "+@id": "153084"
+            }
+        },
+        {
+            "+@gid": "719935707",
+            "task": "Character Design",
+            "person": {
+                "+content": "Aiko Minowa",
+                "+@id": "157964"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3009868542",
+            "+@lang": "JA",
+            "role": "Ferdinand",
+            "person": {
+                "+content": "Show Hayami",
+                "+@id": "4128"
+            }
+        },
+        {
+            "+@gid": "1200847607",
+            "+@lang": "JA",
+            "role": "Rozemyne",
+            "person": {
+                "+content": "Yuka Iguchi",
+                "+@id": "28316"
             }
         }
     ],
@@ -72,6 +170,6 @@
         }
     },
     "+@date-added": "2023-12-06T21:31:34Z",
-    "+@date-last-modified-at": "2025-06-22T20:32:37Z",
-    "+@date-last-updated-at": "2025-06-22T20:32:37Z"
+    "+@date-last-modified-at": "2025-07-23T16:46:42Z",
+    "+@date-last-updated-at": "2025-07-23T16:46:42Z"
 }

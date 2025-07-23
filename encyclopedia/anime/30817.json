@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Sword of the Demon Hunter",
     "+@precision": "TV",
-    "+@generated-on": "2025-06-22T20:32:35Z",
+    "+@generated-on": "2025-07-23T16:46:41Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26842"
@@ -55,6 +55,11 @@
         {
             "+content": "drama",
             "+@gid": "3746924010",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "mystery",
+            "+@gid": "1362361777",
             "+@type": "Genres"
         },
         {
@@ -135,8 +140,13 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "8",
-        "+@weighted_score": "5.778"
+        "+@nb_votes": "18",
+        "+@weighted_score": "6.7571",
+        "+@bayesian_score": "7.05799"
+    },
+    "review": {
+        "+content": "<cite>Sword of the Demon Hunter</cite> Episodes 1-13 Anime Series Review",
+        "+@href": "https://www.animenewsnetwork.com/review/sword-of-the-demon-hunter/episodes-1-13/.226293"
     },
     "news": [
         {
@@ -183,6 +193,11 @@
             "+content": "<cite>Sword of the Demon Hunter</cite> Anime's English Dub Cast Announced",
             "+@datetime": "2025-05-27T23:42:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-05-27/sword-of-the-demon-hunter-anime-english-dub-cast-announced/.224851"
+        },
+        {
+            "+content": "<cite>Sword of the Demon Hunter</cite> Anime Reveals More Cast, New Theme Songs' Artists",
+            "+@datetime": "2025-07-07T18:33:36Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-07/sword-of-the-demon-hunter-anime-reveals-more-cast-new-theme-songs-artists/.226427"
         }
     ],
     "staff": [
@@ -248,6 +263,14 @@
             "person": {
                 "+content": "Shinji Itadaki",
                 "+@id": "72394"
+            }
+        },
+        {
+            "+@gid": "2251695014",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yuki Ogawa",
+                "+@id": "101085"
             }
         },
         {
@@ -522,6 +545,15 @@
             }
         },
         {
+            "+@gid": "1813821060",
+            "+@lang": "EN",
+            "role": "Naotsugu Miura",
+            "person": {
+                "+content": "Nathan Wilson",
+                "+@id": "169202"
+            }
+        },
+        {
             "+@gid": "2352876562",
             "+@lang": "EN",
             "role": "Zenji",
@@ -567,6 +599,24 @@
             }
         },
         {
+            "+@gid": "2669141485",
+            "+@lang": "JA",
+            "role": "Kiichi Okada",
+            "person": {
+                "+content": "Kazuya Nakai",
+                "+@id": "551"
+            }
+        },
+        {
+            "+@gid": "2099735301",
+            "+@lang": "JA",
+            "role": "Yasuhide Hatakeyama",
+            "person": {
+                "+content": "Toshihiko Seki",
+                "+@id": "693"
+            }
+        },
+        {
             "+@gid": "3432706613",
             "+@lang": "JA",
             "role": "Jūzō",
@@ -609,6 +659,15 @@
             "person": {
                 "+content": "Saori Hayami",
                 "+@id": "63462"
+            }
+        },
+        {
+            "+@gid": "1900141857",
+            "+@lang": "JA",
+            "role": "Tsurauchi",
+            "person": {
+                "+content": "Kenichirō Matsuda",
+                "+@id": "71825"
             }
         },
         {
@@ -682,6 +741,15 @@
                 "+content": "Saya Aizawa",
                 "+@id": "154564"
             }
+        },
+        {
+            "+@gid": "2817481614",
+            "+@lang": "JA",
+            "role": "Jinta",
+            "person": {
+                "+content": "Shinnosuke Tokudome",
+                "+@id": "175801"
+            }
         }
     ],
     "credit": {
@@ -693,6 +761,6 @@
         }
     },
     "+@date-added": "2023-11-22T06:33:51Z",
-    "+@date-last-modified-at": "2025-06-22T20:32:37Z",
-    "+@date-last-updated-at": "2025-06-22T20:32:37Z"
+    "+@date-last-modified-at": "2025-07-23T16:46:42Z",
+    "+@date-last-updated-at": "2025-07-23T16:46:42Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "MF Ghost",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-06-22T16:40:24Z",
+    "+@generated-on": "2025-07-23T16:46:39Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "25108"
@@ -66,9 +66,19 @@
             "+@type": "Genres"
         },
         {
+            "+content": "thriller",
+            "+@gid": "2325734825",
+            "+@type": "Genres"
+        },
+        {
             "+content": "tournament",
             "+@gid": "2124792695",
             "+@type": "Genres"
+        },
+        {
+            "+content": "fan service",
+            "+@gid": "1719023445",
+            "+@type": "Themes"
         },
         {
             "+content": "racing",
@@ -84,6 +94,21 @@
             "+content": "TA",
             "+@gid": "3890970669",
             "+@type": "Objectionable content"
+        },
+        {
+            "+content": "Kanata is starting his 3rd race. It is raining heavily and a part of the track os covered in ashes. He'll have to perform at his best level just to stay on track.",
+            "+@gid": "2438684397",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "24",
+            "+@gid": "2695068203",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "12",
+            "+@gid": "3132866608",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2024-10-06 to 2024-12-22",
@@ -229,9 +254,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "28",
-        "+@weighted_score": "7.3795",
-        "+@bayesian_score": "7.40988"
+        "+@nb_votes": "30",
+        "+@weighted_score": "7.3363",
+        "+@bayesian_score": "7.37811"
     },
     "episode": [
         {
@@ -1094,7 +1119,7 @@
             "+@lang": "JA",
             "role": "Yōji Tanaka",
             "person": {
-                "+content": "Tatsuki Kobe",
+                "+content": "Tatsuki Kōbe",
                 "+@id": "147477"
             }
         },
@@ -1220,6 +1245,6 @@
         }
     ],
     "+@date-added": "2023-12-17T20:39:54Z",
-    "+@date-last-modified-at": "2025-06-22T16:40:28Z",
-    "+@date-last-updated-at": "2025-06-22T16:40:28Z"
+    "+@date-last-modified-at": "2025-07-23T16:46:42Z",
+    "+@date-last-updated-at": "2025-07-23T16:46:42Z"
 }
