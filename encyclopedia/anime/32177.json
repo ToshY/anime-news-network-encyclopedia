@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Nyaight of the Living Cat",
     "+@precision": "TV",
-    "+@generated-on": "2025-06-22T12:55:58Z",
+    "+@generated-on": "2025-07-23T08:46:24Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26790"
@@ -48,13 +48,53 @@
             "+@lang": "JA"
         },
         {
+            "+content": "action",
+            "+@gid": "2869637431",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "2048729764",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "horror",
+            "+@gid": "2110004844",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "thriller",
+            "+@gid": "2672728104",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "amnesia",
+            "+@gid": "2515074584",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "parody",
+            "+@gid": "1534194045",
+            "+@type": "Themes"
+        },
+        {
             "+content": "post-apocalyptic",
             "+@gid": "1710561695",
             "+@type": "Themes"
         },
         {
+            "+content": "OC",
+            "+@gid": "3365670854",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "A virus spreads across the world, transforming all humankind into wild, slavering, furry beasts: cats, to be precise. Those few survivors who remain human take refuge in the dark corners of the earth as they fight back against the feline horde. Kunagi, a man with no memory of his past yet a deep knowledge of cats, struggles to hold on with only his wits and a will to survive. Yet the virus transmits merely through cuddles, and Kunagi finds kitties so hard to resist. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "2394734942",
+            "+@type": "Running time"
         },
         {
             "+content": "2025-07-06",
@@ -79,6 +119,10 @@
             "+@href": "https://nyailivi.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "5",
+        "+@weighted_score": "2.9835"
+    },
     "news": [
         {
             "+content": "<cite>Nyaight of the Living Cat</cite> TV Anime's Teaser Reveals Staff, Theme Song",
@@ -129,6 +173,11 @@
             "+content": "Crunchyroll Announces Indian Language Dubs for <cite>Clevatess</cite>, <cite>Gachiakuta</cite>, More Anime",
             "+@datetime": "2025-06-21T13:01:38Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-06-21/crunchyroll-announces-indian-language-dubs-for-clevatess-gachiakuta-more-anime/.225855"
+        },
+        {
+            "+content": "Crunchyroll Reveals English Dub Casts for <cite>Kaiju no. 8</cite> Season 2, <cite>Nyaight of the Living Cat</cite>, 3 More Anime",
+            "+@datetime": "2025-07-20T06:13:32Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-20/crunchyroll-reveals-english-dub-casts-for-kaiju-no-8-season-2-nyaight-of-the-living-cat-3-more-anime/.226829"
         }
     ],
     "staff": [
@@ -154,6 +203,22 @@
             "person": {
                 "+content": "Shingo Irie",
                 "+@id": "109730"
+            }
+        },
+        {
+            "+@gid": "3618926532",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takafumi Hino",
+                "+@id": "37791"
+            }
+        },
+        {
+            "+@gid": "3068218210",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Takafumi Hino",
+                "+@id": "37791"
             }
         },
         {
@@ -195,9 +260,149 @@
                 "+content": "Katsumi Takao",
                 "+@id": "8106"
             }
+        },
+        {
+            "+@gid": "2911386725",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Toshiya Yamada",
+                "+@id": "18530"
+            }
+        },
+        {
+            "+@gid": "2242180080",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuki Hijikata",
+                "+@id": "59437"
+            }
+        },
+        {
+            "+@gid": "2577938930",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nagisa Takahashi",
+                "+@id": "96358"
+            }
+        },
+        {
+            "+@gid": "1683539222",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kenji Kato",
+                "+@id": "208734"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "1479664270",
+            "+@lang": "EN",
+            "role": "Kunagi",
+            "person": {
+                "+content": "Jason Douglas",
+                "+@id": "1064"
+            }
+        },
+        {
+            "+@gid": "3460262543",
+            "+@lang": "EN",
+            "role": "Tanishi",
+            "person": {
+                "+content": "Lew Temple",
+                "+@id": "2332"
+            }
+        },
+        {
+            "+@gid": "2159458377",
+            "+@lang": "EN",
+            "role": "Gaku",
+            "person": {
+                "+content": "Ben Bryant",
+                "+@id": "91795"
+            }
+        },
+        {
+            "+@gid": "2909512899",
+            "+@lang": "EN",
+            "role": "Tanishi",
+            "person": {
+                "+content": "Sara Ragsdale",
+                "+@id": "126054"
+            }
+        },
+        {
+            "+@gid": "2497457672",
+            "+@lang": "EN",
+            "role": "Narrator",
+            "person": {
+                "+content": "Paul Taylor",
+                "+@id": "168957"
+            }
+        },
+        {
+            "+@gid": "4094843632",
+            "+@lang": "EN",
+            "role": "Kaoru",
+            "person": {
+                "+content": "Maria Delilah",
+                "+@id": "283046"
+            }
+        },
+        {
+            "+@gid": "2324232923",
+            "+@lang": "ES",
+            "role": "Gaku",
+            "person": {
+                "+content": "Manuel Campuzano",
+                "+@id": "35536"
+            }
+        },
+        {
+            "+@gid": "1490577145",
+            "+@lang": "ES",
+            "role": "Narrator",
+            "person": {
+                "+content": "Jorge Roig Jr",
+                "+@id": "49401"
+            }
+        },
+        {
+            "+@gid": "2972964235",
+            "+@lang": "ES",
+            "role": "Kaoru",
+            "person": {
+                "+content": "Marisol Romero",
+                "+@id": "71291"
+            }
+        },
+        {
+            "+@gid": "2338763959",
+            "+@lang": "ES",
+            "role": "Tanishi",
+            "person": {
+                "+content": "Dafnis Fernández",
+                "+@id": "84253"
+            }
+        },
+        {
+            "+@gid": "508651553",
+            "+@lang": "ES",
+            "role": "Kunagi",
+            "person": {
+                "+content": "Emmanuel Bernal",
+                "+@id": "98218"
+            }
+        },
+        {
+            "+@gid": "736356660",
+            "+@lang": "JA",
+            "role": "Narrator",
+            "person": {
+                "+content": "Shigeru Chiba",
+                "+@id": "427"
+            }
+        },
         {
             "+@gid": "1981630832",
             "+@lang": "JA",
@@ -344,11 +549,67 @@
             }
         },
         {
+            "+@gid": "2887778875",
+            "task": "Production",
+            "company": {
+                "+content": "OLM",
+                "+@id": "33"
+            }
+        },
+        {
+            "+@gid": "3897730388",
+            "task": "Production",
+            "company": {
+                "+content": "TV Tokyo Medianet",
+                "+@id": "378"
+            }
+        },
+        {
+            "+@gid": "2807474391",
+            "task": "Production",
+            "company": {
+                "+content": "Animax",
+                "+@id": "506"
+            }
+        },
+        {
+            "+@gid": "271349153",
+            "task": "Production",
+            "company": {
+                "+content": "81 Produce",
+                "+@id": "980"
+            }
+        },
+        {
             "+@gid": "3873724348",
             "task": "Production",
             "company": {
                 "+content": "Sony Pictures Entertainment",
                 "+@id": "1374"
+            }
+        },
+        {
+            "+@gid": "2307583488",
+            "task": "Production",
+            "company": {
+                "+content": "Mag Garden",
+                "+@id": "1766"
+            }
+        },
+        {
+            "+@gid": "2101512701",
+            "task": "Production",
+            "company": {
+                "+content": "Warner Music Japan",
+                "+@id": "2788"
+            }
+        },
+        {
+            "+@gid": "2972278589",
+            "task": "Production",
+            "company": {
+                "+content": "Crunchyroll",
+                "+@id": "7606"
             }
         },
         {
@@ -358,9 +619,17 @@
                 "+content": "Slowcurve Co., Ltd.",
                 "+@id": "8214"
             }
+        },
+        {
+            "+@gid": "1223916991",
+            "task": "Production",
+            "company": {
+                "+content": "CyberAgent",
+                "+@id": "12936"
+            }
         }
     ],
     "+@date-added": "2024-02-22T01:10:26Z",
-    "+@date-last-modified-at": "2025-06-22T12:56:01Z",
-    "+@date-last-updated-at": "2025-06-22T12:56:01Z"
+    "+@date-last-modified-at": "2025-07-23T08:46:28Z",
+    "+@date-last-updated-at": "2025-07-23T08:46:28Z"
 }
