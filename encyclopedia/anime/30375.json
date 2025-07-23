@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Let's Play",
     "+@precision": "TV",
-    "+@generated-on": "2025-06-23T02:29:22Z",
+    "+@generated-on": "2025-07-23T21:55:51Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "30374"
@@ -48,7 +48,7 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2025",
+            "+content": "2025-10",
             "+@gid": "2007140230",
             "+@type": "Vintage"
         },
@@ -60,6 +60,11 @@
             "+@href": "https://letsplay-anime.com/"
         }
     ],
+    "news": {
+        "+content": "<cite>'Let's Play'</cite>  Anime's English-Subtitled Trailer Reveals More Cast, Staff, October Premiere",
+        "+@datetime": "2025-07-04T04:48:12Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-07-04/let-play-anime-english-subtitled-trailer-reveals-more-cast-staff-october-premiere/.226288"
+    },
     "staff": [
         {
             "+@gid": "1973910557",
@@ -78,6 +83,14 @@
             }
         },
         {
+            "+@gid": "2577853586",
+            "task": "Music",
+            "person": {
+                "+content": "Conisch",
+                "+@id": "72795"
+            }
+        },
+        {
             "+@gid": "3784038755",
             "task": "Original creator",
             "person": {
@@ -91,6 +104,76 @@
             "person": {
                 "+content": "Ebimo",
                 "+@id": "221338"
+            }
+        },
+        {
+            "+@gid": "218062771",
+            "task": "Character Design",
+            "person": {
+                "+content": "Saki Ebisawa",
+                "+@id": "147932"
+            }
+        },
+        {
+            "+@gid": "2092309999",
+            "task": "Producer",
+            "person": {
+                "+content": "Hana Sugawara",
+                "+@id": "145834"
+            }
+        },
+        {
+            "+@gid": "1911373473",
+            "task": "Producer",
+            "person": {
+                "+content": "Minaka Sakamoto",
+                "+@id": "165354"
+            }
+        },
+        {
+            "+@gid": "2915295415",
+            "task": "Producer",
+            "person": {
+                "+content": "Heather Horn",
+                "+@id": "248740"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3343643822",
+            "+@lang": "JA",
+            "role": "Link Hudson",
+            "person": {
+                "+content": "Tomokazu Sugita",
+                "+@id": "910"
+            }
+        },
+        {
+            "+@gid": "1608785076",
+            "+@lang": "JA",
+            "role": "Charles Jones",
+            "person": {
+                "+content": "Yūichi Nakamura",
+                "+@id": "15878"
+            }
+        },
+        {
+            "+@gid": "3264720478",
+            "+@lang": "JA",
+            "role": "Sam Young",
+            "person": {
+                "+content": "Kana Hanazawa",
+                "+@id": "53741"
+            }
+        },
+        {
+            "+@gid": "1523564291",
+            "+@lang": "JA",
+            "role": "Marshall Law",
+            "person": {
+                "+content": "Shimba Tsuchiya",
+                "+@id": "121607"
             }
         }
     ],
@@ -107,7 +190,7 @@
             "+@gid": "2503044151",
             "task": "Animation Production",
             "company": {
-                "+content": "Team Kato",
+                "+content": "OLM",
                 "+@id": "21918"
             }
         },
@@ -121,6 +204,6 @@
         }
     ],
     "+@date-added": "2023-10-18T01:42:16Z",
-    "+@date-last-modified-at": "2025-06-23T02:29:24Z",
-    "+@date-last-updated-at": "2025-06-23T02:29:24Z"
+    "+@date-last-modified-at": "2025-07-23T21:55:52Z",
+    "+@date-last-updated-at": "2025-07-23T21:55:52Z"
 }
