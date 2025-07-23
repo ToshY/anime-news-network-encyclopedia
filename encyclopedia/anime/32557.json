@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Apothecary Diaries",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-06-22T08:38:15Z",
+    "+@generated-on": "2025-07-23T04:55:07Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "27141"
@@ -123,7 +123,7 @@
             "+@type": "Opening Theme"
         },
         {
-            "+content": "#2: \"Kusushiki\" (クスシキ) by Mrs. GREEN APPLE (eps 13-)",
+            "+content": "#2: \"Kusushiki\" (クスシキ) by Mrs. GREEN APPLE (eps 13-24)",
             "+@gid": "2418011471",
             "+@type": "Opening Theme"
         },
@@ -133,9 +133,14 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "#2: \"Hitorigoto\" (ひとりごと) by Omoinotake (eps 13-)",
+            "+content": "#2: \"Hitorigoto\" (ひとりごと) by Omoinotake (eps 13-24)",
             "+@gid": "2456784588",
             "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Inochi no Tomoshibi\" (いのちの灯火; Light of Life) by Rimu Miyake (ep 23)",
+            "+@gid": "2176166214",
+            "+@type": "Insert song"
         },
         {
             "+content": "『薬屋のひとりごと』公式サイト",
@@ -146,9 +151,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "28",
-        "+@weighted_score": "8.7478",
-        "+@bayesian_score": "8.34436"
+        "+@nb_votes": "124",
+        "+@weighted_score": "8.9231",
+        "+@bayesian_score": "8.78565"
     },
     "episode": [
         {
@@ -332,6 +337,14 @@
             "title": {
                 "+content": "The Shi Clan",
                 "+@gid": "2559307015",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "48",
+            "title": {
+                "+content": "Beginning",
+                "+@gid": "2188823997",
                 "+@lang": "EN"
             }
         }
@@ -521,6 +534,21 @@
             "+content": "Japanese Animation TV Ranking, June 9-15",
             "+@datetime": "2025-06-21T14:15:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-06-21/japanese-animation-tv-ranking-june-9-15/.225836"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, June 23-29",
+            "+@datetime": "2025-07-07T14:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-07/japanese-animation-tv-ranking-june-23-29/.226298"
+        },
+        {
+            "+content": "<cite>The Apothecary Diaries</cite> Anime Gets New Sequel",
+            "+@datetime": "2025-07-04T15:00:01Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-04/the-apothecary-diaries-anime-gets-new-sequel/.226308"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, June 30-July 6",
+            "+@datetime": "2025-07-12T14:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-12/japanese-animation-tv-ranking-june-30-july-6/.226546"
         }
     ],
     "staff": [
@@ -706,6 +734,14 @@
             "person": {
                 "+content": "Wataru Nakagawa",
                 "+@id": "19934"
+            }
+        },
+        {
+            "+@gid": "2892913998",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Akinori Fudesaka",
+                "+@id": "36197"
             }
         },
         {
@@ -933,6 +969,14 @@
             }
         },
         {
+            "+@gid": "2524679101",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Miho Imoto",
+                "+@id": "72415"
+            }
+        },
+        {
             "+@gid": "2147180368",
             "task": "Chief Animation Director",
             "person": {
@@ -1109,6 +1153,14 @@
             }
         },
         {
+            "+@gid": "2095663287",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Aimi Ishida",
+                "+@id": "76712"
+            }
+        },
+        {
             "+@gid": "2679762392",
             "task": "Animation Director",
             "person": {
@@ -1229,6 +1281,14 @@
             }
         },
         {
+            "+@gid": "3081904044",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kaori Saito",
+                "+@id": "156766"
+            }
+        },
+        {
             "+@gid": "2209873168",
             "task": "Animation Director",
             "person": {
@@ -1253,6 +1313,14 @@
             }
         },
         {
+            "+@gid": "4038963118",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Asumi Adachi",
+                "+@id": "182615"
+            }
+        },
+        {
             "+@gid": "2721764243",
             "task": "Animation Director",
             "person": {
@@ -1269,11 +1337,27 @@
             }
         },
         {
+            "+@gid": "2208068957",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sayumi Kurumatani",
+                "+@id": "186806"
+            }
+        },
+        {
             "+@gid": "2638880328",
             "task": "Animation Director",
             "person": {
                 "+content": "Teruaki Gomi",
                 "+@id": "190720"
+            }
+        },
+        {
+            "+@gid": "887808389",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kōki Takahashi",
+                "+@id": "190721"
             }
         },
         {
@@ -1667,15 +1751,6 @@
             }
         },
         {
-            "+@gid": "3893655736",
-            "+@lang": "EN",
-            "role": "Aylin",
-            "person": {
-                "+content": "Hayden Daviau",
-                "+@id": "174838"
-            }
-        },
-        {
             "+@gid": "2139143442",
             "+@lang": "EN",
             "role": "Guiyuan",
@@ -2054,6 +2129,15 @@
             }
         },
         {
+            "+@gid": "1624861821",
+            "+@lang": "FR",
+            "role": "Kan Lahan",
+            "person": {
+                "+content": "Melki Izzouzi",
+                "+@id": "267884"
+            }
+        },
+        {
             "+@gid": "777052568",
             "+@lang": "JA",
             "role": "Suirei",
@@ -2162,15 +2246,6 @@
             }
         },
         {
-            "+@gid": "1723503785",
-            "+@lang": "JA",
-            "role": "Shishou",
-            "person": {
-                "+content": "Chō",
-                "+@id": "68750"
-            }
-        },
-        {
             "+@gid": "3800838039",
             "+@lang": "JA",
             "role": "Guen",
@@ -2204,15 +2279,6 @@
             "person": {
                 "+content": "Asami Seto",
                 "+@id": "95225"
-            }
-        },
-        {
-            "+@gid": "3563779132",
-            "+@lang": "JA",
-            "role": "Aylin",
-            "person": {
-                "+content": "Yumi Hara",
-                "+@id": "98448"
             }
         },
         {
@@ -2369,6 +2435,6 @@
         }
     ],
     "+@date-added": "2024-03-23T20:13:17Z",
-    "+@date-last-modified-at": "2025-06-22T08:38:18Z",
-    "+@date-last-updated-at": "2025-06-22T08:38:18Z"
+    "+@date-last-modified-at": "2025-07-23T04:55:09Z",
+    "+@date-last-updated-at": "2025-07-23T04:55:09Z"
 }

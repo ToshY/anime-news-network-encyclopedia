@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Teogonia",
     "+@precision": "TV",
-    "+@generated-on": "2025-06-22T04:44:38Z",
+    "+@generated-on": "2025-07-23T04:55:07Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "22722"
@@ -114,8 +114,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "6",
-        "+@weighted_score": "6.6401"
+        "+@nb_votes": "34",
+        "+@weighted_score": "6.7916",
+        "+@bayesian_score": "6.98052"
     },
     "news": [
         {
@@ -293,11 +294,27 @@
             }
         },
         {
+            "+@gid": "2072967628",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Fumino Fujii",
+                "+@id": "40738"
+            }
+        },
+        {
             "+@gid": "2454807655",
             "task": "Chief Animation Director",
             "person": {
                 "+content": "Ririka Yamazaki",
                 "+@id": "189231"
+            }
+        },
+        {
+            "+@gid": "1991360297",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Konomi Sakurai",
+                "+@id": "25200"
             }
         },
         {
@@ -309,6 +326,38 @@
             }
         },
         {
+            "+@gid": "2392969330",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hidenori Hasaka",
+                "+@id": "33146"
+            }
+        },
+        {
+            "+@gid": "3076432524",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Fumino Fujii",
+                "+@id": "40738"
+            }
+        },
+        {
+            "+@gid": "3377045176",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kōichirō Kawano",
+                "+@id": "42220"
+            }
+        },
+        {
+            "+@gid": "2641782158",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Osamu Kamijō",
+                "+@id": "65833"
+            }
+        },
+        {
             "+@gid": "3729871115",
             "task": "Animation Director",
             "person": {
@@ -317,11 +366,35 @@
             }
         },
         {
+            "+@gid": "2478636927",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Emi Satō",
+                "+@id": "78023"
+            }
+        },
+        {
             "+@gid": "1970357684",
             "task": "Animation Director",
             "person": {
                 "+content": "Daisuke Tomiyama",
                 "+@id": "78992"
+            }
+        },
+        {
+            "+@gid": "1031796590",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mari Aizawa",
+                "+@id": "84662"
+            }
+        },
+        {
+            "+@gid": "3410925574",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yue Zhao",
+                "+@id": "129012"
             }
         },
         {
@@ -341,6 +414,14 @@
             }
         },
         {
+            "+@gid": "1842838309",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Bo Ya Fang",
+                "+@id": "162541"
+            }
+        },
+        {
             "+@gid": "2674757064",
             "task": "Animation Director",
             "person": {
@@ -354,6 +435,46 @@
             "person": {
                 "+content": "Nao Hayashi",
                 "+@id": "195691"
+            }
+        },
+        {
+            "+@gid": "1590996797",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tsutomu Ōno",
+                "+@id": "225238"
+            }
+        },
+        {
+            "+@gid": "3115499176",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yin Chen",
+                "+@id": "271067"
+            }
+        },
+        {
+            "+@gid": "3576852893",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ya Liang",
+                "+@id": "284797"
+            }
+        },
+        {
+            "+@gid": "1968486747",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jian Zhang Bai",
+                "+@id": "284798"
+            }
+        },
+        {
+            "+@gid": "543205082",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ying Jie He",
+                "+@id": "284799"
             }
         },
         {
@@ -415,6 +536,15 @@
     ],
     "cast": [
         {
+            "+@gid": "3186243719",
+            "+@lang": "EN",
+            "role": "Porek",
+            "person": {
+                "+content": "Charlie Campbell",
+                "+@id": "4788"
+            }
+        },
+        {
             "+@gid": "2670853513",
             "+@lang": "EN",
             "role": "Olha",
@@ -460,6 +590,15 @@
             }
         },
         {
+            "+@gid": "1575727847",
+            "+@lang": "EN",
+            "role": "Torud",
+            "person": {
+                "+content": "Gerard Caster",
+                "+@id": "223750"
+            }
+        },
+        {
             "+@gid": "450212423",
             "+@lang": "EN",
             "role": "Jose",
@@ -484,15 +623,6 @@
             "person": {
                 "+content": "Hiroshi Naka",
                 "+@id": "2146"
-            }
-        },
-        {
-            "+@gid": "3666719558",
-            "+@lang": "JA",
-            "role": "Zeiena",
-            "person": {
-                "+content": "Yūko Kaida",
-                "+@id": "9194"
             }
         },
         {
@@ -529,24 +659,6 @@
             "person": {
                 "+content": "Yoshitsugu Matsuoka",
                 "+@id": "93780"
-            }
-        },
-        {
-            "+@gid": "1573812534",
-            "+@lang": "JA",
-            "role": "Rahat",
-            "person": {
-                "+content": "Taiki Yamashita",
-                "+@id": "150356"
-            }
-        },
-        {
-            "+@gid": "883691523",
-            "+@lang": "JA",
-            "role": "Akiza",
-            "person": {
-                "+content": "Akira Koga",
-                "+@id": "152519"
             }
         },
         {
@@ -596,6 +708,6 @@
         }
     ],
     "+@date-added": "2024-04-04T21:46:05Z",
-    "+@date-last-modified-at": "2025-06-22T04:44:39Z",
-    "+@date-last-updated-at": "2025-06-22T04:44:39Z"
+    "+@date-last-modified-at": "2025-07-23T04:55:09Z",
+    "+@date-last-updated-at": "2025-07-23T04:55:09Z"
 }

@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "Call of the Night",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-06-22T08:38:16Z",
+    "+@generated-on": "2025-07-23T04:55:08Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24963"
     },
     "info": [
         {
-            "+@gid": "1674351399",
+            "+@gid": "2424554654",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32406-1674351399.1747366979.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32406-2424554654.1751984087.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32406-1674351399.1747366979.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32406-2424554654.1751984087.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32406-1674351399.1747366979.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32406-2424554654.1751984087.jpg",
                     "+@width": "423",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A32406-2424554654.1751984087.jpg",
+                    "+@width": "550",
+                    "+@height": "780"
                 }
             ]
         },
@@ -63,6 +68,11 @@
             "+@type": "Opening Theme"
         },
         {
+            "+content": "\"Nemure\" by Creepy Nuts",
+            "+@gid": "2818525521",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "TVアニメ『よふかしのうた』",
             "+@gid": "1043559318",
             "+@type": "Official website",
@@ -70,6 +80,10 @@
             "+@href": "https://yofukashi-no-uta.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "7.2528"
+    },
     "news": [
         {
             "+content": "<i>Call of the Night</i> Season 2's New Teaser Announces New Cast Member, July Debut",
@@ -95,6 +109,11 @@
             "+content": "Creepy Nuts Return for <cite>Call of the Night</cite> Season 2 Anime's Opening Theme Song in New Trailer",
             "+@datetime": "2025-06-05T16:17:46Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-06-05/creepy-nuts-return-for-call-of-the-night-season-2-anime-opening-theme-song-in-new-trailer/.225178"
+        },
+        {
+            "+content": "<cite>Call of the Night</cite> Season 2 Anime Casts Tomokazu Sugita, Reveals Creepy Nuts Ending Song",
+            "+@datetime": "2025-07-04T01:22:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-03/call-of-the-night-season-2-anime-casts-tomokazu-sugita-reveals-creepy-nuts-ending-song/.226282"
         }
     ],
     "staff": [
@@ -165,12 +184,30 @@
     ],
     "cast": [
         {
+            "+@gid": "1492474715",
+            "+@lang": "EN",
+            "role": "Nazuna Nanakusa",
+            "person": {
+                "+content": "Natalie Rial",
+                "+@id": "125100"
+            }
+        },
+        {
             "+@gid": "1094019254",
             "+@lang": "JA",
             "role": "Akihito Akiyama",
             "person": {
                 "+content": "Hiroyuki Yoshino",
                 "+@id": "507"
+            }
+        },
+        {
+            "+@gid": "3794741473",
+            "+@lang": "JA",
+            "role": "LG",
+            "person": {
+                "+content": "Tomokazu Sugita",
+                "+@id": "910"
             }
         },
         {
@@ -283,6 +320,6 @@
         }
     ],
     "+@date-added": "2024-03-11T20:06:19Z",
-    "+@date-last-modified-at": "2025-06-22T08:38:18Z",
-    "+@date-last-updated-at": "2025-06-22T08:38:18Z"
+    "+@date-last-modified-at": "2025-07-23T04:55:09Z",
+    "+@date-last-updated-at": "2025-07-23T04:55:09Z"
 }
