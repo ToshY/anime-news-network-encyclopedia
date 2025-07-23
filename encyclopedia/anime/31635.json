@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "MONOGATARI Series: OFF & MONSTER Season",
     "+@precision": "TV",
-    "+@generated-on": "2025-06-22T12:56:00Z",
+    "+@generated-on": "2025-07-23T13:06:27Z",
     "related-prev": [
         {
             "+@rel": "sequel of",
@@ -55,6 +55,10 @@
             "+@id": "32902"
         }
     ],
+    "related-next": {
+        "+@id": "36842",
+        "+@rel": "sequel"
+    },
     "info": [
         {
             "+@gid": "299048204",
@@ -141,9 +145,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "49",
-        "+@weighted_score": "7.9291",
-        "+@bayesian_score": "7.83395"
+        "+@nb_votes": "51",
+        "+@weighted_score": "7.9495",
+        "+@bayesian_score": "7.85304"
     },
     "news": [
         {
@@ -190,6 +194,11 @@
             "+content": "<i>Monogatari Off & Monster Season</i> Anime Previews <i>Shinobumonogatari</i> Story in Video",
             "+@datetime": "2024-09-07T15:39:46Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-09-07/monogatari-off-and-monster-season-anime-previews-shinobumonogatari-story-in-video/.215218"
+        },
+        {
+            "+content": "<cite>Monogatari Off & Monster Season</cite> Anime Gets New Episode",
+            "+@datetime": "2025-07-03T10:30:26Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-03/monogatari-off-and-monster-season-anime-gets-new-episode/.226264"
         }
     ],
     "staff": [
@@ -234,11 +243,35 @@
             }
         },
         {
+            "+@gid": "2471182450",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Atsushi Takahashi",
+                "+@id": "1204"
+            }
+        },
+        {
             "+@gid": "3909144908",
             "task": "Storyboard",
             "person": {
                 "+content": "Kei Ajiki",
                 "+@id": "45255"
+            }
+        },
+        {
+            "+@gid": "2333020691",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ryō Shimura",
+                "+@id": "70683"
+            }
+        },
+        {
+            "+@gid": "1415993344",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Mie Ōishi",
+                "+@id": "79020"
             }
         },
         {
@@ -258,6 +291,14 @@
             }
         },
         {
+            "+@gid": "2231776294",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yasuhiro Noda",
+                "+@id": "84473"
+            }
+        },
+        {
             "+@gid": "3348383534",
             "task": "Storyboard",
             "person": {
@@ -274,11 +315,35 @@
             }
         },
         {
+            "+@gid": "2091719854",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Akiyuki Simbo",
+                "+@id": "115255"
+            }
+        },
+        {
             "+@gid": "842380624",
             "task": "Episode Director",
             "person": {
                 "+content": "Yukihiro Miyamoto",
                 "+@id": "61248"
+            }
+        },
+        {
+            "+@gid": "205097802",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ryō Shimura",
+                "+@id": "70683"
+            }
+        },
+        {
+            "+@gid": "2988511181",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shōhei Fujita",
+                "+@id": "77724"
             }
         },
         {
@@ -295,6 +360,30 @@
             "person": {
                 "+content": "Naoaki Shibuta",
                 "+@id": "107815"
+            }
+        },
+        {
+            "+@gid": "1326889738",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Midori Yoshizawa",
+                "+@id": "112532"
+            }
+        },
+        {
+            "+@gid": "1668888725",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Teppei Takeya",
+                "+@id": "228225"
+            }
+        },
+        {
+            "+@gid": "2509250476",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Osamu Sumiya",
+                "+@id": "253531"
             }
         },
         {
@@ -407,6 +496,38 @@
             "person": {
                 "+content": "Mizuho Ishikawa",
                 "+@id": "181205"
+            }
+        },
+        {
+            "+@gid": "2414647831",
+            "task": "Producer",
+            "person": {
+                "+content": "Akiko Yodo",
+                "+@id": "82080"
+            }
+        },
+        {
+            "+@gid": "504236103",
+            "task": "Producer",
+            "person": {
+                "+content": "Maho Nishibe",
+                "+@id": "98423"
+            }
+        },
+        {
+            "+@gid": "1147439415",
+            "task": "Producer",
+            "person": {
+                "+content": "Tatsuya Ishikawa",
+                "+@id": "114532"
+            }
+        },
+        {
+            "+@gid": "1008404142",
+            "task": "Producer",
+            "person": {
+                "+content": "Yoshiyuki Shiotani",
+                "+@id": "147139"
             }
         }
     ],
@@ -556,6 +677,6 @@
         }
     },
     "+@date-added": "2024-01-18T04:39:46Z",
-    "+@date-last-modified-at": "2025-06-22T12:56:01Z",
-    "+@date-last-updated-at": "2025-06-22T12:56:01Z"
+    "+@date-last-modified-at": "2025-07-23T13:06:28Z",
+    "+@date-last-updated-at": "2025-07-23T13:06:28Z"
 }
