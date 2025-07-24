@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Oshi no Ko",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-06-23T13:02:45Z",
+    "+@generated-on": "2025-07-24T20:36:06Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "25783"
@@ -51,6 +51,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "1108562845",
+            "+@type": "Genres"
+        },
+        {
             "+content": "drama",
             "+@gid": "1173807063",
             "+@type": "Genres"
@@ -66,9 +71,44 @@
             "+@type": "Genres"
         },
         {
+            "+content": "crime",
+            "+@gid": "1171903702",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "detective",
+            "+@gid": "1761075243",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "idols",
+            "+@gid": "1540465352",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "music",
+            "+@gid": "3192903424",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "tragedy",
+            "+@gid": "2794708961",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "2418677346",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "As Aqua continues his quest to find his father—the puppet master behind his mother's murder—within the Japanese entertainment industry, he finds himself acting in a stage play based on the wildly popular manga Tokyo Blade. Surrounded by competent professionals— including his friends Kana and Akane—it looks like this will be one of his easier jobs… If only things could be that easy.",
             "+@gid": "3376016015",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "1133534552",
+            "+@type": "Running time"
         },
         {
             "+content": "13",
@@ -104,9 +144,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "121",
-        "+@weighted_score": "8.3734",
-        "+@bayesian_score": "8.28625"
+        "+@nb_votes": "123",
+        "+@weighted_score": "8.3913",
+        "+@bayesian_score": "8.30367"
     },
     "episode": [
         {
@@ -1224,7 +1264,7 @@
             "+@lang": "JA",
             "role": "Memcho",
             "person": {
-                "+content": "Rumi Okubo",
+                "+content": "Rumi Ōkubo",
                 "+@id": "88587"
             }
         },
@@ -1353,6 +1393,6 @@
         }
     ],
     "+@date-added": "2023-06-29T12:04:25Z",
-    "+@date-last-modified-at": "2025-06-23T13:02:47Z",
-    "+@date-last-updated-at": "2025-06-23T13:02:47Z"
+    "+@date-last-modified-at": "2025-07-24T20:36:09Z",
+    "+@date-last-updated-at": "2025-07-24T20:36:09Z"
 }
