@@ -254,16 +254,28 @@ def _get_current_datetime():
     return datetime.now()
 
 
-def _get_encyclopedia_entries(url: str, category: str):
-    try:
-        encyclopedia_response = requests.get(url, timeout=60)
-        encyclopedia_response.raise_for_status()
-    except requests.exceptions.HTTPError as err:
-        logger.critical(
-            f"An error occurred while retrieving the report for URL `{url} of category `{category}`: {err}"
-        )
-
-        raise
+def _get_encyclopedia_entries(url: str, category: str, max_retries: int = 3):
+    retries = 0
+    while retries < max_retries:
+        try:
+            encyclopedia_response = requests.get(url, timeout=60)
+            encyclopedia_response.raise_for_status()
+            break
+        except requests.exceptions.Timeout:
+            retries += 1
+            logger.warning(
+                f"Timeout occurred while retrieving the report for URL `{url}` of category `{category}`. Retrying ({retries}/{max_retries})..."
+            )
+            if retries == max_retries:
+                logger.critical(
+                    f"Max retries for timout reached. Failed to retrieve the report for URL `{url}` of category `{category}`."
+                )
+                raise
+        except requests.exceptions.HTTPError as err:
+            logger.critical(
+                f"An error occurred while retrieving the report for URL `{url}` of category `{category}`: {err}"
+            )
+            raise
 
     response = sp.run(
         ["yq", "-p=xml", "-o=json"],
