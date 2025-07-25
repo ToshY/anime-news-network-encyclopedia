@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "One For All",
     "+@precision": "manga",
-    "+@generated-on": "2025-06-21T08:38:24Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "4043"
-    },
+    "+@generated-on": "2025-07-25T04:54:54Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "4043"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "29974"
+        }
+    ],
     "info": [
         {
             "+@gid": "738954449",
@@ -41,9 +47,21 @@
             "+@lang": "EN"
         },
         {
-            "+content": "2023-12-11 (serialized in Young Magazine, 2024 #2/3)",
+            "+content": "2023-12-11 to 2024-12-09 (Young Magazine, 2024 #2/3 - 2025 #2/3)",
             "+@gid": "3470227573",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-02-15 (serialized on YanMaga Web)",
+            "+@gid": "3062170183",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "『ONE FOR ALL』 【無料公開中】 | ヤンマガWeb",
+            "+@gid": "1724468628",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://yanmaga.jp/comics/ONE_FOR_ALL"
         }
     ],
     "news": {
@@ -60,6 +78,6 @@
         }
     },
     "+@date-added": "2025-04-03T18:18:44Z",
-    "+@date-last-modified-at": "2025-06-21T08:38:25Z",
-    "+@date-last-updated-at": "2025-06-21T08:38:25Z"
+    "+@date-last-modified-at": "2025-07-25T04:54:56Z",
+    "+@date-last-updated-at": "2025-07-25T04:54:56Z"
 }

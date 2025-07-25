@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "To Be Hero X",
     "+@precision": "TV",
-    "+@generated-on": "2025-06-23T20:35:09Z",
+    "+@generated-on": "2025-07-25T04:55:27Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "18728"
@@ -39,6 +39,16 @@
             "+@gid": "4092271090",
             "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "action",
+            "+@gid": "1237190686",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "superhero",
+            "+@gid": "3662032528",
+            "+@type": "Themes"
         },
         {
             "+content": "In this world, people's trust in individuals, quantified as data on their wrists, directly influences their abilities, allowing ordinary people to become superheroes. The hero with the most trust is referred to as X. (Spring 2025 Preview Guide)",
@@ -151,6 +161,38 @@
                 "+@gid": "3101053129",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "The Truth Behind Luck",
+                "+@gid": "1939678957",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "Road to the Crown",
+                "+@gid": "2279639062",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Fall of the Star",
+                "+@gid": "1573148042",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "Tough Girl",
+                "+@gid": "1991377260",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -255,7 +297,7 @@
             "+@gid": "3014683085",
             "task": "Music",
             "person": {
-                "+content": "Shuhei Mutsuki",
+                "+content": "Shūhei Mutsuki",
                 "+@id": "134398"
             }
         },
@@ -326,6 +368,15 @@
     ],
     "cast": [
         {
+            "+@gid": "1938226970",
+            "+@lang": "EN",
+            "role": "Loli",
+            "person": {
+                "+content": "Sarah Wiedenheft",
+                "+@id": "128620"
+            }
+        },
+        {
             "+@gid": "2622803711",
             "+@lang": "EN",
             "role": "Lucky Cyan",
@@ -353,6 +404,24 @@
             }
         },
         {
+            "+@gid": "1054343299",
+            "+@lang": "EN",
+            "role": "Ghostblade",
+            "person": {
+                "+content": "Ernesto Jason Liebrecht",
+                "+@id": "209358"
+            }
+        },
+        {
+            "+@gid": "1406006572",
+            "+@lang": "EN",
+            "role": "DJ Shindig",
+            "person": {
+                "+content": "Van Barr Jr.",
+                "+@id": "213292"
+            }
+        },
+        {
             "+@gid": "2923169394",
             "+@lang": "EN",
             "role": "Nice",
@@ -362,9 +431,99 @@
             }
         },
         {
+            "+@gid": "1452373827",
+            "+@lang": "ES",
+            "role": "X",
+            "person": {
+                "+content": "Alan Fernando Velázquez",
+                "+@id": "59821"
+            }
+        },
+        {
+            "+@gid": "1580516604",
+            "+@lang": "ES",
+            "role": "Queen",
+            "person": {
+                "+content": "Angélica Villa",
+                "+@id": "98158"
+            }
+        },
+        {
+            "+@gid": "1531339150",
+            "+@lang": "ES",
+            "role": "Ghostblade",
+            "person": {
+                "+content": "Jaime Alberto Carrillo",
+                "+@id": "98844"
+            }
+        },
+        {
+            "+@gid": "1798376086",
+            "+@lang": "ES",
+            "role": "Nice",
+            "person": {
+                "+content": "Marc Winslow",
+                "+@id": "119690"
+            }
+        },
+        {
+            "+@gid": "3059948786",
+            "+@lang": "ES",
+            "role": "Little Johnny",
+            "person": {
+                "+content": "Eduardo Martínez",
+                "+@id": "165086"
+            }
+        },
+        {
+            "+@gid": "1238635839",
+            "+@lang": "ES",
+            "role": "Lucky Cyan",
+            "person": {
+                "+content": "Casandra Acevedo",
+                "+@id": "177169"
+            }
+        },
+        {
+            "+@gid": "2360672424",
+            "+@lang": "ES",
+            "role": "Loli",
+            "person": {
+                "+content": "Amellalli Guevara",
+                "+@id": "185613"
+            }
+        },
+        {
+            "+@gid": "1405217847",
+            "+@lang": "ES",
+            "role": "Ahu",
+            "person": {
+                "+content": "Luís Hurtado",
+                "+@id": "185796"
+            }
+        },
+        {
+            "+@gid": "2831404002",
+            "+@lang": "ES",
+            "role": "E-Soul",
+            "person": {
+                "+content": "Diego Alegría",
+                "+@id": "234696"
+            }
+        },
+        {
+            "+@gid": "2514860130",
+            "+@lang": "ES",
+            "role": "Dragon Boy",
+            "person": {
+                "+content": "Joaquin Augusto",
+                "+@id": "271853"
+            }
+        },
+        {
             "+@gid": "1294352794",
             "+@lang": "FR",
-            "role": "Queen",
+            "role": "Reine",
             "person": {
                 "+content": "Claire Tefnin",
                 "+@id": "53859"
@@ -445,7 +604,7 @@
         {
             "+@gid": "1234006998",
             "+@lang": "FR",
-            "role": "Ghostblade",
+            "role": "Faucheur",
             "person": {
                 "+content": "Jonathan Simon",
                 "+@id": "176972"
@@ -619,6 +778,6 @@
         }
     ],
     "+@date-added": "2023-03-25T03:16:56Z",
-    "+@date-last-modified-at": "2025-06-23T20:35:12Z",
-    "+@date-last-updated-at": "2025-06-23T20:35:12Z"
+    "+@date-last-modified-at": "2025-07-25T04:55:33Z",
+    "+@date-last-updated-at": "2025-07-25T04:55:33Z"
 }
