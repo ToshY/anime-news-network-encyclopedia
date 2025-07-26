@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Kaiju Kamuy",
     "+@precision": "manga",
-    "+@generated-on": "2025-06-22T20:32:36Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "4043"
-    },
+    "+@generated-on": "2025-07-26T20:34:38Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "4043"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "29974"
+        }
+    ],
     "info": [
         {
             "+content": "Kaiju Kamuy",
@@ -34,9 +40,26 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2024-07-08 (serialized in Young Magazine, 2024 #32)",
+            "+content": "3",
+            "+@gid": "3110545745",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2024-07-08 to 2024-12-02 (Young Magazine, 2024 #32 - 2025 #1)",
             "+@gid": "2187507168",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-01-04 to 2025-05-03 (serialized on YanMaga Web)",
+            "+@gid": "2178904031",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "『怪獣カムイ』 【無料公開中】 | ヤンマガWeb",
+            "+@gid": "2487027458",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://yanmaga.jp/comics/%E6%80%AA%E7%8D%A3%E3%82%AB%E3%83%A0%E3%82%A4"
         }
     ],
     "news": [
@@ -60,6 +83,6 @@
         }
     },
     "+@date-added": "2025-03-05T18:50:45Z",
-    "+@date-last-modified-at": "2025-06-22T20:32:37Z",
-    "+@date-last-updated-at": "2025-06-22T20:32:37Z"
+    "+@date-last-modified-at": "2025-07-26T20:34:39Z",
+    "+@date-last-updated-at": "2025-07-26T20:34:39Z"
 }
