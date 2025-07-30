@@ -4,21 +4,15 @@
     "+@type": "TV",
     "+@name": "Uma Musume Pretty Derby Season 2",
     "+@precision": "TV",
-    "+@generated-on": "2025-06-28T08:38:29Z",
+    "+@generated-on": "2025-07-30T04:57:22Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "22478"
     },
-    "related-next": [
-        {
-            "+@id": "25438",
-            "+@rel": "related"
-        },
-        {
-            "+@id": "26547",
-            "+@rel": "sequel"
-        }
-    ],
+    "related-next": {
+        "+@id": "25438",
+        "+@rel": "sequel"
+    },
     "info": [
         {
             "+@gid": "1325262759",
@@ -52,8 +46,43 @@
             "+@lang": "JA"
         },
         {
-            "+content": "Tōkai Teiō, who has adored the undefeated Symboli Rudolph and is aiming for the Triple Crown, is attracting attention all over Japan ahead of the upcoming Japan Derby's race.",
-            "+@gid": "2637543867",
+            "+content": "comedy",
+            "+@gid": "1101747932",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "3212721557",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "tournament",
+            "+@gid": "1991706249",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "idols",
+            "+@gid": "3390242741",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "racing",
+            "+@gid": "1662889424",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "school",
+            "+@gid": "2713068060",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "OC",
+            "+@gid": "2592128217",
+            "+@type": "Objectionable content"
+        },
+        {
+            "+content": "Tokai Teio has risen from the ranks to become the top uma musume in the Japanese derby, but when a leg injury shatters her hopes of winning the Triple Crown, she must walk the long road to recovery to remain undefeated upon her return to the racetracks while her best friend and rival Mejiro McQueen strives to unseat her as the best uma musume and Canopus aims to defeat Spica as the best racing team.",
+            "+@gid": "2785112711",
             "+@type": "Plot Summary"
         },
         {
@@ -105,9 +134,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "62",
-        "+@weighted_score": "8.0609",
-        "+@bayesian_score": "7.95934"
+        "+@nb_votes": "64",
+        "+@weighted_score": "8.0744",
+        "+@bayesian_score": "7.97313"
     },
     "episode": [
         {
@@ -836,15 +865,6 @@
             }
         },
         {
-            "+@gid": "822624598",
-            "+@lang": "JA",
-            "role": "Silence Suzuka",
-            "person": {
-                "+content": "Marika Kōno",
-                "+@id": "134422"
-            }
-        },
-        {
             "+@gid": "1996857272",
             "+@lang": "JA",
             "role": "Special Week",
@@ -908,9 +928,9 @@
             }
         },
         {
-            "+@gid": "1924920809",
+            "+@gid": "3557948210",
             "+@lang": "JA",
-            "role": "Hosoe-san",
+            "role": "Hosoe",
             "person": {
                 "+content": "Junko Hosoe",
                 "+@id": "171083"
@@ -996,6 +1016,6 @@
         }
     ],
     "+@date-added": "2020-12-19T20:51:10Z",
-    "+@date-last-modified-at": "2025-06-28T08:38:31Z",
-    "+@date-last-updated-at": "2025-06-28T08:38:31Z"
+    "+@date-last-modified-at": "2025-07-30T04:57:24Z",
+    "+@date-last-updated-at": "2025-07-30T04:57:24Z"
 }
