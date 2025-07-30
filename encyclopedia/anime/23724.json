@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Stand By Me Doraemon 2",
     "+@precision": "movie",
-    "+@generated-on": "2025-06-28T16:40:22Z",
+    "+@generated-on": "2025-07-30T13:07:28Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "15716"
@@ -65,8 +65,8 @@
     ],
     "ratings": {
         "+@nb_votes": "18",
-        "+@weighted_score": "7.8409",
-        "+@bayesian_score": "7.68746"
+        "+@weighted_score": "7.8404",
+        "+@bayesian_score": "7.687"
     },
     "news": [
         {
@@ -609,12 +609,30 @@
             }
         },
         {
+            "+@gid": "2786923157",
+            "+@lang": "FR",
+            "role": "Professeur Nobito",
+            "person": {
+                "+content": "Peppino Capotondi",
+                "+@id": "52412"
+            }
+        },
+        {
             "+@gid": "1940418127",
             "+@lang": "FR",
             "role": "Shizuka Minamoto",
             "person": {
                 "+content": "Maia Baran",
                 "+@id": "52980"
+            }
+        },
+        {
+            "+@gid": "2734866775",
+            "+@lang": "FR",
+            "role": "Yoshio Minamoto (Père de Shizuka)",
+            "person": {
+                "+content": "Laurent Vernin",
+                "+@id": "53849"
             }
         },
         {
@@ -633,6 +651,15 @@
             "person": {
                 "+content": "Fabienne Loriaux",
                 "+@id": "58717"
+            }
+        },
+        {
+            "+@gid": "2270470416",
+            "+@lang": "FR",
+            "role": "Nakameguro",
+            "person": {
+                "+content": "Sébastien Hebrant",
+                "+@id": "68470"
             }
         },
         {
@@ -1274,6 +1301,6 @@
         }
     ],
     "+@date-added": "2020-10-21T00:48:37Z",
-    "+@date-last-modified-at": "2025-06-28T16:40:27Z",
-    "+@date-last-updated-at": "2025-06-28T16:40:27Z"
+    "+@date-last-modified-at": "2025-07-30T13:07:29Z",
+    "+@date-last-updated-at": "2025-07-30T13:07:29Z"
 }
