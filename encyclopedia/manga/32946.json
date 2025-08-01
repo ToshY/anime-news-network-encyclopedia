@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "GsGs Online",
     "+@precision": "manga",
-    "+@generated-on": "2025-06-28T02:18:17Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "32612"
-    },
+    "+@generated-on": "2025-08-01T13:06:11Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "26388"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "32612"
+        }
+    ],
     "info": [
         {
             "+@gid": "3801525349",
@@ -59,8 +65,18 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2024-01-27 (serialized on YanChan Web)",
+            "+content": "3",
+            "+@gid": "890439460",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2024-01-27 to 2025-04-26 (serialized on YanChan Web)",
             "+@gid": "2670393721",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2024-02-27 to 2025-05-27 (Dokodemo Young Champion, Mar 2024-Jun 2025)",
+            "+@gid": "1963228485",
             "+@type": "Vintage"
         },
         {
@@ -90,6 +106,6 @@
         }
     ],
     "+@date-added": "2024-07-22T18:57:39Z",
-    "+@date-last-modified-at": "2025-06-28T02:18:18Z",
-    "+@date-last-updated-at": "2025-06-28T02:18:18Z"
+    "+@date-last-modified-at": "2025-08-01T13:06:13Z",
+    "+@date-last-updated-at": "2025-08-01T13:06:13Z"
 }
