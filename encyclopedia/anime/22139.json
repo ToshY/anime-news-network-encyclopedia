@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Hello World",
     "+@precision": "movie",
-    "+@generated-on": "2025-07-01T08:43:47Z",
+    "+@generated-on": "2025-08-02T08:42:18Z",
     "related-next": [
         {
             "+@id": "22467",
@@ -120,8 +120,8 @@
     ],
     "ratings": {
         "+@nb_votes": "40",
-        "+@weighted_score": "6.596",
-        "+@bayesian_score": "6.81158"
+        "+@weighted_score": "6.5959",
+        "+@bayesian_score": "6.81143"
     },
     "review": {
         "+content": "Hello World",
@@ -266,6 +266,14 @@
             "person": {
                 "+content": "Yoshiki Obata",
                 "+@id": "105923"
+            }
+        },
+        {
+            "+@gid": "2038008178",
+            "task": "Producer",
+            "person": {
+                "+content": "Nen Hyo",
+                "+@id": "286191"
             }
         }
     ],
@@ -514,6 +522,6 @@
         }
     },
     "+@date-added": "2019-04-23T04:22:56Z",
-    "+@date-last-modified-at": "2025-07-01T08:43:51Z",
-    "+@date-last-updated-at": "2025-07-01T08:43:51Z"
+    "+@date-last-modified-at": "2025-08-02T08:42:22Z",
+    "+@date-last-updated-at": "2025-08-02T08:42:22Z"
 }

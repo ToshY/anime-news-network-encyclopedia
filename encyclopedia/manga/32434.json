@@ -2,9 +2,9 @@
     "+@id": "32434",
     "+@gid": "3052652606",
     "+@type": "manga",
-    "+@name": "Kakushigoto",
+    "+@name": "I Have a Secret",
     "+@precision": "manga",
-    "+@generated-on": "2025-06-28T20:32:57Z",
+    "+@generated-on": "2025-08-02T08:42:23Z",
     "related-prev": [
         {
             "+@rel": "serialized in",
@@ -45,9 +45,15 @@
             ]
         },
         {
+            "+content": "I Have a Secret",
+            "+@gid": "2148959691",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Kakushigoto",
             "+@gid": "2199122944",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -61,6 +67,11 @@
             "+@gid": "3740141732",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "coming of age",
+            "+@gid": "2312387382",
+            "+@type": "Themes"
         },
         {
             "+content": "Five high-school classmates hold secrets close to their hearts–hidden talents, unspoken feelings, and buried pain. As they collide with each other on the path to growing up, they might just jostle some of those secrets free. <em class=de-emphasized>(from manga)</em>",
@@ -82,11 +93,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Manga Briefs Roundup: March 2018",
-        "+@datetime": "2018-04-15T13:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2018-04-15/manga-briefs-roundup-march-2018/.129658"
-    },
+    "news": [
+        {
+            "+content": "Manga Briefs Roundup: March 2018",
+            "+@datetime": "2018-04-15T13:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2018-04-15/manga-briefs-roundup-march-2018/.129658"
+        },
+        {
+            "+content": "Seven Seas Licenses  4 Titles by <i>I Want to Eat Your Pancreas</i> Author  Yoru Sumino",
+            "+@datetime": "2025-07-10T00:40:45Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-09/seven-seas-licenses-4-titles-by-i-want-to-eat-your-pancreas-author-yoru-sumino/.226492"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1128524264",
@@ -106,6 +124,6 @@
         }
     ],
     "+@date-added": "2024-03-13T14:36:12Z",
-    "+@date-last-modified-at": "2025-06-28T20:32:58Z",
-    "+@date-last-updated-at": "2025-06-28T20:32:58Z"
+    "+@date-last-modified-at": "2025-08-02T08:42:26Z",
+    "+@date-last-updated-at": "2025-08-02T08:42:26Z"
 }
