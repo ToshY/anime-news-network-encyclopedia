@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Young Dial",
     "+@precision": "manga",
-    "+@generated-on": "2025-06-29T20:33:10Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "4660"
-    },
+    "+@generated-on": "2025-08-03T08:41:46Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "4660"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "22882"
+        }
+    ],
     "info": [
         {
             "+@gid": "1475160552",
@@ -63,9 +69,21 @@
             "+@type": "Number of tankoubon"
         },
         {
-            "+content": "2023-09-25 (serialized in Kiss, Nov 2023)",
+            "+content": "2023-09-25 to 2024-11-25 (serialized in Kiss, Nov 2023 - Jan 2025)",
             "+@gid": "2439108596",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2024-12-20 to 2025-05-09 (serialized on Comic Days)",
+            "+@gid": "1488486670",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "ヤングダイヤル ―少年事件第零課― - 朱村咲 / 第１話（１） | コミックDAYS",
+            "+@gid": "731811441",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://comic-days.com/episode/14079602755228384084"
         }
     ],
     "staff": {
@@ -77,6 +95,6 @@
         }
     },
     "+@date-added": "2024-02-12T22:25:07Z",
-    "+@date-last-modified-at": "2025-06-29T20:33:11Z",
-    "+@date-last-updated-at": "2025-06-29T20:33:11Z"
+    "+@date-last-modified-at": "2025-08-03T08:41:48Z",
+    "+@date-last-updated-at": "2025-08-03T08:41:48Z"
 }
