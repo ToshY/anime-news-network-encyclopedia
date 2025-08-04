@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Uma Musume Pretty Derby",
     "+@precision": "TV",
-    "+@generated-on": "2025-07-02T20:33:25Z",
+    "+@generated-on": "2025-08-04T02:43:27Z",
     "related-next": [
         {
             "+@id": "22478",
@@ -85,9 +85,34 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "1639698483",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "2439300514",
+            "+@type": "Genres"
+        },
+        {
             "+content": "tournament",
             "+@gid": "4136036688",
             "+@type": "Genres"
+        },
+        {
+            "+content": "idols",
+            "+@gid": "1546898839",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "racing",
+            "+@gid": "3126936126",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "school",
+            "+@gid": "3116295991",
+            "+@type": "Themes"
         },
         {
             "+content": "OC",
@@ -135,11 +160,6 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "\"ENDLESS DREAM!!\" by ??? (ep 2)",
-            "+@gid": "1543949288",
-            "+@type": "Insert song"
-        },
-        {
             "+content": "\"ENDLESS DREAM!!\" by Special Week (CV. Azuki Waki), Silence Suzuka (CV. Marika Kouno), Tokai Teio (CV. Machico) (ep 3)",
             "+@gid": "2421587502",
             "+@type": "Insert song"
@@ -161,16 +181,16 @@
         },
         {
             "+content": "TVアニメ『ウマ娘 プリティーダービー』公式サイト",
-            "+@gid": "751623208",
+            "+@gid": "3993032613",
             "+@type": "Official website",
             "+@lang": "JA",
-            "+@href": "http://anime-umamusume.jp/"
+            "+@href": "https://anime-umamusume.jp/archive/1st"
         }
     ],
     "ratings": {
-        "+@nb_votes": "126",
-        "+@weighted_score": "7.6041",
-        "+@bayesian_score": "7.59202"
+        "+@nb_votes": "128",
+        "+@weighted_score": "7.6026",
+        "+@bayesian_score": "7.59079"
     },
     "episode": [
         {
@@ -496,7 +516,7 @@
             "+@gid": "2679846685",
             "task": "Script",
             "person": {
-                "+content": "Yoko Yonaiyama",
+                "+content": "Yōko Yonaiyama",
                 "+@id": "171082"
             }
         },
@@ -984,6 +1004,15 @@
             }
         },
         {
+            "+@gid": "1834338799",
+            "+@lang": "JA",
+            "role": "Broye",
+            "person": {
+                "+content": "Haruna Ikezawa",
+                "+@id": "4269"
+            }
+        },
+        {
             "+@gid": "3501140451",
             "+@lang": "JA",
             "role": "Hishi Amazon",
@@ -1002,12 +1031,12 @@
             }
         },
         {
-            "+@gid": "2144753960",
+            "+@gid": "1385611378",
             "+@lang": "JA",
-            "role": "Queen Berry",
+            "role": "Grass Wonder",
             "person": {
-                "+content": "Chinatsu Akasaki",
-                "+@id": "89894"
+                "+content": "Rena Maeda",
+                "+@id": "102425"
             }
         },
         {
@@ -1071,15 +1100,6 @@
             "person": {
                 "+content": "Yuka Aisaka",
                 "+@id": "124966"
-            }
-        },
-        {
-            "+@gid": "4062618276",
-            "+@lang": "JA",
-            "role": "Inari One",
-            "person": {
-                "+content": "Haruno Inoue",
-                "+@id": "127200"
             }
         },
         {
@@ -1164,15 +1184,6 @@
             }
         },
         {
-            "+@gid": "1820202204",
-            "+@lang": "JA",
-            "role": "Mejiro Dober",
-            "person": {
-                "+content": "Hikari Kubota",
-                "+@id": "150847"
-            }
-        },
-        {
             "+@gid": "1286696959",
             "+@lang": "JA",
             "role": "Trainer",
@@ -1209,6 +1220,6 @@
         }
     },
     "+@date-added": "2018-01-31T00:09:29Z",
-    "+@date-last-modified-at": "2025-07-02T20:33:28Z",
-    "+@date-last-updated-at": "2025-07-02T20:33:28Z"
+    "+@date-last-modified-at": "2025-08-04T02:43:29Z",
+    "+@date-last-updated-at": "2025-08-04T02:43:29Z"
 }
