@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Pokémon Sun & Moon",
     "+@precision": "TV",
-    "+@generated-on": "2025-07-04T20:33:38Z",
+    "+@generated-on": "2025-08-06T02:35:29Z",
     "related-prev": [
         {
             "+@rel": "sequel of",
@@ -111,12 +111,6 @@
             "+@lang": "IT"
         },
         {
-            "+content": "Pokémon the Series: Sun & Moon",
-            "+@gid": "2579873539",
-            "+@type": "Alternative title",
-            "+@lang": "EN"
-        },
-        {
             "+content": "Pokémon the Series: Sun & Moon—Ultra Adventures",
             "+@gid": "1981795656",
             "+@type": "Alternative title",
@@ -141,12 +135,6 @@
             "+@lang": "JA"
         },
         {
-            "+content": "포켓몬스터 썬&문",
-            "+@gid": "2069288723",
-            "+@type": "Alternative title",
-            "+@lang": "KO"
-        },
-        {
             "+content": "adventure",
             "+@gid": "3589258834",
             "+@type": "Genres"
@@ -162,18 +150,8 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "25",
-            "+@gid": "1161756278",
-            "+@type": "Running time"
-        },
-        {
             "+content": "2016-11-17",
             "+@gid": "1992696577",
-            "+@type": "Vintage"
-        },
-        {
-            "+content": "2016-11-17 to 2019-11-03",
-            "+@gid": "2221094343",
             "+@type": "Vintage"
         },
         {
@@ -267,11 +245,6 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "#5: \"Breath\" by Porno Graffitti (eps 82-86)",
-            "+@gid": "2682806590",
-            "+@type": "Ending Theme"
-        },
-        {
             "+content": "\"Aim to Be a Pokémon Master -20th Anniversary- (Mezase Pokémon Master -20th Anniversary- めざせポケモンマスター -20th Anniversary-)\" by Rica Matsumoto (ep 102)",
             "+@gid": "3011511686",
             "+@type": "Insert song"
@@ -332,9 +305,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "32",
-        "+@weighted_score": "7.0179",
-        "+@bayesian_score": "7.14989"
+        "+@nb_votes": "33",
+        "+@weighted_score": "7.0244",
+        "+@bayesian_score": "7.1516"
     },
     "episode": [
         {
@@ -3037,14 +3010,6 @@
             }
         },
         {
-            "+@gid": "1483160405",
-            "task": "Producer",
-            "person": {
-                "+content": "Ayaka Sekiguchi",
-                "+@id": "82687"
-            }
-        },
-        {
             "+@gid": "2184238049",
             "task": "Producer",
             "person": {
@@ -4504,49 +4469,15 @@
             }
         }
     ],
-    "credit": [
-        {
-            "+@gid": "2156717652",
-            "task": "Animation Production",
-            "company": {
-                "+content": "OLM",
-                "+@id": "33"
-            }
-        },
-        {
-            "+@gid": "3673467920",
-            "task": "Animation Production",
-            "company": {
-                "+content": "OLM",
-                "+@id": "21918"
-            }
-        },
-        {
-            "+@gid": "1123511601",
-            "task": "Production",
-            "company": {
-                "+content": "TV Tokyo",
-                "+@id": "262"
-            }
-        },
-        {
-            "+@gid": "2780213320",
-            "task": "Production",
-            "company": {
-                "+content": "Medianet",
-                "+@id": "344"
-            }
-        },
-        {
-            "+@gid": "1961624461",
-            "task": "Production",
-            "company": {
-                "+content": "ShoPro Entertainment",
-                "+@id": "1080"
-            }
+    "credit": {
+        "+@gid": "2156717652",
+        "task": "Animation Production",
+        "company": {
+            "+content": "OLM",
+            "+@id": "33"
         }
-    ],
+    },
     "+@date-added": "2016-09-21T00:35:56Z",
-    "+@date-last-modified-at": "2025-07-04T20:33:40Z",
-    "+@date-last-updated-at": "2025-07-04T20:33:40Z"
+    "+@date-last-modified-at": "2025-08-06T02:35:30Z",
+    "+@date-last-updated-at": "2025-08-06T02:35:30Z"
 }
