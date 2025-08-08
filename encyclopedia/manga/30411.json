@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Shutokō Special",
     "+@precision": "manga",
-    "+@generated-on": "2025-07-04T08:43:08Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "13121"
-    },
+    "+@generated-on": "2025-08-08T02:34:44Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "13121"
+        },
+        {
+            "+@rel": "sequel of",
+            "+@id": "37271"
+        }
+    ],
     "related-next": {
         "+@id": "35805",
         "+@rel": "prequel"
@@ -77,6 +83,6 @@
         }
     },
     "+@date-added": "2023-10-20T00:24:40Z",
-    "+@date-last-modified-at": "2025-07-04T08:43:08Z",
-    "+@date-last-updated-at": "2025-07-04T08:43:08Z"
+    "+@date-last-modified-at": "2025-08-08T02:34:45Z",
+    "+@date-last-updated-at": "2025-08-08T02:34:45Z"
 }
