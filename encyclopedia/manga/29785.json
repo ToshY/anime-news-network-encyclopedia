@@ -2,9 +2,9 @@
     "+@id": "29785",
     "+@gid": "1510791922",
     "+@type": "manga",
-    "+@name": "Smiley",
+    "+@name": "Smile!",
     "+@precision": "manga",
-    "+@generated-on": "2025-07-06T04:47:04Z",
+    "+@generated-on": "2025-08-09T16:41:26Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "26566"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "Smile!",
+            "+@gid": "583947253",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Smiley",
             "+@gid": "928492337",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "EN"
         },
         {
@@ -62,11 +68,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "<cite>Berserk of Gluttony</cite>, <cite>Dungeon People</cite>, <cite>Oblivion Battery</cite> Manga Win 2nd Rakuten Kobo e-Book Awards 2024",
-        "+@datetime": "2024-06-03T06:36:50Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-06-03/berserk-of-gluttony-dungeon-people-oblivion-battery-manga-win-2nd-rakuten-kobo-e-book-awards-2024/.211464"
-    },
+    "news": [
+        {
+            "+content": "<cite>Berserk of Gluttony</cite>, <cite>Dungeon People</cite>, <cite>Oblivion Battery</cite> Manga Win 2nd Rakuten Kobo e-Book Awards 2024",
+            "+@datetime": "2024-06-03T06:36:50Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-06-03/berserk-of-gluttony-dungeon-people-oblivion-battery-manga-win-2nd-rakuten-kobo-e-book-awards-2024/.211464"
+        },
+        {
+            "+content": "Kodama Tales to Publish <cite>Smile!</cite> Manga in English",
+            "+@datetime": "2025-07-26T20:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-26/kodama-tales-to-publish-smile-manga-in-english/.226884"
+        }
+    ],
     "staff": {
         "+@gid": "501755759",
         "task": "Story & Art",
@@ -76,6 +89,6 @@
         }
     },
     "+@date-added": "2023-09-08T13:03:53Z",
-    "+@date-last-modified-at": "2025-07-06T04:47:06Z",
-    "+@date-last-updated-at": "2025-07-06T04:47:06Z"
+    "+@date-last-modified-at": "2025-08-09T16:41:27Z",
+    "+@date-last-updated-at": "2025-08-09T16:41:27Z"
 }
