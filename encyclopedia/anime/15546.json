@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Beyond the Boundary",
     "+@precision": "TV",
-    "+@generated-on": "2025-07-08T13:01:58Z",
+    "+@generated-on": "2025-08-09T20:34:17Z",
     "related-next": [
         {
             "+@id": "15748",
@@ -48,6 +48,12 @@
         {
             "+content": "Kyōkai no Kanata",
             "+@gid": "3119542326",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "Kyoukai no Kanata",
+            "+@gid": "2641775269",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
@@ -162,11 +168,19 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1209",
-        "+@weighted_score": "7.4661",
-        "+@bayesian_score": "7.46619"
+        "+@nb_votes": "1210",
+        "+@weighted_score": "7.4647",
+        "+@bayesian_score": "7.4648"
     },
     "episode": [
+        {
+            "+@num": "0",
+            "title": {
+                "+content": "Daybreak",
+                "+@gid": "739144564",
+                "+@lang": "EN"
+            }
+        },
         {
             "+@num": "1",
             "title": {
@@ -1116,6 +1130,6 @@
         }
     ],
     "+@date-added": "2013-08-05T16:38:35Z",
-    "+@date-last-modified-at": "2025-07-08T13:02:00Z",
-    "+@date-last-updated-at": "2025-07-08T13:02:00Z"
+    "+@date-last-modified-at": "2025-08-09T20:34:19Z",
+    "+@date-last-updated-at": "2025-08-09T20:34:19Z"
 }
