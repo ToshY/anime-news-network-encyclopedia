@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Venus Mission",
     "+@precision": "manga",
-    "+@generated-on": "2025-07-12T02:28:18Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "20005"
-    },
+    "+@generated-on": "2025-08-11T02:34:29Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "20005"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "37090"
+        }
+    ],
     "info": [
         {
             "+@gid": "2344231280",
@@ -103,6 +109,6 @@
         }
     ],
     "+@date-added": "2025-07-10T23:56:55Z",
-    "+@date-last-modified-at": "2025-07-12T02:28:20Z",
-    "+@date-last-updated-at": "2025-07-12T02:28:20Z"
+    "+@date-last-modified-at": "2025-08-11T02:34:31Z",
+    "+@date-last-updated-at": "2025-08-11T02:34:31Z"
 }
