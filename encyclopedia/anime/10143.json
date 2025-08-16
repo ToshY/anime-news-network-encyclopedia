@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Chō Gekijōban Keroro Gunsō Gekishin Dragon Warriors de Arimasu!",
     "+@precision": "movie 4",
-    "+@generated-on": "2025-07-14T16:44:31Z",
+    "+@generated-on": "2025-08-16T02:18:28Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "8867"
@@ -96,13 +96,20 @@
     "ratings": {
         "+@nb_votes": "21",
         "+@weighted_score": "7.5011",
-        "+@bayesian_score": "7.49101"
+        "+@bayesian_score": "7.49085"
     },
-    "news": {
-        "+content": "Japanese Box Office, March 22-23",
-        "+@datetime": "2009-03-26T04:26:44Z",
-        "+@href": "https://www.animenewsnetwork.com/news/2009-03-26/japanese-box-office-march-22-23"
-    },
+    "news": [
+        {
+            "+content": "Japanese Box Office, March 22-23",
+            "+@datetime": "2009-03-26T04:26:44Z",
+            "+@href": "https://www.animenewsnetwork.com/news/2009-03-26/japanese-box-office-march-22-23"
+        },
+        {
+            "+content": "Discotek Reveals <cite>Monster</cite>, <cite>Shin Aim for the Ace</cite>, <cite>Zegapain</cite>, 6 More Licenses",
+            "+@datetime": "2025-08-09T20:59:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-09/discotek-reveals-monster-shin-aim-for-the-ace-zegapain-6-more-licenses/.227363"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3701183609",
@@ -412,6 +419,6 @@
         }
     },
     "+@date-added": "2008-07-04T11:10:48Z",
-    "+@date-last-modified-at": "2025-07-14T16:44:34Z",
-    "+@date-last-updated-at": "2025-07-14T16:44:34Z"
+    "+@date-last-modified-at": "2025-08-16T02:18:30Z",
+    "+@date-last-updated-at": "2025-08-16T02:18:30Z"
 }
