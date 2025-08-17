@@ -4,11 +4,17 @@
     "+@type": "magazine",
     "+@name": "Seventeen",
     "+@precision": "anthology",
-    "+@generated-on": "2025-07-13T08:38:51Z",
-    "related-next": {
-        "+@id": "27061",
-        "+@rel": "serialized"
-    },
+    "+@generated-on": "2025-08-17T04:46:44Z",
+    "related-next": [
+        {
+            "+@id": "27061",
+            "+@rel": "serialized"
+        },
+        {
+            "+@id": "37222",
+            "+@rel": "serialized"
+        }
+    ],
     "info": [
         {
             "+content": "Seventeen",
@@ -36,6 +42,6 @@
         }
     ],
     "+@date-added": "2023-01-31T22:19:29Z",
-    "+@date-last-modified-at": "2025-07-13T08:38:52Z",
-    "+@date-last-updated-at": "2025-07-13T08:38:52Z"
+    "+@date-last-modified-at": "2025-08-17T04:46:45Z",
+    "+@date-last-updated-at": "2025-08-17T04:46:45Z"
 }
