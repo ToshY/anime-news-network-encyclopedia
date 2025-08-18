@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Scoopers",
     "+@precision": "OAV",
-    "+@generated-on": "2025-07-16T16:45:22Z",
+    "+@generated-on": "2025-08-18T04:52:26Z",
     "info": [
         {
             "+@gid": "3256535113",
@@ -55,8 +55,13 @@
             "+@type": "Genres"
         },
         {
-            "+content": "MA",
-            "+@gid": "2615029576",
+            "+content": "science fiction",
+            "+@gid": "2731091035",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "2436450487",
             "+@type": "Objectionable content"
         },
         {
@@ -81,8 +86,8 @@
     ],
     "ratings": {
         "+@nb_votes": "18",
-        "+@weighted_score": "5.2388",
-        "+@bayesian_score": "6.17644"
+        "+@weighted_score": "5.2353",
+        "+@bayesian_score": "6.17419"
     },
     "staff": [
         {
@@ -188,9 +193,44 @@
                 "+content": "Nobuyuki Sugaya",
                 "+@id": "10149"
             }
+        },
+        {
+            "+@gid": "950984429",
+            "task": "Producer",
+            "person": {
+                "+content": "Katsuhisa Tomita",
+                "+@id": "286643"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "2526568149",
+            "+@lang": "JA",
+            "role": "Dr. Capa",
+            "person": {
+                "+content": "Kenichi Ogata",
+                "+@id": "284"
+            }
+        },
+        {
+            "+@gid": "2051217146",
+            "+@lang": "JA",
+            "role": "Giles",
+            "person": {
+                "+content": "Kenichi Ogata",
+                "+@id": "284"
+            }
+        },
+        {
+            "+@gid": "1813470580",
+            "+@lang": "JA",
+            "role": "Caine",
+            "person": {
+                "+content": "Kenyū Horiuchi",
+                "+@id": "1007"
+            }
+        },
         {
             "+@gid": "1146847478",
             "+@lang": "JA",
@@ -198,6 +238,15 @@
             "person": {
                 "+content": "Shinya Ōtaki",
                 "+@id": "1008"
+            }
+        },
+        {
+            "+@gid": "2139127233",
+            "+@lang": "JA",
+            "role": "Baudelaire",
+            "person": {
+                "+content": "Yuzuru Fujimoto",
+                "+@id": "1473"
             }
         },
         {
@@ -210,11 +259,29 @@
             }
         },
         {
+            "+@gid": "1623843674",
+            "+@lang": "JA",
+            "role": "Dr. Cameron",
+            "person": {
+                "+content": "Kei Tomiyama",
+                "+@id": "2378"
+            }
+        },
+        {
+            "+@gid": "2805531303",
+            "+@lang": "JA",
+            "role": "Cameron's Assistant",
+            "person": {
+                "+content": "Kumiko Takizawa",
+                "+@id": "2388"
+            }
+        },
+        {
             "+@gid": "2736727022",
             "+@lang": "JA",
-            "role": "Yoko",
+            "role": "Yōko",
             "person": {
-                "+content": "Mayuki Ohashi",
+                "+content": "Mayuki Ōhashi",
                 "+@id": "63957"
             }
         },
@@ -273,15 +340,41 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2468150710",
-        "task": "Animation Production",
-        "company": {
-            "+content": "A.C.C. Production",
-            "+@id": "835"
+    "credit": [
+        {
+            "+@gid": "2468150710",
+            "task": "Animation Production",
+            "company": {
+                "+content": "A.C.C. Production",
+                "+@id": "835"
+            }
+        },
+        {
+            "+@gid": "1989560377",
+            "task": "Production",
+            "company": {
+                "+content": "ACC Tanihara Studio",
+                "+@id": "3208"
+            }
+        },
+        {
+            "+@gid": "1474565354",
+            "task": "Production",
+            "company": {
+                "+content": "Video-Tech",
+                "+@id": "6509"
+            }
+        },
+        {
+            "+@gid": "1440734351",
+            "task": "Production",
+            "company": {
+                "+content": "A.C.C. Production Tanihara Studio",
+                "+@id": "25217"
+            }
         }
-    },
+    ],
     "+@date-added": "2007-03-15T02:50:48Z",
-    "+@date-last-modified-at": "2025-07-16T16:45:24Z",
-    "+@date-last-updated-at": "2025-07-16T16:45:24Z"
+    "+@date-last-modified-at": "2025-08-18T04:52:28Z",
+    "+@date-last-updated-at": "2025-08-18T04:52:28Z"
 }
