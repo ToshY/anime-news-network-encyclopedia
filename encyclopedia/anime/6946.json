@@ -4,11 +4,17 @@
     "+@type": "movie",
     "+@name": "Golden Laws",
     "+@precision": "movie",
-    "+@generated-on": "2025-07-18T04:54:50Z",
-    "related-prev": {
-        "+@rel": "related to",
-        "+@id": "7405"
-    },
+    "+@generated-on": "2025-08-19T20:32:09Z",
+    "related-prev": [
+        {
+            "+@rel": "related to",
+            "+@id": "2841"
+        },
+        {
+            "+@rel": "related to",
+            "+@id": "7405"
+        }
+    ],
     "related-next": {
         "+@id": "7406",
         "+@rel": "related"
@@ -106,7 +112,7 @@
     ],
     "ratings": {
         "+@nb_votes": "7",
-        "+@weighted_score": "5.3697"
+        "+@weighted_score": "5.3696"
     },
     "news": [
         {
@@ -130,7 +136,7 @@
             "+@gid": "2393109786",
             "task": "Original creator",
             "person": {
-                "+content": "Ryuho Okawa",
+                "+content": "Ryūhō Ōkawa",
                 "+@id": "58282"
             }
         },
@@ -384,6 +390,6 @@
         }
     },
     "+@date-added": "2006-10-17T06:48:54Z",
-    "+@date-last-modified-at": "2025-07-18T04:54:55Z",
-    "+@date-last-updated-at": "2025-07-18T04:54:55Z"
+    "+@date-last-modified-at": "2025-08-19T20:32:11Z",
+    "+@date-last-updated-at": "2025-08-19T20:32:11Z"
 }
