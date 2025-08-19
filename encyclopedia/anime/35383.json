@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Dr. Stone: Science Future",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-07-20T16:41:25Z",
+    "+@generated-on": "2025-08-19T16:41:34Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "31089"
@@ -71,8 +71,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "8.6012"
+        "+@nb_votes": "6",
+        "+@weighted_score": "8.1123"
     },
     "news": [
         {
@@ -104,6 +104,11 @@
             "+content": "Crunchyroll Streams <cite>Detectives These Days Are Crazy!</cite>, <cite>Silent Witch</cite>, More Anime in India in Summer 2025",
             "+@datetime": "2025-06-21T09:04:49Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-06-21/crunchyroll-streams-detectives-these-days-are-crazy-silent-witch-more-anime-in-india-in-summer-2025/.225842"
+        },
+        {
+            "+content": "<cite>Dr. Stone: Science Future</cite> Anime's 2nd Part Casts Yuki Sakakihara",
+            "+@datetime": "2025-07-29T10:59:38Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-29/dr-stone-science-future-anime-2nd-part-casts-yuki-sakakihara/.227144"
         }
     ],
     "staff": [
@@ -121,6 +126,110 @@
             "person": {
                 "+content": "Kurasumi Sunayama",
                 "+@id": "20511"
+            }
+        },
+        {
+            "+@gid": "1140601952",
+            "task": "Script",
+            "person": {
+                "+content": "Kurasumi Sunayama",
+                "+@id": "20511"
+            }
+        },
+        {
+            "+@gid": "1963517027",
+            "task": "Script",
+            "person": {
+                "+content": "Kazuto Kaneda",
+                "+@id": "285700"
+            }
+        },
+        {
+            "+@gid": "613918441",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Osamu Nabeshima",
+                "+@id": "4648"
+            }
+        },
+        {
+            "+@gid": "2296063239",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Satoshi Shimizu",
+                "+@id": "56195"
+            }
+        },
+        {
+            "+@gid": "2034684295",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hiroyuki Shimazu",
+                "+@id": "65993"
+            }
+        },
+        {
+            "+@gid": "1175662664",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takashi Kawabata",
+                "+@id": "83166"
+            }
+        },
+        {
+            "+@gid": "2285785890",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kayona Yamada",
+                "+@id": "177453"
+            }
+        },
+        {
+            "+@gid": "1646499181",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shunji Yoshida",
+                "+@id": "3895"
+            }
+        },
+        {
+            "+@gid": "906804594",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Osamu Nabeshima",
+                "+@id": "4648"
+            }
+        },
+        {
+            "+@gid": "1827755172",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tomomi Ikeda",
+                "+@id": "23354"
+            }
+        },
+        {
+            "+@gid": "2348134204",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shigeki Awai",
+                "+@id": "51745"
+            }
+        },
+        {
+            "+@gid": "3435165812",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Nobutaka Kondou",
+                "+@id": "88806"
+            }
+        },
+        {
+            "+@gid": "1034843669",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kayona Yamada",
+                "+@id": "177453"
             }
         },
         {
@@ -198,12 +307,93 @@
     ],
     "cast": [
         {
+            "+@gid": "1980798972",
+            "+@lang": "EN",
+            "role": "Senku Ishigami",
+            "person": {
+                "+content": "Aaron Dismuke",
+                "+@id": "10246"
+            }
+        },
+        {
+            "+@gid": "2069629746",
+            "+@lang": "EN",
+            "role": "Tsukasa Shishio",
+            "person": {
+                "+content": "Ian Sinclair",
+                "+@id": "42612"
+            }
+        },
+        {
             "+@gid": "319263438",
             "+@lang": "EN",
             "role": "Gen Asagiri",
             "person": {
                 "+content": "Brandon McInnis",
                 "+@id": "106469"
+            }
+        },
+        {
+            "+@gid": "1305633022",
+            "+@lang": "EN",
+            "role": "Taiju Oki",
+            "person": {
+                "+content": "Ricco Fajardo",
+                "+@id": "107339"
+            }
+        },
+        {
+            "+@gid": "1204534446",
+            "+@lang": "EN",
+            "role": "Kohaku",
+            "person": {
+                "+content": "Felecia Angelle",
+                "+@id": "120890"
+            }
+        },
+        {
+            "+@gid": "1491650413",
+            "+@lang": "EN",
+            "role": "Ryusui Nanami",
+            "person": {
+                "+content": "Clifford Chapin",
+                "+@id": "122114"
+            }
+        },
+        {
+            "+@gid": "939873618",
+            "+@lang": "EN",
+            "role": "Yuzuriha Ogawa",
+            "person": {
+                "+content": "Brittany Lauda",
+                "+@id": "124358"
+            }
+        },
+        {
+            "+@gid": "933307008",
+            "+@lang": "EN",
+            "role": "Chrome",
+            "person": {
+                "+content": "Matt Shipman",
+                "+@id": "134957"
+            }
+        },
+        {
+            "+@gid": "1595284831",
+            "+@lang": "EN",
+            "role": "Joel Gear",
+            "person": {
+                "+content": "James Marler",
+                "+@id": "170252"
+            }
+        },
+        {
+            "+@gid": "3396022475",
+            "+@lang": "EN",
+            "role": "Brody",
+            "person": {
+                "+content": "William Ofoegbu",
+                "+@id": "222655"
             }
         },
         {
@@ -504,6 +694,15 @@
             }
         },
         {
+            "+@gid": "4109669512",
+            "+@lang": "IT",
+            "role": "Senku Ishigami",
+            "person": {
+                "+content": "Jacopo Calatroni",
+                "+@id": "123436"
+            }
+        },
+        {
             "+@gid": "1003783264",
             "+@lang": "JA",
             "role": "Hyōga",
@@ -546,6 +745,15 @@
             "person": {
                 "+content": "Yūichi Nakamura",
                 "+@id": "15878"
+            }
+        },
+        {
+            "+@gid": "4134225253",
+            "+@lang": "JA",
+            "role": "Brody",
+            "person": {
+                "+content": "Hiroki Yasumoto",
+                "+@id": "30785"
             }
         },
         {
@@ -603,6 +811,15 @@
             }
         },
         {
+            "+@gid": "1069163650",
+            "+@lang": "JA",
+            "role": "Magma",
+            "person": {
+                "+content": "Yasuhiro Mamiya",
+                "+@id": "68280"
+            }
+        },
+        {
             "+@gid": "1494482041",
             "+@lang": "JA",
             "role": "Kohaku",
@@ -636,6 +853,15 @@
             "person": {
                 "+content": "Yōhei Azakami",
                 "+@id": "108274"
+            }
+        },
+        {
+            "+@gid": "3325094013",
+            "+@lang": "JA",
+            "role": "Yō Uei",
+            "person": {
+                "+content": "Yoshiki Nakajima",
+                "+@id": "110826"
             }
         },
         {
@@ -711,6 +937,15 @@
             }
         },
         {
+            "+@gid": "2189283127",
+            "+@lang": "JA",
+            "role": "Kirisame",
+            "person": {
+                "+content": "Kaede Hondo",
+                "+@id": "140600"
+            }
+        },
+        {
             "+@gid": "1092587927",
             "+@lang": "JA",
             "role": "Yuzuriha Ogawa",
@@ -754,6 +989,15 @@
                 "+content": "Minami Hinata",
                 "+@id": "191474"
             }
+        },
+        {
+            "+@gid": "2705635682",
+            "+@lang": "JA",
+            "role": "Joel",
+            "person": {
+                "+content": "Yuki Sakakihara",
+                "+@id": "199588"
+            }
         }
     ],
     "credit": {
@@ -765,6 +1009,6 @@
         }
     },
     "+@date-added": "2025-03-27T20:05:21Z",
-    "+@date-last-modified-at": "2025-07-20T16:41:27Z",
-    "+@date-last-updated-at": "2025-07-20T16:41:27Z"
+    "+@date-last-modified-at": "2025-08-19T16:41:37Z",
+    "+@date-last-updated-at": "2025-08-19T16:41:37Z"
 }

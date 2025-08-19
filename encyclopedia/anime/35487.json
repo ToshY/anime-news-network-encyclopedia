@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Osananajimi to wa LoveCom ni Naranai",
     "+@precision": "TV",
-    "+@generated-on": "2025-07-20T16:41:23Z",
+    "+@generated-on": "2025-08-19T16:41:33Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29050"
@@ -64,11 +64,18 @@
             "+@href": "https://anime-osalove.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Osananajimi to wa LoveCom ni Naranai</cite> TV Anime Casts Rin Kusumi",
-        "+@datetime": "2025-07-15T09:52:46Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-07-15/osananajimi-to-wa-lovecom-ni-naranai-tv-anime-casts-rin-kusumi/.226683"
-    },
+    "news": [
+        {
+            "+content": "<cite>Osananajimi to wa LoveCom ni Naranai</cite> TV Anime Casts Rin Kusumi",
+            "+@datetime": "2025-07-15T09:52:46Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-15/osananajimi-to-wa-lovecom-ni-naranai-tv-anime-casts-rin-kusumi/.226683"
+        },
+        {
+            "+content": "<cite>Osananajimi to wa LoveCom ni Naranai</cite> Anime Casts Yū Serizawa",
+            "+@datetime": "2025-08-19T10:56:02Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-19/osananajimi-to-wa-lovecom-ni-naranai-anime-casts-yu-serizawa/.227798"
+        }
+    ],
     "staff": {
         "+@gid": "1688763626",
         "task": "Original creator",
@@ -77,15 +84,26 @@
             "+@id": "246156"
         }
     },
-    "cast": {
-        "+@gid": "2836035298",
-        "+@lang": "JA",
-        "role": "Shio Minamo",
-        "person": {
-            "+content": "Rin Kusumi",
-            "+@id": "198655"
+    "cast": [
+        {
+            "+@gid": "3387766991",
+            "+@lang": "JA",
+            "role": "Akari Hiodoshi",
+            "person": {
+                "+content": "Yū Serizawa",
+                "+@id": "118002"
+            }
+        },
+        {
+            "+@gid": "2836035298",
+            "+@lang": "JA",
+            "role": "Shio Minamo",
+            "person": {
+                "+content": "Rin Kusumi",
+                "+@id": "198655"
+            }
         }
-    },
+    ],
     "credit": {
         "+@gid": "1119831821",
         "task": "Animation Production",
@@ -95,6 +113,6 @@
         }
     },
     "+@date-added": "2025-04-02T23:48:36Z",
-    "+@date-last-modified-at": "2025-07-20T16:41:27Z",
-    "+@date-last-updated-at": "2025-07-20T16:41:27Z"
+    "+@date-last-modified-at": "2025-08-19T16:41:37Z",
+    "+@date-last-updated-at": "2025-08-19T16:41:37Z"
 }

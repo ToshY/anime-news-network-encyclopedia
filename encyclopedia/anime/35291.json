@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Sakamoto Days",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-07-20T16:41:26Z",
+    "+@generated-on": "2025-08-19T16:41:34Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32767"
@@ -125,8 +125,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "7.9141"
+        "+@nb_votes": "5",
+        "+@weighted_score": "7.9477"
     },
     "episode": [
         {
@@ -142,6 +142,38 @@
             "title": {
                 "+content": "Just Desserts",
                 "+@gid": "2388861066",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "14",
+            "title": {
+                "+content": "Strong Assault",
+                "+@gid": "2430698492",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "15",
+            "title": {
+                "+content": "Round and Round the Tower",
+                "+@gid": "2811771621",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "16",
+            "title": {
+                "+content": "Slice Slice Dance",
+                "+@gid": "2356927545",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "17",
+            "title": {
+                "+content": "Have a Nice Flight",
+                "+@gid": "1052089764",
                 "+@lang": "EN"
             }
         }
@@ -247,6 +279,15 @@
     ],
     "cast": [
         {
+            "+@gid": "3267392857",
+            "+@lang": "EN",
+            "role": "Kanaguri",
+            "person": {
+                "+content": "Crispin Freeman",
+                "+@id": "1074"
+            }
+        },
+        {
             "+@gid": "2625117713",
             "+@lang": "EN",
             "role": "Saw",
@@ -310,6 +351,15 @@
             }
         },
         {
+            "+@gid": "3746926034",
+            "+@lang": "EN",
+            "role": "Mafuyu",
+            "person": {
+                "+content": "Griffin Burns",
+                "+@id": "145395"
+            }
+        },
+        {
             "+@gid": "474014764",
             "+@lang": "EN",
             "role": "Hyo",
@@ -319,12 +369,30 @@
             }
         },
         {
+            "+@gid": "2150120676",
+            "+@lang": "EN",
+            "role": "Rion Akao",
+            "person": {
+                "+content": "Allegra Clark",
+                "+@id": "163712"
+            }
+        },
+        {
             "+@gid": "2077992269",
             "+@lang": "EN",
             "role": "Nagumo",
             "person": {
                 "+content": "Aleks Le",
                 "+@id": "174640"
+            }
+        },
+        {
+            "+@gid": "2472736427",
+            "+@lang": "EN",
+            "role": "Nao Toramaru",
+            "person": {
+                "+content": "Lizzie Freeman",
+                "+@id": "182190"
             }
         },
         {
@@ -406,6 +474,15 @@
             "person": {
                 "+content": "Jacob Bertrand",
                 "+@id": "285392"
+            }
+        },
+        {
+            "+@gid": "3033557767",
+            "+@lang": "EN",
+            "role": "Akira",
+            "person": {
+                "+content": "Oshún Ramirez",
+                "+@id": "286665"
             }
         },
         {
@@ -598,6 +675,15 @@
             }
         },
         {
+            "+@gid": "2238183690",
+            "+@lang": "JA",
+            "role": "Jōichirō Kaji",
+            "person": {
+                "+content": "Tomoaki Maeno",
+                "+@id": "46653"
+            }
+        },
+        {
             "+@gid": "1351601092",
             "+@lang": "JA",
             "role": "Gaku",
@@ -631,6 +717,15 @@
             "person": {
                 "+content": "Ryōta Takeuchi",
                 "+@id": "69834"
+            }
+        },
+        {
+            "+@gid": "287448230",
+            "+@lang": "JA",
+            "role": "Nao Toramaru",
+            "person": {
+                "+content": "Hisako Kanemoto",
+                "+@id": "85826"
             }
         },
         {
@@ -724,6 +819,24 @@
             }
         },
         {
+            "+@gid": "2157777555",
+            "+@lang": "JA",
+            "role": "Shinaya",
+            "person": {
+                "+content": "Tatsumaru Tachibana",
+                "+@id": "180195"
+            }
+        },
+        {
+            "+@gid": "3736963441",
+            "+@lang": "JA",
+            "role": "Pisuke",
+            "person": {
+                "+content": "Miyari Nemoto",
+                "+@id": "185803"
+            }
+        },
+        {
             "+@gid": "3437627714",
             "+@lang": "JA",
             "role": "Takamura",
@@ -742,6 +855,6 @@
         }
     },
     "+@date-added": "2025-03-22T20:15:47Z",
-    "+@date-last-modified-at": "2025-07-20T16:41:27Z",
-    "+@date-last-updated-at": "2025-07-20T16:41:27Z"
+    "+@date-last-modified-at": "2025-08-19T16:41:37Z",
+    "+@date-last-updated-at": "2025-08-19T16:41:37Z"
 }

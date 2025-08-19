@@ -2,9 +2,9 @@
     "+@id": "35540",
     "+@gid": "2845778783",
     "+@type": "movie",
-    "+@name": "Kusunoki no Bannin",
+    "+@name": "Camphorwood Custodian",
     "+@precision": "movie",
-    "+@generated-on": "2025-07-20T16:41:23Z",
+    "+@generated-on": "2025-08-19T16:41:33Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "35539"
@@ -13,31 +13,32 @@
         {
             "+@gid": "4169802657",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35540-4169802657.1744088534.jpg",
-            "+@width": "200",
-            "+@height": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35540-4169802657.1754617173.jpg",
+            "+@width": "141",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35540-4169802657.1744088534.jpg",
-                    "+@width": "200",
-                    "+@height": "141"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35540-4169802657.1754617173.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35540-4169802657.1744088534.jpg",
-                    "+@width": "500",
-                    "+@height": "353"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A35540-4169802657.1744088534.jpg",
-                    "+@width": "600",
-                    "+@height": "424"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35540-4169802657.1754617173.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
                 }
             ]
         },
         {
+            "+content": "The Camphorwood Custodian",
+            "+@gid": "1696038025",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Kusunoki no Bannin",
             "+@gid": "2750324903",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -47,9 +48,13 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2026",
-            "+@gid": "1236885651",
+            "+content": "2026-01-30",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2026-01-30 (Japan)",
+            "+@gid": "1542171030",
+            "+@type": "Premiere date"
         },
         {
             "+content": "映画『クスノキの番人』",
@@ -59,11 +64,18 @@
             "+@href": "https://kusunoki-movie.com/"
         }
     ],
-    "news": {
-        "+content": "Keigo Higashino's <cite>Kusunoki no Bannin</cite> Novel Gets Anime Film in 2026",
-        "+@datetime": "2025-04-07T22:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-04-07/keigo-higashino-kusunoki-no-bannin-novel-gets-anime-film-in-2026/.223290"
-    },
+    "news": [
+        {
+            "+content": "Keigo Higashino's <cite>Kusunoki no Bannin</cite> Novel Gets Anime Film in 2026",
+            "+@datetime": "2025-04-07T22:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-07/keigo-higashino-kusunoki-no-bannin-novel-gets-anime-film-in-2026/.223290"
+        },
+        {
+            "+content": "<cite>The Camphorwood Custodian</cite> Anime Film's Teaser Unveils Cast, More Staff, January 30 Debut",
+            "+@datetime": "2025-08-08T01:07:54Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-07/the-camphorwood-custodian-anime-film-teaser-unveils-cast-more-staff-january-30-debut/.227458"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2245049258",
@@ -74,23 +86,85 @@
             }
         },
         {
+            "+@gid": "2133116684",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Taku Kishimoto",
+                "+@id": "76253"
+            }
+        },
+        {
             "+@gid": "3297841702",
             "task": "Original creator",
             "person": {
                 "+content": "Keigo Higashino",
                 "+@id": "65220"
             }
+        },
+        {
+            "+@gid": "1024689354",
+            "task": "Character Design",
+            "person": {
+                "+content": "Akiko Itagaki",
+                "+@id": "77138"
+            }
+        },
+        {
+            "+@gid": "816842501",
+            "task": "Character Design",
+            "person": {
+                "+content": "Tsubasa Yamaguchi",
+                "+@id": "162962"
+            }
+        },
+        {
+            "+@gid": "1020553062",
+            "task": "Art Director",
+            "person": {
+                "+content": "Hiroshi Takiguchi",
+                "+@id": "18602"
+            }
         }
     ],
-    "credit": {
-        "+@gid": "3436086862",
-        "task": "Animation Production",
-        "company": {
-            "+content": "A-1 Pictures",
-            "+@id": "9909"
+    "cast": [
+        {
+            "+@gid": "1071711803",
+            "+@lang": "JA",
+            "role": "Chifune Yanagisawa",
+            "person": {
+                "+content": "Yūki Amami",
+                "+@id": "71558"
+            }
+        },
+        {
+            "+@gid": "1816519395",
+            "+@lang": "JA",
+            "role": "Reito Naoi",
+            "person": {
+                "+content": "Fumiya Takahashi",
+                "+@id": "198948"
+            }
         }
-    },
+    ],
+    "credit": [
+        {
+            "+@gid": "3436086862",
+            "task": "Animation Production",
+            "company": {
+                "+content": "A-1 Pictures",
+                "+@id": "9909"
+            }
+        },
+        {
+            "+@gid": "904416301",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Psyde Kick Studio",
+                "+@id": "27002"
+            }
+        }
+    ],
     "+@date-added": "2025-04-08T01:01:29Z",
-    "+@date-last-modified-at": "2025-07-20T16:41:27Z",
-    "+@date-last-updated-at": "2025-07-20T16:41:27Z"
+    "+@date-last-modified-at": "2025-08-19T16:41:37Z",
+    "+@date-last-updated-at": "2025-08-19T16:41:37Z"
 }
