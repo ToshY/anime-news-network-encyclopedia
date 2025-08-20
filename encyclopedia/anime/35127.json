@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Dead Account",
     "+@precision": "TV",
-    "+@generated-on": "2025-07-20T20:35:20Z",
+    "+@generated-on": "2025-08-20T02:14:02Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29470"
@@ -13,19 +13,24 @@
         {
             "+@gid": "2483915240",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35127-2483915240.1741864022.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35127-2483915240.1753953744.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35127-2483915240.1741864022.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35127-2483915240.1753953744.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35127-2483915240.1741864022.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35127-2483915240.1753953744.jpg",
+                    "+@width": "425",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A35127-2483915240.1753953744.jpg",
+                    "+@width": "849",
+                    "+@height": "1200"
                 }
             ]
         },
@@ -52,6 +57,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "2026-01",
+            "+@gid": "913602761",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ『デッドアカウント』公式サイト",
             "+@gid": "2037552096",
             "+@type": "Official website",
@@ -59,14 +69,77 @@
             "+@href": "https://dead-account.com/"
         }
     ],
-    "staff": {
-        "+@gid": "1973962601",
-        "task": "Original creator",
-        "person": {
-            "+content": "Shizumu Watanabe",
-            "+@id": "105836"
-        }
+    "news": {
+        "+content": "<cite>Dead Account</cite> TV Anime Reveals Main Staff, January 2026 Debut in 1st Promo Video",
+        "+@datetime": "2025-07-31T10:06:24Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-07-31/dead-account-tv-anime-reveals-main-staff-january-2026-debut-in-1st-promo-video/.227205"
     },
+    "staff": [
+        {
+            "+@gid": "996012117",
+            "task": "Director",
+            "person": {
+                "+content": "Keiya Saitō",
+                "+@id": "84166"
+            }
+        },
+        {
+            "+@gid": "1768567273",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Mitsutaka Hirota",
+                "+@id": "50326"
+            }
+        },
+        {
+            "+@gid": "1256578947",
+            "task": "Music",
+            "person": {
+                "+content": "Keiji Inai",
+                "+@id": "108066"
+            }
+        },
+        {
+            "+@gid": "1973962601",
+            "task": "Original creator",
+            "person": {
+                "+content": "Shizumu Watanabe",
+                "+@id": "105836"
+            }
+        },
+        {
+            "+@gid": "2665974358",
+            "task": "Art Director",
+            "person": {
+                "+content": "Saho Yamane",
+                "+@id": "41687"
+            }
+        },
+        {
+            "+@gid": "2502975182",
+            "task": "Art Director",
+            "person": {
+                "+content": "Seika Fujii",
+                "+@id": "205556"
+            }
+        },
+        {
+            "+@gid": "1758329426",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Ryōsuke Naya",
+                "+@id": "259754"
+            }
+        },
+        {
+            "+@gid": "3323283198",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Haruka Serizawa",
+                "+@id": "139550"
+            }
+        }
+    ],
     "cast": [
         {
             "+@gid": "2924417652",
@@ -84,6 +157,42 @@
             "person": {
                 "+content": "Nobuhiko Okamoto",
                 "+@id": "59411"
+            }
+        },
+        {
+            "+@gid": "1263531123",
+            "+@lang": "JA",
+            "role": "Yoimaru Azaki",
+            "person": {
+                "+content": "Takuya Satō",
+                "+@id": "70856"
+            }
+        },
+        {
+            "+@gid": "933506997",
+            "+@lang": "JA",
+            "role": "Renri Hasumi",
+            "person": {
+                "+content": "Natsuki Hanae",
+                "+@id": "106773"
+            }
+        },
+        {
+            "+@gid": "1445171720",
+            "+@lang": "JA",
+            "role": "Hiyori Haijima",
+            "person": {
+                "+content": "Machico",
+                "+@id": "130409"
+            }
+        },
+        {
+            "+@gid": "1125717115",
+            "+@lang": "JA",
+            "role": "Naruhiko Emoto",
+            "person": {
+                "+content": "Ryōta Suzuki",
+                "+@id": "174131"
             }
         },
         {
@@ -115,6 +224,6 @@
         }
     ],
     "+@date-added": "2025-03-13T07:06:19Z",
-    "+@date-last-modified-at": "2025-07-20T20:35:22Z",
-    "+@date-last-updated-at": "2025-07-20T20:35:22Z"
+    "+@date-last-modified-at": "2025-08-20T02:14:04Z",
+    "+@date-last-updated-at": "2025-08-20T02:14:04Z"
 }
