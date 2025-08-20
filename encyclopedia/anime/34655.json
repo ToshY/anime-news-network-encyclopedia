@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Star Brighter Than the Sun",
     "+@precision": "TV",
-    "+@generated-on": "2025-07-21T04:56:02Z",
+    "+@generated-on": "2025-08-20T08:40:50Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26744"
@@ -13,19 +13,24 @@
         {
             "+@gid": "1311861433",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34655-1311861433.1745406531.jpg",
-            "+@width": "141",
-            "+@height": "200",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34655-1311861433.1754688808.jpg",
+            "+@width": "200",
+            "+@height": "141",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34655-1311861433.1745406531.jpg",
-                    "+@width": "141",
-                    "+@height": "200"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34655-1311861433.1754688808.jpg",
+                    "+@width": "200",
+                    "+@height": "141"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34655-1311861433.1745406531.jpg",
-                    "+@width": "424",
-                    "+@height": "600"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34655-1311861433.1754688808.jpg",
+                    "+@width": "500",
+                    "+@height": "353"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34655-1311861433.1754688808.jpg",
+                    "+@width": "600",
+                    "+@height": "424"
                 }
             ]
         },
@@ -53,9 +58,14 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2025-10",
-            "+@gid": "3391249083",
+            "+content": "2025-10-02",
+            "+@gid": "3516880797",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Stellar Days\" by Motohiro Hata",
+            "+@gid": "2654839971",
+            "+@type": "Opening Theme"
         },
         {
             "+content": "TVアニメ『太陽よりも眩しい星』",
@@ -80,6 +90,11 @@
             "+content": "Anime Expo 2025 Hosts World Premieres for <cite>Leviathan</cite>, <cite>A Star Brighter than the Sun</cite> Anime, Reveals More Guests",
             "+@datetime": "2025-06-06T16:01:06Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-06-06/anime-expo-2025-hosts-world-premieres-for-leviathan-a-star-brighter-than-the-sun-anime-reveals-more-/.225212"
+        },
+        {
+            "+content": "<cite>A Star Brighter Than the Sun</cite> Anime Reveals More Cast, October 2 Debut in 1st Promo Video",
+            "+@datetime": "2025-08-08T09:31:40Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-08/a-star-brighter-than-the-sun-anime-reveals-more-cast-october-2-debut-in-1st-promo-video/.227473"
         }
     ],
     "staff": [
@@ -130,6 +145,38 @@
                 "+content": "Jin Feng Zeng",
                 "+@id": "281749"
             }
+        },
+        {
+            "+@gid": "3620869014",
+            "task": "Art Director",
+            "person": {
+                "+content": "Kohaku Ujiie",
+                "+@id": "155400"
+            }
+        },
+        {
+            "+@gid": "2938099971",
+            "task": "3D Director",
+            "person": {
+                "+content": "Ikuto Yamauchi",
+                "+@id": "262141"
+            }
+        },
+        {
+            "+@gid": "1933215840",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Kōhei Yoshida",
+                "+@id": "123180"
+            }
+        },
+        {
+            "+@gid": "2510438573",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yasuharu Sawami",
+                "+@id": "59678"
+            }
         }
     ],
     "cast": [
@@ -143,12 +190,48 @@
             }
         },
         {
+            "+@gid": "2168401165",
+            "+@lang": "JA",
+            "role": "Mio Kagawa",
+            "person": {
+                "+content": "Mutsumi Tamura",
+                "+@id": "70817"
+            }
+        },
+        {
+            "+@gid": "3409158077",
+            "+@lang": "JA",
+            "role": "Yōta Ayukawa",
+            "person": {
+                "+content": "Taito Ban",
+                "+@id": "167294"
+            }
+        },
+        {
+            "+@gid": "1400351486",
+            "+@lang": "JA",
+            "role": "Hisui Onodera",
+            "person": {
+                "+content": "Hina Yomiya",
+                "+@id": "209292"
+            }
+        },
+        {
             "+@gid": "1497277914",
             "+@lang": "JA",
             "role": "Sae Iwata",
             "person": {
                 "+content": "Minori Fujidera",
                 "+@id": "214095"
+            }
+        },
+        {
+            "+@gid": "3252239419",
+            "+@lang": "JA",
+            "role": "Yūshin Izawa",
+            "person": {
+                "+content": "Ryōta Ōsaka",
+                "+@id": "269021"
             }
         }
     ],
@@ -161,6 +244,6 @@
         }
     },
     "+@date-added": "2025-02-11T01:56:06Z",
-    "+@date-last-modified-at": "2025-07-21T04:56:04Z",
-    "+@date-last-updated-at": "2025-07-21T04:56:04Z"
+    "+@date-last-modified-at": "2025-08-20T08:40:51Z",
+    "+@date-last-updated-at": "2025-08-20T08:40:51Z"
 }
