@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Koala's Diary",
     "+@precision": "ONA",
-    "+@generated-on": "2025-07-21T02:36:48Z",
+    "+@generated-on": "2025-08-20T04:38:07Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "36506"
@@ -53,6 +53,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "2025-10",
+            "+@gid": "4056942945",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "アニメ『コアラ絵日記』公式サイト",
             "+@gid": "1942116303",
             "+@type": "Official website",
@@ -60,11 +65,18 @@
             "+@href": "https://koalas-dialy.com/"
         }
     ],
-    "news": {
-        "+content": "Yuami's <cite>Koala E Nikki</cite> Manga Gets Web Anime by Studio Mother",
-        "+@datetime": "2025-06-11T08:13:16Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-06-11/yuami-koala-e-nikki-manga-gets-web-anime-by-studio-mother/.225436"
-    },
+    "news": [
+        {
+            "+content": "Yuami's <cite>Koala E Nikki</cite> Manga Gets Web Anime by Studio Mother",
+            "+@datetime": "2025-06-11T08:13:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-11/yuami-koala-e-nikki-manga-gets-web-anime-by-studio-mother/.225436"
+        },
+        {
+            "+content": "<cite>Koala's Diary</cite> Anime Reveals Teaser Video, October Streaming Debut",
+            "+@datetime": "2025-07-25T08:05:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-25/koala-diary-anime-reveals-teaser-video-october-streaming-debut/.227011"
+        }
+    ],
     "staff": [
         {
             "+@gid": "827229848",
@@ -91,6 +103,15 @@
             }
         }
     ],
+    "cast": {
+        "+@gid": "1961507659",
+        "+@lang": "JA",
+        "role": "Koala",
+        "person": {
+            "+content": "Aya Uchida",
+            "+@id": "71069"
+        }
+    },
     "credit": {
         "+@gid": "1934005137",
         "task": "Animation Production",
@@ -100,6 +121,6 @@
         }
     },
     "+@date-added": "2025-06-11T09:26:28Z",
-    "+@date-last-modified-at": "2025-07-21T02:36:52Z",
-    "+@date-last-updated-at": "2025-07-21T02:36:52Z"
+    "+@date-last-modified-at": "2025-08-20T04:38:08Z",
+    "+@date-last-updated-at": "2025-08-20T04:38:08Z"
 }
