@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Peleliu: Guernica of Paradise",
     "+@precision": "movie",
-    "+@generated-on": "2025-07-21T13:06:08Z",
+    "+@generated-on": "2025-08-20T16:39:46Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24288"
@@ -13,24 +13,19 @@
         {
             "+@gid": "917744305",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34334-917744305.1737016258.jpg",
-            "+@width": "144",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34334-917744305.1754353995.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34334-917744305.1737016258.jpg",
-                    "+@width": "144",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34334-917744305.1754353995.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34334-917744305.1737016258.jpg",
-                    "+@width": "432",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34334-917744305.1754353995.jpg",
+                    "+@width": "424",
                     "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34334-917744305.1737016258.jpg",
-                    "+@width": "750",
-                    "+@height": "1042"
                 }
             ]
         },
@@ -79,11 +74,18 @@
             "+@href": "https://peleliu-movie.jp/"
         }
     ],
-    "news": {
-        "+content": "<cite>Peleliu: Guernica of Paradise</cite> Anime Revealed as Film Opening on December 5",
-        "+@datetime": "2025-01-16T08:17:32Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-01-16/peleliu-guernica-of-paradise-anime-revealed-as-film-opening-on-december-5/.220097"
-    },
+    "news": [
+        {
+            "+content": "<cite>Peleliu: Guernica of Paradise</cite> Anime Revealed as Film Opening on December 5",
+            "+@datetime": "2025-01-16T08:17:32Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-16/peleliu-guernica-of-paradise-anime-revealed-as-film-opening-on-december-5/.220097"
+        },
+        {
+            "+content": "<cite>Peleliu: Guernica of Paradise</cite> Film's Teaser Unveils Cast, More Staff",
+            "+@datetime": "2025-08-04T23:33:30Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-04/peleliu-guernica-of-paradise-film-teaser-unveils-cast-more-staff/.227362"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2608337326",
@@ -110,11 +112,119 @@
             }
         },
         {
+            "+@gid": "1743247482",
+            "task": "Music",
+            "person": {
+                "+content": "Kenji Kawai",
+                "+@id": "140"
+            }
+        },
+        {
             "+@gid": "1620698514",
             "task": "Original creator",
             "person": {
                 "+content": "Kazuyoshi Takeda",
                 "+@id": "127454"
+            }
+        },
+        {
+            "+@gid": "2269927959",
+            "task": "Character Design",
+            "person": {
+                "+content": "Ryōji Nakamori",
+                "+@id": "22838"
+            }
+        },
+        {
+            "+@gid": "4077030697",
+            "task": "Art Director",
+            "person": {
+                "+content": "Hiroshi Katō",
+                "+@id": "16"
+            }
+        },
+        {
+            "+@gid": "618734494",
+            "task": "Art Director",
+            "person": {
+                "+content": "Kuniko Iwatani",
+                "+@id": "59350"
+            }
+        },
+        {
+            "+@gid": "2177528527",
+            "task": "Art Director",
+            "person": {
+                "+content": "Hirofumi Sakagami",
+                "+@id": "84191"
+            }
+        },
+        {
+            "+@gid": "793462557",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Ryōji Nakamori",
+                "+@id": "22838"
+            }
+        },
+        {
+            "+@gid": "2683663891",
+            "task": "Mechanical design",
+            "person": {
+                "+content": "Kaoru Kamigiku",
+                "+@id": "229726"
+            }
+        },
+        {
+            "+@gid": "3160736299",
+            "task": "3D Director",
+            "person": {
+                "+content": "Tetsuya Nakano",
+                "+@id": "75048"
+            }
+        },
+        {
+            "+@gid": "3656447860",
+            "task": "3D Director",
+            "person": {
+                "+content": "Shinichiro Takahashi",
+                "+@id": "132037"
+            }
+        },
+        {
+            "+@gid": "1315152989",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Chikako Yokota",
+                "+@id": "102801"
+            }
+        },
+        {
+            "+@gid": "1822256112",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Shinichi Igarashi",
+                "+@id": "26289"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2387150033",
+            "+@lang": "JA",
+            "role": "Keisuke Yoshiki",
+            "person": {
+                "+content": "Tomoya Nakamura",
+                "+@id": "204170"
+            }
+        },
+        {
+            "+@gid": "345485143",
+            "+@lang": "JA",
+            "role": "Hitoshi Tamaru",
+            "person": {
+                "+content": "Rihito Itagaki",
+                "+@id": "228558"
             }
         }
     ],
@@ -137,6 +247,6 @@
         }
     ],
     "+@date-added": "2025-01-16T03:28:40Z",
-    "+@date-last-modified-at": "2025-07-21T13:06:11Z",
-    "+@date-last-updated-at": "2025-07-21T13:06:11Z"
+    "+@date-last-modified-at": "2025-08-20T16:39:49Z",
+    "+@date-last-updated-at": "2025-08-20T16:39:49Z"
 }

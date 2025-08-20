@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Synapusu The Movie: Pusu Hoppe Dancing Party",
     "+@precision": "movie",
-    "+@generated-on": "2025-07-21T13:06:08Z",
+    "+@generated-on": "2025-08-20T16:39:46Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26873"
@@ -42,9 +42,13 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2025 (spring)",
-            "+@gid": "3502624901",
+            "+content": "2025-05-16",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-05-16 (Japan)",
+            "+@gid": "3058660519",
+            "+@type": "Premiere date"
         },
         {
             "+content": "『シナぷしゅ THE MOVIE ぷしゅほっぺダンシングPARTY』オフィシャルサイト",
@@ -59,15 +63,34 @@
         "+@datetime": "2025-01-23T06:52:47Z",
         "+@href": "https://www.animenewsnetwork.com:/news/2025-01-23/tv-tokyo-synapusu-children-program-gets-2nd-film-this-spring/.220374"
     },
-    "staff": {
-        "+@gid": "2746311152",
-        "task": "Director",
-        "person": {
-            "+content": "Takaharu Shimizu",
-            "+@id": "233773"
+    "staff": [
+        {
+            "+@gid": "2746311152",
+            "task": "Director",
+            "person": {
+                "+content": "Takaharu Shimizu",
+                "+@id": "233773"
+            }
+        },
+        {
+            "+@gid": "1554503964",
+            "task": "Music",
+            "person": {
+                "+content": "Nobuaki Nobusawa",
+                "+@id": "132498"
+            }
         }
-    },
+    ],
     "cast": [
+        {
+            "+@gid": "2650477204",
+            "+@lang": "JA",
+            "role": "Palty",
+            "person": {
+                "+content": "Kazunari Ninomiya",
+                "+@id": "58396"
+            }
+        },
         {
             "+@gid": "419979666",
             "+@lang": "JA",
@@ -78,6 +101,24 @@
             }
         },
         {
+            "+@gid": "2653156752",
+            "+@lang": "JA",
+            "role": "Sakana no Oniisan Kawa-chan",
+            "person": {
+                "+content": "Kazuki Kawata",
+                "+@id": "219403"
+            }
+        },
+        {
+            "+@gid": "3948889551",
+            "+@lang": "JA",
+            "role": "Hiitan",
+            "person": {
+                "+content": "Yūichirō Yanai",
+                "+@id": "276542"
+            }
+        },
+        {
             "+@gid": "2726058221",
             "+@lang": "JA",
             "role": "Pushupushu",
@@ -85,9 +126,36 @@
                 "+content": "Sōsuke Hanatani",
                 "+@id": "276544"
             }
+        },
+        {
+            "+@gid": "2105896429",
+            "+@lang": "JA",
+            "role": "Miitan",
+            "person": {
+                "+content": "Yui Fujii",
+                "+@id": "286427"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "2551974037",
+            "task": "Production",
+            "company": {
+                "+content": "TV Tokyo",
+                "+@id": "262"
+            }
+        },
+        {
+            "+@gid": "2085080033",
+            "task": "Production",
+            "company": {
+                "+content": "dadab inc.",
+                "+@id": "27047"
+            }
         }
     ],
     "+@date-added": "2025-01-23T03:13:35Z",
-    "+@date-last-modified-at": "2025-07-21T13:06:11Z",
-    "+@date-last-updated-at": "2025-07-21T13:06:11Z"
+    "+@date-last-modified-at": "2025-08-20T16:39:49Z",
+    "+@date-last-updated-at": "2025-08-20T16:39:49Z"
 }
