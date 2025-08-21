@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Fragrant Flower Blooms With Dignity",
     "+@precision": "TV",
-    "+@generated-on": "2025-07-22T08:45:55Z",
+    "+@generated-on": "2025-08-21T12:59:21Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27864"
@@ -99,14 +99,77 @@
             "+@href": "https://kaoruhana-anime.com/"
         }
     ],
-    "episode": {
-        "+@num": "1",
-        "title": {
-            "+content": "Rintaro and Kaoruko",
-            "+@gid": "1925915241",
-            "+@lang": "EN"
-        }
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "4"
     },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "Rintaro and Kaoruko",
+                "+@gid": "1925915241",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "Chidori and Kikyo",
+                "+@gid": "2785359444",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "A Kind Person",
+                "+@gid": "2492400133",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "Warmth of the Heart",
+                "+@gid": "2050423948",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "Premonition of a New Beginning",
+                "+@gid": "2090658758",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": [
+                {
+                    "+content": "Self-Loathing",
+                    "+@part": "A",
+                    "+@gid": "1247027102",
+                    "+@lang": "EN"
+                },
+                {
+                    "+content": "I love you!",
+                    "+@part": "B",
+                    "+@gid": "1521511651",
+                    "+@lang": "EN"
+                }
+            ]
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "Coolest Guy Ever",
+                "+@gid": "1543608994",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "<cite>The Fragrant Flower Blooms With Dignity</cite> TV Anime's New Video Announces  Main Cast, Staff, July Debut",
@@ -171,6 +234,14 @@
             }
         },
         {
+            "+@gid": "3549203625",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Makoto Katō",
+                "+@id": "84444"
+            }
+        },
+        {
             "+@gid": "849434443",
             "task": "Storyboard",
             "person": {
@@ -195,11 +266,27 @@
             }
         },
         {
+            "+@gid": "3110667066",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ryosuke Oka",
+                "+@id": "194795"
+            }
+        },
+        {
             "+@gid": "2671256841",
             "task": "Episode Director",
             "person": {
                 "+content": "Miyuki Kuroki",
                 "+@id": "74081"
+            }
+        },
+        {
+            "+@gid": "1844408333",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Makoto Katō",
+                "+@id": "84444"
             }
         },
         {
@@ -211,11 +298,27 @@
             }
         },
         {
+            "+@gid": "2060599427",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Jirō Arimoto",
+                "+@id": "167186"
+            }
+        },
+        {
             "+@gid": "3793091484",
             "task": "Episode Director",
             "person": {
                 "+content": "Satoshi Yamaguchi",
                 "+@id": "174194"
+            }
+        },
+        {
+            "+@gid": "1030516549",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ryosuke Oka",
+                "+@id": "194795"
             }
         },
         {
@@ -275,6 +378,22 @@
             }
         },
         {
+            "+@gid": "3834991938",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chizuko Kusakabe",
+                "+@id": "8828"
+            }
+        },
+        {
+            "+@gid": "2047489139",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Keiko Ijima",
+                "+@id": "20537"
+            }
+        },
+        {
             "+@gid": "3212036213",
             "task": "Animation Director",
             "person": {
@@ -288,6 +407,46 @@
             "person": {
                 "+content": "Hatsue Koizumi",
                 "+@id": "36685"
+            }
+        },
+        {
+            "+@gid": "3489365359",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ryousuke Sekiguchi",
+                "+@id": "44786"
+            }
+        },
+        {
+            "+@gid": "3670677170",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chisato Kawaguchi",
+                "+@id": "56304"
+            }
+        },
+        {
+            "+@gid": "2251722643",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuuko Yoshida",
+                "+@id": "56954"
+            }
+        },
+        {
+            "+@gid": "3869369955",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hidekazu Yamana",
+                "+@id": "61988"
+            }
+        },
+        {
+            "+@gid": "2690735481",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kiko Morifuji",
+                "+@id": "83428"
             }
         },
         {
@@ -307,6 +466,46 @@
             }
         },
         {
+            "+@gid": "2047149370",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Rina Nagai",
+                "+@id": "124897"
+            }
+        },
+        {
+            "+@gid": "1113867121",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yun Zhang",
+                "+@id": "129896"
+            }
+        },
+        {
+            "+@gid": "988490806",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Aoi Yamagishi",
+                "+@id": "130394"
+            }
+        },
+        {
+            "+@gid": "3697163964",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Taishi Kawakami",
+                "+@id": "150261"
+            }
+        },
+        {
+            "+@gid": "481429550",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Rena Kawasaki",
+                "+@id": "153672"
+            }
+        },
+        {
             "+@gid": "930989909",
             "task": "Animation Director",
             "person": {
@@ -315,11 +514,27 @@
             }
         },
         {
+            "+@gid": "619631402",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kōtarō Ōkubo",
+                "+@id": "180306"
+            }
+        },
+        {
             "+@gid": "1242376885",
             "task": "Animation Director",
             "person": {
                 "+content": "Mikiko Ura",
                 "+@id": "198701"
+            }
+        },
+        {
+            "+@gid": "1381203224",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zhuyin Lin",
+                "+@id": "255655"
             }
         },
         {
@@ -457,15 +672,6 @@
             }
         },
         {
-            "+@gid": "3020439287",
-            "+@lang": "JA",
-            "role": "Kyōko Tsumugi",
-            "person": {
-                "+content": "Yōko Hikasa",
-                "+@id": "67797"
-            }
-        },
-        {
             "+@gid": "3947597498",
             "+@lang": "JA",
             "role": "Kaoruko Waguri",
@@ -569,6 +775,6 @@
         }
     ],
     "+@date-added": "2024-09-16T05:01:16Z",
-    "+@date-last-modified-at": "2025-07-22T08:45:58Z",
-    "+@date-last-updated-at": "2025-07-22T08:45:58Z"
+    "+@date-last-modified-at": "2025-08-21T12:59:23Z",
+    "+@date-last-updated-at": "2025-08-21T12:59:23Z"
 }

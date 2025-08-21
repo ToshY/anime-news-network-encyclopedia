@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Witch Watch",
     "+@precision": "TV",
-    "+@generated-on": "2025-07-22T08:45:56Z",
+    "+@generated-on": "2025-08-21T12:59:22Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24171"
@@ -101,8 +101,18 @@
             "+@type": "Opening Theme"
         },
         {
+            "+content": "#2: \"Tokihanate!\" by Hashimero",
+            "+@gid": "2932581819",
+            "+@type": "Opening Theme"
+        },
+        {
             "+content": "\"Mahō wa Supaisu\" (魔法はスパイス; Magic Spice; Find Your Magic) by Aooo",
             "+@gid": "2008624888",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#2: \"Tsuki to Watashi no Kakurenbo\" by yutori",
+            "+@gid": "1822466020",
             "+@type": "Ending Theme"
         },
         {
@@ -114,8 +124,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "12",
-        "+@weighted_score": "5.4778"
+        "+@nb_votes": "15",
+        "+@weighted_score": "4.9529",
+        "+@bayesian_score": "6.1235"
     },
     "episode": [
         {
@@ -478,6 +489,14 @@
             "person": {
                 "+content": "Masayuki Nonaka",
                 "+@id": "77787"
+            }
+        },
+        {
+            "+@gid": "2480059778",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Enishi Ōshima",
+                "+@id": "85394"
             }
         },
         {
@@ -965,6 +984,15 @@
             }
         },
         {
+            "+@gid": "1400185595",
+            "+@lang": "EN",
+            "role": "Miharu Kiryū",
+            "person": {
+                "+content": "Anne Yatco",
+                "+@id": "152297"
+            }
+        },
+        {
             "+@gid": "2649320129",
             "+@lang": "EN",
             "role": "Yuzuru Kenmochi",
@@ -1235,12 +1263,30 @@
             }
         },
         {
+            "+@gid": "1384214407",
+            "+@lang": "FR",
+            "role": "Miharu Kiryû",
+            "person": {
+                "+content": "Faustine Legrand",
+                "+@id": "226846"
+            }
+        },
+        {
             "+@gid": "1143241839",
             "+@lang": "FR",
             "role": "Sirop",
             "person": {
                 "+content": "Iliana Sakji",
                 "+@id": "232135"
+            }
+        },
+        {
+            "+@gid": "1525047048",
+            "+@lang": "FR",
+            "role": "Miharu Kiryû",
+            "person": {
+                "+content": "Estelle Strypstein",
+                "+@id": "241874"
             }
         },
         {
@@ -1635,6 +1681,6 @@
         }
     ],
     "+@date-added": "2024-08-18T21:54:23Z",
-    "+@date-last-modified-at": "2025-07-22T08:45:58Z",
-    "+@date-last-updated-at": "2025-07-22T08:45:58Z"
+    "+@date-last-modified-at": "2025-08-21T12:59:24Z",
+    "+@date-last-updated-at": "2025-08-21T12:59:24Z"
 }

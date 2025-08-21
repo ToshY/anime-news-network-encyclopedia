@@ -4,12 +4,31 @@
     "+@type": "TV",
     "+@name": "Playing Death Games to Put Food on the Table",
     "+@precision": "TV",
-    "+@generated-on": "2025-07-22T08:45:56Z",
+    "+@generated-on": "2025-08-21T12:59:22Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28902"
     },
     "info": [
+        {
+            "+@gid": "2709173116",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33452-2709173116.1753508347.jpg",
+            "+@width": "142",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33452-2709173116.1753508347.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33452-2709173116.1753508347.jpg",
+                    "+@width": "425",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Playing Death Games to Put Food on the Table",
             "+@gid": "2175616599",
@@ -32,13 +51,27 @@
             "+content": "2026-01",
             "+@gid": "3186665225",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ「死亡遊戯で飯を食う」公式サイト",
+            "+@gid": "2468505891",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://shiboyugi-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Playing Death Games to Put Food on the Table</cite> Anime Reveals January 2026 Debut, Main Staff, Character Design",
-        "+@datetime": "2025-02-15T11:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-02-15/playing-death-games-to-put-food-on-the-table-anime-reveals-january-2026-debut-main-staff-character-/.221240"
-    },
+    "news": [
+        {
+            "+content": "<cite>Playing Death Games to Put Food on the Table</cite> Anime Reveals January 2026 Debut, Main Staff, Character Design",
+            "+@datetime": "2025-02-15T11:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-15/playing-death-games-to-put-food-on-the-table-anime-reveals-january-2026-debut-main-staff-character-/.221240"
+        },
+        {
+            "+content": "<cite>Playing Death Games to Put Food on the Table</cite> TV Anime Reveals Teaser Video, Main Cast, More Staff",
+            "+@datetime": "2025-07-26T03:16:05Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-25/playing-death-games-to-put-food-on-the-table-tv-anime-reveals-teaser-video-main-cast-more-staff/.227021"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2382950762",
@@ -54,6 +87,14 @@
             "person": {
                 "+content": "Rintarō Ikeda",
                 "+@id": "278234"
+            }
+        },
+        {
+            "+@gid": "1750016308",
+            "task": "Music",
+            "person": {
+                "+content": "Junichi Matsumoto",
+                "+@id": "286056"
             }
         },
         {
@@ -81,14 +122,39 @@
             }
         },
         {
+            "+@gid": "3734256680",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yoshihiro Nakamura",
+                "+@id": "145731"
+            }
+        },
+        {
             "+@gid": "2404927286",
             "task": "Sound Director",
             "person": {
                 "+content": "Noriyoshi Konuma",
                 "+@id": "84893"
             }
+        },
+        {
+            "+@gid": "3248341115",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Shinyo Kondō",
+                "+@id": "14090"
+            }
         }
     ],
+    "cast": {
+        "+@gid": "2325713969",
+        "+@lang": "JA",
+        "role": "Yūki",
+        "person": {
+            "+content": "Chiyuki Miura",
+            "+@id": "183652"
+        }
+    },
     "credit": {
         "+@gid": "2402137530",
         "task": "Animation Production",
@@ -98,6 +164,6 @@
         }
     },
     "+@date-added": "2024-09-01T20:22:09Z",
-    "+@date-last-modified-at": "2025-07-22T08:45:58Z",
-    "+@date-last-updated-at": "2025-07-22T08:45:58Z"
+    "+@date-last-modified-at": "2025-08-21T12:59:24Z",
+    "+@date-last-updated-at": "2025-08-21T12:59:24Z"
 }
