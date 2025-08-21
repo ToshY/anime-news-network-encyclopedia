@@ -4,7 +4,11 @@
     "+@type": "TV",
     "+@name": "Case Book of Arne",
     "+@precision": "TV",
-    "+@generated-on": "2025-07-22T02:30:11Z",
+    "+@generated-on": "2025-08-21T04:37:32Z",
+    "related-prev": {
+        "+@rel": "related to",
+        "+@id": "37315"
+    },
     "info": [
         {
             "+@gid": "1027539582",
@@ -47,22 +51,107 @@
             "+content": "mystery",
             "+@gid": "2334363625",
             "+@type": "Genres"
+        },
+        {
+            "+content": "2026-01",
+            "+@gid": "1627432463",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "アルネの事件簿",
+            "+@gid": "2876338583",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://arne.asmik-ace.co.jp/"
         }
     ],
-    "news": {
-        "+content": "<cite>The Case Book of Arne</cite> Mystery Game Gets TV Anime",
-        "+@datetime": "2024-11-06T11:08:53Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-11-06/the-case-book-of-arne-mystery-game-gets-tv-anime/.217574"
-    },
-    "staff": {
-        "+@gid": "3047946209",
-        "task": "Original creator",
-        "person": {
-            "+content": "Murasaki",
-            "+@id": "272889"
+    "news": [
+        {
+            "+content": "<cite>The Case Book of Arne</cite> Mystery Game Gets TV Anime",
+            "+@datetime": "2024-11-06T11:08:53Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-11-06/the-case-book-of-arne-mystery-game-gets-tv-anime/.217574"
+        },
+        {
+            "+content": "<cite>The Case Book of Arne</cite> Anime's Teaser Reveals Staff, January Debut",
+            "+@datetime": "2025-08-06T03:46:19Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-05/the-case-book-of-arne-anime-teaser-reveals-staff-january-debut/.227396"
+        }
+    ],
+    "staff": [
+        {
+            "+@gid": "2645893284",
+            "task": "Director",
+            "person": {
+                "+content": "Keisuke Inoue",
+                "+@id": "98551"
+            }
+        },
+        {
+            "+@gid": "1765720774",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Keisuke Inoue",
+                "+@id": "98551"
+            }
+        },
+        {
+            "+@gid": "3284509351",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Murasaki",
+                "+@id": "272889"
+            }
+        },
+        {
+            "+@gid": "2142347267",
+            "task": "Music",
+            "person": {
+                "+content": "Yoshiaki Fujisawa",
+                "+@id": "113645"
+            }
+        },
+        {
+            "+@gid": "3047946209",
+            "task": "Original creator",
+            "person": {
+                "+content": "Murasaki",
+                "+@id": "272889"
+            }
+        },
+        {
+            "+@gid": "1778992582",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Harutaro",
+                "+@id": "204525"
+            }
+        },
+        {
+            "+@gid": "1619526077",
+            "task": "Character Design",
+            "person": {
+                "+content": "Akiko Satō",
+                "+@id": "24339"
+            }
+        },
+        {
+            "+@gid": "2416689034",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Akiko Satō",
+                "+@id": "24339"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2761567647",
+        "task": "Animation Production",
+        "company": {
+            "+content": "SILVER LINK.",
+            "+@id": "14218"
         }
     },
     "+@date-added": "2024-11-06T21:36:11Z",
-    "+@date-last-modified-at": "2025-07-22T02:30:13Z",
-    "+@date-last-updated-at": "2025-07-22T02:30:13Z"
+    "+@date-last-modified-at": "2025-08-21T04:37:34Z",
+    "+@date-last-updated-at": "2025-08-21T04:37:34Z"
 }
