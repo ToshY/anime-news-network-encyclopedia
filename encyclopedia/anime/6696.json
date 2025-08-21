@@ -4,11 +4,17 @@
     "+@type": "movie",
     "+@name": "5 Centimeters Per Second",
     "+@precision": "movie",
-    "+@generated-on": "2025-07-18T16:45:16Z",
-    "related-next": {
-        "+@id": "13723",
-        "+@rel": "adaptation"
-    },
+    "+@generated-on": "2025-08-21T02:13:15Z",
+    "related-next": [
+        {
+            "+@id": "13723",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "37314",
+            "+@rel": "remake"
+        }
+    ],
     "info": [
         {
             "+@gid": "2729296810",
@@ -265,9 +271,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5874",
-        "+@weighted_score": "8.5928",
-        "+@bayesian_score": "8.59033"
+        "+@nb_votes": "5875",
+        "+@weighted_score": "8.5929",
+        "+@bayesian_score": "8.59043"
     },
     "review": {
         "+content": "5 Centimeters Per Second DVD",
@@ -1017,6 +1023,6 @@
         }
     },
     "+@date-added": "2006-07-10T11:08:56Z",
-    "+@date-last-modified-at": "2025-07-18T16:45:21Z",
-    "+@date-last-updated-at": "2025-07-18T16:45:21Z"
+    "+@date-last-modified-at": "2025-08-21T02:13:18Z",
+    "+@date-last-updated-at": "2025-08-21T02:13:18Z"
 }
