@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Kaiju No. 8",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-07-22T20:37:55Z",
+    "+@generated-on": "2025-08-22T02:14:10Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26176"
@@ -88,6 +88,11 @@
             "+@type": "Objectionable content"
         },
         {
+            "+content": "Kafka's secret is out and everybody knows that he's Kaiju No. 8. After a ferocious display against the head of the Special Defense Force, Kafka has just barely managed to survive. There may actually be a future with him here at the Defense Force as long as he can prove himself as an asset. Meanwhile, Kikoru has also been transferred to the first division where she comes across, one of the strongest kaiju hunters on the force, but to say that he is not what she expected is an understatement.",
+            "+@gid": "765443012",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "23",
             "+@gid": "2909213977",
             "+@type": "Running time"
@@ -121,17 +126,43 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "8"
+        "+@nb_votes": "3",
+        "+@weighted_score": "7.8662"
     },
-    "episode": {
-        "+@num": "13",
-        "title": {
-            "+content": "Kaiju Weapon",
-            "+@gid": "2114401643",
-            "+@lang": "EN"
+    "episode": [
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "Kaiju Weapon",
+                "+@gid": "2114401643",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "14",
+            "title": {
+                "+content": "The Next Generation's Trial",
+                "+@gid": "2456957479",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "15",
+            "title": {
+                "+content": "The Strongest Division",
+                "+@gid": "884894923",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "16",
+            "title": {
+                "+content": "The Man Called Isao Shinomiya",
+                "+@gid": "1262409559",
+                "+@lang": "EN"
+            }
         }
-    },
+    ],
     "news": [
         {
             "+content": "<cite>Kaiju No. 8</cite> Anime's 2nd Season Debuts in 2025, 1st Season Gets Compilation Film With New Original Episode",
@@ -307,12 +338,30 @@
             }
         },
         {
+            "+@gid": "2083355301",
+            "+@lang": "EN",
+            "role": "Kaiju No. 9",
+            "person": {
+                "+content": "Alejandro Saab",
+                "+@id": "144413"
+            }
+        },
+        {
             "+@gid": "2531271077",
             "+@lang": "EN",
             "role": "Soshiro Hoshina",
             "person": {
                 "+content": "Landon McDonald",
                 "+@id": "148198"
+            }
+        },
+        {
+            "+@gid": "1966744950",
+            "+@lang": "EN",
+            "role": "Hikaru Shinomiya",
+            "person": {
+                "+content": "Morgan Lauré",
+                "+@id": "157958"
             }
         },
         {
@@ -367,6 +416,15 @@
             "person": {
                 "+content": "Brandon Acosta",
                 "+@id": "232202"
+            }
+        },
+        {
+            "+@gid": "1934725240",
+            "+@lang": "EN",
+            "role": "Hiroto Mori",
+            "person": {
+                "+content": "Nasim Benelkour",
+                "+@id": "243087"
             }
         },
         {
@@ -676,6 +734,6 @@
         }
     },
     "+@date-added": "2024-06-29T17:37:54Z",
-    "+@date-last-modified-at": "2025-07-22T20:37:58Z",
-    "+@date-last-updated-at": "2025-07-22T20:37:58Z"
+    "+@date-last-modified-at": "2025-08-22T02:14:13Z",
+    "+@date-last-updated-at": "2025-08-22T02:14:13Z"
 }

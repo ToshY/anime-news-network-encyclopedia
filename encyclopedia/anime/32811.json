@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Princession Orchestra",
     "+@precision": "TV",
-    "+@generated-on": "2025-07-22T20:37:56Z",
+    "+@generated-on": "2025-08-22T02:14:11Z",
     "info": [
         {
             "+@gid": "2141343868",
@@ -88,7 +88,17 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Gekkou It's ME!\" (激光 It's ME!) by Princess Meteor (CV: Azusa Tachibana) (eps 5-6,10-12,14)",
+            "+content": "\"Extreme Reborn\" (エクストリーム リ・ボーン) by Princess Meteor (CV: Azusa Tachibana) (ep 16)",
+            "+@gid": "2314299563",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Fight Might Me!\" (ファイト・マイト・ミー！) by Princess Ripple (CV: Azusa Aoi) (ep 18)",
+            "+@gid": "1329792268",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Gekkou It's ME!\" (激光 It's ME!) by Princess Meteor (CV: Azusa Tachibana) (eps 5-6,10-12,14,16)",
             "+@gid": "2074172529",
             "+@type": "Insert song"
         },
@@ -103,13 +113,23 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"OVER THE BLAZE\" by Princess Zeal (CV: Yuri Fujimoto) (eps 1-3,5,7,10,12,15)",
+            "+content": "\"Only Yours\" by Princess Zeal (CV: Yuri Fujimoto) (eps 17,19)",
+            "+@gid": "1950353941",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"OVER THE BLAZE\" by Princess Zeal (CV: Yuri Fujimoto) (eps 1-3,5,7,10,12,15,17)",
             "+@gid": "448906289",
             "+@type": "Insert song"
         },
         {
             "+content": "\"Shimei wa Akaki Serenade -Ver.First Blood-\" (使命は赤きセレナーデ -Ver.First Blood-) by Calist (CV: Chiaki Kobayashi) (ep 12)",
             "+@gid": "1294007589",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"SOULISM\" by Kagari Shirube (CV: Yuri Fujimoto) (ep 17)",
+            "+@gid": "2037124142",
             "+@type": "Insert song"
         },
         {
@@ -179,6 +199,11 @@
             "+content": "<cite>Princession Orchestra</cite> Anime Briefly Streams 1st 2 Episodes With English Subtitles (Updated)",
             "+@datetime": "2025-07-05T04:57:49Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-07-05/princession-orchestra-anime-briefly-streams-1st-2-episodes-with-english-subtitles/.226326"
+        },
+        {
+            "+content": "Nana Mizuki Joins Cast of <cite>Princession Orchestra</cite> Anime",
+            "+@datetime": "2025-07-27T04:40:50Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-27/nana-mizuki-joins-cast-of-princession-orchestra-anime/.227056"
         }
     ],
     "staff": [
@@ -236,6 +261,14 @@
             "person": {
                 "+content": "Yusuke Sekine",
                 "+@id": "131339"
+            }
+        },
+        {
+            "+@gid": "2996741010",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Junya Koshiba",
+                "+@id": "31192"
             }
         },
         {
@@ -473,6 +506,15 @@
     ],
     "cast": [
         {
+            "+@gid": "1364136284",
+            "+@lang": "JA",
+            "role": "Red Queen",
+            "person": {
+                "+content": "Nana Mizuki",
+                "+@id": "436"
+            }
+        },
+        {
             "+@gid": "2422792842",
             "+@lang": "JA",
             "role": "Mr. Cameo",
@@ -482,12 +524,12 @@
             }
         },
         {
-            "+@gid": "3933266181",
+            "+@gid": "324932269",
             "+@lang": "JA",
-            "role": "Kagari Shikibe/Princess Zeal",
+            "role": "Hisana Shikibe",
             "person": {
-                "+content": "Yuri Fujimoto",
-                "+@id": "3556"
+                "+content": "Fumi Hirano",
+                "+@id": "1662"
             }
         },
         {
@@ -503,15 +545,6 @@
             "+@gid": "1456573624",
             "+@lang": "JA",
             "role": "Nabiyu",
-            "person": {
-                "+content": "Hiro Shimono",
-                "+@id": "7636"
-            }
-        },
-        {
-            "+@gid": "3085033194",
-            "+@lang": "JA",
-            "role": "Naville",
             "person": {
                 "+content": "Hiro Shimono",
                 "+@id": "7636"
@@ -590,15 +623,6 @@
             }
         },
         {
-            "+@gid": "3290123650",
-            "+@lang": "JA",
-            "role": "Guita",
-            "person": {
-                "+content": "Shōya Chiba",
-                "+@id": "97379"
-            }
-        },
-        {
             "+@gid": "1903925728",
             "+@lang": "JA",
             "role": "Adjutant",
@@ -617,12 +641,12 @@
             }
         },
         {
-            "+@gid": "2215190915",
+            "+@gid": "729888050",
             "+@lang": "JA",
-            "role": "Bess",
+            "role": "Hayete Hasagawa",
             "person": {
-                "+content": "Junya Enoki",
-                "+@id": "109167"
+                "+content": "Sora Amamiya",
+                "+@id": "119743"
             }
         },
         {
@@ -671,6 +695,15 @@
             }
         },
         {
+            "+@gid": "916339855",
+            "+@lang": "JA",
+            "role": "Mai Tanaka",
+            "person": {
+                "+content": "Azumi Waki",
+                "+@id": "134798"
+            }
+        },
+        {
             "+@gid": "2923925004",
             "+@lang": "JA",
             "role": "Kanami Ena",
@@ -689,9 +722,9 @@
             }
         },
         {
-            "+@gid": "2026383541",
+            "+@gid": "3215261407",
             "+@lang": "JA",
-            "role": "Calisto",
+            "role": "Calist",
             "person": {
                 "+content": "Chiaki Kobayashi",
                 "+@id": "176057"
@@ -778,6 +811,6 @@
         }
     ],
     "+@date-added": "2024-06-14T19:29:38Z",
-    "+@date-last-modified-at": "2025-07-22T20:37:58Z",
-    "+@date-last-updated-at": "2025-07-22T20:37:58Z"
+    "+@date-last-modified-at": "2025-08-22T02:14:13Z",
+    "+@date-last-updated-at": "2025-08-22T02:14:13Z"
 }
