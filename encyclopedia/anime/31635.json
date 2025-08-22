@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "MONOGATARI Series: OFF & MONSTER Season",
     "+@precision": "TV",
-    "+@generated-on": "2025-07-23T13:06:27Z",
+    "+@generated-on": "2025-08-22T16:39:50Z",
     "related-prev": [
         {
             "+@rel": "sequel of",
@@ -97,9 +97,29 @@
             "+@lang": "JA"
         },
         {
+            "+content": "mystery",
+            "+@gid": "2650617779",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "supernatural",
+            "+@gid": "1800611667",
+            "+@type": "Genres"
+        },
+        {
             "+content": "Having graduated from high school, Araragi Koyomi's story is over. This time, it's truly over. However, the story of the girls who were saved by Koyomi was not over yet. A prequel or sequel to the story of these girls struggling in their youth.",
             "+@gid": "2757805268",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "24",
+            "+@gid": "2128058685",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "15",
+            "+@gid": "1624904402",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2024-07-06",
@@ -145,10 +165,132 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "51",
-        "+@weighted_score": "7.9495",
-        "+@bayesian_score": "7.85304"
+        "+@nb_votes": "54",
+        "+@weighted_score": "7.9105",
+        "+@bayesian_score": "7.82584"
     },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "Orokamonogatari: Tsukihi Undo",
+                "+@gid": "2120425163",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "Nademonogatari: Nadeko Draw, Part One",
+                "+@gid": "2143157012",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "Nademonogatari: Nadeko Draw, Part Two",
+                "+@gid": "1041201907",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "Nademonogatari: Nadeko Draw, Part Three",
+                "+@gid": "1067166543",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "Nademonogatari: Nadeko Draw, Part Four",
+                "+@gid": "2643566666",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "Nademonogatari: Nadeko Draw, Part Five",
+                "+@gid": "1076623004",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6.5",
+            "title": {
+                "+content": "A Cruel Fairy Tale: The Beautiful Princess",
+                "+@gid": "1988468309",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "Wazamonogatari: Acerola Bon Appétit, Part One",
+                "+@gid": "1293238411",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "Wazamonogatari: Acerola Bon Appétit, Part Two",
+                "+@gid": "897039062",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "Shinobumonogatari: Shinobu Mustard, Part One",
+                "+@gid": "1486841222",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "Shinobumonogatari: Shinobu Mustard, Part Two",
+                "+@gid": "1217263292",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "Shinobumonogatari: Shinobu Mustard, Part Three",
+                "+@gid": "1774256801",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Shinobumonogatari: Shinobu Mustard, Part Four",
+                "+@gid": "1967226763",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "Shinobumonogatari: Shinobu Mustard, Part Five",
+                "+@gid": "2232936778",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "14",
+            "title": {
+                "+content": "Shinobumonogatari: Shinobu Mustard, Part Six",
+                "+@gid": "2117377832",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "<cite>Monogatari</cite> Series' <cite>Off Season</cite>, <cite>Monster Season</cite> Novels Get Anime",
@@ -259,6 +401,14 @@
             }
         },
         {
+            "+@gid": "980710183",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Fuyashi Tou",
+                "+@id": "69855"
+            }
+        },
+        {
             "+@gid": "2333020691",
             "task": "Storyboard",
             "person": {
@@ -315,14 +465,6 @@
             }
         },
         {
-            "+@gid": "2091719854",
-            "task": "Storyboard",
-            "person": {
-                "+content": "Akiyuki Simbo",
-                "+@id": "115255"
-            }
-        },
-        {
             "+@gid": "842380624",
             "task": "Episode Director",
             "person": {
@@ -344,6 +486,14 @@
             "person": {
                 "+content": "Shōhei Fujita",
                 "+@id": "77724"
+            }
+        },
+        {
+            "+@gid": "1292130821",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Satoru Kakutani",
+                "+@id": "80704"
             }
         },
         {
@@ -376,14 +526,6 @@
             "person": {
                 "+content": "Teppei Takeya",
                 "+@id": "228225"
-            }
-        },
-        {
-            "+@gid": "2509250476",
-            "task": "Episode Director",
-            "person": {
-                "+content": "Osamu Sumiya",
-                "+@id": "253531"
             }
         },
         {
@@ -677,6 +819,6 @@
         }
     },
     "+@date-added": "2024-01-18T04:39:46Z",
-    "+@date-last-modified-at": "2025-07-23T13:06:28Z",
-    "+@date-last-updated-at": "2025-07-23T13:06:28Z"
+    "+@date-last-modified-at": "2025-08-22T16:39:53Z",
+    "+@date-last-updated-at": "2025-08-22T16:39:53Z"
 }
