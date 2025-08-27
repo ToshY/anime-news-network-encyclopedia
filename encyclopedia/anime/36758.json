@@ -2,9 +2,9 @@
     "+@id": "36758",
     "+@gid": "3587483522",
     "+@type": "TV",
-    "+@name": "Towa no Yugure",
+    "+@name": "Dusk Beyond the End of the World",
     "+@precision": "TV",
-    "+@generated-on": "2025-07-28T02:37:34Z",
+    "+@generated-on": "2025-08-27T04:36:15Z",
     "info": [
         {
             "+@gid": "125125260",
@@ -26,9 +26,15 @@
             ]
         },
         {
+            "+content": "Dusk Beyond the End of the World",
+            "+@gid": "2159941128",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Towa no Yugure",
             "+@gid": "1726777915",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -55,11 +61,18 @@
             "+@href": "https://towanoyuugure.com/"
         }
     ],
-    "news": {
-        "+content": "P.A. Works Reveals Original TV Anime <cite>Towa no Yugure</cite> for October Debut",
-        "+@datetime": "2025-06-27T09:11:29Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-06-27/p.a-works-reveals-original-tv-anime-towa-no-yugure-for-october-debut/.226083"
-    },
+    "news": [
+        {
+            "+content": "P.A. Works Reveals Original TV Anime <cite>Towa no Yugure</cite> for October Debut",
+            "+@datetime": "2025-06-27T09:11:29Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-27/p.a-works-reveals-original-tv-anime-towa-no-yugure-for-october-debut/.226083"
+        },
+        {
+            "+content": "HIDIVE to Stream <cite>Dusk Beyond the End of the World</cite> Anime in Fall",
+            "+@datetime": "2025-07-29T16:24:37Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-29/hidive-to-stream-dusk-beyond-the-end-of-the-world-anime-in-fall/.227151"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1007409947",
@@ -140,5 +153,6 @@
         }
     },
     "+@date-added": "2025-06-27T07:04:40Z",
-    "+@date-last-updated-at": "2025-07-28T02:37:37Z"
+    "+@date-last-modified-at": "2025-08-27T04:36:19Z",
+    "+@date-last-updated-at": "2025-08-27T04:36:19Z"
 }
