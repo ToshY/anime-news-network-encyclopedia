@@ -4,15 +4,21 @@
     "+@type": "TV",
     "+@name": "Tiger & Bunny 2",
     "+@precision": "TV",
-    "+@generated-on": "2025-07-29T04:59:39Z",
+    "+@generated-on": "2025-08-28T08:40:00Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "14819"
     },
-    "related-next": {
-        "+@id": "28337",
-        "+@rel": "adaptation"
-    },
+    "related-next": [
+        {
+            "+@id": "28337",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "37379",
+            "+@rel": "adaptation"
+        }
+    ],
     "info": [
         {
             "+@gid": "983378333",
@@ -105,7 +111,7 @@
     "ratings": {
         "+@nb_votes": "248",
         "+@weighted_score": "7.8454",
-        "+@bayesian_score": "7.82693"
+        "+@bayesian_score": "7.8269"
     },
     "review": [
         {
@@ -2403,6 +2409,6 @@
         }
     ],
     "+@date-added": "2021-04-03T16:49:19Z",
-    "+@date-last-modified-at": "2025-07-29T04:59:45Z",
-    "+@date-last-updated-at": "2025-07-29T04:59:45Z"
+    "+@date-last-modified-at": "2025-08-28T08:40:02Z",
+    "+@date-last-updated-at": "2025-08-28T08:40:02Z"
 }
