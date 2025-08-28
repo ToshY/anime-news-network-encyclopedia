@@ -4,12 +4,36 @@
     "+@type": "manga",
     "+@name": "Dungeon Elf",
     "+@precision": "manga",
-    "+@generated-on": "2025-07-29T04:59:39Z",
+    "+@generated-on": "2025-08-28T12:58:26Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "19628"
     },
     "info": [
+        {
+            "+@gid": "2970209609",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34137-2970209609.1754505615.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34137-2970209609.1754505615.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34137-2970209609.1754505615.jpg",
+                    "+@width": "422",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34137-2970209609.1754505615.jpg",
+                    "+@width": "1000",
+                    "+@height": "1423"
+                }
+            ]
+        },
         {
             "+content": "Dungeon Elf",
             "+@gid": "1290355455",
@@ -35,6 +59,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "adventure",
+            "+@gid": "1117833554",
+            "+@type": "Genres"
+        },
+        {
             "+content": "fantasy",
             "+@gid": "1623651837",
             "+@type": "Genres"
@@ -45,11 +74,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Kodansha Simultaneously Posts <cite>Dungeon Elf: What's a Dungeon without Treasure Chests?</cite> Manga in English",
-        "+@datetime": "2024-12-08T05:15:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-12-08/kodansha-simultaneously-posts-dungeon-elf-what-a-dungeon-without-treasure-chests-manga-in-english/.218731"
-    },
+    "news": [
+        {
+            "+content": "Kodansha Simultaneously Posts <cite>Dungeon Elf: What's a Dungeon without Treasure Chests?</cite> Manga in English",
+            "+@datetime": "2024-12-08T05:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-08/kodansha-simultaneously-posts-dungeon-elf-what-a-dungeon-without-treasure-chests-manga-in-english/.218731"
+        },
+        {
+            "+content": "Seven Seas Licenses <cite>Girl Meets Rock!</cite>, <cite>Dungeon Elf</cite>, <cite>History of the Kingdom of the Orcsen</cite>, 8 More Titles",
+            "+@datetime": "2025-08-23T00:22:13Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-22/seven-seas-licenses-girl-meets-rock-dungeon-elf-history-of-the-kingdom-of-the-orcsen-8-more-titles/.227897"
+        }
+    ],
     "staff": {
         "+@gid": "1052518642",
         "task": "Story & Art",
@@ -59,5 +95,6 @@
         }
     },
     "+@date-added": "2024-12-08T13:04:04Z",
-    "+@date-last-updated-at": "2025-07-29T04:59:41Z"
+    "+@date-last-modified-at": "2025-08-28T12:58:27Z",
+    "+@date-last-updated-at": "2025-08-28T12:58:27Z"
 }
