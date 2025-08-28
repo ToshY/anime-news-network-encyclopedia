@@ -4,7 +4,11 @@
     "+@type": "manga",
     "+@name": "Kyō Koi Kasane",
     "+@precision": "manga",
-    "+@generated-on": "2025-07-29T13:07:48Z",
+    "+@generated-on": "2025-08-28T16:39:46Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "37529"
+    },
     "info": [
         {
             "+@gid": "1624212778",
@@ -48,7 +52,12 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2023-02-21 (serialized in Coi-halu, vol. 1)",
+            "+content": "4",
+            "+@gid": "1956910851",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2023-02-21 to 2025-03-28 (serialized in Coi-halu, vols. 1 - 26)",
             "+@gid": "762286669",
             "+@type": "Vintage"
         }
@@ -62,5 +71,6 @@
         }
     },
     "+@date-added": "2024-11-19T08:44:22Z",
-    "+@date-last-updated-at": "2025-07-29T13:07:49Z"
+    "+@date-last-modified-at": "2025-08-28T16:39:48Z",
+    "+@date-last-updated-at": "2025-08-28T16:39:48Z"
 }
