@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Cat + Crazy",
     "+@precision": "manga",
-    "+@generated-on": "2025-07-29T20:39:40Z",
+    "+@generated-on": "2025-08-29T02:04:07Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "19616"
@@ -29,6 +29,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "1198387243",
+            "+@type": "Genres"
+        },
+        {
             "+content": "6",
             "+@gid": "452952704",
             "+@type": "Number of tankoubon"
@@ -39,11 +44,23 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Dark Horse Licenses Wataru Nadatani's <cite>Cat + Crazy</cite> Manga",
-        "+@datetime": "2024-11-07T15:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-11-07/dark-horse-licenses-wataru-nadatani-cat-crazy-manga/.217591"
+    "release": {
+        "+content": "Cat + Crazy (GN 1)",
+        "+@date": "2025-07-29",
+        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=54203"
     },
+    "news": [
+        {
+            "+content": "Dark Horse Licenses Wataru Nadatani's <cite>Cat + Crazy</cite> Manga",
+            "+@datetime": "2024-11-07T15:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-11-07/dark-horse-licenses-wataru-nadatani-cat-crazy-manga/.217591"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, July 27-August 2",
+            "+@datetime": "2025-07-30T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-30/north-american-anime-manga-releases-july-27-august-2/.227123"
+        }
+    ],
     "staff": {
         "+@gid": "1558323127",
         "task": "Story & Art",
@@ -53,5 +70,6 @@
         }
     },
     "+@date-added": "2024-11-07T14:44:48Z",
-    "+@date-last-updated-at": "2025-07-29T20:39:43Z"
+    "+@date-last-modified-at": "2025-08-29T02:04:09Z",
+    "+@date-last-updated-at": "2025-08-29T02:04:09Z"
 }
