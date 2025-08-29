@@ -4,12 +4,31 @@
     "+@type": "TV",
     "+@name": "Uma Musume: Cinderella Gray",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-07-30T02:34:19Z",
+    "+@generated-on": "2025-08-29T04:35:58Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "33371"
     },
     "info": [
+        {
+            "+@gid": "701409562",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36789-701409562.1755895395.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36789-701409562.1755895395.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36789-701409562.1755895395.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Uma Musume: Cinderella Gray",
             "+@gid": "2156239719",
@@ -21,6 +40,36 @@
             "+@gid": "2640641790",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "2185063581",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "2719388213",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "tournament",
+            "+@gid": "2307847989",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "idols",
+            "+@gid": "1110805024",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "racing",
+            "+@gid": "2900006854",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "school",
+            "+@gid": "3068776430",
+            "+@type": "Themes"
         },
         {
             "+content": "2025-10",
@@ -35,12 +84,43 @@
             "+@href": "https://anime-cinderellagray.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Uma Musume: Cinderella Gray</cite> Anime's New Teaser Confirms 2nd Part's October Debut",
-        "+@datetime": "2025-06-29T10:02:33Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-06-29/uma-musume-cinderella-gray-anime-new-teaser-confirms-2nd-part-october-debut/.226130"
-    },
+    "news": [
+        {
+            "+content": "<cite>Uma Musume: Cinderella Gray</cite> Anime's New Teaser Confirms 2nd Part's October Debut",
+            "+@datetime": "2025-06-29T10:02:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-29/uma-musume-cinderella-gray-anime-new-teaser-confirms-2nd-part-october-debut/.226130"
+        },
+        {
+            "+content": "<cite>Uma Musume: Cinderella Gray</cite> Anime Reveals Trailer, Character Visuals for Show's 2nd Part",
+            "+@datetime": "2025-08-22T14:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-22/uma-musume-cinderella-gray-anime-reveals-trailer-character-visuals-for-show-2nd-part/.227949"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "2661542867",
+            "task": "Director",
+            "person": {
+                "+content": "Takehiro Miura",
+                "+@id": "29860"
+            }
+        },
+        {
+            "+@gid": "2340302191",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Aki Kindaichi",
+                "+@id": "269592"
+            }
+        },
+        {
+            "+@gid": "840358078",
+            "task": "Music",
+            "person": {
+                "+content": "Kenji Kawai",
+                "+@id": "140"
+            }
+        },
         {
             "+@gid": "1305808608",
             "task": "Original creator",
@@ -64,8 +144,322 @@
                 "+content": "Taiyo Kuzumi",
                 "+@id": "237768"
             }
+        },
+        {
+            "+@gid": "2401853734",
+            "task": "Character Design",
+            "person": {
+                "+content": "Keigo Sasaki",
+                "+@id": "47473"
+            }
+        },
+        {
+            "+@gid": "2949213570",
+            "task": "Character Design",
+            "person": {
+                "+content": "Takuya Miyahara",
+                "+@id": "102715"
+            }
+        },
+        {
+            "+@gid": "1835403790",
+            "task": "Character Design",
+            "person": {
+                "+content": "Yōsuke Fukumoto",
+                "+@id": "156942"
+            }
+        },
+        {
+            "+@gid": "2737697694",
+            "task": "Art Director",
+            "person": {
+                "+content": "Osamu Hasada",
+                "+@id": "111048"
+            }
+        },
+        {
+            "+@gid": "2389888588",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Akira Takata",
+                "+@id": "8052"
+            }
+        },
+        {
+            "+@gid": "587209720",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Masashi Nomura",
+                "+@id": "57073"
+            }
+        },
+        {
+            "+@gid": "2023075319",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Sayuri Sakimoto",
+                "+@id": "112337"
+            }
+        },
+        {
+            "+@gid": "3695215328",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yōsuke Fukumoto",
+                "+@id": "156942"
+            }
+        },
+        {
+            "+@gid": "3656935305",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kōhei Kudō",
+                "+@id": "240053"
+            }
+        },
+        {
+            "+@gid": "2013690639",
+            "task": "3D Director",
+            "person": {
+                "+content": "Nobuyuki Kamiya",
+                "+@id": "143415"
+            }
+        },
+        {
+            "+@gid": "3096730266",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Fumiyuki Go",
+                "+@id": "134277"
+            }
+        },
+        {
+            "+@gid": "3661533577",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Akane Fushihara",
+                "+@id": "107551"
+            }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "1101086047",
+            "+@lang": "JA",
+            "role": "Jō Kitahara",
+            "person": {
+                "+content": "Katsuyuki Konishi",
+                "+@id": "780"
+            }
+        },
+        {
+            "+@gid": "1972633159",
+            "+@lang": "JA",
+            "role": "Toni Bianca",
+            "person": {
+                "+content": "Yūko Kaida",
+                "+@id": "9194"
+            }
+        },
+        {
+            "+@gid": "2982930139",
+            "+@lang": "JA",
+            "role": "Fujimasa March",
+            "person": {
+                "+content": "Mariya Ise",
+                "+@id": "46112"
+            }
+        },
+        {
+            "+@gid": "1999851185",
+            "+@lang": "JA",
+            "role": "Michelle My Baby",
+            "person": {
+                "+content": "Ayahi Takagaki",
+                "+@id": "56455"
+            }
+        },
+        {
+            "+@gid": "1750937783",
+            "+@lang": "JA",
+            "role": "Mini the Lady",
+            "person": {
+                "+content": "Shiori Izawa",
+                "+@id": "74850"
+            }
+        },
+        {
+            "+@gid": "758671195",
+            "+@lang": "JA",
+            "role": "Obey Your Master",
+            "person": {
+                "+content": "Shizuka Ishigami",
+                "+@id": "106437"
+            }
+        },
+        {
+            "+@gid": "1201136033",
+            "+@lang": "JA",
+            "role": "Symboli Rudolf",
+            "person": {
+                "+content": "Azusa Tadokoro",
+                "+@id": "112367"
+            }
+        },
+        {
+            "+@gid": "1318202208",
+            "+@lang": "JA",
+            "role": "Maruzensky",
+            "person": {
+                "+content": "Lynn",
+                "+@id": "115769"
+            }
+        },
+        {
+            "+@gid": "1772226642",
+            "+@lang": "JA",
+            "role": "Dicta Striker",
+            "person": {
+                "+content": "Yumiri Hanamori",
+                "+@id": "118609"
+            }
+        },
+        {
+            "+@gid": "2887029543",
+            "+@lang": "JA",
+            "role": "Rudy Lemono",
+            "person": {
+                "+content": "Yō Taichi",
+                "+@id": "119677"
+            }
+        },
+        {
+            "+@gid": "1813632910",
+            "+@lang": "JA",
+            "role": "Tamamo Cross",
+            "person": {
+                "+content": "Naomi Ōzora",
+                "+@id": "120825"
+            }
+        },
+        {
+            "+@gid": "1470942972",
+            "+@lang": "JA",
+            "role": "Super Creek",
+            "person": {
+                "+content": "Kana Yūki",
+                "+@id": "127401"
+            }
+        },
+        {
+            "+@gid": "2655502276",
+            "+@lang": "JA",
+            "role": "Moonlight Lunacy",
+            "person": {
+                "+content": "Akira Sekine",
+                "+@id": "127847"
+            }
+        },
+        {
+            "+@gid": "1907131959",
+            "+@lang": "JA",
+            "role": "Sakura Chiyono O",
+            "person": {
+                "+content": "Ruriko Noguchi",
+                "+@id": "138051"
+            }
+        },
+        {
+            "+@gid": "739107874",
+            "+@lang": "JA",
+            "role": "Oguri Cap",
+            "person": {
+                "+content": "Tomoyo Takayanagi",
+                "+@id": "140021"
+            }
+        },
+        {
+            "+@gid": "2542715548",
+            "+@lang": "JA",
+            "role": "Norn Ace",
+            "person": {
+                "+content": "Ayano Shibuya",
+                "+@id": "143950"
+            }
+        },
+        {
+            "+@gid": "2423021041",
+            "+@lang": "JA",
+            "role": "Ellerslie Pride",
+            "person": {
+                "+content": "Miyu Tomita",
+                "+@id": "145048"
+            }
+        },
+        {
+            "+@gid": "3234426125",
+            "+@lang": "JA",
+            "role": "Gold City",
+            "person": {
+                "+content": "Saki Kōsaka",
+                "+@id": "145369"
+            }
+        },
+        {
+            "+@gid": "2830718467",
+            "+@lang": "JA",
+            "role": "Mejiro Ardan",
+            "person": {
+                "+content": "Saya Aizawa",
+                "+@id": "154564"
+            }
+        },
+        {
+            "+@gid": "3104436708",
+            "+@lang": "JA",
+            "role": "Mr. C.B.",
+            "person": {
+                "+content": "Yurina Amami",
+                "+@id": "159137"
+            }
+        },
+        {
+            "+@gid": "1161759749",
+            "+@lang": "JA",
+            "role": "Yaeno Muteki",
+            "person": {
+                "+content": "Ayumi Hinohara",
+                "+@id": "232122"
+            }
+        },
+        {
+            "+@gid": "1693537947",
+            "+@lang": "JA",
+            "role": "Berno Light",
+            "person": {
+                "+content": "Momoko Seto",
+                "+@id": "235797"
+            }
+        },
+        {
+            "+@gid": "1742843602",
+            "+@lang": "JA",
+            "role": "Ginjirō Musaka",
+            "person": {
+                "+content": "Hōchū Ōtsuka",
+                "+@id": "274643"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "3155560609",
+        "task": "Animation Production",
+        "company": {
+            "+content": "CygamesPictures",
+            "+@id": "16136"
+        }
+    },
     "+@date-added": "2025-06-29T04:15:05Z",
-    "+@date-last-updated-at": "2025-07-30T02:34:22Z"
+    "+@date-last-modified-at": "2025-08-29T04:36:01Z",
+    "+@date-last-updated-at": "2025-08-29T04:36:01Z"
 }
