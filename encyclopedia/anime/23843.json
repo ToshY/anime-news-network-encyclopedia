@@ -4,15 +4,25 @@
     "+@type": "TV",
     "+@name": "Chainsaw Man",
     "+@precision": "TV",
-    "+@generated-on": "2025-07-30T08:46:37Z",
+    "+@generated-on": "2025-08-29T12:56:56Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "22369"
     },
-    "related-next": {
-        "+@id": "31068",
-        "+@rel": "sequel"
-    },
+    "related-next": [
+        {
+            "+@id": "31068",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "37643",
+            "+@rel": "compilation"
+        },
+        {
+            "+@id": "37644",
+            "+@rel": "related"
+        }
+    ],
     "info": [
         {
             "+@gid": "1865191988",
@@ -228,9 +238,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "705",
-        "+@weighted_score": "7.8688",
-        "+@bayesian_score": "7.86166"
+        "+@nb_votes": "706",
+        "+@weighted_score": "7.8657",
+        "+@bayesian_score": "7.85862"
     },
     "episode": [
         {
@@ -492,6 +502,16 @@
             "+content": "Netflix Removes <cite>Reincarnated as a Sword</cite>; <cite>Death Note</cite>, More Anime Still Stream in India",
             "+@datetime": "2025-02-17T09:23:50Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-02-17/netflix-removes-reincarnated-as-a-sword-death-note-more-anime-still-stream-in-india/.221280"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, July 27-August 2",
+            "+@datetime": "2025-07-30T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-30/north-american-anime-manga-releases-july-27-august-2/.227123"
+        },
+        {
+            "+content": "Crunchyroll to Stream 2-Part <cite>Chainsaw Man</cite> Anime Compilation Film in September",
+            "+@datetime": "2025-08-26T15:21:19Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-26/crunchyroll-to-stream-2-part-chainsaw-man-anime-compilation-film-in-september/.228104"
         }
     ],
     "staff": [
@@ -1827,6 +1847,6 @@
         }
     ],
     "+@date-added": "2020-12-13T14:42:18Z",
-    "+@date-last-modified-at": "2025-07-30T08:46:40Z",
-    "+@date-last-updated-at": "2025-07-30T08:46:40Z"
+    "+@date-last-modified-at": "2025-08-29T12:57:02Z",
+    "+@date-last-updated-at": "2025-08-29T12:57:02Z"
 }
