@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Shiranai Koto Kenkyūkai",
     "+@precision": "manga",
-    "+@generated-on": "2025-07-31T16:46:08Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "4818"
-    },
+    "+@generated-on": "2025-08-30T20:30:27Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "4818"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "37668"
+        }
+    ],
     "info": [
         {
             "+@gid": "2915920847",
@@ -62,8 +68,13 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2024-01-11 (serialized in Weekly Shonen Champion, 2024 #6)",
+            "+content": "2024-01-11 to 2024-03-07 (Weekly Shonen Champion, 2024 #6 - 14)",
             "+@gid": "3530407737",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2024-01-11 to 2024-06-06 (Champion BUZZ, vols. 4 - 9)",
+            "+@gid": "1291396269",
             "+@type": "Vintage"
         }
     ],
@@ -72,14 +83,25 @@
         "+@datetime": "2024-01-13T10:05:00Z",
         "+@href": "https://www.animenewsnetwork.com:/news/2024-01-13/hololive-sub-unit-shiranui-kensetsu-inspires-manga/.206427"
     },
-    "staff": {
-        "+@gid": "3118345852",
-        "task": "Story & Art",
-        "person": {
-            "+content": "Tsumumi",
-            "+@id": "220559"
+    "staff": [
+        {
+            "+@gid": "3118345852",
+            "task": "Story & Art",
+            "person": {
+                "+content": "Tsumumi",
+                "+@id": "220559"
+            }
+        },
+        {
+            "+@gid": "2658411702",
+            "task": "Original Concept",
+            "person": {
+                "+content": "Shiranui Kensetsu",
+                "+@id": "269132"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-08-12T09:19:12Z",
-    "+@date-last-updated-at": "2025-07-31T16:46:09Z"
+    "+@date-last-modified-at": "2025-08-30T20:30:29Z",
+    "+@date-last-updated-at": "2025-08-30T20:30:29Z"
 }
