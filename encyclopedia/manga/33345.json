@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Osananajimi Futari ♂ ga Akiraka ni Ryō Omoi nanda ga",
     "+@precision": "manga",
-    "+@generated-on": "2025-07-31T08:46:19Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "26867"
-    },
+    "+@generated-on": "2025-08-30T12:52:25Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "26867"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "35523"
+        }
+    ],
     "info": [
         {
             "+@gid": "1995622805",
@@ -45,6 +51,16 @@
             "+@gid": "1380083773",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "1127157727",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "2259529942",
+            "+@type": "Genres"
         },
         {
             "+content": "2",
@@ -88,5 +104,6 @@
         }
     ],
     "+@date-added": "2024-08-20T19:34:47Z",
-    "+@date-last-updated-at": "2025-07-31T08:46:21Z"
+    "+@date-last-modified-at": "2025-08-30T12:52:26Z",
+    "+@date-last-updated-at": "2025-08-30T12:52:26Z"
 }
