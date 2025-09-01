@@ -2,9 +2,9 @@
     "+@id": "32534",
     "+@gid": "2461042829",
     "+@type": "manga",
-    "+@name": "Rekkyō Sensen",
+    "+@name": "Battlefront of the Great Powers",
     "+@precision": "manga",
-    "+@generated-on": "2025-08-02T02:26:56Z",
+    "+@generated-on": "2025-09-01T08:42:57Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "22891"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "Battlefront of the Great Powers",
+            "+@gid": "2342598374",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Rekkyō Sensen",
             "+@gid": "3387869210",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -58,11 +64,21 @@
             "+@type": "Genres"
         },
         {
+            "+content": "tournament",
+            "+@gid": "3534227223",
+            "+@type": "Genres"
+        },
+        {
             "+content": "2023-10-25 (serialized in Comic Zenon, Dec 2023)",
             "+@gid": "1726898941",
             "+@type": "Vintage"
         }
     ],
+    "news": {
+        "+content": "Yen Press Licenses <cite>Bad Girl</cite>, <cite>Frieren: Prelude</cite>, <cite>Lycoris Recoil: Recovery Days</cite>, More Titles",
+        "+@datetime": "2025-08-23T22:40:00Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-08-23/yen-press-licenses-bad-girl-frieren-prelude-lycoris-recoil-recovery-days-more-titles/.227970"
+    },
     "staff": {
         "+@gid": "2875350933",
         "task": "Story & Art",
@@ -72,5 +88,6 @@
         }
     },
     "+@date-added": "2024-03-22T09:26:38Z",
-    "+@date-last-updated-at": "2025-08-02T02:26:57Z"
+    "+@date-last-modified-at": "2025-09-01T08:42:58Z",
+    "+@date-last-updated-at": "2025-09-01T08:42:58Z"
 }
