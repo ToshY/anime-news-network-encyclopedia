@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Snow Angel",
     "+@precision": "manga",
-    "+@generated-on": "2025-08-02T20:34:56Z",
+    "+@generated-on": "2025-09-02T04:37:05Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "13013"
@@ -64,11 +64,18 @@
             "+@type": "Vintage"
         }
     ],
-    "release": {
-        "+content": "Snow Angel (GN 1)",
-        "+@date": "2025-05-13",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=53115"
-    },
+    "release": [
+        {
+            "+content": "Snow Angel (GN 1)",
+            "+@date": "2025-05-13",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=53115"
+        },
+        {
+            "+content": "Snow Angel (GN 2)",
+            "+@date": "2025-08-12",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=54445"
+        }
+    ],
     "news": [
         {
             "+content": "Viz Media Licenses <cite>Steel Ball Run</cite>, <cite>Astro Royale</cite>, <cite>Tenmaku Cinema</cite>, More Manga",
@@ -79,6 +86,11 @@
             "+content": "North American Anime, Manga Releases, May 11-17",
             "+@datetime": "2025-05-14T21:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-05-14/north-american-anime-manga-releases-may-11-17/.224421"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, August 10-16",
+            "+@datetime": "2025-08-14T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-14/north-american-anime-manga-releases-august-10-16/.227563"
         }
     ],
     "staff": {
@@ -90,5 +102,6 @@
         }
     },
     "+@date-added": "2024-02-27T04:29:08Z",
-    "+@date-last-updated-at": "2025-08-02T20:34:57Z"
+    "+@date-last-modified-at": "2025-09-02T04:37:05Z",
+    "+@date-last-updated-at": "2025-09-02T04:37:05Z"
 }

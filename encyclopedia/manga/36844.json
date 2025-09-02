@@ -2,13 +2,19 @@
     "+@id": "36844",
     "+@gid": "2084868806",
     "+@type": "manga",
-    "+@name": "Bakemono o Kimi ni Tsugu",
+    "+@name": "Bakemono no Kimi ni Tsugu",
     "+@precision": "manga",
-    "+@generated-on": "2025-08-03T02:43:46Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "19913"
-    },
+    "+@generated-on": "2025-09-02T04:37:02Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "19913"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "37613"
+        }
+    ],
     "info": [
         {
             "+@gid": "2266142274",
@@ -35,7 +41,7 @@
             ]
         },
         {
-            "+content": "Bakemono o Kimi ni Tsugu",
+            "+content": "Bakemono no Kimi ni Tsugu",
             "+@gid": "651896939",
             "+@type": "Main title",
             "+@lang": "JA"
@@ -91,5 +97,6 @@
         }
     ],
     "+@date-added": "2025-07-03T15:38:41Z",
-    "+@date-last-updated-at": "2025-08-03T02:43:48Z"
+    "+@date-last-modified-at": "2025-09-02T04:37:05Z",
+    "+@date-last-updated-at": "2025-09-02T04:37:05Z"
 }
