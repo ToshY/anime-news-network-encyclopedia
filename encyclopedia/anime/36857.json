@@ -2,9 +2,9 @@
     "+@id": "36857",
     "+@gid": "3804154650",
     "+@type": "movie",
-    "+@name": "Bâan -The Boundaries of Adulthood-",
+    "+@name": "Bâan -The Boundary of Adulthood-",
     "+@precision": "movie",
-    "+@generated-on": "2025-08-04T02:43:27Z",
+    "+@generated-on": "2025-09-03T04:34:42Z",
     "info": [
         {
             "+@gid": "712962125",
@@ -26,8 +26,8 @@
             ]
         },
         {
-            "+content": "Bâan -The Boundaries of Adulthood-",
-            "+@gid": "2872356132",
+            "+content": "Bâan -The Boundary of Adulthood-",
+            "+@gid": "378514106",
             "+@type": "Main title",
             "+@lang": "EN"
         },
@@ -44,6 +44,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Bâan -The Boundaries of Adulthood-",
+            "+@gid": "2872356132",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "2025-08-24",
             "+@type": "Vintage"
         },
@@ -51,13 +57,25 @@
             "+content": "2025-08-24 (Japan)",
             "+@gid": "98535269",
             "+@type": "Premiere date"
+        },
+        {
+            "+content": "2025-09-20 (streaming on YouTube worldwide)",
+            "+@gid": "3345009300",
+            "+@type": "Premiere date"
         }
     ],
-    "news": {
-        "+content": "GeeXPlus' New GeeXProductions Division Produces Gigguk's <cite>Bâan -The Boundaries of Adulthood-</cite> Anime Short Movie",
-        "+@datetime": "2025-07-04T03:20:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-07-03/geexplus-new-geexproductions-division-produces-gigguk-baan-the-boundaries-of-adulthood-anime-short-/.226256"
-    },
+    "news": [
+        {
+            "+content": "GeeXPlus' New GeeXProductions Division Produces Gigguk's <cite>Bâan -The Boundary of Adulthood-</cite> Anime Short Movie",
+            "+@datetime": "2025-07-04T03:20:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-03/geexplus-new-geexproductions-division-produces-gigguk-baan-the-boundary-of-adulthood-anime-short-/.226256"
+        },
+        {
+            "+content": "Gigguk's <cite>Bâan -The Boundary of Adulthood-</cite> Anime Short Movie Reveals September 20 YouTube Debut, English Dub Cast",
+            "+@datetime": "2025-08-25T08:51:30Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-25/gigguk-baan-the-boundary-of-adulthood-anime-short-movie-reveals-september-20-youtube-debut-english-/.228055"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2467496584",
@@ -86,6 +104,15 @@
     ],
     "cast": [
         {
+            "+@gid": "2578672241",
+            "+@lang": "EN",
+            "role": "Daichi Arai",
+            "person": {
+                "+content": "Aleks Le",
+                "+@id": "174640"
+            }
+        },
+        {
             "+@gid": "4190066482",
             "+@lang": "EN",
             "role": "Rinrada Ratchamanee",
@@ -95,9 +122,9 @@
             }
         },
         {
-            "+@gid": "816745263",
+            "+@gid": "1154319912",
             "+@lang": "JA",
-            "role": "Arai Daichi",
+            "role": "Daichi Arai",
             "person": {
                 "+content": "Shōya Ishige",
                 "+@id": "151974"
@@ -132,5 +159,6 @@
         }
     ],
     "+@date-added": "2025-07-04T03:54:05Z",
-    "+@date-last-updated-at": "2025-08-04T02:43:29Z"
+    "+@date-last-modified-at": "2025-09-03T04:34:47Z",
+    "+@date-last-updated-at": "2025-09-03T04:34:47Z"
 }
