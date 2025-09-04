@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "31st Consort",
     "+@precision": "manga",
-    "+@generated-on": "2025-08-05T13:08:48Z",
+    "+@generated-on": "2025-09-04T20:31:32Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "22381"
@@ -68,11 +68,18 @@
             "+@type": "Vintage"
         }
     ],
-    "release": {
-        "+content": "The 31st Consort (GN 1)",
-        "+@date": "2025-04-22",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52855"
-    },
+    "release": [
+        {
+            "+content": "The 31st Consort (GN 1)",
+            "+@date": "2025-04-22",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52855"
+        },
+        {
+            "+content": "The 31st Consort (GN 2)",
+            "+@date": "2025-08-26",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=54581"
+        }
+    ],
     "news": [
         {
             "+content": "Kadokawa Announces Simulpub Program Starting with 7 Manga, Licenses 3 Light Novel Series",
@@ -88,6 +95,11 @@
             "+content": "North American Anime, Manga Releases, April 20-26",
             "+@datetime": "2025-04-25T21:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-04-25/north-american-anime-manga-releases-april-20-26/.223805"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, August 24-30",
+            "+@datetime": "2025-08-29T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-29/north-american-anime-manga-releases-august-24-30/.228082"
         }
     ],
     "staff": [
@@ -117,5 +129,6 @@
         }
     ],
     "+@date-added": "2024-01-07T16:39:04Z",
-    "+@date-last-updated-at": "2025-08-05T13:08:50Z"
+    "+@date-last-modified-at": "2025-09-04T20:31:35Z",
+    "+@date-last-updated-at": "2025-09-04T20:31:35Z"
 }
