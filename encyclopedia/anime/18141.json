@@ -4,15 +4,21 @@
     "+@type": "movie",
     "+@name": "Sword Art Online the Movie: Ordinal Scale",
     "+@precision": "movie",
-    "+@generated-on": "2025-08-06T16:46:26Z",
+    "+@generated-on": "2025-09-05T20:32:21Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "15804"
     },
-    "related-next": {
-        "+@id": "20665",
-        "+@rel": "sequel"
-    },
+    "related-next": [
+        {
+            "+@id": "20665",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "37464",
+            "+@rel": "adaptation"
+        }
+    ],
     "info": [
         {
             "+@gid": "2867428522",
@@ -263,9 +269,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "335",
-        "+@weighted_score": "7.7552",
-        "+@bayesian_score": "7.74471"
+        "+@nb_votes": "336",
+        "+@weighted_score": "7.7462",
+        "+@bayesian_score": "7.73605"
     },
     "review": [
         {
@@ -1745,6 +1751,6 @@
         }
     ],
     "+@date-added": "2016-03-13T03:28:03Z",
-    "+@date-last-modified-at": "2025-08-06T16:46:28Z",
-    "+@date-last-updated-at": "2025-08-06T16:46:28Z"
+    "+@date-last-modified-at": "2025-09-05T20:32:24Z",
+    "+@date-last-updated-at": "2025-09-05T20:32:24Z"
 }
