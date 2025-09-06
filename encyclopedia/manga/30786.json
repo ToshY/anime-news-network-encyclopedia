@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Maō no Musume, Sugoku Choroi",
     "+@precision": "manga",
-    "+@generated-on": "2025-08-07T02:34:52Z",
+    "+@generated-on": "2025-09-06T12:50:32Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "27577"
@@ -47,7 +47,17 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2020-06-15 (serialized on Manga Cross)",
+            "+content": "comedy",
+            "+@gid": "3546034773",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "2226468522",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "2020-06-15 to 2025-09-03 (serialized on Manga Cross)",
             "+@gid": "2204785960",
             "+@type": "Vintage"
         },
@@ -59,11 +69,18 @@
             "+@href": "https://mangacross.jp/comics/maounomusume"
         }
     ],
-    "news": {
-        "+content": "<cite>Puri Puri's</cite> Taro Chiaki Launches New Manga",
-        "+@datetime": "2020-06-24T19:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2020-06-24/puri-puri-taro-chiaki-launches-new-manga/.160938"
-    },
+    "news": [
+        {
+            "+content": "<cite>Puri Puri's</cite> Taro Chiaki Launches New Manga",
+            "+@datetime": "2020-06-24T19:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2020-06-24/puri-puri-taro-chiaki-launches-new-manga/.160938"
+        },
+        {
+            "+content": "Taro Chiaki's <cite>'Maō no Musume, Sugoku Choroi'</cite> Manga Ends",
+            "+@datetime": "2025-09-03T19:50:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-03/taro-chiaki-mao-no-musume-sugoku-choroi-manga-ends/.228389"
+        }
+    ],
     "staff": {
         "+@gid": "744024671",
         "task": "Story & Art",
@@ -73,5 +90,6 @@
         }
     },
     "+@date-added": "2023-11-21T01:21:23Z",
-    "+@date-last-updated-at": "2025-08-07T02:34:53Z"
+    "+@date-last-modified-at": "2025-09-06T12:50:33Z",
+    "+@date-last-updated-at": "2025-09-06T12:50:33Z"
 }
