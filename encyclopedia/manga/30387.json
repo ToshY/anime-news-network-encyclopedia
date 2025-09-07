@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Chigau Miyahara Omae Janai!",
     "+@precision": "manga",
-    "+@generated-on": "2025-08-08T04:57:51Z",
+    "+@generated-on": "2025-09-07T16:33:23Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "20254"
@@ -47,12 +47,27 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "1740321891",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "2414378703",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "5",
+            "+@gid": "1195921579",
+            "+@type": "Number of tankoubon"
+        },
+        {
             "+content": "2022-11-11 to 2023-01-13 (limited run on Tonari no Young Jump)",
             "+@gid": "2077361705",
             "+@type": "Vintage"
         },
         {
-            "+content": "2023-04-07 (full serialization on Tonari no Young Jump)",
+            "+content": "2023-04-07 to 2025-08-08 (full serialization on Tonari no Young Jump)",
             "+@gid": "1811217636",
             "+@type": "Vintage"
         },
@@ -64,11 +79,18 @@
             "+@href": "https://tonarinoyj.jp/episode/316190246935308625"
         }
     ],
-    "news": {
-        "+content": "Midori Obiya Launches New Manga Mini-Series",
-        "+@datetime": "2022-11-11T14:05:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2022-11-11/midori-obiya-launches-new-manga-mini-series/.191780"
-    },
+    "news": [
+        {
+            "+content": "Midori Obiya Launches New Manga Mini-Series",
+            "+@datetime": "2022-11-11T14:05:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2022-11-11/midori-obiya-launches-new-manga-mini-series/.191780"
+        },
+        {
+            "+content": "Midori Obiya's <cite>Chigau Miyahara Omae Janai!</cite> Manga Ends",
+            "+@datetime": "2025-08-11T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-11/midori-obiya-chigau-miyahara-omae-janai-manga-ends/.227526"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2369579177",
@@ -88,5 +110,6 @@
         }
     ],
     "+@date-added": "2023-10-18T22:24:58Z",
-    "+@date-last-updated-at": "2025-08-08T04:57:53Z"
+    "+@date-last-modified-at": "2025-09-07T16:33:24Z",
+    "+@date-last-updated-at": "2025-09-07T16:33:24Z"
 }
