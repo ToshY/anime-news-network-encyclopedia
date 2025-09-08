@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Paris ni Saku Étoile",
     "+@precision": "movie",
-    "+@generated-on": "2025-08-09T02:21:55Z",
+    "+@generated-on": "2025-09-08T04:36:45Z",
     "info": [
         {
             "+@gid": "1806703546",
@@ -49,6 +49,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Two Japanese girls never give up in reaching for étoile (stars) during the difficult times at the start of the 20th century. Fujiko, who aspires to become a painter, and Chizuru, who is drawn to the world of ballet, meet by chance in Yokohama. Then, as if guided by fate, they meet again in Paris and work hard to follow their dreams together.",
+            "+@gid": "2498811610",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "2026-03-13",
             "+@type": "Vintage"
         },
@@ -65,11 +70,18 @@
             "+@href": "https://sh-anime.shochiku.co.jp/parieto-movie/"
         }
     ],
-    "news": {
-        "+content": "<i>Code Geass'</i> Goro Taniguchi Helms <i>Paris ni Saku Étoile</i> Film",
-        "+@datetime": "2025-08-07T23:25:47Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-08-07/code-geass-goro-taniguchi-helms-paris-ni-saku-etoile-film/.227457"
-    },
+    "news": [
+        {
+            "+content": "<i>Code Geass'</i> Goro Taniguchi Helms <i>Paris ni Saku Étoile</i> Film",
+            "+@datetime": "2025-08-07T23:25:47Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-07/code-geass-goro-taniguchi-helms-paris-ni-saku-etoile-film/.227457"
+        },
+        {
+            "+content": "<i>L'étoile de Paris en fleur</i> Film's Teaser Reveals 2 More Cast Members",
+            "+@datetime": "2025-08-26T02:35:07Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-25/letoile-de-paris-en-fleur-film-teaser-reveals-2-more-cast-members/.228087"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1586793113",
@@ -160,15 +172,35 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "2149124408",
-        "+@lang": "JA",
-        "role": "Fujiko Tsuguta",
-        "person": {
-            "+content": "Ami Tōma",
-            "+@id": "226438"
+    "cast": [
+        {
+            "+@gid": "2721920982",
+            "+@lang": "JA",
+            "role": "Ruslan",
+            "person": {
+                "+content": "Taichi Saotome",
+                "+@id": "105716"
+            }
+        },
+        {
+            "+@gid": "2149124408",
+            "+@lang": "JA",
+            "role": "Fujiko Tsuguta",
+            "person": {
+                "+content": "Ami Tōma",
+                "+@id": "226438"
+            }
+        },
+        {
+            "+@gid": "1309749469",
+            "+@lang": "JA",
+            "role": "Chizuru",
+            "person": {
+                "+content": "Lina Arashi",
+                "+@id": "287248"
+            }
         }
-    },
+    ],
     "credit": {
         "+@gid": "1062138323",
         "task": "Animation Production",
@@ -178,5 +210,6 @@
         }
     },
     "+@date-added": "2025-08-07T21:56:21Z",
-    "+@date-last-updated-at": "2025-08-09T02:21:55Z"
+    "+@date-last-modified-at": "2025-09-08T04:36:50Z",
+    "+@date-last-updated-at": "2025-09-08T04:36:50Z"
 }
