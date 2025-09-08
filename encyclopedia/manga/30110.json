@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Rugby Rumble",
     "+@precision": "manga",
-    "+@generated-on": "2025-08-08T20:36:33Z",
+    "+@generated-on": "2025-09-08T12:59:51Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "20219"
@@ -53,7 +53,12 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2023-09-29 (serialized on Shonen Jump+)",
+            "+content": "7",
+            "+@gid": "2807242395",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2023-09-29 to 2025-08-29 (serialized on Shonen Jump+)",
             "+@gid": "2725418881",
             "+@type": "Vintage"
         },
@@ -65,11 +70,18 @@
             "+@href": "https://shonenjumpplus.com/episode/14079602755253725803"
         }
     ],
-    "news": {
-        "+content": "Manga Plus Service Publishes Daisuke Miyata's <cite>Rugby Rumble</cite> Manga Using AI Company as Letterer",
-        "+@datetime": "2023-10-01T13:15:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2023-10-01/manga-plus-service-publishes-daisuke-miyata-rugby-rumble-manga-using-ai-company-as-letterer/.203007"
-    },
+    "news": [
+        {
+            "+content": "Manga Plus Service Publishes Daisuke Miyata's <cite>Rugby Rumble</cite> Manga Using AI Company as Letterer",
+            "+@datetime": "2023-10-01T13:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2023-10-01/manga-plus-service-publishes-daisuke-miyata-rugby-rumble-manga-using-ai-company-as-letterer/.203007"
+        },
+        {
+            "+content": "Daisuke Miyata's <cite>Rugby Rumble</cite> Manga Ends in 3 Chapters",
+            "+@datetime": "2025-08-20T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-20/daisuke-miyata-rugby-rumble-manga-ends-in-3-chapters/.227791"
+        }
+    ],
     "staff": {
         "+@gid": "1853194100",
         "task": "Story & Art",
@@ -79,5 +91,6 @@
         }
     },
     "+@date-added": "2023-09-28T12:49:30Z",
-    "+@date-last-updated-at": "2025-08-08T20:36:36Z"
+    "+@date-last-modified-at": "2025-09-08T12:59:53Z",
+    "+@date-last-updated-at": "2025-09-08T12:59:53Z"
 }
