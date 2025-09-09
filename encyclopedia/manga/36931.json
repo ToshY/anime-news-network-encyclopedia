@@ -2,13 +2,19 @@
     "+@id": "36931",
     "+@gid": "451047631",
     "+@type": "manga",
-    "+@name": "Tōmeina Yoru ni Kakeru Kimi to, Menimienai Koi o Shita",
+    "+@name": "Tōmei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita",
     "+@precision": "manga",
-    "+@generated-on": "2025-08-10T02:38:39Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "20744"
-    },
+    "+@generated-on": "2025-09-09T04:35:15Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "20744"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "37427"
+        }
+    ],
     "info": [
         {
             "+@gid": "3157927125",
@@ -35,7 +41,7 @@
             ]
         },
         {
-            "+content": "Tōmeina Yoru ni Kakeru Kimi to, Menimienai Koi o Shita",
+            "+content": "Tōmei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita",
             "+@gid": "2008294223",
             "+@type": "Main title",
             "+@lang": "JA"
@@ -96,5 +102,6 @@
         }
     ],
     "+@date-added": "2025-07-09T11:03:40Z",
-    "+@date-last-updated-at": "2025-08-10T02:38:41Z"
+    "+@date-last-modified-at": "2025-09-09T04:35:17Z",
+    "+@date-last-updated-at": "2025-09-09T04:35:17Z"
 }
