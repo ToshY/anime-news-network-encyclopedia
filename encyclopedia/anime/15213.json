@@ -4,31 +4,15 @@
     "+@type": "movie",
     "+@name": "Pica-don",
     "+@precision": "movie",
-    "+@generated-on": "2025-08-10T16:41:31Z",
+    "+@generated-on": "2025-09-09T20:32:03Z",
     "info": [
         {
             "+@gid": "2365038680",
             "+@type": "Picture",
             "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A15213-2365038680.1527543263.jpg",
-            "+@width": "200",
-            "+@height": "135",
-            "img": [
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A15213-2365038680.1527543263.jpg",
-                    "+@width": "200",
-                    "+@height": "135"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A15213-2365038680.1527543263.jpg",
-                    "+@width": "500",
-                    "+@height": "337"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A15213-2365038680.1527543263.jpg",
-                    "+@width": "593",
-                    "+@height": "400"
-                }
-            ]
+            "img": {
+                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A15213-2365038680.1527543263.jpg"
+            }
         },
         {
             "+content": "Pica-don",
@@ -106,7 +90,7 @@
             "+@gid": "3058283406",
             "task": "Producer",
             "person": {
-                "+content": "Daisaburou Hayashi",
+                "+content": "Daisaburō Hayashi",
                 "+@id": "94567"
             }
         },
@@ -128,5 +112,6 @@
         }
     },
     "+@date-added": "2013-03-26T12:46:55Z",
-    "+@date-last-updated-at": "2025-08-10T16:41:33Z"
+    "+@date-last-modified-at": "2025-09-09T20:32:05Z",
+    "+@date-last-updated-at": "2025-09-09T20:32:05Z"
 }
