@@ -4,15 +4,21 @@
     "+@type": "movie",
     "+@name": "Puella Magi Madoka Magica the Movie Part 1: Beginnings",
     "+@precision": "movie",
-    "+@generated-on": "2025-08-11T16:45:14Z",
+    "+@generated-on": "2025-09-10T20:31:58Z",
     "related-prev": {
         "+@rel": "compilation of",
         "+@id": "12120"
     },
-    "related-next": {
-        "+@id": "14364",
-        "+@rel": "sequel"
-    },
+    "related-next": [
+        {
+            "+@id": "14364",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "37551",
+            "+@rel": "compilation"
+        }
+    ],
     "info": [
         {
             "+@gid": "1423039387",
@@ -207,9 +213,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "452",
-        "+@weighted_score": "8.1353",
-        "+@bayesian_score": "8.11682"
+        "+@nb_votes": "454",
+        "+@weighted_score": "8.1428",
+        "+@bayesian_score": "8.12417"
     },
     "review": [
         {
@@ -473,6 +479,11 @@
             "+content": "North American Anime, Manga Releases, July 17-23",
             "+@datetime": "2016-07-19T20:20:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2016-07-19/north-american-anime-manga-releases-july-17-23/.104480"
+        },
+        {
+            "+content": "1st 2 <cite>Madoka Magica</cite> Compilation Films' TV Edition Begins on October 12",
+            "+@datetime": "2025-08-20T14:50:10Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-20/1st-2-madoka-magica-compilation-films-tv-edition-begins-on-october-12/.227863"
         }
     ],
     "staff": [
@@ -1034,6 +1045,6 @@
         }
     ],
     "+@date-added": "2012-06-08T00:41:29Z",
-    "+@date-last-modified-at": "2025-08-11T16:45:17Z",
-    "+@date-last-updated-at": "2025-08-11T16:45:17Z"
+    "+@date-last-modified-at": "2025-09-10T20:32:00Z",
+    "+@date-last-updated-at": "2025-09-10T20:32:00Z"
 }
