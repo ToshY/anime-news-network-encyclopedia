@@ -4,10 +4,14 @@
     "+@type": "manga",
     "+@name": "Calorie no Tsuyagoto",
     "+@precision": "manga",
-    "+@generated-on": "2025-08-11T16:45:13Z",
+    "+@generated-on": "2025-09-11T12:56:04Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "29174"
+    },
+    "related-next": {
+        "+@id": "37630",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -64,7 +68,12 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2019-06-22 (serialized in office YOU, Aug 2019)",
+            "+content": "14",
+            "+@gid": "3232908694",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2019-06-22 to 2025-01-23 (serialized in office YOU, Aug 2019-Mar 2025)",
             "+@gid": "2626017795",
             "+@type": "Vintage"
         }
@@ -83,5 +92,6 @@
         }
     },
     "+@date-added": "2023-07-25T09:40:02Z",
-    "+@date-last-updated-at": "2025-08-11T16:45:14Z"
+    "+@date-last-modified-at": "2025-09-11T12:56:05Z",
+    "+@date-last-updated-at": "2025-09-11T12:56:05Z"
 }
