@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "It’s All Your Fault",
     "+@precision": "manga",
-    "+@generated-on": "2025-08-12T02:20:53Z",
+    "+@generated-on": "2025-09-11T20:29:28Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "4040"
@@ -63,11 +63,18 @@
             "+@type": "Vintage"
         }
     ],
-    "release": {
-        "+content": "It's All Your Fault (GN 1)",
-        "+@date": "2025-03-25",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52588"
-    },
+    "release": [
+        {
+            "+content": "It's All Your Fault (GN 1)",
+            "+@date": "2025-03-25",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52588"
+        },
+        {
+            "+content": "It's All Your Fault (GN 2)",
+            "+@date": "2025-09-09",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=54826"
+        }
+    ],
     "news": [
         {
             "+content": "<cite>Love to Lie Angle's</cite> merryhachi Launches <cite>Zenbu Kimi no Sei da</cite> Manga on June 17",
@@ -88,6 +95,11 @@
             "+content": "North American Anime, Manga Releases, March 23-29",
             "+@datetime": "2025-03-28T21:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-28/north-american-anime-manga-releases-march-23-29/.222870"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, September 7-13",
+            "+@datetime": "2025-09-10T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-10/north-american-anime-manga-releases-september-7-13/.228570"
         }
     ],
     "staff": {
@@ -99,5 +111,6 @@
         }
     },
     "+@date-added": "2023-07-20T01:12:27Z",
-    "+@date-last-updated-at": "2025-08-12T02:20:55Z"
+    "+@date-last-modified-at": "2025-09-11T20:29:29Z",
+    "+@date-last-updated-at": "2025-09-11T20:29:29Z"
 }
