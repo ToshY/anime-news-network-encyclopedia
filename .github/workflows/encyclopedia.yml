@@ -24,7 +24,7 @@ jobs:
           ref: ${{ github.head_ref }}
 
       - name: Setup YQ
-        uses: mikefarah/yq@v4.44.5
+        uses: mikefarah/yq@v4.47.2
 
       - name: Setup JQ
         uses: supplypike/setup-bin@v5
