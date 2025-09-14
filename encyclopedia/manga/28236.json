@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "My New Boss Is Goofy",
     "+@precision": "manga",
-    "+@generated-on": "2025-08-14T04:44:57Z",
+    "+@generated-on": "2025-09-14T02:12:08Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "27577"
@@ -71,11 +71,18 @@
         "+@nb_votes": "1",
         "+@weighted_score": "3"
     },
-    "release": {
-        "+content": "My New Boss is Goofy (GN 1)",
-        "+@date": "2025-04-29",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52997"
-    },
+    "release": [
+        {
+            "+content": "My New Boss is Goofy (GN 1)",
+            "+@date": "2025-04-29",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52997"
+        },
+        {
+            "+content": "My New Boss is Goofy (GN 2)",
+            "+@date": "2025-08-19",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=54528"
+        }
+    ],
     "news": [
         {
             "+content": "<cite>Kono Manga ga Sugoi!</cite> Editors Unveil 2020 Rankings",
@@ -91,6 +98,11 @@
             "+content": "North American Anime, Manga Releases, April 27-May 3",
             "+@datetime": "2025-05-01T21:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-05-01/north-american-anime-manga-releases-april-27-may-3/.224015"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, August 17-23",
+            "+@datetime": "2025-08-21T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-21/north-american-anime-manga-releases-august-17-23/.227781"
         }
     ],
     "staff": {
@@ -102,5 +114,6 @@
         }
     },
     "+@date-added": "2023-05-16T21:26:04Z",
-    "+@date-last-updated-at": "2025-08-14T04:44:58Z"
+    "+@date-last-modified-at": "2025-09-14T02:12:12Z",
+    "+@date-last-updated-at": "2025-09-14T02:12:12Z"
 }
