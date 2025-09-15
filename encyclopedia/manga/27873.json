@@ -4,31 +4,15 @@
     "+@type": "manga",
     "+@name": "My Future Starts Today ~Miku & Kyoko~",
     "+@precision": "manga",
-    "+@generated-on": "2025-08-15T04:45:04Z",
+    "+@generated-on": "2025-09-15T04:35:47Z",
     "info": [
         {
             "+@gid": "1780738577",
             "+@type": "Picture",
             "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A27873-1780738577.1681163917.jpg",
-            "+@width": "136",
-            "+@height": "200",
-            "img": [
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A27873-1780738577.1681163917.jpg",
-                    "+@width": "136",
-                    "+@height": "200"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A27873-1780738577.1681163917.jpg",
-                    "+@width": "409",
-                    "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A27873-1780738577.1681163917.jpg",
-                    "+@width": "1080",
-                    "+@height": "1583"
-                }
-            ]
+            "img": {
+                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A27873-1780738577.1681163917.jpg"
+            }
         },
         {
             "+content": "My Future Starts Today ~Miku & Kyoko~",
@@ -53,6 +37,16 @@
             "+@gid": "863585849",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "807449618",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "yuri",
+            "+@gid": "2841879387",
+            "+@type": "Themes"
         },
         {
             "+content": "4",
@@ -98,5 +92,6 @@
         }
     },
     "+@date-added": "2023-04-10T17:34:58Z",
-    "+@date-last-updated-at": "2025-08-15T04:45:05Z"
+    "+@date-last-modified-at": "2025-09-15T04:35:49Z",
+    "+@date-last-updated-at": "2025-09-15T04:35:49Z"
 }
