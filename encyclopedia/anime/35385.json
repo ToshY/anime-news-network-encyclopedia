@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Anyway, I'm Falling in Love with You",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-08-19T16:41:34Z",
+    "+@generated-on": "2025-09-18T20:32:40Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32268"
@@ -53,7 +53,7 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026",
+            "+content": "2026-01",
             "+@gid": "1457424212",
             "+@type": "Vintage"
         },
@@ -65,11 +65,18 @@
             "+@href": "https://koishima-pr.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>'Anyway, I'm Falling in Love with You'</cite> 2nd Season Anime Debuts in 2026",
-        "+@datetime": "2025-08-06T09:47:24Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-08-06/anyway-im-falling-in-love-with-you-2nd-season-anime-debuts-in-2026/.227412"
-    },
+    "news": [
+        {
+            "+content": "<cite>'Anyway, I'm Falling in Love with You'</cite> 2nd Season Anime Debuts in 2026",
+            "+@datetime": "2025-08-06T09:47:24Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-06/anyway-im-falling-in-love-with-you-2nd-season-anime-debuts-in-2026/.227412"
+        },
+        {
+            "+content": "<cite>'Anyway, I'm Falling in Love with You'</cite> 2nd Season Anime Reveals January 2026 Debut, More Cast in Teaser Video",
+            "+@datetime": "2025-09-18T09:24:04Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-18/anyway-im-falling-in-love-with-you-2nd-season-anime-reveals-january-2026-debut-more-cast-in-teaser-/.228941"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3067165267",
@@ -77,6 +84,14 @@
             "person": {
                 "+content": "Junichi Yamamoto",
                 "+@id": "156249"
+            }
+        },
+        {
+            "+@gid": "2079609077",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Yū Murai",
+                "+@id": "241223"
             }
         },
         {
@@ -90,12 +105,48 @@
     ],
     "cast": [
         {
+            "+@gid": "3113546225",
+            "+@lang": "JA",
+            "role": "Manami Shiraishi",
+            "person": {
+                "+content": "Kaori Nazuka",
+                "+@id": "439"
+            }
+        },
+        {
+            "+@gid": "2336655147",
+            "+@lang": "JA",
+            "role": "Ryōsuke Saitō",
+            "person": {
+                "+content": "Yūto Uemura",
+                "+@id": "91688"
+            }
+        },
+        {
             "+@gid": "3429659297",
             "+@lang": "JA",
             "role": "Airu Izumi",
             "person": {
                 "+content": "Shōya Chiba",
                 "+@id": "97379"
+            }
+        },
+        {
+            "+@gid": "2666402596",
+            "+@lang": "JA",
+            "role": "Chika Kurashiki",
+            "person": {
+                "+content": "Azusa Tadokoro",
+                "+@id": "112367"
+            }
+        },
+        {
+            "+@gid": "2806879600",
+            "+@lang": "JA",
+            "role": "Tōgo Hoshikawa",
+            "person": {
+                "+content": "Yūichirō Umehara",
+                "+@id": "127402"
             }
         },
         {
@@ -117,6 +168,15 @@
             }
         },
         {
+            "+@gid": "1327924042",
+            "+@lang": "JA",
+            "role": "Kuroda",
+            "person": {
+                "+content": "Mayuko Kazama",
+                "+@id": "195565"
+            }
+        },
+        {
             "+@gid": "2462976354",
             "+@lang": "JA",
             "role": "Mizuho Nishino",
@@ -135,7 +195,15 @@
             }
         }
     ],
+    "credit": {
+        "+@gid": "381621652",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Typhoon Graphics",
+            "+@id": "13498"
+        }
+    },
     "+@date-added": "2025-03-27T20:19:20Z",
-    "+@date-last-modified-at": "2025-08-19T16:41:37Z",
-    "+@date-last-updated-at": "2025-08-19T16:41:37Z"
+    "+@date-last-modified-at": "2025-09-18T20:32:42Z",
+    "+@date-last-updated-at": "2025-09-18T20:32:42Z"
 }

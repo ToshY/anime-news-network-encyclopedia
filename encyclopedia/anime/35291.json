@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Sakamoto Days",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-08-19T16:41:34Z",
+    "+@generated-on": "2025-09-18T20:32:41Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32767"
@@ -125,8 +125,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "7.9477"
+        "+@nb_votes": "18",
+        "+@weighted_score": "7.6913",
+        "+@bayesian_score": "7.60005"
     },
     "episode": [
         {
@@ -176,6 +177,46 @@
                 "+@gid": "1052089764",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "18",
+            "title": {
+                "+content": "Kanaguri",
+                "+@gid": "2327433591",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "19",
+            "title": {
+                "+content": "Exam, Stage Three",
+                "+@gid": "1800430330",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "20",
+            "title": {
+                "+content": "Mutual Fans",
+                "+@gid": "3139911246",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "21",
+            "title": {
+                "+content": "Hard Mode",
+                "+@gid": "2835168091",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "22",
+            "title": {
+                "+content": "Each One's Mission",
+                "+@gid": "1315030965",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -193,6 +234,11 @@
             "+content": "<cite>Sakamoto Days</cite> Anime's 2nd Part New Trailer Reveals Additional Cast, Ending Song",
             "+@datetime": "2025-06-15T06:35:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-06-15/sakamoto-days-anime-2nd-part-new-trailer-reveals-additional-cast-ending-song/.225597"
+        },
+        {
+            "+content": "<cite>Sakamoto Days</cite> Anime's English Trailer Previews JCC Exams Arc",
+            "+@datetime": "2025-08-22T00:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-21/sakamoto-days-anime-english-trailer-previews-jcc-exams-arc/.227920"
         }
     ],
     "staff": [
@@ -213,6 +259,38 @@
             }
         },
         {
+            "+@gid": "1308012525",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kōichi Ōhata",
+                "+@id": "135"
+            }
+        },
+        {
+            "+@gid": "1836279793",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Akira Nishimori",
+                "+@id": "4459"
+            }
+        },
+        {
+            "+@gid": "3473418250",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yukio Nishimoto",
+                "+@id": "10709"
+            }
+        },
+        {
+            "+@gid": "333285470",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hirohide Shikishima",
+                "+@id": "11721"
+            }
+        },
+        {
             "+@gid": "1658597554",
             "task": "Storyboard",
             "person": {
@@ -221,11 +299,123 @@
             }
         },
         {
+            "+@gid": "828026710",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Naotaka Hayashi",
+                "+@id": "31714"
+            }
+        },
+        {
+            "+@gid": "2230731159",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tetsuo Hirakawa",
+                "+@id": "37977"
+            }
+        },
+        {
+            "+@gid": "3220453044",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Masaki Watanabe",
+                "+@id": "43175"
+            }
+        },
+        {
+            "+@gid": "3782969762",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yoshihide Ibata",
+                "+@id": "81163"
+            }
+        },
+        {
+            "+@gid": "1885922581",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kōki Onoue",
+                "+@id": "145318"
+            }
+        },
+        {
+            "+@gid": "2185399223",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tomoko Hiramuki",
+                "+@id": "32691"
+            }
+        },
+        {
+            "+@gid": "2923483662",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Masaki Watanabe",
+                "+@id": "43175"
+            }
+        },
+        {
+            "+@gid": "3650364937",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Daisuke Nakajima",
+                "+@id": "45026"
+            }
+        },
+        {
+            "+@gid": "2283360497",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yoshihiro Nishio",
+                "+@id": "49913"
+            }
+        },
+        {
+            "+@gid": "556916461",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yoshihide Ibata",
+                "+@id": "81163"
+            }
+        },
+        {
+            "+@gid": "2027247187",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takatoshi Suzuki",
+                "+@id": "85981"
+            }
+        },
+        {
+            "+@gid": "1544304165",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yūki Taki",
+                "+@id": "162684"
+            }
+        },
+        {
+            "+@gid": "2155283211",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shūji Miyahara",
+                "+@id": "170259"
+            }
+        },
+        {
             "+@gid": "3049045771",
             "task": "Unit Director",
             "person": {
                 "+content": "Tetsuro Araki",
                 "+@id": "21259"
+            }
+        },
+        {
+            "+@gid": "735247134",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Ai Yoshimura",
+                "+@id": "79372"
             }
         },
         {
@@ -258,6 +448,62 @@
             "person": {
                 "+content": "Yukiko Maruyama",
                 "+@id": "11859"
+            }
+        },
+        {
+            "+@gid": "1670063272",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yukiko Ban",
+                "+@id": "3911"
+            }
+        },
+        {
+            "+@gid": "1893532657",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yuko Iwaoka",
+                "+@id": "3912"
+            }
+        },
+        {
+            "+@gid": "563027042",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yoshinori Deno",
+                "+@id": "50681"
+            }
+        },
+        {
+            "+@gid": "2644294985",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Masaki Hinata",
+                "+@id": "51363"
+            }
+        },
+        {
+            "+@gid": "1246029301",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Miyako Kamiya",
+                "+@id": "120904"
+            }
+        },
+        {
+            "+@gid": "1270223112",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Masaru Shindō",
+                "+@id": "175967"
+            }
+        },
+        {
+            "+@gid": "2830155965",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hirohide Shikishima",
+                "+@id": "11721"
             }
         },
         {
@@ -339,6 +585,15 @@
             "person": {
                 "+content": "Erik Scott Kimerer",
                 "+@id": "126707"
+            }
+        },
+        {
+            "+@gid": "1015546660",
+            "+@lang": "EN",
+            "role": "Joichiro Kaji",
+            "person": {
+                "+content": "Daman Mills",
+                "+@id": "134672"
             }
         },
         {
@@ -429,6 +684,15 @@
             "person": {
                 "+content": "Rosalie Chiang",
                 "+@id": "237516"
+            }
+        },
+        {
+            "+@gid": "2509231889",
+            "+@lang": "EN",
+            "role": "Shinaya",
+            "person": {
+                "+content": "Jonathon Ha",
+                "+@id": "265391"
             }
         },
         {
@@ -855,6 +1119,6 @@
         }
     },
     "+@date-added": "2025-03-22T20:15:47Z",
-    "+@date-last-modified-at": "2025-08-19T16:41:37Z",
-    "+@date-last-updated-at": "2025-08-19T16:41:37Z"
+    "+@date-last-modified-at": "2025-09-18T20:32:42Z",
+    "+@date-last-updated-at": "2025-09-18T20:32:42Z"
 }
