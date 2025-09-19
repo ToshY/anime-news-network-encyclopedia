@@ -2,9 +2,13 @@
     "+@id": "36672",
     "+@gid": "1473066695",
     "+@type": "manga",
-    "+@name": "Kimi ni Sasageru Otokomae",
+    "+@name": "I Offer My Manliness To You",
     "+@precision": "manga",
-    "+@generated-on": "2025-08-20T04:38:12Z",
+    "+@generated-on": "2025-09-19T08:38:02Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "37598"
+    },
     "info": [
         {
             "+@gid": "3613388419",
@@ -31,9 +35,15 @@
             ]
         },
         {
+            "+content": "I Offer My Manliness To You",
+            "+@gid": "2336975217",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Kimi ni Sasageru Otokomae",
             "+@gid": "1180602869",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -64,6 +74,11 @@
             "+@type": "Vintage"
         }
     ],
+    "news": {
+        "+content": "Mangamo Licenses <cite>My Gyaru Wife's Secrets</cite>, <cite>12cm Promise with a Cool Girl</cite>, <cite>Damedol and the Only Fan in the World</cite>, 2 More Manga",
+        "+@datetime": "2025-08-22T18:13:23Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-08-22/mangamo-licenses-my-gyaru-wife-secrets-12cm-promise-with-a-cool-girl-damedol-and-the-only-fan-in-/.227958"
+    },
     "staff": {
         "+@gid": "2027688928",
         "task": "Story & Art",
@@ -73,5 +88,6 @@
         }
     },
     "+@date-added": "2025-06-20T07:51:00Z",
-    "+@date-last-updated-at": "2025-08-20T04:38:13Z"
+    "+@date-last-modified-at": "2025-09-19T08:38:03Z",
+    "+@date-last-updated-at": "2025-09-19T08:38:03Z"
 }
