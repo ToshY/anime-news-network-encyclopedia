@@ -2,9 +2,9 @@
     "+@id": "34843",
     "+@gid": "3081807062",
     "+@type": "TV",
-    "+@name": "Hikuidori Ushūboro Tobigumi",
+    "+@name": "Oedo Fire Slayer -The Legend of Phoenix-",
     "+@precision": "TV",
-    "+@generated-on": "2025-08-20T08:40:49Z",
+    "+@generated-on": "2025-09-19T16:37:00Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "34841"
@@ -13,27 +13,27 @@
         {
             "+@gid": "2246241925",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34843-2246241925.1740627429.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34843-2246241925.1755724487.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34843-2246241925.1740627429.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34843-2246241925.1755724487.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34843-2246241925.1740627429.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34843-2246241925.1755724487.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
             ]
         },
         {
-            "+content": "Hikuidori Ushūboro Tobigumi",
-            "+@gid": "590460684",
+            "+content": "Oedo Fire Slayer -The Legend of Phoenix-",
+            "+@gid": "442319760",
             "+@type": "Main title",
-            "+@lang": "JA"
+            "+@lang": "EN"
         },
         {
             "+content": "Hikuidori",
@@ -42,14 +42,14 @@
             "+@lang": "JA"
         },
         {
-            "+content": "Oedo Fire Slayer",
-            "+@gid": "2957155035",
+            "+content": "Hikuidori Ushūboro Tobigumi",
+            "+@gid": "590460684",
             "+@type": "Alternative title",
-            "+@lang": "EN"
+            "+@lang": "JA"
         },
         {
-            "+content": "Oedo Fire Slayer -The Legend of Phoenix-",
-            "+@gid": "442319760",
+            "+content": "Oedo Fire Slayer",
+            "+@gid": "2957155035",
             "+@type": "Alternative title",
             "+@lang": "EN"
         },
@@ -65,6 +65,10 @@
             "+@type": "Themes"
         },
         {
+            "+content": "In the Edo era, a team of heroes saved countless lives. As a series of mysterious arsons engulf Edo in chaos, the relentless firefighters race to save the city. <em class=de-emphasized>(from manga)</em>",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "2026-01",
             "+@gid": "1754016522",
             "+@type": "Vintage"
@@ -77,11 +81,18 @@
             "+@href": "https://hikuidori-project.com/"
         }
     ],
-    "news": {
-        "+content": "Shōgo Imamura's Historical Firefighter Novels <cite>Hikuidori</cite> Get TV Anime, Manga",
-        "+@datetime": "2025-02-26T10:28:16Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-02-26/shogo-imamura-historical-firefighter-novels-hikuidori-get-tv-anime-manga/.221649"
-    },
+    "news": [
+        {
+            "+content": "Shōgo Imamura's Historical Firefighter Novels <cite>Hikuidori</cite> Get TV Anime, Manga",
+            "+@datetime": "2025-02-26T10:28:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-26/shogo-imamura-historical-firefighter-novels-hikuidori-get-tv-anime-manga/.221649"
+        },
+        {
+            "+content": "<cite>Oedo Fire Slayer-The Legend of Phoenix-</cite> Anime Reveals Main Cast, January 2026 Debut",
+            "+@datetime": "2025-08-20T10:16:35Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-20/oedo-fire-slayer-the-legend-of-phoenix-anime-reveals-main-cast-january-2026-debut/.227856"
+        }
+    ],
     "staff": {
         "+@gid": "915629582",
         "task": "Original creator",
@@ -90,6 +101,53 @@
             "+@id": "258131"
         }
     },
+    "cast": [
+        {
+            "+@gid": "1619345996",
+            "+@lang": "JA",
+            "role": "Kaji Seijuro",
+            "person": {
+                "+content": "Kenshō Ono",
+                "+@id": "33692"
+            }
+        },
+        {
+            "+@gid": "2846265813",
+            "+@lang": "JA",
+            "role": "Torajiro",
+            "person": {
+                "+content": "Subaru Kimura",
+                "+@id": "39856"
+            }
+        },
+        {
+            "+@gid": "4022904589",
+            "+@lang": "JA",
+            "role": "Hikoya",
+            "person": {
+                "+content": "Nobunaga Shimazaki",
+                "+@id": "86706"
+            }
+        },
+        {
+            "+@gid": "1080934584",
+            "+@lang": "JA",
+            "role": "Gengo Matsunaga",
+            "person": {
+                "+content": "Yūichirō Umehara",
+                "+@id": "127402"
+            }
+        },
+        {
+            "+@gid": "1683340426",
+            "+@lang": "JA",
+            "role": "Shinnosuke Torigoe",
+            "person": {
+                "+content": "Shūichirō Umeda",
+                "+@id": "187553"
+            }
+        }
+    ],
     "credit": {
         "+@gid": "2534267159",
         "task": "Animation Production",
@@ -99,5 +157,6 @@
         }
     },
     "+@date-added": "2025-02-26T22:35:26Z",
-    "+@date-last-updated-at": "2025-08-20T08:40:51Z"
+    "+@date-last-modified-at": "2025-09-19T16:37:02Z",
+    "+@date-last-updated-at": "2025-09-19T16:37:02Z"
 }
