@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Ranma ½",
     "+@precision": "TV 2025",
-    "+@generated-on": "2025-08-20T16:39:47Z",
+    "+@generated-on": "2025-09-19T20:31:34Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32929"
@@ -13,24 +13,19 @@
         {
             "+@gid": "1396602147",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34225-1396602147.1734824613.jpg",
-            "+@width": "200",
-            "+@height": "145",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34225-1396602147.1758086161.jpg",
+            "+@width": "141",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34225-1396602147.1734824613.jpg",
-                    "+@width": "200",
-                    "+@height": "145"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34225-1396602147.1758086161.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34225-1396602147.1734824613.jpg",
-                    "+@width": "500",
-                    "+@height": "363"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34225-1396602147.1734824613.jpg",
-                    "+@width": "600",
-                    "+@height": "436"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34225-1396602147.1758086161.jpg",
+                    "+@width": "353",
+                    "+@height": "500"
                 }
             ]
         },
@@ -123,9 +118,19 @@
             "+@type": "Running time"
         },
         {
-            "+content": "2025-10",
+            "+content": "2025-10-04",
             "+@gid": "1575152674",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Wo Aini\" by Wednesday Campanella",
+            "+@gid": "3188278946",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Panda Girl\" by nishina",
+            "+@gid": "2514789847",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "「らんま1/2」公式サイト",
@@ -145,6 +150,16 @@
             "+content": "New <cite>Ranma 1/2</cite> Anime Season 2's 1st Trailer Unveils More Cast, Updated Staff, October Debut",
             "+@datetime": "2025-06-22T12:37:13Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-06-22/new-ranma-1-2-anime-season-2-1st-trailer-unveils-more-cast-updated-staff-october-debut/.225891"
+        },
+        {
+            "+content": "New <cite>Ranma 1/2</cite> 2nd Season Anime Reveals Theme Songs, October 4 Debut",
+            "+@datetime": "2025-08-28T11:31:29Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-28/new-ranma-1-2-2nd-season-anime-reveals-theme-songs-october-4-debut/.228200"
+        },
+        {
+            "+content": "New <cite>Ranma 1/2</cite> Anime's 2nd Season Previews Opening Song in Video",
+            "+@datetime": "2025-09-17T03:16:20Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-16/new-ranma-1-2-anime-2nd-season-previews-opening-song-in-video/.228890"
         }
     ],
     "staff": [
@@ -254,6 +269,24 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "1443764598",
+            "+@lang": "EN",
+            "role": "Ranma Saotome (male)",
+            "person": {
+                "+content": "David Errigo Jr.",
+                "+@id": "148100"
+            }
+        },
+        {
+            "+@gid": "3725708190",
+            "+@lang": "EN",
+            "role": "Ranma Saotome (female)",
+            "person": {
+                "+content": "Suzie Yeung",
+                "+@id": "184793"
+            }
+        },
         {
             "+@gid": "1269233635",
             "+@lang": "JA",
@@ -444,5 +477,6 @@
         }
     },
     "+@date-added": "2024-12-21T18:38:25Z",
-    "+@date-last-updated-at": "2025-08-20T16:39:49Z"
+    "+@date-last-modified-at": "2025-09-19T20:31:35Z",
+    "+@date-last-updated-at": "2025-09-19T20:31:35Z"
 }
