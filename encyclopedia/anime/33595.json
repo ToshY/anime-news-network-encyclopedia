@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "CITY The Animation",
     "+@precision": "TV",
-    "+@generated-on": "2025-08-21T08:41:00Z",
+    "+@generated-on": "2025-09-20T12:53:01Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "19034"
@@ -73,8 +73,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "7",
-        "+@weighted_score": "6.6378"
+        "+@nb_votes": "8",
+        "+@weighted_score": "7.0088"
     },
     "news": [
         {
@@ -207,6 +207,14 @@
             }
         },
         {
+            "+@gid": "1934558010",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kohei Okamura",
+                "+@id": "145823"
+            }
+        },
+        {
             "+@gid": "1807442199",
             "task": "Episode Director",
             "person": {
@@ -252,6 +260,14 @@
             "person": {
                 "+content": "Taichi Ogawa",
                 "+@id": "89081"
+            }
+        },
+        {
+            "+@gid": "2012253749",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kohei Okamura",
+                "+@id": "145823"
             }
         },
         {
@@ -604,6 +620,42 @@
             }
         },
         {
+            "+@gid": "3191748546",
+            "+@lang": "EN",
+            "role": "Hotaka",
+            "person": {
+                "+content": "Brian Hull",
+                "+@id": "285538"
+            }
+        },
+        {
+            "+@gid": "3561578271",
+            "+@lang": "EN",
+            "role": "Mr. Adatara",
+            "person": {
+                "+content": "Brian Hull",
+                "+@id": "285538"
+            }
+        },
+        {
+            "+@gid": "4112160923",
+            "+@lang": "EN",
+            "role": "Ryouta Adatara",
+            "person": {
+                "+content": "Brian Hull",
+                "+@id": "285538"
+            }
+        },
+        {
+            "+@gid": "2612060688",
+            "+@lang": "EN",
+            "role": "Yamato Kurogane",
+            "person": {
+                "+content": "Brian Hull",
+                "+@id": "285538"
+            }
+        },
+        {
             "+@gid": "1637341458",
             "+@lang": "ES",
             "role": "Dr. Adatara",
@@ -781,6 +833,15 @@
             "person": {
                 "+content": "Marie Braam",
                 "+@id": "164178"
+            }
+        },
+        {
+            "+@gid": "3132589308",
+            "+@lang": "FR",
+            "role": "Riko Izumi",
+            "person": {
+                "+content": "Lise Leclercq",
+                "+@id": "166386"
             }
         },
         {
@@ -1216,15 +1277,49 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2207551123",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Kyoto Animation",
-            "+@id": "235"
+    "credit": [
+        {
+            "+@gid": "2207551123",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Kyoto Animation",
+                "+@id": "235"
+            }
+        },
+        {
+            "+@gid": "56794428",
+            "task": "Production",
+            "company": {
+                "+content": "Kodansha",
+                "+@id": "88"
+            }
+        },
+        {
+            "+@gid": "760753219",
+            "task": "Production",
+            "company": {
+                "+content": "Kyoto Animation",
+                "+@id": "235"
+            }
+        },
+        {
+            "+@gid": "1282541387",
+            "task": "Production",
+            "company": {
+                "+content": "Pony Canyon",
+                "+@id": "269"
+            }
+        },
+        {
+            "+@gid": "1765894985",
+            "task": "Production",
+            "company": {
+                "+content": "ABC Animation",
+                "+@id": "14887"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-09-21T18:57:27Z",
-    "+@date-last-modified-at": "2025-08-21T08:41:01Z",
-    "+@date-last-updated-at": "2025-08-21T08:41:01Z"
+    "+@date-last-modified-at": "2025-09-20T12:53:02Z",
+    "+@date-last-updated-at": "2025-09-20T12:53:02Z"
 }

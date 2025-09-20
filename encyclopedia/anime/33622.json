@@ -2,9 +2,9 @@
     "+@id": "33622",
     "+@gid": "552529468",
     "+@type": "movie",
-    "+@name": "Senpai wa Otokonoko: Ame Nochi Hare",
+    "+@name": "Senpai is an Otokonoko: Sunshine After the Rain",
     "+@precision": "movie",
-    "+@generated-on": "2025-08-21T08:40:59Z",
+    "+@generated-on": "2025-09-20T12:53:01Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "27618"
@@ -30,9 +30,15 @@
             ]
         },
         {
+            "+content": "Senpai is an Otokonoko: Sunshine After the Rain",
+            "+@gid": "1351982468",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Senpai wa Otokonoko: Ame Nochi Hare",
             "+@gid": "2993445863",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -64,14 +70,25 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "4.0707"
+        "+@nb_votes": "8",
+        "+@weighted_score": "6.8137"
     },
-    "news": {
-        "+content": "<cite>Senpai is an Otokonoko</cite> Anime Film Unveils New Trailer, Visual, Cast, Theme Song",
-        "+@datetime": "2024-12-06T15:52:17Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-12-06/senpai-is-an-otokonoko-anime-film-unveils-new-trailer-visual-cast-theme-song/.218698"
+    "review": {
+        "+content": "<cite>Senpai is an Otokonoko: Sunshine After the Rain</cite> Anime Film Review",
+        "+@href": "https://www.animenewsnetwork.com/review/senpai-is-an-otokonoko/sunshine-after-the-rain/anime-film/.228432"
     },
+    "news": [
+        {
+            "+content": "<cite>Senpai is an Otokonoko</cite> Anime Film Unveils New Trailer, Visual, Cast, Theme Song",
+            "+@datetime": "2024-12-06T15:52:17Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-06/senpai-is-an-otokonoko-anime-film-unveils-new-trailer-visual-cast-theme-song/.218698"
+        },
+        {
+            "+content": "Crunchyroll Adds <cite>Senpai is an Otokonoko</cite> Anime Film",
+            "+@datetime": "2025-08-28T20:35:29Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-28/crunchyroll-adds-senpai-is-an-otokonoko-anime-film/.228209"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1661461193",
@@ -87,6 +104,78 @@
             "person": {
                 "+content": "Yoriko Tomita",
                 "+@id": "107216"
+            }
+        },
+        {
+            "+@gid": "1112155762",
+            "task": "Script",
+            "person": {
+                "+content": "Seiko Takagi",
+                "+@id": "48286"
+            }
+        },
+        {
+            "+@gid": "2203563678",
+            "task": "Script",
+            "person": {
+                "+content": "Yoriko Tomita",
+                "+@id": "107216"
+            }
+        },
+        {
+            "+@gid": "2582584595",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Keiichi Ishikura",
+                "+@id": "5464"
+            }
+        },
+        {
+            "+@gid": "2231726642",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hideki Futamura",
+                "+@id": "12593"
+            }
+        },
+        {
+            "+@gid": "868544440",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Zi Hao Xuan",
+                "+@id": "211313"
+            }
+        },
+        {
+            "+@gid": "2054471516",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kenta Ōnishi",
+                "+@id": "120903"
+            }
+        },
+        {
+            "+@gid": "2366807724",
+            "task": "Episode Director",
+            "person": {
+                "+content": "In Seob Choi",
+                "+@id": "168539"
+            }
+        },
+        {
+            "+@gid": "1523583193",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Zi Hao Xuan",
+                "+@id": "211313"
+            }
+        },
+        {
+            "+@gid": "1689166213",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Keisuke Aida",
+                "+@id": "217310"
             }
         },
         {
@@ -119,6 +208,158 @@
             "person": {
                 "+content": "Yukari Yasuda",
                 "+@id": "31108"
+            }
+        },
+        {
+            "+@gid": "2681685701",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Eri Ogawa",
+                "+@id": "49689"
+            }
+        },
+        {
+            "+@gid": "1582543404",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yūta Masaki",
+                "+@id": "79964"
+            }
+        },
+        {
+            "+@gid": "2831616074",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Shōto Shinkai",
+                "+@id": "182737"
+            }
+        },
+        {
+            "+@gid": "602456678",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Satoru Yamashita",
+                "+@id": "26108"
+            }
+        },
+        {
+            "+@gid": "2037060367",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Miyuki Matsumoto",
+                "+@id": "56032"
+            }
+        },
+        {
+            "+@gid": "1627946431",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Xin Chen",
+                "+@id": "94817"
+            }
+        },
+        {
+            "+@gid": "4121850533",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Fumiaki Satō",
+                "+@id": "123475"
+            }
+        },
+        {
+            "+@gid": "1647354922",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazuharu Tada",
+                "+@id": "169517"
+            }
+        },
+        {
+            "+@gid": "2502778442",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tae Inotsume",
+                "+@id": "171339"
+            }
+        },
+        {
+            "+@gid": "1802228920",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wei Xin Tang",
+                "+@id": "217418"
+            }
+        },
+        {
+            "+@gid": "1911161568",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hai Lin Liu",
+                "+@id": "231029"
+            }
+        },
+        {
+            "+@gid": "2612983843",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jiao Jiao Chen",
+                "+@id": "240041"
+            }
+        },
+        {
+            "+@gid": "1891556155",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yan Wen Xu",
+                "+@id": "261314"
+            }
+        },
+        {
+            "+@gid": "3309187229",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kenichi Ōki",
+                "+@id": "261760"
+            }
+        },
+        {
+            "+@gid": "2403164451",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Dong Xiu Zuo",
+                "+@id": "269619"
+            }
+        },
+        {
+            "+@gid": "2882414006",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kui Xie",
+                "+@id": "277597"
+            }
+        },
+        {
+            "+@gid": "1936330857",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yang Hai Ou",
+                "+@id": "280499"
+            }
+        },
+        {
+            "+@gid": "1696812730",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Keinosuke Kimura",
+                "+@id": "284242"
+            }
+        },
+        {
+            "+@gid": "1558542711",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zi Ye",
+                "+@id": "287380"
             }
         },
         {
@@ -274,6 +515,6 @@
         }
     },
     "+@date-added": "2024-09-27T01:27:30Z",
-    "+@date-last-modified-at": "2025-08-21T08:41:01Z",
-    "+@date-last-updated-at": "2025-08-21T08:41:01Z"
+    "+@date-last-modified-at": "2025-09-20T12:53:02Z",
+    "+@date-last-updated-at": "2025-09-20T12:53:02Z"
 }

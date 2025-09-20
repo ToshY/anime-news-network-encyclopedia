@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Wistoria: Wand and Sword",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-08-21T08:40:59Z",
+    "+@generated-on": "2025-09-20T12:53:01Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32011"
@@ -13,24 +13,24 @@
         {
             "+@gid": "2471073930",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33629-2471073930.1727600272.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33629-2471073930.1757327003.jpg",
             "+@width": "200",
-            "+@height": "117",
+            "+@height": "113",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33629-2471073930.1727600272.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33629-2471073930.1757327003.jpg",
                     "+@width": "200",
-                    "+@height": "117"
+                    "+@height": "113"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33629-2471073930.1727600272.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33629-2471073930.1757327003.jpg",
                     "+@width": "500",
-                    "+@height": "291"
+                    "+@height": "282"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A33629-2471073930.1727600272.jpg",
-                    "+@width": "1536",
-                    "+@height": "895"
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A33629-2471073930.1757327003.jpg",
+                    "+@width": "600",
+                    "+@height": "338"
                 }
             ]
         },
@@ -63,7 +63,7 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026",
+            "+content": "2026-04",
             "+@gid": "1942826580",
             "+@type": "Vintage"
         },
@@ -75,12 +75,43 @@
             "+@href": "https://wistoria-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Wistoria: Wand and Sword</cite> Season 2 Debuts in 2026",
-        "+@datetime": "2025-07-06T08:41:34Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-07-06/wistoria-wand-and-sword-season-2-debuts-in-2026/.226376"
-    },
+    "news": [
+        {
+            "+content": "<cite>Wistoria: Wand and Sword</cite> Season 2 Debuts in 2026",
+            "+@datetime": "2025-07-06T08:41:34Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-06/wistoria-wand-and-sword-season-2-debuts-in-2026/.226376"
+        },
+        {
+            "+content": "<cite>Wistoria: Wand and Sword</cite> Season 2 Reveals New, Returning Main Staff, April 2026 Debut",
+            "+@datetime": "2025-09-08T10:14:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-08/wistoria-wand-and-sword-season-2-reveals-new-returning-main-staff-april-2026-debut/.228558"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "1952002208",
+            "task": "Chief Director",
+            "person": {
+                "+content": "Tatsuya Yoshihara",
+                "+@id": "79001"
+            }
+        },
+        {
+            "+@gid": "1316297562",
+            "task": "Director",
+            "person": {
+                "+content": "Hideaki Nakano",
+                "+@id": "49322"
+            }
+        },
+        {
+            "+@gid": "2687703818",
+            "task": "Music",
+            "person": {
+                "+content": "Yuki Hayashi",
+                "+@id": "118529"
+            }
+        },
         {
             "+@gid": "2171529662",
             "task": "Original creator",
@@ -96,8 +127,72 @@
                 "+content": "Toshi Aoi",
                 "+@id": "215990"
             }
+        },
+        {
+            "+@gid": "2282760371",
+            "task": "Character Design",
+            "person": {
+                "+content": "Sayaka Ono",
+                "+@id": "40986"
+            }
+        },
+        {
+            "+@gid": "2825065474",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Sayaka Ono",
+                "+@id": "40986"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2603404097",
+            "+@lang": "JA",
+            "role": "Elfaria Alvis Serfort",
+            "person": {
+                "+content": "Akira Sekine",
+                "+@id": "127847"
+            }
+        },
+        {
+            "+@gid": "2192561369",
+            "+@lang": "JA",
+            "role": "Will Serfort",
+            "person": {
+                "+content": "Kōhei Amasaki",
+                "+@id": "131781"
+            }
+        },
+        {
+            "+@gid": "2636182287",
+            "+@lang": "JA",
+            "role": "Colette Loire",
+            "person": {
+                "+content": "Satomi Amano",
+                "+@id": "186176"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "1627524182",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Actas",
+                "+@id": "7931"
+            }
+        },
+        {
+            "+@gid": "1160931964",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Bandai Namco Pictures",
+                "+@id": "13900"
+            }
         }
     ],
     "+@date-added": "2024-09-29T04:56:46Z",
-    "+@date-last-updated-at": "2025-08-21T08:41:01Z"
+    "+@date-last-modified-at": "2025-09-20T12:53:02Z",
+    "+@date-last-updated-at": "2025-09-20T12:53:02Z"
 }
