@@ -4,12 +4,31 @@
     "+@type": "ONA",
     "+@name": "Star Wars: Visions Volume 3",
     "+@precision": "ONA",
-    "+@generated-on": "2025-08-20T20:34:43Z",
+    "+@generated-on": "2025-09-20T04:33:55Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "25735"
     },
     "info": [
+        {
+            "+@gid": "1804355968",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34067-1804355968.1755896269.jpg",
+            "+@width": "135",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34067-1804355968.1755896269.jpg",
+                    "+@width": "135",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34067-1804355968.1755896269.jpg",
+                    "+@width": "405",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Star Wars: Visions Volume 3",
             "+@gid": "1288892597",
@@ -28,6 +47,11 @@
             "+@type": "Vintage"
         }
     ],
+    "news": {
+        "+content": "<cite>Star Wars: Visions</cite> Volume 3 Unveils New Visual",
+        "+@datetime": "2025-08-22T19:18:29Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-08-22/star-wars-visions-volume-3-unveils-new-visual/.227966"
+    },
     "staff": [
         {
             "+@gid": "3580114446",
@@ -123,6 +147,14 @@
             "person": {
                 "+content": "Shinya Ōhira",
                 "+@id": "30852"
+            }
+        },
+        {
+            "+@gid": "2474914778",
+            "task": "Music",
+            "person": {
+                "+content": "Sakura Fujiwara",
+                "+@id": "178370"
             }
         },
         {
@@ -225,5 +257,6 @@
         }
     ],
     "+@date-added": "2024-11-20T07:30:15Z",
-    "+@date-last-updated-at": "2025-08-20T20:34:45Z"
+    "+@date-last-modified-at": "2025-09-20T04:33:58Z",
+    "+@date-last-updated-at": "2025-09-20T04:33:58Z"
 }
