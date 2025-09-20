@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "DAN DA DAN",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-08-20T16:39:47Z",
+    "+@generated-on": "2025-09-20T01:57:07Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "30869"
+    },
+    "related-next": {
+        "+@id": "37850",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -160,8 +164,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "9",
-        "+@weighted_score": "8.5918"
+        "+@nb_votes": "33",
+        "+@weighted_score": "7.9688",
+        "+@bayesian_score": "7.82888"
     },
     "episode": [
         {
@@ -225,6 +230,38 @@
             "title": {
                 "+content": "You Can Do It, Okarun!",
                 "+@gid": "3592562151",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "21",
+            "title": {
+                "+content": "I Want to Rebuild the House",
+                "+@gid": "2752676493",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "22",
+            "title": {
+                "+content": "The Secret Art of Being Attractive",
+                "+@gid": "3489746701",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "23",
+            "title": {
+                "+content": "Hey, It's a Kaiju",
+                "+@gid": "2348053453",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "24",
+            "title": {
+                "+content": "Clash! Space Kaiju vs. Giant Robot!",
+                "+@gid": "2184512025",
                 "+@lang": "EN"
             }
         }
@@ -313,6 +350,21 @@
             "+content": "<cite>Let This Grieving Soul Retire!</cite> Season 2 Anime Gets Indian Premiere Screening on August 24",
             "+@datetime": "2025-08-15T13:02:32Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-08-15/let-this-grieving-soul-retire-season-2-anime-gets-indian-premiere-screening-on-august-24/.227252"
+        },
+        {
+            "+content": "<cite>Dan Da Dan</cite> 2nd Season Anime's Climax Promo Video Reveals New Cast Member",
+            "+@datetime": "2025-08-21T17:00:43Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-21/dan-da-dan-2nd-season-anime-climax-promo-video-reveals-new-cast-member/.227915"
+        },
+        {
+            "+content": "<cite>Dan Da Dan</cite> Season 2's English Dub Casts Bryce Papenbrook",
+            "+@datetime": "2025-08-23T19:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-23/dan-da-dan-season-2-english-dub-casts-bryce-papenbrook/.227977"
+        },
+        {
+            "+content": "<cite>Dan Da Dan</cite> Anime Gets 3rd Season",
+            "+@datetime": "2025-09-18T17:23:07Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-18/dan-da-dan-anime-gets-3rd-season/.228952"
         }
     ],
     "staff": [
@@ -349,6 +401,14 @@
             }
         },
         {
+            "+@gid": "1420388123",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hiromi Nishiyama",
+                "+@id": "25474"
+            }
+        },
+        {
             "+@gid": "3291042433",
             "task": "Storyboard",
             "person": {
@@ -365,11 +425,27 @@
             }
         },
         {
+            "+@gid": "2204716471",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tetsuo Yajima",
+                "+@id": "81645"
+            }
+        },
+        {
             "+@gid": "2726053748",
             "task": "Storyboard",
             "person": {
                 "+content": "Hironori Tanaka",
                 "+@id": "100032"
+            }
+        },
+        {
+            "+@gid": "1902528075",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kayona Yamada",
+                "+@id": "177453"
             }
         },
         {
@@ -405,6 +481,14 @@
             }
         },
         {
+            "+@gid": "2556207773",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hiromi Nishiyama",
+                "+@id": "25474"
+            }
+        },
+        {
             "+@gid": "2311086983",
             "task": "Episode Director",
             "person": {
@@ -429,6 +513,14 @@
             }
         },
         {
+            "+@gid": "2450260019",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takuya Fujikura",
+                "+@id": "154944"
+            }
+        },
+        {
             "+@gid": "2220978447",
             "task": "Episode Director",
             "person": {
@@ -440,7 +532,7 @@
             "+@gid": "3251118200",
             "task": "Episode Director",
             "person": {
-                "+content": "Shugo Tsuneoka",
+                "+content": "Shūgo Tsuneoka",
                 "+@id": "234060"
             }
         },
@@ -536,8 +628,16 @@
             "+@gid": "2020440312",
             "task": "Animation Director",
             "person": {
-                "+content": "Shouko Nishigaki",
+                "+content": "Shōko Nishigaki",
                 "+@id": "75802"
+            }
+        },
+        {
+            "+@gid": "2876733918",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mariko Komatsu",
+                "+@id": "77775"
             }
         },
         {
@@ -597,6 +697,30 @@
             }
         },
         {
+            "+@gid": "963909475",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yoshihide Ideue",
+                "+@id": "151241"
+            }
+        },
+        {
+            "+@gid": "2062416311",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ai Nagatome",
+                "+@id": "182614"
+            }
+        },
+        {
+            "+@gid": "2425411187",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mari Motohashi",
+                "+@id": "189738"
+            }
+        },
+        {
             "+@gid": "432014771",
             "task": "Animation Director",
             "person": {
@@ -618,6 +742,14 @@
             "person": {
                 "+content": "Chae Eun Kim",
                 "+@id": "205087"
+            }
+        },
+        {
+            "+@gid": "3618663379",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shelia Loewito",
+                "+@id": "214298"
             }
         },
         {
@@ -682,6 +814,14 @@
             "person": {
                 "+content": "Yu Wang",
                 "+@id": "261387"
+            }
+        },
+        {
+            "+@gid": "2252756683",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Eitetsu",
+                "+@id": "263886"
             }
         },
         {
@@ -757,6 +897,14 @@
             }
         },
         {
+            "+@gid": "2108808396",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Bian Xian An",
+                "+@id": "286335"
+            }
+        },
+        {
             "+@gid": "2479384258",
             "task": "Animation Director",
             "person": {
@@ -770,6 +918,14 @@
             "person": {
                 "+content": "Eriko Kimura",
                 "+@id": "31806"
+            }
+        },
+        {
+            "+@gid": "2465239856",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Yuya Wakayama",
+                "+@id": "172777"
             }
         },
         {
@@ -865,6 +1021,15 @@
             }
         },
         {
+            "+@gid": "1043923424",
+            "+@lang": "EN",
+            "role": "Kinta Sakata",
+            "person": {
+                "+content": "Bryce Papenbrook",
+                "+@id": "14137"
+            }
+        },
+        {
             "+@gid": "592518628",
             "+@lang": "EN",
             "role": "Serpoians",
@@ -937,6 +1102,15 @@
             }
         },
         {
+            "+@gid": "1191372686",
+            "+@lang": "EN",
+            "role": "Rin Sawaki",
+            "person": {
+                "+content": "Suzie Yeung",
+                "+@id": "184793"
+            }
+        },
+        {
             "+@gid": "1504277254",
             "+@lang": "EN",
             "role": "Aira Shiratori",
@@ -982,12 +1156,39 @@
             }
         },
         {
+            "+@gid": "2729711167",
+            "+@lang": "ES",
+            "role": "Dover Demon",
+            "person": {
+                "+content": "Irwin Daayan",
+                "+@id": "3761"
+            }
+        },
+        {
             "+@gid": "2798529272",
             "+@lang": "ES",
             "role": "Turbo Ruca",
             "person": {
                 "+content": "Magda Giner",
                 "+@id": "23783"
+            }
+        },
+        {
+            "+@gid": "2178269308",
+            "+@lang": "ES",
+            "role": "Turbo Granny",
+            "person": {
+                "+content": "Rebeca Patiño",
+                "+@id": "32072"
+            }
+        },
+        {
+            "+@gid": "1617326759",
+            "+@lang": "ES",
+            "role": "Seiko Ayase",
+            "person": {
+                "+content": "Karla Falcón",
+                "+@id": "38574"
             }
         },
         {
@@ -1000,12 +1201,48 @@
             }
         },
         {
+            "+@gid": "2615326010",
+            "+@lang": "ES",
+            "role": "Rin Sawaki",
+            "person": {
+                "+content": "Susana Moreno",
+                "+@id": "57846"
+            }
+        },
+        {
+            "+@gid": "2495506892",
+            "+@lang": "ES",
+            "role": "Naki Kitō",
+            "person": {
+                "+content": "Yolanda Vidal",
+                "+@id": "97767"
+            }
+        },
+        {
             "+@gid": "1300108384",
             "+@lang": "ES",
             "role": "Jin \"Jiji\" Enjoji",
             "person": {
                 "+content": "Marc Winslow",
                 "+@id": "119690"
+            }
+        },
+        {
+            "+@gid": "2351991884",
+            "+@lang": "ES",
+            "role": "Kinta Sakata",
+            "person": {
+                "+content": "Marc Winslow",
+                "+@id": "119690"
+            }
+        },
+        {
+            "+@gid": "2057417104",
+            "+@lang": "ES",
+            "role": "Aira Shiratori",
+            "person": {
+                "+content": "Fernanda Gastélum",
+                "+@id": "120333"
             }
         },
         {
@@ -1018,12 +1255,30 @@
             }
         },
         {
+            "+@gid": "2105221113",
+            "+@lang": "ES",
+            "role": "Ken \"Okarun\" Takakura",
+            "person": {
+                "+content": "José Luis Piedra",
+                "+@id": "150280"
+            }
+        },
+        {
             "+@gid": "1746287393",
             "+@lang": "ES",
             "role": "Naki Kito",
             "person": {
                 "+content": "Martha Rave",
                 "+@id": "151094"
+            }
+        },
+        {
+            "+@gid": "1695309469",
+            "+@lang": "ES",
+            "role": "Jin \"Jiji\" Enjōji",
+            "person": {
+                "+content": "Dalí González",
+                "+@id": "152808"
             }
         },
         {
@@ -1054,12 +1309,30 @@
             }
         },
         {
+            "+@gid": "1252265533",
+            "+@lang": "ES",
+            "role": "Manjiro",
+            "person": {
+                "+content": "Diego Becerril",
+                "+@id": "171065"
+            }
+        },
+        {
             "+@gid": "3040356477",
             "+@lang": "ES",
             "role": "Ken \"Okarun\" Takakura",
             "person": {
                 "+content": "Joel Gómez Jiménez",
                 "+@id": "176895"
+            }
+        },
+        {
+            "+@gid": "792390199",
+            "+@lang": "ES",
+            "role": "Momo Ayase",
+            "person": {
+                "+content": "Azucena Estrada",
+                "+@id": "185808"
             }
         },
         {
@@ -1090,12 +1363,30 @@
             }
         },
         {
+            "+@gid": "2734889630",
+            "+@lang": "ES",
+            "role": "Evil Eye",
+            "person": {
+                "+content": "Juanpi Monterrubio",
+                "+@id": "270185"
+            }
+        },
+        {
             "+@gid": "1779883593",
             "+@lang": "ES",
             "role": "Momo Ayase",
             "person": {
                 "+content": "Irene Arévalo",
                 "+@id": "271288"
+            }
+        },
+        {
+            "+@gid": "3285304792",
+            "+@lang": "ES",
+            "role": "Chiquitita",
+            "person": {
+                "+content": "Regina Huerta",
+                "+@id": "288021"
             }
         },
         {
@@ -1123,6 +1414,15 @@
             "person": {
                 "+content": "Nathalie Homs",
                 "+@id": "29181"
+            }
+        },
+        {
+            "+@gid": "2309107393",
+            "+@lang": "FR",
+            "role": "Kinta Sakata",
+            "person": {
+                "+content": "Arthur Pestel",
+                "+@id": "38726"
             }
         },
         {
@@ -1279,6 +1579,15 @@
             }
         },
         {
+            "+@gid": "913247345",
+            "+@lang": "FR",
+            "role": "Kinta Sakata",
+            "person": {
+                "+content": "Paul Bertin-Hugault",
+                "+@id": "206376"
+            }
+        },
+        {
             "+@gid": "2084191654",
             "+@lang": "FR",
             "role": "Tarō",
@@ -1294,6 +1603,15 @@
             "person": {
                 "+content": "Iliana Sakji",
                 "+@id": "232135"
+            }
+        },
+        {
+            "+@gid": "1437152840",
+            "+@lang": "FR",
+            "role": "Rin Sawaki",
+            "person": {
+                "+content": "Lévanah Solomon",
+                "+@id": "237477"
             }
         },
         {
@@ -1315,6 +1633,15 @@
             }
         },
         {
+            "+@gid": "1938936141",
+            "+@lang": "IT",
+            "role": "Demone di Dover",
+            "person": {
+                "+content": "Claudio Colombo",
+                "+@id": "18115"
+            }
+        },
+        {
             "+@gid": "877417854",
             "+@lang": "IT",
             "role": "Naki Kito",
@@ -1324,12 +1651,21 @@
             }
         },
         {
-            "+@gid": "3724168734",
+            "+@gid": "301688280",
             "+@lang": "IT",
-            "role": "Manjiro",
+            "role": "Taro",
             "person": {
-                "+content": "Emiliano Ragno",
-                "+@id": "58343"
+                "+content": "Massimo Di Benedetto",
+                "+@id": "36373"
+            }
+        },
+        {
+            "+@gid": "3607509725",
+            "+@lang": "IT",
+            "role": "Demone di Dover",
+            "person": {
+                "+content": "Patrizio Cigliano",
+                "+@id": "50853"
             }
         },
         {
@@ -1360,12 +1696,39 @@
             }
         },
         {
+            "+@gid": "1874799590",
+            "+@lang": "IT",
+            "role": "Kinta Sakata",
+            "person": {
+                "+content": "Giulio Bartolomei",
+                "+@id": "147364"
+            }
+        },
+        {
+            "+@gid": "1999336100",
+            "+@lang": "IT",
+            "role": "Taro",
+            "person": {
+                "+content": "Raffaele Proietti",
+                "+@id": "147383"
+            }
+        },
+        {
             "+@gid": "2508216553",
             "+@lang": "IT",
             "role": "Ken \"Okarun\" Takakura",
             "person": {
                 "+content": "Marcello Gobbi",
                 "+@id": "154589"
+            }
+        },
+        {
+            "+@gid": "1353856762",
+            "+@lang": "IT",
+            "role": "Chiquitita",
+            "person": {
+                "+content": "Giulia Bersani",
+                "+@id": "165737"
             }
         },
         {
@@ -1393,6 +1756,15 @@
             "person": {
                 "+content": "Valeriano Corini",
                 "+@id": "198894"
+            }
+        },
+        {
+            "+@gid": "2993750711",
+            "+@lang": "IT",
+            "role": "Manjiro",
+            "person": {
+                "+content": "Mattia Billi",
+                "+@id": "226693"
             }
         },
         {
@@ -1547,6 +1919,24 @@
                 "+content": "Naomi Ōzora",
                 "+@id": "120825"
             }
+        },
+        {
+            "+@gid": "3004623627",
+            "+@lang": "JA",
+            "role": "Kinta Sakata",
+            "person": {
+                "+content": "Daichi Fujiwara",
+                "+@id": "131872"
+            }
+        },
+        {
+            "+@gid": "1862621633",
+            "+@lang": "JA",
+            "role": "Rin Sawaki",
+            "person": {
+                "+content": "Manaka Iwami",
+                "+@id": "156030"
+            }
         }
     ],
     "credit": {
@@ -1558,6 +1948,6 @@
         }
     },
     "+@date-added": "2024-12-19T17:45:18Z",
-    "+@date-last-modified-at": "2025-08-20T16:39:49Z",
-    "+@date-last-updated-at": "2025-08-20T16:39:49Z"
+    "+@date-last-modified-at": "2025-09-20T01:57:10Z",
+    "+@date-last-updated-at": "2025-09-20T01:57:10Z"
 }

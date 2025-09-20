@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Hyakushō Kizoku",
     "+@precision": "TV 3",
-    "+@generated-on": "2025-08-20T16:39:47Z",
+    "+@generated-on": "2025-09-20T01:57:07Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "31075"
@@ -42,7 +42,7 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2025-10",
+            "+content": "2025-10-03",
             "+@gid": "1853178630",
             "+@type": "Vintage"
         },
@@ -54,11 +54,18 @@
             "+@href": "https://s.mxtv.jp/anime/hyakusho_kizoku/"
         }
     ],
-    "news": {
-        "+content": "<cite>Hyakushō Kizoku</cite> 3rd Season to Premiere This Fall",
-        "+@datetime": "2025-03-24T02:12:19Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-03-23/hyakusho-kizoku-3rd-season-to-premiere-this-fall/.222793"
-    },
+    "news": [
+        {
+            "+content": "<cite>Hyakushō Kizoku</cite> 3rd Season to Premiere This Fall",
+            "+@datetime": "2025-03-24T02:12:19Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-23/hyakusho-kizoku-3rd-season-to-premiere-this-fall/.222793"
+        },
+        {
+            "+content": "<cite>Hyakushō Kizoku</cite> 3rd Season Anime's Video Reveals Theme Song, October 3 Premiere",
+            "+@datetime": "2025-08-28T06:24:36Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-28/hyakusho-kizoku-3rd-season-anime-video-reveals-theme-song-october-3-premiere/.228180"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2067991940",
@@ -74,6 +81,30 @@
             "person": {
                 "+content": "Yūtarō Sawada",
                 "+@id": "132538"
+            }
+        },
+        {
+            "+@gid": "1073359737",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Sayuri Chino",
+                "+@id": "132417"
+            }
+        },
+        {
+            "+@gid": "927258051",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Mai Matsumura",
+                "+@id": "163088"
+            }
+        },
+        {
+            "+@gid": "3257309382",
+            "task": "Music",
+            "person": {
+                "+content": "Spectrick",
+                "+@id": "265372"
             }
         },
         {
@@ -148,5 +179,6 @@
         }
     },
     "+@date-added": "2024-12-20T21:09:29Z",
-    "+@date-last-updated-at": "2025-08-20T16:39:49Z"
+    "+@date-last-modified-at": "2025-09-20T01:57:10Z",
+    "+@date-last-updated-at": "2025-09-20T01:57:10Z"
 }
