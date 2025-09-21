@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Clevatess",
     "+@precision": "TV",
-    "+@generated-on": "2025-08-22T02:14:10Z",
+    "+@generated-on": "2025-09-21T04:34:25Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "32862"
+    },
+    "related-next": {
+        "+@id": "37848",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -118,6 +122,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "3238347044",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2025-07-02",
             "+@gid": "1109812818",
             "+@type": "Vintage"
@@ -141,8 +150,13 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "4.9551"
+        "+@nb_votes": "37",
+        "+@weighted_score": "7.8621",
+        "+@bayesian_score": "7.76112"
+    },
+    "review": {
+        "+content": "<cite>Clevatess -Majū no Ō to Akago to Shikabane no Yūsha-</cite> Manga Review",
+        "+@href": "https://www.animenewsnetwork.com/review/clevatess-maju-no-o-to-akago-to-shikabane-no-yusha/chapters-1/.228264"
     },
     "news": [
         {
@@ -184,6 +198,11 @@
             "+content": "Crunchyroll Adds <cite>I Shall Survive Using Potions!</cite>, <cite>Clevatess</cite> Anime's Indian Language Dubs",
             "+@datetime": "2025-07-05T12:04:50Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-07-05/crunchyroll-adds-i-shall-survive-using-potions-clevatess-anime-indian-language-dubs/.226303"
+        },
+        {
+            "+content": "<cite>Clevatess</cite> Anime Gets 2nd Season (Updated)",
+            "+@datetime": "2025-09-17T14:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-17/clevatess-anime-gets-2nd-season/.228903"
         }
     ],
     "staff": [
@@ -278,33 +297,6 @@
     ],
     "cast": [
         {
-            "+@gid": "2410134631",
-            "+@lang": "EN",
-            "role": "King of Haiden",
-            "person": {
-                "+content": "Garrett Schenck",
-                "+@id": "3003"
-            }
-        },
-        {
-            "+@gid": "1889094444",
-            "+@lang": "EN",
-            "role": "Horgus",
-            "person": {
-                "+content": "Jim Foronda",
-                "+@id": "29224"
-            }
-        },
-        {
-            "+@gid": "509918035",
-            "+@lang": "EN",
-            "role": "Mudo",
-            "person": {
-                "+content": "Kyle Phillips",
-                "+@id": "72635"
-            }
-        },
-        {
             "+@gid": "1629274768",
             "+@lang": "EN",
             "role": "Margo",
@@ -323,21 +315,21 @@
             }
         },
         {
+            "+@gid": "1877963928",
+            "+@lang": "EN",
+            "role": "Naie",
+            "person": {
+                "+content": "Mallorie Rodak",
+                "+@id": "130001"
+            }
+        },
+        {
             "+@gid": "3247999949",
             "+@lang": "EN",
             "role": "Klen",
             "person": {
                 "+content": "Morgan Berry",
                 "+@id": "132751"
-            }
-        },
-        {
-            "+@gid": "2275042548",
-            "+@lang": "EN",
-            "role": "Steffan",
-            "person": {
-                "+content": "Drew Breedlove",
-                "+@id": "155446"
             }
         },
         {
@@ -368,15 +360,6 @@
             }
         },
         {
-            "+@gid": "2174204311",
-            "+@lang": "EN",
-            "role": "Minarch",
-            "person": {
-                "+content": "Kevin D. Thelwell",
-                "+@id": "222444"
-            }
-        },
-        {
             "+@gid": "3974520490",
             "+@lang": "EN",
             "role": "Clevatess",
@@ -392,24 +375,6 @@
             "person": {
                 "+content": "Katie Wetch",
                 "+@id": "237851"
-            }
-        },
-        {
-            "+@gid": "3788290861",
-            "+@lang": "EN",
-            "role": "Katz",
-            "person": {
-                "+content": "Chase Kloza",
-                "+@id": "252227"
-            }
-        },
-        {
-            "+@gid": "2787138917",
-            "+@lang": "EN",
-            "role": "Mirlo",
-            "person": {
-                "+content": "Eric Wheeldon",
-                "+@id": "259066"
             }
         },
         {
@@ -514,7 +479,7 @@
         {
             "+@gid": "2696915217",
             "+@lang": "FR",
-            "role": "Dorel",
+            "role": "Général Dorel",
             "person": {
                 "+content": "Jean-Michel Vovk",
                 "+@id": "66571"
@@ -566,21 +531,12 @@
             }
         },
         {
-            "+@gid": "3242421423",
+            "+@gid": "2048810438",
             "+@lang": "FR",
-            "role": "Fabio",
+            "role": "Princesse Toara Mot Anzeta",
             "person": {
-                "+content": "Brieuc Lemaire",
-                "+@id": "163757"
-            }
-        },
-        {
-            "+@gid": "1911245010",
-            "+@lang": "JA",
-            "role": "Broco",
-            "person": {
-                "+content": "Shigeru Chiba",
-                "+@id": "427"
+                "+content": "Julie Dieu",
+                "+@id": "217020"
             }
         },
         {
@@ -590,24 +546,6 @@
             "person": {
                 "+content": "Tomokazu Seki",
                 "+@id": "529"
-            }
-        },
-        {
-            "+@gid": "3458817883",
-            "+@lang": "JA",
-            "role": "Stefan",
-            "person": {
-                "+content": "Mamoru Miyano",
-                "+@id": "10397"
-            }
-        },
-        {
-            "+@gid": "2818313820",
-            "+@lang": "JA",
-            "role": "Holgas",
-            "person": {
-                "+content": "Kenta Miyake",
-                "+@id": "10398"
             }
         },
         {
@@ -626,15 +564,6 @@
             "person": {
                 "+content": "Hiroki Yasumoto",
                 "+@id": "30785"
-            }
-        },
-        {
-            "+@gid": "2646471136",
-            "+@lang": "JA",
-            "role": "Mirlo",
-            "person": {
-                "+content": "Yūki Ono",
-                "+@id": "57085"
             }
         },
         {
@@ -674,39 +603,12 @@
             }
         },
         {
-            "+@gid": "2733401542",
-            "+@lang": "JA",
-            "role": "Mudo",
-            "person": {
-                "+content": "Yōhei Azakami",
-                "+@id": "108274"
-            }
-        },
-        {
             "+@gid": "2483976101",
             "+@lang": "JA",
             "role": "Margo",
             "person": {
                 "+content": "Miō Tanaka",
                 "+@id": "116654"
-            }
-        },
-        {
-            "+@gid": "2652176501",
-            "+@lang": "JA",
-            "role": "Minark",
-            "person": {
-                "+content": "Shimba Tsuchiya",
-                "+@id": "121607"
-            }
-        },
-        {
-            "+@gid": "2796843886",
-            "+@lang": "JA",
-            "role": "Katz",
-            "person": {
-                "+content": "Yūma Uchida",
-                "+@id": "124918"
             }
         },
         {
@@ -725,15 +627,6 @@
             "person": {
                 "+content": "Saya Aizawa",
                 "+@id": "154564"
-            }
-        },
-        {
-            "+@gid": "806536948",
-            "+@lang": "JA",
-            "role": "King of Haiden",
-            "person": {
-                "+content": "Jun Hashizume",
-                "+@id": "280062"
             }
         }
     ],
@@ -812,6 +705,6 @@
         }
     ],
     "+@date-added": "2024-07-02T06:45:51Z",
-    "+@date-last-modified-at": "2025-08-22T02:14:13Z",
-    "+@date-last-updated-at": "2025-08-22T02:14:13Z"
+    "+@date-last-modified-at": "2025-09-21T04:34:28Z",
+    "+@date-last-updated-at": "2025-09-21T04:34:28Z"
 }

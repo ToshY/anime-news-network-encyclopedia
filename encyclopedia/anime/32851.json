@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Mahōka Kōkō no Rettōsei: Yotsuba Keishō-hen",
     "+@precision": "movie",
-    "+@generated-on": "2025-08-22T02:14:10Z",
+    "+@generated-on": "2025-09-21T04:34:26Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "29053"
@@ -42,9 +42,16 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2025 (winter)",
-            "+@gid": "2003533453",
+            "+content": "2026",
+            "+@gid": "1235222014",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "劇場版「魔法科高校の劣等生 四葉継承編」公式サイト",
+            "+@gid": "3233006728",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://mahouka.jp/yotsuba/"
         }
     ],
     "news": [
@@ -57,9 +64,30 @@
             "+content": "<cite>The irregular at magic high school</cite> Anime's New Film Opens 'Next Winter'",
             "+@datetime": "2025-01-01T01:01:18Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-31/the-irregular-at-magic-high-school-anime-new-film-opens-next-winter/.219640"
+        },
+        {
+            "+content": "<cite>The Irregular at Magic High School: Yotsuba Succession Arc</cite> Anime Film Reveals 2026 Debut, Main Staff in Video",
+            "+@datetime": "2025-09-13T08:57:09Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-13/the-irregular-at-magic-high-school-yotsuba-succession-arc-anime-film-reveals-2026-debut-main-staff-/.228751"
         }
     ],
     "staff": [
+        {
+            "+@gid": "1196340061",
+            "task": "Director",
+            "person": {
+                "+content": "Jimmy Stone",
+                "+@id": "49964"
+            }
+        },
+        {
+            "+@gid": "443884304",
+            "task": "Music",
+            "person": {
+                "+content": "Taku Iwasaki",
+                "+@id": "132"
+            }
+        },
         {
             "+@gid": "1980901894",
             "task": "Original creator",
@@ -75,8 +103,81 @@
                 "+content": "Kana Ishida",
                 "+@id": "25194"
             }
+        },
+        {
+            "+@gid": "2330163127",
+            "task": "Character Design",
+            "person": {
+                "+content": "Kana Ishida",
+                "+@id": "25194"
+            }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "2986118348",
+            "+@lang": "JA",
+            "role": "Maya Yotsuba",
+            "person": {
+                "+content": "Chiwa Saitō",
+                "+@id": "13834"
+            }
+        },
+        {
+            "+@gid": "1410476611",
+            "+@lang": "JA",
+            "role": "Katsushige Shibata",
+            "person": {
+                "+content": "Daisuke Ono",
+                "+@id": "14929"
+            }
+        },
+        {
+            "+@gid": "690315723",
+            "+@lang": "JA",
+            "role": "Tatsuya Shiba",
+            "person": {
+                "+content": "Yūichi Nakamura",
+                "+@id": "15878"
+            }
+        },
+        {
+            "+@gid": "942511755",
+            "+@lang": "JA",
+            "role": "Fumiya Kuroba",
+            "person": {
+                "+content": "Emiri Katō",
+                "+@id": "28606"
+            }
+        },
+        {
+            "+@gid": "2467086647",
+            "+@lang": "JA",
+            "role": "Miyuki Shiba",
+            "person": {
+                "+content": "Saori Hayami",
+                "+@id": "63462"
+            }
+        },
+        {
+            "+@gid": "2613519472",
+            "+@lang": "JA",
+            "role": "Yuuka Tsukuba",
+            "person": {
+                "+content": "Ai Kayano",
+                "+@id": "91009"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2035280969",
+        "task": "Animation Production",
+        "company": {
+            "+content": "8 bit",
+            "+@id": "8071"
+        }
+    },
     "+@date-added": "2024-06-28T18:38:06Z",
-    "+@date-last-updated-at": "2025-08-22T02:14:13Z"
+    "+@date-last-modified-at": "2025-09-21T04:34:28Z",
+    "+@date-last-updated-at": "2025-09-21T04:34:28Z"
 }
