@@ -2,9 +2,9 @@
     "+@id": "31174",
     "+@gid": "1324563442",
     "+@type": "TV",
-    "+@name": "Jujutsu Kaisen",
+    "+@name": "Jujutsu Kaisen Season 3: The Culling Game Part 1",
     "+@precision": "TV 3",
-    "+@generated-on": "2025-08-22T16:39:51Z",
+    "+@generated-on": "2025-09-21T20:30:40Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "25346"
@@ -30,19 +30,19 @@
             ]
         },
         {
-            "+content": "Jujutsu Kaisen",
-            "+@gid": "2104601743",
+            "+content": "Jujutsu Kaisen Season 3: The Culling Game Part 1",
+            "+@gid": "2692433565",
             "+@type": "Main title",
-            "+@lang": "JA"
+            "+@lang": "EN"
         },
         {
-            "+content": "Jujutsu Kaisen Shimetsu Kaiyū",
+            "+content": "Jujutsu Kaisen Shimetsu Kaiyū Zenpen",
             "+@gid": "1728178954",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
-            "+content": "呪術廻戦 死滅回游",
+            "+content": "呪術廻戦 死滅回游 前編",
             "+@gid": "1730212858",
             "+@type": "Alternative title",
             "+@lang": "JA"
@@ -133,9 +133,9 @@
             "+@type": "Objectionable content"
         },
         {
-            "+content": "23",
-            "+@gid": "3023992214",
-            "+@type": "Running time"
+            "+content": "2026-01",
+            "+@gid": "1034067006",
+            "+@type": "Vintage"
         },
         {
             "+content": "TVアニメ「呪術廻戦」公式サイト",
@@ -145,15 +145,23 @@
             "+@href": "https://jujutsukaisen.jp/"
         }
     ],
-    "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "5.3466"
-    },
-    "news": {
-        "+content": "<cite>Jujutsu Kaisen</cite> Anime Reveals May 30 Debut for Season 2 Arc's Compilation Film, Visual for 'Culling Game' Arc",
-        "+@datetime": "2024-12-21T02:24:32Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-12-20/jujutsu-kaisen-anime-reveals-may-30-debut-for-season-2-arc-compilation-film-visual-for-culling-game-/.219349"
-    },
+    "news": [
+        {
+            "+content": "<cite>Jujutsu Kaisen</cite> Anime Reveals May 30 Debut for Season 2 Arc's Compilation Film, Visual for 'Culling Game' Arc",
+            "+@datetime": "2024-12-21T02:24:32Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-20/jujutsu-kaisen-anime-reveals-may-30-debut-for-season-2-arc-compilation-film-visual-for-culling-game-/.219349"
+        },
+        {
+            "+content": "<i>Jujutsu Kaisen</i> Season 3's Teaser Unveils Part 1's January 2026 Debut, Main Cast",
+            "+@datetime": "2025-08-31T13:19:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-31/jujutsu-kaisen-season-3-teaser-unveils-part-1-january-2026-debut-main-cast/.228282"
+        },
+        {
+            "+content": "<cite>Jujutsu Kaisen : Execution</cite> Compilation Film's Trailer Previews Season 3 Footage, IMAX Plans",
+            "+@datetime": "2025-09-19T02:23:19Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-18/jujutsu-kaisen-execution-compilation-film-trailer-previews-season-3-footage-imax-plans/.228959"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1845234453",
@@ -164,11 +172,121 @@
             }
         },
         {
+            "+@gid": "3603913807",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Hiroshi Seko",
+                "+@id": "78744"
+            }
+        },
+        {
+            "+@gid": "1983806776",
+            "task": "Script",
+            "person": {
+                "+content": "Hiroshi Seko",
+                "+@id": "78744"
+            }
+        },
+        {
+            "+@gid": "2761209579",
+            "task": "Music",
+            "person": {
+                "+content": "Yoshimasa Terui",
+                "+@id": "178304"
+            }
+        },
+        {
             "+@gid": "477711492",
             "task": "Original creator",
             "person": {
                 "+content": "Gege Akutami",
                 "+@id": "177440"
+            }
+        },
+        {
+            "+@gid": "2526722874",
+            "task": "Character Design",
+            "person": {
+                "+content": "Hiromi Niwa",
+                "+@id": "102500"
+            }
+        },
+        {
+            "+@gid": "2026576855",
+            "task": "Character Design",
+            "person": {
+                "+content": "Yosuke Yajima",
+                "+@id": "138356"
+            }
+        },
+        {
+            "+@gid": "3567061622",
+            "task": "Art Director",
+            "person": {
+                "+content": "Junichi Higashi",
+                "+@id": "89"
+            }
+        },
+        {
+            "+@gid": "1948790383",
+            "task": "3D Director",
+            "person": {
+                "+content": "Daisuke Ishikawa",
+                "+@id": "233098"
+            }
+        },
+        {
+            "+@gid": "2232382360",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Yasunori Ebina",
+                "+@id": "27728"
+            }
+        },
+        {
+            "+@gid": "1874728770",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Teppei Ito",
+                "+@id": "166358"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2378610806",
+            "+@lang": "JA",
+            "role": "Yūta Okkotsu",
+            "person": {
+                "+content": "Megumi Ogata",
+                "+@id": "790"
+            }
+        },
+        {
+            "+@gid": "2454506991",
+            "+@lang": "JA",
+            "role": "Chōsō",
+            "person": {
+                "+content": "Daisuke Namikawa",
+                "+@id": "1289"
+            }
+        },
+        {
+            "+@gid": "1783834848",
+            "+@lang": "JA",
+            "role": "Yūji Itadori",
+            "person": {
+                "+content": "Junya Enoki",
+                "+@id": "109167"
+            }
+        },
+        {
+            "+@gid": "2608815899",
+            "+@lang": "JA",
+            "role": "Megumi Fushiguro",
+            "person": {
+                "+content": "Yūma Uchida",
+                "+@id": "124918"
             }
         }
     ],
@@ -181,6 +299,6 @@
         }
     },
     "+@date-added": "2023-12-28T19:44:49Z",
-    "+@date-last-modified-at": "2025-08-22T16:39:53Z",
-    "+@date-last-updated-at": "2025-08-22T16:39:53Z"
+    "+@date-last-modified-at": "2025-09-21T20:30:43Z",
+    "+@date-last-updated-at": "2025-09-21T20:30:43Z"
 }
