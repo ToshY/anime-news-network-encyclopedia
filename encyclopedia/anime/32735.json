@@ -4,7 +4,11 @@
     "+@type": "TV",
     "+@name": "MUZIK TIGER In the Forest",
     "+@precision": "TV",
-    "+@generated-on": "2025-08-22T04:36:38Z",
+    "+@generated-on": "2025-09-21T08:32:49Z",
+    "related-next": {
+        "+@id": "37851",
+        "+@rel": "sequel"
+    },
     "info": [
         {
             "+@gid": "1830730376",
@@ -37,7 +41,7 @@
             "+@type": "Running time"
         },
         {
-            "+content": "30",
+            "+content": "13",
             "+@gid": "1757685170",
             "+@type": "Number of episodes"
         },
@@ -68,11 +72,18 @@
             "+@href": "https://muziktiger-anime.com/kr/"
         }
     ],
-    "news": {
-        "+content": "Anime of Daewon Media's MUZIK TIGER Characters Unveils Title, Cast, Staff, April 2 Debut",
-        "+@datetime": "2025-03-26T05:47:41Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-03-26/anime-of-daewon-media-muzik-tiger-characters-unveils-title-cast-staff-april-2-debut/.222882"
-    },
+    "news": [
+        {
+            "+content": "Anime of Daewon Media's MUZIK TIGER Characters Unveils Title, Cast, Staff, April 2 Debut",
+            "+@datetime": "2025-03-26T05:47:41Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-26/anime-of-daewon-media-muzik-tiger-characters-unveils-title-cast-staff-april-2-debut/.222882"
+        },
+        {
+            "+content": "Anime of Daewon Media's MUZIK TIGER Characters Gets 2nd Season on October 1",
+            "+@datetime": "2025-09-19T04:31:13Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-19/anime-of-daewon-media-muzik-tiger-characters-gets-2nd-season-on-october-1/.228961"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3551011307",
@@ -189,5 +200,6 @@
         }
     ],
     "+@date-added": "2024-05-16T00:58:45Z",
-    "+@date-last-updated-at": "2025-08-22T04:36:40Z"
+    "+@date-last-modified-at": "2025-09-21T08:32:51Z",
+    "+@date-last-updated-at": "2025-09-21T08:32:51Z"
 }
