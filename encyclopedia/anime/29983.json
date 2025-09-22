@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Reborn as a Vending Machine, I Now Wander the Dungeon",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-08-23T08:36:05Z",
+    "+@generated-on": "2025-09-22T08:41:19Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26186"
+    },
+    "related-next": {
+        "+@id": "37849",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -88,6 +92,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "3138462783",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2025-07-02",
             "+@gid": "1308172452",
             "+@type": "Vintage"
@@ -111,8 +120,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "3"
+        "+@nb_votes": "19",
+        "+@weighted_score": "6.7413",
+        "+@bayesian_score": "7.03884"
     },
     "news": [
         {
@@ -149,6 +159,11 @@
             "+content": "Tamil, Telugu Dubs for <cite>Miss Kuroitsu From the Monster Development Department</cite> Anime Stream on Crunchyroll",
             "+@datetime": "2025-07-24T10:30:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-07-24/tamil-telugu-dubs-for-miss-kuroitsu-from-the-monster-development-department-anime-stream-on-/.226850"
+        },
+        {
+            "+content": "<cite>Reborn as a Vending Machine</cite> Anime Gets 3rd Season",
+            "+@datetime": "2025-09-18T02:52:01Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-17/reborn-as-a-vending-machine-anime-gets-3rd-season/.228925"
         }
     ],
     "staff": [
@@ -209,6 +224,22 @@
             }
         },
         {
+            "+@gid": "1730272700",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Naotaka Hayashi",
+                "+@id": "31714"
+            }
+        },
+        {
+            "+@gid": "1376623797",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Waruo Suzuki",
+                "+@id": "63720"
+            }
+        },
+        {
             "+@gid": "2350070352",
             "task": "Storyboard",
             "person": {
@@ -233,6 +264,14 @@
             }
         },
         {
+            "+@gid": "2822187719",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Miyuki Hokiwara",
+                "+@id": "33056"
+            }
+        },
+        {
             "+@gid": "2639038700",
             "task": "Episode Director",
             "person": {
@@ -246,6 +285,14 @@
             "person": {
                 "+content": "Hodaka Kuramoto",
                 "+@id": "86935"
+            }
+        },
+        {
+            "+@gid": "2592546057",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Masateru Nomi",
+                "+@id": "144558"
             }
         },
         {
@@ -385,6 +432,14 @@
             }
         },
         {
+            "+@gid": "1993328777",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ji Eun Kim",
+                "+@id": "34922"
+            }
+        },
+        {
             "+@gid": "1819429765",
             "task": "Animation Director",
             "person": {
@@ -441,6 +496,14 @@
             }
         },
         {
+            "+@gid": "2680282018",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Eun Jin Han",
+                "+@id": "61845"
+            }
+        },
+        {
             "+@gid": "1447920799",
             "task": "Animation Director",
             "person": {
@@ -454,6 +517,14 @@
             "person": {
                 "+content": "Chae Gil Lim",
                 "+@id": "84170"
+            }
+        },
+        {
+            "+@gid": "2745621841",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Soon-Ok Park",
+                "+@id": "92243"
             }
         },
         {
@@ -486,6 +557,14 @@
             "person": {
                 "+content": "Qiang Sun",
                 "+@id": "115117"
+            }
+        },
+        {
+            "+@gid": "2989515020",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jung Rim Kim",
+                "+@id": "116682"
             }
         },
         {
@@ -537,6 +616,14 @@
             }
         },
         {
+            "+@gid": "945172579",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hee Jung Kim",
+                "+@id": "201208"
+            }
+        },
+        {
             "+@gid": "2223479362",
             "task": "Animation Director",
             "person": {
@@ -545,11 +632,27 @@
             }
         },
         {
+            "+@gid": "2964446444",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Geun Young Bae",
+                "+@id": "209129"
+            }
+        },
+        {
             "+@gid": "2318284074",
             "task": "Animation Director",
             "person": {
                 "+content": "Sung Hee Lee",
                 "+@id": "210490"
+            }
+        },
+        {
+            "+@gid": "3305615954",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mi Na Won",
+                "+@id": "246175"
             }
         },
         {
@@ -617,6 +720,14 @@
             }
         },
         {
+            "+@gid": "1649802802",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Won Ha Jo",
+                "+@id": "280139"
+            }
+        },
+        {
             "+@gid": "3372784627",
             "task": "Animation Director",
             "person": {
@@ -630,6 +741,14 @@
             "person": {
                 "+content": "So Won O",
                 "+@id": "286465"
+            }
+        },
+        {
+            "+@gid": "1547709730",
+            "task": "Animation Director",
+            "person": {
+                "+content": "So Jung Kim",
+                "+@id": "287898"
             }
         },
         {
@@ -714,6 +833,15 @@
             }
         },
         {
+            "+@gid": "1488566166",
+            "+@lang": "EN",
+            "role": "Boxxo",
+            "person": {
+                "+content": "Garret Storms",
+                "+@id": "130209"
+            }
+        },
+        {
             "+@gid": "2486309470",
             "+@lang": "EN",
             "role": "Aka",
@@ -723,12 +851,12 @@
             }
         },
         {
-            "+@gid": "2739476150",
+            "+@gid": "1781823459",
             "+@lang": "EN",
-            "role": "Munami",
+            "role": "Kikoyu",
             "person": {
-                "+content": "Marisa Duran",
-                "+@id": "154417"
+                "+content": "Ariel Graham",
+                "+@id": "163724"
             }
         },
         {
@@ -931,6 +1059,6 @@
         }
     ],
     "+@date-added": "2023-09-20T15:46:20Z",
-    "+@date-last-modified-at": "2025-08-23T08:36:07Z",
-    "+@date-last-updated-at": "2025-08-23T08:36:07Z"
+    "+@date-last-modified-at": "2025-09-22T08:41:22Z",
+    "+@date-last-updated-at": "2025-09-22T08:41:22Z"
 }
