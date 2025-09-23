@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Mounting Celeb Tsuma no Kareinaru Tenraku",
     "+@precision": "manga",
-    "+@generated-on": "2025-08-24T12:55:08Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "29413"
-    },
+    "+@generated-on": "2025-09-23T16:39:03Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "29413"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "37771"
+        }
+    ],
     "info": [
         {
             "+@gid": "3223059512",
@@ -60,8 +66,18 @@
             "+content": "2024-11-30 (serialized on Mecha Comic)",
             "+@gid": "1790324089",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-05-29 (serialized in ARTEMIS by sirius, vol. 1)",
+            "+@gid": "1812673165",
+            "+@type": "Vintage"
         }
     ],
+    "news": {
+        "+content": "<cite>Shonen Sirius</cite> Magazine Launches Digital Manga Magazine Aimed at Women on May 29",
+        "+@datetime": "2025-04-28T03:33:22Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-04-27/shonen-sirius-magazine-launches-digital-manga-magazine-aimed-at-women-on-may-29/.223958"
+    },
     "staff": [
         {
             "+@gid": "370691569",
@@ -81,5 +97,6 @@
         }
     ],
     "+@date-added": "2025-04-01T19:37:34Z",
-    "+@date-last-updated-at": "2025-08-24T12:55:10Z"
+    "+@date-last-modified-at": "2025-09-23T16:39:05Z",
+    "+@date-last-updated-at": "2025-09-23T16:39:05Z"
 }

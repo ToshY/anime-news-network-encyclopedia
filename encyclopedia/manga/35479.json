@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Otto no Osananajimi ga Dokudatta Ken",
     "+@precision": "manga",
-    "+@generated-on": "2025-08-24T08:34:46Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "29413"
-    },
+    "+@generated-on": "2025-09-23T16:39:03Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "29413"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "37771"
+        }
+    ],
     "info": [
         {
             "+@gid": "2099115194",
@@ -66,6 +72,11 @@
             "+content": "2024-11-30 (serialized on Mecha Comic)",
             "+@gid": "1892004013",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-05-29 (serialized in ARTEMIS by sirius, vol. 1)",
+            "+@gid": "2489802508",
+            "+@type": "Vintage"
         }
     ],
     "news": {
@@ -92,5 +103,6 @@
         }
     ],
     "+@date-added": "2025-04-01T19:57:52Z",
-    "+@date-last-updated-at": "2025-08-24T08:34:47Z"
+    "+@date-last-modified-at": "2025-09-23T16:39:05Z",
+    "+@date-last-updated-at": "2025-09-23T16:39:05Z"
 }
