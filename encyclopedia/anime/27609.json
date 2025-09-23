@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "To Be Hero X",
     "+@precision": "TV",
-    "+@generated-on": "2025-08-24T08:34:45Z",
+    "+@generated-on": "2025-09-23T12:57:38Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "18728"
@@ -86,8 +86,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "6"
+        "+@nb_votes": "19",
+        "+@weighted_score": "7.6421",
+        "+@bayesian_score": "7.57369"
     },
     "episode": [
         {
@@ -368,6 +369,42 @@
     ],
     "cast": [
         {
+            "+@gid": "733747971",
+            "+@lang": "EN",
+            "role": "Shand",
+            "person": {
+                "+content": "John Burgmeier",
+                "+@id": "1113"
+            }
+        },
+        {
+            "+@gid": "3401500884",
+            "+@lang": "EN",
+            "role": "Mickey",
+            "person": {
+                "+content": "Kent Williams",
+                "+@id": "1131"
+            }
+        },
+        {
+            "+@gid": "369451598",
+            "+@lang": "EN",
+            "role": "Ahu",
+            "person": {
+                "+content": "Christopher R. Sabat",
+                "+@id": "1386"
+            }
+        },
+        {
+            "+@gid": "2155778935",
+            "+@lang": "EN",
+            "role": "X",
+            "person": {
+                "+content": "David Matranga",
+                "+@id": "9293"
+            }
+        },
+        {
             "+@gid": "3137090657",
             "+@lang": "EN",
             "role": "Big Johnny",
@@ -440,12 +477,39 @@
             }
         },
         {
+            "+@gid": "2467324689",
+            "+@lang": "EN",
+            "role": "Rock",
+            "person": {
+                "+content": "Mike Smith",
+                "+@id": "211316"
+            }
+        },
+        {
             "+@gid": "1406006572",
             "+@lang": "EN",
             "role": "DJ Shindig",
             "person": {
                 "+content": "Van Barr Jr.",
                 "+@id": "213292"
+            }
+        },
+        {
+            "+@gid": "1370311321",
+            "+@lang": "EN",
+            "role": "Xin Ya",
+            "person": {
+                "+content": "Hannah Alyea",
+                "+@id": "223713"
+            }
+        },
+        {
+            "+@gid": "2996122288",
+            "+@lang": "EN",
+            "role": "Zac",
+            "person": {
+                "+content": "Corey Wilder",
+                "+@id": "235777"
             }
         },
         {
@@ -557,6 +621,15 @@
             }
         },
         {
+            "+@gid": "4012059912",
+            "+@lang": "FR",
+            "role": "Shang",
+            "person": {
+                "+content": "Franck Daquin",
+                "+@id": "59340"
+            }
+        },
+        {
             "+@gid": "2223200156",
             "+@lang": "FR",
             "role": "Dragon Boy",
@@ -638,6 +711,15 @@
             }
         },
         {
+            "+@gid": "2951261936",
+            "+@lang": "FR",
+            "role": "Xinya",
+            "person": {
+                "+content": "Catherine Hanotiau",
+                "+@id": "189972"
+            }
+        },
+        {
             "+@gid": "1060865743",
             "+@lang": "FR",
             "role": "Yang Cheng/Electrâme",
@@ -653,6 +735,33 @@
             "person": {
                 "+content": "Shinichirō Miki",
                 "+@id": "659"
+            }
+        },
+        {
+            "+@gid": "3888020015",
+            "+@lang": "JA",
+            "role": "Yen Mo",
+            "person": {
+                "+content": "Show Hayami",
+                "+@id": "724"
+            }
+        },
+        {
+            "+@gid": "2443226448",
+            "+@lang": "JA",
+            "role": "Xin Ya",
+            "person": {
+                "+content": "Rie Kugimiya",
+                "+@id": "808"
+            }
+        },
+        {
+            "+@gid": "3214783053",
+            "+@lang": "JA",
+            "role": "Shand",
+            "person": {
+                "+content": "Naoya Uchida",
+                "+@id": "5410"
             }
         },
         {
@@ -823,6 +932,6 @@
         }
     ],
     "+@date-added": "2023-03-25T03:16:56Z",
-    "+@date-last-modified-at": "2025-08-24T08:34:46Z",
-    "+@date-last-updated-at": "2025-08-24T08:34:46Z"
+    "+@date-last-modified-at": "2025-09-23T12:57:40Z",
+    "+@date-last-updated-at": "2025-09-23T12:57:40Z"
 }
