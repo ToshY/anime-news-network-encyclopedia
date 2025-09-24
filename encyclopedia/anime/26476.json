@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "New Saga",
     "+@precision": "TV",
-    "+@generated-on": "2025-08-25T04:42:56Z",
+    "+@generated-on": "2025-09-24T08:41:07Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26474"
@@ -75,8 +75,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "6",
-        "+@weighted_score": "4.996"
+        "+@nb_votes": "26",
+        "+@weighted_score": "5.923",
+        "+@bayesian_score": "6.4399"
     },
     "news": [
         {
@@ -227,6 +228,33 @@
             "person": {
                 "+content": "Kyle Igneczi",
                 "+@id": "148012"
+            }
+        },
+        {
+            "+@gid": "3396155243",
+            "+@lang": "EN",
+            "role": "Goh",
+            "person": {
+                "+content": "Dusty Feeney",
+                "+@id": "164999"
+            }
+        },
+        {
+            "+@gid": "2142985542",
+            "+@lang": "EN",
+            "role": "Miranda",
+            "person": {
+                "+content": "Kelly Greenshield",
+                "+@id": "174984"
+            }
+        },
+        {
+            "+@gid": "1540833980",
+            "+@lang": "EN",
+            "role": "Yulriga",
+            "person": {
+                "+content": "Sarah Roach",
+                "+@id": "184047"
             }
         },
         {
@@ -474,6 +502,6 @@
         }
     ],
     "+@date-added": "2022-10-20T21:58:40Z",
-    "+@date-last-modified-at": "2025-08-25T04:43:01Z",
-    "+@date-last-updated-at": "2025-08-25T04:43:01Z"
+    "+@date-last-modified-at": "2025-09-24T08:41:10Z",
+    "+@date-last-updated-at": "2025-09-24T08:41:10Z"
 }
