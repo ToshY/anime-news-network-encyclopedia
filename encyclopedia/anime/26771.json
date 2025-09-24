@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Bleach: Thousand-Year Blood War - The Separation",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-08-24T20:32:04Z",
+    "+@generated-on": "2025-09-24T02:01:17Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "25066"
@@ -82,13 +82,33 @@
             "+@type": "Genres"
         },
         {
+            "+content": "conspiracy",
+            "+@gid": "2236156729",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "fighting",
+            "+@gid": "2524569888",
+            "+@type": "Themes"
+        },
+        {
             "+content": "ghosts",
             "+@gid": "1397915429",
             "+@type": "Themes"
         },
         {
+            "+content": "gore",
+            "+@gid": "2224555539",
+            "+@type": "Themes"
+        },
+        {
             "+content": "martial arts",
             "+@gid": "977496444",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "military",
+            "+@gid": "2332466482",
             "+@type": "Themes"
         },
         {
@@ -142,6 +162,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "13",
+            "+@gid": "2432131646",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2023-07-08",
             "+@gid": "1742503793",
             "+@type": "Vintage"
@@ -170,9 +195,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "80",
-        "+@weighted_score": "7.5493",
-        "+@bayesian_score": "7.53877"
+        "+@nb_votes": "82",
+        "+@weighted_score": "7.5199",
+        "+@bayesian_score": "7.51358"
     },
     "episode": [
         {
@@ -608,14 +633,6 @@
             }
         },
         {
-            "+@gid": "1564484655",
-            "task": "Animation Director",
-            "person": {
-                "+content": "Kōji Watanabe",
-                "+@id": "8159"
-            }
-        },
-        {
             "+@gid": "1404171475",
             "task": "Animation Director",
             "person": {
@@ -837,6 +854,14 @@
             "person": {
                 "+content": "Heigo Akashi",
                 "+@id": "252031"
+            }
+        },
+        {
+            "+@gid": "1564484655",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kōji Watanabe",
+                "+@id": "287250"
             }
         },
         {
@@ -2308,6 +2333,6 @@
         }
     ],
     "+@date-added": "2022-12-27T03:24:20Z",
-    "+@date-last-modified-at": "2025-08-24T20:32:06Z",
-    "+@date-last-updated-at": "2025-08-24T20:32:06Z"
+    "+@date-last-modified-at": "2025-09-24T02:01:21Z",
+    "+@date-last-updated-at": "2025-09-24T02:01:21Z"
 }
