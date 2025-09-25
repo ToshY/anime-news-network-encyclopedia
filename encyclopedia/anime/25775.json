@@ -4,11 +4,17 @@
     "+@type": "ONA",
     "+@name": "Cyberpunk: Edgerunners",
     "+@precision": "ONA",
-    "+@generated-on": "2025-08-26T02:15:02Z",
-    "related-next": {
-        "+@id": "36864",
-        "+@rel": "sequel"
-    },
+    "+@generated-on": "2025-09-25T04:35:03Z",
+    "related-next": [
+        {
+            "+@id": "36864",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "37711",
+            "+@rel": "prequel"
+        }
+    ],
     "info": [
         {
             "+@gid": "1606880264",
@@ -244,8 +250,8 @@
     ],
     "ratings": {
         "+@nb_votes": "469",
-        "+@weighted_score": "7.9232",
-        "+@bayesian_score": "7.91108"
+        "+@weighted_score": "7.9256",
+        "+@bayesian_score": "7.91341"
     },
     "episode": [
         {
@@ -332,6 +338,11 @@
     "review": {
         "+content": "Cyberpunk: Edgerunners",
         "+@href": "https://www.animenewsnetwork.com/review/cyberpunk/edgerunners/.189856"
+    },
+    "release": {
+        "+content": "Cyberpunk: Edgerunners (Blu-ray)",
+        "+@date": "2025-10-23",
+        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=54596"
     },
     "news": [
         {
@@ -1566,6 +1577,6 @@
         }
     },
     "+@date-added": "2022-06-08T23:24:51Z",
-    "+@date-last-modified-at": "2025-08-26T02:15:05Z",
-    "+@date-last-updated-at": "2025-08-26T02:15:05Z"
+    "+@date-last-modified-at": "2025-09-25T04:35:08Z",
+    "+@date-last-updated-at": "2025-09-25T04:35:08Z"
 }
