@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Reincarnation Coliseum",
     "+@precision": "manga",
-    "+@generated-on": "2025-08-25T20:33:29Z",
+    "+@generated-on": "2025-09-25T02:02:27Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "12652"
@@ -75,11 +75,18 @@
             "+@type": "Vintage"
         }
     ],
-    "release": {
-        "+content": "Reincarnation Coliseum (GN 1)",
-        "+@date": "2025-04-22",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52900"
-    },
+    "release": [
+        {
+            "+content": "Reincarnation Coliseum (GN 1)",
+            "+@date": "2025-04-22",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52900"
+        },
+        {
+            "+content": "Reincarnation Coliseum (GN 2)",
+            "+@date": "2025-08-26",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=54666"
+        }
+    ],
     "news": [
         {
             "+content": "Saizō Harawata, Zunta Launch New <cite>Tensei Colosseum</cite> Manga in August",
@@ -95,6 +102,11 @@
             "+content": "North American Anime, Manga Releases, April 20-26",
             "+@datetime": "2025-04-25T21:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-04-25/north-american-anime-manga-releases-april-20-26/.223805"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, August 24-30",
+            "+@datetime": "2025-08-29T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-29/north-american-anime-manga-releases-august-24-30/.228082"
         }
     ],
     "staff": [
@@ -116,5 +128,6 @@
         }
     ],
     "+@date-added": "2025-03-07T09:27:38Z",
-    "+@date-last-updated-at": "2025-08-25T20:33:30Z"
+    "+@date-last-modified-at": "2025-09-25T02:02:28Z",
+    "+@date-last-updated-at": "2025-09-25T02:02:28Z"
 }
