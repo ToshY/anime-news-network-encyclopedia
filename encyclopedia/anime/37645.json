@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Kanagawa Elves",
     "+@precision": "TV",
-    "+@generated-on": "2025-08-27T02:04:55Z",
+    "+@generated-on": "2025-09-26T04:34:57Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "37640"
@@ -13,24 +13,24 @@
         {
             "+@gid": "3058736427",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37645-3058736427.1756242392.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37645-3058736427.1758186982.jpg",
             "+@width": "200",
-            "+@height": "141",
+            "+@height": "113",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37645-3058736427.1756242392.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37645-3058736427.1758186982.jpg",
                     "+@width": "200",
-                    "+@height": "141"
+                    "+@height": "113"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37645-3058736427.1756242392.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37645-3058736427.1758186982.jpg",
                     "+@width": "500",
-                    "+@height": "353"
+                    "+@height": "282"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37645-3058736427.1756242392.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37645-3058736427.1758186982.jpg",
                     "+@width": "600",
-                    "+@height": "424"
+                    "+@height": "338"
                 }
             ]
         },
@@ -66,24 +66,101 @@
             "+content": "2025-12",
             "+@gid": "2101174580",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ「#神奈川に住んでるエルフ」公式サイト",
+            "+@gid": "1701217242",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://animationid.com/kanael/"
         }
     ],
-    "staff": {
-        "+@gid": "1793190074",
-        "task": "Original creator",
-        "person": {
-            "+content": "Yoroida",
-            "+@id": "287270"
-        }
+    "news": {
+        "+content": "<cite>Kanagawa Elves</cite> TV Light Anime Reveals Cast, Staff, 1st Teaser Video",
+        "+@datetime": "2025-09-18T07:55:42Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-09-18/kanagawa-elves-tv-light-anime-reveals-cast-staff-1st-teaser-video/.228935"
     },
-    "credit": {
-        "+@gid": "1191526201",
-        "task": "Production",
-        "company": {
-            "+content": "AnimationID",
-            "+@id": "25617"
+    "staff": [
+        {
+            "+@gid": "1093058890",
+            "task": "Director",
+            "person": {
+                "+content": "Yūji Umoto",
+                "+@id": "79969"
+            }
+        },
+        {
+            "+@gid": "2572231348",
+            "task": "Music",
+            "person": {
+                "+content": "Shin Kawamoto",
+                "+@id": "115206"
+            }
+        },
+        {
+            "+@gid": "1793190074",
+            "task": "Original creator",
+            "person": {
+                "+content": "Yoroida",
+                "+@id": "287270"
+            }
+        },
+        {
+            "+@gid": "3347192147",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Taeko Miura",
+                "+@id": "190748"
+            }
         }
-    },
+    ],
+    "cast": [
+        {
+            "+@gid": "725189053",
+            "+@lang": "JA",
+            "role": "Human from Kawasaki",
+            "person": {
+                "+content": "Yuu Hayashi",
+                "+@id": "30876"
+            }
+        },
+        {
+            "+@gid": "2578952794",
+            "+@lang": "JA",
+            "role": "Elf from Yokohama",
+            "person": {
+                "+content": "Chiaki Kobayashi",
+                "+@id": "176057"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "3446717934",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Imageworks Studio",
+                "+@id": "23023"
+            }
+        },
+        {
+            "+@gid": "858738787",
+            "task": "Animation Production",
+            "company": {
+                "+content": "IMAGICA Infos",
+                "+@id": "24988"
+            }
+        },
+        {
+            "+@gid": "1191526201",
+            "task": "Production",
+            "company": {
+                "+content": "AnimationID",
+                "+@id": "25617"
+            }
+        }
+    ],
     "+@date-added": "2025-08-26T17:05:05Z",
-    "+@date-last-updated-at": "2025-08-27T02:04:56Z"
+    "+@date-last-modified-at": "2025-09-26T04:35:01Z",
+    "+@date-last-updated-at": "2025-09-26T04:35:01Z"
 }
