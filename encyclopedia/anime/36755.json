@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Hokuto no Ken -Fist of the North Star-",
     "+@precision": "TV",
-    "+@generated-on": "2025-08-27T04:36:16Z",
+    "+@generated-on": "2025-09-26T08:39:56Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "1547"
@@ -63,11 +63,18 @@
             "+@href": "https://hokuto-anime.com/"
         }
     ],
-    "news": {
-        "+content": "New <cite>Fist of the North Star</cite> Anime Reveals Title, 2026 Debut",
-        "+@datetime": "2025-06-27T01:27:57Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-06-26/new-fist-of-the-north-star-anime-reveals-title-2026-debut/.226050"
-    },
+    "news": [
+        {
+            "+content": "New <cite>Fist of the North Star</cite> Anime Reveals Title, 2026 Debut",
+            "+@datetime": "2025-06-27T01:27:57Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-26/new-fist-of-the-north-star-anime-reveals-title-2026-debut/.226050"
+        },
+        {
+            "+content": "New <cite>Fist of the North Star</cite> Anime Unveils  3 Cast Members",
+            "+@datetime": "2025-09-13T04:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-13/new-fist-of-the-north-star-anime-unveils-3-cast-members/.228660"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2502107789",
@@ -87,6 +94,33 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "2186257329",
+            "+@lang": "JA",
+            "role": "Jagi",
+            "person": {
+                "+content": "Wataru Takagi",
+                "+@id": "1307"
+            }
+        },
+        {
+            "+@gid": "3298401527",
+            "+@lang": "JA",
+            "role": "Raoh",
+            "person": {
+                "+content": "Taiten Kusunoki",
+                "+@id": "18813"
+            }
+        },
+        {
+            "+@gid": "1919172170",
+            "+@lang": "JA",
+            "role": "Toki",
+            "person": {
+                "+content": "Tsuguo Mogami",
+                "+@id": "31698"
+            }
+        },
         {
             "+@gid": "249756864",
             "+@lang": "JA",
@@ -116,5 +150,6 @@
         }
     ],
     "+@date-added": "2025-06-26T22:54:34Z",
-    "+@date-last-updated-at": "2025-08-27T04:36:19Z"
+    "+@date-last-modified-at": "2025-09-26T08:39:58Z",
+    "+@date-last-updated-at": "2025-09-26T08:39:58Z"
 }
