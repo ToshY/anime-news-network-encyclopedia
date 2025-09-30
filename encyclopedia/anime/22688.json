@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Go Astro Boy Go!",
     "+@precision": "TV",
-    "+@generated-on": "2025-08-31T12:53:35Z",
+    "+@generated-on": "2025-09-30T16:39:21Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "1962"
@@ -480,6 +480,14 @@
     },
     "staff": [
         {
+            "+@gid": "1656777050",
+            "task": "Director",
+            "person": {
+                "+content": "Virgile Trouillot",
+                "+@id": "288237"
+            }
+        },
+        {
             "+@gid": "2102696089",
             "task": "Music",
             "person": {
@@ -493,6 +501,30 @@
             "person": {
                 "+content": "Osamu Tezuka",
                 "+@id": "883"
+            }
+        },
+        {
+            "+@gid": "1995769175",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Yoshihiro Shimizu",
+                "+@id": "888"
+            }
+        },
+        {
+            "+@gid": "1133030946",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Frédéric Puech",
+                "+@id": "97835"
+            }
+        },
+        {
+            "+@gid": "1905707952",
+            "task": "Producer",
+            "person": {
+                "+content": "Yoshimi Suzuki",
+                "+@id": "201692"
             }
         }
     ],
@@ -705,6 +737,25 @@
             }
         }
     ],
+    "credit": [
+        {
+            "+@gid": "2947791675",
+            "task": "Production",
+            "company": {
+                "+content": "Tezuka Productions",
+                "+@id": "360"
+            }
+        },
+        {
+            "+@gid": "2523201892",
+            "task": "Production",
+            "company": {
+                "+content": "Planet Nemo Animation",
+                "+@id": "19043"
+            }
+        }
+    ],
     "+@date-added": "2019-11-11T20:47:30Z",
-    "+@date-last-updated-at": "2025-08-31T12:53:37Z"
+    "+@date-last-modified-at": "2025-09-30T16:39:23Z",
+    "+@date-last-updated-at": "2025-09-30T16:39:23Z"
 }
