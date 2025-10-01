@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Jujutsu Kaisen: Execution",
     "+@precision": "movie",
-    "+@generated-on": "2025-09-01T02:27:03Z",
+    "+@generated-on": "2025-10-01T04:35:29Z",
     "related-prev": {
         "+@rel": "compilation of",
         "+@id": "25346"
@@ -54,6 +54,16 @@
             "+@lang": "JA"
         },
         {
+            "+content": "action",
+            "+@gid": "445794672",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "supernatural",
+            "+@gid": "3202123369",
+            "+@type": "Genres"
+        },
+        {
             "+content": "2025-11-07",
             "+@type": "Vintage"
         },
@@ -73,6 +83,18 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://jujutsukaisen.jp/shibuyashimetsu/"
+        }
+    ],
+    "news": [
+        {
+            "+content": "<i>Jujutsu Kaisen</i> Compilation Film With Season 3 Preview Opens in N. America on December 5",
+            "+@datetime": "2025-08-31T13:48:05Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-31/jujutsu-kaisen-compilation-film-with-season-3-preview-opens-in-n-america-on-december-5/.228283"
+        },
+        {
+            "+content": "<cite>Jujutsu Kaisen : Execution</cite> Compilation Film's Trailer Previews Season 3 Footage, IMAX Plans",
+            "+@datetime": "2025-09-19T02:23:19Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-18/jujutsu-kaisen-execution-compilation-film-trailer-previews-season-3-footage-imax-plans/.228959"
         }
     ],
     "staff": [
@@ -150,6 +172,51 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "1616790036",
+            "+@lang": "EN",
+            "role": "Satoru Gojo",
+            "person": {
+                "+content": "Kaiji Tang",
+                "+@id": "70445"
+            }
+        },
+        {
+            "+@gid": "2747229463",
+            "+@lang": "EN",
+            "role": "Megumi Fushiguro",
+            "person": {
+                "+content": "Robbie Daymond",
+                "+@id": "127931"
+            }
+        },
+        {
+            "+@gid": "1403007791",
+            "+@lang": "EN",
+            "role": "Nobara Kugisaki",
+            "person": {
+                "+content": "Anne Yatco",
+                "+@id": "152297"
+            }
+        },
+        {
+            "+@gid": "2102702291",
+            "+@lang": "EN",
+            "role": "Yuuji Itadori",
+            "person": {
+                "+content": "Adam McArthur",
+                "+@id": "200259"
+            }
+        },
+        {
+            "+@gid": "3494827985",
+            "+@lang": "EN",
+            "role": "Yuta Okkotsu",
+            "person": {
+                "+content": "Kayleigh McKee",
+                "+@id": "208764"
+            }
+        },
         {
             "+@gid": "2505666085",
             "+@lang": "JA",
@@ -301,5 +368,6 @@
         }
     ],
     "+@date-added": "2025-08-31T18:02:42Z",
-    "+@date-last-updated-at": "2025-09-01T02:27:03Z"
+    "+@date-last-modified-at": "2025-10-01T04:35:34Z",
+    "+@date-last-updated-at": "2025-10-01T04:35:34Z"
 }
