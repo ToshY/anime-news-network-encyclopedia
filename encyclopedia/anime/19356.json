@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "March comes in like a lion",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-09-04T16:38:52Z",
+    "+@generated-on": "2025-10-04T20:29:46Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "18166"
@@ -14,9 +14,25 @@
             "+@gid": "1118624131",
             "+@type": "Picture",
             "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A19356-1118624131.1503414177.jpg",
-            "img": {
-                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A19356-1118624131.1503414177.jpg"
-            }
+            "+@width": "142",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A19356-1118624131.1503414177.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A19356-1118624131.1503414177.jpg",
+                    "+@width": "425",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A19356-1118624131.1503414177.jpg",
+                    "+@width": "468",
+                    "+@height": "661"
+                }
+            ]
         },
         {
             "+content": "March comes in like a lion",
@@ -134,8 +150,8 @@
     ],
     "ratings": {
         "+@nb_votes": "248",
-        "+@weighted_score": "8.3977",
-        "+@bayesian_score": "8.35168"
+        "+@weighted_score": "8.3978",
+        "+@bayesian_score": "8.35175"
     },
     "episode": [
         {
@@ -696,7 +712,7 @@
             "+@gid": "3433467658",
             "task": "Storyboard",
             "person": {
-                "+content": "Ryosuke Nakamura",
+                "+content": "Ryōsuke Nakamura",
                 "+@id": "20515"
             }
         },
@@ -840,7 +856,7 @@
             "+@gid": "1115066823",
             "task": "Unit Director",
             "person": {
-                "+content": "Ryosuke Nakamura",
+                "+content": "Ryōsuke Nakamura",
                 "+@id": "20515"
             }
         },
@@ -1356,6 +1372,6 @@
         }
     ],
     "+@date-added": "2017-03-19T21:04:07Z",
-    "+@date-last-modified-at": "2025-09-04T16:38:55Z",
-    "+@date-last-updated-at": "2025-09-04T16:38:55Z"
+    "+@date-last-modified-at": "2025-10-04T20:29:48Z",
+    "+@date-last-updated-at": "2025-10-04T20:29:48Z"
 }
