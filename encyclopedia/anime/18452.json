@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Soreike! Anpanman Omocha no Hoshi no Nanda to Runda",
     "+@precision": "movie",
-    "+@generated-on": "2025-09-05T16:35:11Z",
+    "+@generated-on": "2025-10-05T20:30:16Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "6690"
@@ -257,6 +257,15 @@
     ],
     "cast": [
         {
+            "+@gid": "2624140306",
+            "+@lang": "EN",
+            "role": "Nanda",
+            "person": {
+                "+content": "Lucien Dodge",
+                "+@id": "62696"
+            }
+        },
+        {
             "+@gid": "3424246323",
             "+@lang": "EN",
             "role": "Uncle Jam",
@@ -272,6 +281,15 @@
             "person": {
                 "+content": "Jason Kesser",
                 "+@id": "168405"
+            }
+        },
+        {
+            "+@gid": "3088741181",
+            "+@lang": "EN",
+            "role": "Baikinman",
+            "person": {
+                "+content": "Andrew Russell",
+                "+@id": "173873"
             }
         },
         {
@@ -371,6 +389,33 @@
             "person": {
                 "+content": "Amanda Lopez",
                 "+@id": "206730"
+            }
+        },
+        {
+            "+@gid": "648546278",
+            "+@lang": "EN",
+            "role": "Anpanman",
+            "person": {
+                "+content": "Ell",
+                "+@id": "243955"
+            }
+        },
+        {
+            "+@gid": "2097693381",
+            "+@lang": "EN",
+            "role": "Runda",
+            "person": {
+                "+content": "Brenna Larsen",
+                "+@id": "268318"
+            }
+        },
+        {
+            "+@gid": "2078124984",
+            "+@lang": "EN",
+            "role": "Cream Panda",
+            "person": {
+                "+content": "Mary Kate Wiles",
+                "+@id": "288164"
             }
         },
         {
@@ -683,5 +728,6 @@
         }
     ],
     "+@date-added": "2016-05-30T20:59:10Z",
-    "+@date-last-updated-at": "2025-09-05T16:35:14Z"
+    "+@date-last-modified-at": "2025-10-05T20:30:19Z",
+    "+@date-last-updated-at": "2025-10-05T20:30:19Z"
 }
