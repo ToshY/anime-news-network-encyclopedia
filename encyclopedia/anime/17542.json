@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Fist of the North Star: Strawberry Flavor",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-06T12:50:35Z",
+    "+@generated-on": "2025-10-06T20:32:34Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "17541"
@@ -263,6 +263,30 @@
                 "+content": "Haru Yamada",
                 "+@id": "135072"
             }
+        },
+        {
+            "+@gid": "2905934015",
+            "task": "Producer",
+            "person": {
+                "+content": "Naoki Miya",
+                "+@id": "48530"
+            }
+        },
+        {
+            "+@gid": "995519107",
+            "task": "Producer",
+            "person": {
+                "+content": "Mikihiro Miyashita",
+                "+@id": "81029"
+            }
+        },
+        {
+            "+@gid": "1747550281",
+            "task": "Producer",
+            "person": {
+                "+content": "Sachiko Inamoto",
+                "+@id": "182822"
+            }
         }
     ],
     "cast": [
@@ -375,15 +399,25 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "1217819835",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Ajiado",
-            "+@id": "7415"
+    "credit": [
+        {
+            "+@gid": "1217819835",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Ajiado",
+                "+@id": "7415"
+            }
+        },
+        {
+            "+@gid": "3690131454",
+            "task": "Production",
+            "company": {
+                "+content": "North Stars Pictures",
+                "+@id": "4686"
+            }
         }
-    },
+    ],
     "+@date-added": "2015-08-14T12:00:03Z",
-    "+@date-last-modified-at": "2025-09-06T12:50:37Z",
-    "+@date-last-updated-at": "2025-09-06T12:50:37Z"
+    "+@date-last-modified-at": "2025-10-06T20:32:37Z",
+    "+@date-last-updated-at": "2025-10-06T20:32:37Z"
 }
