@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "On and Off: Work-Life Imbalance",
     "+@precision": "manga",
-    "+@generated-on": "2025-09-05T08:37:52Z",
+    "+@generated-on": "2025-10-06T04:34:40Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "20821"
@@ -90,11 +90,18 @@
             "+@href": "https://comic.pixiv.net/works/10014"
         }
     ],
-    "release": {
-        "+content": "On and Off: Work-Life Imbalance  (GN 1)",
-        "+@date": "2025-06-03",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=53339"
-    },
+    "release": [
+        {
+            "+content": "On and Off: Work-Life Imbalance  (GN 1)",
+            "+@date": "2025-06-03",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=53339"
+        },
+        {
+            "+content": "On and Off: Work-Life Imbalance  (GN 2)",
+            "+@date": "2025-09-16",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=54925"
+        }
+    ],
     "news": [
         {
             "+content": "Manga Up! Global Adds Shinnosuke Kanazawa's <cite>On and Off: Work-Life Imbalance</cite> Manga",
@@ -115,6 +122,11 @@
             "+content": "<cite>On and Off: Work-Life Imbalance</cite> Manga Enters Hiatus",
             "+@datetime": "2025-07-28T20:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-07-28/on-and-off-work-life-imbalance-manga-enters-hiatus/.227072"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, September 14-20",
+            "+@datetime": "2025-09-18T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-18/north-american-anime-manga-releases-september-14-20/.228835"
         }
     ],
     "staff": {
@@ -126,5 +138,6 @@
         }
     },
     "+@date-added": "2023-12-31T12:10:23Z",
-    "+@date-last-updated-at": "2025-09-05T08:37:53Z"
+    "+@date-last-modified-at": "2025-10-06T04:34:41Z",
+    "+@date-last-updated-at": "2025-10-06T04:34:41Z"
 }
