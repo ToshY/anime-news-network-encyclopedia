@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Aikatsu!",
     "+@precision": "TV 3",
-    "+@generated-on": "2025-09-08T04:36:46Z",
+    "+@generated-on": "2025-10-08T08:40:27Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "15597"
@@ -279,7 +279,7 @@
     "ratings": {
         "+@nb_votes": "14",
         "+@weighted_score": "7.1558",
-        "+@bayesian_score": "7.30891"
+        "+@bayesian_score": "7.30867"
     },
     "episode": [
         {
@@ -1332,12 +1332,30 @@
     ],
     "cast": [
         {
+            "+@gid": "580926248",
+            "+@lang": "JA",
+            "role": "Haru Yotsuba",
+            "person": {
+                "+content": "Daisuke Hirakawa",
+                "+@id": "2177"
+            }
+        },
+        {
             "+@gid": "3831911399",
             "+@lang": "JA",
             "role": "Johnny Beppu",
             "person": {
                 "+content": "Makoto Yasumura",
                 "+@id": "13752"
+            }
+        },
+        {
+            "+@gid": "2839235381",
+            "+@lang": "JA",
+            "role": "Naoto Suzukawa",
+            "person": {
+                "+content": "Toshiyuki Toyonaga",
+                "+@id": "17817"
             }
         },
         {
@@ -1377,6 +1395,33 @@
             }
         },
         {
+            "+@gid": "197130744",
+            "+@lang": "JA",
+            "role": "Arisugawa Otome",
+            "person": {
+                "+content": "Tomoyo Kurosawa",
+                "+@id": "86495"
+            }
+        },
+        {
+            "+@gid": "3197380778",
+            "+@lang": "JA",
+            "role": "Tsubasa Sena",
+            "person": {
+                "+content": "Atsushi Tamaru",
+                "+@id": "96013"
+            }
+        },
+        {
+            "+@gid": "3735980191",
+            "+@lang": "JA",
+            "role": "Tokui Toku",
+            "person": {
+                "+content": "Kenta Matsumoto",
+                "+@id": "99672"
+            }
+        },
+        {
             "+@gid": "886720682",
             "+@lang": "JA",
             "role": "Sakura Kitaōji",
@@ -1392,6 +1437,24 @@
             "person": {
                 "+content": "Kotori Koiwai",
                 "+@id": "104166"
+            }
+        },
+        {
+            "+@gid": "2060658558",
+            "+@lang": "JA",
+            "role": "Ran Shibuki",
+            "person": {
+                "+content": "Ayaka Ōhashi",
+                "+@id": "108470"
+            }
+        },
+        {
+            "+@gid": "539524599",
+            "+@lang": "JA",
+            "role": "Aoi Kiriya",
+            "person": {
+                "+content": "Azusa Tadokoro",
+                "+@id": "112367"
             }
         },
         {
@@ -1502,6 +1565,6 @@
         }
     ],
     "+@date-added": "2014-07-30T12:32:29Z",
-    "+@date-last-modified-at": "2025-09-08T04:36:50Z",
-    "+@date-last-updated-at": "2025-09-08T04:36:50Z"
+    "+@date-last-modified-at": "2025-10-08T08:40:31Z",
+    "+@date-last-updated-at": "2025-10-08T08:40:31Z"
 }
