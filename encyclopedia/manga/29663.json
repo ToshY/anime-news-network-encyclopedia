@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "DT Tensei",
     "+@precision": "manga",
-    "+@generated-on": "2025-09-09T20:31:58Z",
+    "+@generated-on": "2025-10-10T20:32:20Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "19627"
@@ -53,16 +53,28 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2023-08-25 (serialized in Monthly Shonen Sirius)",
+            "+content": "fantasy",
+            "+@gid": "3079607461",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "2023-08-25 to 2025-10-24 (serialized in Monthly Shonen Sirius)",
             "+@gid": "3104504097",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Ira Ishida, Shutaro Yamada Launch New Manga",
-        "+@datetime": "2023-07-26T21:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2023-07-26/ira-ishida-shutaro-yamada-launch-new-manga/.200676"
-    },
+    "news": [
+        {
+            "+content": "Ira Ishida, Shutaro Yamada Launch New Manga",
+            "+@datetime": "2023-07-26T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2023-07-26/ira-ishida-shutaro-yamada-launch-new-manga/.200676"
+        },
+        {
+            "+content": "<cite>DT Tensei</cite> Manga Ends in Next Chapter",
+            "+@datetime": "2025-09-26T19:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-26/dt-tensei-manga-ends-in-next-chapter/.229342"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2091215790",
@@ -82,5 +94,6 @@
         }
     ],
     "+@date-added": "2023-08-29T20:15:38Z",
-    "+@date-last-updated-at": "2025-09-09T20:31:59Z"
+    "+@date-last-modified-at": "2025-10-10T20:32:21Z",
+    "+@date-last-updated-at": "2025-10-10T20:32:21Z"
 }

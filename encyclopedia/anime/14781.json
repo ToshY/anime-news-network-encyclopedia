@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Chihayafuru 2",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-10T12:56:34Z",
+    "+@generated-on": "2025-10-10T20:32:24Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "12991"
@@ -67,6 +67,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "tournament",
+            "+@gid": "2646707913",
+            "+@type": "Genres"
+        },
+        {
             "+content": "card games",
             "+@gid": "4039852993",
             "+@type": "Themes"
@@ -85,6 +90,16 @@
             "+content": "After an exciting year for the Mizusawa High School karuta club, a new semester begins as two new members join the group. More passionate than ever for the old card game, Chihaya sets ambitious goals for herself and for her friends. They compete in two extremely arduous high school championships.",
             "+@gid": "2289184183",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "3860169323",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "25",
+            "+@gid": "953225933",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2013-01-11 to 2013-06-28",
@@ -111,8 +126,8 @@
     ],
     "ratings": {
         "+@nb_votes": "793",
-        "+@weighted_score": "8.0434",
-        "+@bayesian_score": "8.03421"
+        "+@weighted_score": "8.0417",
+        "+@bayesian_score": "8.03253"
     },
     "episode": [
         {
@@ -312,6 +327,14 @@
             "title": {
                 "+content": "Perfect Whiteness on Fuji's Lofty Peak by a Drift of Falling Snow",
                 "+@gid": "2767792105",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "26",
+            "title": {
+                "+content": "During My Forlorn Years in This World",
+                "+@gid": "671310600",
                 "+@lang": "EN"
             }
         }
@@ -1280,6 +1303,6 @@
         }
     ],
     "+@date-added": "2012-09-13T12:03:46Z",
-    "+@date-last-modified-at": "2025-09-10T12:56:36Z",
-    "+@date-last-updated-at": "2025-09-10T12:56:36Z"
+    "+@date-last-modified-at": "2025-10-10T20:32:26Z",
+    "+@date-last-updated-at": "2025-10-10T20:32:26Z"
 }
