@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Boku wa Tomodachi ga Sukunai",
     "+@precision": "OAV",
-    "+@generated-on": "2025-09-12T01:57:56Z",
+    "+@generated-on": "2025-10-12T04:33:37Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "12100"
@@ -18,9 +18,20 @@
             "+@gid": "699955191",
             "+@type": "Picture",
             "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A13249-7.jpg",
-            "img": {
-                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A13249-7.jpg"
-            }
+            "+@width": "143",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A13249-7.jpg",
+                    "+@width": "143",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A13249-7.jpg",
+                    "+@width": "200",
+                    "+@height": "279"
+                }
+            ]
         },
         {
             "+content": "Boku wa Tomodachi ga Sukunai",
@@ -78,8 +89,8 @@
     ],
     "ratings": {
         "+@nb_votes": "280",
-        "+@weighted_score": "6.3531",
-        "+@bayesian_score": "6.40282"
+        "+@weighted_score": "6.3532",
+        "+@bayesian_score": "6.40289"
     },
     "news": {
         "+content": "<cite>Haganai</cite> Gets New Original Video Anime on September 26",
@@ -91,7 +102,7 @@
             "+@gid": "972873344",
             "task": "Director",
             "person": {
-                "+content": "Hisashi Saito",
+                "+content": "Hisashi Saitō",
                 "+@id": "13900"
             }
         },
@@ -276,6 +287,6 @@
         }
     ],
     "+@date-added": "2011-07-21T11:07:12Z",
-    "+@date-last-modified-at": "2025-09-12T01:57:58Z",
-    "+@date-last-updated-at": "2025-09-12T01:57:58Z"
+    "+@date-last-modified-at": "2025-10-12T04:33:39Z",
+    "+@date-last-updated-at": "2025-10-12T04:33:39Z"
 }
