@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "And Yet the Town Moves",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-13T12:51:03Z",
+    "+@generated-on": "2025-10-13T16:39:41Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "6987"
@@ -14,9 +14,20 @@
             "+@gid": "2800488923",
             "+@type": "Picture",
             "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A11511-32.jpg",
-            "img": {
-                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A11511-32.jpg"
-            }
+            "+@width": "142",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A11511-32.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A11511-32.jpg",
+                    "+@width": "319",
+                    "+@height": "450"
+                }
+            ]
         },
         {
             "+content": "And Yet the Town Moves",
@@ -118,8 +129,8 @@
     ],
     "ratings": {
         "+@nb_votes": "377",
-        "+@weighted_score": "7.5046",
-        "+@bayesian_score": "7.50357"
+        "+@weighted_score": "7.5047",
+        "+@bayesian_score": "7.50364"
     },
     "episode": [
         {
@@ -1037,6 +1048,6 @@
         }
     ],
     "+@date-added": "2010-04-30T10:20:20Z",
-    "+@date-last-modified-at": "2025-09-13T12:51:07Z",
-    "+@date-last-updated-at": "2025-09-13T12:51:07Z"
+    "+@date-last-modified-at": "2025-10-13T16:39:43Z",
+    "+@date-last-updated-at": "2025-10-13T16:39:43Z"
 }
