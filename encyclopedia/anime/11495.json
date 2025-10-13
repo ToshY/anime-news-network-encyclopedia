@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Rita et Machin",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-13T12:51:04Z",
+    "+@generated-on": "2025-10-13T20:32:35Z",
     "info": [
         {
             "+@gid": "3339623230",
@@ -1009,14 +1009,49 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "3334451811",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Nippon Animation",
-            "+@id": "272"
+    "credit": [
+        {
+            "+@gid": "3334451811",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Nippon Animation",
+                "+@id": "272"
+            }
+        },
+        {
+            "+@gid": "3915115046",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon Animation",
+                "+@id": "272"
+            }
+        },
+        {
+            "+@gid": "1313104674",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon Columbia",
+                "+@id": "694"
+            }
+        },
+        {
+            "+@gid": "2010456897",
+            "task": "Production",
+            "company": {
+                "+content": "NHK Enterprises",
+                "+@id": "1177"
+            }
+        },
+        {
+            "+@gid": "2823538613",
+            "task": "Production",
+            "company": {
+                "+content": "Planet Nemo Animation",
+                "+@id": "19043"
+            }
         }
-    },
+    ],
     "+@date-added": "2010-04-28T17:17:14Z",
-    "+@date-last-updated-at": "2025-09-13T12:51:07Z"
+    "+@date-last-modified-at": "2025-10-13T20:32:38Z",
+    "+@date-last-updated-at": "2025-10-13T20:32:38Z"
 }
