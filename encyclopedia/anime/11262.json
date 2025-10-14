@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "K-ON!!",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-09-14T04:33:48Z",
+    "+@generated-on": "2025-10-14T08:38:19Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "10562"
@@ -18,9 +18,20 @@
             "+@gid": "2147632585",
             "+@type": "Picture",
             "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A11262-24.jpg",
-            "img": {
-                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A11262-24.jpg"
-            }
+            "+@width": "175",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A11262-24.jpg",
+                    "+@width": "175",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A11262-24.jpg",
+                    "+@width": "244",
+                    "+@height": "279"
+                }
+            ]
         },
         {
             "+content": "K-ON!!",
@@ -194,8 +205,8 @@
     ],
     "ratings": {
         "+@nb_votes": "1864",
-        "+@weighted_score": "7.5987",
-        "+@bayesian_score": "7.59783"
+        "+@weighted_score": "7.5988",
+        "+@bayesian_score": "7.59793"
     },
     "episode": [
         {
@@ -1700,6 +1711,6 @@
         }
     ],
     "+@date-added": "2010-01-29T13:04:33Z",
-    "+@date-last-modified-at": "2025-09-14T04:33:52Z",
-    "+@date-last-updated-at": "2025-09-14T04:33:52Z"
+    "+@date-last-modified-at": "2025-10-14T08:38:20Z",
+    "+@date-last-updated-at": "2025-10-14T08:38:20Z"
 }
