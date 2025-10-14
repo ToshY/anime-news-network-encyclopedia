@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "xxxHOLiC: Rō",
     "+@precision": "OAV",
-    "+@generated-on": "2025-09-13T20:29:05Z",
+    "+@generated-on": "2025-10-14T02:02:17Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "10583"
@@ -101,7 +101,7 @@
     "ratings": {
         "+@nb_votes": "374",
         "+@weighted_score": "7.9816",
-        "+@bayesian_score": "7.96454"
+        "+@bayesian_score": "7.96451"
     },
     "news": {
         "+content": "<cite>XXXHOLiC: Rei</cite> Manga to Bundle Original Anime Blu-ray",
@@ -188,6 +188,14 @@
                 "+content": "Kouhei Konishi",
                 "+@id": "78457"
             }
+        },
+        {
+            "+@gid": "1711816120",
+            "task": "Producer",
+            "person": {
+                "+content": "Takeshi Katsurada",
+                "+@id": "117572"
+            }
         }
     ],
     "cast": [
@@ -264,15 +272,25 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "3493096594",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Production I.G",
-            "+@id": "337"
+    "credit": [
+        {
+            "+@gid": "3493096594",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Production I.G",
+                "+@id": "337"
+            }
+        },
+        {
+            "+@gid": "2244180557",
+            "task": "Production",
+            "company": {
+                "+content": "Kodansha",
+                "+@id": "88"
+            }
         }
-    },
+    ],
     "+@date-added": "2010-03-27T17:24:44Z",
-    "+@date-last-modified-at": "2025-09-13T20:29:08Z",
-    "+@date-last-updated-at": "2025-09-13T20:29:08Z"
+    "+@date-last-modified-at": "2025-10-14T02:02:19Z",
+    "+@date-last-updated-at": "2025-10-14T02:02:19Z"
 }
