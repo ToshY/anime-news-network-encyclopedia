@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Reporter Blues",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-16T01:59:42Z",
+    "+@generated-on": "2025-10-16T16:41:07Z",
     "info": [
         {
             "+@gid": "1478897972",
@@ -124,7 +124,7 @@
     ],
     "ratings": {
         "+@nb_votes": "3",
-        "+@weighted_score": "6.712"
+        "+@weighted_score": "6.7124"
     },
     "episode": [
         {
@@ -541,14 +541,25 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "4136624083",
-        "task": "Animation Production",
-        "company": {
-            "+content": "TMS Entertainment",
-            "+@id": "292"
+    "credit": [
+        {
+            "+@gid": "4136624083",
+            "task": "Animation Production",
+            "company": {
+                "+content": "TMS Entertainment",
+                "+@id": "292"
+            }
+        },
+        {
+            "+@gid": "3361343259",
+            "task": "Production",
+            "company": {
+                "+content": "TMS Entertainment",
+                "+@id": "292"
+            }
         }
-    },
+    ],
     "+@date-added": "2008-01-10T03:30:18Z",
-    "+@date-last-updated-at": "2025-09-16T01:59:45Z"
+    "+@date-last-modified-at": "2025-10-16T16:41:08Z",
+    "+@date-last-updated-at": "2025-10-16T16:41:08Z"
 }
