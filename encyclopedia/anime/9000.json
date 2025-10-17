@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Kanokon: The Girl Who Cried Fox",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-16T08:40:33Z",
+    "+@generated-on": "2025-10-17T02:02:50Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "13828"
@@ -18,9 +18,20 @@
             "+@gid": "2122218549",
             "+@type": "Picture",
             "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A9000-26.jpg",
-            "img": {
-                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A9000-26.jpg"
-            }
+            "+@width": "200",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A9000-26.jpg",
+                    "+@width": "200",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A9000-26.jpg",
+                    "+@width": "220",
+                    "+@height": "220"
+                }
+            ]
         },
         {
             "+content": "Kanokon: The Girl Who Cried Fox",
@@ -1082,6 +1093,6 @@
         }
     ],
     "+@date-added": "2007-11-22T04:41:35Z",
-    "+@date-last-modified-at": "2025-09-16T08:40:36Z",
-    "+@date-last-updated-at": "2025-09-16T08:40:36Z"
+    "+@date-last-modified-at": "2025-10-17T02:02:53Z",
+    "+@date-last-updated-at": "2025-10-17T02:02:53Z"
 }
