@@ -2,9 +2,9 @@
     "+@id": "27451",
     "+@gid": "3603416491",
     "+@type": "manga",
-    "+@name": "Sabae to Yattara Owaru",
+    "+@name": "Sabae is Just a Friend, Maybe",
     "+@precision": "manga",
-    "+@generated-on": "2025-09-16T04:34:35Z",
+    "+@generated-on": "2025-10-17T12:58:58Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "26633"
@@ -39,9 +39,15 @@
             ]
         },
         {
+            "+content": "Sabae is Just a Friend, Maybe",
+            "+@gid": "1698700229",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Sabae to Yattara Owaru",
             "+@gid": "3134751610",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -53,6 +59,11 @@
         {
             "+content": "comedy",
             "+@gid": "2420022709",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "slice of life",
+            "+@gid": "142780275",
             "+@type": "Genres"
         },
         {
@@ -68,6 +79,11 @@
             "+@href": "https://kuragebunch.com/episode/10834108156689698471"
         }
     ],
+    "news": {
+        "+content": "Emaqi Service Releases <cite>'Sabae is Just a Friend, Maybe'</cite> Manga in English (Updated)",
+        "+@datetime": "2025-09-19T14:00:00Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-09-19/emaqi-service-releases-sabae-is-just-a-friend-maybe-manga-in-english/.228981"
+    },
     "staff": {
         "+@gid": "913484807",
         "task": "Story & Art",
@@ -77,5 +93,6 @@
         }
     },
     "+@date-added": "2023-03-17T23:42:43Z",
-    "+@date-last-updated-at": "2025-09-16T04:34:37Z"
+    "+@date-last-modified-at": "2025-10-17T12:58:59Z",
+    "+@date-last-updated-at": "2025-10-17T12:58:59Z"
 }
