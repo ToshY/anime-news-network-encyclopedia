@@ -1,0 +1,38 @@
+name: Blacklist non-API entries
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 1,15 * *'
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    strategy:
+      matrix:
+        category:
+          - anime
+          - manga
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Install Task
+        uses: go-task/setup-task@v1
+        with:
+          version: 3.x
+
+      - name: Regenerate blacklist files
+        run: task blacklist:generate -c ${{ matrix.category }}
+
+      - name: Commit changes
+        id: auto-commit-action
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          file_pattern: 'encyclopedia_updater/${{matrix.category}}/*.json'
+          commit_message: Update blacklists for ${{ matrix.category }} category

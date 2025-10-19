@@ -13,7 +13,7 @@ COPY requirements.txt ./
 RUN <<EOT bash
   apt-get update
   apt install -y git wget
-  wget https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_amd64 -O /usr/bin/yq
+  wget https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_amd64 -O /usr/bin/yq
   chmod +x /usr/bin/yq
   wget https://github.com/jqlang/jq/releases/download/jq-1.8.1/jq-linux-amd64 -O /usr/bin/jq
   chmod +x /usr/bin/jq
