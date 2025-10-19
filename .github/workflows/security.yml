@@ -30,3 +30,4 @@ jobs:
 
       - name: Pip audit
         uses: pypa/gh-action-pip-audit@v1.1.0
+        continue-on-error: true # until pip 25.3 is released
