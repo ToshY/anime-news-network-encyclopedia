@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Yamishibai: Japanese Ghost Stories",
     "+@precision": "TV 15/2025",
-    "+@generated-on": "2025-09-19T08:38:02Z",
+    "+@generated-on": "2025-10-19T16:34:13Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "34101"
@@ -14,9 +14,20 @@
             "+@gid": "544397303",
             "+@type": "Picture",
             "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36440-544397303.1749272040.jpg",
-            "img": {
-                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36440-544397303.1749272040.jpg"
-            }
+            "+@width": "140",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36440-544397303.1749272040.jpg",
+                    "+@width": "140",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36440-544397303.1749272040.jpg",
+                    "+@width": "290",
+                    "+@height": "413"
+                }
+            ]
         },
         {
             "+content": "Yamishibai: Japanese Ghost Stories",
@@ -54,6 +65,10 @@
             "+@href": "https://www.tv-tokyo.co.jp/anime/yamishibai15/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "5",
+        "+@weighted_score": "5.9978"
+    },
     "news": {
         "+content": "Crunchyroll to Stream <cite>Mr. Osomatsu</cite> Season 4, <cite>Puniru is a Kawaii Slime</cite> Season 2, <cite>Tougen Anki</cite> Anime",
         "+@datetime": "2025-07-02T01:22:09Z",
@@ -159,6 +174,6 @@
         }
     },
     "+@date-added": "2025-06-07T00:51:44Z",
-    "+@date-last-modified-at": "2025-09-19T08:38:04Z",
-    "+@date-last-updated-at": "2025-09-19T08:38:04Z"
+    "+@date-last-modified-at": "2025-10-19T16:35:09Z",
+    "+@date-last-updated-at": "2025-10-19T16:35:09Z"
 }

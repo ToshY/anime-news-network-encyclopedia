@@ -2,22 +2,41 @@
     "+@id": "36448",
     "+@gid": "3593253598",
     "+@type": "movie",
-    "+@name": "Love Live! Hasu no Sora Jogakuin School Idol Club",
+    "+@name": "Love Live! Hasu no Sora Jogakuin School Idol Club Bloom Garden Party",
     "+@precision": "movie",
-    "+@generated-on": "2025-09-19T08:38:02Z",
+    "+@generated-on": "2025-10-19T16:34:13Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "34075"
     },
     "info": [
         {
-            "+content": "Love Live! Hasu no Sora Jogakuin School Idol Club",
+            "+@gid": "2390099812",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36448-2390099812.1759724104.jpg",
+            "+@width": "142",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36448-2390099812.1759724104.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36448-2390099812.1759724104.jpg",
+                    "+@width": "426",
+                    "+@height": "600"
+                }
+            ]
+        },
+        {
+            "+content": "Love Live! Hasu no Sora Jogakuin School Idol Club Bloom Garden Party",
             "+@gid": "1583598761",
             "+@type": "Main title",
             "+@lang": "JA"
         },
         {
-            "+content": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ",
+            "+content": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party",
             "+@gid": "2212529466",
             "+@type": "Alternative title",
             "+@lang": "JA"
@@ -31,13 +50,32 @@
             "+content": "school",
             "+@gid": "3073096810",
             "+@type": "Themes"
+        },
+        {
+            "+content": "2026 (spring)",
+            "+@gid": "2582197353",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "映画『ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party』公式サイト",
+            "+@gid": "3246784325",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://www.lovelive-anime.jp/hasunosora/"
         }
     ],
-    "news": {
-        "+content": "<cite>Love Live!'s</cite> Hasu no Sora Jōgakuin School Idol Club Group Gets 3D Anime Film",
-        "+@datetime": "2025-06-08T13:35:31Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-06-08/love-live-s-hasu-no-sora-jogakuin-school-idol-club-group-gets-3d-anime-film/.225312"
-    },
+    "news": [
+        {
+            "+content": "<cite>Love Live!'s</cite> Hasu no Sora Jōgakuin School Idol Club Group Gets 3D Anime Film",
+            "+@datetime": "2025-06-08T13:35:31Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-08/love-live-s-hasu-no-sora-jogakuin-school-idol-club-group-gets-3d-anime-film/.225312"
+        },
+        {
+            "+content": "<cite>Love Live!'s</cite> Hasu no Sora Jōgakuin School Idol Club 3D Anime Film Unveils Title, Spring 2026 Debut",
+            "+@datetime": "2025-10-06T03:17:59Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-05/love-live-s-hasu-no-sora-jogakuin-school-idol-club-3d-anime-film-unveils-title-spring-2026-debut/.229655"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2449549454",
@@ -53,6 +91,14 @@
             "person": {
                 "+content": "Hajime Yatate",
                 "+@id": "19"
+            }
+        },
+        {
+            "+@gid": "2613498984",
+            "task": "Character Design",
+            "person": {
+                "+content": "Haruko Iizuka",
+                "+@id": "30827"
             }
         }
     ],
@@ -82,6 +128,24 @@
             "person": {
                 "+content": "Kokona Nonaka",
                 "+@id": "220131"
+            }
+        },
+        {
+            "+@gid": "2369412739",
+            "+@lang": "JA",
+            "role": "Kozue Otomune",
+            "person": {
+                "+content": "Niina Hanamiya",
+                "+@id": "227099"
+            }
+        },
+        {
+            "+@gid": "2479615820",
+            "+@lang": "JA",
+            "role": "Tsuzuri Yūgiri",
+            "person": {
+                "+content": "Kotoko Sasaki",
+                "+@id": "227453"
             }
         },
         {
@@ -128,8 +192,52 @@
                 "+content": "Kanna Kan",
                 "+@id": "283763"
             }
+        },
+        {
+            "+@gid": "3345008823",
+            "+@lang": "JA",
+            "role": "Megumi Fujishima",
+            "person": {
+                "+content": "Kona Tsukine",
+                "+@id": "289212"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "962308863",
+            "task": "Production",
+            "company": {
+                "+content": "Kadokawa",
+                "+@id": "15420"
+            }
+        },
+        {
+            "+@gid": "1202240961",
+            "task": "Production",
+            "company": {
+                "+content": "Bushiroad",
+                "+@id": "15513"
+            }
+        },
+        {
+            "+@gid": "1586644954",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Namco Music Live",
+                "+@id": "22617"
+            }
+        },
+        {
+            "+@gid": "1981667721",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Namco Filmworks",
+                "+@id": "22618"
+            }
         }
     ],
     "+@date-added": "2025-06-08T22:19:13Z",
-    "+@date-last-updated-at": "2025-09-19T08:38:04Z"
+    "+@date-last-modified-at": "2025-10-19T16:35:09Z",
+    "+@date-last-updated-at": "2025-10-19T16:35:09Z"
 }

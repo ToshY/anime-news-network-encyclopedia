@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Whoever Steals This Book",
     "+@precision": "movie",
-    "+@generated-on": "2025-09-19T08:38:02Z",
+    "+@generated-on": "2025-10-19T16:34:13Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "35778"
@@ -13,18 +13,18 @@
         {
             "+@gid": "1767900434",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36393-1767900434.1748949810.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36393-1767900434.1760574742.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36393-1767900434.1748949810.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36393-1767900434.1760574742.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36393-1767900434.1748949810.jpg",
-                    "+@width": "425",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36393-1767900434.1760574742.jpg",
+                    "+@width": "424",
                     "+@height": "600"
                 }
             ]
@@ -34,6 +34,12 @@
             "+@gid": "1657511004",
             "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Kono Hon o Nusumu Mono wa",
+            "+@gid": "2046365968",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
         },
         {
             "+content": "Kono Hon wo Nusumu Mono wa",
@@ -83,6 +89,11 @@
             "+content": "<cite>Whoever Steals This Book</cite> Anime Film Debuts on December 26",
             "+@datetime": "2025-07-31T09:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-07-31/whoever-steals-this-book-anime-film-debuts-on-december-26/.227204"
+        },
+        {
+            "+content": "<cite>Whoever Steals This Book</cite> Anime Film's New Trailer Reveals Cast, More Staff, Theme Song",
+            "+@datetime": "2025-10-16T00:27:14Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-15/whoever-steals-this-book-anime-film-new-trailer-reveals-cast-more-staff-theme-song/.229990"
         }
     ],
     "staff": [
@@ -100,6 +111,22 @@
             "person": {
                 "+content": "Yasuhiro Nakanishi",
                 "+@id": "205170"
+            }
+        },
+        {
+            "+@gid": "1616209320",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Daiki Fukuoka",
+                "+@id": "231455"
+            }
+        },
+        {
+            "+@gid": "3345133299",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Daiki Fukuoka",
+                "+@id": "231455"
             }
         },
         {
@@ -133,16 +160,116 @@
                 "+content": "Keiko Kurosawa",
                 "+@id": "79137"
             }
+        },
+        {
+            "+@gid": "3161881843",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Fumiyuki Go",
+                "+@id": "134277"
+            }
+        },
+        {
+            "+@gid": "377787362",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Kōji Ichikawa",
+                "+@id": "110236"
+            }
+        },
+        {
+            "+@gid": "2590491797",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yuichiro Tozawa",
+                "+@id": "72123"
+            }
         }
     ],
-    "credit": {
-        "+@gid": "1258834021",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Kagome Company",
-            "+@id": "24029"
+    "cast": [
+        {
+            "+@gid": "1313147708",
+            "+@lang": "JA",
+            "role": "Tamaki Mikura",
+            "person": {
+                "+content": "Romi Park",
+                "+@id": "5108"
+            }
+        },
+        {
+            "+@gid": "2076612199",
+            "+@lang": "JA",
+            "role": "Ayumu Mikura",
+            "person": {
+                "+content": "Junichi Suwabe",
+                "+@id": "48696"
+            }
+        },
+        {
+            "+@gid": "2842205141",
+            "+@lang": "JA",
+            "role": "Hirune Mikura",
+            "person": {
+                "+content": "Nao Tōyama",
+                "+@id": "95316"
+            }
+        },
+        {
+            "+@gid": "2084124688",
+            "+@lang": "JA",
+            "role": "Takafumi Haruta",
+            "person": {
+                "+content": "Shimba Tsuchiya",
+                "+@id": "121607"
+            }
+        },
+        {
+            "+@gid": "1865697635",
+            "+@lang": "JA",
+            "role": "Keiko Yosano",
+            "person": {
+                "+content": "Shizuka Itō",
+                "+@id": "249200"
+            }
+        },
+        {
+            "+@gid": "2493692978",
+            "+@lang": "JA",
+            "role": "Mifuyu Mikura",
+            "person": {
+                "+content": "Rin Kataoka",
+                "+@id": "289686"
+            }
+        },
+        {
+            "+@gid": "2076569908",
+            "+@lang": "JA",
+            "role": "Mashiro",
+            "person": {
+                "+content": "Sora Tamaki",
+                "+@id": "289687"
+            }
         }
-    },
+    ],
+    "credit": [
+        {
+            "+@gid": "1258834021",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Kagome Company",
+                "+@id": "24029"
+            }
+        },
+        {
+            "+@gid": "1158980198",
+            "task": "Production",
+            "company": {
+                "+content": "Kadokawa",
+                "+@id": "15420"
+            }
+        }
+    ],
     "+@date-added": "2025-06-03T07:22:26Z",
-    "+@date-last-updated-at": "2025-09-19T08:38:04Z"
+    "+@date-last-modified-at": "2025-10-19T16:35:09Z",
+    "+@date-last-updated-at": "2025-10-19T16:35:09Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Shin-Gekijōban Gintama: Yoshiwara Daienjō",
     "+@precision": "movie",
-    "+@generated-on": "2025-09-19T04:34:44Z",
+    "+@generated-on": "2025-10-19T16:34:12Z",
     "related-prev": {
         "+@rel": "compilation of",
         "+@id": "6236"
@@ -52,9 +52,13 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026",
-            "+@gid": "1431603803",
+            "+content": "2026-02-13",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2026-02-13 (Japan)",
+            "+@gid": "2260512206",
+            "+@type": "Premiere date"
         },
         {
             "+content": "映画『新劇場版 銀魂 -吉原大炎上-』公式サイト",
@@ -64,11 +68,18 @@
             "+@href": "https://wwws.warnerbros.co.jp/shingintamamovie/"
         }
     ],
-    "news": {
-        "+content": "<cite>Gintama</cite> Anime Announces Yoshiwara in Flames Compilation Film With New Animated Scenes",
-        "+@datetime": "2025-08-17T03:01:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-08-16/gintama-anime-announces-yoshiwara-in-flames-compilation-film-with-new-animated-scenes/.227708"
-    },
+    "news": [
+        {
+            "+content": "<cite>Gintama</cite> Anime Announces Yoshiwara in Flames Compilation Film With New Animated Scenes",
+            "+@datetime": "2025-08-17T03:01:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-16/gintama-anime-announces-yoshiwara-in-flames-compilation-film-with-new-animated-scenes/.227708"
+        },
+        {
+            "+content": "<cite>Gintama</cite> 'Yoshiwara in Flames' Compilation Film Opens on February 13",
+            "+@datetime": "2025-10-10T00:43:53Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-09/gintama-yoshiwara-in-flames-compilation-film-opens-on-february-13/.229801"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1692602935",
@@ -149,5 +160,6 @@
         }
     },
     "+@date-added": "2025-08-17T00:44:38Z",
-    "+@date-last-updated-at": "2025-09-19T04:34:47Z"
+    "+@date-last-modified-at": "2025-10-19T16:35:09Z",
+    "+@date-last-updated-at": "2025-10-19T16:35:09Z"
 }
