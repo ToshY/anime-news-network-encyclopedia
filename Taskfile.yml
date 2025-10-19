@@ -55,6 +55,128 @@ tasks:
           sleep 1
         done
 
+  # Blacklist
+  blacklist:generate:
+    desc: Uses jq and curl to check the status of related entries against the ANN API and updates temporary JSON blacklist/whitelist files.
+    silent: true
+    vars:
+      ITEM: '{{.c | default "anime"}}'
+    cmds:
+      - |
+        REPORT_FILE=reports/{{.ITEM}}/report.json
+        
+        WHITELIST=encyclopedia_updater/{{.ITEM}}/whitelist.json
+        WHITELIST_TEMP=encyclopedia_updater/{{.ITEM}}/whitelist_temp.json
+        BLACKLIST=encyclopedia_updater/{{.ITEM}}/blacklist.json
+        BLACKLIST_TEMP=encyclopedia_updater/{{.ITEM}}/blacklist_temp.json
+
+        echo '[]' > ${WHITELIST_TEMP}
+        echo '[]' > ${BLACKLIST_TEMP}
+  
+        jq '
+            map(
+                select(type == "object" and has("name")) |
+                select(.name | type == "string" and test("\\(([^)]+)\\)\\s*$")) |
+                (.name | scan("\\(([^)]+)\\)\\s*$") | .[0]) as $bracket_value |
+                # FIX: Corrected .[0].id to .id
+                {id: .id, bracket_value: $bracket_value} 
+            )
+            | group_by(.bracket_value)
+            | map({
+                bracket_value: .[0].bracket_value,
+                test_id: .[0].id
+              })
+            | .[] | "\(.bracket_value)\t\(.test_id)"
+          ' ${REPORT_FILE} -r |
+        
+        while IFS=$'\t' read -r bracket_value test_id; do
+            API_URL="https://cdn.animenewsnetwork.com/encyclopedia/api.xml?title=${test_id}"
+            RESPONSE=$(curl -s "$API_URL")
+            
+            if echo "$RESPONSE" | grep -q '<ann><warning>no result for title='; then
+                printf "\033[33mBLACK: %s\033[0m\n" "$bracket_value"
+                jq --arg val "$bracket_value" '. + [$val]' "${BLACKLIST_TEMP}" > "${BLACKLIST_TEMP}.tmp" && mv "${BLACKLIST_TEMP}.tmp" "${BLACKLIST_TEMP}"
+            else
+                printf "\033[32mWHITELIST: %s\033[0m\n" "$bracket_value"
+                jq --arg val "$bracket_value" '. + [$val]' "${WHITELIST_TEMP}" > "${WHITELIST_TEMP}.tmp" && mv "${WHITELIST_TEMP}.tmp" "${WHITELIST_TEMP}"
+            fi
+        done
+  
+        printf "\033[32mWriting final whitelist: %s\033[0m\n" "${WHITELIST}"
+        mv "${WHITELIST_TEMP}" "${WHITELIST}"
+  
+        printf "\033[33mWriting final blacklist: %s\033[0m\n" "${BLACKLIST}"
+        mv "${BLACKLIST_TEMP}" "${BLACKLIST}"
+
+  blacklist:cleanup:
+    desc: Cleanup existing entries that are blacklisted and not available in the API
+    summary: |
+      Usage: 
+      
+      # Dry run
+      task blacklist:cleanup d=true
+      
+      # Remove files
+      task blacklist:cleanup d=false
+    silent: true
+    requires:
+      vars:
+        - name: dry
+          enum:
+            - true
+            - false
+    cmds:
+      - for: ['anime', 'manga']
+        cmd: |
+              RELATED_IDS=($(\
+                jq --slurpfile W encyclopedia_updater/{{.ITEM}}/whitelist.json '
+                  map(
+                    select(type == "object" and has("name")) |
+                    select(.name | type == "string" and test("\\(([^)]+)\\)\\s*$")) |
+                    (.name | scan("\\(([^)]+)\\)\\s*$") | .[0]) as $bracket_value |
+                    select($bracket_value | IN(($W[0] // [])[]) | not) |
+                    {id: .id, bracket_value: $bracket_value}
+                  )
+                  | group_by(.bracket_value)
+                  | map(map(.id))
+                  | flatten
+                  | join(" ")
+                ' reports/{{.ITEM}}/report.json -r \
+              ))
+              
+              for id in "${RELATED_IDS[@]}"; do
+                if [ -z "$id" ]; then
+                  continue
+                fi
+      
+                FILE_PATH="encyclopedia/{{.ITEM}}/${id}.json"
+                
+                if [ -f "$FILE_PATH" ]; then
+                  printf "\033[33m{{if eq .dry "true"}}[DRY-RUN] {{end}}Removing blacklisted entry: %s\033[0m\n" "$FILE_PATH"
+                  {{if eq .dry "false"}}rm "$FILE_PATH"{{end}}
+                fi
+              done
+
+  blacklist:show:ids:
+    desc: Show ids that are blacklisted
+    silent: true
+    vars:
+      ITEM: '{{.c | default "anime"}}'
+    cmds:
+      - |
+        jq 'map(select(.name | type == "string" and test("\\(([^)]+)\\)\\s*$")) | (.name | scan("\\(([^)]+)\\)\\s*$") | .[0]) as $bracket_value | {id: .id, bracket_value: $bracket_value}) | group_by(.bracket_value) | map({bracket_value: .[0].bracket_value, ids: map(.id)})' reports/{{.ITEM}}/report.json
+
+
+  blacklist:show:ids:filtered:
+    desc: Show ids that are blacklisted with filtered out whitelisted entries
+    silent: true
+    vars:
+      ITEM: '{{.c | default "anime"}}'
+    cmds:
+      - |
+        jq --slurpfile W encyclopedia_updater/{{.ITEM}}/whitelist.json 'map(select(.name | type == "string" and test("\\(([^)]+)\\)\\s*$")) | (.name | scan("\\(([^)]+)\\)\\s*$") | .[0]) as $bracket_value | select($bracket_value | IN($W[0][]) | not) | {id: .id, bracket_value: $bracket_value}) | group_by(.bracket_value) | map({bracket_value: .[0].bracket_value, ids: map(.id)})' reports/{{.ITEM}}/report.json
+
+
   # Development tools
   ruff:
     desc: Run ruff

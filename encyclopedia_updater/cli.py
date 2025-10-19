@@ -10,6 +10,8 @@ import click
 import requests
 from loguru import logger
 
+BASE_DIR = Path(__file__).parent.parent
+
 
 def _skip_broken_entries_for_category(category: str):
     """
@@ -33,47 +35,27 @@ def _skip_related_entries_for_category(category: str):
     Returns a list of "related" entries to skip that are not available in the API.
     """
 
-    skip_entries = []
-    match category.lower():
-        case "anime":
-            skip_entries = [
-                "live-action",
-                "stop-motion",
-                "clay",
-                "puppet",
-                "drama",
-                "dōjin",
-                "promo",
-                "short movies",
-                "hybrid movie",
-                "specials! special",
-                "amateur OAV",
-                "ONA! TV",
-                "VR",
-                "April fool's JOKE",
-                "nonexistent",
-                "KBS/Toei TV",
-                "V-Cinema",
-                "mobile",
-                "canceled",
-                "cancelled",
-                "stalled",
-                "U\.S\.",
-                "US",
-                "Indian",
-                "Chinese",
-                "Hong Kong",
-                "Singaporean",
-                "Korean",
-                "Thai",
-                "Australian",
-                "French",
-                "YouTube",
-            ]
-        case "_":
-            skip_entries = []
-
-    return skip_entries
+    category_lower = category.lower()
+    blacklist_path = (
+        BASE_DIR / "encyclopedia_updater" / category_lower / "blacklist.json"
+    )
+    if blacklist_path.exists():
+        try:
+            with open(blacklist_path, "r", encoding="utf-8") as f:
+                skip_entries = json.load(f)
+                return skip_entries
+        except json.JSONDecodeError:
+            print(
+                f"Error: Could not decode JSON from {blacklist_path}. Returning empty list."
+            )
+            return []
+        except Exception as e:
+            print(
+                f"An unexpected error occurred while reading {blacklist_path}: {e}. Returning empty list."
+            )
+            return []
+    else:
+        return []
 
 
 def _xml_datetime_string_to_iso(input_datetime: str) -> str | None:
@@ -182,25 +164,23 @@ def _get_entries_to_update(
             continue
 
         # Skip items that cannot be retrieved through the API
-        match = re.search(
-            r"\(.*?(?P<type>"
-            + "|".join(
-                [
-                    f"({keyword})"
-                    for keyword in _skip_related_entries_for_category(category)
-                ]
-            )
-            + r").*?\)",
-            item["name"],
-            re.IGNORECASE,
-        )
+        if item["name"] is not None:
+            keywords = _skip_related_entries_for_category(category)
+            if keywords:
+                keyword_pattern = "|".join([f"({keyword})" for keyword in keywords])
+                full_pattern = rf".*?\((?P<type>{keyword_pattern}).*?\)\s*$"
+                match = re.search(
+                    full_pattern,
+                    item["name"],
+                    re.IGNORECASE,
+                )
 
-        if match:
-            logger.info(
-                f"Skipping `{match.group('type')}` item `{item['name']}` ({item['id']})."
-            )
-            result["skipped"].append({"file": None, "item": item})
-            continue
+                if match:
+                    logger.info(
+                        f"Skipping `{match.group('type')}` item `{item['name']}` ({item['id']})."
+                    )
+                    result["skipped"].append({"file": None, "item": item})
+                    continue
 
         if not file_path.is_file():
             logger.info(f"File does not exist: {file_path}")
