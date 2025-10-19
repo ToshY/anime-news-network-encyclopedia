@@ -7,17 +7,14 @@ concurrency:
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 3 1,15 * *'
+    - cron: '0 3 * * 0'
 
 jobs:
   process:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
-    strategy:
-      matrix:
-        category:
-          - anime
-          - manga
+    timeout-minutes: 30
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v5
@@ -27,8 +24,11 @@ jobs:
         with:
           version: 3.x
 
-      - name: Regenerate blacklist files
-        run: task blacklist:generate -c ${{ matrix.category }}
+      - name: Regenerate blacklist files - anime
+        run: task blacklist:generate c=anime
+
+      - name: Regenerate blacklist files - manga
+        run: task blacklist:generate c=manga
 
       - name: Commit changes
         id: auto-commit-action
