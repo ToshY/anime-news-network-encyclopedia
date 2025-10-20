@@ -4,28 +4,28 @@
     "+@type": "TV",
     "+@name": "Inexpressive Kashiwada and Expressive Oota",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-19T04:34:45Z",
+    "+@generated-on": "2025-10-20T04:38:56Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "35150"
     },
     "info": [
         {
-            "+@gid": "2378285868",
+            "+@gid": "1916288515",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35153-2378285868.1757064213.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35153-1916288515.1760528363.jpg",
+            "+@width": "140",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35153-2378285868.1757064213.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35153-1916288515.1760528363.jpg",
+                    "+@width": "140",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35153-2378285868.1757064213.jpg",
-                    "+@width": "424",
-                    "+@height": "600"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35153-1916288515.1760528363.jpg",
+                    "+@width": "350",
+                    "+@height": "500"
                 }
             ]
         },
@@ -84,6 +84,10 @@
             "+@href": "https://kashiwada-ohta.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "4",
+        "+@weighted_score": "3.3833"
+    },
     "news": [
         {
             "+content": "<i>Inexpressive Kashiwada and Expressive Oota</i> TV Anime Casts Yumiri Hanamori, Mayu Mineda",
@@ -104,6 +108,16 @@
             "+content": "Crunchyroll Announces Release Schedule for Fall 2025 Season",
             "+@datetime": "2025-09-17T17:21:06Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-09-17/crunchyroll-announces-release-schedule-for-fall-2025-season/.228908"
+        },
+        {
+            "+content": "<cite>A Wild Last Boss Appeared!</cite>, <cite>My Hero Academia Final Season</cite>, 26 More Anime Stream in India",
+            "+@datetime": "2025-09-19T12:12:45Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-19/a-wild-last-boss-appeared-my-hero-academia-final-season-26-more-anime-stream-in-india/.228974"
+        },
+        {
+            "+content": "<cite>Inexpressive Kashiwada and Expressive Oota</cite> Anime Reveals 2 More Cast Members",
+            "+@datetime": "2025-09-19T10:29:10Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-19/inexpressive-kashiwada-and-expressive-oota-anime-reveals-2-more-cast-members/.228978"
         }
     ],
     "staff": [
@@ -198,6 +212,24 @@
     ],
     "cast": [
         {
+            "+@gid": "1809469436",
+            "+@lang": "JA",
+            "role": "Kashiwada's Older Brother",
+            "person": {
+                "+content": "Daisuke Kishio",
+                "+@id": "1506"
+            }
+        },
+        {
+            "+@gid": "1926358675",
+            "+@lang": "JA",
+            "role": "Ōta's Older Sister",
+            "person": {
+                "+content": "Shiori Mikami",
+                "+@id": "74584"
+            }
+        },
+        {
             "+@gid": "2450841770",
             "+@lang": "JA",
             "role": "Tabuchi-san",
@@ -252,15 +284,89 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "1364835788",
-        "task": "Animation Production",
-        "company": {
-            "+content": "STUDIO POLON",
-            "+@id": "24632"
+    "credit": [
+        {
+            "+@gid": "1364835788",
+            "task": "Animation Production",
+            "company": {
+                "+content": "STUDIO POLON",
+                "+@id": "24632"
+            }
+        },
+        {
+            "+@gid": "1723685012",
+            "task": "Production",
+            "company": {
+                "+content": "MOVIC",
+                "+@id": "52"
+            }
+        },
+        {
+            "+@gid": "1886426600",
+            "task": "Production",
+            "company": {
+                "+content": "The Klockworx Co., Ltd.",
+                "+@id": "614"
+            }
+        },
+        {
+            "+@gid": "1817073031",
+            "task": "Production",
+            "company": {
+                "+content": "Kansai Telecasting Corporation",
+                "+@id": "11907"
+            }
+        },
+        {
+            "+@gid": "1610978499",
+            "task": "Production",
+            "company": {
+                "+content": "NBCUniversal Entertainment Japan",
+                "+@id": "12727"
+            }
+        },
+        {
+            "+@gid": "1083164084",
+            "task": "Production",
+            "company": {
+                "+content": "Tokyo MX",
+                "+@id": "13028"
+            }
+        },
+        {
+            "+@gid": "3910770957",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon BS Broadcasting Corporation",
+                "+@id": "15105"
+            }
+        },
+        {
+            "+@gid": "2974851859",
+            "task": "Production",
+            "company": {
+                "+content": "Kadokawa",
+                "+@id": "15420"
+            }
+        },
+        {
+            "+@gid": "1349372126",
+            "task": "Production",
+            "company": {
+                "+content": "Bushiroad Move",
+                "+@id": "21101"
+            }
+        },
+        {
+            "+@gid": "1677123014",
+            "task": "Production",
+            "company": {
+                "+content": "qooop",
+                "+@id": "23468"
+            }
         }
-    },
+    ],
     "+@date-added": "2025-03-14T08:10:40Z",
-    "+@date-last-modified-at": "2025-09-19T04:34:47Z",
-    "+@date-last-updated-at": "2025-09-19T04:34:47Z"
+    "+@date-last-modified-at": "2025-10-20T04:38:57Z",
+    "+@date-last-updated-at": "2025-10-20T04:38:57Z"
 }

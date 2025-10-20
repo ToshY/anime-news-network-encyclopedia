@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Kore Kaite Shine",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-18T20:32:41Z",
+    "+@generated-on": "2025-10-20T04:38:55Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26719"
@@ -45,16 +45,52 @@
             "+content": "coming of age",
             "+@gid": "1413512343",
             "+@type": "Themes"
+        },
+        {
+            "+content": "2026",
+            "+@gid": "2379872580",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ『これ描いて死ね』公式サイト",
+            "+@gid": "2800186624",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://www.vap.co.jp/korekaite-shine/"
         }
     ],
-    "staff": {
-        "+@gid": "2555110753",
-        "task": "Original creator",
-        "person": {
-            "+content": "Minoru Toyoda",
-            "+@id": "39379"
+    "news": {
+        "+content": "<cite>'Draw this, then die!'</cite> TV Anime's Teaser  Announces Staff, 2026 Debut",
+        "+@datetime": "2025-10-07T09:49:35Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-10-07/draw-this-then-die-tv-anime-teaser-announces-staff-2026-debut/.229698"
+    },
+    "staff": [
+        {
+            "+@gid": "2920422719",
+            "task": "Director",
+            "person": {
+                "+content": "Hiroaki Akagi",
+                "+@id": "21675"
+            }
+        },
+        {
+            "+@gid": "2555110753",
+            "task": "Original creator",
+            "person": {
+                "+content": "Minoru Toyoda",
+                "+@id": "39379"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2338081671",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Shin-Ei Animation",
+            "+@id": "2019"
         }
     },
     "+@date-added": "2025-03-22T04:01:29Z",
-    "+@date-last-updated-at": "2025-09-18T20:32:42Z"
+    "+@date-last-modified-at": "2025-10-20T04:38:57Z",
+    "+@date-last-updated-at": "2025-10-20T04:38:57Z"
 }
