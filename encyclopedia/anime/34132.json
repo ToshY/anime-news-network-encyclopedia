@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Hell Mode",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-20T01:57:08Z",
+    "+@generated-on": "2025-10-20T20:34:50Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24835"
@@ -13,18 +13,18 @@
         {
             "+@gid": "1919886551",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34132-1919886551.1752913608.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34132-1919886551.1760068414.jpg",
+            "+@width": "149",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34132-1919886551.1752913608.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34132-1919886551.1760068414.jpg",
+                    "+@width": "149",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34132-1919886551.1752913608.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34132-1919886551.1760068414.jpg",
+                    "+@width": "448",
                     "+@height": "600"
                 }
             ]
@@ -68,6 +68,16 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "\"Haku\" (ハク) by Atarayo",
+            "+@gid": "1137125809",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Sanctuary\" by Kaya",
+            "+@gid": "3173662316",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "TVアニメ『ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～』",
             "+@gid": "1960419875",
             "+@type": "Official website",
@@ -75,12 +85,91 @@
             "+@href": "https://hellmode-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Hell Mode</cite> TV Anime Reveals Cast, Teaser Visual, January 2026 Debut",
-        "+@datetime": "2025-07-19T07:46:16Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-07-19/hell-mode-tv-anime-reveals-cast-teaser-visual-january-2026-debut/.226827"
-    },
+    "news": [
+        {
+            "+content": "<cite>Hell Mode</cite> TV Anime Reveals Cast, Teaser Visual, January 2026 Debut",
+            "+@datetime": "2025-07-19T07:46:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-19/hell-mode-tv-anime-reveals-cast-teaser-visual-january-2026-debut/.226827"
+        },
+        {
+            "+content": "<cite>Hell Mode</cite> TV Anime's 1st Promo Video Unveils More Cast, Staff, Theme Songs",
+            "+@datetime": "2025-10-10T03:38:12Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-09/hell-mode-tv-anime-1st-promo-video-unveils-more-cast-staff-theme-songs/.229807"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "1302412521",
+            "task": "Director",
+            "person": {
+                "+content": "Masato Tamagawa",
+                "+@id": "30804"
+            }
+        },
+        {
+            "+@gid": "1830519617",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Daishiro Tanimura",
+                "+@id": "77471"
+            }
+        },
+        {
+            "+@gid": "1818347231",
+            "task": "Music",
+            "person": {
+                "+content": "Kanade Sakuma",
+                "+@id": "207919"
+            }
+        },
+        {
+            "+@gid": "1926230796",
+            "task": "Music",
+            "person": {
+                "+content": "Misaki Tsuchida",
+                "+@id": "254485"
+            }
+        },
+        {
+            "+@gid": "2730504242",
+            "task": "Music",
+            "person": {
+                "+content": "Tsugumi Tanaka",
+                "+@id": "254486"
+            }
+        },
+        {
+            "+@gid": "967767499",
+            "task": "Music",
+            "person": {
+                "+content": "Kaho Sawada",
+                "+@id": "260854"
+            }
+        },
+        {
+            "+@gid": "1859501849",
+            "task": "Music",
+            "person": {
+                "+content": "BeauDamian",
+                "+@id": "265809"
+            }
+        },
+        {
+            "+@gid": "1656156426",
+            "task": "Music",
+            "person": {
+                "+content": "Reiko Abe",
+                "+@id": "268650"
+            }
+        },
+        {
+            "+@gid": "2599342144",
+            "task": "Music",
+            "person": {
+                "+content": "Moyu Kanazaki",
+                "+@id": "289466"
+            }
+        },
         {
             "+@gid": "1266869684",
             "task": "Original creator",
@@ -104,9 +193,35 @@
                 "+content": "Mo",
                 "+@id": "190701"
             }
+        },
+        {
+            "+@gid": "2346837119",
+            "task": "Animation Character Design",
+            "person": {
+                "+content": "Kei Tsushima",
+                "+@id": "72379"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "1406346622",
+            "+@lang": "JA",
+            "role": "Rodan",
+            "person": {
+                "+content": "Hideo Ishikawa",
+                "+@id": "1038"
+            }
+        },
+        {
+            "+@gid": "3788310096",
+            "+@lang": "JA",
+            "role": "Theresia",
+            "person": {
+                "+content": "Sayaka Ōhara",
+                "+@id": "1376"
+            }
+        },
         {
             "+@gid": "2318041523",
             "+@lang": "JA",
@@ -142,9 +257,26 @@
                 "+content": "Sayaka Senbongi",
                 "+@id": "133460"
             }
+        },
+        {
+            "+@gid": "3682924582",
+            "+@lang": "JA",
+            "role": "Matthew",
+            "person": {
+                "+content": "Makoto Koichi",
+                "+@id": "143804"
+            }
         }
     ],
+    "credit": {
+        "+@gid": "2695727237",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Yokohama Animation Lab",
+            "+@id": "17061"
+        }
+    },
     "+@date-added": "2024-12-05T20:06:55Z",
-    "+@date-last-modified-at": "2025-09-20T01:57:10Z",
-    "+@date-last-updated-at": "2025-09-20T01:57:10Z"
+    "+@date-last-modified-at": "2025-10-20T20:34:52Z",
+    "+@date-last-updated-at": "2025-10-20T20:34:52Z"
 }

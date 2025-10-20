@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Champignon Witch",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-20T01:00:10Z",
+    "+@generated-on": "2025-10-20T20:34:49Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29158"
@@ -13,23 +13,18 @@
         {
             "+@gid": "2054443203",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34162-2054443203.1748601615.jpg",
-            "+@width": "200",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34162-2054443203.1760518739.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34162-2054443203.1748601615.jpg",
-                    "+@width": "200",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34162-2054443203.1760518739.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34162-2054443203.1748601615.jpg",
-                    "+@width": "500",
-                    "+@height": "500"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34162-2054443203.1748601615.jpg",
-                    "+@width": "600",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34162-2054443203.1760518739.jpg",
+                    "+@width": "424",
                     "+@height": "600"
                 }
             ]
@@ -74,11 +69,18 @@
             "+@href": "https://champignon-pr.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Champignon Witch</cite> TV Anime's Video Reveals Cast, January 2026 Premiere",
-        "+@datetime": "2025-05-30T09:36:51Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-05-30/champignon-witch-tv-anime-video-reveals-cast-january-2026-premiere/.224946"
-    },
+    "news": [
+        {
+            "+content": "<cite>Champignon Witch</cite> TV Anime's Video Reveals Cast, January 2026 Premiere",
+            "+@datetime": "2025-05-30T09:36:51Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-30/champignon-witch-tv-anime-video-reveals-cast-january-2026-premiere/.224946"
+        },
+        {
+            "+content": "<cite>Champignon Witch</cite> Anime Unveils Cast Member Yuki Sakakihara in Video",
+            "+@datetime": "2025-10-15T08:51:12Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-15/champignon-witch-anime-unveils-cast-member-yuki-sakakihara-in-video/.229942"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2334151487",
@@ -113,15 +115,26 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "2248693242",
-        "+@lang": "JA",
-        "role": "Luna",
-        "person": {
-            "+content": "Haruka Shiraishi",
-            "+@id": "104544"
+    "cast": [
+        {
+            "+@gid": "2248693242",
+            "+@lang": "JA",
+            "role": "Luna",
+            "person": {
+                "+content": "Haruka Shiraishi",
+                "+@id": "104544"
+            }
+        },
+        {
+            "+@gid": "2093908301",
+            "+@lang": "JA",
+            "role": "Lize",
+            "person": {
+                "+content": "Yuki Sakakihara",
+                "+@id": "199588"
+            }
         }
-    },
+    ],
     "credit": [
         {
             "+@gid": "2160554519",
@@ -141,6 +154,6 @@
         }
     ],
     "+@date-added": "2024-12-13T05:15:05Z",
-    "+@date-last-modified-at": "2025-09-20T01:57:10Z",
-    "+@date-last-updated-at": "2025-09-20T01:57:10Z"
+    "+@date-last-modified-at": "2025-10-20T20:34:52Z",
+    "+@date-last-updated-at": "2025-10-20T20:34:52Z"
 }

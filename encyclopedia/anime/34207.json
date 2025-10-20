@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "My Dress-Up Darling",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-09-20T01:57:07Z",
+    "+@generated-on": "2025-10-20T20:34:49Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24306"
@@ -76,8 +76,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "11",
-        "+@weighted_score": "8.2383"
+        "+@nb_votes": "103",
+        "+@weighted_score": "8.0197",
+        "+@bayesian_score": "7.95842"
     },
     "news": [
         {
@@ -154,6 +155,22 @@
             "person": {
                 "+content": "Yoriko Tomita",
                 "+@id": "107216"
+            }
+        },
+        {
+            "+@gid": "2516934988",
+            "task": "Script",
+            "person": {
+                "+content": "Keisuke Shinohara",
+                "+@id": "153282"
+            }
+        },
+        {
+            "+@gid": "1000782763",
+            "task": "Script",
+            "person": {
+                "+content": "Yūsuke Yamamoto",
+                "+@id": "209293"
             }
         },
         {
@@ -274,6 +291,14 @@
             "person": {
                 "+content": "Nobuhide Kariya",
                 "+@id": "122656"
+            }
+        },
+        {
+            "+@gid": "2074023722",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yusuke Kawakami",
+                "+@id": "125636"
             }
         },
         {
@@ -656,6 +681,24 @@
             }
         },
         {
+            "+@gid": "2747813177",
+            "+@lang": "EN",
+            "role": "Kaoru Gojō",
+            "person": {
+                "+content": "R. Bruce Elliot",
+                "+@id": "26226"
+            }
+        },
+        {
+            "+@gid": "3501114104",
+            "+@lang": "EN",
+            "role": "Shinju Inui",
+            "person": {
+                "+content": "Jad Saxton",
+                "+@id": "71281"
+            }
+        },
+        {
             "+@gid": "2464987083",
             "+@lang": "EN",
             "role": "Daia Yahiro",
@@ -860,6 +903,15 @@
             "person": {
                 "+content": "Itzel Mendoza",
                 "+@id": "193377"
+            }
+        },
+        {
+            "+@gid": "663582351",
+            "+@lang": "ES",
+            "role": "Shinju Inui",
+            "person": {
+                "+content": "Scarlet Miuller",
+                "+@id": "207316"
             }
         },
         {
@@ -1196,6 +1248,6 @@
         }
     },
     "+@date-added": "2024-12-18T06:42:38Z",
-    "+@date-last-modified-at": "2025-09-20T01:57:10Z",
-    "+@date-last-updated-at": "2025-09-20T01:57:10Z"
+    "+@date-last-modified-at": "2025-10-20T20:34:52Z",
+    "+@date-last-updated-at": "2025-10-20T20:34:52Z"
 }

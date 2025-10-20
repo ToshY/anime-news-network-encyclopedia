@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Ranma ½",
     "+@precision": "TV 2025",
-    "+@generated-on": "2025-09-19T20:31:34Z",
+    "+@generated-on": "2025-10-20T20:34:48Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32929"
@@ -140,6 +140,10 @@
             "+@href": "https://ranma-pr.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "3",
+        "+@weighted_score": "9.6631"
+    },
     "news": [
         {
             "+content": "New <cite>Ranma 1/2</cite> Anime's 2nd Season Gets Advanced Screening, Live Dubbing on June 22",
@@ -160,6 +164,16 @@
             "+content": "New <cite>Ranma 1/2</cite> Anime's 2nd Season Previews Opening Song in Video",
             "+@datetime": "2025-09-17T03:16:20Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-09-16/new-ranma-1-2-anime-2nd-season-previews-opening-song-in-video/.228890"
+        },
+        {
+            "+content": "Netflix Lists New <cite>Ranma 1/2</cite> Anime's 2nd Season in India",
+            "+@datetime": "2025-09-22T09:27:11Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-22/netflix-lists-new-ranma-1-2-anime-2nd-season-in-india/.229009"
+        },
+        {
+            "+content": "New <cite>Ranma 1/2</cite> Anime's Season 2 Streams Clean Opening Sequence",
+            "+@datetime": "2025-09-24T11:13:40Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-24/new-ranma-1-2-anime-season-2-streams-clean-opening-sequence/.229197"
         }
     ],
     "staff": [
@@ -270,6 +284,78 @@
     ],
     "cast": [
         {
+            "+@gid": "4197016532",
+            "+@lang": "EN",
+            "role": "Cologne",
+            "person": {
+                "+content": "Barbara Goodson",
+                "+@id": "530"
+            }
+        },
+        {
+            "+@gid": "3639581947",
+            "+@lang": "EN",
+            "role": "Nabiki Tendō",
+            "person": {
+                "+content": "Stephanie Sheh",
+                "+@id": "3419"
+            }
+        },
+        {
+            "+@gid": "2202801100",
+            "+@lang": "EN",
+            "role": "Ichiro",
+            "person": {
+                "+content": "Andrew Frankel",
+                "+@id": "8915"
+            }
+        },
+        {
+            "+@gid": "1133077097",
+            "+@lang": "EN",
+            "role": "Genma Saotome",
+            "person": {
+                "+content": "Fred Tatasciore",
+                "+@id": "47591"
+            }
+        },
+        {
+            "+@gid": "2681247844",
+            "+@lang": "EN",
+            "role": "Kasumi Tendō",
+            "person": {
+                "+content": "Laura Post",
+                "+@id": "70304"
+            }
+        },
+        {
+            "+@gid": "2593163338",
+            "+@lang": "EN",
+            "role": "Dr. Tofu",
+            "person": {
+                "+content": "Josh Keaton",
+                "+@id": "84886"
+            }
+        },
+        {
+            "+@gid": "3853043735",
+            "+@lang": "EN",
+            "role": "Shampoo",
+            "person": {
+                "+content": "Grace Lu",
+                "+@id": "118077"
+            }
+        },
+        {
+            "+@gid": "1424413458",
+            "+@lang": "EN",
+            "role": "Hikaru Gosunkugi",
+            "person": {
+                "+content": "Stephen Fu",
+                "+@id": "146239"
+            }
+        },
+        {
             "+@gid": "1443764598",
             "+@lang": "EN",
             "role": "Ranma Saotome (male)",
@@ -279,12 +365,300 @@
             }
         },
         {
+            "+@gid": "3023180103",
+            "+@lang": "EN",
+            "role": "Ryoga Hibiki",
+            "person": {
+                "+content": "Damien Haas",
+                "+@id": "154733"
+            }
+        },
+        {
+            "+@gid": "2133642022",
+            "+@lang": "EN",
+            "role": "Mousse",
+            "person": {
+                "+content": "SungWon Cho",
+                "+@id": "164450"
+            }
+        },
+        {
+            "+@gid": "2854636601",
+            "+@lang": "EN",
+            "role": "P-Chan",
+            "person": {
+                "+content": "Rachel Slotky",
+                "+@id": "182307"
+            }
+        },
+        {
             "+@gid": "3725708190",
             "+@lang": "EN",
             "role": "Ranma Saotome (female)",
             "person": {
                 "+content": "Suzie Yeung",
                 "+@id": "184793"
+            }
+        },
+        {
+            "+@gid": "2112762990",
+            "+@lang": "EN",
+            "role": "Tatewaki Kuno",
+            "person": {
+                "+content": "Jonah Scott",
+                "+@id": "184821"
+            }
+        },
+        {
+            "+@gid": "1628356380",
+            "+@lang": "EN",
+            "role": "Akane Tendō",
+            "person": {
+                "+content": "Valeria Rodriguez",
+                "+@id": "200260"
+            }
+        },
+        {
+            "+@gid": "1497479250",
+            "+@lang": "EN",
+            "role": "Soun Tendo",
+            "person": {
+                "+content": "Jude Gerard Prest",
+                "+@id": "289152"
+            }
+        },
+        {
+            "+@gid": "1754575059",
+            "+@lang": "ES",
+            "role": "Ryoga Hibiki",
+            "person": {
+                "+content": "Gerardo del Valle",
+                "+@id": "23782"
+            }
+        },
+        {
+            "+@gid": "859053839",
+            "+@lang": "ES",
+            "role": "Akane Tendo",
+            "person": {
+                "+content": "Rossy Aguirre",
+                "+@id": "31519"
+            }
+        },
+        {
+            "+@gid": "2108910971",
+            "+@lang": "ES",
+            "role": "Ranma Saotome",
+            "person": {
+                "+content": "Alicia Vélez",
+                "+@id": "163564"
+            }
+        },
+        {
+            "+@gid": "3555462515",
+            "+@lang": "ES",
+            "role": "Ranma Saotome",
+            "person": {
+                "+content": "Elliot Leguizamo",
+                "+@id": "169085"
+            }
+        },
+        {
+            "+@gid": "1541377031",
+            "+@lang": "FR",
+            "role": "Mousse",
+            "person": {
+                "+content": "Emmanuel Garijo",
+                "+@id": "27188"
+            }
+        },
+        {
+            "+@gid": "1216916536",
+            "+@lang": "FR",
+            "role": "Cologne",
+            "person": {
+                "+content": "Nathalie Homs",
+                "+@id": "29181"
+            }
+        },
+        {
+            "+@gid": "3909270889",
+            "+@lang": "FR",
+            "role": "Tōfū Ono",
+            "person": {
+                "+content": "Mathias Kozlowski",
+                "+@id": "29431"
+            }
+        },
+        {
+            "+@gid": "1716562180",
+            "+@lang": "FR",
+            "role": "Sōun Tendō",
+            "person": {
+                "+content": "Thierry Kazazian",
+                "+@id": "34267"
+            }
+        },
+        {
+            "+@gid": "1083679335",
+            "+@lang": "FR",
+            "role": "Génial Saotome",
+            "person": {
+                "+content": "Pierre-François Pistorio",
+                "+@id": "45715"
+            }
+        },
+        {
+            "+@gid": "2089214830",
+            "+@lang": "FR",
+            "role": "Nabiki Tendō",
+            "person": {
+                "+content": "Isabelle Volpe",
+                "+@id": "51640"
+            }
+        },
+        {
+            "+@gid": "571023620",
+            "+@lang": "FR",
+            "role": "Happosai",
+            "person": {
+                "+content": "Gérard Surugue",
+                "+@id": "51695"
+            }
+        },
+        {
+            "+@gid": "1154049804",
+            "+@lang": "FR",
+            "role": "Tatewaki Kuno",
+            "person": {
+                "+content": "Bruno Meyere",
+                "+@id": "54390"
+            }
+        },
+        {
+            "+@gid": "2492641667",
+            "+@lang": "FR",
+            "role": "Ryoga Hibiki",
+            "person": {
+                "+content": "Bastien Bourlé",
+                "+@id": "76641"
+            }
+        },
+        {
+            "+@gid": "2911206765",
+            "+@lang": "FR",
+            "role": "Kasumi Tendō",
+            "person": {
+                "+content": "Leslie Lipkins",
+                "+@id": "102054"
+            }
+        },
+        {
+            "+@gid": "3289736415",
+            "+@lang": "FR",
+            "role": "Akane Tendō",
+            "person": {
+                "+content": "Emmylou Homs",
+                "+@id": "135316"
+            }
+        },
+        {
+            "+@gid": "1542299885",
+            "+@lang": "FR",
+            "role": "Shampoo",
+            "person": {
+                "+content": "Valérie Bachère",
+                "+@id": "136049"
+            }
+        },
+        {
+            "+@gid": "2595959632",
+            "+@lang": "FR",
+            "role": "Ukyo Kuonji",
+            "person": {
+                "+content": "Fouzia Youssef",
+                "+@id": "151005"
+            }
+        },
+        {
+            "+@gid": "3023100254",
+            "+@lang": "FR",
+            "role": "Ranma Saotome",
+            "person": {
+                "+content": "Clara Soares",
+                "+@id": "153590"
+            }
+        },
+        {
+            "+@gid": "1883607503",
+            "+@lang": "FR",
+            "role": "Ranma Saotome",
+            "person": {
+                "+content": "Martin Faliu",
+                "+@id": "190385"
+            }
+        },
+        {
+            "+@gid": "2936914493",
+            "+@lang": "IT",
+            "role": "Akane Tendo",
+            "person": {
+                "+content": "Ludovica Bebi",
+                "+@id": "101692"
+            }
+        },
+        {
+            "+@gid": "120700151",
+            "+@lang": "IT",
+            "role": "Nabiki Tendo",
+            "person": {
+                "+content": "Camilla Marcucci",
+                "+@id": "126130"
+            }
+        },
+        {
+            "+@gid": "2139971163",
+            "+@lang": "IT",
+            "role": "Ranma Saotome",
+            "person": {
+                "+content": "Stefano Broccoletti",
+                "+@id": "126210"
+            }
+        },
+        {
+            "+@gid": "992428743",
+            "+@lang": "IT",
+            "role": "Ranma Saotome",
+            "person": {
+                "+content": "Chiara Fabiano",
+                "+@id": "131045"
+            }
+        },
+        {
+            "+@gid": "1406016962",
+            "+@lang": "IT",
+            "role": "Hikaru Gosunkugi",
+            "person": {
+                "+content": "Riccardo Suarez",
+                "+@id": "131046"
+            }
+        },
+        {
+            "+@gid": "1831123100",
+            "+@lang": "IT",
+            "role": "Tatewaki Kuno",
+            "person": {
+                "+content": "Emanuele Ruzza",
+                "+@id": "144488"
+            }
+        },
+        {
+            "+@gid": "1382640357",
+            "+@lang": "IT",
+            "role": "Kasumi Tendo",
+            "person": {
+                "+content": "Luna Iansante",
+                "+@id": "148624"
             }
         },
         {
@@ -466,6 +840,96 @@
                 "+content": "Ayane Sakura",
                 "+@id": "94383"
             }
+        },
+        {
+            "+@gid": "1943534711",
+            "+@lang": "PT",
+            "role": "Tatewaki Kuno",
+            "person": {
+                "+content": "Alfredo Rollo",
+                "+@id": "48734"
+            }
+        },
+        {
+            "+@gid": "2684108499",
+            "+@lang": "PT",
+            "role": "Ranma Saotome",
+            "person": {
+                "+content": "Márcio Araújo",
+                "+@id": "48735"
+            }
+        },
+        {
+            "+@gid": "1440749627",
+            "+@lang": "PT",
+            "role": "Ranma Saotome",
+            "person": {
+                "+content": "Fátima Noya",
+                "+@id": "48742"
+            }
+        },
+        {
+            "+@gid": "2556053734",
+            "+@lang": "PT",
+            "role": "Soun Tendo",
+            "person": {
+                "+content": "Tatá Guarnieri",
+                "+@id": "48752"
+            }
+        },
+        {
+            "+@gid": "3561180389",
+            "+@lang": "PT",
+            "role": "Kasumi Tendo",
+            "person": {
+                "+content": "Tânia Gaidarji",
+                "+@id": "48758"
+            }
+        },
+        {
+            "+@gid": "2435727726",
+            "+@lang": "PT",
+            "role": "Nabiki Tendo",
+            "person": {
+                "+content": "Letícia Quinto",
+                "+@id": "48761"
+            }
+        },
+        {
+            "+@gid": "2090279844",
+            "+@lang": "PT",
+            "role": "Hikaru Gosunkugi",
+            "person": {
+                "+content": "Vagner Fagundes",
+                "+@id": "48765"
+            }
+        },
+        {
+            "+@gid": "3570177068",
+            "+@lang": "PT",
+            "role": "Genma Saotome",
+            "person": {
+                "+content": "Carlos Campanile",
+                "+@id": "48815"
+            }
+        },
+        {
+            "+@gid": "541683831",
+            "+@lang": "PT",
+            "role": "Ryoga Hibiki",
+            "person": {
+                "+content": "Wendel Bezerra",
+                "+@id": "49238"
+            }
+        },
+        {
+            "+@gid": "3035269563",
+            "+@lang": "PT",
+            "role": "Akane Tendo",
+            "person": {
+                "+content": "Tatiane Keplmair",
+                "+@id": "81139"
+            }
         }
     ],
     "credit": {
@@ -477,6 +941,6 @@
         }
     },
     "+@date-added": "2024-12-21T18:38:25Z",
-    "+@date-last-modified-at": "2025-09-19T20:31:35Z",
-    "+@date-last-updated-at": "2025-09-19T20:31:35Z"
+    "+@date-last-modified-at": "2025-10-20T20:34:51Z",
+    "+@date-last-updated-at": "2025-10-20T20:34:51Z"
 }
