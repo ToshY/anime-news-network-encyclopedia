@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Observation Records of My Fiancée",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-19T08:38:03Z",
+    "+@generated-on": "2025-10-20T02:04:41Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "36120"
@@ -71,11 +71,18 @@
             "+@href": "https://jisho-akuyaku-anime.jp/"
         }
     ],
-    "news": {
-        "+content": "<cite>Observation Records of My Fiancée</cite> Light Novels Get TV Anime",
-        "+@datetime": "2025-05-12T08:13:11Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-05-12/observation-records-of-my-fiancee-light-novels-get-tv-anime/.224367"
-    },
+    "news": [
+        {
+            "+content": "<cite>Observation Records of My Fiancée</cite> Light Novels Get TV Anime",
+            "+@datetime": "2025-05-12T08:13:11Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-12/observation-records-of-my-fiancee-light-novels-get-tv-anime/.224367"
+        },
+        {
+            "+content": "<cite>Observation Records of My Fiancée</cite> TV Anime Reveals Main Cast, More Staff",
+            "+@datetime": "2025-10-03T09:56:03Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-03/observation-records-of-my-fiancee-tv-anime-reveals-main-cast-more-staff/.229600"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1514379074",
@@ -91,6 +98,30 @@
             "person": {
                 "+content": "Akiko Inoue",
                 "+@id": "201069"
+            }
+        },
+        {
+            "+@gid": "1120380179",
+            "task": "Music",
+            "person": {
+                "+content": "Yūki Hayashi",
+                "+@id": "118529"
+            }
+        },
+        {
+            "+@gid": "1451070399",
+            "task": "Music",
+            "person": {
+                "+content": "Luke Standridge",
+                "+@id": "289085"
+            }
+        },
+        {
+            "+@gid": "1975135839",
+            "task": "Music",
+            "person": {
+                "+content": "Asa Taylor",
+                "+@id": "289086"
             }
         },
         {
@@ -124,6 +155,58 @@
                 "+content": "Miki Matsumoto",
                 "+@id": "101278"
             }
+        },
+        {
+            "+@gid": "2420660766",
+            "task": "Art Director",
+            "person": {
+                "+content": "Junichi Higashi",
+                "+@id": "89"
+            }
+        },
+        {
+            "+@gid": "2709468916",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Yukio Nagasaki",
+                "+@id": "3079"
+            }
+        },
+        {
+            "+@gid": "2482470805",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Jie Ren",
+                "+@id": "217995"
+            }
+        },
+        {
+            "+@gid": "1859103425",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Hideki Eto",
+                "+@id": "122126"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1938866723",
+            "+@lang": "JA",
+            "role": "Cecil",
+            "person": {
+                "+content": "Yūsuke Kobayashi",
+                "+@id": "123728"
+            }
+        },
+        {
+            "+@gid": "1254646495",
+            "+@lang": "JA",
+            "role": "Bertia",
+            "person": {
+                "+content": "Miyu Tomita",
+                "+@id": "145048"
+            }
         }
     ],
     "credit": {
@@ -135,5 +218,6 @@
         }
     },
     "+@date-added": "2025-05-12T21:56:41Z",
-    "+@date-last-updated-at": "2025-09-19T08:38:04Z"
+    "+@date-last-modified-at": "2025-10-20T02:18:31Z",
+    "+@date-last-updated-at": "2025-10-20T02:18:31Z"
 }

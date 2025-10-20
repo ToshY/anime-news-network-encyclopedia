@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Umayuru: Pretty Gray",
     "+@precision": "ONA",
-    "+@generated-on": "2025-09-19T16:36:59Z",
+    "+@generated-on": "2025-10-20T02:18:29Z",
     "related-prev": {
         "+@rel": "spinoff of",
         "+@id": "25655"
@@ -53,13 +53,33 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "2074946479",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "slice of life",
+            "+@gid": "2900270184",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "school",
+            "+@gid": "2895388576",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "OC",
+            "+@gid": "2806065018",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "4",
             "+@gid": "1048355007",
             "+@type": "Number of episodes"
         },
         {
-            "+content": "2025-04-30",
-            "+@gid": "2311728629",
+            "+content": "2025-04-30 to 2025-05-06",
+            "+@gid": "1874557455",
             "+@type": "Vintage"
         },
         {
@@ -79,6 +99,40 @@
         "+@nb_votes": "1",
         "+@weighted_score": "7"
     },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "Brutal Standoff",
+                "+@gid": "3317758700",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "Yatsuhashi Blight -The Seiun Case Files-",
+                "+@gid": "2533893481",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "Destiny's Tide! The Turbulent Relay",
+                "+@gid": "4055492107",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "The Art of Spectating",
+                "+@gid": "1905096024",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "news": {
         "+content": "<cite>Umamusume</cite> Franchise Launches Subtitled <cite>Umayuru: Pretty Gray</cite> Mini Anime",
         "+@datetime": "2025-04-30T12:52:56Z",
@@ -192,6 +246,15 @@
     ],
     "cast": [
         {
+            "+@gid": "4221796991",
+            "+@lang": "JA",
+            "role": "Biwa Hayahide",
+            "person": {
+                "+content": "Yui Kondō",
+                "+@id": "99742"
+            }
+        },
+        {
             "+@gid": "1846474212",
             "+@lang": "JA",
             "role": "Mejiro McQueen",
@@ -210,6 +273,33 @@
             }
         },
         {
+            "+@gid": "1930504057",
+            "+@lang": "JA",
+            "role": "Loves Only You",
+            "person": {
+                "+content": "Miyu Kubota",
+                "+@id": "120928"
+            }
+        },
+        {
+            "+@gid": "2336471258",
+            "+@lang": "JA",
+            "role": "Tsurumaru Tsuyoshi",
+            "person": {
+                "+content": "Yoshino Aoyama",
+                "+@id": "123095"
+            }
+        },
+        {
+            "+@gid": "342059739",
+            "+@lang": "JA",
+            "role": "Seiun Sky",
+            "person": {
+                "+content": "Akari Kitō",
+                "+@id": "130728"
+            }
+        },
+        {
             "+@gid": "2992033007",
             "+@lang": "JA",
             "role": "Oguri Cap",
@@ -225,6 +315,60 @@
             "person": {
                 "+content": "Hitomi Ueda",
                 "+@id": "142425"
+            }
+        },
+        {
+            "+@gid": "2383599751",
+            "+@lang": "JA",
+            "role": "Curren Chan",
+            "person": {
+                "+content": "Yū Sasahara",
+                "+@id": "158556"
+            }
+        },
+        {
+            "+@gid": "2017322928",
+            "+@lang": "JA",
+            "role": "King Halo",
+            "person": {
+                "+content": "Iori Saeki",
+                "+@id": "171084"
+            }
+        },
+        {
+            "+@gid": "2483574767",
+            "+@lang": "JA",
+            "role": "Gran Alegria",
+            "person": {
+                "+content": "Hina Natsume",
+                "+@id": "185081"
+            }
+        },
+        {
+            "+@gid": "3225981636",
+            "+@lang": "JA",
+            "role": "Hishi Miracle",
+            "person": {
+                "+content": "Sakura Kasuga",
+                "+@id": "226421"
+            }
+        },
+        {
+            "+@gid": "2347092719",
+            "+@lang": "JA",
+            "role": "Mejiro Bright",
+            "person": {
+                "+content": "Ayaka Ōnishi",
+                "+@id": "266302"
+            }
+        },
+        {
+            "+@gid": "2928971134",
+            "+@lang": "JA",
+            "role": "Chrono Genesis",
+            "person": {
+                "+content": "Hiyori Manase",
+                "+@id": "288260"
             }
         }
     ],
@@ -247,5 +391,6 @@
         }
     ],
     "+@date-added": "2025-04-30T06:27:18Z",
-    "+@date-last-updated-at": "2025-09-19T16:37:01Z"
+    "+@date-last-modified-at": "2025-10-20T02:18:31Z",
+    "+@date-last-updated-at": "2025-10-20T02:18:31Z"
 }
