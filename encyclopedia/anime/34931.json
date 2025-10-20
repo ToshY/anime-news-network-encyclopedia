@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Suikoden: The Anime",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-19T04:34:46Z",
+    "+@generated-on": "2025-10-20T13:00:25Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "4092"
@@ -13,19 +13,24 @@
         {
             "+@gid": "3712687028",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34931-3712687028.1754433305.jpg",
-            "+@width": "141",
-            "+@height": "200",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34931-3712687028.1758956618.jpg",
+            "+@width": "200",
+            "+@height": "135",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34931-3712687028.1754433305.jpg",
-                    "+@width": "141",
-                    "+@height": "200"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34931-3712687028.1758956618.jpg",
+                    "+@width": "200",
+                    "+@height": "135"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34931-3712687028.1754433305.jpg",
-                    "+@width": "424",
-                    "+@height": "600"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34931-3712687028.1758956618.jpg",
+                    "+@width": "500",
+                    "+@height": "337"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34931-3712687028.1758956618.jpg",
+                    "+@width": "600",
+                    "+@height": "404"
                 }
             ]
         },
@@ -51,13 +56,34 @@
             "+content": "2026",
             "+@gid": "2348855119",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "アニメ「幻想水滸伝」公式サイト",
+            "+@gid": "4153479757",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://www.suikoden-anime.com/"
+        },
+        {
+            "+content": "Suikoden : The anime",
+            "+@gid": "2466655070",
+            "+@type": "Official website",
+            "+@lang": "EN",
+            "+@href": "https://www.suikoden-anime.com/en/"
         }
     ],
-    "news": {
-        "+content": "<cite>Suikoden</cite> Franchise Gets Anime, New Mobile Game, New Manga, Stage Play, Concert",
-        "+@datetime": "2025-03-04T00:43:29Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-03-03/suikoden-franchise-gets-anime-new-mobile-game-new-manga-stage-play-concert/.221900"
-    },
+    "news": [
+        {
+            "+content": "<cite>Suikoden</cite> Franchise Gets Anime, New Mobile Game, New Manga, Stage Play, Concert",
+            "+@datetime": "2025-03-04T00:43:29Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-03/suikoden-franchise-gets-anime-new-mobile-game-new-manga-stage-play-concert/.221900"
+        },
+        {
+            "+content": "<cite>Suikoden</cite> Anime Reveals Main Cast, More Staff, New Visual",
+            "+@datetime": "2025-09-27T06:36:26Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-27/suikoden-anime-reveals-main-cast-more-staff-new-visual/.229354"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2281127568",
@@ -65,6 +91,38 @@
             "person": {
                 "+content": "Yuuzou Satou",
                 "+@id": "100246"
+            }
+        },
+        {
+            "+@gid": "2335780898",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Michihiro Tsuchiya",
+                "+@id": "63946"
+            }
+        },
+        {
+            "+@gid": "1608020952",
+            "task": "Music",
+            "person": {
+                "+content": "Kōji Nakamura",
+                "+@id": "244921"
+            }
+        },
+        {
+            "+@gid": "1510292293",
+            "task": "Animation Character Design",
+            "person": {
+                "+content": "Ryō Yamauchi",
+                "+@id": "142039"
+            }
+        },
+        {
+            "+@gid": "2030978436",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Yoshikazu Iwanami",
+                "+@id": "979"
             }
         },
         {
@@ -76,14 +134,72 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2154060733",
-        "task": "Animation Production",
-        "company": {
-            "+content": "KONAMI animation",
-            "+@id": "25141"
+    "cast": [
+        {
+            "+@gid": "1554872132",
+            "+@lang": "JA",
+            "role": "Viktor",
+            "person": {
+                "+content": "Katsuyuki Konishi",
+                "+@id": "780"
+            }
+        },
+        {
+            "+@gid": "472071212",
+            "+@lang": "JA",
+            "role": "Flik",
+            "person": {
+                "+content": "Yūichi Nakamura",
+                "+@id": "15878"
+            }
+        },
+        {
+            "+@gid": "1926170313",
+            "+@lang": "JA",
+            "role": "Jowy",
+            "person": {
+                "+content": "Shimba Tsuchiya",
+                "+@id": "121607"
+            }
+        },
+        {
+            "+@gid": "810388550",
+            "+@lang": "JA",
+            "role": "Riliu",
+            "person": {
+                "+content": "Toshiki Kumagai",
+                "+@id": "197625"
+            }
+        },
+        {
+            "+@gid": "2858874138",
+            "+@lang": "JA",
+            "role": "Nanami",
+            "person": {
+                "+content": "Ayumi Hinohara",
+                "+@id": "232122"
+            }
         }
-    },
+    ],
+    "credit": [
+        {
+            "+@gid": "2154060733",
+            "task": "Animation Production",
+            "company": {
+                "+content": "KONAMI animation",
+                "+@id": "25141"
+            }
+        },
+        {
+            "+@gid": "2341320301",
+            "task": "Production",
+            "company": {
+                "+content": "KONAMI animation",
+                "+@id": "25141"
+            }
+        }
+    ],
     "+@date-added": "2025-03-04T03:29:39Z",
-    "+@date-last-updated-at": "2025-09-19T04:34:47Z"
+    "+@date-last-modified-at": "2025-10-20T13:00:27Z",
+    "+@date-last-updated-at": "2025-10-20T13:00:27Z"
 }

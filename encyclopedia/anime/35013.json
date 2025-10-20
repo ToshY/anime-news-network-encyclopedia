@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Tale of the Secret Saint",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-19T04:34:45Z",
+    "+@generated-on": "2025-10-20T13:00:22Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "30151"
@@ -53,8 +53,8 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026",
-            "+@gid": "2580486130",
+            "+content": "2026-04",
+            "+@gid": "1182504948",
             "+@type": "Vintage"
         },
         {
@@ -65,11 +65,18 @@
             "+@href": "https://daiseijo-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>A Tale of the Secret Saint</cite> TV Anime Reveals Main Staff, 2026 Debut in Video",
-        "+@datetime": "2025-07-19T08:16:48Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-07-19/a-tale-of-the-secret-saint-tv-anime-reveals-main-staff-2026-debut-in-video/.226830"
-    },
+    "news": [
+        {
+            "+content": "<cite>A Tale of the Secret Saint</cite> TV Anime Reveals Main Staff, 2026 Debut in Video",
+            "+@datetime": "2025-07-19T08:16:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-19/a-tale-of-the-secret-saint-tv-anime-reveals-main-staff-2026-debut-in-video/.226830"
+        },
+        {
+            "+content": "<cite>A Tale of the Secret Saint</cite> Anime Unveils More Cast, Debut Next April",
+            "+@datetime": "2025-10-01T03:59:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-30/a-tale-of-the-secret-saint-anime-unveils-more-cast-debut-next-april/.229499"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3096132235",
@@ -130,6 +137,15 @@
     ],
     "cast": [
         {
+            "+@gid": "1613888441",
+            "+@lang": "JA",
+            "role": "Quintin Agata",
+            "person": {
+                "+content": "Tomokazu Sugita",
+                "+@id": "910"
+            }
+        },
+        {
             "+@gid": "2673954421",
             "+@lang": "JA",
             "role": "Fia Ruud",
@@ -148,12 +164,30 @@
             }
         },
         {
+            "+@gid": "729597250",
+            "+@lang": "JA",
+            "role": "Desmond Ronan",
+            "person": {
+                "+content": "Tasuku Hatanaka",
+                "+@id": "99622"
+            }
+        },
+        {
             "+@gid": "2811234345",
             "+@lang": "JA",
             "role": "Saviz Náv",
             "person": {
                 "+content": "Yūichirō Umehara",
                 "+@id": "127402"
+            }
+        },
+        {
+            "+@gid": "2603264145",
+            "+@lang": "JA",
+            "role": "Zachary Townsend",
+            "person": {
+                "+content": "Daiki Hamano",
+                "+@id": "128453"
             }
         },
         {
@@ -175,5 +209,6 @@
         }
     },
     "+@date-added": "2025-03-07T08:11:40Z",
-    "+@date-last-updated-at": "2025-09-19T04:34:47Z"
+    "+@date-last-modified-at": "2025-10-20T13:00:27Z",
+    "+@date-last-updated-at": "2025-10-20T13:00:27Z"
 }

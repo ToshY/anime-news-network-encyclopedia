@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Kamiina Botan, Yoheru Sugata wa Yuri no Hana",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-19T04:34:45Z",
+    "+@generated-on": "2025-10-20T13:00:19Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28713"
@@ -54,11 +54,38 @@
             "+@href": "https://kamiina-botan.com/"
         }
     ],
-    "news": {
-        "+content": "'<cite>Kamiina Botan, Yoheru Sugata wa Yuri no Hana</cite>' Anime Reveals April 2026 Premiere, Starring Role for Sayumi Suzushiro",
-        "+@datetime": "2025-09-12T17:32:37Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-09-12/kamiina-botan-yoheru-sugata-wa-yuri-no-hana-anime-reveals-april-2026-premiere-starring-role-for-/.228728"
-    },
+    "news": [
+        {
+            "+content": "'<cite>Kamiina Botan, Yoheru Sugata wa Yuri no Hana</cite>' Anime Reveals April 2026 Premiere, Starring Role for Sayumi Suzushiro",
+            "+@datetime": "2025-09-12T17:32:37Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-12/kamiina-botan-yoheru-sugata-wa-yuri-no-hana-anime-reveals-april-2026-premiere-starring-role-for-/.228728"
+        },
+        {
+            "+content": "'<cite>Kamiina Botan, Yoheru Sugata wa Yuri no Hana</cite>' Anime Casts Yoshino Aoyama",
+            "+@datetime": "2025-09-19T15:43:19Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-19/kamiina-botan-yoheru-sugata-wa-yuri-no-hana-anime-casts-yoshino-aoyama/.228984"
+        },
+        {
+            "+content": "'<cite>Kamiina Botan, Yoheru Sugata wa Yuri no Hana</cite>' Anime Casts Minako Kotobuki",
+            "+@datetime": "2025-09-26T15:01:36Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-26/kamiina-botan-yoheru-sugata-wa-yuri-no-hana-anime-casts-minako-kotobuki/.229333"
+        },
+        {
+            "+content": "'<cite>Kamiina Botan, Yoheru Sugata wa Yuri no Hana</cite>' Anime Casts Yurina Amami",
+            "+@datetime": "2025-10-03T15:36:30Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-03/kamiina-botan-yoheru-sugata-wa-yuri-no-hana-anime-casts-yurina-amami/.229607"
+        },
+        {
+            "+content": "'<cite>Kamiina Botan, Yoheru Sugata wa Yuri no Hana</cite>' Anime Casts Miyu Tomita",
+            "+@datetime": "2025-10-10T14:10:05Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-10/kamiina-botan-yoheru-sugata-wa-yuri-no-hana-anime-casts-miyu-tomita/.229834"
+        },
+        {
+            "+content": "'<cite>Kamiina Botan, Yoheru Sugata wa Yuri no Hana</cite>' Anime Casts Maki Kawase",
+            "+@datetime": "2025-10-17T14:45:13Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-17/kamiina-botan-yoheru-sugata-wa-yuri-no-hana-anime-casts-maki-kawase/.230037"
+        }
+    ],
     "staff": [
         {
             "+@gid": "952650195",
@@ -96,20 +123,67 @@
             "+@gid": "1753979481",
             "task": "Character Design",
             "person": {
-                "+content": "Kou Yoshinari",
+                "+content": "Kō Yoshinari",
                 "+@id": "30364"
             }
         }
     ],
-    "cast": {
-        "+@gid": "2029944645",
-        "+@lang": "JA",
-        "role": "Botan",
-        "person": {
-            "+content": "Sayumi Suzushiro",
-            "+@id": "170536"
+    "cast": [
+        {
+            "+@gid": "282753286",
+            "+@lang": "JA",
+            "role": "Kanade Gujō",
+            "person": {
+                "+content": "Minako Kotobuki",
+                "+@id": "65512"
+            }
+        },
+        {
+            "+@gid": "1401803717",
+            "+@lang": "JA",
+            "role": "Ibuki Tomino",
+            "person": {
+                "+content": "Yoshino Aoyama",
+                "+@id": "123095"
+            }
+        },
+        {
+            "+@gid": "460767857",
+            "+@lang": "JA",
+            "role": "Chang Chin-Lan",
+            "person": {
+                "+content": "Maki Kawase",
+                "+@id": "145029"
+            }
+        },
+        {
+            "+@gid": "2589392505",
+            "+@lang": "JA",
+            "role": "Yaeka Kitamori",
+            "person": {
+                "+content": "Miyu Tomita",
+                "+@id": "145048"
+            }
+        },
+        {
+            "+@gid": "1103838509",
+            "+@lang": "JA",
+            "role": "Akane Yusa",
+            "person": {
+                "+content": "Yurina Amami",
+                "+@id": "159137"
+            }
+        },
+        {
+            "+@gid": "2029944645",
+            "+@lang": "JA",
+            "role": "Botan",
+            "person": {
+                "+content": "Sayumi Suzushiro",
+                "+@id": "170536"
+            }
         }
-    },
+    ],
     "credit": {
         "+@gid": "1916967267",
         "task": "Animation Production",
@@ -119,6 +193,6 @@
         }
     },
     "+@date-added": "2025-03-13T00:55:46Z",
-    "+@date-last-modified-at": "2025-09-19T04:34:47Z",
-    "+@date-last-updated-at": "2025-09-19T04:34:47Z"
+    "+@date-last-modified-at": "2025-10-20T13:00:27Z",
+    "+@date-last-updated-at": "2025-10-20T13:00:27Z"
 }
