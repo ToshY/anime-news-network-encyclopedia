@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Hell Teacher: Jigoku Sensei Nube",
     "+@precision": "TV 2025",
-    "+@generated-on": "2025-09-21T02:15:42Z",
+    "+@generated-on": "2025-10-21T13:02:20Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "4099"
@@ -65,12 +65,17 @@
             "+@type": "Running time"
         },
         {
-            "+content": "2025-07-02",
-            "+@gid": "3788826632",
+            "+content": "13",
+            "+@gid": "121302708",
+            "+@type": "Number of episodes"
+        },
+        {
+            "+content": "2025-07-02 to 2025-09-24",
+            "+@gid": "241399729",
             "+@type": "Vintage"
         },
         {
-            "+content": "\"P0WER -Akuryo Taisan-\" (P0WER -悪霊退散-) by -SKS- ZIGZAG (eps 2-)",
+            "+content": "\"P0WER -Akuryo Taisan-\" (P0WER -悪霊退散-) by -SKS- ZIGZAG (eps 2-13)",
             "+@gid": "1122296967",
             "+@type": "Opening Theme"
         },
@@ -80,7 +85,7 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "#2: \"Sunflower\" (ひまわり) by Chilli Beans. (eps 2-)",
+            "+content": "#2: \"Sunflower\" (ひまわり) by Chilli Beans. (eps 2-13)",
             "+@gid": "2669377777",
             "+@type": "Ending Theme"
         },
@@ -105,8 +110,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "8",
-        "+@weighted_score": "5.5264"
+        "+@nb_votes": "16",
+        "+@weighted_score": "6.2359",
+        "+@bayesian_score": "6.79042"
     },
     "episode": [
         {
@@ -204,6 +210,14 @@
                 "+@gid": "1910933366",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "The Human Faced Tumor",
+                "+@gid": "1618291810",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -281,6 +295,11 @@
             "+content": "<cite>Hell Teacher: Jigoku Sensei Nube</cite> Anime Casts Ryō Hirohashi",
             "+@datetime": "2025-08-28T18:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-08-28/hell-teacher-jigoku-sensei-nube-anime-casts-ryo-hirohashi/.228206"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, September 22-28",
+            "+@datetime": "2025-10-04T10:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-04/japanese-animation-tv-ranking-september-22-28/.229592"
         }
     ],
     "staff": [
@@ -575,6 +594,15 @@
     ],
     "cast": [
         {
+            "+@gid": "1406170329",
+            "+@lang": "IT",
+            "role": "Meisuke \"Nube\" Nueno",
+            "person": {
+                "+content": "Patrizio Prata",
+                "+@id": "25932"
+            }
+        },
+        {
             "+@gid": "1674136123",
             "+@lang": "JA",
             "role": "Kyōsuke Tamamo",
@@ -665,15 +693,6 @@
             }
         },
         {
-            "+@gid": "3409607035",
-            "+@lang": "JA",
-            "role": "Himari Hoshino",
-            "person": {
-                "+content": "Kiyono Yasuno",
-                "+@id": "99806"
-            }
-        },
-        {
             "+@gid": "1776694626",
             "+@lang": "JA",
             "role": "Yukime",
@@ -734,15 +753,6 @@
             "person": {
                 "+content": "Takahiro Sumi",
                 "+@id": "180291"
-            }
-        },
-        {
-            "+@gid": "3055979441",
-            "+@lang": "JA",
-            "role": "Otona Ikeda",
-            "person": {
-                "+content": "Misuzu Yamada",
-                "+@id": "203100"
             }
         },
         {
@@ -815,6 +825,6 @@
         }
     ],
     "+@date-added": "2024-07-23T17:53:52Z",
-    "+@date-last-modified-at": "2025-09-21T02:15:45Z",
-    "+@date-last-updated-at": "2025-09-21T02:15:45Z"
+    "+@date-last-modified-at": "2025-10-21T13:02:22Z",
+    "+@date-last-updated-at": "2025-10-21T13:02:22Z"
 }

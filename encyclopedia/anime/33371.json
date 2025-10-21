@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "Uma Musume: Cinderella Gray",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-20T16:32:36Z",
-    "related-prev": {
-        "+@rel": "adapted from",
-        "+@id": "27647"
-    },
+    "+@generated-on": "2025-10-21T12:11:43Z",
+    "related-prev": [
+        {
+            "+@rel": "prequel of",
+            "+@id": "20598"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "27647"
+        }
+    ],
     "related-next": {
         "+@id": "36789",
         "+@rel": "sequel"
@@ -81,14 +87,34 @@
             "+@type": "Themes"
         },
         {
+            "+content": "OC",
+            "+@gid": "1379712815",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "Kasamatsu Training Center Academy is located in a deserted area. One Uma Musume appears there. Her name is Oguri Cap. Her overwhelming running style overturns all common sense. Soon, the ash-covered girl known as a \"monster\" will carve out a new legend.",
             "+@gid": "983845772",
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2025-04-06",
-            "+@gid": "1532668707",
+            "+content": "2025-04-06 to 2025-06-29",
+            "+@gid": "1206285818",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Koeru\" (超える; Surpass) by [Alexandros]",
+            "+@gid": "2430456432",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Infinity\" (∞) by Tomoyo Takayanagi",
+            "+@gid": "1381267257",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Brightest Heart\" by Tomoyo Takayanagi",
+            "+@gid": "784530795",
+            "+@type": "Insert song"
         },
         {
             "+content": "アニメ『ウマ娘 シンデレラグレイ』",
@@ -99,10 +125,116 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "18",
-        "+@weighted_score": "8.1077",
-        "+@bayesian_score": "7.84183"
+        "+@nb_votes": "25",
+        "+@weighted_score": "8.155",
+        "+@bayesian_score": "7.92165"
     },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "Finally, a Star",
+                "+@gid": "506401658",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "Let Me Race",
+                "+@gid": "2468410603",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "View from the Top",
+                "+@gid": "444062693",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "The Junior Crown",
+                "+@gid": "2400559217",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "What's Best for Her",
+                "+@gid": "1692144916",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "The Beast",
+                "+@gid": "1741587342",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "Tracen Academy",
+                "+@gid": "3028120529",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "The Right Stuff",
+                "+@gid": "2206446526",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "The Japanese Derby",
+                "+@gid": "2663903285",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "The Top",
+                "+@gid": "371827352",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "The Star of Kasamatsu",
+                "+@gid": "1466437247",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "The Fall Tenno Sho",
+                "+@gid": "1674710318",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "Japan's Best",
+                "+@gid": "125114462",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "review": {
         "+content": "Uma Musume: Cinderella Gray Season 1 Anime Review",
         "+@href": "https://www.animenewsnetwork.com/review/uma-musume/cinderella-gray/season-1/.226776"
@@ -987,6 +1119,14 @@
             }
         },
         {
+            "+@gid": "2640527524",
+            "task": "Producer",
+            "person": {
+                "+content": "Kazuki Gunji",
+                "+@id": "177216"
+            }
+        },
+        {
             "+@gid": "2312975286",
             "task": "Producer",
             "person": {
@@ -1104,6 +1244,15 @@
             }
         },
         {
+            "+@gid": "2096029003",
+            "+@lang": "JA",
+            "role": "God Hannibal",
+            "person": {
+                "+content": "Michiko Kaiden",
+                "+@id": "117921"
+            }
+        },
+        {
             "+@gid": "3407583309",
             "+@lang": "JA",
             "role": "Dicta Striker",
@@ -1167,15 +1316,6 @@
             }
         },
         {
-            "+@gid": "1729751818",
-            "+@lang": "JA",
-            "role": "Gold City",
-            "person": {
-                "+content": "Saki Kōsaka",
-                "+@id": "145369"
-            }
-        },
-        {
             "+@gid": "1904794277",
             "+@lang": "JA",
             "role": "Sensuke Fujii",
@@ -1194,12 +1334,21 @@
             }
         },
         {
-            "+@gid": "2209106196",
+            "+@gid": "3247550013",
             "+@lang": "JA",
-            "role": "Mr. C.B.",
+            "role": "Kraft Univer",
             "person": {
-                "+content": "Yurina Amami",
-                "+@id": "159137"
+                "+content": "Takako Tanaka",
+                "+@id": "165284"
+            }
+        },
+        {
+            "+@gid": "2225887238",
+            "+@lang": "JA",
+            "role": "Meikun Tsukasa",
+            "person": {
+                "+content": "Mayuko Kazama",
+                "+@id": "195565"
             }
         },
         {
@@ -1221,9 +1370,9 @@
             }
         },
         {
-            "+@gid": "2004989327",
+            "+@gid": "1229124294",
             "+@lang": "JA",
-            "role": "Berno Light",
+            "role": "Belno Light",
             "person": {
                 "+content": "Momoko Seto",
                 "+@id": "235797"
@@ -1248,6 +1397,6 @@
         }
     },
     "+@date-added": "2024-08-24T07:32:46Z",
-    "+@date-last-modified-at": "2025-09-20T16:32:38Z",
-    "+@date-last-updated-at": "2025-09-20T16:32:38Z"
+    "+@date-last-modified-at": "2025-10-21T13:02:22Z",
+    "+@date-last-updated-at": "2025-10-21T13:02:22Z"
 }
