@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "CITY The Animation",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-20T12:53:01Z",
+    "+@generated-on": "2025-10-21T08:43:17Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "19034"
@@ -73,8 +73,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "8",
-        "+@weighted_score": "7.0088"
+        "+@nb_votes": "36",
+        "+@weighted_score": "7.4412",
+        "+@bayesian_score": "7.44961"
     },
     "news": [
         {
@@ -375,6 +376,14 @@
             }
         },
         {
+            "+@gid": "2235658956",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kengo Narimatsu",
+                "+@id": "189721"
+            }
+        },
+        {
             "+@gid": "2872974451",
             "task": "3D Director",
             "person": {
@@ -473,6 +482,15 @@
             "person": {
                 "+content": "Max Mittelman",
                 "+@id": "131942"
+            }
+        },
+        {
+            "+@gid": "3733727706",
+            "+@lang": "EN",
+            "role": "Kamome Adatara",
+            "person": {
+                "+content": "Erica Lindbeck",
+                "+@id": "132935"
             }
         },
         {
@@ -1320,6 +1338,6 @@
         }
     ],
     "+@date-added": "2024-09-21T18:57:27Z",
-    "+@date-last-modified-at": "2025-09-20T12:53:02Z",
-    "+@date-last-updated-at": "2025-09-20T12:53:02Z"
+    "+@date-last-modified-at": "2025-10-21T08:43:19Z",
+    "+@date-last-updated-at": "2025-10-21T08:43:19Z"
 }

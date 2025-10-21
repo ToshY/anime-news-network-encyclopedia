@@ -4,33 +4,28 @@
     "+@type": "TV",
     "+@name": "Fragrant Flower Blooms With Dignity",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-20T16:32:35Z",
+    "+@generated-on": "2025-10-21T08:43:18Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27864"
     },
     "info": [
         {
-            "+@gid": "1546311627",
+            "+@gid": "1933786237",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33549-1546311627.1749271756.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33549-1933786237.1760616500.jpg",
+            "+@width": "140",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33549-1546311627.1749271756.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33549-1933786237.1760616500.jpg",
+                    "+@width": "140",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33549-1546311627.1749271756.jpg",
-                    "+@width": "425",
-                    "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A33549-1546311627.1749271756.jpg",
-                    "+@width": "849",
-                    "+@height": "1200"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33549-1933786237.1760616500.jpg",
+                    "+@width": "350",
+                    "+@height": "500"
                 }
             ]
         },
@@ -104,6 +99,11 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "#2: \"Hitohira\" (ひとひら) by Hitomi Miyahara (ep 13)",
+            "+@gid": "1668813650",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "TVアニメ『薫る花は凛と咲く』公式サイト",
             "+@gid": "1602026755",
             "+@type": "Official website",
@@ -112,8 +112,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "8.5984"
+        "+@nb_votes": "40",
+        "+@weighted_score": "8.0766",
+        "+@bayesian_score": "7.92852"
     },
     "episode": [
         {
@@ -210,6 +211,22 @@
             "title": {
                 "+content": "A Morsel of Warmth",
                 "+@gid": "1605002409",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Bewilderment at the Beachside",
+                "+@gid": "2323485650",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "Kaoruko and Rintaro",
+                "+@gid": "1822726152",
                 "+@lang": "EN"
             }
         }
@@ -702,11 +719,27 @@
             }
         },
         {
+            "+@gid": "3196763651",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Asami Komatsu",
+                "+@id": "155086"
+            }
+        },
+        {
             "+@gid": "930989909",
             "task": "Animation Director",
             "person": {
                 "+content": "Satoshi Yamaguchi",
                 "+@id": "174194"
+            }
+        },
+        {
+            "+@gid": "2335207707",
+            "task": "Animation Director",
+            "person": {
+                "+content": "He Lun",
+                "+@id": "174225"
             }
         },
         {
@@ -755,6 +788,14 @@
             "person": {
                 "+content": "Zhuyin Lin",
                 "+@id": "255655"
+            }
+        },
+        {
+            "+@gid": "3701115308",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nagiyama",
+                "+@id": "285224"
             }
         },
         {
@@ -1140,6 +1181,24 @@
                 "+content": "Kikunosuke Toya",
                 "+@id": "222634"
             }
+        },
+        {
+            "+@gid": "237557704",
+            "+@lang": "PT",
+            "role": "Rintaro Tsumugi",
+            "person": {
+                "+content": "Yuri Chesman",
+                "+@id": "48872"
+            }
+        },
+        {
+            "+@gid": "2134918385",
+            "+@lang": "PT",
+            "role": "Kaoruko Waguri",
+            "person": {
+                "+content": "Raissa Bueno",
+                "+@id": "152545"
+            }
         }
     ],
     "credit": [
@@ -1209,6 +1268,6 @@
         }
     ],
     "+@date-added": "2024-09-16T05:01:16Z",
-    "+@date-last-modified-at": "2025-09-20T16:32:38Z",
-    "+@date-last-updated-at": "2025-09-20T16:32:38Z"
+    "+@date-last-modified-at": "2025-10-21T08:43:19Z",
+    "+@date-last-updated-at": "2025-10-21T08:43:19Z"
 }
