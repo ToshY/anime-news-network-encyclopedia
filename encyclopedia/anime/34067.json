@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Star Wars: Visions Volume 3",
     "+@precision": "ONA",
-    "+@generated-on": "2025-09-20T04:33:55Z",
+    "+@generated-on": "2025-10-21T02:11:46Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "25735"
@@ -36,6 +36,12 @@
             "+@lang": "EN"
         },
         {
+            "+content": "Gwiezdne wojny: Wizje – sezon 3",
+            "+@gid": "2396374350",
+            "+@type": "Alternative title",
+            "+@lang": "PL"
+        },
+        {
             "+content": "スター・ウォーズ：ビジョンズ Volume 3",
             "+@gid": "2190049287",
             "+@type": "Alternative title",
@@ -47,11 +53,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "<cite>Star Wars: Visions</cite> Volume 3 Unveils New Visual",
-        "+@datetime": "2025-08-22T19:18:29Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-08-22/star-wars-visions-volume-3-unveils-new-visual/.227966"
-    },
+    "news": [
+        {
+            "+content": "<cite>Star Wars: Visions</cite> Volume 3 Unveils New Visual",
+            "+@datetime": "2025-08-22T19:18:29Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-22/star-wars-visions-volume-3-unveils-new-visual/.227966"
+        },
+        {
+            "+content": "<cite>Star Wars: Visions</cite> Volume 3 Trailer Unveils Japanese, English Casts",
+            "+@datetime": "2025-09-26T01:47:55Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-25/star-wars-visions-volume-3-trailer-unveils-japanese-english-casts/.229299"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3580114446",
@@ -182,6 +195,71 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "1224833634",
+            "+@lang": "EN",
+            "role": "Homen",
+            "person": {
+                "+content": "Patrick Seitz",
+                "+@id": "7108"
+            }
+        },
+        {
+            "+@gid": "1808408905",
+            "+@lang": "EN",
+            "role": "Juro",
+            "person": {
+                "+content": "Andrew Kishino",
+                "+@id": "126362"
+            }
+        },
+        {
+            "+@gid": "1795786862",
+            "+@lang": "EN",
+            "role": "Ethan",
+            "person": {
+                "+content": "Masi Oka",
+                "+@id": "162814"
+            }
+        },
+        {
+            "+@gid": "3065761383",
+            "+@lang": "EN",
+            "role": "Ronin",
+            "person": {
+                "+content": "Brian Tee",
+                "+@id": "211658"
+            }
+        },
+        {
+            "+@gid": "963943880",
+            "+@lang": "EN",
+            "role": "F",
+            "person": {
+                "+content": "Karen Fukuhara",
+                "+@id": "211662"
+            }
+        },
+        {
+            "+@gid": "2428051663",
+            "+@lang": "EN",
+            "role": "Zhima",
+            "person": {
+                "+content": "Simu Liu",
+                "+@id": "211666"
+            }
+        },
+        {
+            "+@gid": "1762743645",
+            "+@lang": "EN",
+            "role": "Kara",
+            "person": {
+                "+content": "Kimiko Glenn",
+                "+@id": "211668"
+            }
+        }
+    ],
     "credit": [
         {
             "+@gid": "2594809796",
@@ -257,6 +335,6 @@
         }
     ],
     "+@date-added": "2024-11-20T07:30:15Z",
-    "+@date-last-modified-at": "2025-09-20T04:33:58Z",
-    "+@date-last-updated-at": "2025-09-20T04:33:58Z"
+    "+@date-last-modified-at": "2025-10-21T02:11:48Z",
+    "+@date-last-updated-at": "2025-10-21T02:11:48Z"
 }

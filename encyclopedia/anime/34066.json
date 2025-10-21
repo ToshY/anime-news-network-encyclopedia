@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Anne Shirley",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-20T04:33:55Z",
+    "+@generated-on": "2025-10-21T02:11:46Z",
     "related-next": {
         "+@id": "34249",
         "+@rel": "adaptation"
@@ -110,8 +110,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "11",
-        "+@weighted_score": "7.2481"
+        "+@nb_votes": "51",
+        "+@weighted_score": "7.9549",
+        "+@bayesian_score": "7.85699"
     },
     "news": [
         {
@@ -371,6 +372,15 @@
             }
         },
         {
+            "+@gid": "1798660750",
+            "+@lang": "EN",
+            "role": "Christine Stuart",
+            "person": {
+                "+content": "Natalie Van Sistine",
+                "+@id": "148111"
+            }
+        },
+        {
             "+@gid": "2104616446",
             "+@lang": "EN",
             "role": "Rachel Lynde",
@@ -386,6 +396,15 @@
             "person": {
                 "+content": "Hayden Daviau",
                 "+@id": "174838"
+            }
+        },
+        {
+            "+@gid": "632007686",
+            "+@lang": "EN",
+            "role": "Royal \"Roy\" Gardner",
+            "person": {
+                "+content": "Ryan Negron",
+                "+@id": "216167"
             }
         },
         {
@@ -413,6 +432,15 @@
             "person": {
                 "+content": "Monica Flatley",
                 "+@id": "240600"
+            }
+        },
+        {
+            "+@gid": "2324560663",
+            "+@lang": "EN",
+            "role": "Aunt Jemesina",
+            "person": {
+                "+content": "Erin Lundquist",
+                "+@id": "241092"
             }
         },
         {
@@ -497,6 +525,24 @@
             }
         },
         {
+            "+@gid": "2891067776",
+            "+@lang": "IT",
+            "role": "Marilla Cuthbert",
+            "person": {
+                "+content": "Lorella De Luca",
+                "+@id": "26522"
+            }
+        },
+        {
+            "+@gid": "2272482053",
+            "+@lang": "IT",
+            "role": "Anna Shirley",
+            "person": {
+                "+content": "Giada Bonanomi",
+                "+@id": "166899"
+            }
+        },
+        {
             "+@gid": "2551339299",
             "+@lang": "JA",
             "role": "Matthew Cuthbert",
@@ -521,6 +567,15 @@
             "person": {
                 "+content": "Kimiko Saitō",
                 "+@id": "3224"
+            }
+        },
+        {
+            "+@gid": "3205047584",
+            "+@lang": "JA",
+            "role": "Aunt Jamesina",
+            "person": {
+                "+content": "Masako Isobe",
+                "+@id": "8420"
             }
         },
         {
@@ -557,15 +612,6 @@
             "person": {
                 "+content": "Chika Anzai",
                 "+@id": "78724"
-            }
-        },
-        {
-            "+@gid": "1622991629",
-            "+@lang": "JA",
-            "role": "J.A. Harrison",
-            "person": {
-                "+content": "Hikari Ōta",
-                "+@id": "86138"
             }
         },
         {
@@ -692,6 +738,6 @@
         }
     ],
     "+@date-added": "2024-11-20T01:03:24Z",
-    "+@date-last-modified-at": "2025-09-20T04:33:58Z",
-    "+@date-last-updated-at": "2025-09-20T04:33:58Z"
+    "+@date-last-modified-at": "2025-10-21T02:11:48Z",
+    "+@date-last-updated-at": "2025-10-21T02:11:48Z"
 }

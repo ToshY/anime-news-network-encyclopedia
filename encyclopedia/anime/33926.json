@@ -4,27 +4,27 @@
     "+@type": "TV",
     "+@name": "Case Book of Arne",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-20T08:34:22Z",
+    "+@generated-on": "2025-10-21T02:11:46Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "37315"
     },
     "info": [
         {
-            "+@gid": "1027539582",
+            "+@gid": "2256857411",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33926-1027539582.1730947039.jpg",
-            "+@width": "160",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33926-2256857411.1760879476.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33926-1027539582.1730947039.jpg",
-                    "+@width": "160",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33926-2256857411.1760879476.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33926-1027539582.1730947039.jpg",
-                    "+@width": "480",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33926-2256857411.1760879476.jpg",
+                    "+@width": "424",
                     "+@height": "600"
                 }
             ]
@@ -58,9 +58,19 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026-01",
-            "+@gid": "1627432463",
+            "+content": "2026-01-06",
+            "+@gid": "1942198093",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Q.E.D.\" by Sou",
+            "+@gid": "781335442",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Ningyō no Machi\" (Doll Town) by Watashi Kobayashi",
+            "+@gid": "2137590621",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "アルネの事件簿",
@@ -80,6 +90,11 @@
             "+content": "<cite>The Case Book of Arne</cite> Anime's Teaser Reveals Staff, January Debut",
             "+@datetime": "2025-08-06T03:46:19Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-08-05/the-case-book-of-arne-anime-teaser-reveals-staff-january-debut/.227396"
+        },
+        {
+            "+content": "<cite>The Case Book of Arne</cite> Anime's New Video Reveals Cast, Song Artists, January 6 Debut",
+            "+@datetime": "2025-10-19T12:12:57Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-19/the-case-book-of-arne-anime-new-video-reveals-cast-song-artists-january-6-debut/.230093"
         }
     ],
     "staff": [
@@ -105,6 +120,30 @@
             "person": {
                 "+content": "Murasaki",
                 "+@id": "272889"
+            }
+        },
+        {
+            "+@gid": "2062229316",
+            "task": "Script",
+            "person": {
+                "+content": "Aya Matsui",
+                "+@id": "1477"
+            }
+        },
+        {
+            "+@gid": "3446052108",
+            "task": "Script",
+            "person": {
+                "+content": "Akira Nishikubo",
+                "+@id": "189642"
+            }
+        },
+        {
+            "+@gid": "3507511954",
+            "task": "Script",
+            "person": {
+                "+content": "Hitomi Ogawa",
+                "+@id": "243089"
             }
         },
         {
@@ -140,11 +179,81 @@
             }
         },
         {
+            "+@gid": "2366109395",
+            "task": "Art Director",
+            "person": {
+                "+content": "Tetsuhiro Shimizu",
+                "+@id": "57154"
+            }
+        },
+        {
             "+@gid": "2416689034",
             "task": "Chief Animation Director",
             "person": {
                 "+content": "Akiko Satō",
                 "+@id": "24339"
+            }
+        },
+        {
+            "+@gid": "2409070431",
+            "task": "3D Director",
+            "person": {
+                "+content": "Yuki Kuribayashi",
+                "+@id": "98553"
+            }
+        },
+        {
+            "+@gid": "1025524635",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Kōhei Yoshida",
+                "+@id": "123180"
+            }
+        },
+        {
+            "+@gid": "2783357211",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Sayumi Yamada",
+                "+@id": "183654"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1704229516",
+            "+@lang": "JA",
+            "role": "Luis Hartman",
+            "person": {
+                "+content": "Mariya Ise",
+                "+@id": "46112"
+            }
+        },
+        {
+            "+@gid": "2489639891",
+            "+@lang": "JA",
+            "role": "Arne Neuntöte",
+            "person": {
+                "+content": "Kōki Uchiyama",
+                "+@id": "56091"
+            }
+        },
+        {
+            "+@gid": "3206868275",
+            "+@lang": "JA",
+            "role": "Arne Neuntöte",
+            "person": {
+                "+content": "Aimi Tanaka",
+                "+@id": "118294"
+            }
+        },
+        {
+            "+@gid": "3122157608",
+            "+@lang": "JA",
+            "role": "Lynn Reinweiss",
+            "person": {
+                "+content": "Yuka Nukui",
+                "+@id": "150368"
             }
         }
     ],
@@ -157,6 +266,6 @@
         }
     },
     "+@date-added": "2024-11-06T21:36:11Z",
-    "+@date-last-modified-at": "2025-09-20T08:34:25Z",
-    "+@date-last-updated-at": "2025-09-20T08:34:25Z"
+    "+@date-last-modified-at": "2025-10-21T02:11:48Z",
+    "+@date-last-updated-at": "2025-10-21T02:11:48Z"
 }

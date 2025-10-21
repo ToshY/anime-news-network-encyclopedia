@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "There's No Freaking Way I'll Be Your Lover! Unless...",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-20T08:34:22Z",
+    "+@generated-on": "2025-10-21T02:11:46Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25907"
+    },
+    "related-next": {
+        "+@id": "37865",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -34,6 +38,12 @@
             "+@gid": "2121726194",
             "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Um Amor Impossível! Ou não...",
+            "+@gid": "2115897556",
+            "+@type": "Alternative title",
+            "+@lang": "PT"
         },
         {
             "+content": "WataNare - Non esiste che ci mettiamo insieme... oppure sì?",
@@ -91,8 +101,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "8.2502"
+        "+@nb_votes": "34",
+        "+@weighted_score": "7.6557",
+        "+@bayesian_score": "7.60514"
     },
     "news": [
         {
@@ -104,6 +115,11 @@
             "+content": "<cite>'There's No Freaking Way I'll Be Your Lover! Unless...'</cite> Anime's New Video Unveils More Cast, Theme Songs, July 7 TV Debut",
             "+@datetime": "2025-06-10T13:04:08Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-06-10/there-no-freaking-way-ill-be-your-lover-unless-anime-new-video-unveils-more-cast-theme-songs-july-7-/.225402"
+        },
+        {
+            "+content": "<cite>'There's No Freaking Way I'll Be Your Lover! Unless...'</cite> Anime Gets Theatrical Sequel (Updated)",
+            "+@datetime": "2025-09-22T16:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-22/there-no-freaking-way-ill-be-your-lover-unless-anime-gets-theatrical-sequel/.229091"
         }
     ],
     "staff": [
@@ -169,6 +185,14 @@
             "person": {
                 "+content": "Kenta Kushitani",
                 "+@id": "104381"
+            }
+        },
+        {
+            "+@gid": "1826506668",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Koichi Tamura",
+                "+@id": "144256"
             }
         },
         {
@@ -372,6 +396,30 @@
             }
         },
         {
+            "+@gid": "2762765323",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Toshiyuki Yahagi",
+                "+@id": "30828"
+            }
+        },
+        {
+            "+@gid": "1643724671",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Hisao Ishii",
+                "+@id": "40925"
+            }
+        },
+        {
+            "+@gid": "2398397535",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Asuka Suzuki",
+                "+@id": "58833"
+            }
+        },
+        {
             "+@gid": "1363354712",
             "task": "Chief Animation Director",
             "person": {
@@ -497,6 +545,14 @@
             "person": {
                 "+content": "Xing Yu Zhao",
                 "+@id": "84408"
+            }
+        },
+        {
+            "+@gid": "1912209105",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sakurako Mitsuhashi",
+                "+@id": "84710"
             }
         },
         {
@@ -959,6 +1015,6 @@
         }
     ],
     "+@date-added": "2024-11-19T06:57:42Z",
-    "+@date-last-modified-at": "2025-09-20T08:34:25Z",
-    "+@date-last-updated-at": "2025-09-20T08:34:25Z"
+    "+@date-last-modified-at": "2025-10-21T02:11:48Z",
+    "+@date-last-updated-at": "2025-10-21T02:11:48Z"
 }

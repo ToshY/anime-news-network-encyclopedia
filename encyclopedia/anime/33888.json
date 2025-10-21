@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Kaya-chan Isn't Scary",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-20T08:34:23Z",
+    "+@generated-on": "2025-10-21T02:11:47Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28168"
@@ -13,18 +13,18 @@
         {
             "+@gid": "1283539657",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33888-1283539657.1730445591.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33888-1283539657.1759742558.jpg",
+            "+@width": "149",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33888-1283539657.1730445591.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33888-1283539657.1759742558.jpg",
+                    "+@width": "149",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33888-1283539657.1730445591.jpg",
-                    "+@width": "423",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33888-1283539657.1759742558.jpg",
+                    "+@width": "446",
                     "+@height": "600"
                 }
             ]
@@ -53,6 +53,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "2026-01",
+            "+@gid": "449124878",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ『カヤちゃんはコワくない』公式サイト",
             "+@gid": "3430059190",
             "+@type": "Official website",
@@ -60,11 +65,18 @@
             "+@href": "https://kayachan.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Kaya-chan Isn't Scary</cite> Anime Reveals Staff, Cast in 1st Promo Video",
-        "+@datetime": "2025-06-06T10:05:11Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-06-06/kaya-chan-isnt-scary-anime-reveals-staff-cast-in-1st-promo-video/.225199"
-    },
+    "news": [
+        {
+            "+content": "<cite>Kaya-chan Isn't Scary</cite> Anime Reveals Staff, Cast in 1st Promo Video",
+            "+@datetime": "2025-06-06T10:05:11Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-06/kaya-chan-isnt-scary-anime-reveals-staff-cast-in-1st-promo-video/.225199"
+        },
+        {
+            "+content": "<cite>Kaya-chan Isn't Scary</cite> Anime Reveals January Debut, More Cast",
+            "+@datetime": "2025-10-06T09:01:30Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-06/kaya-chan-isnt-scary-anime-reveals-january-debut-more-cast/.229662"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3846498531",
@@ -133,12 +145,48 @@
     ],
     "cast": [
         {
+            "+@gid": "1229689318",
+            "+@lang": "JA",
+            "role": "Namu",
+            "person": {
+                "+content": "Yūki Kaji",
+                "+@id": "58051"
+            }
+        },
+        {
+            "+@gid": "2487436642",
+            "+@lang": "JA",
+            "role": "Chihiro Sensei",
+            "person": {
+                "+content": "Shiori Izawa",
+                "+@id": "74850"
+            }
+        },
+        {
             "+@gid": "3281203138",
             "+@lang": "JA",
             "role": "Chie Sensei",
             "person": {
                 "+content": "Maaya Uchida",
                 "+@id": "94314"
+            }
+        },
+        {
+            "+@gid": "3029900863",
+            "+@lang": "JA",
+            "role": "Akira Sensei",
+            "person": {
+                "+content": "Azusa Tadokoro",
+                "+@id": "112367"
+            }
+        },
+        {
+            "+@gid": "1645117737",
+            "+@lang": "JA",
+            "role": "Mobuo",
+            "person": {
+                "+content": "Fukushi Ochiai",
+                "+@id": "141955"
             }
         },
         {
@@ -160,5 +208,6 @@
         }
     },
     "+@date-added": "2024-11-01T03:19:05Z",
-    "+@date-last-updated-at": "2025-09-20T08:34:25Z"
+    "+@date-last-modified-at": "2025-10-21T02:11:48Z",
+    "+@date-last-updated-at": "2025-10-21T02:11:48Z"
 }
