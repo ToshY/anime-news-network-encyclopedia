@@ -4,23 +4,23 @@
     "+@type": "TV",
     "+@name": "Goodbye, Lara",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-21T08:32:49Z",
+    "+@generated-on": "2025-10-21T20:35:05Z",
     "info": [
         {
-            "+@gid": "2612368358",
+            "+@gid": "1732173046",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32739-2612368358.1751314385.jpg",
-            "+@width": "151",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32739-1732173046.1759027112.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32739-2612368358.1751314385.jpg",
-                    "+@width": "151",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32739-1732173046.1759027112.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32739-2612368358.1751314385.jpg",
-                    "+@width": "452",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32739-1732173046.1759027112.jpg",
+                    "+@width": "424",
                     "+@height": "600"
                 }
             ]
@@ -71,6 +71,11 @@
             "+content": "<cite>'Goodbye, Lara'</cite> Anime's Video Reveals Hana Hishikawa as Lara",
             "+@datetime": "2025-06-30T17:57:19Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-06-30/goodbye-lara-anime-video-reveals-hana-hishikawa-as-lara/.226147"
+        },
+        {
+            "+content": "<cite>'Goodbye, Lara'</cite> Original Anime Reveals New Cast in Video",
+            "+@datetime": "2025-09-27T11:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-27/goodbye-lara-original-anime-reveals-new-cast-in-video/.229355"
         }
     ],
     "staff": [
@@ -107,15 +112,26 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "987704317",
-        "+@lang": "JA",
-        "role": "Lara",
-        "person": {
-            "+content": "Hana Hishikawa",
-            "+@id": "207426"
+    "cast": [
+        {
+            "+@gid": "987704317",
+            "+@lang": "JA",
+            "role": "Lara",
+            "person": {
+                "+content": "Hana Hishikawa",
+                "+@id": "207426"
+            }
+        },
+        {
+            "+@gid": "3205822577",
+            "+@lang": "JA",
+            "role": "Mari Otsu",
+            "person": {
+                "+content": "Nana Kawaishi",
+                "+@id": "263934"
+            }
         }
-    },
+    ],
     "credit": {
         "+@gid": "856860331",
         "task": "Animation Production",
@@ -125,5 +141,6 @@
         }
     },
     "+@date-added": "2024-05-18T17:42:26Z",
-    "+@date-last-updated-at": "2025-09-21T08:32:51Z"
+    "+@date-last-modified-at": "2025-10-21T20:35:06Z",
+    "+@date-last-updated-at": "2025-10-21T20:35:06Z"
 }

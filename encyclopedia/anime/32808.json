@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Gachiakuta",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-21T04:34:27Z",
+    "+@generated-on": "2025-10-21T20:35:04Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27408"
@@ -146,8 +146,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "7",
-        "+@weighted_score": "6.0641"
+        "+@nb_votes": "13",
+        "+@weighted_score": "6.4865",
+        "+@bayesian_score": "6.9797"
     },
     "episode": [
         {
@@ -235,6 +236,38 @@
             "title": {
                 "+content": "Amo's Hospitality",
                 "+@gid": "4004680368",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Something Like a Curse",
+                "+@gid": "2374849034",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "An Empty Gaze",
+                "+@gid": "2278838898",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "14",
+            "title": {
+                "+content": "The Storm Before the Storm",
+                "+@gid": "2069324773",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "15",
+            "title": {
+                "+content": "Clash!",
+                "+@gid": "2656795620",
                 "+@lang": "EN"
             }
         }
@@ -334,6 +367,21 @@
             "+content": "Crunchyroll Announces Release Schedule for Fall 2025 Season",
             "+@datetime": "2025-09-17T17:21:06Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-09-17/crunchyroll-announces-release-schedule-for-fall-2025-season/.228908"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, September 8-14",
+            "+@datetime": "2025-09-22T13:45:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-22/japanese-animation-tv-ranking-september-8-14/.229068"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, September 15-21",
+            "+@datetime": "2025-09-29T13:45:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-29/japanese-animation-tv-ranking-september-15-21/.229423"
+        },
+        {
+            "+content": "<cite>Gachiakuta</cite> Anime's 2nd Half Unveils More Cast, Theme Songs in Video",
+            "+@datetime": "2025-10-07T02:32:37Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-06/gachiakuta-anime-2nd-half-unveils-more-cast-theme-songs-in-video/.229690"
         }
     ],
     "staff": [
@@ -378,6 +426,22 @@
             }
         },
         {
+            "+@gid": "584816059",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shinji Ishihira",
+                "+@id": "28779"
+            }
+        },
+        {
+            "+@gid": "2212779733",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kenta Yokoya",
+                "+@id": "70947"
+            }
+        },
+        {
             "+@gid": "3476519398",
             "task": "Storyboard",
             "person": {
@@ -391,6 +455,14 @@
             "person": {
                 "+content": "Jong Heo",
                 "+@id": "178586"
+            }
+        },
+        {
+            "+@gid": "2557326082",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hitoyuki Matsui",
+                "+@id": "5027"
             }
         },
         {
@@ -418,11 +490,35 @@
             }
         },
         {
+            "+@gid": "2217949645",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Satoshi Toba",
+                "+@id": "14731"
+            }
+        },
+        {
+            "+@gid": "1494803731",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Daisuke Tsukushi",
+                "+@id": "39253"
+            }
+        },
+        {
             "+@gid": "334772485",
             "task": "Episode Director",
             "person": {
                 "+content": "Koji Nagatomi",
                 "+@id": "56033"
+            }
+        },
+        {
+            "+@gid": "2220261098",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takanori Yano",
+                "+@id": "81812"
             }
         },
         {
@@ -604,12 +700,57 @@
     ],
     "cast": [
         {
+            "+@gid": "3175078728",
+            "+@lang": "DE",
+            "role": "Amo Empool",
+            "person": {
+                "+content": "Julia Fölster",
+                "+@id": "48349"
+            }
+        },
+        {
+            "+@gid": "723822921",
+            "+@lang": "DE",
+            "role": "Enjin",
+            "person": {
+                "+content": "Daniel Schütter",
+                "+@id": "162453"
+            }
+        },
+        {
+            "+@gid": "3298484405",
+            "+@lang": "DE",
+            "role": "Rudo Surebrec",
+            "person": {
+                "+content": "Markus Feustel",
+                "+@id": "289209"
+            }
+        },
+        {
+            "+@gid": "955430680",
+            "+@lang": "DE",
+            "role": "Tamsy Caines",
+            "person": {
+                "+content": "Bojan Havic",
+                "+@id": "289210"
+            }
+        },
+        {
             "+@gid": "2448997668",
             "+@lang": "EN",
             "role": "Regto",
             "person": {
                 "+content": "John Burgmeier",
                 "+@id": "1113"
+            }
+        },
+        {
+            "+@gid": "2944509518",
+            "+@lang": "EN",
+            "role": "Alice Stilza",
+            "person": {
+                "+content": "Laurie Steele",
+                "+@id": "9198"
             }
         },
         {
@@ -748,6 +889,24 @@
             }
         },
         {
+            "+@gid": "1274058404",
+            "+@lang": "EN",
+            "role": "Bro Santa",
+            "person": {
+                "+content": "Gerardo Davila",
+                "+@id": "212432"
+            }
+        },
+        {
+            "+@gid": "1437891658",
+            "+@lang": "EN",
+            "role": "Dear Santa",
+            "person": {
+                "+content": "Naya Moreno",
+                "+@id": "228321"
+            }
+        },
+        {
             "+@gid": "1245878117",
             "+@lang": "EN",
             "role": "Zanka",
@@ -826,6 +985,15 @@
             "person": {
                 "+content": "Miguel de León",
                 "+@id": "146758"
+            }
+        },
+        {
+            "+@gid": "3863100683",
+            "+@lang": "ES",
+            "role": "Amo Empool",
+            "person": {
+                "+content": "Azucena Miranda",
+                "+@id": "155874"
             }
         },
         {
@@ -964,9 +1132,27 @@
             }
         },
         {
+            "+@gid": "458491936",
+            "+@lang": "FR",
+            "role": "Enjin",
+            "person": {
+                "+content": "Stéphane Oerteli",
+                "+@id": "152962"
+            }
+        },
+        {
             "+@gid": "3389328585",
             "+@lang": "FR",
             "role": "Delmon Gates",
+            "person": {
+                "+content": "Jean-François Rossion",
+                "+@id": "171936"
+            }
+        },
+        {
+            "+@gid": "2156991472",
+            "+@lang": "FR",
+            "role": "Zodyl Typhon",
             "person": {
                 "+content": "Jean-François Rossion",
                 "+@id": "171936"
@@ -1020,7 +1206,7 @@
         {
             "+@gid": "3495802567",
             "+@lang": "FR",
-            "role": "Remlin",
+            "role": "Remlin Tysark",
             "person": {
                 "+content": "Estelle Strypstein",
                 "+@id": "241874"
@@ -1054,12 +1240,75 @@
             }
         },
         {
+            "+@gid": "2381388521",
+            "+@lang": "FR",
+            "role": "Asia/Eisha, Cthoni",
+            "person": {
+                "+content": "Romina Palmeri",
+                "+@id": "288359"
+            }
+        },
+        {
+            "+@gid": "758806474",
+            "+@lang": "FR",
+            "role": "Cthoni Andor",
+            "person": {
+                "+content": "Romina Palmeri",
+                "+@id": "288359"
+            }
+        },
+        {
+            "+@gid": "3122645255",
+            "+@lang": "FR",
+            "role": "Eishia Stilzer",
+            "person": {
+                "+content": "Romina Palmeri",
+                "+@id": "288359"
+            }
+        },
+        {
             "+@gid": "2740798632",
             "+@lang": "IT",
             "role": "Regto",
             "person": {
                 "+content": "Claudio Moneta",
                 "+@id": "18124"
+            }
+        },
+        {
+            "+@gid": "3576636643",
+            "+@lang": "IT",
+            "role": "Tamsy Caines",
+            "person": {
+                "+content": "Alex Polidori",
+                "+@id": "57531"
+            }
+        },
+        {
+            "+@gid": "2158384980",
+            "+@lang": "IT",
+            "role": "Delmon Gates",
+            "person": {
+                "+content": "Luca Graziani",
+                "+@id": "59720"
+            }
+        },
+        {
+            "+@gid": "2790519689",
+            "+@lang": "IT",
+            "role": "Arkha Corvus",
+            "person": {
+                "+content": "Ruggero Andreozzi",
+                "+@id": "68702"
+            }
+        },
+        {
+            "+@gid": "2849561486",
+            "+@lang": "IT",
+            "role": "Semiu Grier",
+            "person": {
+                "+content": "Gea Riva",
+                "+@id": "80809"
             }
         },
         {
@@ -1072,6 +1321,60 @@
             }
         },
         {
+            "+@gid": "2458557417",
+            "+@lang": "IT",
+            "role": "Bro Santa",
+            "person": {
+                "+content": "Matteo Brusamonti",
+                "+@id": "149057"
+            }
+        },
+        {
+            "+@gid": "2600495882",
+            "+@lang": "IT",
+            "role": "Tomme Mima",
+            "person": {
+                "+content": "Martina Tamburello",
+                "+@id": "155039"
+            }
+        },
+        {
+            "+@gid": "3514814125",
+            "+@lang": "IT",
+            "role": "Gris Rubion",
+            "person": {
+                "+content": "Andrea Moretti",
+                "+@id": "174956"
+            }
+        },
+        {
+            "+@gid": "1122145606",
+            "+@lang": "IT",
+            "role": "Zanka Nijiku",
+            "person": {
+                "+content": "Matteo Garofalo",
+                "+@id": "179696"
+            }
+        },
+        {
+            "+@gid": "2448322005",
+            "+@lang": "IT",
+            "role": "Follo Tunito",
+            "person": {
+                "+content": "Ezio Vivolo",
+                "+@id": "184736"
+            }
+        },
+        {
+            "+@gid": "2525963124",
+            "+@lang": "IT",
+            "role": "Riyo Reaper",
+            "person": {
+                "+content": "Giada Sabellico",
+                "+@id": "213814"
+            }
+        },
+        {
             "+@gid": "2423596506",
             "+@lang": "IT",
             "role": "Rudo",
@@ -1081,12 +1384,30 @@
             }
         },
         {
+            "+@gid": "2679706703",
+            "+@lang": "IT",
+            "role": "Eishia Stilza",
+            "person": {
+                "+content": "Gaia Chiaro",
+                "+@id": "248402"
+            }
+        },
+        {
             "+@gid": "2242195236",
             "+@lang": "JA",
             "role": "Tamsy",
             "person": {
                 "+content": "Mitsuki Saiga",
                 "+@id": "411"
+            }
+        },
+        {
+            "+@gid": "3563671774",
+            "+@lang": "JA",
+            "role": "Bundus",
+            "person": {
+                "+content": "Akio Ōtsuka",
+                "+@id": "459"
             }
         },
         {
@@ -1123,6 +1444,15 @@
             "person": {
                 "+content": "Ryūsei Nakao",
                 "+@id": "4668"
+            }
+        },
+        {
+            "+@gid": "2801954806",
+            "+@lang": "JA",
+            "role": "Fu",
+            "person": {
+                "+content": "Hiro Shimono",
+                "+@id": "7636"
             }
         },
         {
@@ -1198,6 +1528,15 @@
             }
         },
         {
+            "+@gid": "2418275529",
+            "+@lang": "JA",
+            "role": "Noerde",
+            "person": {
+                "+content": "Mutsumi Tamura",
+                "+@id": "70817"
+            }
+        },
+        {
             "+@gid": "3171665835",
             "+@lang": "JA",
             "role": "Zanka",
@@ -1231,6 +1570,15 @@
             "person": {
                 "+content": "Hana Satō",
                 "+@id": "126925"
+            }
+        },
+        {
+            "+@gid": "1238187771",
+            "+@lang": "JA",
+            "role": "Guita",
+            "person": {
+                "+content": "Maria Naganawa",
+                "+@id": "127172"
             }
         },
         {
@@ -1277,6 +1625,168 @@
                 "+content": "Kazuki Ura",
                 "+@id": "172811"
             }
+        },
+        {
+            "+@gid": "3506177589",
+            "+@lang": "PT",
+            "role": "Rudo Surebrec",
+            "person": {
+                "+content": "Gabriel Verta",
+                "+@id": "193274"
+            }
+        },
+        {
+            "+@gid": "607933682",
+            "+@lang": "PT",
+            "role": "Enjin",
+            "person": {
+                "+content": "Léo Rabelo",
+                "+@id": "222648"
+            }
+        },
+        {
+            "+@gid": "1599531356",
+            "+@lang": "TL",
+            "role": "Enjin",
+            "person": {
+                "+content": "Pocholo Gonzales",
+                "+@id": "46212"
+            }
+        },
+        {
+            "+@gid": "2647751766",
+            "+@lang": "TL",
+            "role": "Follo",
+            "person": {
+                "+content": "Pocholo Gonzales",
+                "+@id": "46212"
+            }
+        },
+        {
+            "+@gid": "2415492237",
+            "+@lang": "TL",
+            "role": "Jabber",
+            "person": {
+                "+content": "Pocholo Gonzales",
+                "+@id": "46212"
+            }
+        },
+        {
+            "+@gid": "2206551714",
+            "+@lang": "TL",
+            "role": "Bro",
+            "person": {
+                "+content": "Ralph Ernest Francia",
+                "+@id": "226470"
+            }
+        },
+        {
+            "+@gid": "2732924500",
+            "+@lang": "TL",
+            "role": "Gris",
+            "person": {
+                "+content": "Ralph Ernest Francia",
+                "+@id": "226470"
+            }
+        },
+        {
+            "+@gid": "2723088895",
+            "+@lang": "TL",
+            "role": "Regto",
+            "person": {
+                "+content": "Ralph Ernest Francia",
+                "+@id": "226470"
+            }
+        },
+        {
+            "+@gid": "2891858589",
+            "+@lang": "TL",
+            "role": "Zanka",
+            "person": {
+                "+content": "Ralph Ernest Francia",
+                "+@id": "226470"
+            }
+        },
+        {
+            "+@gid": "3180087272",
+            "+@lang": "TL",
+            "role": "Rudo",
+            "person": {
+                "+content": "Mac Edsel Florendo",
+                "+@id": "274529"
+            }
+        },
+        {
+            "+@gid": "1116505749",
+            "+@lang": "TL",
+            "role": "Tamsy",
+            "person": {
+                "+content": "Jerah Eusebio",
+                "+@id": "274534"
+            }
+        },
+        {
+            "+@gid": "1545520261",
+            "+@lang": "TL",
+            "role": "Chiwa",
+            "person": {
+                "+content": "Donnah Vee Abuyuan",
+                "+@id": "274535"
+            }
+        },
+        {
+            "+@gid": "2045267777",
+            "+@lang": "TL",
+            "role": "Semiu",
+            "person": {
+                "+content": "Donnah Vee Abuyuan",
+                "+@id": "274535"
+            }
+        },
+        {
+            "+@gid": "2963164813",
+            "+@lang": "TL",
+            "role": "Amo",
+            "person": {
+                "+content": "Mary Eunice Talastas",
+                "+@id": "289438"
+            }
+        },
+        {
+            "+@gid": "3516913501",
+            "+@lang": "TL",
+            "role": "Eishia",
+            "person": {
+                "+content": "Mary Eunice Talastas",
+                "+@id": "289438"
+            }
+        },
+        {
+            "+@gid": "3900228206",
+            "+@lang": "TL",
+            "role": "Rio",
+            "person": {
+                "+content": "Jennifer Friolo",
+                "+@id": "289444"
+            }
+        },
+        {
+            "+@gid": "698493754",
+            "+@lang": "TL",
+            "role": "Corvus",
+            "person": {
+                "+content": "Ivan Kyle Asiado",
+                "+@id": "289445"
+            }
+        },
+        {
+            "+@gid": "1807763783",
+            "+@lang": "TL",
+            "role": "Delmon",
+            "person": {
+                "+content": "Ivan Kyle Asiado",
+                "+@id": "289445"
+            }
         }
     ],
     "credit": {
@@ -1288,6 +1798,6 @@
         }
     },
     "+@date-added": "2024-06-12T22:21:32Z",
-    "+@date-last-modified-at": "2025-09-21T04:34:28Z",
-    "+@date-last-updated-at": "2025-09-21T04:34:28Z"
+    "+@date-last-modified-at": "2025-10-21T20:35:05Z",
+    "+@date-last-updated-at": "2025-10-21T20:35:05Z"
 }

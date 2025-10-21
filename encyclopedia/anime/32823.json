@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "I Was Reincarnated as the 7th Prince",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-09-21T04:34:26Z",
+    "+@generated-on": "2025-10-21T20:35:03Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26536"
@@ -84,8 +84,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "6.2569"
+        "+@nb_votes": "48",
+        "+@weighted_score": "7.0078",
+        "+@bayesian_score": "7.10692"
     },
     "news": [
         {
@@ -172,6 +173,62 @@
             }
         },
         {
+            "+@gid": "3235426130",
+            "task": "Script",
+            "person": {
+                "+content": "Naoki Tozuka",
+                "+@id": "80075"
+            }
+        },
+        {
+            "+@gid": "2547069177",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yūma Suzuki",
+                "+@id": "85453"
+            }
+        },
+        {
+            "+@gid": "2294877942",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Jin Tamamura",
+                "+@id": "107632"
+            }
+        },
+        {
+            "+@gid": "2228209166",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yūichi Abe",
+                "+@id": "260027"
+            }
+        },
+        {
+            "+@gid": "1725377958",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Jin Tamamura",
+                "+@id": "107632"
+            }
+        },
+        {
+            "+@gid": "2257224176",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tetsuo Higashino",
+                "+@id": "195291"
+            }
+        },
+        {
+            "+@gid": "1774340511",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Yūma Suzuki",
+                "+@id": "85453"
+            }
+        },
+        {
             "+@gid": "2206803605",
             "task": "Music",
             "person": {
@@ -228,6 +285,14 @@
             }
         },
         {
+            "+@gid": "3909460907",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Naru Nishikōri",
+                "+@id": "277033"
+            }
+        },
+        {
             "+@gid": "2912712947",
             "task": "Sound Director",
             "person": {
@@ -270,6 +335,15 @@
             "person": {
                 "+content": "Sara Ragsdale",
                 "+@id": "126054"
+            }
+        },
+        {
+            "+@gid": "2125363453",
+            "+@lang": "EN",
+            "role": "Sylpha",
+            "person": {
+                "+content": "Morgan Berry",
+                "+@id": "132751"
             }
         },
         {
@@ -345,15 +419,6 @@
             }
         },
         {
-            "+@gid": "2466115754",
-            "+@lang": "EN",
-            "role": "Lami",
-            "person": {
-                "+content": "Jamie Lee",
-                "+@id": "266175"
-            }
-        },
-        {
             "+@gid": "1848284600",
             "+@lang": "FR",
             "role": "Grim",
@@ -426,15 +491,6 @@
             }
         },
         {
-            "+@gid": "576828933",
-            "+@lang": "FR",
-            "role": "Alizée de Saloum",
-            "person": {
-                "+content": "Marie Braam",
-                "+@id": "164178"
-            }
-        },
-        {
             "+@gid": "2657687865",
             "+@lang": "FR",
             "role": "Talia",
@@ -489,15 +545,6 @@
             }
         },
         {
-            "+@gid": "1827190062",
-            "+@lang": "JA",
-            "role": "Civil War",
-            "person": {
-                "+content": "Toshiyuki Morikawa",
-                "+@id": "692"
-            }
-        },
-        {
             "+@gid": "1948169217",
             "+@lang": "JA",
             "role": "Galilea",
@@ -513,24 +560,6 @@
             "person": {
                 "+content": "Mitsuru Miyamoto",
                 "+@id": "2132"
-            }
-        },
-        {
-            "+@gid": "2836739424",
-            "+@lang": "JA",
-            "role": "Kanzenshoku",
-            "person": {
-                "+content": "Takaya Kuroda",
-                "+@id": "10402"
-            }
-        },
-        {
-            "+@gid": "2005739608",
-            "+@lang": "JA",
-            "role": "Black Dragon",
-            "person": {
-                "+content": "Taiten Kusunoki",
-                "+@id": "18813"
             }
         },
         {
@@ -633,15 +662,6 @@
             }
         },
         {
-            "+@gid": "2581286021",
-            "+@lang": "JA",
-            "role": "Dian",
-            "person": {
-                "+content": "Yūya Hirose",
-                "+@id": "141455"
-            }
-        },
-        {
             "+@gid": "1164500654",
             "+@lang": "JA",
             "role": "Lloyd",
@@ -657,24 +677,6 @@
             "person": {
                 "+content": "Manaka Iwami",
                 "+@id": "156030"
-            }
-        },
-        {
-            "+@gid": "1653963098",
-            "+@lang": "JA",
-            "role": "Alieze",
-            "person": {
-                "+content": "Akane Kumada",
-                "+@id": "173962"
-            }
-        },
-        {
-            "+@gid": "2140851167",
-            "+@lang": "JA",
-            "role": "Lami",
-            "person": {
-                "+content": "Nako Misaki",
-                "+@id": "201604"
             }
         },
         {
@@ -696,6 +698,6 @@
         }
     },
     "+@date-added": "2024-06-17T19:00:39Z",
-    "+@date-last-modified-at": "2025-09-21T04:34:28Z",
-    "+@date-last-updated-at": "2025-09-21T04:34:28Z"
+    "+@date-last-modified-at": "2025-10-21T20:35:05Z",
+    "+@date-last-updated-at": "2025-10-21T20:35:05Z"
 }
