@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Kaiju No. 8",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-09-21T04:06:27Z",
+    "+@generated-on": "2025-10-21T16:39:21Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26176"
@@ -126,8 +126,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "7.9138"
+        "+@nb_votes": "62",
+        "+@weighted_score": "7.6227",
+        "+@bayesian_score": "7.59673"
     },
     "episode": [
         {
@@ -207,6 +208,14 @@
             "title": {
                 "+content": "Cataclysms",
                 "+@gid": "1432605506",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "23",
+            "title": {
+                "+content": "Second Wave",
+                "+@gid": "1782757070",
                 "+@lang": "EN"
             }
         }
@@ -410,6 +419,15 @@
             }
         },
         {
+            "+@gid": "1445746946",
+            "+@lang": "EN",
+            "role": "Kaiju No. 11",
+            "person": {
+                "+content": "Ray Hurd",
+                "+@id": "126783"
+            }
+        },
+        {
             "+@gid": "2240572530",
             "+@lang": "EN",
             "role": "Mina Ashiro",
@@ -599,6 +617,24 @@
             }
         },
         {
+            "+@gid": "1600635637",
+            "+@lang": "FR",
+            "role": "Shūgo Ogata",
+            "person": {
+                "+content": "Cyrille Artaux",
+                "+@id": "34265"
+            }
+        },
+        {
+            "+@gid": "4092696191",
+            "+@lang": "FR",
+            "role": "Kaiju No. 9",
+            "person": {
+                "+content": "Martial Leminoux",
+                "+@id": "38549"
+            }
+        },
+        {
             "+@gid": "1398574475",
             "+@lang": "FR",
             "role": "Kafka Hibino/Kaiju No. 8",
@@ -662,12 +698,48 @@
             }
         },
         {
+            "+@gid": "2006060860",
+            "+@lang": "FR",
+            "role": "Kaiju No. 10",
+            "person": {
+                "+content": "Gilduin Tissier",
+                "+@id": "173550"
+            }
+        },
+        {
+            "+@gid": "2486867765",
+            "+@lang": "FR",
+            "role": "Jura Igarashi",
+            "person": {
+                "+content": "Laëtitia Lefebvre",
+                "+@id": "176010"
+            }
+        },
+        {
             "+@gid": "3970686618",
             "+@lang": "FR",
             "role": "Kikoru Shinomiya",
             "person": {
                 "+content": "Valerie Bescht",
                 "+@id": "189369"
+            }
+        },
+        {
+            "+@gid": "1490912685",
+            "+@lang": "FR",
+            "role": "Tōko Kirinomori",
+            "person": {
+                "+content": "Sandra Valentin",
+                "+@id": "190981"
+            }
+        },
+        {
+            "+@gid": "1817001575",
+            "+@lang": "FR",
+            "role": "Konomi Okonogi",
+            "person": {
+                "+content": "Estelle Dehon",
+                "+@id": "212075"
             }
         },
         {
@@ -779,6 +851,15 @@
             }
         },
         {
+            "+@gid": "1142617671",
+            "+@lang": "JA",
+            "role": "Kaiju No. 11",
+            "person": {
+                "+content": "Toshihiko Seki",
+                "+@id": "693"
+            }
+        },
+        {
             "+@gid": "699000664",
             "+@lang": "JA",
             "role": "Hikaru Shinomiya",
@@ -794,6 +875,15 @@
             "person": {
                 "+content": "Tesshō Genda",
                 "+@id": "1250"
+            }
+        },
+        {
+            "+@gid": "1597446205",
+            "+@lang": "JA",
+            "role": "Keiji Itami",
+            "person": {
+                "+content": "Takayuki Sugō",
+                "+@id": "8091"
             }
         },
         {
@@ -932,12 +1022,147 @@
             }
         },
         {
+            "+@gid": "2237573371",
+            "+@lang": "JA",
+            "role": "Akira Kurusu",
+            "person": {
+                "+content": "Ryōta Suzuki",
+                "+@id": "174131"
+            }
+        },
+        {
             "+@gid": "3411333199",
             "+@lang": "JA",
             "role": "Kikoru Shinomiya",
             "person": {
                 "+content": "Fairouz Ai",
                 "+@id": "215531"
+            }
+        },
+        {
+            "+@gid": "3140749009",
+            "+@lang": "TL",
+            "role": "Kafka Hibino",
+            "person": {
+                "+content": "Pocholo Gonzales",
+                "+@id": "46212"
+            }
+        },
+        {
+            "+@gid": "2319929946",
+            "+@lang": "TL",
+            "role": "Kaiju No. 8",
+            "person": {
+                "+content": "Pocholo Gonzales",
+                "+@id": "46212"
+            }
+        },
+        {
+            "+@gid": "1915457250",
+            "+@lang": "TL",
+            "role": "Isao Shinomiya",
+            "person": {
+                "+content": "Ralph Ernest Francia",
+                "+@id": "226470"
+            }
+        },
+        {
+            "+@gid": "1518715212",
+            "+@lang": "TL",
+            "role": "Kaiju No. 9",
+            "person": {
+                "+content": "Ralph Ernest Francia",
+                "+@id": "226470"
+            }
+        },
+        {
+            "+@gid": "2178458178",
+            "+@lang": "TL",
+            "role": "Kaiju No.10",
+            "person": {
+                "+content": "Ralph Ernest Francia",
+                "+@id": "226470"
+            }
+        },
+        {
+            "+@gid": "2391102925",
+            "+@lang": "TL",
+            "role": "Iharu Furuhashi",
+            "person": {
+                "+content": "Mac Edsel Florendo",
+                "+@id": "274529"
+            }
+        },
+        {
+            "+@gid": "1217166674",
+            "+@lang": "TL",
+            "role": "Rin Shinonome",
+            "person": {
+                "+content": "Donnah Vee Abuyuan",
+                "+@id": "274535"
+            }
+        },
+        {
+            "+@gid": "2094384887",
+            "+@lang": "TL",
+            "role": "Hikaru Shinomiya",
+            "person": {
+                "+content": "Mary Eunice Talastas",
+                "+@id": "289438"
+            }
+        },
+        {
+            "+@gid": "1105628936",
+            "+@lang": "TL",
+            "role": "Mina Ashiro",
+            "person": {
+                "+content": "Jennifer Friolo",
+                "+@id": "289444"
+            }
+        },
+        {
+            "+@gid": "1918646430",
+            "+@lang": "TL",
+            "role": "Gen Narumi",
+            "person": {
+                "+content": "Ivan Kyle Asiado",
+                "+@id": "289445"
+            }
+        },
+        {
+            "+@gid": "232580666",
+            "+@lang": "TL",
+            "role": "Kikoru Shinomiya",
+            "person": {
+                "+content": "Zelea Carryl Calderon",
+                "+@id": "289581"
+            }
+        },
+        {
+            "+@gid": "3574316207",
+            "+@lang": "TL",
+            "role": "Reno Ichikawa",
+            "person": {
+                "+content": "John Francisco",
+                "+@id": "289582"
+            }
+        },
+        {
+            "+@gid": "2273531724",
+            "+@lang": "TL",
+            "role": "Soshiro Hoshina",
+            "person": {
+                "+content": "Anton David Tinio",
+                "+@id": "289583"
+            }
+        },
+        {
+            "+@gid": "3183421929",
+            "+@lang": "TL",
+            "role": "Eiji Hjasegawa",
+            "person": {
+                "+content": "Mike Baldwin",
+                "+@id": "289584"
             }
         }
     ],
@@ -950,6 +1175,6 @@
         }
     },
     "+@date-added": "2024-06-29T17:37:54Z",
-    "+@date-last-modified-at": "2025-09-21T04:34:28Z",
-    "+@date-last-updated-at": "2025-09-21T04:34:28Z"
+    "+@date-last-modified-at": "2025-10-21T16:39:23Z",
+    "+@date-last-updated-at": "2025-10-21T16:39:23Z"
 }
