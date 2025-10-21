@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Gentle Noble's Vacation Recommendation",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-20T12:53:00Z",
+    "+@generated-on": "2025-10-21T04:36:27Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "33689"
@@ -13,17 +13,17 @@
         {
             "+@gid": "3042544428",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33690-3042544428.1744259555.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33690-3042544428.1759480737.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33690-3042544428.1744259555.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33690-3042544428.1759480737.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33690-3042544428.1744259555.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33690-3042544428.1759480737.jpg",
                     "+@width": "423",
                     "+@height": "600"
                 }
@@ -74,11 +74,23 @@
             "+@href": "https://odayakakizoku-pr.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>A Gentle Noble's Vacation Recommendation</cite> Anime's Teaser Reveals Cast, Staff, January 2026 Debut",
-        "+@datetime": "2025-04-10T03:38:51Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-04-09/a-gentle-noble-vacation-recommendation-anime-teaser-reveals-cast-staff-january-2026-debut/.223383"
-    },
+    "news": [
+        {
+            "+content": "<cite>A Gentle Noble's Vacation Recommendation</cite> Anime's Teaser Reveals Cast, Staff, January 2026 Debut",
+            "+@datetime": "2025-04-10T03:38:51Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-09/a-gentle-noble-vacation-recommendation-anime-teaser-reveals-cast-staff-january-2026-debut/.223383"
+        },
+        {
+            "+content": "<cite>A Gentle Noble's Vacation Recommendation</cite> TV Anime Reveals More Cast, Staff",
+            "+@datetime": "2025-10-03T08:36:24Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-03/a-gentle-noble-vacation-recommendation-tv-anime-reveals-more-cast-staff/.229598"
+        },
+        {
+            "+content": "Crunchyroll Acquires <cite>Oshi no Ko</cite> Season 3, <cite>That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea</cite>, More Anime",
+            "+@datetime": "2025-10-09T16:00:51Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-09/crunchyroll-acquires-oshi-no-ko-season-3-that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-/.229785"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2505876138",
@@ -135,9 +147,75 @@
                 "+content": "Akito Fujiwara",
                 "+@id": "46735"
             }
+        },
+        {
+            "+@gid": "304001918",
+            "task": "Art Director",
+            "person": {
+                "+content": "Seiko Akashi",
+                "+@id": "13818"
+            }
+        },
+        {
+            "+@gid": "2209155451",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Masaaki Sakurai",
+                "+@id": "6656"
+            }
+        },
+        {
+            "+@gid": "3152420047",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Akito Fujiwara",
+                "+@id": "46735"
+            }
+        },
+        {
+            "+@gid": "1278916385",
+            "task": "3D Director",
+            "person": {
+                "+content": "Chiaki Kumakura",
+                "+@id": "83567"
+            }
+        },
+        {
+            "+@gid": "2240653002",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Jun Watanabe",
+                "+@id": "10017"
+            }
+        },
+        {
+            "+@gid": "3909783434",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yoshihiro Kajiwara",
+                "+@id": "148298"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "2964537100",
+            "+@lang": "JA",
+            "role": "Studd",
+            "person": {
+                "+content": "Jun Fukuyama",
+                "+@id": "337"
+            }
+        },
+        {
+            "+@gid": "3571641152",
+            "+@lang": "JA",
+            "role": "Eleven",
+            "person": {
+                "+content": "Tetsuya Kakihara",
+                "+@id": "28816"
+            }
+        },
         {
             "+@gid": "3140202382",
             "+@lang": "JA",
@@ -145,6 +223,15 @@
             "person": {
                 "+content": "Sōma Saitō",
                 "+@id": "104960"
+            }
+        },
+        {
+            "+@gid": "2460650536",
+            "+@lang": "JA",
+            "role": "Judge",
+            "person": {
+                "+content": "Daiki Yamashita",
+                "+@id": "119386"
             }
         },
         {
@@ -166,6 +253,6 @@
         }
     },
     "+@date-added": "2024-10-10T06:08:40Z",
-    "+@date-last-modified-at": "2025-09-20T12:53:02Z",
-    "+@date-last-updated-at": "2025-09-20T12:53:02Z"
+    "+@date-last-modified-at": "2025-10-21T04:36:29Z",
+    "+@date-last-updated-at": "2025-10-21T04:36:29Z"
 }
