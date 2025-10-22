@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Nyaight of the Living Cat",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-21T16:33:54Z",
+    "+@generated-on": "2025-10-22T04:38:59Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26790"
@@ -120,8 +120,13 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "9",
-        "+@weighted_score": "5.0944"
+        "+@nb_votes": "24",
+        "+@weighted_score": "5.8796",
+        "+@bayesian_score": "6.43941"
+    },
+    "review": {
+        "+content": "<cite>Nyaight of the Living Cat</cite> Anime Series Review",
+        "+@href": "https://www.animenewsnetwork.com/review/nyaight-of-the-living-cat-episode-1-12/anime-series/.229380"
     },
     "news": [
         {
@@ -307,6 +312,24 @@
             "person": {
                 "+content": "Jason Douglas",
                 "+@id": "1064"
+            }
+        },
+        {
+            "+@gid": "2292511056",
+            "+@lang": "EN",
+            "role": "Cat Language Translation Machine",
+            "person": {
+                "+content": "Christopher R. Sabat",
+                "+@id": "1125"
+            }
+        },
+        {
+            "+@gid": "1269188438",
+            "+@lang": "EN",
+            "role": "Tsutsumi",
+            "person": {
+                "+content": "Monica Rial",
+                "+@id": "2074"
             }
         },
         {
@@ -532,6 +555,15 @@
             "person": {
                 "+content": "Jean-François Rossion",
                 "+@id": "171936"
+            }
+        },
+        {
+            "+@gid": "2642091184",
+            "+@lang": "FR",
+            "role": "Mitsuru",
+            "person": {
+                "+content": "Yannick Besson",
+                "+@id": "172700"
             }
         },
         {
@@ -779,6 +811,6 @@
         }
     ],
     "+@date-added": "2024-02-22T01:10:26Z",
-    "+@date-last-modified-at": "2025-09-21T16:33:56Z",
-    "+@date-last-updated-at": "2025-09-21T16:33:56Z"
+    "+@date-last-modified-at": "2025-10-22T04:39:08Z",
+    "+@date-last-updated-at": "2025-10-22T04:39:08Z"
 }
