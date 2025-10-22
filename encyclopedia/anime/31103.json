@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Returner's Magic Should Be Special",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-09-22T02:15:17Z",
+    "+@generated-on": "2025-10-22T16:43:12Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "27613"
@@ -53,6 +53,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "2026",
+            "+@gid": "3477281545",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "「帰還者の魔法は特別です」",
             "+@gid": "1389868213",
             "+@type": "Official website",
@@ -60,11 +65,43 @@
             "+@href": "https://returners-magic.com/"
         }
     ],
-    "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "5"
-    },
+    "news": [
+        {
+            "+content": "Crunchyroll Acquires <cite>Oshi no Ko</cite> Season 3, <cite>That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea</cite>, More Anime",
+            "+@datetime": "2025-10-09T16:00:51Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-09/crunchyroll-acquires-oshi-no-ko-season-3-that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-/.229785"
+        },
+        {
+            "+content": "<cite>A Returner's Magic Should Be Special</cite> Season 2's Video Confirms 2026 Debut",
+            "+@datetime": "2025-10-10T01:21:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-09/a-returner-magic-should-be-special-season-2-video-confirms-2026-debut/.229804"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "1101246963",
+            "task": "Director",
+            "person": {
+                "+content": "Taishi Kawaguchi",
+                "+@id": "116798"
+            }
+        },
+        {
+            "+@gid": "1743001973",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Takamitsu Kōno",
+                "+@id": "260945"
+            }
+        },
+        {
+            "+@gid": "2713805777",
+            "task": "Script",
+            "person": {
+                "+content": "Takamitsu Kōno",
+                "+@id": "260945"
+            }
+        },
         {
             "+@gid": "2195568889",
             "task": "Original creator",
@@ -80,8 +117,63 @@
                 "+content": "Wookjakga",
                 "+@id": "237727"
             }
+        },
+        {
+            "+@gid": "1795789496",
+            "task": "Character Design",
+            "person": {
+                "+content": "Hiromi Katō",
+                "+@id": "3447"
+            }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "2579384533",
+            "+@lang": "JA",
+            "role": "Desir Herrman",
+            "person": {
+                "+content": "Takuma Terashima",
+                "+@id": "55286"
+            }
+        },
+        {
+            "+@gid": "2643350784",
+            "+@lang": "JA",
+            "role": "Azrest Kingscrown",
+            "person": {
+                "+content": "Asami Seto",
+                "+@id": "95225"
+            }
+        },
+        {
+            "+@gid": "2005309877",
+            "+@lang": "JA",
+            "role": "Pram Schnaizer",
+            "person": {
+                "+content": "Natsumi Fujiwara",
+                "+@id": "109744"
+            }
+        },
+        {
+            "+@gid": "1562741835",
+            "+@lang": "JA",
+            "role": "Romantica Eru",
+            "person": {
+                "+content": "Sayumi Suzushiro",
+                "+@id": "170536"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "1879874583",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Arvo Animation",
+            "+@id": "17288"
+        }
+    },
     "+@date-added": "2023-12-23T23:13:35Z",
-    "+@date-last-updated-at": "2025-09-22T02:15:21Z"
+    "+@date-last-modified-at": "2025-10-22T16:43:21Z",
+    "+@date-last-updated-at": "2025-10-22T16:43:21Z"
 }
