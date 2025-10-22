@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Nukitashi the Animation",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-21T15:33:59Z",
+    "+@generated-on": "2025-10-22T08:44:04Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "31889"
@@ -81,8 +81,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "6",
-        "+@weighted_score": "3.2622"
+        "+@nb_votes": "20",
+        "+@weighted_score": "5.4392",
+        "+@bayesian_score": "6.24035"
     },
     "news": [
         {
@@ -124,6 +125,11 @@
             "+content": "<cite>Nukitashi The Animation</cite> Casts Mari Takahashi",
             "+@datetime": "2025-07-15T15:30:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-07-15/nukitashi-the-animation-casts-mari-takahashi/.226648"
+        },
+        {
+            "+content": "OceanVeil Announces English Dub of <cite>Nukitashi The Animation</cite>",
+            "+@datetime": "2025-10-02T11:27:51Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-02/oceanveil-announces-english-dub-of-nukitashi-the-animation/.229553"
         }
     ],
     "staff": [
@@ -256,11 +262,27 @@
             }
         },
         {
+            "+@gid": "2484403661",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takahide Ejiri",
+                "+@id": "205545"
+            }
+        },
+        {
             "+@gid": "1690562214",
             "task": "Episode Director",
             "person": {
                 "+content": "Tatsuya Hagino",
                 "+@id": "214055"
+            }
+        },
+        {
+            "+@gid": "2546536143",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Masahiro Ayumu",
+                "+@id": "272561"
             }
         },
         {
@@ -357,14 +379,6 @@
             "person": {
                 "+content": "Hiroshi Tomioka",
                 "+@id": "39847"
-            }
-        },
-        {
-            "+@gid": "1442005400",
-            "task": "Chief Animation Director",
-            "person": {
-                "+content": "Jeong Min Kim",
-                "+@id": "68027"
             }
         },
         {
@@ -536,6 +550,14 @@
             }
         },
         {
+            "+@gid": "2065923270",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tuan Tang",
+                "+@id": "208985"
+            }
+        },
+        {
             "+@gid": "3579020239",
             "task": "Animation Director",
             "person": {
@@ -592,6 +614,14 @@
             }
         },
         {
+            "+@gid": "1322632311",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Asami Ogasawara",
+                "+@id": "261833"
+            }
+        },
+        {
             "+@gid": "3097638547",
             "task": "Animation Director",
             "person": {
@@ -613,6 +643,22 @@
             "person": {
                 "+content": "Xin Ran Li",
                 "+@id": "271170"
+            }
+        },
+        {
+            "+@gid": "3466857105",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Guozi Huise",
+                "+@id": "272345"
+            }
+        },
+        {
+            "+@gid": "2390594801",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Qie Zi Yin",
+                "+@id": "273672"
             }
         },
         {
@@ -832,6 +878,6 @@
         }
     ],
     "+@date-added": "2024-01-29T21:12:36Z",
-    "+@date-last-modified-at": "2025-09-21T16:33:56Z",
-    "+@date-last-updated-at": "2025-09-21T16:33:56Z"
+    "+@date-last-modified-at": "2025-10-22T08:44:06Z",
+    "+@date-last-updated-at": "2025-10-22T08:44:06Z"
 }
