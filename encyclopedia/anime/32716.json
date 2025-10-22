@@ -2,9 +2,9 @@
     "+@id": "32716",
     "+@gid": "3410861265",
     "+@type": "TV",
-    "+@name": "Awajima Hyakkei",
+    "+@name": "Scenes From Awajima",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-21T08:32:50Z",
+    "+@generated-on": "2025-10-22T02:15:07Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "16775"
@@ -30,9 +30,15 @@
             ]
         },
         {
+            "+content": "Scenes From Awajima",
+            "+@gid": "1724221582",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Awajima Hyakkei",
             "+@gid": "1800548113",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -46,7 +52,7 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026",
+            "+content": "2026-04",
             "+@gid": "1308456059",
             "+@type": "Vintage"
         },
@@ -58,11 +64,18 @@
             "+@href": "https://awajima-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Awajima Hyakkei</cite> Anime's Teaser Unveils Staff at Madhouse, 2026 TV Debut",
-        "+@datetime": "2025-05-13T09:02:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-05-13/awajima-hyakkei-anime-teaser-unveils-staff-at-madhouse-2026-tv-debut/.224404"
-    },
+    "news": [
+        {
+            "+content": "<cite>Awajima Hyakkei</cite> Anime's Teaser Unveils Staff at Madhouse, 2026 TV Debut",
+            "+@datetime": "2025-05-13T09:02:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-13/awajima-hyakkei-anime-teaser-unveils-staff-at-madhouse-2026-tv-debut/.224404"
+        },
+        {
+            "+content": "<cite>Scenes From Awajima</cite> Anime's 1st Promo Video Reveals 2 Cast Members, April 2026 Debut",
+            "+@datetime": "2025-10-10T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-10/scenes-from-awajima-anime-1st-promo-video-reveals-2-cast-members-april-2026-debut/.229820"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2499774204",
@@ -121,6 +134,26 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "2894207565",
+            "+@lang": "JA",
+            "role": "Kinue Takehara",
+            "person": {
+                "+content": "Yō Taichi",
+                "+@id": "119677"
+            }
+        },
+        {
+            "+@gid": "1402315720",
+            "+@lang": "JA",
+            "role": "Wakana Tabata",
+            "person": {
+                "+content": "Niina Nakabayashi",
+                "+@id": "207636"
+            }
+        }
+    ],
     "credit": {
         "+@gid": "2310503997",
         "task": "Animation Production",
@@ -130,5 +163,6 @@
         }
     },
     "+@date-added": "2024-05-09T00:51:29Z",
-    "+@date-last-updated-at": "2025-09-21T08:32:51Z"
+    "+@date-last-modified-at": "2025-10-22T02:15:10Z",
+    "+@date-last-updated-at": "2025-10-22T02:15:10Z"
 }

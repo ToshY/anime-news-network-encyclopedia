@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Taika no Risei",
     "+@precision": "manga",
-    "+@generated-on": "2025-09-21T16:33:57Z",
+    "+@generated-on": "2025-10-22T02:15:05Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "4818"
@@ -41,6 +41,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Taika’s Reason",
+            "+@gid": "2308262511",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "タイカの理性",
             "+@gid": "2862286606",
             "+@type": "Alternative title",
@@ -57,11 +63,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Paru Itagaki Launches New <cite>Taika no Risei</cite> Psychological Suspense Manga",
-        "+@datetime": "2024-11-21T08:57:32Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-11-21/paru-itagaki-launches-new-taika-no-risei-psychological-suspense-manga/.218108"
-    },
+    "news": [
+        {
+            "+content": "Paru Itagaki Launches New <cite>Taika no Risei</cite> Psychological Suspense Manga",
+            "+@datetime": "2024-11-21T08:57:32Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-11-21/paru-itagaki-launches-new-taika-no-risei-psychological-suspense-manga/.218108"
+        },
+        {
+            "+content": "Viz Announces Releases for <cite>Taika's Reason</cite>, <cite>I'm No Angel</cite>, <cite>cocoon</cite>, <cite>Daydream Darling</cite>, <cite>The Marshal King</cite> Manga, More",
+            "+@datetime": "2025-10-17T18:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-17/viz-announces-releases-for-taika-reason-im-no-angel-cocoon-daydream-darling-the-marshal-king-manga-/.230045"
+        }
+    ],
     "staff": {
         "+@gid": "2227759297",
         "task": "Story & Art",
@@ -71,5 +84,6 @@
         }
     },
     "+@date-added": "2025-05-09T00:57:18Z",
-    "+@date-last-updated-at": "2025-09-21T16:33:59Z"
+    "+@date-last-modified-at": "2025-10-22T02:15:06Z",
+    "+@date-last-updated-at": "2025-10-22T02:15:06Z"
 }
