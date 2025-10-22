@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Sword of the Demon Hunter",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-22T04:34:59Z",
+    "+@generated-on": "2025-10-22T20:33:58Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26842"
@@ -127,6 +127,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "24",
+            "+@gid": "3287641781",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2025-03-31",
             "+@gid": "1025827891",
             "+@type": "Vintage"
@@ -140,9 +145,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "26",
-        "+@weighted_score": "6.9941",
-        "+@bayesian_score": "7.15397"
+        "+@nb_votes": "47",
+        "+@weighted_score": "7.1207",
+        "+@bayesian_score": "7.19699"
     },
     "review": {
         "+content": "<cite>Sword of the Demon Hunter</cite> Episodes 1-13 Anime Series Review",
@@ -771,12 +776,30 @@
             }
         },
         {
+            "+@gid": "3007791677",
+            "+@lang": "JA",
+            "role": "Kaoru Azuya",
+            "person": {
+                "+content": "Sayumi Suzushiro",
+                "+@id": "170536"
+            }
+        },
+        {
             "+@gid": "3177300458",
             "+@lang": "JA",
             "role": "Heikichi Utsugi",
             "person": {
                 "+content": "Toshiki Kumagai",
                 "+@id": "197625"
+            }
+        },
+        {
+            "+@gid": "2051143591",
+            "+@lang": "JA",
+            "role": "Miyaka Himekawa",
+            "person": {
+                "+content": "Hina Yomiya",
+                "+@id": "209292"
             }
         }
     ],
@@ -789,6 +812,6 @@
         }
     },
     "+@date-added": "2023-11-22T06:33:51Z",
-    "+@date-last-modified-at": "2025-09-22T04:35:02Z",
-    "+@date-last-updated-at": "2025-09-22T04:35:02Z"
+    "+@date-last-modified-at": "2025-10-22T20:34:00Z",
+    "+@date-last-updated-at": "2025-10-22T20:34:00Z"
 }
