@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "To Be Hero X",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-23T12:57:38Z",
+    "+@generated-on": "2025-10-23T20:32:59Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "18728"
@@ -86,9 +86,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "19",
-        "+@weighted_score": "7.6421",
-        "+@bayesian_score": "7.57369"
+        "+@nb_votes": "29",
+        "+@weighted_score": "7.5982",
+        "+@bayesian_score": "7.55939"
     },
     "episode": [
         {
@@ -255,6 +255,14 @@
     ],
     "staff": [
         {
+            "+@gid": "3897517076",
+            "task": "Director",
+            "person": {
+                "+content": "Gyeong Mi Lee",
+                "+@id": "258618"
+            }
+        },
+        {
             "+@gid": "1566213073",
             "task": "Director",
             "person": {
@@ -263,11 +271,131 @@
             }
         },
         {
+            "+@gid": "1573645618",
+            "task": "Director",
+            "person": {
+                "+content": "Hatsuka",
+                "+@id": "283072"
+            }
+        },
+        {
+            "+@gid": "581317195",
+            "task": "Director",
+            "person": {
+                "+content": "Jian Zhou Yang",
+                "+@id": "288630"
+            }
+        },
+        {
+            "+@gid": "3713177629",
+            "task": "Director",
+            "person": {
+                "+content": "Yuan Yuan Lu",
+                "+@id": "288650"
+            }
+        },
+        {
+            "+@gid": "1900220648",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Haoling Li",
+                "+@id": "168509"
+            }
+        },
+        {
+            "+@gid": "3460790491",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Feng Yi Chen",
+                "+@id": "243040"
+            }
+        },
+        {
+            "+@gid": "1984030912",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Lei Zhang",
+                "+@id": "280778"
+            }
+        },
+        {
+            "+@gid": "3671276060",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Zhi Ke Yang",
+                "+@id": "288628"
+            }
+        },
+        {
+            "+@gid": "1509854731",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Jian Zhou Yang",
+                "+@id": "288630"
+            }
+        },
+        {
+            "+@gid": "745781167",
+            "task": "Screenplay",
+            "person": {
+                "+content": "You Yang Kong",
+                "+@id": "288645"
+            }
+        },
+        {
+            "+@gid": "2926024919",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Feng Yi Chen",
+                "+@id": "243040"
+            }
+        },
+        {
+            "+@gid": "1925105134",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Lei Zhang",
+                "+@id": "280778"
+            }
+        },
+        {
             "+@gid": "1827525461",
             "task": "Storyboard",
             "person": {
                 "+content": "Hatsuka",
                 "+@id": "283072"
+            }
+        },
+        {
+            "+@gid": "932456797",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Zhi Ke Yang",
+                "+@id": "288628"
+            }
+        },
+        {
+            "+@gid": "1707425285",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Jian Zhou Yang",
+                "+@id": "288630"
+            }
+        },
+        {
+            "+@gid": "1897054859",
+            "task": "Storyboard",
+            "person": {
+                "+content": "You Yang Kong",
+                "+@id": "288645"
+            }
+        },
+        {
+            "+@gid": "2103882469",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yu Chen Shao",
+                "+@id": "288819"
             }
         },
         {
@@ -351,6 +479,30 @@
             }
         },
         {
+            "+@gid": "1516362733",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Lei Zhang",
+                "+@id": "280778"
+            }
+        },
+        {
+            "+@gid": "1697742586",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Zhi Hao Yi",
+                "+@id": "288632"
+            }
+        },
+        {
+            "+@gid": "1073659572",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Shao Xu Yu",
+                "+@id": "288633"
+            }
+        },
+        {
             "+@gid": "3738374376",
             "task": "Character Design",
             "person": {
@@ -359,11 +511,203 @@
             }
         },
         {
+            "+@gid": "1773744382",
+            "task": "Character Design",
+            "person": {
+                "+content": "OTY",
+                "+@id": "288631"
+            }
+        },
+        {
+            "+@gid": "1655618623",
+            "task": "Character Design",
+            "person": {
+                "+content": "Si Meng Huang",
+                "+@id": "288655"
+            }
+        },
+        {
+            "+@gid": "2144770205",
+            "task": "Art Director",
+            "person": {
+                "+content": "47",
+                "+@id": "288651"
+            }
+        },
+        {
+            "+@gid": "1748019598",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Si Meng Huang",
+                "+@id": "288655"
+            }
+        },
+        {
+            "+@gid": "924051650",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zi Han Liu",
+                "+@id": "208997"
+            }
+        },
+        {
+            "+@gid": "2295974735",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Gyeong Mi Lee",
+                "+@id": "258618"
+            }
+        },
+        {
+            "+@gid": "2418789150",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Si Meng Huang",
+                "+@id": "288655"
+            }
+        },
+        {
+            "+@gid": "2331538817",
+            "task": "Art design",
+            "person": {
+                "+content": "Rui Xue Sun",
+                "+@id": "288641"
+            }
+        },
+        {
+            "+@gid": "3456155204",
+            "task": "Art design",
+            "person": {
+                "+content": "47",
+                "+@id": "288651"
+            }
+        },
+        {
+            "+@gid": "1738646006",
+            "task": "Art design",
+            "person": {
+                "+content": "Zi Yu Mo",
+                "+@id": "288661"
+            }
+        },
+        {
+            "+@gid": "2752215660",
+            "task": "Art design",
+            "person": {
+                "+content": "Xuan Ye",
+                "+@id": "288662"
+            }
+        },
+        {
+            "+@gid": "2953103247",
+            "task": "Art design",
+            "person": {
+                "+content": "Cao Cao Lin",
+                "+@id": "288663"
+            }
+        },
+        {
+            "+@gid": "2599906157",
+            "task": "Art design",
+            "person": {
+                "+content": "Fu Lai",
+                "+@id": "288664"
+            }
+        },
+        {
+            "+@gid": "3122500431",
+            "task": "Art design",
+            "person": {
+                "+content": "Hu",
+                "+@id": "288665"
+            }
+        },
+        {
+            "+@gid": "2364502006",
+            "task": "3D Director",
+            "person": {
+                "+content": "Zi Qing Zhang",
+                "+@id": "215178"
+            }
+        },
+        {
+            "+@gid": "3945794580",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yeong-Ung Lee",
+                "+@id": "168767"
+            }
+        },
+        {
+            "+@gid": "1990047596",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Chen Chen",
+                "+@id": "177462"
+            }
+        },
+        {
             "+@gid": "782972530",
             "task": "Director of Photography",
             "person": {
                 "+content": "Chika Toda",
                 "+@id": "196561"
+            }
+        },
+        {
+            "+@gid": "526586418",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Jun-Seok Byeon",
+                "+@id": "288681"
+            }
+        },
+        {
+            "+@gid": "1666658667",
+            "task": "Producer",
+            "person": {
+                "+content": "Ha-Na Lee",
+                "+@id": "57269"
+            }
+        },
+        {
+            "+@gid": "2563521860",
+            "task": "Producer",
+            "person": {
+                "+content": "Mitokina",
+                "+@id": "215153"
+            }
+        },
+        {
+            "+@gid": "642896242",
+            "task": "Producer",
+            "person": {
+                "+content": "Yeong Seon Jang",
+                "+@id": "246384"
+            }
+        },
+        {
+            "+@gid": "3996525466",
+            "task": "Producer",
+            "person": {
+                "+content": "Xin Wang",
+                "+@id": "263079"
+            }
+        },
+        {
+            "+@gid": "466532339",
+            "task": "Producer",
+            "person": {
+                "+content": "Min Jun Kim",
+                "+@id": "274124"
+            }
+        },
+        {
+            "+@gid": "3427324817",
+            "task": "Producer",
+            "person": {
+                "+content": "Ri-Hyang Yun",
+                "+@id": "288691"
             }
         }
     ],
@@ -932,6 +1276,6 @@
         }
     ],
     "+@date-added": "2023-03-25T03:16:56Z",
-    "+@date-last-modified-at": "2025-09-23T12:57:40Z",
-    "+@date-last-updated-at": "2025-09-23T12:57:40Z"
+    "+@date-last-modified-at": "2025-10-23T20:33:01Z",
+    "+@date-last-updated-at": "2025-10-23T20:33:01Z"
 }
