@@ -4,16 +4,41 @@
     "+@type": "manga",
     "+@name": "Billiken",
     "+@precision": "manga",
-    "+@generated-on": "2025-09-23T01:59:44Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "33472"
-    },
+    "+@generated-on": "2025-10-23T02:04:51Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "26115"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "33472"
+        }
+    ],
     "related-next": {
         "+@id": "1221",
         "+@rel": "adaptation"
     },
     "info": [
+        {
+            "+@gid": "1218348251",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37863-1218348251.1759189772.jpg",
+            "+@width": "146",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37863-1218348251.1759189772.jpg",
+                    "+@width": "146",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37863-1218348251.1759189772.jpg",
+                    "+@width": "321",
+                    "+@height": "441"
+                }
+            ]
+        },
         {
             "+content": "Billiken",
             "+@gid": "3262030164",
@@ -37,7 +62,7 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "1988-06 to 1989-09 (serialized in Monthly Korokoro Comic)",
+            "+content": "1988-06 to 1989-09 (serialized in Monthly CoroCoro Comic)",
             "+@gid": "842136583",
             "+@type": "Vintage"
         }
@@ -51,5 +76,6 @@
         }
     },
     "+@date-added": "2025-09-22T16:53:53Z",
-    "+@date-last-updated-at": "2025-09-23T01:59:44Z"
+    "+@date-last-modified-at": "2025-10-23T02:04:53Z",
+    "+@date-last-updated-at": "2025-10-23T02:04:53Z"
 }
