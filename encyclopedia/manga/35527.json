@@ -4,12 +4,31 @@
     "+@type": "manga",
     "+@name": "My Beloved Supper",
     "+@precision": "manga",
-    "+@generated-on": "2025-09-23T12:57:45Z",
+    "+@generated-on": "2025-10-24T04:35:35Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "26240"
     },
     "info": [
+        {
+            "+@gid": "2103751023",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35527-2103751023.1761117453.jpg",
+            "+@width": "139",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35527-2103751023.1761117453.jpg",
+                    "+@width": "139",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35527-2103751023.1761117453.jpg",
+                    "+@width": "408",
+                    "+@height": "585"
+                }
+            ]
+        },
         {
             "+content": "My Beloved Supper",
             "+@gid": "1860547126",
@@ -54,11 +73,18 @@
         "+@date": "2025-09-23",
         "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=54871"
     },
-    "news": {
-        "+content": "Yen Press Licenses <cite>Rock Is a Lady's Modesty</cite>, <cite>I Don't Know How to Love</cite>, More Manga",
-        "+@datetime": "2025-04-04T17:38:01Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-04-04/yen-press-licenses-rock-is-a-lady-modesty-i-dont-know-how-to-love-more-manga/.223248"
-    },
+    "news": [
+        {
+            "+content": "Yen Press Licenses <cite>Rock Is a Lady's Modesty</cite>, <cite>I Don't Know How to Love</cite>, More Manga",
+            "+@datetime": "2025-04-04T17:38:01Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-04/yen-press-licenses-rock-is-a-lady-modesty-i-dont-know-how-to-love-more-manga/.223248"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, September 21-27",
+            "+@datetime": "2025-09-25T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-25/north-american-anime-manga-releases-september-21-27/.229103"
+        }
+    ],
     "staff": {
         "+@gid": "1841803184",
         "task": "Story & Art",
@@ -68,6 +94,6 @@
         }
     },
     "+@date-added": "2025-04-05T03:54:12Z",
-    "+@date-last-modified-at": "2025-09-23T12:57:47Z",
-    "+@date-last-updated-at": "2025-09-23T12:57:47Z"
+    "+@date-last-modified-at": "2025-10-24T04:35:37Z",
+    "+@date-last-updated-at": "2025-10-24T04:35:37Z"
 }
