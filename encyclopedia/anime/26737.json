@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Pokémon Horizons: The Series",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-24T02:01:18Z",
+    "+@generated-on": "2025-10-24T08:40:46Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "24608"
@@ -178,8 +178,13 @@
             "+@type": "Opening Theme"
         },
         {
-            "+content": "#5: \"GET BACK\" by Yuzu (eps 91-)",
+            "+content": "#5: \"GET BACK\" by Yuzu (eps 91-111)",
             "+@gid": "2260893274",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "#6: \"Iolite\" (アイオライト) by Eve (eps 115-)",
+            "+@gid": "2411584463",
             "+@type": "Opening Theme"
         },
         {
@@ -198,8 +203,18 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "#4: \"Ready Go\" by ME:I (eps 92-)",
+            "+content": "#4: \"Ready Go\" by ME:I (eps 92-111)",
             "+@gid": "1616664026",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#5: \"Outstanding\" (尤; YUU) by Yuzu (eps 112-113)",
+            "+@gid": "1047379268",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#6: \"Asleep or Awake\" (ねてもさめても) by Polkadot Stingray (eps 115-)",
+            "+@gid": "2747329152",
             "+@type": "Ending Theme"
         },
         {
@@ -227,7 +242,7 @@
     ],
     "ratings": {
         "+@nb_votes": "8",
-        "+@weighted_score": "7.2203"
+        "+@weighted_score": "7.2197"
     },
     "episode": [
         {
@@ -1117,9 +1132,45 @@
                 "+@gid": "1357517318",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "112",
+            "title": {
+                "+content": "Roy: Training",
+                "+@gid": "794089677",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "113",
+            "title": {
+                "+content": "Uruto: Strongest",
+                "+@gid": "2281897070",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "114",
+            "title": {
+                "+content": "Mega Evolution: Bond",
+                "+@gid": "1772995190",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "115",
+            "title": {
+                "+content": "Tera☆Shine! Blueberry Academy",
+                "+@gid": "1402793968",
+                "+@lang": "EN"
+            }
         }
     ],
     "review": [
+        {
+            "+content": "<cite>Pokémon Horizons: Season 2—The Search for Laqua</cite> Part 4 Anime Series Review",
+            "+@href": "https://www.animenewsnetwork.com/review/pokemon-horizons/season-2-the-search-for-laqua-part-4/anime-series/.229462"
+        },
         {
             "+content": "<cite>Pokémon Horizons: Season 2—The Search for Laqua</cite> Part 3 Anime Series Review",
             "+@href": "https://www.animenewsnetwork.com/review/pokemon-horizons/season-2-the-search-for-laqua-part-3/anime-series/.226547"
@@ -1380,6 +1431,11 @@
             "+content": "<cite>Pokémon Horizons</cite> Anime Enters New Arc on October 31",
             "+@datetime": "2025-09-19T15:29:15Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-09-19/pokemon-horizons-anime-enters-new-arc-on-october-31/.228983"
+        },
+        {
+            "+content": "<cite>Pokémon Horizons</cite> Anime Reveals Cast, Theme Songs for New Arc",
+            "+@datetime": "2025-10-03T14:58:05Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-03/pokemon-horizons-anime-reveals-cast-theme-songs-for-new-arc/.229606"
         }
     ],
     "staff": [
@@ -1744,6 +1800,14 @@
             }
         },
         {
+            "+@gid": "3184935649",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kentarō Tsubame",
+                "+@id": "289485"
+            }
+        },
+        {
             "+@gid": "1488398017",
             "task": "Episode Director",
             "person": {
@@ -1965,6 +2029,14 @@
             "person": {
                 "+content": "Masatune Ooi",
                 "+@id": "270305"
+            }
+        },
+        {
+            "+@gid": "2490495374",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Makoto Nakata",
+                "+@id": "56188"
             }
         },
         {
@@ -2800,6 +2872,14 @@
             }
         },
         {
+            "+@gid": "1266346365",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wasi P",
+                "+@id": "265223"
+            }
+        },
+        {
             "+@gid": "2650583346",
             "task": "Animation Director",
             "person": {
@@ -2829,6 +2909,14 @@
             "person": {
                 "+content": "Hui He",
                 "+@id": "270236"
+            }
+        },
+        {
+            "+@gid": "1934898112",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wasin W",
+                "+@id": "270980"
             }
         },
         {
@@ -3241,9 +3329,9 @@
             }
         },
         {
-            "+@gid": "2373979678",
+            "+@gid": "1973303010",
             "+@lang": "EN",
-            "role": "Nidothing",
+            "role": "Dot/Nidothing",
             "person": {
                 "+content": "Faye Mata",
                 "+@id": "126669"
@@ -4123,6 +4211,15 @@
             }
         },
         {
+            "+@gid": "2056768241",
+            "+@lang": "JA",
+            "role": "Drayton",
+            "person": {
+                "+content": "Hiroyuki Yoshino",
+                "+@id": "507"
+            }
+        },
+        {
             "+@gid": "3530610886",
             "+@lang": "JA",
             "role": "Hassak",
@@ -4183,6 +4280,15 @@
             "person": {
                 "+content": "Ikkyū Juku",
                 "+@id": "13478"
+            }
+        },
+        {
+            "+@gid": "1631323894",
+            "+@lang": "JA",
+            "role": "Cyrano",
+            "person": {
+                "+content": "Shinya Ōwada",
+                "+@id": "15483"
             }
         },
         {
@@ -4336,6 +4442,15 @@
             "person": {
                 "+content": "Arisa Shida",
                 "+@id": "125406"
+            }
+        },
+        {
+            "+@gid": "1855976827",
+            "+@lang": "JA",
+            "role": "Lacey",
+            "person": {
+                "+content": "Seiran Kobayashi",
+                "+@id": "128499"
             }
         },
         {
@@ -4592,6 +4707,6 @@
         }
     ],
     "+@date-added": "2022-12-16T07:12:04Z",
-    "+@date-last-modified-at": "2025-09-24T02:01:21Z",
-    "+@date-last-updated-at": "2025-09-24T02:01:21Z"
+    "+@date-last-modified-at": "2025-10-24T08:40:49Z",
+    "+@date-last-updated-at": "2025-10-24T08:40:49Z"
 }
