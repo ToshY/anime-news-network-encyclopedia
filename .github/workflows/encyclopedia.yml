@@ -82,7 +82,7 @@ jobs:
       has_files: ${{ steps.check-directory.outputs.has_files }}
     steps:
       - name: Download artifacts
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v6
         with:
           path: /tmp/encyclopedia
           pattern: encyclopedia-*
@@ -126,7 +126,7 @@ jobs:
           ref: ${{ github.head_ref }}
 
       - name: Download artifacts
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v6
         with:
           path: /tmp/encyclopedia
           pattern: encyclopedia-*
