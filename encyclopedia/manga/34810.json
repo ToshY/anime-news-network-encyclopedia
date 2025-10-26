@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Strand",
     "+@precision": "manga",
-    "+@generated-on": "2025-09-25T16:39:12Z",
+    "+@generated-on": "2025-10-26T16:36:17Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "4118"
@@ -52,16 +52,28 @@
             "+@type": "Genres"
         },
         {
+            "+content": "5",
+            "+@gid": "1823686959",
+            "+@type": "Number of tankoubon"
+        },
+        {
             "+content": "2024-09-04 (serialized in Weekly Shonen Sunday, 2024 #41)",
             "+@gid": "2175215094",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Writer NUMBER 8, Artist Ryōhei Masuko to Launch New Manga on September 4",
-        "+@datetime": "2024-08-13T19:30:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-08-13/writer-number-8-artist-ryohei-masuko-to-launch-new-manga-on-september-4/.214213"
-    },
+    "news": [
+        {
+            "+content": "Writer NUMBER 8, Artist Ryōhei Masuko to Launch New Manga on September 4",
+            "+@datetime": "2024-08-13T19:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-08-13/writer-number-8-artist-ryohei-masuko-to-launch-new-manga-on-september-4/.214213"
+        },
+        {
+            "+content": "<cite>Strand</cite> Manga Ends With 5th Volume (Updated)",
+            "+@datetime": "2025-09-29T18:01:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-29/strand-manga-ends-with-5th-volume/.229431"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3672159014",
@@ -81,5 +93,6 @@
         }
     ],
     "+@date-added": "2025-02-24T07:37:11Z",
-    "+@date-last-updated-at": "2025-09-25T16:39:13Z"
+    "+@date-last-modified-at": "2025-10-26T16:36:19Z",
+    "+@date-last-updated-at": "2025-10-26T16:36:19Z"
 }

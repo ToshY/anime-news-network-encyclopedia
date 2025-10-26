@@ -2,14 +2,39 @@
     "+@id": "34765",
     "+@gid": "3361735158",
     "+@type": "manga",
-    "+@name": "Monster and Ghost",
+    "+@name": "Monster & Ghost",
     "+@precision": "manga",
-    "+@generated-on": "2025-09-25T20:32:36Z",
+    "+@generated-on": "2025-10-26T16:36:18Z",
     "info": [
+        {
+            "+@gid": "2059552760",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34765-2059552760.1761452961.jpg",
+            "+@width": "133",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34765-2059552760.1761452961.jpg",
+                    "+@width": "133",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34765-2059552760.1761452961.jpg",
+                    "+@width": "300",
+                    "+@height": "450"
+                }
+            ]
+        },
+        {
+            "+content": "Monster & Ghost",
+            "+@gid": "1836816394",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
         {
             "+content": "Monster and Ghost",
             "+@gid": "899113749",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "EN"
         },
         {
@@ -39,11 +64,18 @@
         "+@date": "2025-10-07",
         "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52155"
     },
-    "news": {
-        "+content": "Tokyopop Licenses <cite>My Noons and Midnights Are for You</cite>, <cite>My Fluffy Moody Crush</cite>, <cite>Monster and Ghost</cite> BL Manga",
-        "+@datetime": "2025-02-20T12:15:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-02-20/tokyopop-licenses-my-noons-and-midnights-are-for-you-my-fluffy-moody-crush-monster-and-ghost-bl-/.221443"
-    },
+    "news": [
+        {
+            "+content": "Tokyopop Licenses <cite>My Noons and Midnights Are for You</cite>, <cite>My Fluffy Moody Crush</cite>, <cite>Monster and Ghost</cite> BL Manga",
+            "+@datetime": "2025-02-20T12:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-20/tokyopop-licenses-my-noons-and-midnights-are-for-you-my-fluffy-moody-crush-monster-and-ghost-bl-/.221443"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, October 12-18",
+            "+@datetime": "2025-10-16T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-16/north-american-anime-manga-releases-october-12-18/.229899"
+        }
+    ],
     "staff": {
         "+@gid": "948699358",
         "task": "Story & Art",
@@ -53,5 +85,6 @@
         }
     },
     "+@date-added": "2025-02-20T19:26:51Z",
-    "+@date-last-updated-at": "2025-09-25T20:32:38Z"
+    "+@date-last-modified-at": "2025-10-26T16:36:19Z",
+    "+@date-last-updated-at": "2025-10-26T16:36:19Z"
 }
