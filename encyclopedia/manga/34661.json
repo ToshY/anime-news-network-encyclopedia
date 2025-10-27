@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Land of Monsters",
     "+@precision": "manga",
-    "+@generated-on": "2025-09-26T04:34:54Z",
+    "+@generated-on": "2025-10-27T02:21:54Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "4118"
@@ -48,16 +48,33 @@
             "+@lang": "JA"
         },
         {
+            "+content": "fantasy",
+            "+@gid": "1455263943",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "4",
+            "+@gid": "2558245792",
+            "+@type": "Number of tankoubon"
+        },
+        {
             "+content": "2025-02-05 (serialized in Weekly Shonen Sunday, 2025 #10)",
             "+@gid": "1045254757",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Viz Starts Simultaneous Release of Mitsutani's <cite>Land of Monsters</cite> Manga",
-        "+@datetime": "2025-02-12T06:42:15Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-02-12/viz-starts-simultaneous-release-of-mitsutani-land-of-monsters-manga/.221107"
-    },
+    "news": [
+        {
+            "+content": "Viz Starts Simultaneous Release of Mitsutani's <cite>Land of Monsters</cite> Manga",
+            "+@datetime": "2025-02-12T06:42:15Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-12/viz-starts-simultaneous-release-of-mitsutani-land-of-monsters-manga/.221107"
+        },
+        {
+            "+content": "<cite>Land of Monsters</cite> Manga Ends in 3 Chapters",
+            "+@datetime": "2025-10-06T21:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-06/land-of-monsters-manga-ends-in-3-chapters/.229682"
+        }
+    ],
     "staff": {
         "+@gid": "2506134464",
         "task": "Story & Art",
@@ -67,5 +84,6 @@
         }
     },
     "+@date-added": "2025-02-11T23:41:54Z",
-    "+@date-last-updated-at": "2025-09-26T04:34:55Z"
+    "+@date-last-modified-at": "2025-10-27T02:21:56Z",
+    "+@date-last-updated-at": "2025-10-27T02:21:56Z"
 }
