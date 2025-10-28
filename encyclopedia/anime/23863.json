@@ -4,15 +4,21 @@
     "+@type": "TV",
     "+@name": "Uma Musume Pretty Derby Season 2",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-28T12:52:20Z",
+    "+@generated-on": "2025-10-28T16:43:42Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "22478"
     },
-    "related-next": {
-        "+@id": "25438",
-        "+@rel": "sequel"
-    },
+    "related-next": [
+        {
+            "+@id": "25438",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "26548",
+            "+@rel": "side story"
+        }
+    ],
     "info": [
         {
             "+@gid": "1325262759",
@@ -126,6 +132,16 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "\"Hachimi no Uta\" (はちみーのうた; Honey Song) by Machico (ep 10)",
+            "+@gid": "2616374086",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Koi wa Derby☆\" (恋はダービー☆; Love is a Derby☆) by Machico (ep 10)",
+            "+@gid": "2165033724",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "\"Yume o Kakeru!\" (ユメヲカケル！; Run for Our Dream!) by Machico, Yui Kondō, and Kaori Maeda (ep 13)",
             "+@gid": "2564021660",
             "+@type": "Insert song"
@@ -139,9 +155,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "65",
-        "+@weighted_score": "8.1022",
-        "+@bayesian_score": "7.99742"
+        "+@nb_votes": "66",
+        "+@weighted_score": "8.1117",
+        "+@bayesian_score": "8.00656"
     },
     "episode": [
         {
@@ -1021,6 +1037,6 @@
         }
     ],
     "+@date-added": "2020-12-19T20:51:10Z",
-    "+@date-last-modified-at": "2025-09-28T12:52:22Z",
-    "+@date-last-updated-at": "2025-09-28T12:52:22Z"
+    "+@date-last-modified-at": "2025-10-28T16:44:16Z",
+    "+@date-last-updated-at": "2025-10-28T16:44:16Z"
 }
