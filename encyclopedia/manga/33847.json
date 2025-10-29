@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Henna E",
     "+@precision": "manga",
-    "+@generated-on": "2025-09-28T12:52:26Z",
+    "+@generated-on": "2025-10-29T08:43:06Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "16157"
@@ -41,10 +41,21 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Strange Pictures",
+            "+@gid": "1723630186",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "変な絵",
             "+@gid": "1308986588",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "horror",
+            "+@gid": "250536355",
+            "+@type": "Genres"
         },
         {
             "+content": "mystery",
@@ -62,11 +73,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Kengo Mizutani, Anajiro, Uketsu, Kikō Aiba Launch New Manga on Web Action Website",
-        "+@datetime": "2024-09-16T22:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-09-16/kengo-mizutani-anajiro-uketsu-kiko-aiba-launch-new-manga-on-web-action-website/.215547"
-    },
+    "news": [
+        {
+            "+content": "Kengo Mizutani, Anajiro, Uketsu, Kikō Aiba Launch New Manga on Web Action Website",
+            "+@datetime": "2024-09-16T22:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-09-16/kengo-mizutani-anajiro-uketsu-kiko-aiba-launch-new-manga-on-web-action-website/.215547"
+        },
+        {
+            "+content": "Exclusive: Titan Manga Publishes <cite>Strange Pictures</cite> Manga in English Starting in June 2026",
+            "+@datetime": "2025-10-27T15:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-27/exclusive-titan-manga-publishes-strange-pictures-manga-in-english-starting-in-june-2026/.228862"
+        }
+    ],
     "staff": [
         {
             "+@gid": "4203253717",
@@ -86,5 +104,6 @@
         }
     ],
     "+@date-added": "2024-10-27T02:27:49Z",
-    "+@date-last-updated-at": "2025-09-28T12:52:28Z"
+    "+@date-last-modified-at": "2025-10-29T08:43:07Z",
+    "+@date-last-updated-at": "2025-10-29T08:43:07Z"
 }

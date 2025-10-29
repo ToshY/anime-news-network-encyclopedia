@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Umayon",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-29T04:36:31Z",
+    "+@generated-on": "2025-10-29T08:43:15Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "23495"
@@ -47,6 +47,16 @@
             "+@type": "Genres"
         },
         {
+            "+content": "slice of life",
+            "+@gid": "2998892848",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "school",
+            "+@gid": "2972949418",
+            "+@type": "Themes"
+        },
+        {
             "+content": "OC",
             "+@gid": "2200295096",
             "+@type": "Objectionable content"
@@ -62,8 +72,18 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "#1: \"Pyoitto♪ Hallelujah!\" by Azumi Waki, Akari Kitō, Iori Saeki, Minami Takahashi, Rena Maeda",
-            "+@gid": "3176809223",
+            "+content": "#1: \"Pyoitto♪ Hallelujah!\" (ぴょいっと♪はれるや!) by Azumi Waki, Akari Kitō, Iori Saeki, Minami Takahashi, and Rena Maeda (eps 1-4)",
+            "+@gid": "1826510428",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#2: \"Ring Ring Diary\" (Ring Ring ダイアリー) by Machico, Azusa Tadokoro, Ruriko Aoki, Eriko Matsui, and Yuko Tatsumi (eps 5-8)",
+            "+@gid": "932379393",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#3: \"Nigekiri! Fallin' Love\" (逃げ切りっ! Fallin' Love; Getaway! Fallin' Love) by Marika Kōno, Hitomi Ohwada, Ikumi Hasegawa, Lynn, and Tomomi Mineuchi (eps 9-10, 12)",
+            "+@gid": "1285412126",
             "+@type": "Ending Theme"
         },
         {
@@ -75,9 +95,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "19",
-        "+@weighted_score": "6.2941",
-        "+@bayesian_score": "6.77323"
+        "+@nb_votes": "20",
+        "+@weighted_score": "6.3744",
+        "+@bayesian_score": "6.8071"
     },
     "episode": [
         {
@@ -371,6 +391,15 @@
             }
         },
         {
+            "+@gid": "1135580868",
+            "+@lang": "JA",
+            "role": "Symboli Rudolf",
+            "person": {
+                "+content": "Azusa Tadokoro",
+                "+@id": "112367"
+            }
+        },
+        {
             "+@gid": "2038489402",
             "+@lang": "JA",
             "role": "Maruzensky",
@@ -488,6 +517,6 @@
         }
     ],
     "+@date-added": "2020-07-07T18:52:52Z",
-    "+@date-last-modified-at": "2025-09-29T04:36:33Z",
-    "+@date-last-updated-at": "2025-09-29T04:36:33Z"
+    "+@date-last-modified-at": "2025-10-29T08:43:18Z",
+    "+@date-last-updated-at": "2025-10-29T08:43:18Z"
 }
