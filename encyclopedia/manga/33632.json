@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Gilded Seven",
     "+@precision": "manga",
-    "+@generated-on": "2025-09-29T04:36:36Z",
+    "+@generated-on": "2025-10-29T20:34:49Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "22891"
@@ -47,6 +47,16 @@
             "+@lang": "JA"
         },
         {
+            "+content": "action",
+            "+@gid": "2062212725",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "historical",
+            "+@gid": "2264411976",
+            "+@type": "Themes"
+        },
+        {
             "+content": "time travel",
             "+@gid": "3022605996",
             "+@type": "Themes"
@@ -62,11 +72,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "<cite>No Guns Life</cite>'s Tasuku Karasuma Launches New Manga",
-        "+@datetime": "2024-09-30T08:47:23Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-09-30/no-guns-life-tasuku-karasuma-launches-new-manga/.216152"
-    },
+    "news": [
+        {
+            "+content": "<cite>No Guns Life</cite>'s Tasuku Karasuma Launches New Manga",
+            "+@datetime": "2024-09-30T08:47:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-09-30/no-guns-life-tasuku-karasuma-launches-new-manga/.216152"
+        },
+        {
+            "+content": "Seven Seas Licenses <cite>I Like Cat Butts</cite>, <cite>Gilded Seven</cite>, <cite>Give Me a Hug, Mr. Frog!</cite>, 4 More Titles",
+            "+@datetime": "2025-10-09T02:01:34Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-08/seven-seas-licenses-i-like-cat-butts-gilded-seven-give-me-a-hug-mr-frog-4-more-titles/.229753"
+        }
+    ],
     "staff": {
         "+@gid": "3064864031",
         "task": "Story & Art",
@@ -76,5 +93,6 @@
         }
     },
     "+@date-added": "2024-09-30T12:24:53Z",
-    "+@date-last-updated-at": "2025-09-29T04:36:39Z"
+    "+@date-last-modified-at": "2025-10-29T20:34:50Z",
+    "+@date-last-updated-at": "2025-10-29T20:34:50Z"
 }
