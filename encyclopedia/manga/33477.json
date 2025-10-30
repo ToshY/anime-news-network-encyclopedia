@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Tokyo Fears Rhapsody",
     "+@precision": "manga",
-    "+@generated-on": "2025-09-29T13:00:29Z",
+    "+@generated-on": "2025-10-30T08:41:38Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "37455"
@@ -65,11 +65,18 @@
             "+@href": "https://viewer.heros-web.com/episode/316112896954890111"
         }
     ],
-    "release": {
-        "+content": "Tokyo Fears Rhapsody (GN 1)",
-        "+@date": "2025-07-15",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=53987"
-    },
+    "release": [
+        {
+            "+content": "Tokyo Fears Rhapsody (GN 1)",
+            "+@date": "2025-07-15",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=53987"
+        },
+        {
+            "+content": "Tokyo Fears Rhapsody (GN 2)",
+            "+@date": "2025-10-21",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=55432"
+        }
+    ],
     "news": [
         {
             "+content": "Viz Licenses Akira Sugito's <cite>Tokyo Fears Rhapsody</cite> Manga",
@@ -85,6 +92,11 @@
             "+content": "North American Anime, Manga Releases, July 13-19",
             "+@datetime": "2025-07-17T21:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-07-17/north-american-anime-manga-releases-july-13-19/.226639"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, October 19-25",
+            "+@datetime": "2025-10-24T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-24/north-american-anime-manga-releases-october-19-25/.230143"
         }
     ],
     "staff": {
@@ -96,5 +108,6 @@
         }
     },
     "+@date-added": "2024-09-08T18:20:56Z",
-    "+@date-last-updated-at": "2025-09-29T13:00:30Z"
+    "+@date-last-modified-at": "2025-10-30T08:41:40Z",
+    "+@date-last-updated-at": "2025-10-30T08:41:40Z"
 }
