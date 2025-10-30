@@ -4,27 +4,33 @@
     "+@type": "TV",
     "+@name": "Saioshi no Gikei o Mederu Tame, Nagaikishimasu!",
     "+@precision": "TV",
-    "+@generated-on": "2025-09-30T03:50:31Z",
-    "related-prev": {
-        "+@rel": "adapted from",
-        "+@id": "36818"
-    },
+    "+@generated-on": "2025-10-30T04:36:09Z",
+    "related-prev": [
+        {
+            "+@rel": "adapted from",
+            "+@id": "36818"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "37945"
+        }
+    ],
     "info": [
         {
             "+@gid": "1664667748",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36820-1664667748.1751340373.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36820-1664667748.1760010475.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36820-1664667748.1751340373.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36820-1664667748.1760010475.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36820-1664667748.1751340373.jpg",
-                    "+@width": "422",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36820-1664667748.1760010475.jpg",
+                    "+@width": "424",
                     "+@height": "600"
                 }
             ]
@@ -47,18 +53,61 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026",
+            "+content": "2026-01",
             "+@gid": "1893719718",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ「最推しの義兄を愛でるため、長生きします！」公式サイト",
+            "+@gid": "1224192602",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://animationid.com/saioshi/"
+        }
+    ],
+    "news": [
+        {
+            "+content": "Boys-Love Light Anime Label Balloon Launches with TV Anime in 2026",
+            "+@datetime": "2025-06-30T21:55:34Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-30/boys-love-light-anime-label-balloon-launches-with-tv-anime-in-2026/.226170"
+        },
+        {
+            "+content": "<cite>'Saioshi no Gikei o Mederu Tame, Nagaikishimasu!'</cite> Light Anime Debuts in January",
+            "+@datetime": "2025-10-09T11:26:12Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-09/saioshi-no-gikei-o-mederu-tame-nagaikishimasu-light-anime-debuts-in-january/.229780"
         }
     ],
     "staff": [
+        {
+            "+@gid": "2730929513",
+            "task": "Director",
+            "person": {
+                "+content": "Yūsuke Morishita",
+                "+@id": "117781"
+            }
+        },
+        {
+            "+@gid": "2695224409",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Izumi Tezuka",
+                "+@id": "241033"
+            }
+        },
         {
             "+@gid": "2010137330",
             "task": "Original creator",
             "person": {
                 "+content": "Tenma Asahi",
                 "+@id": "284791"
+            }
+        },
+        {
+            "+@gid": "2813669970",
+            "task": "Original creator",
+            "person": {
+                "+content": "Aki Tsujimoto",
+                "+@id": "284792"
             }
         },
         {
@@ -70,6 +119,33 @@
             }
         }
     ],
+    "credit": [
+        {
+            "+@gid": "1250538896",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Imageworks Studio",
+                "+@id": "23023"
+            }
+        },
+        {
+            "+@gid": "2137168890",
+            "task": "Animation Production",
+            "company": {
+                "+content": "IMAGICA Infos",
+                "+@id": "24988"
+            }
+        },
+        {
+            "+@gid": "1644028388",
+            "task": "Production",
+            "company": {
+                "+content": "AnimationID",
+                "+@id": "25617"
+            }
+        }
+    ],
     "+@date-added": "2025-06-30T23:23:49Z",
-    "+@date-last-updated-at": "2025-09-30T04:35:37Z"
+    "+@date-last-modified-at": "2025-10-30T04:36:12Z",
+    "+@date-last-updated-at": "2025-10-30T04:36:12Z"
 }
