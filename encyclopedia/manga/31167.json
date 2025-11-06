@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Convenient Semi-Friend",
     "+@precision": "manga",
-    "+@generated-on": "2025-10-06T08:40:31Z",
+    "+@generated-on": "2025-11-06T08:42:56Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "12690"
@@ -73,11 +73,18 @@
             "+@type": "Vintage"
         }
     ],
-    "release": {
-        "+content": "Convenient Semi-Friend (GN 1)",
-        "+@date": "2025-07-08",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=54241"
-    },
+    "release": [
+        {
+            "+content": "Convenient Semi-Friend (GN 1)",
+            "+@date": "2025-07-08",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=54241"
+        },
+        {
+            "+content": "Convenient Semi-Friend (GN 2)",
+            "+@date": "2025-11-25",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=55275"
+        }
+    ],
     "news": {
         "+content": "Yen Press Licenses <cite>Sword Art Online Unital Ring</cite>, <cite>Alya Sometimes Hides Her Feelings in Russian</cite>, 13 More Titles",
         "+@datetime": "2024-12-17T01:11:11Z",
@@ -92,5 +99,6 @@
         }
     },
     "+@date-added": "2023-12-28T03:47:51Z",
-    "+@date-last-updated-at": "2025-10-06T08:40:33Z"
+    "+@date-last-modified-at": "2025-11-06T08:42:58Z",
+    "+@date-last-updated-at": "2025-11-06T08:42:58Z"
 }
