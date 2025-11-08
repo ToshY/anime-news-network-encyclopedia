@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Ronja the Robber's Daughter",
     "+@precision": "TV",
-    "+@generated-on": "2025-10-08T16:39:23Z",
+    "+@generated-on": "2025-11-08T04:35:17Z",
     "info": [
         {
             "+@gid": "2647931325",
@@ -35,6 +35,12 @@
             "+@gid": "2739592004",
             "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Ronja - Figlia di brigante",
+            "+@gid": "2570545323",
+            "+@type": "Alternative title",
+            "+@lang": "IT"
         },
         {
             "+content": "Ronja de roversdochter",
@@ -194,8 +200,8 @@
     ],
     "ratings": {
         "+@nb_votes": "68",
-        "+@weighted_score": "6.7085",
-        "+@bayesian_score": "6.83125"
+        "+@weighted_score": "6.7084",
+        "+@bayesian_score": "6.83107"
     },
     "episode": [
         {
@@ -1437,6 +1443,15 @@
             }
         },
         {
+            "+@gid": "2382510404",
+            "+@lang": "IT",
+            "role": "Lovis",
+            "person": {
+                "+content": "Roberta Petteruti",
+                "+@id": "156761"
+            }
+        },
+        {
             "+@gid": "1291198714",
             "+@lang": "JA",
             "role": "Undis",
@@ -1697,6 +1712,6 @@
         }
     ],
     "+@date-added": "2014-01-31T21:42:22Z",
-    "+@date-last-modified-at": "2025-10-08T16:39:26Z",
-    "+@date-last-updated-at": "2025-10-08T16:39:26Z"
+    "+@date-last-modified-at": "2025-11-08T04:35:20Z",
+    "+@date-last-updated-at": "2025-11-08T04:35:20Z"
 }
