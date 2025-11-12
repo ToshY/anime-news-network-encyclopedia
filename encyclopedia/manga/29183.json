@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Oshiri Dandy the Young",
     "+@precision": "manga",
-    "+@generated-on": "2025-10-12T08:33:51Z",
+    "+@generated-on": "2025-11-12T16:44:15Z",
     "related-prev": [
         {
             "+@rel": "serialized in",
@@ -15,6 +15,10 @@
             "+@id": "21206"
         }
     ],
+    "related-next": {
+        "+@id": "37964",
+        "+@rel": "adaptation"
+    },
     "info": [
         {
             "+@gid": "3850643159",
@@ -53,16 +57,28 @@
             "+@lang": "JA"
         },
         {
+            "+content": "action",
+            "+@gid": "1570768270",
+            "+@type": "Genres"
+        },
+        {
             "+content": "2020-04-02 (serialized in Saikyō Jump, May 2020)",
             "+@gid": "2255945259",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "<cite>Super Dragon Ball Heroes: Universe Mission!!, Super Dragon Ball Heroes: Ankoku Makai Mission!, Battle Spirits: Grand Knights</cite> Manga End",
-        "+@datetime": "2020-02-01T10:11:36Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2020-02-01/super-dragon-ball-heroes-universe-mission-super-dragon-ball-heroes-ankoku-makai-mission-battle-/.156025"
-    },
+    "news": [
+        {
+            "+content": "<cite>Super Dragon Ball Heroes: Universe Mission!!, Super Dragon Ball Heroes: Ankoku Makai Mission!, Battle Spirits: Grand Knights</cite> Manga End",
+            "+@datetime": "2020-02-01T10:11:36Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2020-02-01/super-dragon-ball-heroes-universe-mission-super-dragon-ball-heroes-ankoku-makai-mission-battle-/.156025"
+        },
+        {
+            "+content": "<cite>Oshiri Dandy the Young</cite> Manga Animated Within <cite>Butt Detective</cite> TV Anime Next April",
+            "+@datetime": "2025-11-04T05:31:37Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-04/oshiri-dandy-the-young-manga-animated-within-butt-detective-tv-anime-next-april/.230624"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2431649718",
@@ -82,5 +98,6 @@
         }
     ],
     "+@date-added": "2023-07-26T10:06:44Z",
-    "+@date-last-updated-at": "2025-10-12T08:33:53Z"
+    "+@date-last-modified-at": "2025-11-12T16:44:16Z",
+    "+@date-last-updated-at": "2025-11-12T16:44:16Z"
 }
