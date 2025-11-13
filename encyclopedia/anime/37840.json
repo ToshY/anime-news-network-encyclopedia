@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Fist of the North Star: Elegy of Ken-Oh's Army Grunts",
     "+@precision": "TV",
-    "+@generated-on": "2025-10-14T04:35:29Z",
+    "+@generated-on": "2025-11-13T04:41:14Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "35761"
@@ -53,9 +53,23 @@
             "+@type": "Genres"
         },
         {
+            "+content": "\"Three daily meals included, company room and board, no experience necessary.\" In the year 199X after the nuclear apocalypse, our protagonist Nobu finds work as just another grunt in Ken-Oh's army. Nobu learns how long he can last in a workplace where deaths outnumber even the job applicants. <em class=de-emphasized>(from manga)</em>",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "2026-01",
             "+@gid": "2443699805",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Blacker Co., Ltd.\" by Itsuka Saisei",
+            "+@gid": "2123248324",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Elegy of the Enemies\" by The Canbellz",
+            "+@gid": "2173650126",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "アニメ「北斗の拳 拳王軍ザコたちの挽歌」",
@@ -65,12 +79,35 @@
             "+@href": "https://zakoban.com/"
         }
     ],
-    "news": {
-        "+content": "<i>Fist of the North Star</i> Spinoff <i>Elegy of Ken-Oh's Army Grunts</i> Gets Short Anime in January",
-        "+@datetime": "2025-09-13T04:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-09-13/fist-of-the-north-star-spinoff-elegy-of-ken-oh-army-grunts-gets-short-anime-in-january/.228741"
-    },
+    "news": [
+        {
+            "+content": "<i>Fist of the North Star</i> Spinoff <i>Elegy of Ken-Oh's Army Grunts</i> Gets Short Anime in January",
+            "+@datetime": "2025-09-13T04:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-13/fist-of-the-north-star-spinoff-elegy-of-ken-oh-army-grunts-gets-short-anime-in-january/.228741"
+        },
+        {
+            "+content": "<cite>Fist of the North Star: Elegy of Ken-Oh's Army Grunts</cite> Anime Announces Cast",
+            "+@datetime": "2025-10-24T03:56:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-23/fist-of-the-north-star-elegy-of-ken-oh-army-grunts-anime-announces-cast/.230262"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "1307535688",
+            "task": "Director",
+            "person": {
+                "+content": "Takuma Hase",
+                "+@id": "278116"
+            }
+        },
+        {
+            "+@gid": "3746286010",
+            "task": "Music",
+            "person": {
+                "+content": "Seiji Miura",
+                "+@id": "100495"
+            }
+        },
         {
             "+@gid": "1939900028",
             "task": "Original creator",
@@ -94,9 +131,81 @@
                 "+content": "Hiroshi Kurao",
                 "+@id": "242975"
             }
+        },
+        {
+            "+@gid": "2080755497",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Daisuke Miura",
+                "+@id": "44832"
+            }
+        },
+        {
+            "+@gid": "2427128789",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Sayoko Itō",
+                "+@id": "145153"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2214755669",
+            "+@lang": "JA",
+            "role": "Buzz",
+            "person": {
+                "+content": "Masaaki Yano",
+                "+@id": "3217"
+            }
+        },
+        {
+            "+@gid": "2602286044",
+            "+@lang": "JA",
+            "role": "Nobu",
+            "person": {
+                "+content": "Hiro Shimono",
+                "+@id": "7636"
+            }
+        },
+        {
+            "+@gid": "2275817111",
+            "+@lang": "JA",
+            "role": "Narrator",
+            "person": {
+                "+content": "Shinya Takahashi",
+                "+@id": "74624"
+            }
+        },
+        {
+            "+@gid": "2842413358",
+            "+@lang": "JA",
+            "role": "Zaku",
+            "person": {
+                "+content": "Shinnosuke Ogami",
+                "+@id": "134553"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "1976622979",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Do-Raku",
+                "+@id": "26456"
+            }
+        },
+        {
+            "+@gid": "1598702379",
+            "task": "Production",
+            "company": {
+                "+content": "Frontier Works",
+                "+@id": "1805"
+            }
         }
     ],
     "+@date-added": "2025-09-13T21:16:12Z",
-    "+@date-last-modified-at": "2025-10-14T04:35:35Z",
-    "+@date-last-updated-at": "2025-10-14T04:35:35Z"
+    "+@date-last-modified-at": "2025-11-13T04:41:17Z",
+    "+@date-last-updated-at": "2025-11-13T04:41:17Z"
 }
