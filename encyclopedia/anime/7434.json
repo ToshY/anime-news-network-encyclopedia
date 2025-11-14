@@ -2,9 +2,9 @@
     "+@id": "7434",
     "+@gid": "4018849131",
     "+@type": "OAV",
-    "+@name": "Bōken Shite mo ii Goro",
+    "+@name": "Bōken Shitemo ii Koro",
     "+@precision": "OAV",
-    "+@generated-on": "2025-09-17T20:31:56Z",
+    "+@generated-on": "2025-11-14T08:41:55Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "7435"
@@ -23,9 +23,15 @@
             }
         },
         {
+            "+content": "Bōken Shitemo ii Koro",
+            "+@gid": "1357791759",
+            "+@type": "Main title",
+            "+@lang": "JA"
+        },
+        {
             "+content": "Bōken Shite mo ii Goro",
             "+@gid": "2859495876",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -62,8 +68,8 @@
     ],
     "ratings": {
         "+@nb_votes": "13",
-        "+@weighted_score": "6.1468",
-        "+@bayesian_score": "6.81025"
+        "+@weighted_score": "6.1464",
+        "+@bayesian_score": "6.8095"
     },
     "staff": [
         {
@@ -149,21 +155,21 @@
     ],
     "cast": [
         {
+            "+@gid": "3108274761",
+            "+@lang": "JA",
+            "role": "Kanekura",
+            "person": {
+                "+content": "Kenichi Ogata",
+                "+@id": "284"
+            }
+        },
+        {
             "+@gid": "1982424398",
             "+@lang": "JA",
             "role": "Masami Ujiki",
             "person": {
                 "+content": "Daisuke Gōri",
                 "+@id": "871"
-            }
-        },
-        {
-            "+@gid": "2318691046",
-            "+@lang": "JA",
-            "role": "Junpei Koganei",
-            "person": {
-                "+content": "Hiroshi Aoyama",
-                "+@id": "5839"
             }
         },
         {
@@ -185,12 +191,57 @@
             }
         },
         {
+            "+@gid": "1335667519",
+            "+@lang": "JA",
+            "role": "Keiko Mina",
+            "person": {
+                "+content": "Toyomaru",
+                "+@id": "184737"
+            }
+        },
+        {
             "+@gid": "1702027760",
             "+@lang": "JA",
-            "role": "Masako",
+            "role": "Masako Ogawa",
             "person": {
                 "+content": "Marino Fujisawa",
                 "+@id": "184738"
+            }
+        },
+        {
+            "+@gid": "1275920158",
+            "+@lang": "JA",
+            "role": "Shōko Mikami",
+            "person": {
+                "+content": "Marino Fujisawa",
+                "+@id": "184738"
+            }
+        },
+        {
+            "+@gid": "2318691046",
+            "+@lang": "JA",
+            "role": "Junpei Koganei",
+            "person": {
+                "+content": "Hiroshi Aoyama",
+                "+@id": "289618"
+            }
+        },
+        {
+            "+@gid": "71910046",
+            "+@lang": "JA",
+            "role": "Chie Shinohara",
+            "person": {
+                "+content": "Yasuko Kimura",
+                "+@id": "289619"
+            }
+        },
+        {
+            "+@gid": "1651760225",
+            "+@lang": "JA",
+            "role": "Shōzō Shibuya",
+            "person": {
+                "+content": "Akira Hirata",
+                "+@id": "289620"
             }
         }
     ],
@@ -203,6 +254,6 @@
         }
     },
     "+@date-added": "2006-12-22T02:52:36Z",
-    "+@date-last-modified-at": "2025-09-17T20:31:58Z",
-    "+@date-last-updated-at": "2025-09-17T20:31:58Z"
+    "+@date-last-modified-at": "2025-11-14T08:41:57Z",
+    "+@date-last-updated-at": "2025-11-14T08:41:57Z"
 }
