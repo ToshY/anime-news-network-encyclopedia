@@ -4,10 +4,14 @@
     "+@type": "manga",
     "+@name": "Kindergarten WARS",
     "+@precision": "manga",
-    "+@generated-on": "2025-09-16T20:32:04Z",
+    "+@generated-on": "2025-11-17T20:33:59Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "20219"
+    },
+    "related-next": {
+        "+@id": "37889",
+        "+@rel": "adaptation"
     },
     "info": [
         {
@@ -84,11 +88,23 @@
         "+@nb_votes": "1",
         "+@weighted_score": "4"
     },
-    "release": {
-        "+content": "Kindergarten Wars (GN 1)",
-        "+@date": "2025-05-27",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=53338"
-    },
+    "release": [
+        {
+            "+content": "Kindergarten Wars (GN 1)",
+            "+@date": "2025-05-27",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=53338"
+        },
+        {
+            "+content": "Kindergarten Wars (GN 2)",
+            "+@date": "2025-09-30",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=55108"
+        },
+        {
+            "+content": "Kindergarten Wars (GN 3)",
+            "+@date": "2026-01-20",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=55576"
+        }
+    ],
     "news": [
         {
             "+content": "Manga Plus Adds <cite>Kindergarten Wars</cite> Manga in English",
@@ -114,16 +130,27 @@
             "+content": "<cite>Kindergarten Wars -LUKE-</cite> Spinoff Manga Ends, <cite>Kindergarten Wars</cite> Main Manga Returns",
             "+@datetime": "2025-08-04T06:08:46Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-08-04/kindergarten-wars-luke-spinoff-manga-ends-kindergarten-wars-main-manga-returns/.227317"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, September 28-October 4",
+            "+@datetime": "2025-10-03T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-03/north-american-anime-manga-releases-september-28-october-4/.229442"
+        },
+        {
+            "+content": "<cite>Kindergarten Wars</cite> Manga Gets TV Anime",
+            "+@datetime": "2025-10-01T15:02:13Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-01/kindergarten-wars-manga-gets-tv-anime/.229520"
         }
     ],
     "staff": {
         "+@gid": "2381373605",
         "task": "Story & Art",
         "person": {
-            "+content": "Yu Chiba",
+            "+content": "Yū Chiba",
             "+@id": "178415"
         }
     },
     "+@date-added": "2023-03-04T01:24:19Z",
-    "+@date-last-updated-at": "2025-09-16T20:32:07Z"
+    "+@date-last-modified-at": "2025-11-17T20:34:00Z",
+    "+@date-last-updated-at": "2025-11-17T20:34:00Z"
 }
