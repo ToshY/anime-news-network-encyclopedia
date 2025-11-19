@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Cat and the Dragon",
     "+@precision": "TV",
-    "+@generated-on": "2025-10-20T13:00:26Z",
+    "+@generated-on": "2025-11-19T13:02:00Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "34780"
@@ -13,17 +13,17 @@
         {
             "+@gid": "2615690431",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34782-2615690431.1740200763.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34782-2615690431.1762905534.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34782-2615690431.1740200763.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34782-2615690431.1762905534.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34782-2615690431.1740200763.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34782-2615690431.1762905534.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
@@ -53,6 +53,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "2026-07",
+            "+@gid": "1953791461",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ「猫と竜」公式サイト",
             "+@gid": "1853192860",
             "+@type": "Official website",
@@ -60,12 +65,43 @@
             "+@href": "https://nekoryuu-pr.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>The Cat and the Dragon</cite> Novels/Manga Get TV Anime",
-        "+@datetime": "2025-02-21T15:58:47Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-02-21/the-cat-and-the-dragon-novels-manga-get-tv-anime/.221498"
-    },
+    "news": [
+        {
+            "+content": "<cite>The Cat and the Dragon</cite> Novels/Manga Get TV Anime",
+            "+@datetime": "2025-02-21T15:58:47Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-21/the-cat-and-the-dragon-novels-manga-get-tv-anime/.221498"
+        },
+        {
+            "+content": "<cite>The Cat and the Dragon</cite> Anime Reveals Trailer, Cast, Staff, July 2026 Premiere",
+            "+@datetime": "2025-11-11T16:00:39Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-11/the-cat-and-the-dragon-anime-reveals-trailer-cast-staff-july-2026-premiere/.230887"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "3076471667",
+            "task": "Director",
+            "person": {
+                "+content": "Jin-Koo Oh",
+                "+@id": "266299"
+            }
+        },
+        {
+            "+@gid": "4033305563",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Mitsutaka Hirota",
+                "+@id": "50326"
+            }
+        },
+        {
+            "+@gid": "1713506615",
+            "task": "Music",
+            "person": {
+                "+content": "Takahiro Obata",
+                "+@id": "153561"
+            }
+        },
         {
             "+@gid": "2442949338",
             "task": "Original creator",
@@ -89,8 +125,50 @@
                 "+content": "Mai Ōkuma",
                 "+@id": "223547"
             }
+        },
+        {
+            "+@gid": "1133545623",
+            "task": "Character Design",
+            "person": {
+                "+content": "Rie Nishino",
+                "+@id": "4628"
+            }
+        },
+        {
+            "+@gid": "625113144",
+            "task": "Character Design",
+            "person": {
+                "+content": "Chiaki Kurakazu",
+                "+@id": "153970"
+            }
+        },
+        {
+            "+@gid": "1760180495",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Noriyoshi Konuma",
+                "+@id": "84893"
+            }
         }
     ],
+    "cast": {
+        "+@gid": "1585038735",
+        "+@lang": "JA",
+        "role": "Nekoryū",
+        "person": {
+            "+content": "Takehito Koyasu",
+            "+@id": "662"
+        }
+    },
+    "credit": {
+        "+@gid": "1443413313",
+        "task": "Animation Production",
+        "company": {
+            "+content": "OLM",
+            "+@id": "33"
+        }
+    },
     "+@date-added": "2025-02-22T00:05:14Z",
-    "+@date-last-updated-at": "2025-10-20T13:00:28Z"
+    "+@date-last-modified-at": "2025-11-19T13:02:02Z",
+    "+@date-last-updated-at": "2025-11-19T13:02:02Z"
 }
