@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Eiga Kimi to Idol Precure♪ Omatase! Kimi ni Todokeru Kirakkilive!",
     "+@precision": "movie",
-    "+@generated-on": "2025-10-20T16:40:34Z",
+    "+@generated-on": "2025-11-19T16:44:17Z",
     "related-prev": [
         {
             "+@rel": "part of",
@@ -194,6 +194,46 @@
             }
         },
         {
+            "+@gid": "3778823549",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kouji Ogawa",
+                "+@id": "144211"
+            }
+        },
+        {
+            "+@gid": "1416487034",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hana Shinohara",
+                "+@id": "220900"
+            }
+        },
+        {
+            "+@gid": "2479244810",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Tsuyoshi Tobita",
+                "+@id": "132674"
+            }
+        },
+        {
+            "+@gid": "1082791723",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Kouji Ogawa",
+                "+@id": "144211"
+            }
+        },
+        {
+            "+@gid": "1515086222",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Hana Shinohara",
+                "+@id": "220900"
+            }
+        },
+        {
             "+@gid": "1583796916",
             "task": "Music",
             "person": {
@@ -213,7 +253,7 @@
             "+@gid": "1447927152",
             "task": "Original creator",
             "person": {
-                "+content": "Izumi Todo",
+                "+content": "Izumi Tōdō",
                 "+@id": "13271"
             }
         },
@@ -271,6 +311,102 @@
             "person": {
                 "+content": "Nishiki Itaoka",
                 "+@id": "30028"
+            }
+        },
+        {
+            "+@gid": "1488875489",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kumiko Shishido",
+                "+@id": "21362"
+            }
+        },
+        {
+            "+@gid": "559238434",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nishiki Itaoka",
+                "+@id": "30028"
+            }
+        },
+        {
+            "+@gid": "2934250845",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Midori Uchiyama",
+                "+@id": "36950"
+            }
+        },
+        {
+            "+@gid": "1215582505",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Atsushi Saitō",
+                "+@id": "47425"
+            }
+        },
+        {
+            "+@gid": "2716922811",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yoko Uchida",
+                "+@id": "49190"
+            }
+        },
+        {
+            "+@gid": "1411528184",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiroshi Numata",
+                "+@id": "83167"
+            }
+        },
+        {
+            "+@gid": "667380039",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takako Takahashi",
+                "+@id": "141907"
+            }
+        },
+        {
+            "+@gid": "2069768282",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sara Sakoe",
+                "+@id": "158634"
+            }
+        },
+        {
+            "+@gid": "708079697",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Daichi Nakajima",
+                "+@id": "167574"
+            }
+        },
+        {
+            "+@gid": "3717389800",
+            "task": "Art design",
+            "person": {
+                "+content": "Kaoru Aoki",
+                "+@id": "75979"
+            }
+        },
+        {
+            "+@gid": "3047445561",
+            "task": "Art design",
+            "person": {
+                "+content": "Toshiki Amada",
+                "+@id": "149325"
+            }
+        },
+        {
+            "+@gid": "3427908997",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Tomohiko Takahashi",
+                "+@id": "91322"
             }
         },
         {
@@ -454,15 +590,65 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "1897139161",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Toei Animation",
-            "+@id": "145"
+    "credit": [
+        {
+            "+@gid": "1897139161",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Toei Animation",
+                "+@id": "145"
+            }
+        },
+        {
+            "+@gid": "408583316",
+            "task": "Production",
+            "company": {
+                "+content": "Toei Animation",
+                "+@id": "145"
+            }
+        },
+        {
+            "+@gid": "2912932273",
+            "task": "Production",
+            "company": {
+                "+content": "Toei Company, Ltd.",
+                "+@id": "3269"
+            }
+        },
+        {
+            "+@gid": "3391232879",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Co., Ltd.",
+                "+@id": "3520"
+            }
+        },
+        {
+            "+@gid": "2075109153",
+            "task": "Production",
+            "company": {
+                "+content": "Marvelous AQL",
+                "+@id": "10523"
+            }
+        },
+        {
+            "+@gid": "3512138257",
+            "task": "Production",
+            "company": {
+                "+content": "ABC Animation",
+                "+@id": "14887"
+            }
+        },
+        {
+            "+@gid": "430998251",
+            "task": "Production",
+            "company": {
+                "+content": "ADK Emotions",
+                "+@id": "19060"
+            }
         }
-    },
+    ],
     "+@date-added": "2025-01-16T05:29:24Z",
-    "+@date-last-modified-at": "2025-10-20T16:40:36Z",
-    "+@date-last-updated-at": "2025-10-20T16:40:36Z"
+    "+@date-last-modified-at": "2025-11-19T16:44:19Z",
+    "+@date-last-updated-at": "2025-11-19T16:44:19Z"
 }
