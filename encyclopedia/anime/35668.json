@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Entotsu-chō no Poupelle ~Yakusoku no Tokeidai~",
     "+@precision": "movie",
-    "+@generated-on": "2025-10-20T02:18:29Z",
+    "+@generated-on": "2025-11-19T04:39:12Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "22930"
@@ -13,18 +13,18 @@
         {
             "+@gid": "1496204486",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35668-1496204486.1744689114.jpg",
-            "+@width": "126",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35668-1496204486.1762486619.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35668-1496204486.1744689114.jpg",
-                    "+@width": "126",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35668-1496204486.1762486619.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35668-1496204486.1744689114.jpg",
-                    "+@width": "379",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35668-1496204486.1762486619.jpg",
+                    "+@width": "425",
                     "+@height": "600"
                 }
             ]
@@ -42,9 +42,13 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2026 (spring)",
-            "+@gid": "569772433",
+            "+content": "2026-03-27",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2026-03-27 (Japan)",
+            "+@gid": "1980700090",
+            "+@type": "Premiere date"
         },
         {
             "+content": "『映画 えんとつ町のプペル 〜約束の時計台〜』公式サイト",
@@ -54,11 +58,18 @@
             "+@href": "https://poupelle.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Poupelle of Chimney Town</cite> Sequel Film's Video Reveals Title, Spring 2026 Debut",
-        "+@datetime": "2025-04-15T01:39:11Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-04-14/poupelle-of-chimney-town-sequel-film-video-reveals-title-spring-2026-debut/.223563"
-    },
+    "news": [
+        {
+            "+content": "<cite>Poupelle of Chimney Town</cite> Sequel Film's Video Reveals Title, Spring 2026 Debut",
+            "+@datetime": "2025-04-15T01:39:11Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-14/poupelle-of-chimney-town-sequel-film-video-reveals-title-spring-2026-debut/.223563"
+        },
+        {
+            "+content": "<cite>Poupelle of Chimney Town</cite> Sequel Film's Teaser Unveils Cast, March 27 Debut",
+            "+@datetime": "2025-11-07T02:03:28Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-06/poupelle-of-chimney-town-sequel-film-teaser-unveils-cast-march-27-debut/.230731"
+        }
+    ],
     "staff": [
         {
             "+@gid": "145957500",
@@ -85,6 +96,26 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "3492584347",
+            "+@lang": "JA",
+            "role": "Poupelle",
+            "person": {
+                "+content": "Masataka Kubota",
+                "+@id": "89652"
+            }
+        },
+        {
+            "+@gid": "2044166113",
+            "+@lang": "JA",
+            "role": "Lubicchi",
+            "person": {
+                "+content": "Yuzuna Nagase",
+                "+@id": "270038"
+            }
+        }
+    ],
     "credit": {
         "+@gid": "3169483022",
         "task": "Animation Production",
@@ -94,5 +125,6 @@
         }
     },
     "+@date-added": "2025-04-14T23:50:51Z",
-    "+@date-last-updated-at": "2025-10-20T02:18:31Z"
+    "+@date-last-modified-at": "2025-11-19T04:39:14Z",
+    "+@date-last-updated-at": "2025-11-19T04:39:14Z"
 }

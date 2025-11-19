@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Camphorwood Custodian",
     "+@precision": "movie",
-    "+@generated-on": "2025-10-20T02:18:29Z",
+    "+@generated-on": "2025-11-19T04:39:13Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "35539"
@@ -13,17 +13,17 @@
         {
             "+@gid": "4169802657",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35540-4169802657.1754617173.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35540-4169802657.1763516654.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35540-4169802657.1754617173.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35540-4169802657.1763516654.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35540-4169802657.1754617173.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35540-4169802657.1763516654.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
@@ -78,6 +78,11 @@
             "+content": "<cite>The Camphorwood Custodian</cite> Anime Film's Teaser Unveils Cast, More Staff, January 30 Debut",
             "+@datetime": "2025-08-08T01:07:54Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-08-07/the-camphorwood-custodian-anime-film-teaser-unveils-cast-more-staff-january-30-debut/.227458"
+        },
+        {
+            "+content": "<cite>The Camphorwood Custodian</cite> Anime Film's Trailer Unveils More Cast, Composer",
+            "+@datetime": "2025-11-18T23:19:54Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-18/the-camphorwood-custodian-anime-film-trailer-unveils-more-cast-composer/.231169"
         }
     ],
     "staff": [
@@ -95,6 +100,14 @@
             "person": {
                 "+content": "Taku Kishimoto",
                 "+@id": "76253"
+            }
+        },
+        {
+            "+@gid": "2409300260",
+            "task": "Music",
+            "person": {
+                "+content": "Yūgo Kanno",
+                "+@id": "18581"
             }
         },
         {
@@ -128,9 +141,42 @@
                 "+content": "Hiroshi Takiguchi",
                 "+@id": "18602"
             }
+        },
+        {
+            "+@gid": "1422226398",
+            "task": "Art",
+            "person": {
+                "+content": "Hiroshi Takiguchi",
+                "+@id": "18602"
+            }
+        },
+        {
+            "+@gid": "1780553345",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Noriki Tsukamoto",
+                "+@id": "58892"
+            }
+        },
+        {
+            "+@gid": "2432934712",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Teppei Satō",
+                "+@id": "114482"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "981662460",
+            "+@lang": "JA",
+            "role": "Toshiaki Saji",
+            "person": {
+                "+content": "Takao Ōsawa",
+                "+@id": "67815"
+            }
+        },
         {
             "+@gid": "1071711803",
             "+@lang": "JA",
@@ -147,6 +193,24 @@
             "person": {
                 "+content": "Fumiya Takahashi",
                 "+@id": "198948"
+            }
+        },
+        {
+            "+@gid": "1151569536",
+            "+@lang": "JA",
+            "role": "Yumi Saji",
+            "person": {
+                "+content": "Asuka Saitō",
+                "+@id": "259259"
+            }
+        },
+        {
+            "+@gid": "2057999553",
+            "+@lang": "JA",
+            "role": "Sōki Ōba",
+            "person": {
+                "+content": "Ryūbi Miyase",
+                "+@id": "273164"
             }
         }
     ],
@@ -169,5 +233,6 @@
         }
     ],
     "+@date-added": "2025-04-08T01:01:29Z",
-    "+@date-last-updated-at": "2025-10-20T02:18:31Z"
+    "+@date-last-modified-at": "2025-11-19T04:39:14Z",
+    "+@date-last-updated-at": "2025-11-19T04:39:14Z"
 }

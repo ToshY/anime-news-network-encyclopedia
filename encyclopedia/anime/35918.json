@@ -4,9 +4,9 @@
     "+@type": "ONA",
     "+@name": "Umayuru: Pretty Gray",
     "+@precision": "ONA",
-    "+@generated-on": "2025-10-20T02:18:29Z",
+    "+@generated-on": "2025-11-19T04:39:12Z",
     "related-prev": {
-        "+@rel": "spinoff of",
+        "+@rel": "sequel of",
         "+@id": "25655"
     },
     "info": [
@@ -83,8 +83,23 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "#1: \"Hai no memoire\" by Tomoyo Takayanagi, Hitomi Ueda, Saori Oonishi, Naomi Oozora (ep 1)",
-            "+@gid": "2295714003",
+            "+content": "#1: \"Hai no memoire\" (灰のmemoire; Ashen Memoire) by Tomoyo Takayanagi, Hitomi Ueda, Saori Ōnishi, and Naomi Ōzora (ep 1)",
+            "+@gid": "3230716147",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#2: \"Hai no memoire\" (灰のmemoire; Ashen Memoire) by Akari Kitō (ep 2)",
+            "+@gid": "3417175460",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#3: \"Hai no memoire\" (灰のmemoire; Ashen Memoire) by Yui Kondō and Sakura Kasuga (ep 3)",
+            "+@gid": "1108598627",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#4: \"Hai no memoire\" (灰のmemoire; Ashen Memoire) by Yū Sasahara and Hiyori Manase (ep 4)",
+            "+@gid": "1755115038",
             "+@type": "Ending Theme"
         },
         {
@@ -96,8 +111,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "7"
+        "+@nb_votes": "2",
+        "+@weighted_score": "7.4317"
     },
     "episode": [
         {
@@ -246,6 +261,24 @@
     ],
     "cast": [
         {
+            "+@gid": "2342851817",
+            "+@lang": "JA",
+            "role": "Tanino Gimlet",
+            "person": {
+                "+content": "Misato Matsuoka",
+                "+@id": "53103"
+            }
+        },
+        {
+            "+@gid": "1141390505",
+            "+@lang": "JA",
+            "role": "Winning Ticket",
+            "person": {
+                "+content": "Yui Watanabe",
+                "+@id": "97897"
+            }
+        },
+        {
             "+@gid": "4221796991",
             "+@lang": "JA",
             "role": "Biwa Hayahide",
@@ -300,6 +333,15 @@
             }
         },
         {
+            "+@gid": "2754558138",
+            "+@lang": "JA",
+            "role": "Narita Taishin",
+            "person": {
+                "+content": "Keiko Watanabe",
+                "+@id": "135636"
+            }
+        },
+        {
             "+@gid": "2992033007",
             "+@lang": "JA",
             "role": "Oguri Cap",
@@ -324,6 +366,15 @@
             "person": {
                 "+content": "Yū Sasahara",
                 "+@id": "158556"
+            }
+        },
+        {
+            "+@gid": "2644124624",
+            "+@lang": "JA",
+            "role": "No Reason",
+            "person": {
+                "+content": "Hiyori Kōno",
+                "+@id": "163448"
             }
         },
         {
@@ -391,6 +442,6 @@
         }
     ],
     "+@date-added": "2025-04-30T06:27:18Z",
-    "+@date-last-modified-at": "2025-10-20T02:18:31Z",
-    "+@date-last-updated-at": "2025-10-20T02:18:31Z"
+    "+@date-last-modified-at": "2025-11-19T04:39:14Z",
+    "+@date-last-updated-at": "2025-11-19T04:39:14Z"
 }

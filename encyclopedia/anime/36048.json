@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "In the Clear Moonlit Dusk",
     "+@precision": "TV",
-    "+@generated-on": "2025-10-20T02:18:28Z",
+    "+@generated-on": "2025-11-19T04:39:12Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24521"
@@ -69,11 +69,18 @@
             "+@href": "https://uruwashi-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>In the Clear Moonlit Dusk</cite> Anime Unveils 2 Cast Members",
-        "+@datetime": "2025-08-21T15:22:22Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-08-21/in-the-clear-moonlit-dusk-anime-unveils-2-cast-members/.227912"
-    },
+    "news": [
+        {
+            "+content": "<cite>In the Clear Moonlit Dusk</cite> Anime Unveils 2 Cast Members",
+            "+@datetime": "2025-08-21T15:22:22Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-21/in-the-clear-moonlit-dusk-anime-unveils-2-cast-members/.227912"
+        },
+        {
+            "+content": "<cite>In the Clear Moonlit Dusk</cite> Anime Reveals 2 More Cast Members",
+            "+@datetime": "2025-10-22T15:26:17Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-22/in-the-clear-moonlit-dusk-anime-reveals-2-more-cast-members/.230208"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2242058104",
@@ -118,6 +125,15 @@
     ],
     "cast": [
         {
+            "+@gid": "423075286",
+            "+@lang": "JA",
+            "role": "Shun Kuwabatake",
+            "person": {
+                "+content": "Kentarō Kumagai",
+                "+@id": "142194"
+            }
+        },
+        {
             "+@gid": "3374141076",
             "+@lang": "JA",
             "role": "Nobara Tone",
@@ -145,6 +161,15 @@
             }
         },
         {
+            "+@gid": "1496624277",
+            "+@lang": "JA",
+            "role": "Sentaro Akane",
+            "person": {
+                "+content": "Shōta Hayama",
+                "+@id": "273024"
+            }
+        },
+        {
             "+@gid": "2023362193",
             "+@lang": "JA",
             "role": "Yoi Takiguchi",
@@ -163,5 +188,6 @@
         }
     },
     "+@date-added": "2025-05-08T19:49:17Z",
-    "+@date-last-updated-at": "2025-10-20T02:18:31Z"
+    "+@date-last-modified-at": "2025-11-19T04:39:14Z",
+    "+@date-last-updated-at": "2025-11-19T04:39:14Z"
 }
