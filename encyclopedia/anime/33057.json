@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "From Old Country Bumpkin to Master Swordsman",
     "+@precision": "TV",
-    "+@generated-on": "2025-10-21T13:02:19Z",
+    "+@generated-on": "2025-11-20T16:43:51Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28181"
@@ -87,8 +87,13 @@
             "+@lang": "JA"
         },
         {
-            "+content": "adventure",
+            "+content": "action",
             "+@gid": "1009158793",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "3415505939",
             "+@type": "Genres"
         },
         {
@@ -100,6 +105,31 @@
             "+content": "fantasy",
             "+@gid": "2491683647",
             "+@type": "Genres"
+        },
+        {
+            "+content": "assassins",
+            "+@gid": "2302230074",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "conspiracy",
+            "+@gid": "3929294219",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "fan service",
+            "+@gid": "2545850924",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "parenting",
+            "+@gid": "3643030635",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "politics",
+            "+@gid": "2490916823",
+            "+@type": "Themes"
         },
         {
             "+content": "swordplay",
@@ -126,6 +156,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "2260367837",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2025-04-06",
             "+@gid": "2681870316",
             "+@type": "Vintage"
@@ -139,9 +174,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "99",
-        "+@weighted_score": "7.0438",
-        "+@bayesian_score": "7.09361"
+        "+@nb_votes": "104",
+        "+@weighted_score": "7.0632",
+        "+@bayesian_score": "7.10869"
     },
     "news": [
         {
@@ -466,7 +501,7 @@
             }
         },
         {
-            "+@gid": "1415700177",
+            "+@gid": "4029493944",
             "task": "Chief Animation Director",
             "person": {
                 "+content": "Keiko Yamaguchi",
@@ -1316,6 +1351,6 @@
         }
     ],
     "+@date-added": "2024-08-01T07:08:26Z",
-    "+@date-last-modified-at": "2025-10-21T13:02:22Z",
-    "+@date-last-updated-at": "2025-10-21T13:02:22Z"
+    "+@date-last-modified-at": "2025-11-20T16:43:53Z",
+    "+@date-last-updated-at": "2025-11-20T16:43:53Z"
 }

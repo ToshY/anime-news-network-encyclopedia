@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Secrets of the Silent Witch",
     "+@precision": "TV",
-    "+@generated-on": "2025-10-21T13:02:19Z",
+    "+@generated-on": "2025-11-20T16:43:50Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25260"
@@ -34,6 +34,12 @@
             "+@gid": "1464212186",
             "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Sekrety Cichej Wiedźmy",
+            "+@gid": "3475491941",
+            "+@type": "Alternative title",
+            "+@lang": "PL"
         },
         {
             "+content": "Silent Witch",
@@ -149,9 +155,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "70",
-        "+@weighted_score": "7.893",
-        "+@bayesian_score": "7.8272"
+        "+@nb_votes": "88",
+        "+@weighted_score": "7.8635",
+        "+@bayesian_score": "7.81319"
     },
     "episode": [
         {
@@ -738,6 +744,14 @@
             }
         },
         {
+            "+@gid": "2399653080",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Su Min Kim",
+                "+@id": "61846"
+            }
+        },
+        {
             "+@gid": "1079840186",
             "task": "Animation Director",
             "person": {
@@ -754,11 +768,27 @@
             }
         },
         {
+            "+@gid": "1022274788",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hye-Ran Shin",
+                "+@id": "80213"
+            }
+        },
+        {
             "+@gid": "2988670242",
             "task": "Animation Director",
             "person": {
                 "+content": "Akihiro Ōtake",
                 "+@id": "81153"
+            }
+        },
+        {
+            "+@gid": "1933824263",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Min Woo Lee",
+                "+@id": "89550"
             }
         },
         {
@@ -879,6 +909,14 @@
             "person": {
                 "+content": "Misaki Nishimoto",
                 "+@id": "186519"
+            }
+        },
+        {
+            "+@gid": "483780159",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Eun Ji Lee",
+                "+@id": "193912"
             }
         },
         {
@@ -1381,6 +1419,6 @@
         }
     ],
     "+@date-added": "2024-08-02T17:55:19Z",
-    "+@date-last-modified-at": "2025-10-21T13:02:22Z",
-    "+@date-last-updated-at": "2025-10-21T13:02:22Z"
+    "+@date-last-modified-at": "2025-11-20T16:43:53Z",
+    "+@date-last-updated-at": "2025-11-20T16:43:53Z"
 }

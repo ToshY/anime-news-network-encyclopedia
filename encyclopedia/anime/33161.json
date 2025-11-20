@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "Lockdown Zone: Level X",
     "+@precision": "TV",
-    "+@generated-on": "2025-10-21T13:02:19Z",
-    "related-prev": {
-        "+@rel": "adapted from",
-        "+@id": "33163"
-    },
+    "+@generated-on": "2025-11-20T16:43:50Z",
+    "related-prev": [
+        {
+            "+@rel": "adapted from",
+            "+@id": "33163"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "37945"
+        }
+    ],
     "related-next": {
         "+@id": "33715",
         "+@rel": "sequel"
@@ -95,7 +101,7 @@
     ],
     "ratings": {
         "+@nb_votes": "5",
-        "+@weighted_score": "5.6439"
+        "+@weighted_score": "5.6443"
     },
     "news": [
         {
@@ -208,6 +214,6 @@
         }
     ],
     "+@date-added": "2024-08-07T18:53:20Z",
-    "+@date-last-modified-at": "2025-10-21T13:02:22Z",
-    "+@date-last-updated-at": "2025-10-21T13:02:22Z"
+    "+@date-last-modified-at": "2025-11-20T16:43:53Z",
+    "+@date-last-updated-at": "2025-11-20T16:43:53Z"
 }
