@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "My Hero Academia FINAL SEASON",
     "+@precision": "TV 8",
-    "+@generated-on": "2025-10-21T04:36:27Z",
+    "+@generated-on": "2025-11-20T08:43:58Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "27621"
@@ -127,8 +127,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "7.0232"
+        "+@nb_votes": "4",
+        "+@weighted_score": "7.8761"
     },
     "episode": [
         {
@@ -160,6 +160,38 @@
             "title": {
                 "+content": "Quirk: Explosion!!",
                 "+@gid": "2063073388",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "164",
+            "title": {
+                "+content": "History's Greatest Villain",
+                "+@gid": "1429724954",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "165",
+            "title": {
+                "+content": "Wrench It Open, Izuku Midoriya!!",
+                "+@gid": "749230682",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "166",
+            "title": {
+                "+content": "From Aizawa",
+                "+@gid": "3072133218",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "167",
+            "title": {
+                "+content": "Izuku Midoriya: Rising",
+                "+@gid": "2050211062",
                 "+@lang": "EN"
             }
         }
@@ -224,6 +256,26 @@
             "+content": "Japanese Animation TV Ranking, October 6-12",
             "+@datetime": "2025-10-17T09:30:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-10-17/japanese-animation-tv-ranking-october-6-12/.230026"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, October 13-19",
+            "+@datetime": "2025-10-25T12:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-25/japanese-animation-tv-ranking-october-13-19/.230275"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, October 20-26",
+            "+@datetime": "2025-11-01T14:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-01/japanese-animation-tv-ranking-october-20-26/.230467"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, October 27-November 2",
+            "+@datetime": "2025-11-08T13:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-08/japanese-animation-tv-ranking-october-27-november-2/.230767"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, November 3-9",
+            "+@datetime": "2025-11-15T13:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-15/japanese-animation-tv-ranking-november-3-9/.231030"
         }
     ],
     "staff": [
@@ -268,6 +320,14 @@
             }
         },
         {
+            "+@gid": "3161111898",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shouji Ikeno",
+                "+@id": "75017"
+            }
+        },
+        {
             "+@gid": "927620687",
             "task": "Storyboard",
             "person": {
@@ -276,11 +336,27 @@
             }
         },
         {
+            "+@gid": "1580625654",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Haruka Iida",
+                "+@id": "130858"
+            }
+        },
+        {
             "+@gid": "2482803339",
             "task": "Storyboard",
             "person": {
                 "+content": "Hanako Ueda",
                 "+@id": "164559"
+            }
+        },
+        {
+            "+@gid": "814509969",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Masayuki Otsuki",
+                "+@id": "182370"
             }
         },
         {
@@ -308,11 +384,27 @@
             }
         },
         {
+            "+@gid": "2435149199",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shouji Ikeno",
+                "+@id": "75017"
+            }
+        },
+        {
             "+@gid": "1824102189",
             "task": "Episode Director",
             "person": {
                 "+content": "Tomo Ōkubo",
                 "+@id": "83359"
+            }
+        },
+        {
+            "+@gid": "2052369678",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tsuyoshi Tobita",
+                "+@id": "132674"
             }
         },
         {
@@ -404,11 +496,27 @@
             }
         },
         {
+            "+@gid": "1984173886",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Hitomi Odashima",
+                "+@id": "91590"
+            }
+        },
+        {
             "+@gid": "3365114264",
             "task": "Animation Director",
             "person": {
                 "+content": "Yoshihiko Umakoshi",
                 "+@id": "64"
+            }
+        },
+        {
+            "+@gid": "3017427110",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takahiro Komori",
+                "+@id": "1570"
             }
         },
         {
@@ -433,6 +541,14 @@
             "person": {
                 "+content": "Takashi Murai",
                 "+@id": "59378"
+            }
+        },
+        {
+            "+@gid": "1693897739",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tetsuro Uetake",
+                "+@id": "71477"
             }
         },
         {
@@ -465,6 +581,22 @@
             "person": {
                 "+content": "Noriko Morishima",
                 "+@id": "104012"
+            }
+        },
+        {
+            "+@gid": "2455240155",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mao Tsunoda",
+                "+@id": "196976"
+            }
+        },
+        {
+            "+@gid": "652632705",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nami Fujii",
+                "+@id": "217489"
             }
         },
         {
@@ -587,6 +719,15 @@
             }
         },
         {
+            "+@gid": "2096891440",
+            "+@lang": "EN",
+            "role": "Katsuki Bakugo",
+            "person": {
+                "+content": "Clifford Chapin",
+                "+@id": "122114"
+            }
+        },
+        {
             "+@gid": "2607604130",
             "+@lang": "EN",
             "role": "Izuku Midoriya",
@@ -605,12 +746,165 @@
             }
         },
         {
+            "+@gid": "3207046538",
+            "+@lang": "EN",
+            "role": "Hawks",
+            "person": {
+                "+content": "Zeno Robinson",
+                "+@id": "151160"
+            }
+        },
+        {
             "+@gid": "3669747627",
             "+@lang": "EN",
             "role": "All for One",
             "person": {
                 "+content": "Ryan Negron",
                 "+@id": "216167"
+            }
+        },
+        {
+            "+@gid": "3204461669",
+            "+@lang": "FR",
+            "role": "Present Mic",
+            "person": {
+                "+content": "Martial Leminoux",
+                "+@id": "38549"
+            }
+        },
+        {
+            "+@gid": "2318205802",
+            "+@lang": "FR",
+            "role": "All Might",
+            "person": {
+                "+content": "Julien Chatelet",
+                "+@id": "55620"
+            }
+        },
+        {
+            "+@gid": "3153600414",
+            "+@lang": "FR",
+            "role": "Naomasa Tsukauchi",
+            "person": {
+                "+content": "Julien Meunier",
+                "+@id": "70327"
+            }
+        },
+        {
+            "+@gid": "3576065740",
+            "+@lang": "FR",
+            "role": "Izuku Midoriya",
+            "person": {
+                "+content": "Bastien Bourlé",
+                "+@id": "76641"
+            }
+        },
+        {
+            "+@gid": "3082265592",
+            "+@lang": "FR",
+            "role": "Yuga Aoyama",
+            "person": {
+                "+content": "Grégory Laisné",
+                "+@id": "79281"
+            }
+        },
+        {
+            "+@gid": "2562616948",
+            "+@lang": "FR",
+            "role": "Toru Hagakure",
+            "person": {
+                "+content": "Valérie Bachère",
+                "+@id": "136049"
+            }
+        },
+        {
+            "+@gid": "1622418642",
+            "+@lang": "FR",
+            "role": "All For One",
+            "person": {
+                "+content": "Laurent Gris",
+                "+@id": "184058"
+            }
+        },
+        {
+            "+@gid": "1610580071",
+            "+@lang": "IT",
+            "role": "All Might",
+            "person": {
+                "+content": "Lorenzo Scattorin",
+                "+@id": "39848"
+            }
+        },
+        {
+            "+@gid": "1765620959",
+            "+@lang": "IT",
+            "role": "All for One",
+            "person": {
+                "+content": "Luca Ghignone",
+                "+@id": "55299"
+            }
+        },
+        {
+            "+@gid": "3952666453",
+            "+@lang": "IT",
+            "role": "Tomura Shigaraki",
+            "person": {
+                "+content": "Ruggero Andreozzi",
+                "+@id": "68702"
+            }
+        },
+        {
+            "+@gid": "2817025623",
+            "+@lang": "IT",
+            "role": "Naomasa Tsukauchi",
+            "person": {
+                "+content": "Alessandro Zurla",
+                "+@id": "73957"
+            }
+        },
+        {
+            "+@gid": "2568655251",
+            "+@lang": "IT",
+            "role": "Izuku Midoriya",
+            "person": {
+                "+content": "Simone Lupinacci",
+                "+@id": "95303"
+            }
+        },
+        {
+            "+@gid": "2203998972",
+            "+@lang": "IT",
+            "role": "Katsuki Bakugo",
+            "person": {
+                "+content": "Federico Viola",
+                "+@id": "123422"
+            }
+        },
+        {
+            "+@gid": "553375326",
+            "+@lang": "IT",
+            "role": "Kudo",
+            "person": {
+                "+content": "Giuseppe Palasciano",
+                "+@id": "163042"
+            }
+        },
+        {
+            "+@gid": "2301077003",
+            "+@lang": "IT",
+            "role": "Yoichi",
+            "person": {
+                "+content": "Matteo Garofalo",
+                "+@id": "179696"
+            }
+        },
+        {
+            "+@gid": "2260323107",
+            "+@lang": "IT",
+            "role": "All for One (Young)",
+            "person": {
+                "+content": "Andrea Colombo Giardinelli",
+                "+@id": "211292"
             }
         },
         {
@@ -659,6 +953,15 @@
             }
         },
         {
+            "+@gid": "3394858739",
+            "+@lang": "JA",
+            "role": "Hawks",
+            "person": {
+                "+content": "Yūichi Nakamura",
+                "+@id": "15878"
+            }
+        },
+        {
             "+@gid": "2028195575",
             "+@lang": "JA",
             "role": "Naomasa Tsukauchi",
@@ -674,6 +977,24 @@
             "person": {
                 "+content": "Marina Inoue",
                 "+@id": "20999"
+            }
+        },
+        {
+            "+@gid": "3639608070",
+            "+@lang": "JA",
+            "role": "Shota Aizawa",
+            "person": {
+                "+content": "Junichi Suwabe",
+                "+@id": "48696"
+            }
+        },
+        {
+            "+@gid": "2861982839",
+            "+@lang": "JA",
+            "role": "Rikido Sato",
+            "person": {
+                "+content": "Tōru Nara",
+                "+@id": "50440"
             }
         },
         {
@@ -695,12 +1016,30 @@
             }
         },
         {
+            "+@gid": "3551859682",
+            "+@lang": "JA",
+            "role": "Denki Kaminari",
+            "person": {
+                "+content": "Tasuku Hatanaka",
+                "+@id": "99622"
+            }
+        },
+        {
             "+@gid": "2875925555",
             "+@lang": "JA",
             "role": "Izuku Midoriya",
             "person": {
                 "+content": "Daiki Yamashita",
                 "+@id": "119386"
+            }
+        },
+        {
+            "+@gid": "1212439855",
+            "+@lang": "JA",
+            "role": "Mashirao Ojiro",
+            "person": {
+                "+content": "Kosuke Miyoshi",
+                "+@id": "133518"
             }
         },
         {
@@ -722,6 +1061,6 @@
         }
     },
     "+@date-added": "2024-10-12T08:14:13Z",
-    "+@date-last-modified-at": "2025-10-21T04:36:29Z",
-    "+@date-last-updated-at": "2025-10-21T04:36:29Z"
+    "+@date-last-modified-at": "2025-11-20T08:44:00Z",
+    "+@date-last-updated-at": "2025-11-20T08:44:00Z"
 }
