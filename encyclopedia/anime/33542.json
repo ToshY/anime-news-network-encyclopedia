@@ -2,9 +2,9 @@
     "+@id": "33542",
     "+@gid": "2000191903",
     "+@type": "TV",
-    "+@name": "Kirio Fanclub",
+    "+@name": "Kirio Fan Club",
     "+@precision": "TV",
-    "+@generated-on": "2025-10-21T08:43:18Z",
+    "+@generated-on": "2025-11-20T13:00:32Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28428"
@@ -13,31 +13,32 @@
         {
             "+@gid": "1572702781",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33542-1572702781.1726441756.jpg",
-            "+@width": "147",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33542-1572702781.1761307706.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33542-1572702781.1726441756.jpg",
-                    "+@width": "147",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33542-1572702781.1761307706.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33542-1572702781.1726441756.jpg",
-                    "+@width": "440",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33542-1572702781.1761307706.jpg",
+                    "+@width": "423",
                     "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A33542-1572702781.1726441756.jpg",
-                    "+@width": "1502",
-                    "+@height": "2048"
                 }
             ]
         },
         {
+            "+content": "Kirio Fan Club",
+            "+@gid": "2039270961",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Kirio Fanclub",
             "+@gid": "1121821370",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "EN"
         },
         {
@@ -60,16 +61,105 @@
             "+content": "love triangle",
             "+@gid": "2555428663",
             "+@type": "Themes"
+        },
+        {
+            "+content": "2026",
+            "+@gid": "1470318253",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ「霧尾ファンクラブ」公式サイト",
+            "+@gid": "3233006072",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://kirio-fc.com/"
         }
     ],
-    "staff": {
-        "+@gid": "2024771290",
-        "task": "Original creator",
-        "person": {
-            "+content": "Ponchan Chikyū no Osakana",
-            "+@id": "243580"
+    "news": {
+        "+content": "<cite>Kirio Fan Club</cite> Anime Reveals Main Cast, TV Format, 2026 Debut in Teaser Promo Video",
+        "+@datetime": "2025-10-24T11:59:15Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-10-24/kirio-fan-club-anime-reveals-main-cast-tv-format-2026-debut-in-teaser-promo-video/.230285"
+    },
+    "staff": [
+        {
+            "+@gid": "2836840688",
+            "task": "Director",
+            "person": {
+                "+content": "Sō Toyama",
+                "+@id": "14979"
+            }
+        },
+        {
+            "+@gid": "3344859157",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Aya Satsuki",
+                "+@id": "218010"
+            }
+        },
+        {
+            "+@gid": "1560882655",
+            "task": "Script",
+            "person": {
+                "+content": "Aya Satsuki",
+                "+@id": "218010"
+            }
+        },
+        {
+            "+@gid": "2024771290",
+            "task": "Original creator",
+            "person": {
+                "+content": "Ponchan Chikyū no Osakana",
+                "+@id": "243580"
+            }
+        },
+        {
+            "+@gid": "3438887908",
+            "task": "Character Design",
+            "person": {
+                "+content": "Nami Hayashi",
+                "+@id": "157787"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2366644966",
+            "+@lang": "JA",
+            "role": "Nami Sometani",
+            "person": {
+                "+content": "Shion Wakayama",
+                "+@id": "61670"
+            }
+        },
+        {
+            "+@gid": "3633147958",
+            "+@lang": "JA",
+            "role": "Ken Kirio",
+            "person": {
+                "+content": "Gakuto Kajiwara",
+                "+@id": "159160"
+            }
+        },
+        {
+            "+@gid": "1005023816",
+            "+@lang": "JA",
+            "role": "Aimi Miyoshi",
+            "person": {
+                "+content": "Nene Hieda",
+                "+@id": "167202"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2293934637",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Satelight",
+            "+@id": "415"
         }
     },
     "+@date-added": "2024-09-15T19:08:31Z",
-    "+@date-last-updated-at": "2025-10-21T08:43:19Z"
+    "+@date-last-modified-at": "2025-11-20T13:00:35Z",
+    "+@date-last-updated-at": "2025-11-20T13:00:35Z"
 }

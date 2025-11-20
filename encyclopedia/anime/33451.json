@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Classroom of the Elite: Year 2",
     "+@precision": "TV 4",
-    "+@generated-on": "2025-10-21T08:43:18Z",
+    "+@generated-on": "2025-11-20T13:00:34Z",
     "related-prev": [
         {
             "+@rel": "sequel of",
@@ -17,21 +17,26 @@
     ],
     "info": [
         {
-            "+@gid": "1979898894",
+            "+@gid": "1651758391",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33451-1979898894.1725178427.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33451-1651758391.1763264583.jpg",
+            "+@width": "143",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33451-1979898894.1725178427.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33451-1651758391.1763264583.jpg",
+                    "+@width": "143",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33451-1979898894.1725178427.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33451-1651758391.1763264583.jpg",
+                    "+@width": "428",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A33451-1651758391.1763264583.jpg",
+                    "+@width": "856",
+                    "+@height": "1200"
                 }
             ]
         },
@@ -42,14 +47,20 @@
             "+@lang": "EN"
         },
         {
-            "+content": "Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e 2-nen Sei Hen",
-            "+@gid": "907573666",
+            "+content": "Classroom of the Elite 4th Season",
+            "+@gid": "779351712",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
+            "+content": "Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e 4th Season 2-nen Sei Hen 1 Gakki",
+            "+@gid": "1326035988",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
-            "+content": "ようこそ実力至上主義の教室へ 2年生編",
-            "+@gid": "2798029060",
+            "+content": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期",
+            "+@gid": "1540457957",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
@@ -62,18 +73,81 @@
             "+content": "thriller",
             "+@gid": "326995791",
             "+@type": "Genres"
+        },
+        {
+            "+content": "2026-04",
+            "+@gid": "2077790735",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ『ようこそ実力至上主義の教室へ』公式サイト",
+            "+@gid": "2547470230",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://you-zitsu.com/"
         }
     ],
-    "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "9"
-    },
-    "news": {
-        "+content": "<cite>Classroom of the Elite</cite> Season 4 Anime Reveals Teaser Trailer",
-        "+@datetime": "2025-03-23T03:06:26Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-03-22/classroom-of-the-elite-season-4-anime-reveals-teaser-trailer/.222736"
-    },
+    "news": [
+        {
+            "+content": "<cite>Classroom of the Elite</cite> Season 4 Anime Reveals Teaser Trailer",
+            "+@datetime": "2025-03-23T03:06:26Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-22/classroom-of-the-elite-season-4-anime-reveals-teaser-trailer/.222736"
+        },
+        {
+            "+content": "<cite>Classroom of the Elite</cite> Season 4 Anime Unveils April Premiere, Trailer, Key Visual, Cast",
+            "+@datetime": "2025-11-16T03:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-15/classroom-of-the-elite-season-4-anime-unveils-april-premiere-trailer-key-visual-cast/.231070"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "1176048598",
+            "task": "Director",
+            "person": {
+                "+content": "Noriyuki Nomata",
+                "+@id": "79956"
+            }
+        },
+        {
+            "+@gid": "3434033389",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Yasushi Shigenobu",
+                "+@id": "184529"
+            }
+        },
+        {
+            "+@gid": "2746075815",
+            "task": "Script",
+            "person": {
+                "+content": "Kyōko Katsuya",
+                "+@id": "162043"
+            }
+        },
+        {
+            "+@gid": "3704974447",
+            "task": "Script",
+            "person": {
+                "+content": "Yasushi Shigenobu",
+                "+@id": "184529"
+            }
+        },
+        {
+            "+@gid": "1463452184",
+            "task": "Music",
+            "person": {
+                "+content": "Masaru Yokoyama",
+                "+@id": "67761"
+            }
+        },
+        {
+            "+@gid": "2481810746",
+            "task": "Music",
+            "person": {
+                "+content": "Kana Hashiguchi",
+                "+@id": "185289"
+            }
+        },
         {
             "+@gid": "3320274545",
             "task": "Original creator",
@@ -89,6 +163,165 @@
                 "+content": "Shunsaku Tomose",
                 "+@id": "118010"
             }
+        },
+        {
+            "+@gid": "2238584575",
+            "task": "Character Design",
+            "person": {
+                "+content": "Maki Kōno",
+                "+@id": "134907"
+            }
+        },
+        {
+            "+@gid": "1022564930",
+            "task": "Art Director",
+            "person": {
+                "+content": "Hirofune Hane",
+                "+@id": "46577"
+            }
+        },
+        {
+            "+@gid": "2201236002",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Satoki Iida",
+                "+@id": "14261"
+            }
+        },
+        {
+            "+@gid": "2642526309",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Tomohiro Hirayama",
+                "+@id": "122707"
+            }
+        },
+        {
+            "+@gid": "1328107114",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Misato Sekiya",
+                "+@id": "175315"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1486028668",
+            "+@lang": "JA",
+            "role": "Arisu Sakayanagi",
+            "person": {
+                "+content": "Rina Hidaka",
+                "+@id": "70503"
+            }
+        },
+        {
+            "+@gid": "725634357",
+            "+@lang": "JA",
+            "role": "Kei Karuizawa",
+            "person": {
+                "+content": "Ayana Taketatsu",
+                "+@id": "73497"
+            }
+        },
+        {
+            "+@gid": "2733185840",
+            "+@lang": "JA",
+            "role": "Honami Ichinose",
+            "person": {
+                "+content": "Nao Tōyama",
+                "+@id": "95316"
+            }
+        },
+        {
+            "+@gid": "2731165047",
+            "+@lang": "JA",
+            "role": "Kiyotaka Ayanokōji",
+            "person": {
+                "+content": "Shōya Chiba",
+                "+@id": "97379"
+            }
+        },
+        {
+            "+@gid": "2675069876",
+            "+@lang": "JA",
+            "role": "Kikyō Kushida",
+            "person": {
+                "+content": "Yurika Kubo",
+                "+@id": "112826"
+            }
+        },
+        {
+            "+@gid": "2273798377",
+            "+@lang": "JA",
+            "role": "Suzune Horikita",
+            "person": {
+                "+content": "Akari Kitō",
+                "+@id": "130728"
+            }
+        },
+        {
+            "+@gid": "786360643",
+            "+@lang": "JA",
+            "role": "Kakeru Ryūen",
+            "person": {
+                "+content": "Masaaki Mizunaka",
+                "+@id": "150267"
+            }
+        },
+        {
+            "+@gid": "2131809730",
+            "+@lang": "JA",
+            "role": "Sakurako Tsubaki",
+            "person": {
+                "+content": "Iori Saeki",
+                "+@id": "171084"
+            }
+        },
+        {
+            "+@gid": "1838469106",
+            "+@lang": "JA",
+            "role": "Takuya Yagami",
+            "person": {
+                "+content": "Shinnosuke Tokudome",
+                "+@id": "175801"
+            }
+        },
+        {
+            "+@gid": "2088595067",
+            "+@lang": "JA",
+            "role": "Riku Utomiya",
+            "person": {
+                "+content": "Shōgo Sakata",
+                "+@id": "177307"
+            }
+        },
+        {
+            "+@gid": "2001709535",
+            "+@lang": "JA",
+            "role": "Kazuomi Hōsen",
+            "person": {
+                "+content": "Hiroya Egashira",
+                "+@id": "188436"
+            }
+        },
+        {
+            "+@gid": "3152730616",
+            "+@lang": "JA",
+            "role": "Tsubasa Nanase",
+            "person": {
+                "+content": "Minako Satō",
+                "+@id": "206384"
+            }
+        },
+        {
+            "+@gid": "3633127308",
+            "+@lang": "JA",
+            "role": "Ichika Amasawa",
+            "person": {
+                "+content": "Momoko Seto",
+                "+@id": "235797"
+            }
         }
     ],
     "credit": {
@@ -100,5 +333,6 @@
         }
     },
     "+@date-added": "2024-09-01T04:11:50Z",
-    "+@date-last-updated-at": "2025-10-21T08:43:20Z"
+    "+@date-last-modified-at": "2025-11-20T13:00:35Z",
+    "+@date-last-updated-at": "2025-11-20T13:00:35Z"
 }
