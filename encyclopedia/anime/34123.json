@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Detective Conan: One-eyed Flashback",
     "+@precision": "movie",
-    "+@generated-on": "2025-10-20T20:34:50Z",
+    "+@generated-on": "2025-11-20T01:33:48Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "30898"
@@ -39,6 +39,12 @@
             "+@gid": "2623372802",
             "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Détective Conan : La Mémoire Retrouvée",
+            "+@gid": "3957535676",
+            "+@type": "Alternative title",
+            "+@lang": "FR"
         },
         {
             "+content": "Meitantei Conan: Sekigan no Flashback",
@@ -515,12 +521,39 @@
             }
         },
         {
+            "+@gid": "2012363583",
+            "+@lang": "FR",
+            "role": "Kansuke Yamato",
+            "person": {
+                "+content": "Gaëtan Wenders",
+                "+@id": "73340"
+            }
+        },
+        {
+            "+@gid": "2255685141",
+            "+@lang": "FR",
+            "role": "Yui Uehara",
+            "person": {
+                "+content": "Mélissa Windal",
+                "+@id": "126807"
+            }
+        },
+        {
             "+@gid": "374369167",
             "+@lang": "FR",
             "role": "Kogoro Mouri",
             "person": {
                 "+content": "Franck Fischer",
                 "+@id": "149604"
+            }
+        },
+        {
+            "+@gid": "1929638005",
+            "+@lang": "FR",
+            "role": "Inspecteur Megure",
+            "person": {
+                "+content": "Rémi Barbier",
+                "+@id": "149605"
             }
         },
         {
@@ -700,6 +733,6 @@
         }
     ],
     "+@date-added": "2024-12-03T21:51:11Z",
-    "+@date-last-modified-at": "2025-10-20T20:34:52Z",
-    "+@date-last-updated-at": "2025-10-20T20:34:52Z"
+    "+@date-last-modified-at": "2025-11-20T02:13:51Z",
+    "+@date-last-updated-at": "2025-11-20T02:13:51Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "DAN DA DAN",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-10-20T20:34:49Z",
+    "+@generated-on": "2025-11-20T01:33:14Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "30869"
@@ -61,6 +61,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "horror",
+            "+@gid": "3789874778",
+            "+@type": "Genres"
+        },
+        {
             "+content": "psychological",
             "+@gid": "1841466081",
             "+@type": "Genres"
@@ -96,13 +101,38 @@
             "+@type": "Themes"
         },
         {
+            "+content": "folklore",
+            "+@gid": "752576018",
+            "+@type": "Themes"
+        },
+        {
             "+content": "ghosts",
             "+@gid": "1980277554",
             "+@type": "Themes"
         },
         {
+            "+content": "mecha",
+            "+@gid": "2174653292",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "monsters",
+            "+@gid": "2625947806",
+            "+@type": "Themes"
+        },
+        {
             "+content": "occult",
             "+@gid": "787062162",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "otaku",
+            "+@gid": "605462570",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "parody",
+            "+@gid": "711596656",
             "+@type": "Themes"
         },
         {
@@ -118,6 +148,16 @@
         {
             "+content": "superpowers",
             "+@gid": "2281648595",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "technology",
+            "+@gid": "1537686275",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "tragedy",
+            "+@gid": "1125760588",
             "+@type": "Themes"
         },
         {
@@ -164,9 +204,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "124",
-        "+@weighted_score": "8.2904",
-        "+@bayesian_score": "8.21283"
+        "+@nb_votes": "145",
+        "+@weighted_score": "8.2545",
+        "+@bayesian_score": "8.19017"
     },
     "episode": [
         {
@@ -2047,6 +2087,6 @@
         }
     },
     "+@date-added": "2024-12-19T17:45:18Z",
-    "+@date-last-modified-at": "2025-10-20T20:34:52Z",
-    "+@date-last-updated-at": "2025-10-20T20:34:52Z"
+    "+@date-last-modified-at": "2025-11-20T02:13:51Z",
+    "+@date-last-updated-at": "2025-11-20T02:13:51Z"
 }
