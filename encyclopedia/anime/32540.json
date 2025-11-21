@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "Chained Soldier",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-10-22T04:38:35Z",
+    "+@generated-on": "2025-11-21T08:43:41Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24978"
     },
     "info": [
         {
-            "+@gid": "3088504823",
+            "+@gid": "1636748248",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32540-3088504823.1742703159.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32540-1636748248.1762510369.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32540-3088504823.1742703159.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32540-1636748248.1762510369.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32540-3088504823.1742703159.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32540-1636748248.1762510369.jpg",
                     "+@width": "424",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A32540-1636748248.1762510369.jpg",
+                    "+@width": "579",
+                    "+@height": "819"
                 }
             ]
         },
@@ -48,9 +53,89 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2026-01",
-            "+@gid": "3135478145",
+            "+content": "action",
+            "+@gid": "2361160943",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "1256270096",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "2545512364",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "2397269771",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "680277185",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "ecchi",
+            "+@gid": "1650246081",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "fighting",
+            "+@gid": "3458870863",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "harem",
+            "+@gid": "1765518629",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "military",
+            "+@gid": "2494295061",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "monsters",
+            "+@gid": "1572883055",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "revenge",
+            "+@gid": "942812161",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superhumans",
+            "+@gid": "1835376354",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "370475992",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "MA",
+            "+@gid": "1063632128",
+            "+@type": "Objectionable content"
+        },
+        {
+            "+content": "23",
+            "+@gid": "467948885",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "2026-01-08",
+            "+@gid": "1019687446",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Cipher Cipher\" by Kana Hanazawa",
+            "+@gid": "1816299411",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ『魔都精兵のスレイブ』公式サイト",
@@ -80,6 +165,11 @@
             "+content": "<cite>Chained Soldier 2</cite> Anime Reveals January 2026 Debut in 1st Trailer",
             "+@datetime": "2025-09-04T09:56:50Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-09-04/chained-soldier-2-anime-reveals-january-2026-debut-in-1st-trailer/.228423"
+        },
+        {
+            "+content": "<cite>Chained Soldier 2</cite> Anime Reveals More Cast, January 8 Premiere (Updated)",
+            "+@datetime": "2025-10-31T18:47:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-31/chained-soldier-2-anime-reveals-more-cast-january-8-premiere/.230528"
         }
     ],
     "staff": [
@@ -207,6 +297,15 @@
             }
         },
         {
+            "+@gid": "819069172",
+            "+@lang": "JA",
+            "role": "Fubuki Azuma",
+            "person": {
+                "+content": "Yukana",
+                "+@id": "5047"
+            }
+        },
+        {
             "+@gid": "1593956122",
             "+@lang": "JA",
             "role": "Jōryū",
@@ -315,12 +414,30 @@
             }
         },
         {
+            "+@gid": "1764936619",
+            "+@lang": "JA",
+            "role": "Bell Tsukiyono",
+            "person": {
+                "+content": "Manaka Iwami",
+                "+@id": "156030"
+            }
+        },
+        {
             "+@gid": "1549980000",
             "+@lang": "JA",
             "role": "Aoba Wakura",
             "person": {
                 "+content": "Tomori Kusunoki",
                 "+@id": "158678"
+            }
+        },
+        {
+            "+@gid": "2030809068",
+            "+@lang": "JA",
+            "role": "Konomi Tatara",
+            "person": {
+                "+content": "Kana Ichinose",
+                "+@id": "164051"
             }
         },
         {
@@ -333,12 +450,30 @@
             }
         },
         {
+            "+@gid": "2700659939",
+            "+@lang": "JA",
+            "role": "Mira Kamiunten",
+            "person": {
+                "+content": "Fairouz Ai",
+                "+@id": "178406"
+            }
+        },
+        {
             "+@gid": "2491402359",
             "+@lang": "JA",
             "role": "Nei Ōkawamura",
             "person": {
                 "+content": "Hina Tachibana",
                 "+@id": "184347"
+            }
+        },
+        {
+            "+@gid": "1415144824",
+            "+@lang": "JA",
+            "role": "Yakumo Ezo",
+            "person": {
+                "+content": "Fūka Izumi",
+                "+@id": "201580"
             }
         }
     ],
@@ -361,5 +496,6 @@
         }
     ],
     "+@date-added": "2024-03-22T20:43:37Z",
-    "+@date-last-updated-at": "2025-10-22T04:39:08Z"
+    "+@date-last-modified-at": "2025-11-21T08:43:43Z",
+    "+@date-last-updated-at": "2025-11-21T08:43:43Z"
 }
