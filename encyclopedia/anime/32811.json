@@ -4,7 +4,11 @@
     "+@type": "TV",
     "+@name": "Princession Orchestra",
     "+@precision": "TV",
-    "+@generated-on": "2025-10-21T20:35:03Z",
+    "+@generated-on": "2025-11-21T02:14:35Z",
+    "related-next": {
+        "+@id": "38034",
+        "+@rel": "adaptation"
+    },
     "info": [
         {
             "+@gid": "2141343868",
@@ -138,6 +142,16 @@
             "+@type": "Insert song"
         },
         {
+            "+content": "\"KIRA☆GIRA INFINITE!\" by Princess Meteor (CV: Azusa Tachibana) (eps 28-31)",
+            "+@gid": "1831451657",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Monochrome Eden\" by Flower Knight Sincere (CV: Akari Kitō) × Flower Knight Purity (CV: Miku Itō) (ep 29)",
+            "+@gid": "2881615280",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "\"Only Yours\" by Princess Zeal (CV: Yuri Fujimoto) (eps 17,19)",
             "+@gid": "1950353941",
             "+@type": "Insert song"
@@ -158,12 +172,17 @@
             "+@type": "Insert song"
         },
         {
+            "+content": "\"RISE PHOENIX\" by Princess Zeal (CV: Yuri Fujimoto) (ep 28)",
+            "+@gid": "1450854255",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "\"Shimei wa Akaki Serenade -Ver.First Blood-\" (使命は赤きセレナーデ -Ver.First Blood-) by Calist (CV: Chiaki Kobayashi) (ep 12)",
             "+@gid": "1294007589",
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Signal Lyrical\" (シグナル・リリカル) by Princess Ripple (CV: Azusa Aoi) (ep 26)",
+            "+content": "\"Signal Lyrical\" (シグナル・リリカル) by Princess Ripple (CV: Azusa Aoi) (eps 26,28)",
             "+@gid": "789068404",
             "+@type": "Insert song"
         },
@@ -190,6 +209,11 @@
         {
             "+content": "\"TRIAD FORCE\" by Azusa Aoi, Azusa Tachibana and Yuri Fujimoto",
             "+@gid": "2262513362",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"TRINITY DIVINE\" by Orcheria (ep 31)",
+            "+@gid": "1486434116",
             "+@type": "Insert song"
         },
         {
@@ -423,6 +447,38 @@
             "title": {
                 "+content": "Takaraka ni Utau",
                 "+@gid": "1875713085",
+                "+@lang": "JA"
+            }
+        },
+        {
+            "+@num": "28",
+            "title": {
+                "+content": "Sugao no Mama de",
+                "+@gid": "2601374998",
+                "+@lang": "JA"
+            }
+        },
+        {
+            "+@num": "29",
+            "title": {
+                "+content": "Ni Rinka",
+                "+@gid": "1777044585",
+                "+@lang": "JA"
+            }
+        },
+        {
+            "+@num": "30",
+            "title": {
+                "+content": "Watashi wa Nani o Shiteiru no",
+                "+@gid": "3662589060",
+                "+@lang": "JA"
+            }
+        },
+        {
+            "+@num": "31",
+            "title": {
+                "+content": "Enjite Miru",
+                "+@gid": "1820959767",
                 "+@lang": "JA"
             }
         }
@@ -862,6 +918,15 @@
             }
         },
         {
+            "+@gid": "2172812599",
+            "+@lang": "JA",
+            "role": "Main Moroboshi",
+            "person": {
+                "+content": "Mariya Ise",
+                "+@id": "46112"
+            }
+        },
+        {
             "+@gid": "1326101414",
             "+@lang": "JA",
             "role": "White Queen",
@@ -961,6 +1026,15 @@
             }
         },
         {
+            "+@gid": "2207959105",
+            "+@lang": "JA",
+            "role": "Lily Kazahana",
+            "person": {
+                "+content": "Miku Itō",
+                "+@id": "119924"
+            }
+        },
+        {
             "+@gid": "1542637695",
             "+@lang": "JA",
             "role": "Riku ‌Sorano",
@@ -981,16 +1055,16 @@
         {
             "+@gid": "1551493381",
             "+@lang": "JA",
-            "role": "Flower Knight Cynthia",
+            "role": "Flower Knight Sincere",
             "person": {
                 "+content": "Akari Kitō",
                 "+@id": "130728"
             }
         },
         {
-            "+@gid": "1865418189",
+            "+@gid": "3601589336",
             "+@lang": "JA",
-            "role": "Sumire Fuuka",
+            "role": "Sumire Kazahana",
             "person": {
                 "+content": "Akari Kitō",
                 "+@id": "130728"
@@ -1012,6 +1086,15 @@
             "person": {
                 "+content": "Shunsuke Takeuchi",
                 "+@id": "132044"
+            }
+        },
+        {
+            "+@gid": "2200603936",
+            "+@lang": "JA",
+            "role": "Eru Furumi",
+            "person": {
+                "+content": "Sayaka Senbongi",
+                "+@id": "133460"
             }
         },
         {
@@ -1131,6 +1214,6 @@
         }
     ],
     "+@date-added": "2024-06-14T19:29:38Z",
-    "+@date-last-modified-at": "2025-10-21T20:35:05Z",
-    "+@date-last-updated-at": "2025-10-21T20:35:05Z"
+    "+@date-last-modified-at": "2025-11-21T02:14:39Z",
+    "+@date-last-updated-at": "2025-11-21T02:14:39Z"
 }

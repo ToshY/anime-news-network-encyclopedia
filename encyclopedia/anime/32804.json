@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Spy×Family",
     "+@precision": "TV 4",
-    "+@generated-on": "2025-10-21T20:35:04Z",
+    "+@generated-on": "2025-11-21T02:14:36Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26746"
@@ -96,7 +96,7 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "\"Hi wo Mamoru\" (灯を護る) by SPITZ",
+            "+content": "\"Protect the Light\" (灯を護る; Hi wo Mamoru) by SPITZ",
             "+@gid": "2196424423",
             "+@type": "Opening Theme"
         },
@@ -114,8 +114,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "6.968"
+        "+@nb_votes": "6",
+        "+@weighted_score": "7.4392"
     },
     "episode": [
         {
@@ -176,6 +176,47 @@
                     "+@lang": "EN"
                 }
             ]
+        },
+        {
+            "+@num": "42",
+            "title": {
+                "+content": "The Mommy-Friends Scheme",
+                "+@gid": "1092593666",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "43",
+            "title": [
+                {
+                    "+content": "White Jealousy",
+                    "+@part": "A",
+                    "+@gid": "2319139271",
+                    "+@lang": "EN"
+                },
+                {
+                    "+content": "The Eden College Busjacking Incident",
+                    "+@part": "B",
+                    "+@gid": "528086744",
+                    "+@lang": "EN"
+                }
+            ]
+        },
+        {
+            "+@num": "44",
+            "title": {
+                "+content": "The Red Circus",
+                "+@gid": "1919025868",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "45",
+            "title": {
+                "+content": "Take Down the Busjacker",
+                "+@gid": "1556097058",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -233,6 +274,21 @@
             "+content": "<cite>Tojima Wants to Be a Kamen Rider</cite>, <cite>Spy×Family</cite> Season 3 Anime Reveal English Dub Casts, October 18 Debut",
             "+@datetime": "2025-10-17T18:37:18Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-10-17/tojima-wants-to-be-a-kamen-rider-spy-family-season-3-anime-reveal-english-dub-casts-october-18-debut/.230047"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, October 13-19",
+            "+@datetime": "2025-10-25T12:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-25/japanese-animation-tv-ranking-october-13-19/.230275"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>Spy×Family</cite> Season 3's Hindi Dub on November 30",
+            "+@datetime": "2025-10-27T11:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-27/crunchyroll-streams-spy-family-season-3-hindi-dub-on-november-30/.230333"
+        },
+        {
+            "+content": "<cite>Spy×Family</cite> Anime Previews Bus Hijacking Arc in New Video",
+            "+@datetime": "2025-11-02T00:07:06Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-01/spy-family-anime-previews-bus-hijacking-arc-in-new-video/.230553"
         }
     ],
     "staff": [
@@ -440,6 +496,15 @@
             }
         },
         {
+            "+@gid": "2264827869",
+            "+@lang": "EN",
+            "role": "Damian Desmond",
+            "person": {
+                "+content": "Caitlin Glass",
+                "+@id": "29271"
+            }
+        },
+        {
             "+@gid": "2297402266",
             "+@lang": "EN",
             "role": "Franky Franklin",
@@ -476,6 +541,15 @@
             }
         },
         {
+            "+@gid": "2635641835",
+            "+@lang": "EN",
+            "role": "Melinda Desmond",
+            "person": {
+                "+content": "Molly Searcy",
+                "+@id": "121492"
+            }
+        },
+        {
             "+@gid": "3640660146",
             "+@lang": "EN",
             "role": "Anya Forger",
@@ -494,12 +568,255 @@
             }
         },
         {
+            "+@gid": "2849579255",
+            "+@lang": "ES",
+            "role": "Fiona Frost/Nightfall",
+            "person": {
+                "+content": "Mariana Ortiz",
+                "+@id": "23804"
+            }
+        },
+        {
+            "+@gid": "1907654130",
+            "+@lang": "ES",
+            "role": "Sylvia Sherwood",
+            "person": {
+                "+content": "Karina Altamirano",
+                "+@id": "76020"
+            }
+        },
+        {
+            "+@gid": "3255402775",
+            "+@lang": "ES",
+            "role": "Bond Forger",
+            "person": {
+                "+content": "José Luis Siurana",
+                "+@id": "76261"
+            }
+        },
+        {
+            "+@gid": "3589835497",
+            "+@lang": "ES",
+            "role": "Franky Franklin",
+            "person": {
+                "+content": "Miguel Angel Ruiz",
+                "+@id": "80457"
+            }
+        },
+        {
+            "+@gid": "1879855172",
+            "+@lang": "ES",
+            "role": "Yor Forger/Thorn Princess",
+            "person": {
+                "+content": "Romina Marroquín Payró",
+                "+@id": "97115"
+            }
+        },
+        {
+            "+@gid": "2217476529",
+            "+@lang": "ES",
+            "role": "Yuri Briar",
+            "person": {
+                "+content": "Héctor Mena",
+                "+@id": "119649"
+            }
+        },
+        {
+            "+@gid": "1605682147",
+            "+@lang": "ES",
+            "role": "Loid Forger/Twilight",
+            "person": {
+                "+content": "Miguel de León",
+                "+@id": "146758"
+            }
+        },
+        {
+            "+@gid": "2554426485",
+            "+@lang": "ES",
+            "role": "Bond Forger",
+            "person": {
+                "+content": "Brandon Montor",
+                "+@id": "164041"
+            }
+        },
+        {
+            "+@gid": "2934663399",
+            "+@lang": "ES",
+            "role": "Loid Forfer/Twilight",
+            "person": {
+                "+content": "Jesús Motos",
+                "+@id": "166791"
+            }
+        },
+        {
+            "+@gid": "1771296220",
+            "+@lang": "ES",
+            "role": "Anya Forger",
+            "person": {
+                "+content": "Elizabeth Infante",
+                "+@id": "167430"
+            }
+        },
+        {
+            "+@gid": "1626763064",
+            "+@lang": "ES",
+            "role": "Anya Forger",
+            "person": {
+                "+content": "Majo Montesinos Guzmán",
+                "+@id": "191661"
+            }
+        },
+        {
+            "+@gid": "619611574",
+            "+@lang": "ES",
+            "role": "Yor Forger/Thorn",
+            "person": {
+                "+content": "Mireia López",
+                "+@id": "205939"
+            }
+        },
+        {
+            "+@gid": "2435949422",
+            "+@lang": "ES",
+            "role": "Fiona Frost/Nightfall",
+            "person": {
+                "+content": "Paola Navalón",
+                "+@id": "229743"
+            }
+        },
+        {
+            "+@gid": "2345941018",
+            "+@lang": "ES",
+            "role": "Franky Franklin",
+            "person": {
+                "+content": "David Rodríguez Pérez",
+                "+@id": "243817"
+            }
+        },
+        {
+            "+@gid": "2120436568",
+            "+@lang": "FR",
+            "role": "Bond Forger",
+            "person": {
+                "+content": "Marc Brétonnière",
+                "+@id": "39994"
+            }
+        },
+        {
+            "+@gid": "987297529",
+            "+@lang": "FR",
+            "role": "Yor Forger",
+            "person": {
+                "+content": "Adeline Chetail",
+                "+@id": "43187"
+            }
+        },
+        {
+            "+@gid": "2244611398",
+            "+@lang": "FR",
+            "role": "Henry Henderson",
+            "person": {
+                "+content": "Julien Kramer",
+                "+@id": "51162"
+            }
+        },
+        {
+            "+@gid": "4029854556",
+            "+@lang": "FR",
+            "role": "Damian Desmond",
+            "person": {
+                "+content": "Thomas Sagols",
+                "+@id": "85935"
+            }
+        },
+        {
+            "+@gid": "1445850346",
+            "+@lang": "FR",
+            "role": "Fiona Frost",
+            "person": {
+                "+content": "Sophie Planet",
+                "+@id": "98901"
+            }
+        },
+        {
+            "+@gid": "1247402404",
+            "+@lang": "FR",
+            "role": "Loid Forger",
+            "person": {
+                "+content": "Hervé Glen",
+                "+@id": "121831"
+            }
+        },
+        {
+            "+@gid": "1272619861",
+            "+@lang": "FR",
+            "role": "Franky Franklin",
+            "person": {
+                "+content": "Jean-Rémi Tichit",
+                "+@id": "146775"
+            }
+        },
+        {
+            "+@gid": "1429930598",
+            "+@lang": "FR",
+            "role": "Emile Elman",
+            "person": {
+                "+content": "Zina Khakhoulia",
+                "+@id": "168696"
+            }
+        },
+        {
+            "+@gid": "891837672",
+            "+@lang": "FR",
+            "role": "Becky Blackbell",
+            "person": {
+                "+content": "Bianca Tomassian",
+                "+@id": "173578"
+            }
+        },
+        {
+            "+@gid": "1832778460",
+            "+@lang": "FR",
+            "role": "Anya Forger",
+            "person": {
+                "+content": "Lila Lacombe",
+                "+@id": "176859"
+            }
+        },
+        {
+            "+@gid": "2276407893",
+            "+@lang": "FR",
+            "role": "Sylvia Sherwood",
+            "person": {
+                "+content": "Sabrina Marchese",
+                "+@id": "221600"
+            }
+        },
+        {
+            "+@gid": "2319100983",
+            "+@lang": "FR",
+            "role": "Ewen Egeburg",
+            "person": {
+                "+content": "Jessy Dubuis",
+                "+@id": "223644"
+            }
+        },
+        {
             "+@gid": "3794524228",
             "+@lang": "JA",
             "role": "Franky Franklin",
             "person": {
                 "+content": "Hiroyuki Yoshino",
                 "+@id": "507"
+            }
+        },
+        {
+            "+@gid": "2480888140",
+            "+@lang": "JA",
+            "role": "Melinda Desmond",
+            "person": {
+                "+content": "Kikuko Inoue",
+                "+@id": "542"
             }
         },
         {
@@ -630,6 +947,6 @@
         }
     ],
     "+@date-added": "2024-06-09T04:25:24Z",
-    "+@date-last-modified-at": "2025-10-21T20:35:05Z",
-    "+@date-last-updated-at": "2025-10-21T20:35:05Z"
+    "+@date-last-modified-at": "2025-11-21T02:14:39Z",
+    "+@date-last-updated-at": "2025-11-21T02:14:39Z"
 }

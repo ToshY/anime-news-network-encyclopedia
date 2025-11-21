@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Gachiakuta",
     "+@precision": "TV",
-    "+@generated-on": "2025-10-21T20:35:04Z",
+    "+@generated-on": "2025-11-21T02:14:35Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27408"
@@ -146,9 +146,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "13",
-        "+@weighted_score": "6.4865",
-        "+@bayesian_score": "6.9797"
+        "+@nb_votes": "14",
+        "+@weighted_score": "6.3555",
+        "+@bayesian_score": "6.89336"
     },
     "episode": [
         {
@@ -268,6 +268,38 @@
             "title": {
                 "+content": "Clash!",
                 "+@gid": "2656795620",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "16",
+            "title": {
+                "+content": "Gifted and Not",
+                "+@gid": "3030268095",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "17",
+            "title": {
+                "+content": "Memories of a Mediocrity",
+                "+@gid": "722887097",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "18",
+            "title": {
+                "+content": "Oh Zap, Totes Legit",
+                "+@gid": "1181628544",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "19",
+            "title": {
+                "+content": "The Watchman Series",
+                "+@gid": "1549992573",
                 "+@lang": "EN"
             }
         }
@@ -458,6 +490,14 @@
             }
         },
         {
+            "+@gid": "3542894416",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hiromichi Matano",
+                "+@id": "3023"
+            }
+        },
+        {
             "+@gid": "2557326082",
             "task": "Episode Director",
             "person": {
@@ -626,6 +666,22 @@
             }
         },
         {
+            "+@gid": "461559121",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kenji Hachizaki",
+                "+@id": "6645"
+            }
+        },
+        {
+            "+@gid": "2267654262",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kōichi Horikawa",
+                "+@id": "14951"
+            }
+        },
+        {
             "+@gid": "1988790012",
             "task": "Art design",
             "person": {
@@ -772,6 +828,15 @@
             }
         },
         {
+            "+@gid": "1823600038",
+            "+@lang": "EN",
+            "role": "Bundus Begalkeit",
+            "person": {
+                "+content": "Brian Mathis",
+                "+@id": "67879"
+            }
+        },
+        {
             "+@gid": "1838168606",
             "+@lang": "EN",
             "role": "Cthoni Andor",
@@ -787,6 +852,24 @@
             "person": {
                 "+content": "Katie Caruso",
                 "+@id": "86196"
+            }
+        },
+        {
+            "+@gid": "2417198186",
+            "+@lang": "EN",
+            "role": "Fu Orostor",
+            "person": {
+                "+content": "Austin Tindle",
+                "+@id": "97965"
+            }
+        },
+        {
+            "+@gid": "2355327459",
+            "+@lang": "EN",
+            "role": "Guita Hebby Fantasia",
+            "person": {
+                "+content": "Lara Woodhull",
+                "+@id": "106830"
             }
         },
         {
@@ -871,6 +954,15 @@
             }
         },
         {
+            "+@gid": "1073404675",
+            "+@lang": "EN",
+            "role": "Noerde",
+            "person": {
+                "+content": "Corey Pettit",
+                "+@id": "184803"
+            }
+        },
+        {
             "+@gid": "1693994501",
             "+@lang": "EN",
             "role": "Delmon Gates",
@@ -934,12 +1026,30 @@
             }
         },
         {
+            "+@gid": "272878676",
+            "+@lang": "ES",
+            "role": "Bundus Begalkeit",
+            "person": {
+                "+content": "Octavio Rojas",
+                "+@id": "38779"
+            }
+        },
+        {
             "+@gid": "300250880",
             "+@lang": "ES",
             "role": "Delmon Gates",
             "person": {
                 "+content": "Héctor Estrada",
                 "+@id": "48599"
+            }
+        },
+        {
+            "+@gid": "1399231464",
+            "+@lang": "ES",
+            "role": "Fu Orostor",
+            "person": {
+                "+content": "Ángel Rodríguez",
+                "+@id": "64957"
             }
         },
         {
@@ -958,6 +1068,15 @@
             "person": {
                 "+content": "Claudia Contreras",
                 "+@id": "98233"
+            }
+        },
+        {
+            "+@gid": "1895462626",
+            "+@lang": "ES",
+            "role": "Noerde Hew Amozo",
+            "person": {
+                "+content": "Jocelyn Robles",
+                "+@id": "106443"
             }
         },
         {
@@ -1033,6 +1152,15 @@
             }
         },
         {
+            "+@gid": "2073669650",
+            "+@lang": "ES",
+            "role": "August Stilza",
+            "person": {
+                "+content": "Ivan Garcia",
+                "+@id": "192735"
+            }
+        },
+        {
             "+@gid": "3095211163",
             "+@lang": "ES",
             "role": "Dear Santa",
@@ -1042,12 +1170,30 @@
             }
         },
         {
+            "+@gid": "2883806019",
+            "+@lang": "ES",
+            "role": "Guita Hebby Fantasia",
+            "person": {
+                "+content": "Bonnie Miuller",
+                "+@id": "203488"
+            }
+        },
+        {
             "+@gid": "3130842338",
             "+@lang": "ES",
             "role": "Eishia Stilza",
             "person": {
                 "+content": "Jean Bautista",
                 "+@id": "223262"
+            }
+        },
+        {
+            "+@gid": "2680545835",
+            "+@lang": "ES",
+            "role": "Tomme Mima",
+            "person": {
+                "+content": "Katy Zavala",
+                "+@id": "236273"
             }
         },
         {
@@ -1165,6 +1311,15 @@
             "person": {
                 "+content": "Yannick Besson",
                 "+@id": "172700"
+            }
+        },
+        {
+            "+@gid": "1021859961",
+            "+@lang": "FR",
+            "role": "Bro Santa",
+            "person": {
+                "+content": "Jonathan Simon",
+                "+@id": "176972"
             }
         },
         {
@@ -1798,6 +1953,6 @@
         }
     },
     "+@date-added": "2024-06-12T22:21:32Z",
-    "+@date-last-modified-at": "2025-10-21T20:35:05Z",
-    "+@date-last-updated-at": "2025-10-21T20:35:05Z"
+    "+@date-last-modified-at": "2025-11-21T02:14:39Z",
+    "+@date-last-updated-at": "2025-11-21T02:14:39Z"
 }
