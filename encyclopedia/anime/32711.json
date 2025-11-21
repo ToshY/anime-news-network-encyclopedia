@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Ikoku Nikki",
     "+@precision": "TV",
-    "+@generated-on": "2025-10-22T02:15:07Z",
+    "+@generated-on": "2025-11-21T04:38:28Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27721"
@@ -51,6 +51,16 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "\"Sonare\" by TOMOO",
+            "+@gid": "3585597388",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Kotozute\" (Hearsay) by Bialystocks",
+            "+@gid": "2879053301",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "TVアニメ『違国日記』公式サイト",
             "+@gid": "1771203557",
             "+@type": "Official website",
@@ -58,11 +68,18 @@
             "+@href": "https://ikoku-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Ikoku Nikki</cite> TV Anime Unveils Main Cast, More Staff, January 2026 Debut in 1st Promo Video",
-        "+@datetime": "2025-09-03T11:51:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-09-03/ikoku-nikki-tv-anime-unveils-main-cast-more-staff-january-2026-debut-in-1st-promo-video/.228391"
-    },
+    "news": [
+        {
+            "+content": "<cite>Ikoku Nikki</cite> TV Anime Unveils Main Cast, More Staff, January 2026 Debut in 1st Promo Video",
+            "+@datetime": "2025-09-03T11:51:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-03/ikoku-nikki-tv-anime-unveils-main-cast-more-staff-january-2026-debut-in-1st-promo-video/.228391"
+        },
+        {
+            "+content": "<cite>Ikoku Nikki</cite> Anime Unveils 4 More Cast Members, Theme Song Artists",
+            "+@datetime": "2025-11-05T12:11:24Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-05/ikoku-nikki-anime-unveils-4-more-cast-members-theme-song-artists/.230670"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2337076072",
@@ -148,6 +165,42 @@
             }
         },
         {
+            "+@gid": "1689464971",
+            "+@lang": "JA",
+            "role": "Kazunari Tōno",
+            "person": {
+                "+content": "Takashi Kondō",
+                "+@id": "14925"
+            }
+        },
+        {
+            "+@gid": "2870223760",
+            "+@lang": "JA",
+            "role": "Shingo Kasamachi",
+            "person": {
+                "+content": "Junichi Suwabe",
+                "+@id": "48696"
+            }
+        },
+        {
+            "+@gid": "3483194956",
+            "+@lang": "JA",
+            "role": "Emiri Nara",
+            "person": {
+                "+content": "Sumire Morohoshi",
+                "+@id": "61669"
+            }
+        },
+        {
+            "+@gid": "3091817096",
+            "+@lang": "JA",
+            "role": "Nana Daigo",
+            "person": {
+                "+content": "Eriko Matsui",
+                "+@id": "110210"
+            }
+        },
+        {
             "+@gid": "2789868750",
             "+@lang": "JA",
             "role": "Asa Takumi",
@@ -166,5 +219,6 @@
         }
     },
     "+@date-added": "2024-05-03T07:21:45Z",
-    "+@date-last-updated-at": "2025-10-22T02:15:10Z"
+    "+@date-last-modified-at": "2025-11-21T04:38:31Z",
+    "+@date-last-updated-at": "2025-11-21T04:38:31Z"
 }

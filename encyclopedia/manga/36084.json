@@ -2,13 +2,19 @@
     "+@id": "36084",
     "+@gid": "2653529460",
     "+@type": "manga",
-    "+@name": "Taidana Akujoku Kizoku ni Tensei Shita Ore",
+    "+@name": "Reborn as an Aristocratic Scoundrel",
     "+@precision": "manga",
-    "+@generated-on": "2025-10-22T02:15:04Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "24264"
-    },
+    "+@generated-on": "2025-11-21T04:38:28Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "24264"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "38014"
+        }
+    ],
     "info": [
         {
             "+@gid": "1491650950",
@@ -35,9 +41,21 @@
             ]
         },
         {
+            "+content": "Reborn as an Aristocratic Scoundrel",
+            "+@gid": "3005770507",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
+            "+content": "Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!",
+            "+@gid": "1595191435",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Taidana Akujoku Kizoku ni Tensei Shita Ore",
             "+@gid": "1616365282",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -70,6 +88,11 @@
             "+@href": "https://comic-walker.com/detail/KC_005844_S"
         }
     ],
+    "news": {
+        "+content": "Seven Seas Licenses <cite>Reborn as an Aristocratic Scoundrel, Love is Money, The Death Defying Princess</cite>, 4 More Titles",
+        "+@datetime": "2025-11-13T07:09:34Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-11-13/seven-seas-licenses-reborn-as-an-aristocratic-scoundrel-love-is-money-the-death-defying-princess-4-/.230960"
+    },
     "staff": [
         {
             "+@gid": "4082562765",
@@ -97,5 +120,6 @@
         }
     ],
     "+@date-added": "2025-05-11T03:27:41Z",
-    "+@date-last-updated-at": "2025-10-22T02:15:06Z"
+    "+@date-last-modified-at": "2025-11-21T04:38:30Z",
+    "+@date-last-updated-at": "2025-11-21T04:38:30Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Yaiba: Samurai Legend",
     "+@precision": "TV",
-    "+@generated-on": "2025-10-22T02:15:07Z",
+    "+@generated-on": "2025-11-21T04:38:28Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "2420"
@@ -106,8 +106,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "12",
-        "+@weighted_score": "6.0029"
+        "+@nb_votes": "13",
+        "+@weighted_score": "5.8343",
+        "+@bayesian_score": "6.65345"
     },
     "episode": [
         {
@@ -574,7 +575,7 @@
             }
         },
         {
-            "+@gid": "3845137820",
+            "+@gid": "1623155844",
             "task": "Storyboard",
             "person": {
                 "+content": "Atsuko Nozaki",
@@ -603,14 +604,6 @@
             "person": {
                 "+content": "Hiro Kaburagi",
                 "+@id": "78585"
-            }
-        },
-        {
-            "+@gid": "726161648",
-            "task": "Storyboard",
-            "person": {
-                "+content": "Hisaaki Okui",
-                "+@id": "80082"
             }
         },
         {
@@ -822,7 +815,7 @@
             }
         },
         {
-            "+@gid": "1521682955",
+            "+@gid": "2008489219",
             "task": "Unit Director",
             "person": {
                 "+content": "Atsuko Nozaki",
@@ -835,14 +828,6 @@
             "person": {
                 "+content": "Yoshimichi Kameda",
                 "+@id": "72522"
-            }
-        },
-        {
-            "+@gid": "2471799196",
-            "task": "Unit Director",
-            "person": {
-                "+content": "Hisaaki Okui",
-                "+@id": "80082"
             }
         },
         {
@@ -1315,6 +1300,15 @@
             }
         },
         {
+            "+@gid": "1896974661",
+            "+@lang": "EN",
+            "role": "Ryūjin",
+            "person": {
+                "+content": "Rick Zieff",
+                "+@id": "39738"
+            }
+        },
+        {
             "+@gid": "2308118934",
             "+@lang": "EN",
             "role": "Gerosaemon Gerota",
@@ -1339,6 +1333,15 @@
             "person": {
                 "+content": "Christopher Smith",
                 "+@id": "118179"
+            }
+        },
+        {
+            "+@gid": "2432161202",
+            "+@lang": "EN",
+            "role": "Jūbei Mitsuyoshi Yagyū",
+            "person": {
+                "+content": "Mick Lauer",
+                "+@id": "123816"
             }
         },
         {
@@ -1645,6 +1648,6 @@
         }
     ],
     "+@date-added": "2024-05-07T19:23:37Z",
-    "+@date-last-modified-at": "2025-10-22T02:15:10Z",
-    "+@date-last-updated-at": "2025-10-22T02:15:10Z"
+    "+@date-last-modified-at": "2025-11-21T04:38:31Z",
+    "+@date-last-updated-at": "2025-11-21T04:38:31Z"
 }

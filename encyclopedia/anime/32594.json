@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Tis Time for \"Torture,\" Princess",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-10-22T02:15:08Z",
+    "+@generated-on": "2025-11-21T04:38:29Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28789"
@@ -13,17 +13,17 @@
         {
             "+@gid": "2691403059",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32594-2691403059.1745893162.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32594-2691403059.1762214819.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32594-2691403059.1745893162.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32594-2691403059.1762214819.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32594-2691403059.1745893162.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32594-2691403059.1762214819.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
@@ -48,7 +48,47 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2026-01",
+            "+content": "comedy",
+            "+@gid": "3457830722",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "951512208",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "slice of life",
+            "+@gid": "2155369449",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "demons",
+            "+@gid": "2203555826",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "mythology",
+            "+@gid": "3400492293",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "parody",
+            "+@gid": "1438063056",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "OC",
+            "+@gid": "2299618639",
+            "+@type": "Objectionable content"
+        },
+        {
+            "+content": "23",
+            "+@gid": "3159579936",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "2026-01-12",
             "+@gid": "3157701724",
             "+@type": "Vintage"
         },
@@ -80,9 +120,38 @@
             "+content": "<cite>'Tis Time for \"Torture,\" Princess'</cite> Anime's 2nd Season Highlights Sakura in Teaser Trailer",
             "+@datetime": "2025-08-18T15:23:38Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-08-18/tis-time-for-torture-princess-anime-2nd-season-highlights-sakura-in-teaser-trailer/.227767"
+        },
+        {
+            "+content": "<cite>'Tis Time for \"Torture,\" Princess'</cite> 2nd Season Anime Reveals Theme Song Artists",
+            "+@datetime": "2025-11-03T08:04:14Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-03/tis-time-for-torture-princess-2nd-season-anime-reveals-theme-song-artists/.230584"
         }
     ],
     "staff": [
+        {
+            "+@gid": "2826535859",
+            "task": "Director",
+            "person": {
+                "+content": "Yōko Kanamori",
+                "+@id": "184130"
+            }
+        },
+        {
+            "+@gid": "2384617294",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Keiichirō Ōchi",
+                "+@id": "100904"
+            }
+        },
+        {
+            "+@gid": "1175825952",
+            "task": "Music",
+            "person": {
+                "+content": "Masaru Yokoyama",
+                "+@id": "67761"
+            }
+        },
         {
             "+@gid": "1639578340",
             "task": "Original creator",
@@ -98,17 +167,186 @@
                 "+content": "Hirakei",
                 "+@id": "195460"
             }
+        },
+        {
+            "+@gid": "1066912400",
+            "task": "Character Design",
+            "person": {
+                "+content": "Toshiya Kōno",
+                "+@id": "180783"
+            }
+        },
+        {
+            "+@gid": "2132343571",
+            "task": "Art Director",
+            "person": {
+                "+content": "Saki Suyama",
+                "+@id": "205643"
+            }
+        },
+        {
+            "+@gid": "1142714692",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Jin Aketagawa",
+                "+@id": "8466"
+            }
+        },
+        {
+            "+@gid": "1638269460",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Mayo Suzuki",
+                "+@id": "80588"
+            }
         }
     ],
-    "cast": {
-        "+@gid": "3682032468",
-        "+@lang": "JA",
-        "role": "Sakura Heartrock",
-        "person": {
-            "+content": "Mutsumi Tamura",
-            "+@id": "70817"
+    "cast": [
+        {
+            "+@gid": "889787740",
+            "+@lang": "JA",
+            "role": "Lulune",
+            "person": {
+                "+content": "Mai Nakahara",
+                "+@id": "438"
+            }
+        },
+        {
+            "+@gid": "1798670495",
+            "+@lang": "JA",
+            "role": "Hell Lord",
+            "person": {
+                "+content": "Tesshō Genda",
+                "+@id": "1250"
+            }
+        },
+        {
+            "+@gid": "1445493464",
+            "+@lang": "JA",
+            "role": "Kanage",
+            "person": {
+                "+content": "Jun Fukushima",
+                "+@id": "14386"
+            }
+        },
+        {
+            "+@gid": "3165402993",
+            "+@lang": "JA",
+            "role": "Maomao-chan",
+            "person": {
+                "+content": "Rina Hidaka",
+                "+@id": "70503"
+            }
+        },
+        {
+            "+@gid": "3682032468",
+            "+@lang": "JA",
+            "role": "Sakura Heartrock",
+            "person": {
+                "+content": "Mutsumi Tamura",
+                "+@id": "70817"
+            }
+        },
+        {
+            "+@gid": "2036480602",
+            "+@lang": "JA",
+            "role": "Giant",
+            "person": {
+                "+content": "Ai Kayano",
+                "+@id": "91009"
+            }
+        },
+        {
+            "+@gid": "2421910388",
+            "+@lang": "JA",
+            "role": "Princess",
+            "person": {
+                "+content": "Haruka Shiraishi",
+                "+@id": "104544"
+            }
+        },
+        {
+            "+@gid": "1274197772",
+            "+@lang": "JA",
+            "role": "Ex",
+            "person": {
+                "+content": "Chikahiro Kobayashi",
+                "+@id": "121091"
+            }
+        },
+        {
+            "+@gid": "334559379",
+            "+@lang": "JA",
+            "role": "Gilga",
+            "person": {
+                "+content": "Sayaka Senbongi",
+                "+@id": "133460"
+            }
+        },
+        {
+            "+@gid": "1180468970",
+            "+@lang": "JA",
+            "role": "Vanilla Peschutz",
+            "person": {
+                "+content": "Miyu Tomita",
+                "+@id": "145048"
+            }
+        },
+        {
+            "+@gid": "2980557624",
+            "+@lang": "JA",
+            "role": "Inki",
+            "person": {
+                "+content": "Honoka Inoue",
+                "+@id": "151186"
+            }
+        },
+        {
+            "+@gid": "1963236799",
+            "+@lang": "JA",
+            "role": "Krall",
+            "person": {
+                "+content": "Aya Yamane",
+                "+@id": "173872"
+            }
+        },
+        {
+            "+@gid": "2536084120",
+            "+@lang": "JA",
+            "role": "Yōki",
+            "person": {
+                "+content": "Anna Nagase",
+                "+@id": "196760"
+            }
+        },
+        {
+            "+@gid": "2994194463",
+            "+@lang": "JA",
+            "role": "Torture Tortura",
+            "person": {
+                "+content": "Shizuka Itō",
+                "+@id": "249200"
+            }
+        },
+        {
+            "+@gid": "971939570",
+            "+@lang": "JA",
+            "role": "Jimochi",
+            "person": {
+                "+content": "Hōchū Ōtsuka",
+                "+@id": "274643"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "3079229407",
+        "task": "Animation Production",
+        "company": {
+            "+content": "PINE JAM",
+            "+@id": "14453"
         }
     },
     "+@date-added": "2024-03-25T22:52:07Z",
-    "+@date-last-updated-at": "2025-10-22T02:15:10Z"
+    "+@date-last-modified-at": "2025-11-21T04:38:31Z",
+    "+@date-last-updated-at": "2025-11-21T04:38:31Z"
 }

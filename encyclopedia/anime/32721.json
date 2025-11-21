@@ -4,12 +4,31 @@
     "+@type": "TV",
     "+@name": "Kujima Utaeba Ie Hororo",
     "+@precision": "TV",
-    "+@generated-on": "2025-10-22T02:15:06Z",
+    "+@generated-on": "2025-11-21T04:38:27Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "32720"
     },
     "info": [
+        {
+            "+@gid": "1366297392",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32721-1366297392.1762509482.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32721-1366297392.1762509482.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32721-1366297392.1762509482.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Kujima Utaeba Ie Hororo",
             "+@gid": "2048717104",
@@ -26,16 +45,104 @@
             "+content": "comedy",
             "+@gid": "2054667032",
             "+@type": "Genres"
+        },
+        {
+            "+content": "2026-04",
+            "+@gid": "3016802601",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ『クジマ歌えば家ほろろ』",
+            "+@gid": "1647805227",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://kujima-anime.com/"
         }
     ],
-    "staff": {
-        "+@gid": "2604625776",
-        "task": "Original creator",
-        "person": {
-            "+content": "Akira Konno",
-            "+@id": "265603"
+    "news": {
+        "+content": "<cite>Kujima Utaeba Ie Hororo</cite> TV Anime Reveals Teaser Video, Staff, Main Cast, April 2026 Debut",
+        "+@datetime": "2025-11-07T09:26:57Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-11-07/kujima-utaeba-ie-hororo-tv-anime-reveals-teaser-video-staff-main-cast-april-2026-debut/.230743"
+    },
+    "staff": [
+        {
+            "+@gid": "2940505619",
+            "task": "Series Director",
+            "person": {
+                "+content": "Shinichiro Kimura",
+                "+@id": "558"
+            }
+        },
+        {
+            "+@gid": "2105035169",
+            "task": "Director",
+            "person": {
+                "+content": "Noriyuki Nomata",
+                "+@id": "79956"
+            }
+        },
+        {
+            "+@gid": "2471729571",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Yasunori Yamada",
+                "+@id": "4375"
+            }
+        },
+        {
+            "+@gid": "1631440665",
+            "task": "Music",
+            "person": {
+                "+content": "Manami Kakudō",
+                "+@id": "290572"
+            }
+        },
+        {
+            "+@gid": "2604625776",
+            "task": "Original creator",
+            "person": {
+                "+content": "Akira Konno",
+                "+@id": "265603"
+            }
+        },
+        {
+            "+@gid": "2217783653",
+            "task": "Character Design",
+            "person": {
+                "+content": "Sakurako Mitsuhashi",
+                "+@id": "84710"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2970938808",
+            "+@lang": "JA",
+            "role": "Arata Kōda",
+            "person": {
+                "+content": "Ayumu Murase",
+                "+@id": "113308"
+            }
+        },
+        {
+            "+@gid": "924309459",
+            "+@lang": "JA",
+            "role": "Kujima",
+            "person": {
+                "+content": "Yuria Kōzuki",
+                "+@id": "221158"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2615634361",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Studio Hibari",
+            "+@id": "176"
         }
     },
     "+@date-added": "2024-05-09T21:18:10Z",
-    "+@date-last-updated-at": "2025-10-22T02:15:10Z"
+    "+@date-last-modified-at": "2025-11-21T04:38:31Z",
+    "+@date-last-updated-at": "2025-11-21T04:38:31Z"
 }

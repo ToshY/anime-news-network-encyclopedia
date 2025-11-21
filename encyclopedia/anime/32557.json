@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Apothecary Diaries",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-10-22T02:15:08Z",
+    "+@generated-on": "2025-11-21T04:38:29Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "27141"
+    },
+    "related-next": {
+        "+@id": "37931",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -157,9 +161,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "164",
-        "+@weighted_score": "8.8654",
-        "+@bayesian_score": "8.76313"
+        "+@nb_votes": "169",
+        "+@weighted_score": "8.8632",
+        "+@bayesian_score": "8.76387"
     },
     "episode": [
         {
@@ -2144,6 +2148,24 @@
             }
         },
         {
+            "+@gid": "1248949718",
+            "+@lang": "IT",
+            "role": "Shenmei",
+            "person": {
+                "+content": "Stefania Patruno",
+                "+@id": "15785"
+            }
+        },
+        {
+            "+@gid": "2421979149",
+            "+@lang": "IT",
+            "role": "Yuyuan",
+            "person": {
+                "+content": "Giorgio Bonino",
+                "+@id": "18114"
+            }
+        },
+        {
             "+@gid": "2905259772",
             "+@lang": "IT",
             "role": "Shuilian",
@@ -2180,6 +2202,15 @@
             }
         },
         {
+            "+@gid": "1667122531",
+            "+@lang": "IT",
+            "role": "Luohan",
+            "person": {
+                "+content": "Luca Ghignone",
+                "+@id": "55299"
+            }
+        },
+        {
             "+@gid": "3222527773",
             "+@lang": "IT",
             "role": "Renshi",
@@ -2207,6 +2238,15 @@
             }
         },
         {
+            "+@gid": "3089447046",
+            "+@lang": "IT",
+            "role": "Xiangyu",
+            "person": {
+                "+content": "Martina Tamburello",
+                "+@id": "155039"
+            }
+        },
+        {
             "+@gid": "3265578087",
             "+@lang": "IT",
             "role": "Zicui",
@@ -2225,12 +2265,30 @@
             }
         },
         {
+            "+@gid": "3263118188",
+            "+@lang": "IT",
+            "role": "Ma Shan",
+            "person": {
+                "+content": "Ezio Vivolo",
+                "+@id": "184736"
+            }
+        },
+        {
             "+@gid": "1648071165",
             "+@lang": "IT",
             "role": "Cui Ling",
             "person": {
                 "+content": "Anna Charlotte Barbera",
                 "+@id": "187225"
+            }
+        },
+        {
+            "+@gid": "623499987",
+            "+@lang": "IT",
+            "role": "Lihua",
+            "person": {
+                "+content": "Federica Simonelli",
+                "+@id": "191771"
             }
         },
         {
@@ -2252,6 +2310,15 @@
             }
         },
         {
+            "+@gid": "1966471201",
+            "+@lang": "IT",
+            "role": "Chiyu",
+            "person": {
+                "+content": "Irene Giuliano",
+                "+@id": "227852"
+            }
+        },
+        {
             "+@gid": "2991970508",
             "+@lang": "IT",
             "role": "Maomao",
@@ -2267,6 +2334,33 @@
             "person": {
                 "+content": "Ludovica Cuppari",
                 "+@id": "235354"
+            }
+        },
+        {
+            "+@gid": "2881826606",
+            "+@lang": "IT",
+            "role": "Heiyu",
+            "person": {
+                "+content": "Giada Capo",
+                "+@id": "236032"
+            }
+        },
+        {
+            "+@gid": "2972468295",
+            "+@lang": "IT",
+            "role": "Ailan",
+            "person": {
+                "+content": "Sofia Alexandra Porta",
+                "+@id": "241268"
+            }
+        },
+        {
+            "+@gid": "2518031487",
+            "+@lang": "IT",
+            "role": "Xiaolan",
+            "person": {
+                "+content": "Gaia Chiaro",
+                "+@id": "248402"
             }
         },
         {
@@ -2567,6 +2661,6 @@
         }
     ],
     "+@date-added": "2024-03-23T20:13:17Z",
-    "+@date-last-modified-at": "2025-10-22T02:15:10Z",
-    "+@date-last-updated-at": "2025-10-22T02:15:10Z"
+    "+@date-last-modified-at": "2025-11-21T04:38:31Z",
+    "+@date-last-updated-at": "2025-11-21T04:38:31Z"
 }
