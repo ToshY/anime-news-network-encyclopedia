@@ -4,15 +4,21 @@
     "+@type": "TV",
     "+@name": "MF Ghost",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-10-22T16:14:24Z",
+    "+@generated-on": "2025-11-21T20:34:31Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "25108"
     },
-    "related-next": {
-        "+@id": "34228",
-        "+@rel": "sequel"
-    },
+    "related-next": [
+        {
+            "+@id": "34228",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "37947",
+            "+@rel": "compilation"
+        }
+    ],
     "info": [
         {
             "+@gid": "2161627587",
@@ -255,8 +261,8 @@
     ],
     "ratings": {
         "+@nb_votes": "31",
-        "+@weighted_score": "7.3283",
-        "+@bayesian_score": "7.37099"
+        "+@weighted_score": "7.3287",
+        "+@bayesian_score": "7.37122"
     },
     "episode": [
         {
@@ -1254,6 +1260,6 @@
         }
     ],
     "+@date-added": "2023-12-17T20:39:54Z",
-    "+@date-last-modified-at": "2025-10-22T16:43:21Z",
-    "+@date-last-updated-at": "2025-10-22T16:43:21Z"
+    "+@date-last-modified-at": "2025-11-21T20:34:34Z",
+    "+@date-last-updated-at": "2025-11-21T20:34:34Z"
 }
