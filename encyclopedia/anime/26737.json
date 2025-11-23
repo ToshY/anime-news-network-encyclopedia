@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Pokémon Horizons: The Series",
     "+@precision": "TV",
-    "+@generated-on": "2025-10-24T08:40:46Z",
+    "+@generated-on": "2025-11-23T12:53:35Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "24608"
@@ -66,6 +66,12 @@
         {
             "+content": "Pokémon Horizons: Season 2—The Search for Laqua",
             "+@gid": "1733764608",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
+            "+content": "Pokémon Horizons: Season 3—Rising Hope",
+            "+@gid": "1595279713",
             "+@type": "Alternative title",
             "+@lang": "EN"
         },
@@ -163,8 +169,13 @@
             "+@type": "Opening Theme"
         },
         {
-            "+content": "#2: \"My Favorite Pokemon\" By Isaiah Tyrell Boyd & Haven Paschall [English]",
+            "+content": "#2: \"My Favorite Pokemon\" By Isaiah Tyrell Boyd & Haven Paschall [English] (eps 46-89)",
             "+@gid": "1372441242",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "#3: \"Evolving Again\" by Haven Paschall [english] (eps 90-)",
+            "+@gid": "565180129",
             "+@type": "Opening Theme"
         },
         {
@@ -208,7 +219,7 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "#5: \"Outstanding\" (尤; YUU) by Yuzu (eps 112-113)",
+            "+content": "#5: \"Outstanding\" (尤; YUU) by Yuzu (eps 112-114)",
             "+@gid": "1047379268",
             "+@type": "Ending Theme"
         },
@@ -233,6 +244,11 @@
             "+@type": "Insert song"
         },
         {
+            "+content": "\"Only One Story\" by ZEROBASEONE (ep 116)",
+            "+@gid": "2992612066",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "ポケットモンスター テレビ東京アニメ公式",
             "+@gid": "2892624575",
             "+@type": "Official website",
@@ -242,7 +258,7 @@
     ],
     "ratings": {
         "+@nb_votes": "8",
-        "+@weighted_score": "7.2197"
+        "+@weighted_score": "7.2196"
     },
     "episode": [
         {
@@ -1164,6 +1180,38 @@
                 "+@gid": "1402793968",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "116",
+            "title": {
+                "+content": "The Training Begins! Terarium Dome",
+                "+@gid": "2335856233",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "117",
+            "title": {
+                "+content": "Pop Quiz! What Does Uruto's Training Involve?",
+                "+@gid": "1776162312",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "118",
+            "title": {
+                "+content": "Liko and Tebrim's Bond of Happiness!",
+                "+@gid": "2274679218",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "119",
+            "title": {
+                "+content": "Hang In There, Achigator, For the Sake of Tomorrow",
+                "+@gid": "1592034852",
+                "+@lang": "EN"
+            }
         }
     ],
     "review": [
@@ -1436,6 +1484,11 @@
             "+content": "<cite>Pokémon Horizons</cite> Anime Reveals Cast, Theme Songs for New Arc",
             "+@datetime": "2025-10-03T14:58:05Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-10-03/pokemon-horizons-anime-reveals-cast-theme-songs-for-new-arc/.229606"
+        },
+        {
+            "+content": "<cite>Pokémon Horizons</cite> Anime Previews New Arc in Trailer",
+            "+@datetime": "2025-10-24T14:37:39Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-24/pokemon-horizons-anime-previews-new-arc-in-trailer/.230287"
         }
     ],
     "staff": [
@@ -1573,6 +1626,14 @@
             "person": {
                 "+content": "Noriaki Saito",
                 "+@id": "25206"
+            }
+        },
+        {
+            "+@gid": "3231839423",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yumi Kamakura",
+                "+@id": "31718"
             }
         },
         {
@@ -1976,6 +2037,14 @@
             }
         },
         {
+            "+@gid": "3058897168",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yōsuke Fujino",
+                "+@id": "186419"
+            }
+        },
+        {
             "+@gid": "1328717802",
             "task": "Episode Director",
             "person": {
@@ -2032,11 +2101,27 @@
             }
         },
         {
+            "+@gid": "1686784409",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Yumi Kamakura",
+                "+@id": "31718"
+            }
+        },
+        {
             "+@gid": "2490495374",
             "task": "Unit Director",
             "person": {
                 "+content": "Makoto Nakata",
                 "+@id": "56188"
+            }
+        },
+        {
+            "+@gid": "3559378151",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Hiroaki Takagi",
+                "+@id": "77709"
             }
         },
         {
@@ -2768,6 +2853,14 @@
             }
         },
         {
+            "+@gid": "544397232",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jia Xing Chen",
+                "+@id": "214822"
+            }
+        },
+        {
             "+@gid": "579727310",
             "task": "Animation Director",
             "person": {
@@ -2781,6 +2874,14 @@
             "person": {
                 "+content": "Song Hwa Park",
                 "+@id": "218377"
+            }
+        },
+        {
+            "+@gid": "3410573927",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Eun Ok Choi",
+                "+@id": "220659"
             }
         },
         {
@@ -2864,6 +2965,22 @@
             }
         },
         {
+            "+@gid": "2429336576",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Li Jie",
+                "+@id": "246067"
+            }
+        },
+        {
+            "+@gid": "3262652125",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sana Sanada",
+                "+@id": "250250"
+            }
+        },
+        {
             "+@gid": "2324886258",
             "task": "Animation Director",
             "person": {
@@ -2872,11 +2989,27 @@
             }
         },
         {
+            "+@gid": "1895301112",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Li Shaochuan",
+                "+@id": "260639"
+            }
+        },
+        {
             "+@gid": "1266346365",
             "task": "Animation Director",
             "person": {
                 "+content": "Wasi P",
                 "+@id": "265223"
+            }
+        },
+        {
+            "+@gid": "3144804864",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jitsupa S",
+                "+@id": "265469"
             }
         },
         {
@@ -2904,11 +3037,27 @@
             }
         },
         {
+            "+@gid": "1246528623",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zeng Shan",
+                "+@id": "269123"
+            }
+        },
+        {
             "+@gid": "1509875663",
             "task": "Animation Director",
             "person": {
                 "+content": "Hui He",
                 "+@id": "270236"
+            }
+        },
+        {
+            "+@gid": "1457667529",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Qi Qi Liu",
+                "+@id": "270345"
             }
         },
         {
@@ -3032,11 +3181,27 @@
             }
         },
         {
+            "+@gid": "2585912273",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Preeyanan M",
+                "+@id": "275977"
+            }
+        },
+        {
             "+@gid": "1783614040",
             "task": "Animation Director",
             "person": {
                 "+content": "Hui Yun Yu",
                 "+@id": "276257"
+            }
+        },
+        {
+            "+@gid": "2550537842",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Qian Ru Zhang",
+                "+@id": "277953"
             }
         },
         {
@@ -3398,6 +3563,15 @@
             "person": {
                 "+content": "Alejandra Reynoso",
                 "+@id": "156662"
+            }
+        },
+        {
+            "+@gid": "329411911",
+            "+@lang": "EN",
+            "role": "Ult",
+            "person": {
+                "+content": "Laura Stahl",
+                "+@id": "158750"
             }
         },
         {
@@ -3884,6 +4058,15 @@
             "person": {
                 "+content": "Patrick Waleffe",
                 "+@id": "114852"
+            }
+        },
+        {
+            "+@gid": "2295577025",
+            "+@lang": "FR",
+            "role": "Ult",
+            "person": {
+                "+content": "Emilie Guillaume",
+                "+@id": "120794"
             }
         },
         {
@@ -4707,6 +4890,6 @@
         }
     ],
     "+@date-added": "2022-12-16T07:12:04Z",
-    "+@date-last-modified-at": "2025-10-24T08:40:49Z",
-    "+@date-last-updated-at": "2025-10-24T08:40:49Z"
+    "+@date-last-modified-at": "2025-11-23T12:53:38Z",
+    "+@date-last-updated-at": "2025-11-23T12:53:38Z"
 }
