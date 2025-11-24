@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Food Diary of Miss Maid",
     "+@precision": "TV",
-    "+@generated-on": "2025-10-25T08:34:56Z",
+    "+@generated-on": "2025-11-24T08:44:58Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26530"
@@ -64,11 +64,18 @@
             "+@href": "https://meitabe-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>The Food Diary of Miss Maid</cite> Manga Gets TV Anime in 2026",
-        "+@datetime": "2025-08-25T03:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-08-24/the-food-diary-of-miss-maid-manga-gets-tv-anime-in-2026/.227993"
-    },
+    "news": [
+        {
+            "+content": "<cite>The Food Diary of Miss Maid</cite> Manga Gets TV Anime in 2026",
+            "+@datetime": "2025-08-25T03:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-24/the-food-diary-of-miss-maid-manga-gets-tv-anime-in-2026/.227993"
+        },
+        {
+            "+content": "<cite>The Food Diary of Miss Maid</cite> Anime's Teaser Reveals 2 Cast Members",
+            "+@datetime": "2025-11-12T01:11:50Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-11/the-food-diary-of-miss-maid-anime-teaser-reveals-2-cast-members/.230913"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2445418699",
@@ -119,15 +126,35 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "2253671467",
-        "+@lang": "JA",
-        "role": "Suzume Tachibana",
-        "person": {
-            "+content": "Kana Ichinose",
-            "+@id": "164051"
+    "cast": [
+        {
+            "+@gid": "2829618827",
+            "+@lang": "JA",
+            "role": "Nana Komatsu",
+            "person": {
+                "+content": "Maki Kawase",
+                "+@id": "145029"
+            }
+        },
+        {
+            "+@gid": "2253671467",
+            "+@lang": "JA",
+            "role": "Suzume Tachibana",
+            "person": {
+                "+content": "Kana Ichinose",
+                "+@id": "164051"
+            }
+        },
+        {
+            "+@gid": "1260948740",
+            "+@lang": "JA",
+            "role": "Ricotta Fresca",
+            "person": {
+                "+content": "Chihiro Sunou",
+                "+@id": "225655"
+            }
         }
-    },
+    ],
     "credit": [
         {
             "+@gid": "1355149791",
@@ -147,5 +174,6 @@
         }
     ],
     "+@date-added": "2025-08-25T00:10:03Z",
-    "+@date-last-updated-at": "2025-10-25T08:34:59Z"
+    "+@date-last-modified-at": "2025-11-24T08:45:02Z",
+    "+@date-last-updated-at": "2025-11-24T08:45:02Z"
 }
