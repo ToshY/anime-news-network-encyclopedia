@@ -4,7 +4,7 @@
     "+@type": "special",
     "+@name": "Heianchō Onigami Kessen",
     "+@precision": "special",
-    "+@generated-on": "2025-10-25T16:35:26Z",
+    "+@generated-on": "2025-11-24T20:34:13Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "1765"
@@ -124,7 +124,7 @@
             "+@gid": "2212873300",
             "task": "Animation Director",
             "person": {
-                "+content": "Shuji Maruyama",
+                "+content": "Shūji Maruyama",
                 "+@id": "44521"
             }
         },
@@ -165,14 +165,25 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2835116072",
-        "task": "Production",
-        "company": {
-            "+content": "NHK Enterprises",
-            "+@id": "1177"
+    "credit": [
+        {
+            "+@gid": "1860835362",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Gallop",
+                "+@id": "361"
+            }
+        },
+        {
+            "+@gid": "2835116072",
+            "task": "Production",
+            "company": {
+                "+content": "NHK Enterprises",
+                "+@id": "1177"
+            }
         }
-    },
+    ],
     "+@date-added": "2022-03-11T03:45:39Z",
-    "+@date-last-updated-at": "2025-10-25T16:35:28Z"
+    "+@date-last-modified-at": "2025-11-24T20:34:15Z",
+    "+@date-last-updated-at": "2025-11-24T20:34:15Z"
 }
