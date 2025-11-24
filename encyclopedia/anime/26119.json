@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Detective Is Already Dead",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-10-25T02:02:51Z",
+    "+@generated-on": "2025-11-24T04:47:32Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "23942"
@@ -48,23 +48,30 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2026",
+            "+content": "2026-07",
             "+@gid": "3689679452",
             "+@type": "Vintage"
         },
         {
-            "+content": "TVアニメ「探偵はもう、死んでいる。」公式サイト",
+            "+content": "TVアニメ『探偵はもう、死んでいる。Season2』公式サイト",
             "+@gid": "598735232",
             "+@type": "Official website",
             "+@lang": "JA",
-            "+@href": "https://tanmoshi-anime.jp/"
+            "+@href": "https://tanmoshi-anime.jp/Season2/"
         }
     ],
-    "news": {
-        "+content": "<cite>The Detective is Already Dead</cite> Season 2 Anime Reveals Returning Cast, Staff, 2026 Debut",
-        "+@datetime": "2025-07-22T10:45:33Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-07-22/the-detective-is-already-dead-season-2-anime-reveals-returning-cast-staff-2026-debut/.226908"
-    },
+    "news": [
+        {
+            "+content": "<cite>The Detective is Already Dead</cite> Season 2 Anime Reveals Returning Cast, Staff, 2026 Debut",
+            "+@datetime": "2025-07-22T10:45:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-22/the-detective-is-already-dead-season-2-anime-reveals-returning-cast-staff-2026-debut/.226908"
+        },
+        {
+            "+content": "<cite>The Detective is Already Dead</cite> Season 2 Anime Reveals July 2026 Debut in Teaser Video",
+            "+@datetime": "2025-11-16T05:02:55Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-16/the-detective-is-already-dead-season-2-anime-reveals-july-2026-debut-in-teaser-video/.231079"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1781837857",
@@ -118,6 +125,42 @@
             }
         },
         {
+            "+@gid": "1947939875",
+            "+@lang": "JA",
+            "role": "Fūbi Kase",
+            "person": {
+                "+content": "Mai Fuchigami",
+                "+@id": "75331"
+            }
+        },
+        {
+            "+@gid": "1239954385",
+            "+@lang": "JA",
+            "role": "Kōmori",
+            "person": {
+                "+content": "Yoshitsugu Matsuoka",
+                "+@id": "93780"
+            }
+        },
+        {
+            "+@gid": "2791874734",
+            "+@lang": "JA",
+            "role": "Hell",
+            "person": {
+                "+content": "Yumiri Hanamori",
+                "+@id": "118609"
+            }
+        },
+        {
+            "+@gid": "1788994651",
+            "+@lang": "JA",
+            "role": "Alicia",
+            "person": {
+                "+content": "Maria Naganawa",
+                "+@id": "127172"
+            }
+        },
+        {
             "+@gid": "1598227789",
             "+@lang": "JA",
             "role": "Yui Saikawa",
@@ -163,5 +206,6 @@
         }
     },
     "+@date-added": "2022-07-24T08:44:02Z",
-    "+@date-last-updated-at": "2025-10-25T02:02:54Z"
+    "+@date-last-modified-at": "2025-11-24T04:47:34Z",
+    "+@date-last-updated-at": "2025-11-24T04:47:34Z"
 }

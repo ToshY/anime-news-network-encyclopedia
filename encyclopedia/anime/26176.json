@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Kaiju No. 8",
     "+@precision": "TV",
-    "+@generated-on": "2025-10-24T20:33:33Z",
+    "+@generated-on": "2025-11-24T04:47:31Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24180"
@@ -86,9 +86,29 @@
             "+@type": "Genres"
         },
         {
+            "+content": "psychological",
+            "+@gid": "1456107998",
+            "+@type": "Genres"
+        },
+        {
             "+content": "science fiction",
             "+@gid": "1415708153",
             "+@type": "Genres"
+        },
+        {
+            "+content": "apocalyptic",
+            "+@gid": "1072806962",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "fighting",
+            "+@gid": "2196585223",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "gore",
+            "+@gid": "1816158780",
+            "+@type": "Themes"
         },
         {
             "+content": "military",
@@ -98,6 +118,26 @@
         {
             "+content": "monsters",
             "+@gid": "3353970183",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "1393451052",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "swordplay",
+            "+@gid": "1803277682",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "technology",
+            "+@gid": "3263238304",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "tragedy",
+            "+@gid": "2723087153",
             "+@type": "Themes"
         },
         {
@@ -159,9 +199,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "289",
-        "+@weighted_score": "7.6437",
-        "+@bayesian_score": "7.63634"
+        "+@nb_votes": "292",
+        "+@weighted_score": "7.6371",
+        "+@bayesian_score": "7.63009"
     },
     "episode": [
         {
@@ -916,7 +956,7 @@
             "+@gid": "1843681725",
             "task": "Animation Director",
             "person": {
-                "+content": "Takayoshi Watabe",
+                "+content": "Takayoshi Watanabe",
                 "+@id": "77122"
             }
         },
@@ -2246,6 +2286,6 @@
         }
     ],
     "+@date-added": "2022-08-04T12:08:51Z",
-    "+@date-last-modified-at": "2025-10-24T20:33:35Z",
-    "+@date-last-updated-at": "2025-10-24T20:33:35Z"
+    "+@date-last-modified-at": "2025-11-24T04:47:34Z",
+    "+@date-last-updated-at": "2025-11-24T04:47:34Z"
 }
