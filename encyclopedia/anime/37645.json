@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "Kanagawa Elves",
     "+@precision": "TV",
-    "+@generated-on": "2025-10-26T08:35:12Z",
-    "related-prev": {
-        "+@rel": "adapted from",
-        "+@id": "37640"
-    },
+    "+@generated-on": "2025-11-25T08:44:04Z",
+    "related-prev": [
+        {
+            "+@rel": "adapted from",
+            "+@id": "37640"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "37945"
+        }
+    ],
     "info": [
         {
             "+@gid": "3058736427",
@@ -85,6 +91,11 @@
             "+content": "<cite>Kanagawa Elves</cite> Light Anime Reveals 4 New Cast, December 4 Debut",
             "+@datetime": "2025-10-23T08:27:10Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-10-23/kanagawa-elves-light-anime-reveals-4-new-cast-december-4-debut/.230237"
+        },
+        {
+            "+content": "<cite>Kanagawa Elves</cite> Light Anime's 2nd Teaser Video Unveils More Cast, Ending Song",
+            "+@datetime": "2025-11-13T08:12:34Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-13/kanagawa-elves-light-anime-2nd-teaser-video-unveils-more-cast-ending-song/.230979"
         }
     ],
     "staff": [
@@ -132,12 +143,48 @@
             }
         },
         {
+            "+@gid": "2846756312",
+            "+@lang": "JA",
+            "role": "Elf from Ebina",
+            "person": {
+                "+content": "Yōhei Hamada",
+                "+@id": "72474"
+            }
+        },
+        {
             "+@gid": "3224220493",
             "+@lang": "JA",
             "role": "Yōsei-san (Fairy)",
             "person": {
                 "+content": "Kōtarō Nishiyama",
                 "+@id": "114033"
+            }
+        },
+        {
+            "+@gid": "2827756741",
+            "+@lang": "JA",
+            "role": "Dark Elf from Noge",
+            "person": {
+                "+content": "Yūko Iida",
+                "+@id": "116489"
+            }
+        },
+        {
+            "+@gid": "1190962012",
+            "+@lang": "JA",
+            "role": "Half-Elf from Yokohama Chinatown",
+            "person": {
+                "+content": "Takuma Nagatsuka",
+                "+@id": "131726"
+            }
+        },
+        {
+            "+@gid": "2379470136",
+            "+@lang": "JA",
+            "role": "Elf from Kamakura",
+            "person": {
+                "+content": "Kosuke Miyoshi",
+                "+@id": "133518"
             }
         },
         {
@@ -159,6 +206,15 @@
             }
         },
         {
+            "+@gid": "931757340",
+            "+@lang": "JA",
+            "role": "Dark Elf from Isezakichō",
+            "person": {
+                "+content": "Makoto Kaneko",
+                "+@id": "156027"
+            }
+        },
+        {
             "+@gid": "2998454488",
             "+@lang": "JA",
             "role": "Elf from Yokosuka",
@@ -174,6 +230,42 @@
             "person": {
                 "+content": "Chiaki Kobayashi",
                 "+@id": "176057"
+            }
+        },
+        {
+            "+@gid": "2835694371",
+            "+@lang": "JA",
+            "role": "Elf from Hiratsuka",
+            "person": {
+                "+content": "Ryōtarō Akazawa",
+                "+@id": "181513"
+            }
+        },
+        {
+            "+@gid": "3499365058",
+            "+@lang": "JA",
+            "role": "Elf from Fujisawa",
+            "person": {
+                "+content": "Genta Nakamura",
+                "+@id": "185927"
+            }
+        },
+        {
+            "+@gid": "2010657435",
+            "+@lang": "JA",
+            "role": "Elf from Chigasaki",
+            "person": {
+                "+content": "Jin Ogasawara",
+                "+@id": "190896"
+            }
+        },
+        {
+            "+@gid": "3927646585",
+            "+@lang": "JA",
+            "role": "High-Elf from Minatomirai",
+            "person": {
+                "+content": "Yūsei Takanaka",
+                "+@id": "290739"
             }
         }
     ],
@@ -204,6 +296,6 @@
         }
     ],
     "+@date-added": "2025-08-26T17:05:05Z",
-    "+@date-last-modified-at": "2025-10-26T08:35:16Z",
-    "+@date-last-updated-at": "2025-10-26T08:35:16Z"
+    "+@date-last-modified-at": "2025-11-25T08:44:07Z",
+    "+@date-last-updated-at": "2025-11-25T08:44:07Z"
 }
