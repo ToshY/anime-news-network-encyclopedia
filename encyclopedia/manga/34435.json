@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Shō 3 Ashibe QQ Goma-chan",
     "+@precision": "manga",
-    "+@generated-on": "2025-10-27T16:42:34Z",
+    "+@generated-on": "2025-11-26T20:32:48Z",
     "related-prev": [
         {
             "+@rel": "serialized in",
@@ -15,6 +15,10 @@
             "+@id": "18223"
         }
     ],
+    "related-next": {
+        "+@id": "38000",
+        "+@rel": "adaptation"
+    },
     "info": [
         {
             "+@gid": "3853095072",
@@ -58,16 +62,28 @@
             "+@type": "Genres"
         },
         {
+            "+content": "slice of life",
+            "+@gid": "3353119072",
+            "+@type": "Genres"
+        },
+        {
             "+content": "2020-03-17 (serialized in Manga Action, 2020 #7)",
             "+@gid": "1879508702",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Hiromi Morishita Launches New <cite>Shōnen Ashibe</cite> Manga (Update)",
-        "+@datetime": "2020-03-02T22:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2020-03-02/hiromi-morishita-launches-new-shonen-ashibe-manga/.157063"
-    },
+    "news": [
+        {
+            "+content": "Hiromi Morishita Launches New <cite>Shōnen Ashibe</cite> Manga (Update)",
+            "+@datetime": "2020-03-02T22:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2020-03-02/hiromi-morishita-launches-new-shonen-ashibe-manga/.157063"
+        },
+        {
+            "+content": "Hiromi Morishita's <cite>Shō 3 Ashibe QQ Goma-chan</cite> Manga Gets TV Short Anime in Spring 2026",
+            "+@datetime": "2025-11-13T10:07:55Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-13/hiromi-morishita-sho-3-ashibe-qq-goma-chan-manga-gets-tv-short-anime-in-spring-2026/.230985"
+        }
+    ],
     "staff": {
         "+@gid": "3308316671",
         "task": "Story & Art",
@@ -77,5 +93,6 @@
         }
     },
     "+@date-added": "2025-01-25T03:25:44Z",
-    "+@date-last-updated-at": "2025-10-27T16:42:35Z"
+    "+@date-last-modified-at": "2025-11-26T20:32:49Z",
+    "+@date-last-updated-at": "2025-11-26T20:32:49Z"
 }
