@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Cat + Crazy",
     "+@precision": "manga",
-    "+@generated-on": "2025-10-29T02:18:24Z",
+    "+@generated-on": "2025-11-28T04:40:18Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "19616"
@@ -44,11 +44,18 @@
             "+@type": "Vintage"
         }
     ],
-    "release": {
-        "+content": "Cat + Crazy (GN 1)",
-        "+@date": "2025-07-29",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=54203"
-    },
+    "release": [
+        {
+            "+content": "Cat + Crazy (GN 1)",
+            "+@date": "2025-07-29",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=54203"
+        },
+        {
+            "+content": "Cat + Crazy (GN 2)",
+            "+@date": "2025-11-04",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=55545"
+        }
+    ],
     "news": [
         {
             "+content": "Dark Horse Licenses Wataru Nadatani's <cite>Cat + Crazy</cite> Manga",
@@ -59,6 +66,11 @@
             "+content": "North American Anime, Manga Releases, July 27-August 2",
             "+@datetime": "2025-07-30T21:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-07-30/north-american-anime-manga-releases-july-27-august-2/.227123"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, November 2-8",
+            "+@datetime": "2025-11-06T22:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-06/north-american-anime-manga-releases-november-2-8/.230655"
         }
     ],
     "staff": {
@@ -70,5 +82,6 @@
         }
     },
     "+@date-added": "2024-11-07T14:44:48Z",
-    "+@date-last-updated-at": "2025-10-29T02:18:25Z"
+    "+@date-last-modified-at": "2025-11-28T04:40:19Z",
+    "+@date-last-updated-at": "2025-11-28T04:40:19Z"
 }
