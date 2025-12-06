@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Wolf’s Daughter: A Werewolf’s Tale",
     "+@precision": "manga",
-    "+@generated-on": "2025-11-06T16:44:53Z",
+    "+@generated-on": "2025-12-06T20:33:13Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "5653"
@@ -74,11 +74,18 @@
             "+@type": "Vintage"
         }
     ],
-    "release": {
-        "+content": "Wolf's Daughter: A Werewolf's Tale (GN 1)",
-        "+@date": "2025-06-24",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=53792"
-    },
+    "release": [
+        {
+            "+content": "Wolf's Daughter: A Werewolf's Tale (GN 1)",
+            "+@date": "2025-06-24",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=53792"
+        },
+        {
+            "+content": "Wolf's Daughter: A Werewolf's Tale (GN 2)",
+            "+@date": "2025-11-11",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=55707"
+        }
+    ],
     "news": [
         {
             "+content": "<cite>Kono Manga ga Sugoi!</cite> Editors Unveil 2024 Rankings (Updated)",
@@ -94,6 +101,11 @@
             "+content": "North American Anime, Manga Releases, June 22-28",
             "+@datetime": "2025-06-27T21:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-06-27/north-american-anime-manga-releases-june-22-28/.225930"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, November 9-15",
+            "+@datetime": "2025-11-14T17:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-14/north-american-anime-manga-releases-november-9-15/.230855"
         }
     ],
     "staff": {
@@ -105,5 +117,6 @@
         }
     },
     "+@date-added": "2023-12-11T09:51:19Z",
-    "+@date-last-updated-at": "2025-11-06T16:44:55Z"
+    "+@date-last-modified-at": "2025-12-06T20:33:15Z",
+    "+@date-last-updated-at": "2025-12-06T20:33:15Z"
 }
