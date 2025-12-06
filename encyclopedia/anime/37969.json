@@ -4,22 +4,32 @@
     "+@type": "movie",
     "+@name": "Cosmic Princess Kaguya!",
     "+@precision": "movie",
-    "+@generated-on": "2025-11-06T01:36:26Z",
+    "+@generated-on": "2025-12-06T04:36:27Z",
+    "related-next": [
+        {
+            "+@id": "38101",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "38102",
+            "+@rel": "adaptation"
+        }
+    ],
     "info": [
         {
-            "+@gid": "2306018901",
+            "+@gid": "3320885639",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37969-2306018901.1762386996.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37969-3320885639.1764701893.jpg",
             "+@width": "135",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37969-2306018901.1762386996.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37969-3320885639.1764701893.jpg",
                     "+@width": "135",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37969-2306018901.1762386996.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37969-3320885639.1764701893.jpg",
                     "+@width": "405",
                     "+@height": "600"
                 }
@@ -44,6 +54,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "In the near future, 17-year-old high school student Iroha Sakayori is attending a prestigious school in Tokyo and leads to a hectic life, juggling her part-time job and studies. She finds daily relaxation by watching the streams of Yachiyo Runami, the administrator and super-popular live streamer of the online virtual space \"Tsukuyomi.\" One day, on her way home, Iroha finds a pole shining with rainbow lights. Out of it emerges an adorable baby. She takes the baby home, and it quickly grows into a girl named Kaguya, about Iroha's age. At Kaguya's request, Iroha decides to help with her live-streaming activities on Tsukuyomi. As Iroha creates music as a producer and Kaguya sings as a live streamer, the two gradually grow closer. They have no idea that an ominous shadow is looming that will take Kaguya back to the moon.",
+            "+@gid": "1739342506",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "2026-01-22",
             "+@type": "Vintage"
         },
@@ -53,6 +68,11 @@
             "+@type": "Premiere date"
         },
         {
+            "+content": "\"Ex-Otogibanashi\" by Saori Hayami",
+            "+@gid": "2340471882",
+            "+@type": "Opening Theme"
+        },
+        {
             "+content": "Netflix映画『超かぐや姫！』公式サイト",
             "+@gid": "2104103472",
             "+@type": "Official website",
@@ -60,11 +80,18 @@
             "+@href": "https://www.cho-kaguyahime.com/"
         }
     ],
-    "news": {
-        "+content": "Netflix Announces <cite>Cosmic Princess Kaguya!</cite> Anime Film by Director Shingo Yamashita",
-        "+@datetime": "2025-11-05T15:45:12Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-11-05/netflix-announces-cosmic-princess-kaguya-anime-film-by-director-shingo-yamashita/.230672"
-    },
+    "news": [
+        {
+            "+content": "Netflix Announces <cite>Cosmic Princess Kaguya!</cite> Anime Film by Director Shingo Yamashita",
+            "+@datetime": "2025-11-05T15:45:12Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-05/netflix-announces-cosmic-princess-kaguya-anime-film-by-director-shingo-yamashita/.230672"
+        },
+        {
+            "+content": "<cite>Cosmic Princess Kaguya!</cite> Anime Film's Trailer Unveils Songs, Cast",
+            "+@datetime": "2025-12-02T16:01:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-02/cosmic-princess-kaguya-anime-film-trailer-unveils-songs-cast/.231625"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1399708887",
@@ -72,6 +99,30 @@
             "person": {
                 "+content": "Shingo Yamashita",
                 "+@id": "74267"
+            }
+        },
+        {
+            "+@gid": "3679491873",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Shingo Yamashita",
+                "+@id": "74267"
+            }
+        },
+        {
+            "+@gid": "2305474639",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Saeri Natsuo",
+                "+@id": "173684"
+            }
+        },
+        {
+            "+@gid": "1564521962",
+            "task": "Music",
+            "person": {
+                "+content": "Conisch",
+                "+@id": "72795"
             }
         },
         {
@@ -89,9 +140,59 @@
                 "+content": "Hechima",
                 "+@id": "216928"
             }
+        },
+        {
+            "+@gid": "2418545938",
+            "task": "Art Director",
+            "person": {
+                "+content": "Taichi Shishido",
+                "+@id": "69470"
+            }
+        },
+        {
+            "+@gid": "2031309422",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Keiichirō Miyoshi",
+                "+@id": "43164"
+            }
+        },
+        {
+            "+@gid": "2652196906",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Masaya Machida",
+                "+@id": "41514"
+            }
+        },
+        {
+            "+@gid": "3557025062",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Daisuke Chiba",
+                "+@id": "249196"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "3700482204",
+            "+@lang": "IT",
+            "role": "Kaguya",
+            "person": {
+                "+content": "Sara Labidi",
+                "+@id": "144550"
+            }
+        },
+        {
+            "+@gid": "2489319740",
+            "+@lang": "JA",
+            "role": "Fushi",
+            "person": {
+                "+content": "Rie Kugimiya",
+                "+@id": "808"
+            }
+        },
         {
             "+@gid": "1211090879",
             "+@lang": "JA",
@@ -118,6 +219,15 @@
                 "+content": "Anna Nagase",
                 "+@id": "196760"
             }
+        },
+        {
+            "+@gid": "2725376477",
+            "+@lang": "JA",
+            "role": "Inudoge",
+            "person": {
+                "+content": "Sarasa Shōji",
+                "+@id": "233349"
+            }
         }
     ],
     "credit": [
@@ -136,8 +246,25 @@
                 "+content": "Studio Chromato",
                 "+@id": "27252"
             }
+        },
+        {
+            "+@gid": "2019541946",
+            "task": "Production",
+            "company": {
+                "+content": "Studio Colorido",
+                "+@id": "13518"
+            }
+        },
+        {
+            "+@gid": "2687865724",
+            "task": "Production",
+            "company": {
+                "+content": "Twin Engine",
+                "+@id": "16462"
+            }
         }
     ],
     "+@date-added": "2025-11-05T18:54:58Z",
-    "+@date-last-updated-at": "2025-11-06T02:27:21Z"
+    "+@date-last-modified-at": "2025-12-06T04:36:29Z",
+    "+@date-last-updated-at": "2025-12-06T04:36:29Z"
 }
