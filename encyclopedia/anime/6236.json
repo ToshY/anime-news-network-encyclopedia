@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Gintama",
     "+@precision": "TV",
-    "+@generated-on": "2025-08-28T12:58:23Z",
+    "+@generated-on": "2025-12-07T08:37:53Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "4733"
@@ -21,6 +21,10 @@
         {
             "+@id": "23119",
             "+@rel": "related"
+        },
+        {
+            "+@id": "27520",
+            "+@rel": "spinoff"
         },
         {
             "+@id": "32332",
@@ -202,6 +206,11 @@
         {
             "+content": "2019-12-01 (USA, Hulu; English dub-eps 1-49)",
             "+@gid": "3576658696",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-10-06 (USA, Hulu; English dub-eps 50-150)",
+            "+@gid": "3033945585",
             "+@type": "Vintage"
         },
         {
@@ -397,9 +406,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1373",
-        "+@weighted_score": "8.2002",
-        "+@bayesian_score": "8.19339"
+        "+@nb_votes": "1374",
+        "+@weighted_score": "8.1989",
+        "+@bayesian_score": "8.19209"
     },
     "episode": [
         {
@@ -3166,6 +3175,11 @@
             "+content": "<cite>Gintama</cite> Anime Announces Yoshiwara in Flames Compilation Film With New Animated Scenes",
             "+@datetime": "2025-08-17T03:01:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-08-16/gintama-anime-announces-yoshiwara-in-flames-compilation-film-with-new-animated-scenes/.227708"
+        },
+        {
+            "+content": "Hulu Adds <cite>Gintama</cite> Anime Seasons 2-3 With English Dub",
+            "+@datetime": "2025-10-07T19:00:26Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-07/hulu-adds-gintama-anime-seasons-2-3-with-english-dub/.229714"
         }
     ],
     "staff": [
@@ -4064,6 +4078,15 @@
             }
         },
         {
+            "+@gid": "2408190448",
+            "+@lang": "EN",
+            "role": "Sadaharu",
+            "person": {
+                "+content": "Crystal Lopez",
+                "+@id": "168406"
+            }
+        },
+        {
             "+@gid": "1184074136",
             "+@lang": "EN",
             "role": "Isao Kondo",
@@ -4140,8 +4163,107 @@
             "+@lang": "EN",
             "role": "Ayame \"Sacchan\" Sarutobi",
             "person": {
-                "+content": "Jehane Seralles",
+                "+content": "Jehane Serralles",
                 "+@id": "191018"
+            }
+        },
+        {
+            "+@gid": "3331216083",
+            "+@lang": "EN",
+            "role": "Gengai Hiraga",
+            "person": {
+                "+content": "Paul Louis",
+                "+@id": "191020"
+            }
+        },
+        {
+            "+@gid": "3336987226",
+            "+@lang": "EN",
+            "role": "Sagaru Yamazaki",
+            "person": {
+                "+content": "Daniel Llaca",
+                "+@id": "191025"
+            }
+        },
+        {
+            "+@gid": "2704246047",
+            "+@lang": "EN",
+            "role": "Kyubei Yagyu",
+            "person": {
+                "+content": "Sandi Stock",
+                "+@id": "200837"
+            }
+        },
+        {
+            "+@gid": "3423171637",
+            "+@lang": "EN",
+            "role": "Ayame \"Sacchan\" Sarutobi",
+            "person": {
+                "+content": "Mauriett Chayeb-Mendez",
+                "+@id": "206731"
+            }
+        },
+        {
+            "+@gid": "3305627206",
+            "+@lang": "EN",
+            "role": "Elizabeth",
+            "person": {
+                "+content": "Chris Flores",
+                "+@id": "220177"
+            }
+        },
+        {
+            "+@gid": "2322823760",
+            "+@lang": "EN",
+            "role": "Tsukuyo",
+            "person": {
+                "+content": "Ilana Isaacson",
+                "+@id": "237934"
+            }
+        },
+        {
+            "+@gid": "1996709564",
+            "+@lang": "EN",
+            "role": "Fuyo",
+            "person": {
+                "+content": "Christina Groom",
+                "+@id": "256112"
+            }
+        },
+        {
+            "+@gid": "3908749542",
+            "+@lang": "EN",
+            "role": "Seita",
+            "person": {
+                "+content": "Nicholas Quintana",
+                "+@id": "259382"
+            }
+        },
+        {
+            "+@gid": "3857613193",
+            "+@lang": "EN",
+            "role": "Tae Shimura",
+            "person": {
+                "+content": "Kate Clavelo",
+                "+@id": "266955"
+            }
+        },
+        {
+            "+@gid": "1579299289",
+            "+@lang": "EN",
+            "role": "Ayumu Tojo",
+            "person": {
+                "+content": "Yaseen Bhaijee",
+                "+@id": "289295"
+            }
+        },
+        {
+            "+@gid": "3329996230",
+            "+@lang": "EN",
+            "role": "Hinowa",
+            "person": {
+                "+content": "Krystal Martinez",
+                "+@id": "289386"
             }
         },
         {
@@ -5124,6 +5246,6 @@
         }
     ],
     "+@date-added": "2006-01-30T13:57:18Z",
-    "+@date-last-modified-at": "2025-08-28T12:58:25Z",
-    "+@date-last-updated-at": "2025-08-28T12:58:25Z"
+    "+@date-last-modified-at": "2025-12-07T08:37:55Z",
+    "+@date-last-updated-at": "2025-12-07T08:37:55Z"
 }
