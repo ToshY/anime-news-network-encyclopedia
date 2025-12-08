@@ -4,28 +4,39 @@
     "+@type": "movie",
     "+@name": "Eiga Doraemon: Shin Nobita no Kaitei Kiganjō",
     "+@precision": "movie",
-    "+@generated-on": "2025-11-08T08:36:30Z",
-    "related-prev": {
-        "+@rel": "remake of",
-        "+@id": "1889"
-    },
+    "+@generated-on": "2025-12-08T08:47:26Z",
+    "related-prev": [
+        {
+            "+@rel": "remake of",
+            "+@id": "1889"
+        },
+        {
+            "+@rel": "sequel of",
+            "+@id": "33621"
+        }
+    ],
     "info": [
         {
             "+@gid": "1778712411",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37818-1778712411.1757209196.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37818-1778712411.1763713166.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37818-1778712411.1757209196.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37818-1778712411.1763713166.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37818-1778712411.1757209196.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37818-1778712411.1763713166.jpg",
                     "+@width": "424",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37818-1778712411.1763713166.jpg",
+                    "+@width": "672",
+                    "+@height": "951"
                 }
             ]
         },
@@ -51,6 +62,11 @@
             "+@type": "Premiere date"
         },
         {
+            "+content": "\"Honto\" by sumika",
+            "+@gid": "2533253432",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "『映画ドラえもん 新・のび太の海底鬼岩城』公式サイト",
             "+@gid": "2430418119",
             "+@type": "Official website",
@@ -68,6 +84,11 @@
             "+content": "2026 <cite>Doraemon</cite> Film Reveals Guest Voice Actors, February 27 Premiere",
             "+@datetime": "2025-10-09T09:20:29Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-10-09/2026-doraemon-film-reveals-guest-voice-actors-february-27-premiere/.229772"
+        },
+        {
+            "+content": "2026 <cite>Doraemon</cite> Film's New Trailer Unveils sumika's Theme Song",
+            "+@datetime": "2025-11-30T12:36:25Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-30/2026-doraemon-film-new-trailer-unveils-sumika-theme-song/.231520"
         }
     ],
     "staff": [
@@ -88,15 +109,49 @@
             }
         },
         {
+            "+@gid": "1332646055",
+            "task": "Music",
+            "person": {
+                "+content": "Takayuki Hattori",
+                "+@id": "1687"
+            }
+        },
+        {
             "+@gid": "1976861778",
             "task": "Original creator",
             "person": {
                 "+content": "Fujiko F. Fujio",
                 "+@id": "5417"
             }
+        },
+        {
+            "+@gid": "2683873336",
+            "task": "Character Design",
+            "person": {
+                "+content": "Yuki Togashi",
+                "+@id": "203223"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "864972229",
+            "+@lang": "JA",
+            "role": "Suneo Honekawa",
+            "person": {
+                "+content": "Tomokazu Seki",
+                "+@id": "529"
+            }
+        },
+        {
+            "+@gid": "1611060565",
+            "+@lang": "JA",
+            "role": "Shizuka Minamoto",
+            "person": {
+                "+content": "Yumi Kakazu",
+                "+@id": "778"
+            }
+        },
         {
             "+@gid": "4071385783",
             "+@lang": "JA",
@@ -113,6 +168,15 @@
             "person": {
                 "+content": "Ryō Hirohashi",
                 "+@id": "8851"
+            }
+        },
+        {
+            "+@gid": "3166474499",
+            "+@lang": "JA",
+            "role": "Gian Takeshi Gōda",
+            "person": {
+                "+content": "Subaru Kimura",
+                "+@id": "39856"
             }
         },
         {
@@ -185,6 +249,6 @@
         }
     ],
     "+@date-added": "2025-09-06T21:38:59Z",
-    "+@date-last-modified-at": "2025-11-08T08:36:33Z",
-    "+@date-last-updated-at": "2025-11-08T08:36:33Z"
+    "+@date-last-modified-at": "2025-12-08T08:47:29Z",
+    "+@date-last-updated-at": "2025-12-08T08:47:29Z"
 }
