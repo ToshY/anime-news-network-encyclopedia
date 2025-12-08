@@ -4,7 +4,11 @@
     "+@type": "manga",
     "+@name": "Saionji-san wa Kaji o Shinai",
     "+@precision": "manga",
-    "+@generated-on": "2025-11-07T20:31:36Z",
+    "+@generated-on": "2025-12-08T02:21:26Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "24614"
+    },
     "info": [
         {
             "+@gid": "592461806",
@@ -54,7 +58,12 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2021-09-01 (serialized in Be-Love, Oct 2021)",
+            "+content": "5",
+            "+@gid": "2180759488",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2021-09-01 to 2024-05-31 (serialized in Be-Love, Oct 2021 - Jul 2024)",
             "+@gid": "1310394032",
             "+@type": "Vintage"
         }
@@ -115,5 +124,6 @@
         }
     },
     "+@date-added": "2023-11-16T23:21:06Z",
-    "+@date-last-updated-at": "2025-11-07T20:31:37Z"
+    "+@date-last-modified-at": "2025-12-08T02:21:28Z",
+    "+@date-last-updated-at": "2025-12-08T02:21:28Z"
 }
