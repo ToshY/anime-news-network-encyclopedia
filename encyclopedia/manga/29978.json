@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Charisma: Charisma na Karera wa Charisma House de Karizumai-chū",
     "+@precision": "manga",
-    "+@generated-on": "2025-11-10T08:43:37Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "22882"
-    },
+    "+@generated-on": "2025-12-10T08:45:39Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "22882"
+        },
+        {
+            "+@rel": "related to",
+            "+@id": "31207"
+        }
+    ],
     "info": [
         {
             "+@gid": "3138935735",
@@ -47,6 +53,16 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "3726453812",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "slice of life",
+            "+@gid": "2829974561",
+            "+@type": "Genres"
+        },
+        {
             "+content": "2",
             "+@gid": "2958896618",
             "+@type": "Number of tankoubon"
@@ -83,5 +99,6 @@
         }
     ],
     "+@date-added": "2023-09-20T02:24:47Z",
-    "+@date-last-updated-at": "2025-11-10T08:43:39Z"
+    "+@date-last-modified-at": "2025-12-10T08:45:40Z",
+    "+@date-last-updated-at": "2025-12-10T08:45:40Z"
 }
