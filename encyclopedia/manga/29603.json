@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Bocchi the Rock! Comic Anthology",
     "+@precision": "manga",
-    "+@generated-on": "2025-11-11T08:42:07Z",
+    "+@generated-on": "2025-12-11T08:46:07Z",
     "related-prev": {
         "+@rel": "spinoff of",
         "+@id": "24061"
@@ -57,11 +57,18 @@
             "+@type": "Vintage"
         }
     ],
-    "release": {
-        "+content": "Bocchi the Rock! Comic Anthology (GN 1)",
-        "+@date": "2025-07-22",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=54087"
-    },
+    "release": [
+        {
+            "+content": "Bocchi the Rock! Comic Anthology (GN 1)",
+            "+@date": "2025-07-22",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=54087"
+        },
+        {
+            "+content": "Bocchi the Rock! Comic Anthology (GN 2)",
+            "+@date": "2026-01-20",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=55881"
+        }
+    ],
     "news": [
         {
             "+content": "Yen Press Licenses <cite>Oshi No Ko Spica of the First Star</cite>, <cite>The Theater of Haruhi Suzumiya</cite>, <cite>Super String</cite>, More Manga/Novels",
@@ -75,5 +82,6 @@
         }
     ],
     "+@date-added": "2023-08-24T15:20:44Z",
-    "+@date-last-updated-at": "2025-11-11T08:42:09Z"
+    "+@date-last-modified-at": "2025-12-11T08:46:08Z",
+    "+@date-last-updated-at": "2025-12-11T08:46:08Z"
 }
