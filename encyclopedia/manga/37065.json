@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Killed Again, Mr. Detective?",
     "+@precision": "manga",
-    "+@generated-on": "2025-11-15T12:54:55Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "24264"
-    },
+    "+@generated-on": "2025-12-15T13:09:01Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "24264"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "38018"
+        }
+    ],
     "info": [
         {
             "+@gid": "1700897617",
@@ -68,6 +74,10 @@
             "+@type": "Vintage"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "3"
+    },
     "review": {
         "+content": "<cite>Killed Again, Mr. Detective?</cite> Volume 1 Manga Review",
         "+@href": "https://www.animenewsnetwork.com/review/killed-again-mr-detective/volume-1/.230204"
@@ -123,6 +133,6 @@
         }
     ],
     "+@date-added": "2025-07-17T11:04:41Z",
-    "+@date-last-modified-at": "2025-11-15T12:54:57Z",
-    "+@date-last-updated-at": "2025-11-15T12:54:57Z"
+    "+@date-last-modified-at": "2025-12-15T13:09:03Z",
+    "+@date-last-updated-at": "2025-12-15T13:09:03Z"
 }

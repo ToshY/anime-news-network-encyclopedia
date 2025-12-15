@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Snowball Earth",
     "+@precision": "TV",
-    "+@generated-on": "2025-11-15T12:54:56Z",
+    "+@generated-on": "2025-12-15T13:08:57Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28569"
@@ -13,18 +13,18 @@
         {
             "+@gid": "3158576404",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37061-3158576404.1752757639.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37061-3158576404.1765456874.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37061-3158576404.1752757639.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37061-3158576404.1765456874.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37061-3158576404.1752757639.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37061-3158576404.1765456874.jpg",
+                    "+@width": "423",
                     "+@height": "600"
                 }
             ]
@@ -47,7 +47,11 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026",
+            "+content": "Shy, socially awkward mecha pilot Tetsuo spent his entire childhood fighting kaiju – the intergalactic monsters threatening life on Earth. Out in deep space at the climactic moment of the final decisive strike against humanity's gargantuan enemies, something goes horribly wrong with his mecha Yukio's new doomsday weapon, the Omnidirectional Infinity Laser. With Earth's last-ditch strategy failing spectacularly, his beloved mecha sacrificing itself to save his life, sole survivor Tetsuo hurtles back to Earth in his escape pod and, eight years later, awakes from cold sleep to find his world inexplicably frozen from pole to pole. <em class=de-emphasized>(from manga)</em>",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2026-04",
             "+@gid": "2387307993",
             "+@type": "Vintage"
         },
@@ -59,6 +63,11 @@
             "+@href": "https://snowballearth.net/"
         }
     ],
+    "news": {
+        "+content": "<cite>Snowball Earth</cite> Anime Reveals Main Cast, More Staff, April 2026 Debut in Teaser Video",
+        "+@datetime": "2025-12-11T10:58:31Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-12-11/snowball-earth-anime-reveals-main-cast-more-staff-april-2026-debut-in-teaser-video/.231970"
+    },
     "staff": [
         {
             "+@gid": "1764384748",
@@ -74,6 +83,30 @@
             "person": {
                 "+content": "Shigeru Murakoshi",
                 "+@id": "128991"
+            }
+        },
+        {
+            "+@gid": "1082780347",
+            "task": "Music",
+            "person": {
+                "+content": "Hiroaki Tsutsumi",
+                "+@id": "120845"
+            }
+        },
+        {
+            "+@gid": "4110399025",
+            "task": "Music",
+            "person": {
+                "+content": "Tatsuya Katō",
+                "+@id": "163265"
+            }
+        },
+        {
+            "+@gid": "3229526613",
+            "task": "Music",
+            "person": {
+                "+content": "Yuki Kanesaka",
+                "+@id": "165987"
             }
         },
         {
@@ -93,11 +126,89 @@
             }
         },
         {
+            "+@gid": "1638704202",
+            "task": "Art Director",
+            "person": {
+                "+content": "Mari Fujino",
+                "+@id": "121461"
+            }
+        },
+        {
             "+@gid": "3323565303",
             "task": "Chief Animation Director",
             "person": {
                 "+content": "Toshiya Kōno",
                 "+@id": "180783"
+            }
+        },
+        {
+            "+@gid": "2254977243",
+            "task": "Mechanical design",
+            "person": {
+                "+content": "Sejoon Kim",
+                "+@id": "182333"
+            }
+        },
+        {
+            "+@gid": "1210133971",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Hiroki Motooka",
+                "+@id": "86362"
+            }
+        },
+        {
+            "+@gid": "1497785172",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Kenta Hayashi",
+                "+@id": "131121"
+            }
+        },
+        {
+            "+@gid": "1743379842",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Shōta Kodera",
+                "+@id": "156724"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2605516719",
+            "+@lang": "JA",
+            "role": "Yukio",
+            "person": {
+                "+content": "Daisuke Hirakawa",
+                "+@id": "2177"
+            }
+        },
+        {
+            "+@gid": "2862074276",
+            "+@lang": "JA",
+            "role": "Ao Nogi",
+            "person": {
+                "+content": "Ami Koshimizu",
+                "+@id": "17254"
+            }
+        },
+        {
+            "+@gid": "2358159327",
+            "+@lang": "JA",
+            "role": "Tetsuo Yabusame",
+            "person": {
+                "+content": "Takuto Yoshinaga",
+                "+@id": "86220"
+            }
+        },
+        {
+            "+@gid": "3333164146",
+            "+@lang": "JA",
+            "role": "Hagane Takimura",
+            "person": {
+                "+content": "Konomi Tamura",
+                "+@id": "221087"
             }
         }
     ],
@@ -110,5 +221,6 @@
         }
     },
     "+@date-added": "2025-07-17T09:06:40Z",
-    "+@date-last-updated-at": "2025-11-15T12:54:59Z"
+    "+@date-last-modified-at": "2025-12-15T13:09:01Z",
+    "+@date-last-updated-at": "2025-12-15T13:09:01Z"
 }
