@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Ephemeral Scenes of Setsuna's Journey",
     "+@precision": "manga",
-    "+@generated-on": "2025-09-18T01:59:12Z",
+    "+@generated-on": "2025-12-18T20:33:47Z",
     "related-prev": [
         {
             "+@rel": "serialized in",
@@ -16,6 +16,30 @@
         }
     ],
     "info": [
+        {
+            "+@gid": "2900074611",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26615-2900074611.1765225209.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26615-2900074611.1765225209.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A26615-2900074611.1765225209.jpg",
+                    "+@width": "422",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A26615-2900074611.1765225209.jpg",
+                    "+@width": "1054",
+                    "+@height": "1500"
+                }
+            ]
+        },
         {
             "+content": "The Ephemeral Scenes of Setsuna's Journey",
             "+@gid": "2883643826",
@@ -55,11 +79,18 @@
             "+@type": "Vintage"
         }
     ],
-    "release": {
-        "+content": "The Ephemeral Scenes of Setsuna's Journey (GN 1)",
-        "+@date": "2023-09-19",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=48290"
-    },
+    "release": [
+        {
+            "+content": "The Ephemeral Scenes of Setsuna's Journey (GN 1)",
+            "+@date": "2023-09-19",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=48290"
+        },
+        {
+            "+content": "The Ephemeral Scenes of Setsuna's Journey (GN 2)",
+            "+@date": "2026-02-24",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=56002"
+        }
+    ],
     "news": [
         {
             "+content": "Yen Press Reveals 28 New Licenses Including <cite>Bocchi the Rock!, Tokyo Babylon</cite> Manga; <cite>The Deer King</cite> Novels",
@@ -104,5 +135,6 @@
         }
     ],
     "+@date-added": "2022-11-20T20:43:40Z",
-    "+@date-last-updated-at": "2025-09-18T01:59:28Z"
+    "+@date-last-modified-at": "2025-12-18T20:33:49Z",
+    "+@date-last-updated-at": "2025-12-18T20:33:49Z"
 }
