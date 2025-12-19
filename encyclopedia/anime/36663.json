@@ -2,9 +2,9 @@
     "+@id": "36663",
     "+@gid": "2697911778",
     "+@type": "TV",
-    "+@name": "Gōmon Baito-kun no Nichijō",
+    "+@name": "Daily Life of a Part-time Torturer",
     "+@precision": "TV",
-    "+@generated-on": "2025-11-19T02:15:29Z",
+    "+@generated-on": "2025-12-19T02:23:48Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28087"
@@ -30,9 +30,15 @@
             ]
         },
         {
+            "+content": "The Daily Life of a Part-time Torturer",
+            "+@gid": "2314137958",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Gōmon Baito-kun no Nichijō",
             "+@gid": "3331098873",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -52,7 +58,8 @@
             "+@type": "Themes"
         },
         {
-            "+content": "In a world where murder and torture are legal, numerous \"torture contract companies\" exist. Cero and Shiu work part-time for the \"Spirytus\" torture company, which is known for treating its employees well and only targeting bad people. Two new part-time hires — Mikke and Hugh — also join the company, and the four enjoy their torture-working life. <em class=de-emphasized>(from manga)</em>",
+            "+content": "In a world where murder and torture are legal, numerous \"torture contract companies\" exist. Cero and Shiu work part-time for the \"Spirytus\" torture company, which is known for treating its employees well and only targeting bad people. Two new part-time hires — Mikke and Hugh — also join the company, and the four enjoy their torture-working life. (from manga)",
+            "+@gid": "2889335331",
             "+@type": "Plot Summary"
         },
         {
@@ -78,11 +85,23 @@
             "+@href": "https://goumonbaitokun.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Gōmon Baito-kun no Nichijō</cite> Anime's Video Reveals More Cast, Theme Song Artists, January 4 Debut",
-        "+@datetime": "2025-11-07T09:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-11-07/gomon-baito-kun-no-nichijo-anime-video-reveals-more-cast-theme-song-artists-january-4-debut/.230739"
-    },
+    "news": [
+        {
+            "+content": "<cite>Gōmon Baito-kun no Nichijō</cite> Anime's Video Reveals More Cast, Theme Song Artists, January 4 Debut",
+            "+@datetime": "2025-11-07T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-07/gomon-baito-kun-no-nichijo-anime-video-reveals-more-cast-theme-song-artists-january-4-debut/.230739"
+        },
+        {
+            "+content": "<cite>Gōmon Baito-kun no Nichijō</cite> Anime Reveals 4 New Cast Members",
+            "+@datetime": "2025-12-14T08:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-14/gomon-baito-kun-no-nichijo-anime-reveals-4-new-cast-members/.232069"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Winter 2026 Season",
+            "+@datetime": "2025-12-16T18:21:55Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-16/crunchyroll-announces-release-schedule-for-winter-2026-season/.232156"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2845955917",
@@ -169,6 +188,15 @@
             }
         },
         {
+            "+@gid": "2004648401",
+            "+@lang": "JA",
+            "role": "Berta",
+            "person": {
+                "+content": "Nozomi Yamamoto",
+                "+@id": "101141"
+            }
+        },
+        {
             "+@gid": "1238086869",
             "+@lang": "JA",
             "role": "Hugh",
@@ -203,6 +231,33 @@
                 "+content": "Rikuya Yasuda",
                 "+@id": "167211"
             }
+        },
+        {
+            "+@gid": "1894823538",
+            "+@lang": "JA",
+            "role": "Reu",
+            "person": {
+                "+content": "Kozue Yūki",
+                "+@id": "168734"
+            }
+        },
+        {
+            "+@gid": "1647772206",
+            "+@lang": "JA",
+            "role": "Fon",
+            "person": {
+                "+content": "Tomohiro Ōno",
+                "+@id": "197487"
+            }
+        },
+        {
+            "+@gid": "1999755370",
+            "+@lang": "JA",
+            "role": "Nero",
+            "person": {
+                "+content": "Satsuki Hatori",
+                "+@id": "233508"
+            }
         }
     ],
     "credit": {
@@ -214,6 +269,6 @@
         }
     },
     "+@date-added": "2025-06-20T05:59:17Z",
-    "+@date-last-modified-at": "2025-11-19T02:15:31Z",
-    "+@date-last-updated-at": "2025-11-19T02:15:31Z"
+    "+@date-last-modified-at": "2025-12-19T02:23:50Z",
+    "+@date-last-updated-at": "2025-12-19T02:23:50Z"
 }

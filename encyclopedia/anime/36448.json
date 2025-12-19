@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Love Live! Hasu no Sora Jogakuin School Idol Club Bloom Garden Party",
     "+@precision": "movie",
-    "+@generated-on": "2025-11-19T02:15:30Z",
+    "+@generated-on": "2025-12-19T02:23:49Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "34075"
@@ -13,19 +13,24 @@
         {
             "+@gid": "2390099812",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36448-2390099812.1759724104.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36448-2390099812.1765111524.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36448-2390099812.1759724104.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36448-2390099812.1765111524.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36448-2390099812.1759724104.jpg",
-                    "+@width": "426",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36448-2390099812.1765111524.jpg",
+                    "+@width": "424",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A36448-2390099812.1765111524.jpg",
+                    "+@width": "566",
+                    "+@height": "801"
                 }
             ]
         },
@@ -52,16 +57,20 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2026 (spring)",
-            "+@gid": "2582197353",
+            "+content": "2026-05-08",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2026-05-08 (Japan)",
+            "+@gid": "1220110910",
+            "+@type": "Premiere date"
         },
         {
             "+content": "映画『ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party』公式サイト",
             "+@gid": "3246784325",
             "+@type": "Official website",
             "+@lang": "JA",
-            "+@href": "https://www.lovelive-anime.jp/hasunosora/"
+            "+@href": "https://www.lovelive-anime.jp/hasunosora/movie/"
         }
     ],
     "news": [
@@ -74,9 +83,38 @@
             "+content": "<cite>Love Live!'s</cite> Hasu no Sora Jōgakuin School Idol Club 3D Anime Film Unveils Title, Spring 2026 Debut",
             "+@datetime": "2025-10-06T03:17:59Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-10-05/love-live-s-hasu-no-sora-jogakuin-school-idol-club-3d-anime-film-unveils-title-spring-2026-debut/.229655"
+        },
+        {
+            "+content": "<cite>Love Live! Hasu no Sora Jōgakuin School Idol Club</cite> Film's Teaser Reveals Cast, Staff, May 8 Debut",
+            "+@datetime": "2025-12-07T16:50:55Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-07/love-live-hasu-no-sora-jogakuin-school-idol-club-film-teaser-reveals-cast-staff-may-8-debut/.231794"
         }
     ],
     "staff": [
+        {
+            "+@gid": "1097008965",
+            "task": "Director",
+            "person": {
+                "+content": "Gō Kurosaki",
+                "+@id": "76854"
+            }
+        },
+        {
+            "+@gid": "2194809623",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Fumiaki Maruto",
+                "+@id": "119186"
+            }
+        },
+        {
+            "+@gid": "3152233554",
+            "task": "Music",
+            "person": {
+                "+content": "Yoshiaki Fujisawa",
+                "+@id": "113645"
+            }
+        },
         {
             "+@gid": "2449549454",
             "task": "Original Concept",
@@ -99,6 +137,38 @@
             "person": {
                 "+content": "Haruko Iizuka",
                 "+@id": "30827"
+            }
+        },
+        {
+            "+@gid": "3023922991",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yasuhiro Okumura",
+                "+@id": "42399"
+            }
+        },
+        {
+            "+@gid": "2015898925",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Keiichi Nozaki",
+                "+@id": "9146"
+            }
+        },
+        {
+            "+@gid": "3336940684",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Kaito Hamakawa",
+                "+@id": "244624"
+            }
+        },
+        {
+            "+@gid": "3959058851",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Hiroshi Tanaka",
+                "+@id": "5725"
             }
         }
     ],
@@ -205,6 +275,14 @@
     ],
     "credit": [
         {
+            "+@gid": "2870269688",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Sublimation",
+                "+@id": "11642"
+            }
+        },
+        {
             "+@gid": "962308863",
             "task": "Production",
             "company": {
@@ -238,5 +316,6 @@
         }
     ],
     "+@date-added": "2025-06-08T22:19:13Z",
-    "+@date-last-updated-at": "2025-11-19T02:15:31Z"
+    "+@date-last-modified-at": "2025-12-19T02:23:50Z",
+    "+@date-last-updated-at": "2025-12-19T02:23:50Z"
 }
