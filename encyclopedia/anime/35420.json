@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Medalist",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-11-19T08:42:42Z",
+    "+@generated-on": "2025-12-19T08:46:22Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28262"
@@ -13,17 +13,17 @@
         {
             "+@gid": "3264474466",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35420-3264474466.1753644381.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35420-3264474466.1765333767.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35420-3264474466.1753644381.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35420-3264474466.1765333767.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35420-3264474466.1753644381.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35420-3264474466.1765333767.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
@@ -72,14 +72,24 @@
             "+@type": "Objectionable content"
         },
         {
+            "+content": "Tsukasa, whose dreams were crushed. Inori, left to fend for herself. These two share a dream and their tenacity may be the only thing that sees them through. Their destination is the ice...on the world's stage (from manga)",
+            "+@gid": "1220784282",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "23",
             "+@gid": "1976738332",
             "+@type": "Running time"
         },
         {
-            "+content": "2026-01",
-            "+@gid": "1604599215",
+            "+content": "2026-01-24",
+            "+@gid": "1708193709",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Cold Night\" by HANA",
+            "+@gid": "3598306005",
+            "+@type": "Opening Theme"
         },
         {
             "+content": "TVアニメ「メダリスト」公式サイト",
@@ -89,11 +99,18 @@
             "+@href": "https://medalist-pr.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Medalist</cite> 2nd Season Anime Unveils January 2026 Debut in Teaser Video",
-        "+@datetime": "2025-07-27T12:01:01Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-07-27/medalist-2nd-season-anime-unveils-january-2026-debut-in-teaser-video/.227066"
-    },
+    "news": [
+        {
+            "+content": "<cite>Medalist</cite> 2nd Season Anime Unveils January 2026 Debut in Teaser Video",
+            "+@datetime": "2025-07-27T12:01:01Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-27/medalist-2nd-season-anime-unveils-january-2026-debut-in-teaser-video/.227066"
+        },
+        {
+            "+content": "<cite>Medalist</cite> Season 2's 1st Video Reveals More Cast, Opening Song Artist, January 24 Debut",
+            "+@datetime": "2025-12-09T12:02:50Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-09/medalist-season-2-1st-video-reveals-more-cast-opening-song-artist-january-24-debut/.231881"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3052220941",
@@ -186,12 +203,57 @@
     ],
     "cast": [
         {
+            "+@gid": "2383353495",
+            "+@lang": "JA",
+            "role": "Yuna Yagi",
+            "person": {
+                "+content": "Natsuko Abe",
+                "+@id": "39234"
+            }
+        },
+        {
+            "+@gid": "1713840268",
+            "+@lang": "JA",
+            "role": "Iruka Okazaki",
+            "person": {
+                "+content": "Hibiku Yamamura",
+                "+@id": "81692"
+            }
+        },
+        {
+            "+@gid": "2462316332",
+            "+@lang": "JA",
+            "role": "Marika Kurione",
+            "person": {
+                "+content": "Ai Kayano",
+                "+@id": "91009"
+            }
+        },
+        {
+            "+@gid": "1354307514",
+            "+@lang": "JA",
+            "role": "Yotsuha Ushikawa",
+            "person": {
+                "+content": "Minami Tanaka",
+                "+@id": "118525"
+            }
+        },
+        {
             "+@gid": "3033544559",
             "+@lang": "JA",
             "role": "Jun Yodaka",
             "person": {
                 "+content": "Yūma Uchida",
                 "+@id": "124918"
+            }
+        },
+        {
+            "+@gid": "2890439234",
+            "+@lang": "JA",
+            "role": "Manaka Roba",
+            "person": {
+                "+content": "Maria Naganawa",
+                "+@id": "127172"
             }
         },
         {
@@ -213,6 +275,15 @@
             }
         },
         {
+            "+@gid": "874407110",
+            "+@lang": "JA",
+            "role": "Riina Kojo",
+            "person": {
+                "+content": "Kotomi Aihara",
+                "+@id": "156648"
+            }
+        },
+        {
             "+@gid": "3963441759",
             "+@lang": "JA",
             "role": "Tsukasa Akeuraji",
@@ -231,12 +302,48 @@
             }
         },
         {
+            "+@gid": "2127886800",
+            "+@lang": "JA",
+            "role": "Sakina Anaguma",
+            "person": {
+                "+content": "Takako Tanaka",
+                "+@id": "165284"
+            }
+        },
+        {
             "+@gid": "721345412",
             "+@lang": "JA",
             "role": "Shinichirō Sonidori",
             "person": {
                 "+content": "Taito Ban",
                 "+@id": "167294"
+            }
+        },
+        {
+            "+@gid": "2276922496",
+            "+@lang": "JA",
+            "role": "Sana Niwatori",
+            "person": {
+                "+content": "Yūko Natsuyoshi",
+                "+@id": "187604"
+            }
+        },
+        {
+            "+@gid": "1970624888",
+            "+@lang": "JA",
+            "role": "Rinna Sarukawa",
+            "person": {
+                "+content": "Mao Itou",
+                "+@id": "271441"
+            }
+        },
+        {
+            "+@gid": "1127693295",
+            "+@lang": "JA",
+            "role": "Kurumi Risu",
+            "person": {
+                "+content": "Hikaru Tōno",
+                "+@id": "280224"
             }
         }
     ],
@@ -249,6 +356,6 @@
         }
     },
     "+@date-added": "2025-03-29T19:49:24Z",
-    "+@date-last-modified-at": "2025-11-19T08:42:44Z",
-    "+@date-last-updated-at": "2025-11-19T08:42:44Z"
+    "+@date-last-modified-at": "2025-12-19T08:46:24Z",
+    "+@date-last-updated-at": "2025-12-19T08:46:24Z"
 }

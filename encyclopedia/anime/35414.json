@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Blue Miburo",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-11-19T08:42:42Z",
+    "+@generated-on": "2025-12-19T08:46:22Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "29882"
@@ -53,9 +53,24 @@
             "+@type": "Genres"
         },
         {
+            "+content": "The Black Ships arrive in Kyoto as the shogunate stumbles toward ruin. Living amidst the chaos is Nio, a kindhearted boy on the verge of discovering his destiny. He meets two \"Miburo,\" Hijikata Toshizo and Okita Soji, members of the band of Mibu ronin who will later become the famous Shinsengumi. With dreams of a better world, Nio joins their fight to defend the city.",
+            "+@gid": "1722015627",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "2025-12-20",
             "+@gid": "2274303104",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Blue Noise\" by Ryōsuke Yamada",
+            "+@gid": "3874519846",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Hōmatsu\" (Ephemeral) by Soushi Sakiyama",
+            "+@gid": "3802250948",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "青のミブロ【TVアニメ】",
@@ -75,6 +90,26 @@
             "+content": "<cite>Blue Miburo</cite> Anime Season 2 Streams Promotional Video",
             "+@datetime": "2025-09-16T23:41:55Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-09-16/blue-miburo-anime-season-2-streams-promotional-video/.228882"
+        },
+        {
+            "+content": "<cite>Blue Miburo</cite> Anime Season 2 Casts Taku Yashiro",
+            "+@datetime": "2025-11-24T10:09:14Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-24/blue-miburo-anime-season-2-casts-taku-yashiro/.231349"
+        },
+        {
+            "+content": "OceanVeil Streams 2nd <cite>Blue Miburo</cite> Anime Season (Updated)",
+            "+@datetime": "2025-12-06T13:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-06/oceanveil-streams-2nd-blue-miburo-anime-season/.231697"
+        },
+        {
+            "+content": "<cite>Blue Miburo</cite> Anime Season 2 Reveals 2nd Promo Video, More Cast, Theme Songs",
+            "+@datetime": "2025-12-08T01:00:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-07/blue-miburo-anime-season-2-reveals-2nd-promo-video-more-cast-theme-songs/.231792"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Winter 2026 Season",
+            "+@datetime": "2025-12-16T18:21:55Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-16/crunchyroll-announces-release-schedule-for-winter-2026-season/.232156"
         }
     ],
     "staff": [
@@ -135,15 +170,40 @@
             }
         },
         {
+            "+@gid": "3658133637",
+            "task": "Art Director",
+            "person": {
+                "+content": "Satoshi Shibata",
+                "+@id": "20299"
+            }
+        },
+        {
             "+@gid": "1521668183",
             "task": "Sound Director",
             "person": {
                 "+content": "Toshiki Kameyama",
                 "+@id": "2582"
             }
+        },
+        {
+            "+@gid": "2128659407",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yukina Nomura",
+                "+@id": "102852"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "1792537124",
+            "+@lang": "JA",
+            "role": "Kogorō Katsura",
+            "person": {
+                "+content": "Mitsuki Saiga",
+                "+@id": "411"
+            }
+        },
         {
             "+@gid": "1491602969",
             "+@lang": "JA",
@@ -172,6 +232,15 @@
             }
         },
         {
+            "+@gid": "3287361837",
+            "+@lang": "JA",
+            "role": "Yashirō Ozeki",
+            "person": {
+                "+content": "Kōsuke Takaguchi",
+                "+@id": "27061"
+            }
+        },
+        {
             "+@gid": "284948237",
             "+@lang": "JA",
             "role": "Sōji Okita",
@@ -187,6 +256,15 @@
             "person": {
                 "+content": "Kenjirō Tsuda",
                 "+@id": "39751"
+            }
+        },
+        {
+            "+@gid": "565440853",
+            "+@lang": "JA",
+            "role": "Masajirō Ozeki",
+            "person": {
+                "+content": "Ryō Sugisaki",
+                "+@id": "48517"
             }
         },
         {
@@ -208,6 +286,15 @@
             }
         },
         {
+            "+@gid": "3513147022",
+            "+@lang": "JA",
+            "role": "Ryōma Sakamoto",
+            "person": {
+                "+content": "Junya Enoki",
+                "+@id": "109167"
+            }
+        },
+        {
             "+@gid": "3266967154",
             "+@lang": "JA",
             "role": "Sanosuke Harada",
@@ -226,6 +313,15 @@
             }
         },
         {
+            "+@gid": "1743724859",
+            "+@lang": "JA",
+            "role": "Susumu Yamazaki",
+            "person": {
+                "+content": "Taku Yashiro",
+                "+@id": "130983"
+            }
+        },
+        {
             "+@gid": "1866261323",
             "+@lang": "JA",
             "role": "Tarō Tanaka",
@@ -241,6 +337,24 @@
             "person": {
                 "+content": "Yū Maeda",
                 "+@id": "145406"
+            }
+        },
+        {
+            "+@gid": "2970998020",
+            "+@lang": "JA",
+            "role": "Tōtarō Asano",
+            "person": {
+                "+content": "Rikuya Yasuda",
+                "+@id": "167211"
+            }
+        },
+        {
+            "+@gid": "1550719654",
+            "+@lang": "JA",
+            "role": "Shintarō Hayashi",
+            "person": {
+                "+content": "Kazuki Ura",
+                "+@id": "172811"
             }
         },
         {
@@ -289,5 +403,6 @@
         }
     },
     "+@date-added": "2025-03-29T05:39:19Z",
-    "+@date-last-updated-at": "2025-11-19T08:42:44Z"
+    "+@date-last-modified-at": "2025-12-19T08:46:24Z",
+    "+@date-last-updated-at": "2025-12-19T08:46:24Z"
 }
