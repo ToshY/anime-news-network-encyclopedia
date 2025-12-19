@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Duel Masters LOST ~Bōkyaku no Taiyō~",
     "+@precision": "TV",
-    "+@generated-on": "2025-11-19T13:01:58Z",
+    "+@generated-on": "2025-12-19T13:03:33Z",
     "related-prev": [
         {
             "+@rel": "sequel of",
@@ -16,6 +16,25 @@
         }
     ],
     "info": [
+        {
+            "+@gid": "2916300707",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35075-2916300707.1765345675.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35075-2916300707.1765345675.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35075-2916300707.1765345675.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Duel Masters LOST ~Bōkyaku no Taiyō~",
             "+@gid": "2989011093",
@@ -34,13 +53,18 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2026",
+            "+content": "4",
+            "+@gid": "1237536825",
+            "+@type": "Number of episodes"
+        },
+        {
+            "+content": "2026-02-06",
             "+@gid": "2957309868",
             "+@type": "Vintage"
         },
         {
-            "+content": "Official Site",
-            "+@gid": "1357304725",
+            "+content": "「デュエル・マスターズ LOST」アニメ公式サイト",
+            "+@gid": "3009313054",
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://www.shopro.co.jp/anime/duelmasters_lost/"
@@ -53,8 +77,48 @@
     },
     "staff": [
         {
+            "+@gid": "3788282967",
+            "task": "Director",
+            "person": {
+                "+content": "Riki Fukushima",
+                "+@id": "48726"
+            }
+        },
+        {
+            "+@gid": "1098341658",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Yoichi Kato",
+                "+@id": "63399"
+            }
+        },
+        {
+            "+@gid": "3384884535",
+            "task": "Music",
+            "person": {
+                "+content": "Go Sakabe",
+                "+@id": "113039"
+            }
+        },
+        {
             "+@gid": "1879490620",
             "task": "Original creator",
+            "person": {
+                "+content": "Shigenobu Matsumoto",
+                "+@id": "19599"
+            }
+        },
+        {
+            "+@gid": "1749958538",
+            "task": "Original creator",
+            "person": {
+                "+content": "Yō Kanebayashi",
+                "+@id": "262284"
+            }
+        },
+        {
+            "+@gid": "1772943140",
+            "task": "Original story",
             "person": {
                 "+content": "Shigenobu Matsumoto",
                 "+@id": "19599"
@@ -67,8 +131,105 @@
                 "+content": "Yō Kanebayashi",
                 "+@id": "262284"
             }
+        },
+        {
+            "+@gid": "4027121472",
+            "task": "Character Design",
+            "person": {
+                "+content": "Chikara Hashizume",
+                "+@id": "208752"
+            }
+        },
+        {
+            "+@gid": "3498865570",
+            "task": "Art Director",
+            "person": {
+                "+content": "Seiko Akashi",
+                "+@id": "13818"
+            }
+        },
+        {
+            "+@gid": "1120398314",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Takeshi Takadera",
+                "+@id": "15047"
+            }
+        },
+        {
+            "+@gid": "2704365727",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Hiroyuki Tadokoro",
+                "+@id": "38812"
+            }
+        },
+        {
+            "+@gid": "2210797181",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Tomotaka Mogi",
+                "+@id": "138749"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3719710583",
+            "+@lang": "JA",
+            "role": "Kyōshirō Kokujō",
+            "person": {
+                "+content": "Daisuke Kishio",
+                "+@id": "1506"
+            }
+        },
+        {
+            "+@gid": "1158913494",
+            "+@lang": "JA",
+            "role": "Abyssbell = Jashin Emperor",
+            "person": {
+                "+content": "Wataru Hatano",
+                "+@id": "17481"
+            }
+        },
+        {
+            "+@gid": "2773609544",
+            "+@lang": "JA",
+            "role": "Win Kirifuda",
+            "person": {
+                "+content": "Shotaro Uzawa",
+                "+@id": "86497"
+            }
+        },
+        {
+            "+@gid": "3350404972",
+            "+@lang": "JA",
+            "role": "Niika Katori",
+            "person": {
+                "+content": "Hana Hishikawa",
+                "+@id": "207426"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "1615460519",
+            "task": "Animation Production",
+            "company": {
+                "+content": "J.C. Staff",
+                "+@id": "478"
+            }
+        },
+        {
+            "+@gid": "2301317995",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Shogakukan Music & Digital Entertainment",
+                "+@id": "18807"
+            }
         }
     ],
     "+@date-added": "2025-03-11T01:17:13Z",
-    "+@date-last-updated-at": "2025-11-19T13:02:01Z"
+    "+@date-last-modified-at": "2025-12-19T13:03:34Z",
+    "+@date-last-updated-at": "2025-12-19T13:03:34Z"
 }

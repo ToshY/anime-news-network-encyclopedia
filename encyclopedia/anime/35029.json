@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Black Torch",
     "+@precision": "TV",
-    "+@generated-on": "2025-11-19T13:01:58Z",
+    "+@generated-on": "2025-12-19T13:03:33Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "20345"
@@ -13,19 +13,24 @@
         {
             "+@gid": "1672615389",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35029-1672615389.1741488780.jpg",
-            "+@width": "141",
-            "+@height": "200",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35029-1672615389.1765425341.jpg",
+            "+@width": "200",
+            "+@height": "141",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35029-1672615389.1741488780.jpg",
-                    "+@width": "141",
-                    "+@height": "200"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35029-1672615389.1765425341.jpg",
+                    "+@width": "200",
+                    "+@height": "141"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35029-1672615389.1741488780.jpg",
-                    "+@width": "345",
-                    "+@height": "488"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35029-1672615389.1765425341.jpg",
+                    "+@width": "500",
+                    "+@height": "353"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A35029-1672615389.1765425341.jpg",
+                    "+@width": "600",
+                    "+@height": "424"
                 }
             ]
         },
@@ -50,6 +55,11 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "2026-07",
+            "+@gid": "1540754106",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ『BLACK TORCH』公式サイト",
             "+@gid": "3306307042",
             "+@type": "Official website",
@@ -64,11 +74,18 @@
             "+@href": "https://blacktorch-anime.com/en/"
         }
     ],
-    "news": {
-        "+content": "<cite>Black Torch</cite> TV Anime Reveals Main Cast",
-        "+@datetime": "2025-07-06T00:06:45Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-07-05/black-torch-tv-anime-reveals-main-cast/.226360"
-    },
+    "news": [
+        {
+            "+content": "<cite>Black Torch</cite> TV Anime Reveals Main Cast",
+            "+@datetime": "2025-07-06T00:06:45Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-05/black-torch-tv-anime-reveals-main-cast/.226360"
+        },
+        {
+            "+content": "<cite>Black Torch</cite> Anime's 1st Main Promo Video Reveals July Premiere",
+            "+@datetime": "2025-12-11T03:39:26Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-10/black-torch-anime-1st-main-promo-video-reveals-july-premiere/.231959"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3235968635",
@@ -202,5 +219,6 @@
         }
     },
     "+@date-added": "2025-03-08T21:52:33Z",
-    "+@date-last-updated-at": "2025-11-19T13:02:01Z"
+    "+@date-last-modified-at": "2025-12-19T13:03:34Z",
+    "+@date-last-updated-at": "2025-12-19T13:03:34Z"
 }
