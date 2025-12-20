@@ -4,15 +4,21 @@
     "+@type": "movie",
     "+@name": "Eiga Crayon Shin-chan Chō Karei! Shakunetsu no Kasukabe Dancers",
     "+@precision": "movie 33",
-    "+@generated-on": "2025-11-20T01:33:28Z",
+    "+@generated-on": "2025-12-20T02:16:44Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "30999"
     },
-    "related-next": {
-        "+@id": "37363",
-        "+@rel": "adaptation"
-    },
+    "related-next": [
+        {
+            "+@id": "37363",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "38126",
+            "+@rel": "sequel"
+        }
+    ],
     "info": [
         {
             "+@gid": "3657048729",
@@ -315,6 +321,6 @@
         }
     ],
     "+@date-added": "2024-12-14T05:53:06Z",
-    "+@date-last-modified-at": "2025-11-20T02:13:51Z",
-    "+@date-last-updated-at": "2025-11-20T02:13:51Z"
+    "+@date-last-modified-at": "2025-12-20T02:16:46Z",
+    "+@date-last-updated-at": "2025-12-20T02:16:46Z"
 }
