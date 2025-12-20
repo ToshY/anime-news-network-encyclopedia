@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Himitsu no AiPri: Ring-hen",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-11-20T04:32:48Z",
+    "+@generated-on": "2025-12-20T04:41:46Z",
     "related-prev": [
         {
             "+@rel": "sequel of",
@@ -15,6 +15,10 @@
             "+@id": "34715"
         }
     ],
+    "related-next": {
+        "+@id": "38080",
+        "+@rel": "related"
+    },
     "info": [
         {
             "+@gid": "751006939",
@@ -46,6 +50,11 @@
             "+@gid": "1560630035",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "idols",
+            "+@gid": "1775622622",
+            "+@type": "Themes"
         },
         {
             "+content": "2025-04-06",
@@ -322,6 +331,38 @@
             "title": {
                 "+content": "A Blooming AiPri Contest",
                 "+@gid": "2419792222",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "85",
+            "title": {
+                "+content": "Our Courage",
+                "+@gid": "758953773",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "86",
+            "title": {
+                "+content": "Quartet Star Has Returned",
+                "+@gid": "1454996898",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "87",
+            "title": {
+                "+content": "Himari's Mom's Secret",
+                "+@gid": "1813895194",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "88",
+            "title": {
+                "+content": "The Secret of the Ring",
+                "+@gid": "3055516408",
                 "+@lang": "EN"
             }
         }
@@ -639,7 +680,7 @@
             "+@gid": "1755328460",
             "task": "Original Character Design",
             "person": {
-                "+content": "Yumi Nashimoto",
+                "+content": "Hiromi Nashimoto",
                 "+@id": "208974"
             }
         },
@@ -671,7 +712,7 @@
             "+@gid": "2674972408",
             "task": "Cgi Director",
             "person": {
-                "+content": "Satoshi Yanagawa",
+                "+content": "Satoru Yanagawa",
                 "+@id": "79520"
             }
         }
@@ -1147,6 +1188,6 @@
         }
     ],
     "+@date-added": "2024-11-16T19:34:25Z",
-    "+@date-last-modified-at": "2025-11-20T04:36:53Z",
-    "+@date-last-updated-at": "2025-11-20T04:36:53Z"
+    "+@date-last-modified-at": "2025-12-20T04:41:48Z",
+    "+@date-last-updated-at": "2025-12-20T04:41:48Z"
 }
