@@ -4,8 +4,27 @@
     "+@type": "TV",
     "+@name": "Dark Machine the Animation",
     "+@precision": "TV",
-    "+@generated-on": "2025-11-20T16:05:53Z",
+    "+@generated-on": "2025-12-20T20:33:14Z",
     "info": [
+        {
+            "+@gid": "1303984313",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33020-1303984313.1763904562.jpg",
+            "+@width": "143",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33020-1303984313.1763904562.jpg",
+                    "+@width": "143",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33020-1303984313.1763904562.jpg",
+                    "+@width": "430",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Dark Machine the Animation",
             "+@gid": "749603223",
@@ -21,13 +40,32 @@
             "+content": "mecha",
             "+@gid": "2785476892",
             "+@type": "Themes"
+        },
+        {
+            "+content": "2026",
+            "+@gid": "2920355967",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ「DARK MACHINE」公式サイト",
+            "+@gid": "1558647459",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://www.fujitv.co.jp/darkmachine_anime/"
         }
     ],
-    "news": {
-        "+content": "<cite>Dark Machine</cite> Mecha Game/Anime Project Debuts Anime Pilot Trailer",
-        "+@datetime": "2024-07-28T05:28:48Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-07-28/dark-machine-mecha-game-anime-project-debuts-anime-pilot-trailer/.213653"
-    },
+    "news": [
+        {
+            "+content": "<cite>Dark Machine</cite> Mecha Game/Anime Project Debuts Anime Pilot Trailer",
+            "+@datetime": "2024-07-28T05:28:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-07-28/dark-machine-mecha-game-anime-project-debuts-anime-pilot-trailer/.213653"
+        },
+        {
+            "+content": "<cite>Dark Machine the Animation</cite> Series Unveils Cast, Staff, 2026 Debut",
+            "+@datetime": "2025-11-23T07:49:40Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-23/dark-machine-the-animation-series-unveils-cast-staff-2026-debut/.231314"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2237359949",
@@ -35,6 +73,38 @@
             "person": {
                 "+content": "Kazumi Terada",
                 "+@id": "171530"
+            }
+        },
+        {
+            "+@gid": "1651966853",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Tatsuhiko Urahata",
+                "+@id": "7202"
+            }
+        },
+        {
+            "+@gid": "2076975731",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Takaaki Suzuki",
+                "+@id": "86830"
+            }
+        },
+        {
+            "+@gid": "2986547523",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Satohito Sata",
+                "+@id": "193088"
+            }
+        },
+        {
+            "+@gid": "1831310755",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Atsuo Ishino",
+                "+@id": "259429"
             }
         },
         {
@@ -54,11 +124,155 @@
             }
         },
         {
+            "+@gid": "1788103572",
+            "task": "Script",
+            "person": {
+                "+content": "Satohito Sata",
+                "+@id": "193088"
+            }
+        },
+        {
             "+@gid": "2208442035",
             "task": "Script",
             "person": {
                 "+content": "Atsuo Ishino",
                 "+@id": "259429"
+            }
+        },
+        {
+            "+@gid": "1900768552",
+            "task": "Music",
+            "person": {
+                "+content": "Sugizo",
+                "+@id": "151818"
+            }
+        },
+        {
+            "+@gid": "1931442067",
+            "task": "Character Design",
+            "person": {
+                "+content": "Kō Yoshinari",
+                "+@id": "30364"
+            }
+        },
+        {
+            "+@gid": "2571116952",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yusuke Ikeda",
+                "+@id": "64227"
+            }
+        },
+        {
+            "+@gid": "983484950",
+            "task": "Art Director",
+            "person": {
+                "+content": "Hiromi Tateiwa",
+                "+@id": "264595"
+            }
+        },
+        {
+            "+@gid": "1751124923",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Hideki Itō",
+                "+@id": "15218"
+            }
+        },
+        {
+            "+@gid": "2858630092",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yumi Kuroiwa",
+                "+@id": "49739"
+            }
+        },
+        {
+            "+@gid": "2129881339",
+            "task": "Mechanical design",
+            "person": {
+                "+content": "Hidetaka Tenjin",
+                "+@id": "14112"
+            }
+        },
+        {
+            "+@gid": "2323426047",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Takeshi Takadera",
+                "+@id": "15047"
+            }
+        },
+        {
+            "+@gid": "1587489251",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Akira Inami",
+                "+@id": "130188"
+            }
+        },
+        {
+            "+@gid": "3147261242",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Naoko Tanaka",
+                "+@id": "148903"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1814893245",
+            "+@lang": "JA",
+            "role": "Rudora",
+            "person": {
+                "+content": "Miyuki Sawashiro",
+                "+@id": "5735"
+            }
+        },
+        {
+            "+@gid": "1945606998",
+            "+@lang": "JA",
+            "role": "Ajima",
+            "person": {
+                "+content": "Yūichi Nakamura",
+                "+@id": "15878"
+            }
+        },
+        {
+            "+@gid": "3511869916",
+            "+@lang": "JA",
+            "role": "Kairi",
+            "person": {
+                "+content": "Kenshō Ono",
+                "+@id": "33692"
+            }
+        },
+        {
+            "+@gid": "3155788883",
+            "+@lang": "JA",
+            "role": "Shinn",
+            "person": {
+                "+content": "Kōki Uchiyama",
+                "+@id": "56091"
+            }
+        },
+        {
+            "+@gid": "1850103107",
+            "+@lang": "JA",
+            "role": "Isana",
+            "person": {
+                "+content": "Saya Aizawa",
+                "+@id": "154564"
+            }
+        },
+        {
+            "+@gid": "2433271559",
+            "+@lang": "JA",
+            "role": "Bran",
+            "person": {
+                "+content": "Riho Sugiyama",
+                "+@id": "156407"
             }
         }
     ],
@@ -71,5 +285,6 @@
         }
     },
     "+@date-added": "2024-07-28T17:01:34Z",
-    "+@date-last-updated-at": "2025-11-20T16:43:53Z"
+    "+@date-last-modified-at": "2025-12-20T20:33:15Z",
+    "+@date-last-updated-at": "2025-12-20T20:33:15Z"
 }
