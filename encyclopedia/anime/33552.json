@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "May I Ask for One Final Thing?",
     "+@precision": "TV",
-    "+@generated-on": "2025-11-20T13:00:32Z",
+    "+@generated-on": "2025-12-20T16:38:50Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "33550"
@@ -130,8 +130,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "8.2997"
+        "+@nb_votes": "30",
+        "+@weighted_score": "7.4882",
+        "+@bayesian_score": "7.48345"
     },
     "news": [
         {
@@ -217,6 +218,14 @@
             }
         },
         {
+            "+@gid": "3014027935",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takuya Satō",
+                "+@id": "593"
+            }
+        },
+        {
             "+@gid": "2787195702",
             "task": "Storyboard",
             "person": {
@@ -262,6 +271,14 @@
             "person": {
                 "+content": "Hayato Sakoda",
                 "+@id": "178650"
+            }
+        },
+        {
+            "+@gid": "1457416567",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Akira Odama",
+                "+@id": "249608"
             }
         },
         {
@@ -321,6 +338,22 @@
             }
         },
         {
+            "+@gid": "2966118244",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yuuichi Satou",
+                "+@id": "243559"
+            }
+        },
+        {
+            "+@gid": "1964809999",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Akira Odama",
+                "+@id": "249608"
+            }
+        },
+        {
             "+@gid": "3344513322",
             "task": "Unit Director",
             "person": {
@@ -377,6 +410,14 @@
             }
         },
         {
+            "+@gid": "2893930755",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Masahiro Emoto",
+                "+@id": "18840"
+            }
+        },
+        {
             "+@gid": "2847135509",
             "task": "Chief Animation Director",
             "person": {
@@ -390,6 +431,14 @@
             "person": {
                 "+content": "Rie Furuya",
                 "+@id": "79012"
+            }
+        },
+        {
+            "+@gid": "1216881832",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Hiromi Ariga",
+                "+@id": "81202"
             }
         },
         {
@@ -975,6 +1024,15 @@
             }
         },
         {
+            "+@gid": "624746542",
+            "+@lang": "FR",
+            "role": "Capitaine Paragas",
+            "person": {
+                "+content": "Laurent Vernin",
+                "+@id": "53849"
+            }
+        },
+        {
             "+@gid": "2515626745",
             "+@lang": "FR",
             "role": "Scarlet El Vandimion",
@@ -990,6 +1048,15 @@
             "person": {
                 "+content": "Emilie Guillaume",
                 "+@id": "120794"
+            }
+        },
+        {
+            "+@gid": "2549228595",
+            "+@lang": "FR",
+            "role": "Alflame Rare Vankish",
+            "person": {
+                "+content": "Pierre Le Bec",
+                "+@id": "120795"
             }
         },
         {
@@ -1044,6 +1111,15 @@
             "person": {
                 "+content": "Jonathan Simon",
                 "+@id": "176972"
+            }
+        },
+        {
+            "+@gid": "248342214",
+            "+@lang": "FR",
+            "role": "Dios Westwood",
+            "person": {
+                "+content": "Matteo Marchese",
+                "+@id": "214002"
             }
         },
         {
@@ -1112,7 +1188,7 @@
         {
             "+@gid": "2348543964",
             "+@lang": "JA",
-            "role": "Jin",
+            "role": "Jinn",
             "person": {
                 "+content": "Shun Horie",
                 "+@id": "141454"
@@ -1198,6 +1274,204 @@
                 "+content": "Jin Ogasawara",
                 "+@id": "190896"
             }
+        },
+        {
+            "+@gid": "3570533921",
+            "+@lang": "PT",
+            "role": "Michelin",
+            "person": {
+                "+content": "Carlos Seidl",
+                "+@id": "49562"
+            }
+        },
+        {
+            "+@gid": "1102603663",
+            "+@lang": "PT",
+            "role": "Papa Sargon",
+            "person": {
+                "+content": "Luiz Carlos Persy",
+                "+@id": "55587"
+            }
+        },
+        {
+            "+@gid": "3471754794",
+            "+@lang": "PT",
+            "role": "Leonardo El Vandimion",
+            "person": {
+                "+content": "Robson Kumode",
+                "+@id": "55664"
+            }
+        },
+        {
+            "+@gid": "2752532141",
+            "+@lang": "PT",
+            "role": "Chronoa",
+            "person": {
+                "+content": "Thiago Fagundes",
+                "+@id": "66487"
+            }
+        },
+        {
+            "+@gid": "2166875442",
+            "+@lang": "PT",
+            "role": "Sigurd Forgrave",
+            "person": {
+                "+content": "Lucas Gama",
+                "+@id": "125110"
+            }
+        },
+        {
+            "+@gid": "2105831281",
+            "+@lang": "PT",
+            "role": "Scarlet El Vandimion",
+            "person": {
+                "+content": "Carol Valença",
+                "+@id": "132064"
+            }
+        },
+        {
+            "+@gid": "2092825408",
+            "+@lang": "PT",
+            "role": "Dios Westwood",
+            "person": {
+                "+content": "Wirley Contaifer",
+                "+@id": "142594"
+            }
+        },
+        {
+            "+@gid": "1650541080",
+            "+@lang": "PT",
+            "role": "Paragas",
+            "person": {
+                "+content": "Airam Pinheiro",
+                "+@id": "149371"
+            }
+        },
+        {
+            "+@gid": "2063385056",
+            "+@lang": "PT",
+            "role": "Alflamme Rare Vanklish",
+            "person": {
+                "+content": "Daniel Ávila",
+                "+@id": "149404"
+            }
+        },
+        {
+            "+@gid": "1834705820",
+            "+@lang": "PT",
+            "role": "Jinn",
+            "person": {
+                "+content": "Pablo Argôllo",
+                "+@id": "150591"
+            }
+        },
+        {
+            "+@gid": "2861437270",
+            "+@lang": "PT",
+            "role": "Kyle von Paristan",
+            "person": {
+                "+content": "Thiago Machado",
+                "+@id": "152045"
+            }
+        },
+        {
+            "+@gid": "2260693893",
+            "+@lang": "PT",
+            "role": "Cervantes",
+            "person": {
+                "+content": "Hercules Franco",
+                "+@id": "154424"
+            }
+        },
+        {
+            "+@gid": "2222215749",
+            "+@lang": "PT",
+            "role": "Rosalia Rae Madeleine",
+            "person": {
+                "+content": "Bia Menezes",
+                "+@id": "155744"
+            }
+        },
+        {
+            "+@gid": "3729211956",
+            "+@lang": "PT",
+            "role": "Avelyn",
+            "person": {
+                "+content": "Cafi Balloussier",
+                "+@id": "173058"
+            }
+        },
+        {
+            "+@gid": "2719076439",
+            "+@lang": "PT",
+            "role": "Envi Mel Champagne",
+            "person": {
+                "+content": "Naiaama Belle",
+                "+@id": "193234"
+            }
+        },
+        {
+            "+@gid": "2761426261",
+            "+@lang": "PT",
+            "role": "Diana",
+            "person": {
+                "+content": "Carolina Iecker",
+                "+@id": "193252"
+            }
+        },
+        {
+            "+@gid": "2368648905",
+            "+@lang": "PT",
+            "role": "Terenazza Hopkins",
+            "person": {
+                "+content": "Thati Carvalho",
+                "+@id": "206922"
+            }
+        },
+        {
+            "+@gid": "4097063875",
+            "+@lang": "PT",
+            "role": "Julius criança",
+            "person": {
+                "+content": "Nicolas Mattos",
+                "+@id": "207030"
+            }
+        },
+        {
+            "+@gid": "1627132737",
+            "+@lang": "PT",
+            "role": "Julius von Paristan",
+            "person": {
+                "+content": "Giovane Crema",
+                "+@id": "218834"
+            }
+        },
+        {
+            "+@gid": "2641437608",
+            "+@lang": "PT",
+            "role": "Scarlet criança",
+            "person": {
+                "+content": "Rafinha Lima",
+                "+@id": "226663"
+            }
+        },
+        {
+            "+@gid": "1716233942",
+            "+@lang": "PT",
+            "role": "Nanaka",
+            "person": {
+                "+content": "Luke Back",
+                "+@id": "291112"
+            }
+        },
+        {
+            "+@gid": "394858731",
+            "+@lang": "PT",
+            "role": "Baroque",
+            "person": {
+                "+content": "Welsey Santana",
+                "+@id": "291163"
+            }
         }
     ],
     "credit": [
@@ -1267,6 +1541,6 @@
         }
     ],
     "+@date-added": "2024-09-16T05:46:21Z",
-    "+@date-last-modified-at": "2025-11-20T13:00:35Z",
-    "+@date-last-updated-at": "2025-11-20T13:00:35Z"
+    "+@date-last-modified-at": "2025-12-20T16:38:53Z",
+    "+@date-last-updated-at": "2025-12-20T16:38:53Z"
 }
