@@ -4,10 +4,14 @@
     "+@type": "movie",
     "+@name": "Eiga Doraemon: Nobita no Esekai Monogatari",
     "+@precision": "movie",
-    "+@generated-on": "2025-11-20T08:43:59Z",
+    "+@generated-on": "2025-12-20T12:58:18Z",
     "related-prev": {
-        "+@rel": "related to",
-        "+@id": "1317"
+        "+@rel": "sequel of",
+        "+@id": "28934"
+    },
+    "related-next": {
+        "+@id": "37818",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -47,6 +51,12 @@
             "+@lang": "IT"
         },
         {
+            "+content": "Doraemon: Nobita's Art World Tales",
+            "+@gid": "2214833834",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "映画ドラえもん のび太の絵世界物語",
             "+@gid": "1094617882",
             "+@type": "Alternative title",
@@ -62,6 +72,21 @@
             "+@type": "Premiere date"
         },
         {
+            "+content": "\"Yume o Kanaete Doraemon\" (夢をかなえてドラえもん) by mao",
+            "+@gid": "3880933135",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Sketch\" (スケッチ) by Aimyon",
+            "+@gid": "2391524115",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Kimi no Yume o Kikinagara, Boku wa Waraeru Idea o!\" (君の夢を聞きながら、僕は笑えるアイデアを!) by Aimyon",
+            "+@gid": "1790506721",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "『映画ドラえもん のび太の絵世界物語』公式サイト",
             "+@gid": "2737430191",
             "+@type": "Official website",
@@ -71,7 +96,7 @@
     ],
     "ratings": {
         "+@nb_votes": "2",
-        "+@weighted_score": "7.5054"
+        "+@weighted_score": "7.5057"
     },
     "news": [
         {
@@ -556,18 +581,18 @@
             }
         },
         {
-            "+@gid": "1721147730",
+            "+@gid": "2126593934",
             "+@lang": "JA",
-            "role": "Suneo",
+            "role": "Suneo Honekawa",
             "person": {
                 "+content": "Tomokazu Seki",
                 "+@id": "529"
             }
         },
         {
-            "+@gid": "4150686696",
+            "+@gid": "2371510063",
             "+@lang": "JA",
-            "role": "Shizuka",
+            "role": "Shizuka Minamoto",
             "person": {
                 "+content": "Yumi Kakazu",
                 "+@id": "778"
@@ -583,9 +608,27 @@
             }
         },
         {
-            "+@gid": "1370225802",
+            "+@gid": "1130741624",
             "+@lang": "JA",
-            "role": "Gian",
+            "role": "Esael",
+            "person": {
+                "+content": "Kōji Ishii",
+                "+@id": "5888"
+            }
+        },
+        {
+            "+@gid": "1748994332",
+            "+@lang": "JA",
+            "role": "Sodoro",
+            "person": {
+                "+content": "Kazuhiro Yamaji",
+                "+@id": "10484"
+            }
+        },
+        {
+            "+@gid": "3402939227",
+            "+@lang": "JA",
+            "role": "Takeshi Gōda",
             "person": {
                 "+content": "Subaru Kimura",
                 "+@id": "39856"
@@ -601,9 +644,9 @@
             }
         },
         {
-            "+@gid": "3138418788",
+            "+@gid": "2235127260",
             "+@lang": "JA",
-            "role": "Nobita",
+            "role": "Nobita Nobi",
             "person": {
                 "+content": "Megumi Ōhara",
                 "+@id": "63125"
@@ -616,15 +659,6 @@
             "person": {
                 "+content": "Misaki Kuno",
                 "+@id": "85915"
-            }
-        },
-        {
-            "+@gid": "2576199537",
-            "+@lang": "JA",
-            "role": "Critic",
-            "person": {
-                "+content": "Takeshi Tomizawa",
-                "+@id": "104919"
             }
         },
         {
@@ -715,6 +749,6 @@
         }
     ],
     "+@date-added": "2024-09-26T23:00:02Z",
-    "+@date-last-modified-at": "2025-11-20T08:44:00Z",
-    "+@date-last-updated-at": "2025-11-20T08:44:00Z"
+    "+@date-last-modified-at": "2025-12-20T12:58:20Z",
+    "+@date-last-updated-at": "2025-12-20T12:58:20Z"
 }

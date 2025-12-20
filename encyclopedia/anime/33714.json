@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "My Hero Academia FINAL SEASON",
     "+@precision": "TV 8",
-    "+@generated-on": "2025-11-20T08:43:58Z",
+    "+@generated-on": "2025-12-20T12:58:17Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "27621"
+    },
+    "related-next": {
+        "+@id": "38146",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -84,6 +88,11 @@
             "+@type": "Themes"
         },
         {
+            "+content": "superhero",
+            "+@gid": "2474640166",
+            "+@type": "Themes"
+        },
+        {
             "+content": "superpowers",
             "+@gid": "758058939",
             "+@type": "Themes"
@@ -102,6 +111,11 @@
             "+content": "23",
             "+@gid": "804489951",
             "+@type": "Running time"
+        },
+        {
+            "+content": "11",
+            "+@gid": "3300497770",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2025-10-04",
@@ -127,8 +141,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "7.8761"
+        "+@nb_votes": "50",
+        "+@weighted_score": "8.4655",
+        "+@bayesian_score": "8.2606"
     },
     "episode": [
         {
@@ -190,8 +205,32 @@
         {
             "+@num": "167",
             "title": {
-                "+content": "Izuku Midoriya: Rising",
+                "+content": "Izuku Midoriya Rising",
                 "+@gid": "2050211062",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "168",
+            "title": {
+                "+content": "Epilogue, The Hellish Todoroki Family: Final",
+                "+@gid": "1750154559",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "169",
+            "title": {
+                "+content": "The Girl Who Loves Smiles",
+                "+@gid": "1092436628",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "170",
+            "title": {
+                "+content": "My Hero Academia",
+                "+@gid": "920414234",
                 "+@lang": "EN"
             }
         }
@@ -276,6 +315,26 @@
             "+content": "Japanese Animation TV Ranking, November 3-9",
             "+@datetime": "2025-11-15T13:15:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-11-15/japanese-animation-tv-ranking-november-3-9/.231030"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, November 10-16",
+            "+@datetime": "2025-11-22T09:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-22/japanese-animation-tv-ranking-november-10-16/.231293"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, November 17-23",
+            "+@datetime": "2025-11-30T20:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-30/japanese-animation-tv-ranking-november-17-23/.231510"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, November 24-30",
+            "+@datetime": "2025-12-06T18:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-06/japanese-animation-tv-ranking-november-24-30/.231756"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, December 1-7",
+            "+@datetime": "2025-12-13T14:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-13/japanese-animation-tv-ranking-december-1-7/.232007"
         }
     ],
     "staff": [
@@ -309,6 +368,14 @@
             "person": {
                 "+content": "Yōsuke Kuroda",
                 "+@id": "1365"
+            }
+        },
+        {
+            "+@gid": "3151043387",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kenji Nagasaki",
+                "+@id": "23846"
             }
         },
         {
@@ -384,6 +451,14 @@
             }
         },
         {
+            "+@gid": "2271553410",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Naomi Nakayama",
+                "+@id": "58492"
+            }
+        },
+        {
             "+@gid": "2435149199",
             "task": "Episode Director",
             "person": {
@@ -413,6 +488,14 @@
             "person": {
                 "+content": "Michiru Itabisashi",
                 "+@id": "133791"
+            }
+        },
+        {
+            "+@gid": "2489277327",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hanako Ueda",
+                "+@id": "164559"
             }
         },
         {
@@ -520,6 +603,14 @@
             }
         },
         {
+            "+@gid": "817422042",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tsunenori Saitō",
+                "+@id": "13620"
+            }
+        },
+        {
             "+@gid": "1439036561",
             "task": "Animation Director",
             "person": {
@@ -533,6 +624,14 @@
             "person": {
                 "+content": "Atsushi Hasebe",
                 "+@id": "21669"
+            }
+        },
+        {
+            "+@gid": "1094581476",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nobuhiko Kawakami",
+                "+@id": "36453"
             }
         },
         {
@@ -683,6 +782,60 @@
             }
         },
         {
+            "+@gid": "2471724949",
+            "+@lang": "EN",
+            "role": "Eijiro Kirishima",
+            "person": {
+                "+content": "Justin Cook",
+                "+@id": "1407"
+            }
+        },
+        {
+            "+@gid": "1992404287",
+            "+@lang": "EN",
+            "role": "All For One",
+            "person": {
+                "+content": "John Swasey",
+                "+@id": "2525"
+            }
+        },
+        {
+            "+@gid": "2805772211",
+            "+@lang": "EN",
+            "role": "Shoto Todoroki",
+            "person": {
+                "+content": "David Matranga",
+                "+@id": "9293"
+            }
+        },
+        {
+            "+@gid": "1898761359",
+            "+@lang": "EN",
+            "role": "Ochaco Uraraka",
+            "person": {
+                "+content": "Luci Christian",
+                "+@id": "12493"
+            }
+        },
+        {
+            "+@gid": "3157476393",
+            "+@lang": "EN",
+            "role": "Momo Yaoyorozu",
+            "person": {
+                "+content": "Colleen Clinkenbeard",
+                "+@id": "20342"
+            }
+        },
+        {
+            "+@gid": "797257335",
+            "+@lang": "EN",
+            "role": "Mina Ashido",
+            "person": {
+                "+content": "Caitlin Glass",
+                "+@id": "29271"
+            }
+        },
+        {
             "+@gid": "2487162099",
             "+@lang": "EN",
             "role": "Yuga Aoyama",
@@ -701,12 +854,30 @@
             }
         },
         {
+            "+@gid": "1608799142",
+            "+@lang": "EN",
+            "role": "Tenya Iida",
+            "person": {
+                "+content": "J. Michael Tatum",
+                "+@id": "65527"
+            }
+        },
+        {
             "+@gid": "350839874",
             "+@lang": "EN",
             "role": "Denki Kaminari",
             "person": {
                 "+content": "Kyle Phillips",
                 "+@id": "72635"
+            }
+        },
+        {
+            "+@gid": "3212242574",
+            "+@lang": "EN",
+            "role": "Shota Aizawa",
+            "person": {
+                "+content": "Christopher Wehkamp",
+                "+@id": "112286"
             }
         },
         {
@@ -944,12 +1115,30 @@
             }
         },
         {
+            "+@gid": "2488255203",
+            "+@lang": "JA",
+            "role": "Minoru Mineta",
+            "person": {
+                "+content": "Ryō Hirohashi",
+                "+@id": "8851"
+            }
+        },
+        {
             "+@gid": "1915661790",
             "+@lang": "JA",
             "role": "All Might",
             "person": {
                 "+content": "Kenta Miyake",
                 "+@id": "10398"
+            }
+        },
+        {
+            "+@gid": "1560618145",
+            "+@lang": "JA",
+            "role": "Mina Ashido",
+            "person": {
+                "+content": "Eri Kitamura",
+                "+@id": "13838"
             }
         },
         {
@@ -980,6 +1169,15 @@
             }
         },
         {
+            "+@gid": "257782300",
+            "+@lang": "JA",
+            "role": "Hanta Sero",
+            "person": {
+                "+content": "Kiyotaka Furushima",
+                "+@id": "23816"
+            }
+        },
+        {
             "+@gid": "3639608070",
             "+@lang": "JA",
             "role": "Shota Aizawa",
@@ -998,12 +1196,39 @@
             }
         },
         {
+            "+@gid": "2909882646",
+            "+@lang": "JA",
+            "role": "Kyoka Jiro",
+            "person": {
+                "+content": "Kei Shindō",
+                "+@id": "51932"
+            }
+        },
+        {
+            "+@gid": "2618178466",
+            "+@lang": "JA",
+            "role": "Fumikage Tokoyami",
+            "person": {
+                "+content": "Yoshimasa Hosoya",
+                "+@id": "53773"
+            }
+        },
+        {
             "+@gid": "1687777949",
             "+@lang": "JA",
             "role": "Tomura Shigaraki",
             "person": {
                 "+content": "Kōki Uchiyama",
                 "+@id": "56091"
+            }
+        },
+        {
+            "+@gid": "2356652697",
+            "+@lang": "JA",
+            "role": "Shoto Todoroki",
+            "person": {
+                "+content": "Yūki Kaji",
+                "+@id": "58051"
             }
         },
         {
@@ -1016,6 +1241,33 @@
             }
         },
         {
+            "+@gid": "1940783420",
+            "+@lang": "JA",
+            "role": "Tsuyu Asui",
+            "person": {
+                "+content": "Aoi Yūki",
+                "+@id": "68107"
+            }
+        },
+        {
+            "+@gid": "2185515100",
+            "+@lang": "JA",
+            "role": "Mezo Shoji",
+            "person": {
+                "+content": "Masakazu Nishida",
+                "+@id": "85167"
+            }
+        },
+        {
+            "+@gid": "1648171749",
+            "+@lang": "JA",
+            "role": "Ochaco Uraraka",
+            "person": {
+                "+content": "Ayane Sakura",
+                "+@id": "94383"
+            }
+        },
+        {
             "+@gid": "3551859682",
             "+@lang": "JA",
             "role": "Denki Kaminari",
@@ -1025,12 +1277,39 @@
             }
         },
         {
+            "+@gid": "1772905697",
+            "+@lang": "JA",
+            "role": "Eijiro Kirishima",
+            "person": {
+                "+content": "Toshiki Masuda",
+                "+@id": "99623"
+            }
+        },
+        {
+            "+@gid": "1579656954",
+            "+@lang": "JA",
+            "role": "Tenya Iida",
+            "person": {
+                "+content": "Kaito Ishikawa",
+                "+@id": "114052"
+            }
+        },
+        {
             "+@gid": "2875925555",
             "+@lang": "JA",
             "role": "Izuku Midoriya",
             "person": {
                 "+content": "Daiki Yamashita",
                 "+@id": "119386"
+            }
+        },
+        {
+            "+@gid": "3270089321",
+            "+@lang": "JA",
+            "role": "Koji Koda",
+            "person": {
+                "+content": "Takuma Nagatsuka",
+                "+@id": "131726"
             }
         },
         {
@@ -1061,6 +1340,6 @@
         }
     },
     "+@date-added": "2024-10-12T08:14:13Z",
-    "+@date-last-modified-at": "2025-11-20T08:44:00Z",
-    "+@date-last-updated-at": "2025-11-20T08:44:00Z"
+    "+@date-last-modified-at": "2025-12-20T12:58:20Z",
+    "+@date-last-updated-at": "2025-12-20T12:58:20Z"
 }

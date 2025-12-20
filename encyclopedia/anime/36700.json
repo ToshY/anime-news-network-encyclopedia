@@ -4,7 +4,7 @@
     "+@type": "special",
     "+@name": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
     "+@precision": "special",
-    "+@generated-on": "2025-11-20T08:43:58Z",
+    "+@generated-on": "2025-12-20T12:58:17Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26033"
@@ -40,21 +40,203 @@
             "+@gid": "1118754290",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "1072712012",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "1960224143",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "2025-12-31",
+            "+@gid": "1980984672",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Abunai Kioku\" (アブナイキオク; Dangerous Memory) by Masayuki Suzuki feat. Aoi Koga",
+            "+@gid": "1704119460",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "『かぐや様は告らせたい 大人への階段』公式サイト",
+            "+@gid": "3184040568",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://kaguya.love/"
         }
     ],
-    "news": {
-        "+content": "<i>Kaguya-sama: Love is War</i> Manga Gets New TV Special",
-        "+@datetime": "2025-06-22T14:37:57Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-06-22/kaguya-sama-love-is-war-manga-gets-new-tv-special/.225894"
-    },
-    "staff": {
-        "+@gid": "1534677568",
-        "task": "Original creator",
-        "person": {
-            "+content": "Aka Akasaka",
-            "+@id": "164360"
+    "news": [
+        {
+            "+content": "<i>Kaguya-sama: Love is War</i> Manga Gets New TV Special",
+            "+@datetime": "2025-06-22T14:37:57Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-22/kaguya-sama-love-is-war-manga-gets-new-tv-special/.225894"
+        },
+        {
+            "+content": "<cite>Kaguya-sama: Love is War</cite> Anime Special's New Video Unveils Opening Song, December 31 Debut",
+            "+@datetime": "2025-12-09T10:57:59Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-09/kaguya-sama-love-is-war-anime-special-new-video-unveils-opening-song-december-31-debut/.231878"
+        }
+    ],
+    "staff": [
+        {
+            "+@gid": "1919521373",
+            "task": "Director",
+            "person": {
+                "+content": "Mamoru Hatakeyama",
+                "+@id": "107462"
+            }
+        },
+        {
+            "+@gid": "2569641355",
+            "task": "Music",
+            "person": {
+                "+content": "Kei Haneoka",
+                "+@id": "39610"
+            }
+        },
+        {
+            "+@gid": "1534677568",
+            "task": "Original creator",
+            "person": {
+                "+content": "Aka Akasaka",
+                "+@id": "164360"
+            }
+        },
+        {
+            "+@gid": "2582649623",
+            "task": "Character Design",
+            "person": {
+                "+content": "Yūko Yahiro",
+                "+@id": "75641"
+            }
+        },
+        {
+            "+@gid": "2233457628",
+            "task": "Art Director",
+            "person": {
+                "+content": "Risa Wakabayashi",
+                "+@id": "78156"
+            }
+        },
+        {
+            "+@gid": "1443935555",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Tetsuya Kawakami",
+                "+@id": "37596"
+            }
+        },
+        {
+            "+@gid": "1146738598",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Reina Iwasaki",
+                "+@id": "195964"
+            }
+        },
+        {
+            "+@gid": "586828897",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Jin Aketagawa",
+                "+@id": "8466"
+            }
+        },
+        {
+            "+@gid": "1748775992",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Yuki Kuribayashi",
+                "+@id": "98553"
+            }
+        },
+        {
+            "+@gid": "3247089210",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Kimiya Nobukawa",
+                "+@id": "156979"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1625751243",
+            "+@lang": "JA",
+            "role": "Narrator",
+            "person": {
+                "+content": "Yutaka Aoyama",
+                "+@id": "18713"
+            }
+        },
+        {
+            "+@gid": "741792220",
+            "+@lang": "JA",
+            "role": "Ai Hayasaka",
+            "person": {
+                "+content": "Yumiri Hanamori",
+                "+@id": "118609"
+            }
+        },
+        {
+            "+@gid": "2386287610",
+            "+@lang": "JA",
+            "role": "Miyuki Shirogane",
+            "person": {
+                "+content": "Makoto Furukawa",
+                "+@id": "123459"
+            }
+        },
+        {
+            "+@gid": "3287257913",
+            "+@lang": "JA",
+            "role": "Kaguya Shinomiya",
+            "person": {
+                "+content": "Aoi Koga",
+                "+@id": "140695"
+            }
+        },
+        {
+            "+@gid": "2259247364",
+            "+@lang": "JA",
+            "role": "Miko Iino",
+            "person": {
+                "+content": "Miyu Tomita",
+                "+@id": "145048"
+            }
+        },
+        {
+            "+@gid": "3512855238",
+            "+@lang": "JA",
+            "role": "Chika Fujiwara",
+            "person": {
+                "+content": "Konomi Kohara",
+                "+@id": "153781"
+            }
+        },
+        {
+            "+@gid": "2896669678",
+            "+@lang": "JA",
+            "role": "Yū Ishigami",
+            "person": {
+                "+content": "Ryōta Suzuki",
+                "+@id": "174131"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2347550924",
+        "task": "Animation Production",
+        "company": {
+            "+content": "A-1 Pictures",
+            "+@id": "9909"
         }
     },
     "+@date-added": "2025-06-22T19:41:02Z",
-    "+@date-last-updated-at": "2025-11-20T08:44:00Z"
+    "+@date-last-modified-at": "2025-12-20T12:58:20Z",
+    "+@date-last-updated-at": "2025-12-20T12:58:20Z"
 }
