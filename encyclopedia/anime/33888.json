@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Kaya-chan Isn't Scary",
     "+@precision": "TV",
-    "+@generated-on": "2025-11-20T04:36:52Z",
+    "+@generated-on": "2025-12-20T08:40:39Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28168"
@@ -53,13 +53,24 @@
             "+@type": "Genres"
         },
         {
-            "+content": "Kaya-chan is a notorious problem child in her kindergarten, but none of the adults know her secret--till Chie-sensei is put in charge and learns of Kaya-chan's hidden ability to see evil spirits and vanquish them with a punch. <em class=de-emphasized>(from manga)</em>",
+            "+content": "Kaya-chan is a notorious problem child in her kindergarten, but none of the adults know her secret--till Chie-sensei is put in charge and learns of Kaya-chan's hidden ability to see evil spirits and vanquish them with a punch. (from manga)",
+            "+@gid": "2413297869",
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026-01",
+            "+content": "2026-01-11",
             "+@gid": "449124878",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Maboroshi no Yukue\" (The Phantom's Destination) by Isekaijoucho",
+            "+@gid": "3175637381",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Playmour\" by SAKED and TAO feat. Azusa Tachibana",
+            "+@gid": "2371433297",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ『カヤちゃんはコワくない』公式サイト",
@@ -79,6 +90,21 @@
             "+content": "<cite>Kaya-chan Isn't Scary</cite> Anime Reveals January Debut, More Cast",
             "+@datetime": "2025-10-06T09:01:30Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-10-06/kaya-chan-isnt-scary-anime-reveals-january-debut-more-cast/.229662"
+        },
+        {
+            "+content": "<cite>Kaya-chan Isn't Scary</cite> Anime's 2nd Promo Video Unveils More Cast, Staff, Theme Song Artists, January 11 Debut",
+            "+@datetime": "2025-11-20T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-20/kaya-chan-isnt-scary-anime-2nd-promo-video-unveils-more-cast-staff-theme-song-artists-january-11-/.231234"
+        },
+        {
+            "+content": "<cite>Kaya-chan Isn't Scary</cite> Anime Announces 3 More Cast Members",
+            "+@datetime": "2025-12-10T12:16:21Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-10/kaya-chan-isnt-scary-anime-announces-3-more-cast-members/.231925"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Winter 2026 Season",
+            "+@datetime": "2025-12-16T18:21:55Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-16/crunchyroll-announces-release-schedule-for-winter-2026-season/.232156"
         }
     ],
     "staff": [
@@ -139,15 +165,58 @@
             }
         },
         {
+            "+@gid": "2157194405",
+            "task": "Art Director",
+            "person": {
+                "+content": "Ayumi Satō",
+                "+@id": "107647"
+            }
+        },
+        {
             "+@gid": "1308170182",
             "task": "Sound Director",
             "person": {
                 "+content": "Yukio Nagasaki",
                 "+@id": "3079"
             }
+        },
+        {
+            "+@gid": "2781142375",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Natsuki Yoshizawa",
+                "+@id": "242912"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "1172954233",
+            "+@lang": "JA",
+            "role": "Mutsu",
+            "person": {
+                "+content": "Yoshiko Sakakibara",
+                "+@id": "428"
+            }
+        },
+        {
+            "+@gid": "2904093787",
+            "+@lang": "JA",
+            "role": "Kaya's Dad",
+            "person": {
+                "+content": "Toshiyuki Morikawa",
+                "+@id": "692"
+            }
+        },
+        {
+            "+@gid": "2620140267",
+            "+@lang": "JA",
+            "role": "Kaya's Mom",
+            "person": {
+                "+content": "Mamiko Noto",
+                "+@id": "3166"
+            }
+        },
         {
             "+@gid": "1229689318",
             "+@lang": "JA",
@@ -158,12 +227,39 @@
             }
         },
         {
+            "+@gid": "2208428947",
+            "+@lang": "JA",
+            "role": "Nana",
+            "person": {
+                "+content": "Haruka Tomatsu",
+                "+@id": "63126"
+            }
+        },
+        {
+            "+@gid": "2155034395",
+            "+@lang": "JA",
+            "role": "Kenken",
+            "person": {
+                "+content": "Mutsumi Tamura",
+                "+@id": "70817"
+            }
+        },
+        {
             "+@gid": "2487436642",
             "+@lang": "JA",
             "role": "Chihiro Sensei",
             "person": {
                 "+content": "Shiori Izawa",
                 "+@id": "74850"
+            }
+        },
+        {
+            "+@gid": "4194291743",
+            "+@lang": "JA",
+            "role": "Saku-chan",
+            "person": {
+                "+content": "Misaki Kuno",
+                "+@id": "85915"
             }
         },
         {
@@ -194,6 +290,15 @@
             }
         },
         {
+            "+@gid": "507260722",
+            "+@lang": "JA",
+            "role": "Yuzu-chan",
+            "person": {
+                "+content": "Chiemi Tanaka",
+                "+@id": "146535"
+            }
+        },
+        {
             "+@gid": "1107307898",
             "+@lang": "JA",
             "role": "Kaya-chan",
@@ -212,6 +317,6 @@
         }
     },
     "+@date-added": "2024-11-01T03:19:05Z",
-    "+@date-last-modified-at": "2025-11-20T04:36:53Z",
-    "+@date-last-updated-at": "2025-11-20T04:36:53Z"
+    "+@date-last-modified-at": "2025-12-20T08:40:43Z",
+    "+@date-last-updated-at": "2025-12-20T08:40:43Z"
 }
