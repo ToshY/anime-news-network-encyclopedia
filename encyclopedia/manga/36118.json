@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Hoshokusha-kei Mahō Shōjo",
     "+@precision": "manga",
-    "+@generated-on": "2025-11-21T02:14:36Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "12369"
-    },
+    "+@generated-on": "2025-12-21T04:49:44Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "12369"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "38078"
+        }
+    ],
     "info": [
         {
             "+@gid": "2125618111",
@@ -45,6 +51,11 @@
             "+@gid": "1162230727",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "action",
+            "+@gid": "4075806073",
+            "+@type": "Genres"
         },
         {
             "+content": "magical girl",
@@ -91,5 +102,6 @@
         }
     ],
     "+@date-added": "2025-05-12T18:53:24Z",
-    "+@date-last-updated-at": "2025-11-21T02:14:38Z"
+    "+@date-last-modified-at": "2025-12-21T04:49:45Z",
+    "+@date-last-updated-at": "2025-12-21T04:49:45Z"
 }

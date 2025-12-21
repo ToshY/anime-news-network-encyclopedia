@@ -4,12 +4,36 @@
     "+@type": "TV",
     "+@name": "Mashle: Magic and Muscles",
     "+@precision": "TV 3",
-    "+@generated-on": "2025-11-21T02:14:37Z",
+    "+@generated-on": "2025-12-21T04:49:44Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28834"
     },
     "info": [
+        {
+            "+@gid": "2752876089",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32765-2752876089.1766214750.jpg",
+            "+@width": "142",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32765-2752876089.1766214750.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32765-2752876089.1766214750.jpg",
+                    "+@width": "425",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A32765-2752876089.1766214750.jpg",
+                    "+@width": "849",
+                    "+@height": "1200"
+                }
+            ]
+        },
         {
             "+content": "Mashle: Magic and Muscles",
             "+@gid": "1241957273",
@@ -17,7 +41,13 @@
             "+@lang": "EN"
         },
         {
-            "+content": "マッシュル-MASHLE-",
+            "+content": "MASHLE: Sanma Taisō Shinkakusha Saishū Shiken Hen",
+            "+@gid": "1149503937",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "マッシュル-MASHLE- 三魔対争神覚者最終試験編",
             "+@gid": "1832440807",
             "+@type": "Alternative title",
             "+@lang": "JA"
@@ -78,6 +108,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "2027",
+            "+@gid": "2805091708",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ『マッシュル-MASHLE-』公式サイト",
             "+@gid": "1025119212",
             "+@type": "Official website",
@@ -85,18 +120,117 @@
             "+@href": "https://mashle.pw/"
         }
     ],
-    "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "5"
+    "news": {
+        "+content": "<cite>Mashle: Magic and Muscles</cite> Anime's Sequel Confirmed as 3rd Season Airing in 2027",
+        "+@datetime": "2025-12-20T07:13:47Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-12-20/mashle-magic-and-muscles-anime-sequel-confirmed-as-3rd-season-airing-in-2027/.232302"
     },
-    "staff": {
-        "+@gid": "2691332689",
-        "task": "Original creator",
-        "person": {
-            "+content": "Hajime Kōmoto",
-            "+@id": "195458"
+    "staff": [
+        {
+            "+@gid": "3616911477",
+            "task": "Director",
+            "person": {
+                "+content": "Tomoya Tanaka",
+                "+@id": "100398"
+            }
+        },
+        {
+            "+@gid": "1259170771",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Yōsuke Kuroda",
+                "+@id": "1365"
+            }
+        },
+        {
+            "+@gid": "2403393458",
+            "task": "Script",
+            "person": {
+                "+content": "Yōsuke Kuroda",
+                "+@id": "1365"
+            }
+        },
+        {
+            "+@gid": "2007509797",
+            "task": "Music",
+            "person": {
+                "+content": "Masaru Yokoyama",
+                "+@id": "67761"
+            }
+        },
+        {
+            "+@gid": "2691332689",
+            "task": "Original creator",
+            "person": {
+                "+content": "Hajime Kōmoto",
+                "+@id": "195458"
+            }
+        },
+        {
+            "+@gid": "1682697875",
+            "task": "Character Design",
+            "person": {
+                "+content": "Chiaki Furuzumi",
+                "+@id": "68544"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "4147448434",
+            "+@lang": "JA",
+            "role": "Dot Barrett",
+            "person": {
+                "+content": "Takuya Eguchi",
+                "+@id": "76338"
+            }
+        },
+        {
+            "+@gid": "2319643027",
+            "+@lang": "JA",
+            "role": "Lance Crown",
+            "person": {
+                "+content": "Kaito Ishikawa",
+                "+@id": "114052"
+            }
+        },
+        {
+            "+@gid": "2978064350",
+            "+@lang": "JA",
+            "role": "Lemon Irvine",
+            "person": {
+                "+content": "Reina Ueda",
+                "+@id": "116390"
+            }
+        },
+        {
+            "+@gid": "1457143535",
+            "+@lang": "JA",
+            "role": "Mash Burndead",
+            "person": {
+                "+content": "Chiaki Kobayashi",
+                "+@id": "176057"
+            }
+        },
+        {
+            "+@gid": "3636046591",
+            "+@lang": "JA",
+            "role": "Finn Ames",
+            "person": {
+                "+content": "Reiji Kawashima",
+                "+@id": "196349"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2350508874",
+        "task": "Animation Production",
+        "company": {
+            "+content": "A-1 Pictures",
+            "+@id": "9909"
         }
     },
     "+@date-added": "2024-05-26T19:17:47Z",
-    "+@date-last-updated-at": "2025-11-21T02:14:39Z"
+    "+@date-last-modified-at": "2025-12-21T04:49:45Z",
+    "+@date-last-updated-at": "2025-12-21T04:49:45Z"
 }

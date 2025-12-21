@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Princession Orchestra",
     "+@precision": "TV",
-    "+@generated-on": "2025-11-21T02:14:35Z",
+    "+@generated-on": "2025-12-21T04:49:43Z",
     "related-next": {
         "+@id": "38034",
         "+@rel": "adaptation"
@@ -67,17 +67,22 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "#1: \"Zettai Utahime Sengen!\" (ゼッタイ歌姫宣言ッ！) by Orcheria (eps 1-12, 14-25)",
+            "+content": "#1: \"Zettai Utahime Sengen!\" (ゼッタイ歌姫宣言ッ！) by ORCHERIA (eps 1-12, 14-25)",
             "+@gid": "1122394954",
             "+@type": "Opening Theme"
         },
         {
-            "+content": "#2: \"FUTURE SESSION\" by Orcheria (eps 26-)",
+            "+content": "#2: \"FUTURE SESSION\" by ORCHERIA (eps 26-33, 35)",
             "+@gid": "860885875",
             "+@type": "Opening Theme"
         },
         {
-            "+content": "#1: \"Kimi to Tsunagu Orchestra\" (君とつなぐオーケストラ) by Orcheria (eps 2-4, 6-12, 14-22, 24-25)",
+            "+content": "#3: \"FUTURE SESSION -Ver. Constellation-\" by ORCHERIA (ep 36)",
+            "+@gid": "3255558072",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "#1: \"Kimi to Tsunagu Orchestra\" (君とつなぐオーケストラ) by ORCHERIA (eps 2-4, 6-12, 14-22, 24-25)",
             "+@gid": "664023730",
             "+@type": "Ending Theme"
         },
@@ -97,8 +102,13 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "#5: \"ONENESS HARMONY\" by Orcheria (eps 26-)",
+            "+content": "#5: \"ONENESS HARMONY\" by ORCHERIA (eps 26-34)",
             "+@gid": "1521239779",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#6: \"ONENESS HARMONY -Ver. Constellation-\" by ORCHERIA (eps 35-)",
+            "+@gid": "2830378091",
             "+@type": "Ending Theme"
         },
         {
@@ -127,6 +137,11 @@
             "+@type": "Insert song"
         },
         {
+            "+content": "\"Hikari no Shiori wo Hasande\" (光の栞をはさんで) by ORCHERIA & Natsu Hinomoto (CV: Hikari Aimura) (ep 32)",
+            "+@gid": "1921409133",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "\"Innocent Call\" (イノセントコール) by Natsu Hinomoto (CV: Hikari Aimura) (ep 27)",
             "+@gid": "2912316121",
             "+@type": "Insert song"
@@ -147,7 +162,7 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Monochrome Eden\" by Flower Knight Sincere (CV: Akari Kitō) × Flower Knight Purity (CV: Miku Itō) (ep 29)",
+            "+content": "\"Monochrome Eden\" by Flower Knight Sincere (CV: Akari Kitō) × Flower Knight Purity (CV: Miku Itō) (eps 29,33)",
             "+@gid": "2881615280",
             "+@type": "Insert song"
         },
@@ -172,8 +187,13 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"RISE PHOENIX\" by Princess Zeal (CV: Yuri Fujimoto) (ep 28)",
+            "+content": "\"RISE PHOENIX\" by Princess Zeal (CV: Yuri Fujimoto) (eps 28,32)",
             "+@gid": "1450854255",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Sekka Ryōran\" (雪花繚乱) by Princess Viola (CV: Akari Kitō) × Princess Neige (CV: Miku Itō) (eps 35-36)",
+            "+@gid": "790032358",
             "+@type": "Insert song"
         },
         {
@@ -202,7 +222,7 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Super Higher Dreamer!!!\" by Orcheria (eps 23-24)",
+            "+content": "\"Super Higher Dreamer!!!\" by ORCHERIA (eps 23-24,33)",
             "+@gid": "1644534344",
             "+@type": "Insert song"
         },
@@ -212,7 +232,7 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"TRINITY DIVINE\" by Orcheria (ep 31)",
+            "+content": "\"TRINITY DIVINE\" by ORCHERIA (ep 31)",
             "+@gid": "1486434116",
             "+@type": "Insert song"
         },
@@ -479,6 +499,46 @@
             "title": {
                 "+content": "Enjite Miru",
                 "+@gid": "1820959767",
+                "+@lang": "JA"
+            }
+        },
+        {
+            "+@num": "32",
+            "title": {
+                "+content": "Kizashi",
+                "+@gid": "1931323111",
+                "+@lang": "JA"
+            }
+        },
+        {
+            "+@num": "33",
+            "title": {
+                "+content": "Itetsuku Kokoro no Okusoku de",
+                "+@gid": "3034825831",
+                "+@lang": "JA"
+            }
+        },
+        {
+            "+@num": "34",
+            "title": {
+                "+content": "Mō Aenai Koto yori mo",
+                "+@gid": "2605427555",
+                "+@lang": "JA"
+            }
+        },
+        {
+            "+@num": "35",
+            "title": {
+                "+content": "Tsubomi o Hiraki, Hana wa Saku",
+                "+@gid": "2873963270",
+                "+@lang": "JA"
+            }
+        },
+        {
+            "+@num": "36",
+            "title": {
+                "+content": "Kaze ni Yureru",
+                "+@gid": "2253653498",
                 "+@lang": "JA"
             }
         }
@@ -875,7 +935,7 @@
         {
             "+@gid": "324932269",
             "+@lang": "JA",
-            "role": "Hisana Shikibe",
+            "role": "Hisana Shirube",
             "person": {
                 "+content": "Fumi Hirano",
                 "+@id": "1662"
@@ -906,6 +966,15 @@
             "person": {
                 "+content": "Satoshi Hino",
                 "+@id": "15417"
+            }
+        },
+        {
+            "+@gid": "1292961861",
+            "+@lang": "JA",
+            "role": "Matsuri Furano",
+            "person": {
+                "+content": "Marina Inoue",
+                "+@id": "20999"
             }
         },
         {
@@ -1008,9 +1077,18 @@
             }
         },
         {
+            "+@gid": "970189286",
+            "+@lang": "JA",
+            "role": "Toma",
+            "person": {
+                "+content": "Yumiri Hanamori",
+                "+@id": "118609"
+            }
+        },
+        {
             "+@gid": "729888050",
             "+@lang": "JA",
-            "role": "Hayete Hasagawa",
+            "role": "Hayate Hasagawa",
             "person": {
                 "+content": "Sora Amamiya",
                 "+@id": "119743"
@@ -1028,7 +1106,7 @@
         {
             "+@gid": "2207959105",
             "+@lang": "JA",
-            "role": "Lily Kazahana",
+            "role": "Lily Kazahana/Princess Neige",
             "person": {
                 "+content": "Miku Itō",
                 "+@id": "119924"
@@ -1056,6 +1134,15 @@
             "+@gid": "1551493381",
             "+@lang": "JA",
             "role": "Flower Knight Sincere",
+            "person": {
+                "+content": "Akari Kitō",
+                "+@id": "130728"
+            }
+        },
+        {
+            "+@gid": "2695372629",
+            "+@lang": "JA",
+            "role": "Princess Viola",
             "person": {
                 "+content": "Akari Kitō",
                 "+@id": "130728"
@@ -1214,6 +1301,6 @@
         }
     ],
     "+@date-added": "2024-06-14T19:29:38Z",
-    "+@date-last-modified-at": "2025-11-21T02:14:39Z",
-    "+@date-last-updated-at": "2025-11-21T02:14:39Z"
+    "+@date-last-modified-at": "2025-12-21T04:49:45Z",
+    "+@date-last-updated-at": "2025-12-21T04:49:45Z"
 }
