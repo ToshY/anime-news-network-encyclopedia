@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "SANDA",
     "+@precision": "TV",
-    "+@generated-on": "2025-11-20T20:35:13Z",
+    "+@generated-on": "2025-12-21T02:30:43Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27832"
@@ -68,8 +68,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "7.6028"
+        "+@nb_votes": "14",
+        "+@weighted_score": "7.0855",
+        "+@bayesian_score": "7.27183"
     },
     "news": [
         {
@@ -111,11 +112,19 @@
             }
         },
         {
-            "+@gid": "2563034396",
+            "+@gid": "1199818012",
             "task": "Script",
             "person": {
                 "+content": "Kimiko Ueno",
                 "+@id": "83183"
+            }
+        },
+        {
+            "+@gid": "1775739711",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Akitoshi Yokoyama",
+                "+@id": "13831"
             }
         },
         {
@@ -127,6 +136,22 @@
             }
         },
         {
+            "+@gid": "1730344031",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tomohisa Taguchi",
+                "+@id": "85349"
+            }
+        },
+        {
+            "+@gid": "2039554944",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takuya Yoshihara",
+                "+@id": "89937"
+            }
+        },
+        {
             "+@gid": "4052447144",
             "task": "Storyboard",
             "person": {
@@ -135,11 +160,123 @@
             }
         },
         {
+            "+@gid": "2805782194",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Eri Kinoshita",
+                "+@id": "145549"
+            }
+        },
+        {
+            "+@gid": "2223551879",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Mari Motohashi",
+                "+@id": "189738"
+            }
+        },
+        {
+            "+@gid": "1766720231",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Asami Murakoshi",
+                "+@id": "190288"
+            }
+        },
+        {
+            "+@gid": "2697085058",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Rushio Moriyama",
+                "+@id": "210294"
+            }
+        },
+        {
+            "+@gid": "2246678023",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Santarō Iwakura",
+                "+@id": "291984"
+            }
+        },
+        {
+            "+@gid": "1791430195",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Akitoshi Yokoyama",
+                "+@id": "13831"
+            }
+        },
+        {
             "+@gid": "1030093363",
             "task": "Episode Director",
             "person": {
                 "+content": "Tomohisa Shimoyama",
                 "+@id": "37597"
+            }
+        },
+        {
+            "+@gid": "2158123052",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tomohisa Taguchi",
+                "+@id": "85349"
+            }
+        },
+        {
+            "+@gid": "3053785760",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takuya Yoshihara",
+                "+@id": "89937"
+            }
+        },
+        {
+            "+@gid": "1905784975",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Mari Motohashi",
+                "+@id": "189738"
+            }
+        },
+        {
+            "+@gid": "1697866912",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Asami Murakoshi",
+                "+@id": "190288"
+            }
+        },
+        {
+            "+@gid": "1986642413",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Iyo Satō",
+                "+@id": "191880"
+            }
+        },
+        {
+            "+@gid": "3712458417",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Rushio Moriyama",
+                "+@id": "210294"
+            }
+        },
+        {
+            "+@gid": "976311488",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shinya Kawabe",
+                "+@id": "222881"
+            }
+        },
+        {
+            "+@gid": "1802253192",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shūgo Tsuneoka",
+                "+@id": "234060"
             }
         },
         {
@@ -384,6 +521,15 @@
             }
         },
         {
+            "+@gid": "2253617094",
+            "+@lang": "EN",
+            "role": "Fumi Namatame",
+            "person": {
+                "+content": "Suzie Yeung",
+                "+@id": "184793"
+            }
+        },
+        {
             "+@gid": "2339580186",
             "+@lang": "EN",
             "role": "Kazushige Sanda",
@@ -525,6 +671,15 @@
             "person": {
                 "+content": "Valentin Gaillard",
                 "+@id": "246309"
+            }
+        },
+        {
+            "+@gid": "2332495351",
+            "+@lang": "IT",
+            "role": "Toyo Tetsudome",
+            "person": {
+                "+content": "Graziella Polesinanti",
+                "+@id": "26559"
             }
         },
         {
@@ -726,6 +881,6 @@
         }
     },
     "+@date-added": "2024-07-10T18:23:19Z",
-    "+@date-last-modified-at": "2025-11-20T20:35:16Z",
-    "+@date-last-updated-at": "2025-11-20T20:35:16Z"
+    "+@date-last-modified-at": "2025-12-21T02:30:47Z",
+    "+@date-last-updated-at": "2025-12-21T02:30:47Z"
 }
