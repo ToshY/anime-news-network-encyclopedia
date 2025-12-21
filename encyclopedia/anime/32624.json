@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Shangri-La Frontier",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-11-21T04:38:29Z",
+    "+@generated-on": "2025-12-21T08:41:26Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26032"
@@ -56,9 +56,54 @@
             "+@type": "Genres"
         },
         {
+            "+content": "comedy",
+            "+@gid": "1617650995",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "1846909385",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "1649849580",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "789509923",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "magical creatures",
+            "+@gid": "2900418450",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "monsters",
+            "+@gid": "2648698917",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "school",
+            "+@gid": "2187384517",
+            "+@type": "Themes"
+        },
+        {
             "+content": "OC",
             "+@gid": "1682159375",
             "+@type": "Objectionable content"
+        },
+        {
+            "+content": "23",
+            "+@gid": "2938775851",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "25",
+            "+@gid": "3070659267",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2024-10-13",
@@ -84,9 +129,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "98",
-        "+@weighted_score": "7.712",
-        "+@bayesian_score": "7.68396"
+        "+@nb_votes": "101",
+        "+@weighted_score": "7.7257",
+        "+@bayesian_score": "7.69683"
     },
     "news": [
         {
@@ -1221,6 +1266,15 @@
             }
         },
         {
+            "+@gid": "1997929316",
+            "+@lang": "EN",
+            "role": "Animalia",
+            "person": {
+                "+content": "Kelsey Cruz",
+                "+@id": "258957"
+            }
+        },
+        {
             "+@gid": "2610222666",
             "+@lang": "FR",
             "role": "Sakai Tsukuyogi",
@@ -1675,6 +1729,6 @@
         }
     ],
     "+@date-added": "2024-03-31T05:20:43Z",
-    "+@date-last-modified-at": "2025-11-21T04:38:31Z",
-    "+@date-last-updated-at": "2025-11-21T04:38:31Z"
+    "+@date-last-modified-at": "2025-12-21T08:41:28Z",
+    "+@date-last-updated-at": "2025-12-21T08:41:28Z"
 }
