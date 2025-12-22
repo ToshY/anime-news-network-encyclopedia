@@ -4,10 +4,14 @@
     "+@type": "movie",
     "+@name": "Eiga Doraemon: Nobita no Chikyū Symphony",
     "+@precision": "movie",
-    "+@generated-on": "2025-11-22T16:36:54Z",
+    "+@generated-on": "2025-12-22T16:44:21Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26025"
+    },
+    "related-next": {
+        "+@id": "33621",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -47,6 +51,12 @@
             "+@lang": "IT"
         },
         {
+            "+content": "Doraemon: Nobita's Earth Symphony",
+            "+@gid": "1153934724",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "映画ドラえもん のび太の地球交響楽",
             "+@gid": "1242196791",
             "+@type": "Alternative title",
@@ -62,6 +72,31 @@
             "+@type": "Premiere date"
         },
         {
+            "+content": "\"Time Paradox\" (タイムパラドックス) by Vaundy",
+            "+@gid": "1135132686",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Fugue in G minor, BWV 578\" by Johann Sebastian Bach",
+            "+@gid": "2693405097",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Symphony No. 5 - Fate\" by Ludwig van Beethoven",
+            "+@gid": "2135879357",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Symphony No. 9 - Ode to Joy\" by Ludwig van Beethoven",
+            "+@gid": "1213039657",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Violin Concerto No. 3; Eine Kleine Nachtmusik\" by Wolfgang Amadeus Mozart",
+            "+@gid": "2924750499",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "『映画ドラえもん のび太の地球交響楽』公式サイト",
             "+@gid": "2293094374",
             "+@type": "Official website",
@@ -71,7 +106,7 @@
     ],
     "ratings": {
         "+@nb_votes": "2",
-        "+@weighted_score": "7.5775"
+        "+@weighted_score": "7.5776"
     },
     "news": [
         {
@@ -551,18 +586,18 @@
             }
         },
         {
-            "+@gid": "3270592202",
+            "+@gid": "2612534755",
             "+@lang": "JA",
-            "role": "Suneo",
+            "role": "Suneo Honekawa",
             "person": {
                 "+content": "Tomokazu Seki",
                 "+@id": "529"
             }
         },
         {
-            "+@gid": "2171302043",
+            "+@gid": "1668506050",
             "+@lang": "JA",
-            "role": "Shizuka",
+            "role": "Shizuka Minamoto",
             "person": {
                 "+content": "Yumi Kakazu",
                 "+@id": "778"
@@ -587,9 +622,9 @@
             }
         },
         {
-            "+@gid": "1896703968",
+            "+@gid": "2633174571",
             "+@lang": "JA",
-            "role": "Gian",
+            "role": "Takeshi Gōda",
             "person": {
                 "+content": "Subaru Kimura",
                 "+@id": "39856"
@@ -605,9 +640,9 @@
             }
         },
         {
-            "+@gid": "3777756587",
+            "+@gid": "2971672573",
             "+@lang": "JA",
-            "role": "Nobita",
+            "role": "Nobita Nobi",
             "person": {
                 "+content": "Megumi Ōhara",
                 "+@id": "63125"
@@ -634,7 +669,7 @@
         {
             "+@gid": "1776575950",
             "+@lang": "JA",
-            "role": "Miina",
+            "role": "Mina",
             "person": {
                 "+content": "Kyōko Yoshine",
                 "+@id": "186303"
@@ -726,5 +761,6 @@
         }
     ],
     "+@date-added": "2023-07-06T04:07:43Z",
-    "+@date-last-updated-at": "2025-11-22T16:36:56Z"
+    "+@date-last-modified-at": "2025-12-22T16:44:24Z",
+    "+@date-last-updated-at": "2025-12-22T16:44:24Z"
 }
