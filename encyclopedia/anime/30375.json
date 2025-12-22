@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Let's Play",
     "+@precision": "TV",
-    "+@generated-on": "2025-11-22T04:35:41Z",
+    "+@generated-on": "2025-12-22T04:53:00Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "30374"
@@ -36,7 +36,7 @@
             "+@lang": "EN"
         },
         {
-            "+content": "Let's Play Quest Darake no My Life",
+            "+content": "Let's Play Quest Darake My Life",
             "+@gid": "1789083922",
             "+@type": "Alternative title",
             "+@lang": "JA"
@@ -75,8 +75,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "4.4832"
+        "+@nb_votes": "17",
+        "+@weighted_score": "5.9629",
+        "+@bayesian_score": "6.61702"
     },
     "news": [
         {
@@ -123,6 +124,11 @@
             "+content": "Indian Language Dubs of <cite>Tojima Wants to Be a Kamen Rider</cite>, <cite>Mechanical Marie</cite>, More Anime Stream on Crunchyroll",
             "+@datetime": "2025-10-26T08:47:42Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-10-26/indian-language-dubs-of-tojima-wants-to-be-a-kamen-rider-mechanical-marie-more-anime-stream-on-/.230327"
+        },
+        {
+            "+content": "<cite>Let's Play</cite> Anime Casts Singer Toshinobu Kubota as Himself",
+            "+@datetime": "2025-12-12T03:28:46Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-11/let-play-anime-casts-singer-toshinobu-kubota-as-himself/.231983"
         }
     ],
     "staff": [
@@ -167,6 +173,14 @@
             }
         },
         {
+            "+@gid": "2998458602",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kou Nakagawa",
+                "+@id": "57327"
+            }
+        },
+        {
             "+@gid": "1394742385",
             "task": "Storyboard",
             "person": {
@@ -207,11 +221,35 @@
             }
         },
         {
+            "+@gid": "3937795930",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kou Nakagawa",
+                "+@id": "57327"
+            }
+        },
+        {
+            "+@gid": "724597130",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Jun Ōwada",
+                "+@id": "81454"
+            }
+        },
+        {
             "+@gid": "1026537621",
             "task": "Episode Director",
             "person": {
                 "+content": "Marie Watanabe",
                 "+@id": "84982"
+            }
+        },
+        {
+            "+@gid": "2986602001",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Daiki Tomiyasu",
+                "+@id": "93196"
             }
         },
         {
@@ -236,6 +274,14 @@
             "person": {
                 "+content": "Ayumi Moriyama",
                 "+@id": "134513"
+            }
+        },
+        {
+            "+@gid": "3981510513",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Mayu Tanimoto",
+                "+@id": "161484"
             }
         },
         {
@@ -466,7 +512,7 @@
             "+@gid": "2113734480",
             "task": "Animation Director",
             "person": {
-                "+content": "Le Yao Zhou",
+                "+content": "Le-Yao Zhou",
                 "+@id": "283789"
             }
         },
@@ -752,6 +798,15 @@
             "person": {
                 "+content": "Laetitia Liénart",
                 "+@id": "68740"
+            }
+        },
+        {
+            "+@gid": "733791447",
+            "+@lang": "FR",
+            "role": "Edgar",
+            "person": {
+                "+content": "Maxime Donnay",
+                "+@id": "72787"
             }
         },
         {
@@ -1046,6 +1101,6 @@
         }
     ],
     "+@date-added": "2023-10-18T01:42:16Z",
-    "+@date-last-modified-at": "2025-11-22T04:35:43Z",
-    "+@date-last-updated-at": "2025-11-22T04:35:43Z"
+    "+@date-last-modified-at": "2025-12-22T04:53:03Z",
+    "+@date-last-updated-at": "2025-12-22T04:53:03Z"
 }
