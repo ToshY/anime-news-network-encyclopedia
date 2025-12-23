@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Edge of Time",
     "+@precision": "movie",
-    "+@generated-on": "2025-11-23T08:38:03Z",
+    "+@generated-on": "2025-12-23T13:05:46Z",
     "related-next": [
         {
             "+@id": "27065",
@@ -120,6 +120,22 @@
             }
         },
         {
+            "+@gid": "3383523899",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Jiahao Hou",
+                "+@id": "291801"
+            }
+        },
+        {
+            "+@gid": "2899983260",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Yumeng Zhang",
+                "+@id": "291802"
+            }
+        },
+        {
             "+@gid": "1309956790",
             "task": "Producer",
             "person": {
@@ -128,6 +144,15 @@
             }
         }
     ],
+    "cast": {
+        "+@gid": "2522389194",
+        "+@lang": "JA",
+        "role": "The Filmmaker",
+        "person": {
+            "+content": "Ge Hu",
+            "+@id": "291798"
+        }
+    },
     "credit": [
         {
             "+@gid": "2532922381",
@@ -187,6 +212,6 @@
         }
     ],
     "+@date-added": "2023-02-01T01:56:44Z",
-    "+@date-last-modified-at": "2025-11-23T08:38:05Z",
-    "+@date-last-updated-at": "2025-11-23T08:38:05Z"
+    "+@date-last-modified-at": "2025-12-23T13:05:49Z",
+    "+@date-last-updated-at": "2025-12-23T13:05:49Z"
 }
