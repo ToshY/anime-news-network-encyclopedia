@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Ashita mo Sirnight to",
     "+@precision": "ONA",
-    "+@generated-on": "2025-11-24T02:00:06Z",
+    "+@generated-on": "2025-12-24T04:49:52Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "29217"
@@ -41,6 +41,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Another Day with Gardevoir",
+            "+@gid": "2283822695",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "明日もサーナイトと",
             "+@gid": "1501836916",
             "+@type": "Alternative title",
@@ -52,6 +58,10 @@
             "+@type": "Vintage"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "7"
+    },
     "news": {
         "+content": "100 Studio Produces New <cite>Pokémon</cite> Anime Short About Gardevoir",
         "+@datetime": "2025-10-24T10:57:03Z",
@@ -245,6 +255,15 @@
     ],
     "cast": [
         {
+            "+@gid": "990727264",
+            "+@lang": "EN",
+            "role": "Yugo",
+            "person": {
+                "+content": "Kevin Andrew Rivera",
+                "+@id": "221037"
+            }
+        },
+        {
             "+@gid": "3259055872",
             "+@lang": "JA",
             "role": "Sirnight",
@@ -272,6 +291,6 @@
         }
     },
     "+@date-added": "2025-10-24T18:18:10Z",
-    "+@date-last-modified-at": "2025-11-24T02:24:38Z",
-    "+@date-last-updated-at": "2025-11-24T02:24:38Z"
+    "+@date-last-modified-at": "2025-12-24T04:49:55Z",
+    "+@date-last-updated-at": "2025-12-24T04:49:55Z"
 }
