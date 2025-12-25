@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Dusk Beyond the End of the World",
     "+@precision": "TV",
-    "+@generated-on": "2025-11-25T13:02:53Z",
+    "+@generated-on": "2025-12-25T16:43:19Z",
     "related-next": {
         "+@id": "37874",
         "+@rel": "adaptation"
@@ -40,12 +40,6 @@
             "+@gid": "1726777915",
             "+@type": "Alternative title",
             "+@lang": "JA"
-        },
-        {
-            "+content": "Twilight of Eternity",
-            "+@gid": "905008400",
-            "+@type": "Alternative title",
-            "+@lang": "EN"
         },
         {
             "+content": "Yugure al crepuscolo della perpetuità",
@@ -153,8 +147,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "4.7322"
+        "+@nb_votes": "29",
+        "+@weighted_score": "5.9451",
+        "+@bayesian_score": "6.4178"
     },
     "news": [
         {
@@ -201,6 +196,11 @@
             "+content": "HIDIVE Reveals English Dub for <cite>Bad Girl</cite>, <cite>Hero Without a Class</cite>, <cite>My Gift Lvl 9999 Unlimited Gacha</cite>, <cite>Dusk Beyond the End of the World</cite> Anime",
             "+@datetime": "2025-10-23T12:45:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-10-23/hidive-reveals-english-dub-for-bad-girl-hero-without-a-class-my-gift-lvl-9999-unlimited-gacha-dusk-/.230243"
+        },
+        {
+            "+content": "<cite>Dusk Beyond the End of the World</cite> Anime Reveals English Dub Cast",
+            "+@datetime": "2025-12-14T00:49:14Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-13/dusk-beyond-the-end-of-the-world-anime-reveals-english-dub-cast/.232051"
         }
     ],
     "staff": [
@@ -333,6 +333,14 @@
             }
         },
         {
+            "+@gid": "1719038242",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Naokatsu Tsuda",
+                "+@id": "73001"
+            }
+        },
+        {
             "+@gid": "895235865",
             "task": "Episode Director",
             "person": {
@@ -346,6 +354,14 @@
             "person": {
                 "+content": "Yuichi Ishima",
                 "+@id": "131585"
+            }
+        },
+        {
+            "+@gid": "2861086357",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shun Tsuchida",
+                "+@id": "145448"
             }
         },
         {
@@ -370,6 +386,14 @@
             "person": {
                 "+content": "Yuri Hagiwara",
                 "+@id": "216458"
+            }
+        },
+        {
+            "+@gid": "555053237",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Keijirō Taguchi",
+                "+@id": "222902"
             }
         },
         {
@@ -469,6 +493,14 @@
             }
         },
         {
+            "+@gid": "2800396874",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Zhuyin Lin",
+                "+@id": "255655"
+            }
+        },
+        {
             "+@gid": "1278317273",
             "task": "Animation Director",
             "person": {
@@ -477,11 +509,43 @@
             }
         },
         {
+            "+@gid": "685694792",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kayoko Nabeta",
+                "+@id": "15123"
+            }
+        },
+        {
+            "+@gid": "2582695560",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hye Jung Jo",
+                "+@id": "22830"
+            }
+        },
+        {
+            "+@gid": "3409640799",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shinichi Wada",
+                "+@id": "48400"
+            }
+        },
+        {
             "+@gid": "2527882033",
             "task": "Animation Director",
             "person": {
                 "+content": "Mika Sakai",
                 "+@id": "50145"
+            }
+        },
+        {
+            "+@gid": "1574312265",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yang Hyun Oh",
+                "+@id": "63791"
             }
         },
         {
@@ -541,11 +605,35 @@
             }
         },
         {
+            "+@gid": "3084416825",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Saki Tanaka",
+                "+@id": "100960"
+            }
+        },
+        {
+            "+@gid": "664709947",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Seung Taek Song",
+                "+@id": "111422"
+            }
+        },
+        {
             "+@gid": "3057078969",
             "task": "Animation Director",
             "person": {
                 "+content": "Yi Jun Lin",
                 "+@id": "121418"
+            }
+        },
+        {
+            "+@gid": "3102962223",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yeon Jung Ha",
+                "+@id": "153676"
             }
         },
         {
@@ -613,11 +701,27 @@
             }
         },
         {
+            "+@gid": "2504738243",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jung Hee Yun",
+                "+@id": "214901"
+            }
+        },
+        {
             "+@gid": "1295340742",
             "task": "Animation Director",
             "person": {
                 "+content": "Roccia Nobili",
                 "+@id": "240039"
+            }
+        },
+        {
+            "+@gid": "1205341029",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Won Hee Cho",
+                "+@id": "260399"
             }
         },
         {
@@ -642,6 +746,22 @@
             "person": {
                 "+content": "Ga Hyeon Kim",
                 "+@id": "290286"
+            }
+        },
+        {
+            "+@gid": "3606756729",
+            "task": "Translation",
+            "person": {
+                "+content": "Seong Ho Moon",
+                "+@id": "34525"
+            }
+        },
+        {
+            "+@gid": "1483476254",
+            "task": "Translation",
+            "person": {
+                "+content": "Sun Il Kim",
+                "+@id": "113413"
             }
         },
         {
@@ -686,6 +806,60 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "2440704379",
+            "+@lang": "EN",
+            "role": "Akira Himegami",
+            "person": {
+                "+content": "Gabriel Regojo",
+                "+@id": "134982"
+            }
+        },
+        {
+            "+@gid": "1275121052",
+            "+@lang": "EN",
+            "role": "Towasa Omaki",
+            "person": {
+                "+content": "Shelby Blocker",
+                "+@id": "134983"
+            }
+        },
+        {
+            "+@gid": "2409662863",
+            "+@lang": "EN",
+            "role": "Commissioner Canniss",
+            "person": {
+                "+content": "Benjamin McLaughlin",
+                "+@id": "147456"
+            }
+        },
+        {
+            "+@gid": "1144906451",
+            "+@lang": "EN",
+            "role": "Amoru",
+            "person": {
+                "+content": "Karlii Hoch",
+                "+@id": "147637"
+            }
+        },
+        {
+            "+@gid": "1973694171",
+            "+@lang": "EN",
+            "role": "Idhi",
+            "person": {
+                "+content": "Chaney Moore",
+                "+@id": "149359"
+            }
+        },
+        {
+            "+@gid": "1724001619",
+            "+@lang": "EN",
+            "role": "Yugure",
+            "person": {
+                "+content": "Ginger Sue",
+                "+@id": "286298"
+            }
+        },
         {
             "+@gid": "2277681935",
             "+@lang": "JA",
@@ -858,6 +1032,6 @@
         }
     },
     "+@date-added": "2025-06-27T07:04:40Z",
-    "+@date-last-modified-at": "2025-11-25T13:02:56Z",
-    "+@date-last-updated-at": "2025-11-25T13:02:56Z"
+    "+@date-last-modified-at": "2025-12-25T16:43:22Z",
+    "+@date-last-updated-at": "2025-12-25T16:43:22Z"
 }
