@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Sayonara Diamond",
     "+@precision": "manga",
-    "+@generated-on": "2025-11-25T08:44:06Z",
+    "+@generated-on": "2025-12-25T13:02:31Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "1364"
@@ -58,16 +58,33 @@
             "+@type": "Genres"
         },
         {
+            "+content": "detectives",
+            "+@gid": "1432543150",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "5",
+            "+@gid": "2006639999",
+            "+@type": "Number of tankoubon"
+        },
+        {
             "+content": "2024-06-10 (serialized in Big Comic Spirits, 2024 #28)",
             "+@gid": "3690733373",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "HERO, Imaru Adachi to Release New Short Manga; Miyako Hiruzuka Launches New Series in June",
-        "+@datetime": "2024-05-20T06:18:50Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-05-20/hero-imaru-adachi-to-release-new-short-manga-miyako-hiruzuka-launches-new-series-in-june/.210963"
-    },
+    "news": [
+        {
+            "+content": "HERO, Imaru Adachi to Release New Short Manga; Miyako Hiruzuka Launches New Series in June",
+            "+@datetime": "2024-05-20T06:18:50Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-05-20/hero-imaru-adachi-to-release-new-short-manga-miyako-hiruzuka-launches-new-series-in-june/.210963"
+        },
+        {
+            "+content": "Miyako Hiruzuka's <cite>Sayonara Diamond</cite> Manga Ends in Next Chapter",
+            "+@datetime": "2025-12-24T00:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-23/miyako-hiruzuka-sayonara-diamond-manga-ends-in-next-chapter/.232420"
+        }
+    ],
     "staff": {
         "+@gid": "694086062",
         "task": "Story & Art",
@@ -77,5 +94,6 @@
         }
     },
     "+@date-added": "2025-02-28T23:03:12Z",
-    "+@date-last-updated-at": "2025-11-25T08:44:07Z"
+    "+@date-last-modified-at": "2025-12-25T13:02:32Z",
+    "+@date-last-updated-at": "2025-12-25T13:02:32Z"
 }
