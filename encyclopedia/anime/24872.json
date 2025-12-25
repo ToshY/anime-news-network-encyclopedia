@@ -2,23 +2,13 @@
     "+@id": "24872",
     "+@gid": "3859490699",
     "+@type": "ONA",
-    "+@name": "Disney Twisted-Wonderland The Animation",
+    "+@name": "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
     "+@precision": "ONA",
-    "+@generated-on": "2025-11-25T16:45:47Z",
-    "related-prev": [
-        {
-            "+@rel": "adapted from",
-            "+@id": "24873"
-        },
-        {
-            "+@rel": "adapted from",
-            "+@id": "29543"
-        },
-        {
-            "+@rel": "adapted from",
-            "+@id": "31794"
-        }
-    ],
+    "+@generated-on": "2025-12-25T20:36:21Z",
+    "related-prev": {
+        "+@rel": "adapted from",
+        "+@id": "24873"
+    },
     "related-next": {
         "+@id": "30318",
         "+@rel": "related"
@@ -44,8 +34,8 @@
             ]
         },
         {
-            "+content": "Disney Twisted-Wonderland The Animation",
-            "+@gid": "3258030210",
+            "+content": "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
+            "+@gid": "934554124",
             "+@type": "Main title",
             "+@lang": "EN"
         },
@@ -56,35 +46,18 @@
             "+@lang": "PL"
         },
         {
-            "+content": "Disney Twisted-Wonderland",
-            "+@gid": "586728641",
-            "+@type": "Alternative title",
-            "+@lang": "EN"
-        },
-        {
-            "+content": "Twisted Wonderland the Animation",
-            "+@gid": "2066570474",
-            "+@type": "Alternative title",
-            "+@lang": "EN"
-        },
-        {
-            "+content": "ディズニー ツイステッドワンダーランド",
+            "+content": "ディズニー ツイステッドワンダーランド エピソード オブ ハーツラビュル",
             "+@gid": "1391726590",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
-            "+content": "ディズニー ツイステッドワンダーランド ザ アニメーション",
-            "+@gid": "3243034615",
-            "+@type": "Alternative title",
-            "+@lang": "JA"
+            "+content": "8",
+            "+@gid": "3430439912",
+            "+@type": "Number of episodes"
         },
         {
-            "+content": "Stranded in the world of Twisted Wonderland, Yu must brave a magical school filled with ghosts, monsters, and uncooperative students. Yu finds herself at Night Raven College, a school for magic users, where the staff and students are getting ready for the interdormitory Spelldrive tournament. It sounds fun, but Yu soon learns that intensity, intrigue, and fierce competitiveness abound. <em class=de-emphasized>(from manga)</em>",
-            "+@type": "Plot Summary"
-        },
-        {
-            "+content": "2025-10-29 (Season 1: Episode of Heartslabyul)",
+            "+content": "2025-10-29",
             "+@gid": "2082410026",
             "+@type": "Vintage"
         },
@@ -107,8 +80,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "5.5435"
+        "+@nb_votes": "9",
+        "+@weighted_score": "6.0643"
     },
     "news": [
         {
@@ -256,6 +229,14 @@
             }
         },
         {
+            "+@gid": "1478489818",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shigeru Kimiya",
+                "+@id": "12774"
+            }
+        },
+        {
             "+@gid": "1767384976",
             "task": "Episode Director",
             "person": {
@@ -285,6 +266,22 @@
             "person": {
                 "+content": "Shizuku Ishii",
                 "+@id": "174238"
+            }
+        },
+        {
+            "+@gid": "3231711856",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takushi Shikatani",
+                "+@id": "199034"
+            }
+        },
+        {
+            "+@gid": "1022347111",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shiho Takahashi",
+                "+@id": "223462"
             }
         },
         {
@@ -360,6 +357,14 @@
             }
         },
         {
+            "+@gid": "2534648533",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Rie Nishimura",
+                "+@id": "44537"
+            }
+        },
+        {
             "+@gid": "2367435724",
             "task": "Chief Animation Director",
             "person": {
@@ -424,11 +429,91 @@
             }
         },
         {
+            "+@gid": "1949170104",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiroyuki Kaidou",
+                "+@id": "49209"
+            }
+        },
+        {
+            "+@gid": "1826874265",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sayaka Toda",
+                "+@id": "50400"
+            }
+        },
+        {
+            "+@gid": "1938251062",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Fuyumi Toriyama",
+                "+@id": "51394"
+            }
+        },
+        {
+            "+@gid": "2227912114",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sung Jin Lee",
+                "+@id": "51465"
+            }
+        },
+        {
             "+@gid": "2915047902",
             "task": "Animation Director",
             "person": {
                 "+content": "Tomohiro Noda",
                 "+@id": "62192"
+            }
+        },
+        {
+            "+@gid": "413258411",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hee Kyu Jang",
+                "+@id": "65046"
+            }
+        },
+        {
+            "+@gid": "1153889714",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Keum Young Woo",
+                "+@id": "66020"
+            }
+        },
+        {
+            "+@gid": "2890897449",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shiori Kobayashi",
+                "+@id": "80095"
+            }
+        },
+        {
+            "+@gid": "1786854670",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Keun Soo Lim",
+                "+@id": "84850"
+            }
+        },
+        {
+            "+@gid": "3288068433",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Bing Yan Hua",
+                "+@id": "98995"
+            }
+        },
+        {
+            "+@gid": "3432514131",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Eun Joung Joung",
+                "+@id": "99072"
             }
         },
         {
@@ -440,11 +525,43 @@
             }
         },
         {
+            "+@gid": "2119608546",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūko Hariba",
+                "+@id": "111486"
+            }
+        },
+        {
             "+@gid": "1289996202",
             "task": "Animation Director",
             "person": {
                 "+content": "Miho Jinnai",
                 "+@id": "129529"
+            }
+        },
+        {
+            "+@gid": "3311609425",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jian Wei Cao",
+                "+@id": "142629"
+            }
+        },
+        {
+            "+@gid": "2690374246",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jeong Ha Seo",
+                "+@id": "150526"
+            }
+        },
+        {
+            "+@gid": "1138773178",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hayato Arata",
+                "+@id": "168238"
             }
         },
         {
@@ -456,11 +573,51 @@
             }
         },
         {
+            "+@gid": "3599563863",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chun Hua Weng",
+                "+@id": "174232"
+            }
+        },
+        {
+            "+@gid": "1510693927",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Guo Fu Yang",
+                "+@id": "181174"
+            }
+        },
+        {
             "+@gid": "2917778902",
             "task": "Animation Director",
             "person": {
                 "+content": "Xiao Lin Zhu",
                 "+@id": "182320"
+            }
+        },
+        {
+            "+@gid": "2696851862",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zhi Feng Zhu",
+                "+@id": "189317"
+            }
+        },
+        {
+            "+@gid": "2480847704",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Azuma Tozawa",
+                "+@id": "190402"
+            }
+        },
+        {
+            "+@gid": "3266138232",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yue Ting Pan",
+                "+@id": "190814"
             }
         },
         {
@@ -477,6 +634,14 @@
             "person": {
                 "+content": "Anna Brockless",
                 "+@id": "281363"
+            }
+        },
+        {
+            "+@gid": "1653390984",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sou-Kyoung Lim",
+                "+@id": "283709"
             }
         },
         {
@@ -1282,6 +1447,6 @@
         }
     ],
     "+@date-added": "2021-10-14T21:00:00Z",
-    "+@date-last-modified-at": "2025-11-25T16:45:49Z",
-    "+@date-last-updated-at": "2025-11-25T16:45:49Z"
+    "+@date-last-modified-at": "2025-12-25T20:36:23Z",
+    "+@date-last-updated-at": "2025-12-25T20:36:23Z"
 }
