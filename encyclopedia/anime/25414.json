@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "High Card",
     "+@precision": "TV",
-    "+@generated-on": "2025-11-24T20:34:13Z",
+    "+@generated-on": "2025-12-25T02:25:47Z",
     "related-next": {
         "+@id": "27640",
         "+@rel": "sequel"
@@ -70,8 +70,8 @@
     ],
     "ratings": {
         "+@nb_votes": "91",
-        "+@weighted_score": "6.2241",
-        "+@bayesian_score": "6.38016"
+        "+@weighted_score": "6.224",
+        "+@bayesian_score": "6.38005"
     },
     "episode": [
         {
@@ -397,14 +397,6 @@
             }
         },
         {
-            "+@gid": "2000113770",
-            "task": "Episode Director",
-            "person": {
-                "+content": "Yōhei Fukui",
-                "+@id": "97435"
-            }
-        },
-        {
             "+@gid": "1986816769",
             "task": "Episode Director",
             "person": {
@@ -418,6 +410,14 @@
             "person": {
                 "+content": "Hidetoshi Watanabe",
                 "+@id": "246913"
+            }
+        },
+        {
+            "+@gid": "2000113770",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yōhei Fukui",
+                "+@id": "291808"
             }
         },
         {
@@ -908,6 +908,6 @@
         }
     ],
     "+@date-added": "2022-03-08T04:24:17Z",
-    "+@date-last-modified-at": "2025-11-24T20:34:15Z",
-    "+@date-last-updated-at": "2025-11-24T20:34:15Z"
+    "+@date-last-modified-at": "2025-12-25T02:25:50Z",
+    "+@date-last-updated-at": "2025-12-25T02:25:50Z"
 }
