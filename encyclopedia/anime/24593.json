@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Digimon Ghost Game",
     "+@precision": "TV",
-    "+@generated-on": "2025-11-26T04:42:08Z",
+    "+@generated-on": "2025-12-26T08:44:09Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "794"
@@ -52,6 +52,11 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "67",
+            "+@gid": "3318773806",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2021-10-03",
             "+@gid": "1494042198",
             "+@type": "Vintage"
@@ -67,6 +72,11 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "2025-12-01 (United Kingdom, BBC iPlayer)",
+            "+@gid": "2636376265",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "\"FACTION\" by Wienners",
             "+@gid": "1375062238",
             "+@type": "Opening Theme"
@@ -77,13 +87,18 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "#2: \"Because I'm Still in Love to This Day\" (だって今日まで恋煩い) by BMK",
-            "+@gid": "2495825557",
+            "+content": "#1: \"Pedal\" by Aiiro Apollo (eps 1-12)",
+            "+@gid": "656674258",
             "+@type": "Ending Theme"
         },
         {
-            "+content": "#3: \"Hikariau Monotachi\" (ひかりあうものたち) by Bye-Bye Hand no Houteishiki",
-            "+@gid": "2934371174",
+            "+content": "#2: \"Datte Kyo made Koiwazurai\" (だって今日まで恋煩い; Because I've Been Lovesick) by BMK (eps 13-21)",
+            "+@gid": "574581450",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#3: \"Hikariau Monotachi\" (ひかりあうものたち) by Bye-Bye-Hand No Houteishiki (eps 22-31)",
+            "+@gid": "2346733470",
             "+@type": "Ending Theme"
         },
         {
@@ -92,14 +107,34 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "#4: \"Monster Disco\" by Shikao Suga × Hyadain (eps 32-44)",
+            "+@gid": "1744537832",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "#5: \"STRAWBERRY\" by kobore",
             "+@gid": "2919962936",
             "+@type": "Ending Theme"
         },
         {
-            "+content": "#6: \"Take Me Maybe\" by Penthouse",
-            "+@gid": "1480088859",
+            "+content": "#5: \"STRAWBERRY\" by kobore (eps 45-57)",
+            "+@gid": "2652919905",
             "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#6: \"Take Me Maybe\" by Penthouse (eps 58-67)",
+            "+@gid": "2609240413",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"First Riders\" by Yoshimasa Masukura (eps 2,4-7,9-10,12,15-16,18-20,22-25,27-29,31-33,35-41,43-44,46-53,62-63)",
+            "+@gid": "3817758706",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"MAKUAKE\" by Yoshimasa Masukura (eps 56-58,60-63,66-67)",
+            "+@gid": "3252844893",
+            "+@type": "Insert song"
         },
         {
             "+content": "デジモンゴーストゲーム | 東映アニメーション",
@@ -112,7 +147,7 @@
     "ratings": {
         "+@nb_votes": "105",
         "+@weighted_score": "6.6095",
-        "+@bayesian_score": "6.70459"
+        "+@bayesian_score": "6.70455"
     },
     "episode": [
         {
@@ -1879,6 +1914,159 @@
     ],
     "cast": [
         {
+            "+@gid": "2593797957",
+            "+@lang": "EN",
+            "role": "Kiyoshirō Higashimitarai",
+            "person": {
+                "+content": "Sean Chiplock",
+                "+@id": "119800"
+            }
+        },
+        {
+            "+@gid": "2994777138",
+            "+@lang": "EN",
+            "role": "Hokuto Amanokawa",
+            "person": {
+                "+content": "Jacob Browning",
+                "+@id": "143663"
+            }
+        },
+        {
+            "+@gid": "3362155347",
+            "+@lang": "EN",
+            "role": "Clockmon",
+            "person": {
+                "+content": "Joe Hernandez",
+                "+@id": "151877"
+            }
+        },
+        {
+            "+@gid": "1317337178",
+            "+@lang": "EN",
+            "role": "Gammamon",
+            "person": {
+                "+content": "Deneen Melody",
+                "+@id": "173656"
+            }
+        },
+        {
+            "+@gid": "3713908468",
+            "+@lang": "EN",
+            "role": "Aoi Udagawa",
+            "person": {
+                "+content": "Emi Lo",
+                "+@id": "174014"
+            }
+        },
+        {
+            "+@gid": "1960889774",
+            "+@lang": "EN",
+            "role": "Kotaro Nomura",
+            "person": {
+                "+content": "Brian Timothy Anderson",
+                "+@id": "174726"
+            }
+        },
+        {
+            "+@gid": "2732117170",
+            "+@lang": "EN",
+            "role": "Ryudamon",
+            "person": {
+                "+content": "Brian Timothy Anderson",
+                "+@id": "174726"
+            }
+        },
+        {
+            "+@gid": "2307559406",
+            "+@lang": "EN",
+            "role": "Airdramon",
+            "person": {
+                "+content": "Sean Burgos",
+                "+@id": "188109"
+            }
+        },
+        {
+            "+@gid": "2318602382",
+            "+@lang": "EN",
+            "role": "Bokomon",
+            "person": {
+                "+content": "Sean Burgos",
+                "+@id": "188109"
+            }
+        },
+        {
+            "+@gid": "715162157",
+            "+@lang": "EN",
+            "role": "Angoramon",
+            "person": {
+                "+content": "Ryan Colt Levy",
+                "+@id": "188981"
+            }
+        },
+        {
+            "+@gid": "3091076216",
+            "+@lang": "EN",
+            "role": "Ruri Tsukiyono",
+            "person": {
+                "+content": "Cat Protano",
+                "+@id": "212023"
+            }
+        },
+        {
+            "+@gid": "4276987694",
+            "+@lang": "EN",
+            "role": "Hiro Amanokawa",
+            "person": {
+                "+content": "Greg Vinciguerra",
+                "+@id": "217368"
+            }
+        },
+        {
+            "+@gid": "627976528",
+            "+@lang": "EN",
+            "role": "Mummymon",
+            "person": {
+                "+content": "Blythe Melin",
+                "+@id": "217806"
+            }
+        },
+        {
+            "+@gid": "1971491874",
+            "+@lang": "EN",
+            "role": "Jellymon",
+            "person": {
+                "+content": "Triya Leong",
+                "+@id": "218418"
+            }
+        },
+        {
+            "+@gid": "3477790501",
+            "+@lang": "EN",
+            "role": "Ghost Navigator",
+            "person": {
+                "+content": "Talon Warburton",
+                "+@id": "224267"
+            }
+        },
+        {
+            "+@gid": "1034663618",
+            "+@lang": "EN",
+            "role": "Espimon",
+            "person": {
+                "+content": "Analesa Fisher",
+                "+@id": "233355"
+            }
+        },
+        {
+            "+@gid": "4170913181",
+            "+@lang": "EN",
+            "role": "Mika Kashiwagi",
+            "person": {
+                "+content": "Maihan",
+                "+@id": "291361"
+            }
+        },
+        {
             "+@gid": "1768767910",
             "+@lang": "JA",
             "role": "Bakumon",
@@ -2009,7 +2197,7 @@
             "+@lang": "JA",
             "role": "Jellymon",
             "person": {
-                "+content": "Yu Shimamura",
+                "+content": "Yū Shimamura",
                 "+@id": "49621"
             }
         },
@@ -2076,6 +2264,6 @@
         }
     ],
     "+@date-added": "2021-08-01T16:40:05Z",
-    "+@date-last-modified-at": "2025-11-26T04:42:11Z",
-    "+@date-last-updated-at": "2025-11-26T04:42:11Z"
+    "+@date-last-modified-at": "2025-12-26T08:44:12Z",
+    "+@date-last-updated-at": "2025-12-26T08:44:12Z"
 }
