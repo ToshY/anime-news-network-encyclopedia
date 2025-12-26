@@ -4,12 +4,31 @@
     "+@type": "TV",
     "+@name": "Saga of Tanya the Evil II",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-11-26T08:43:38Z",
+    "+@generated-on": "2025-12-26T13:02:46Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "20509"
     },
     "info": [
+        {
+            "+@gid": "2998370028",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A24470-2998370028.1764327138.jpg",
+            "+@width": "142",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A24470-2998370028.1764327138.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A24470-2998370028.1764327138.jpg",
+                    "+@width": "425",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Saga of Tanya the Evil II",
             "+@gid": "2183163325",
@@ -17,28 +36,27 @@
             "+@lang": "JA"
         },
         {
-            "+content": "Yōjo Senki:",
+            "+content": "Yōjo Senki Ⅱ",
             "+@gid": "2172326077",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
-            "+content": "The Saga of Tanya the Evil",
+            "+content": "The Saga of Tanya the Evil Ⅱ",
             "+@gid": "3451851849",
             "+@type": "Alternative title",
             "+@lang": "EN"
         },
         {
-            "+content": "幼女戦記",
-            "+@gid": "3318288164",
+            "+content": "幼女戦記Ⅱ",
+            "+@gid": "2225475787",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
-            "+content": "幼女戦記II",
-            "+@gid": "3452873902",
-            "+@type": "Alternative title",
-            "+@lang": "JA"
+            "+content": "2026",
+            "+@gid": "1525017060",
+            "+@type": "Vintage"
         },
         {
             "+content": "「幼女戦記」アニメ公式サイト",
@@ -48,16 +66,43 @@
             "+@href": "http://youjo-senki.jp/"
         }
     ],
-    "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "8.0499"
-    },
-    "news": {
-        "+content": "<cite>Saga of Tanya the Evil</cite> TV Anime Gets 2nd Season",
-        "+@datetime": "2021-06-19T12:37:33Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2021-06-19/saga-of-tanya-the-evil-tv-anime-gets-2nd-season/.174179"
-    },
+    "news": [
+        {
+            "+content": "<cite>Saga of Tanya the Evil</cite> TV Anime Gets 2nd Season",
+            "+@datetime": "2021-06-19T12:37:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2021-06-19/saga-of-tanya-the-evil-tv-anime-gets-2nd-season/.174179"
+        },
+        {
+            "+content": "<cite>Saga of Tanya the Evil II</cite> TV Anime Reveals 2026 Debut in Teaser Promo Video",
+            "+@datetime": "2025-11-28T10:39:25Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-28/saga-of-tanya-the-evil-ii-tv-anime-reveals-2026-debut-in-teaser-promo-video/.231475"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "1727643968",
+            "task": "Director",
+            "person": {
+                "+content": "Takayuki Yamamoto",
+                "+@id": "153946"
+            }
+        },
+        {
+            "+@gid": "876161983",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Kenta Ihara",
+                "+@id": "130920"
+            }
+        },
+        {
+            "+@gid": "2383323717",
+            "task": "Script",
+            "person": {
+                "+content": "Kenta Ihara",
+                "+@id": "130920"
+            }
+        },
         {
             "+@gid": "2496674525",
             "task": "Original creator",
@@ -91,7 +136,62 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "1331308877",
+            "+@lang": "JA",
+            "role": "Erich von Rerugen",
+            "person": {
+                "+content": "Shinichirō Miki",
+                "+@id": "659"
+            }
+        },
+        {
+            "+@gid": "431186271",
+            "+@lang": "JA",
+            "role": "Kurt von Rudersdorf",
+            "person": {
+                "+content": "Tesshō Genda",
+                "+@id": "1250"
+            }
+        },
+        {
+            "+@gid": "1544193239",
+            "+@lang": "JA",
+            "role": "Viktoriya Ivanovna \"Visha\" Serebryakov",
+            "person": {
+                "+content": "Saori Hayami",
+                "+@id": "63462"
+            }
+        },
+        {
+            "+@gid": "2510564523",
+            "+@lang": "JA",
+            "role": "Tanya Degurechaff",
+            "person": {
+                "+content": "Aoi Yūki",
+                "+@id": "68107"
+            }
+        },
+        {
+            "+@gid": "1309595782",
+            "+@lang": "JA",
+            "role": "Hans von Zettour",
+            "person": {
+                "+content": "Hōchū Ōtsuka",
+                "+@id": "274643"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2943240734",
+        "task": "Animation Production",
+        "company": {
+            "+content": "NUT",
+            "+@id": "15923"
+        }
+    },
     "+@date-added": "2021-06-19T15:50:26Z",
-    "+@date-last-modified-at": "2025-11-26T08:43:39Z",
-    "+@date-last-updated-at": "2025-11-26T08:43:39Z"
+    "+@date-last-modified-at": "2025-12-26T13:02:48Z",
+    "+@date-last-updated-at": "2025-12-26T13:02:48Z"
 }
