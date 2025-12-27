@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Uma Musume: Cinderella Gray",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-11-27T08:44:02Z",
+    "+@generated-on": "2025-12-27T12:59:58Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "33371"
@@ -77,13 +77,18 @@
             "+@type": "Objectionable content"
         },
         {
-            "+content": "After losing to Tamamo Cross at the Autumn Tenno Sho, Oguri Cap vows to defeat her the next time they meet. However, at the same time, the duo must face the world's best uma musume racers at the Japan Cup, as well as the rising star Super Creek at the Arima Kinen.",
+            "+content": "After losing to Tamamo Cross at the Autumn Tenno Sho, Oguri Cap vows to defeat her the next time they meet. However, at the same time, she must face the world's best uma musume racers at the Japan Cup, as well as the rising stars Super Creek and Inari One.",
             "+@gid": "115999710",
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2025-10-05",
-            "+@gid": "1364072828",
+            "+content": "10",
+            "+@gid": "3798303023",
+            "+@type": "Number of episodes"
+        },
+        {
+            "+content": "2025-10-05 to 2025-12-21",
+            "+@gid": "1464233927",
             "+@type": "Vintage"
         },
         {
@@ -92,8 +97,13 @@
             "+@type": "Opening Theme"
         },
         {
-            "+content": "\"Futari\" (ふたり; Two of Us) by Tomoyo Takayanagi and Naomi Ōzora",
+            "+content": "#1: \"Futari\" (ふたり; Two of Us) by Tomoyo Takayanagi and Naomi Ōzora",
             "+@gid": "1558114077",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#2: \"Next Frontier\" by Tomoyo Takayanagi, Naomi Ōzora, and Yumiri Hanamori (ep 22)",
+            "+@gid": "2339254937",
             "+@type": "Ending Theme"
         },
         {
@@ -105,8 +115,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "9.2353"
+        "+@nb_votes": "13",
+        "+@weighted_score": "8.3467",
+        "+@bayesian_score": "7.9095"
     },
     "episode": [
         {
@@ -164,6 +175,30 @@
                 "+@gid": "1619044189",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "21",
+            "title": {
+                "+content": "The Arima Kinen",
+                "+@gid": "2562627667",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "22",
+            "title": {
+                "+content": "Gray Phantom",
+                "+@gid": "3148329153",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "23",
+            "title": {
+                "+content": "A New Era",
+                "+@gid": "3122041333",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -191,6 +226,11 @@
             "+content": "<cite>Uma Musume: Cinderella Gray</cite> Anime Reveals Ending Song for 2nd Part",
             "+@datetime": "2025-10-06T01:28:06Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-10-05/uma-musume-cinderella-gray-anime-reveals-ending-song-for-2nd-part/.229643"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, December 1-7",
+            "+@datetime": "2025-12-13T14:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-13/japanese-animation-tv-ranking-december-1-7/.232007"
         }
     ],
     "staff": [
@@ -216,6 +256,14 @@
             "person": {
                 "+content": "Takehiro Miura",
                 "+@id": "29860"
+            }
+        },
+        {
+            "+@gid": "2330527800",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Jun Fujiwara",
+                "+@id": "34804"
             }
         },
         {
@@ -275,6 +323,14 @@
             }
         },
         {
+            "+@gid": "1922680220",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yoshinori Nakano",
+                "+@id": "167390"
+            }
+        },
+        {
             "+@gid": "2107430144",
             "task": "Storyboard",
             "person": {
@@ -299,6 +355,38 @@
             }
         },
         {
+            "+@gid": "2086309857",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Seiji Ishigami",
+                "+@id": "291536"
+            }
+        },
+        {
+            "+@gid": "3041147834",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takehiro Miura",
+                "+@id": "29860"
+            }
+        },
+        {
+            "+@gid": "1710569150",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Jun Fujiwara",
+                "+@id": "34804"
+            }
+        },
+        {
+            "+@gid": "2206703276",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ichirō Tanaka",
+                "+@id": "43268"
+            }
+        },
+        {
             "+@gid": "2633178952",
             "task": "Episode Director",
             "person": {
@@ -312,6 +400,14 @@
             "person": {
                 "+content": "Motomasa Maeda",
                 "+@id": "117618"
+            }
+        },
+        {
+            "+@gid": "1901147530",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takehiro Shimizu",
+                "+@id": "124764"
             }
         },
         {
@@ -347,6 +443,14 @@
             }
         },
         {
+            "+@gid": "1986693652",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Zhe Liu",
+                "+@id": "169391"
+            }
+        },
+        {
             "+@gid": "1376481312",
             "task": "Episode Director",
             "person": {
@@ -355,11 +459,35 @@
             }
         },
         {
+            "+@gid": "2204972016",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kōhei Kido",
+                "+@id": "216909"
+            }
+        },
+        {
+            "+@gid": "2318447846",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takuma Suzuki",
+                "+@id": "225295"
+            }
+        },
+        {
             "+@gid": "2900082077",
             "task": "Episode Director",
             "person": {
                 "+content": "Hidetoshi Watanabe",
                 "+@id": "246913"
+            }
+        },
+        {
+            "+@gid": "1489549701",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ryō Asahi",
+                "+@id": "291537"
             }
         },
         {
@@ -483,6 +611,14 @@
             }
         },
         {
+            "+@gid": "728784108",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Akira Takata",
+                "+@id": "8052"
+            }
+        },
+        {
             "+@gid": "2425149969",
             "task": "Animation Director",
             "person": {
@@ -531,6 +667,14 @@
             }
         },
         {
+            "+@gid": "2945119390",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Saori Sakiguchi",
+                "+@id": "72294"
+            }
+        },
+        {
             "+@gid": "2630396738",
             "task": "Animation Director",
             "person": {
@@ -571,6 +715,22 @@
             }
         },
         {
+            "+@gid": "1699589783",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yu Okagaki",
+                "+@id": "120840"
+            }
+        },
+        {
+            "+@gid": "3258636636",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Asami Ueno",
+                "+@id": "130157"
+            }
+        },
+        {
             "+@gid": "2186068251",
             "task": "Animation Director",
             "person": {
@@ -603,6 +763,22 @@
             }
         },
         {
+            "+@gid": "1655536982",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kouki Ikeda",
+                "+@id": "179119"
+            }
+        },
+        {
+            "+@gid": "3366558514",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Xiao Wei Yuan",
+                "+@id": "188693"
+            }
+        },
+        {
             "+@gid": "947562280",
             "task": "Animation Director",
             "person": {
@@ -616,6 +792,14 @@
             "person": {
                 "+content": "Daisuke Shikato",
                 "+@id": "196069"
+            }
+        },
+        {
+            "+@gid": "2827319026",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kyoshiro Goto",
+                "+@id": "205490"
             }
         },
         {
@@ -667,11 +851,35 @@
             }
         },
         {
+            "+@gid": "2023728239",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kozue",
+                "+@id": "221248"
+            }
+        },
+        {
             "+@gid": "3017930904",
             "task": "Animation Director",
             "person": {
                 "+content": "Wen He",
                 "+@id": "230188"
+            }
+        },
+        {
+            "+@gid": "2648848533",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ri Jiu",
+                "+@id": "230190"
+            }
+        },
+        {
+            "+@gid": "1589762510",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zi Tu Chen",
+                "+@id": "230975"
             }
         },
         {
@@ -699,11 +907,67 @@
             }
         },
         {
+            "+@gid": "3048064522",
+            "task": "Animation Director",
+            "person": {
+                "+content": "KAGO",
+                "+@id": "240691"
+            }
+        },
+        {
+            "+@gid": "2679126906",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kyōsuke Okada",
+                "+@id": "240778"
+            }
+        },
+        {
+            "+@gid": "119244818",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuki Adachi",
+                "+@id": "242857"
+            }
+        },
+        {
             "+@gid": "1454686372",
             "task": "Animation Director",
             "person": {
                 "+content": "Yōko Nozawa",
                 "+@id": "246025"
+            }
+        },
+        {
+            "+@gid": "3440652077",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuito Kiyosawa",
+                "+@id": "249229"
+            }
+        },
+        {
+            "+@gid": "1977971686",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Azusa Ōura",
+                "+@id": "259063"
+            }
+        },
+        {
+            "+@gid": "2434535772",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūko Kobori",
+                "+@id": "259778"
+            }
+        },
+        {
+            "+@gid": "1269781680",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wen Hui Liu",
+                "+@id": "261301"
             }
         },
         {
@@ -731,11 +995,27 @@
             }
         },
         {
+            "+@gid": "1709556626",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wei Hang Liu",
+                "+@id": "270454"
+            }
+        },
+        {
             "+@gid": "656624790",
             "task": "Animation Director",
             "person": {
                 "+content": "Yi Yue Mao",
                 "+@id": "271166"
+            }
+        },
+        {
+            "+@gid": "2710485182",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tong Xu",
+                "+@id": "272812"
             }
         },
         {
@@ -752,6 +1032,14 @@
             "person": {
                 "+content": "MIYA",
                 "+@id": "279022"
+            }
+        },
+        {
+            "+@gid": "1653000091",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zi Xin Zhang",
+                "+@id": "280225"
             }
         },
         {
@@ -792,6 +1080,14 @@
             "person": {
                 "+content": "Uta Suzukaze",
                 "+@id": "290630"
+            }
+        },
+        {
+            "+@gid": "2270505387",
+            "task": "Animation Director",
+            "person": {
+                "+content": "FFFF",
+                "+@id": "291788"
             }
         },
         {
@@ -890,7 +1186,7 @@
         {
             "+@gid": "3115205714",
             "+@lang": "JA",
-            "role": "Katsumi Komiyama",
+            "role": "Masami Komiyama",
             "person": {
                 "+content": "Ryōko Shiraishi",
                 "+@id": "16480"
@@ -919,7 +1215,7 @@
             "+@lang": "JA",
             "role": "Fumino Nase",
             "person": {
-                "+content": "Yu Shimamura",
+                "+content": "Yū Shimamura",
                 "+@id": "49621"
             }
         },
@@ -993,6 +1289,15 @@
             "person": {
                 "+content": "Naomi Ōzora",
                 "+@id": "120825"
+            }
+        },
+        {
+            "+@gid": "817257875",
+            "+@lang": "JA",
+            "role": "Inari One",
+            "person": {
+                "+content": "Haruno Inoue",
+                "+@id": "127200"
             }
         },
         {
@@ -1122,6 +1427,6 @@
         }
     },
     "+@date-added": "2025-06-29T04:15:05Z",
-    "+@date-last-modified-at": "2025-11-27T08:44:05Z",
-    "+@date-last-updated-at": "2025-11-27T08:44:05Z"
+    "+@date-last-modified-at": "2025-12-27T13:00:02Z",
+    "+@date-last-updated-at": "2025-12-27T13:00:02Z"
 }
