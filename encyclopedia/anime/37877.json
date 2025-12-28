@@ -4,12 +4,31 @@
     "+@type": "movie",
     "+@name": "Rascal Does Not Dream of a Dear Friend",
     "+@precision": "movie",
-    "+@generated-on": "2025-11-28T04:40:18Z",
+    "+@generated-on": "2025-12-28T04:55:32Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "33077"
     },
     "info": [
+        {
+            "+@gid": "2309144377",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37877-2309144377.1765723877.jpg",
+            "+@width": "142",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37877-2309144377.1765723877.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37877-2309144377.1765723877.jpg",
+                    "+@width": "426",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Rascal Does Not Dream of a Dear Friend",
             "+@gid": "509779303",
@@ -29,17 +48,63 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2026",
+            "+content": "2026 (fall)",
             "+@gid": "1171394714",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "アニメ「青春ブタ野郎はディアフレンドの夢を見ない」2026年秋劇場公開",
+            "+@gid": "2052297637",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://ao-buta.com/dearfriend/"
         }
     ],
-    "news": {
-        "+content": "<cite>Rascal Does Not Dream of a Dear Friend</cite> Film Teased as Taking Story to Its Finale in 2026",
-        "+@datetime": "2025-09-27T15:20:12Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-09-27/rascal-does-not-dream-of-a-dear-friend-film-teased-as-taking-story-to-its-finale-in-2026/.229362"
-    },
+    "news": [
+        {
+            "+content": "<cite>Rascal Does Not Dream of a Dear Friend</cite> Film Teased as Taking Story to Its Finale in 2026",
+            "+@datetime": "2025-09-27T15:20:12Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-27/rascal-does-not-dream-of-a-dear-friend-film-teased-as-taking-story-to-its-finale-in-2026/.229362"
+        },
+        {
+            "+content": "<cite>Rascal Does Not Dream of a Dear Friend</cite> Film Announces Fall 2026 Debut",
+            "+@datetime": "2025-12-14T10:31:54Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-14/rascal-does-not-dream-of-a-dear-friend-film-announces-fall-2026-debut/.232076"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "2410107067",
+            "task": "Director",
+            "person": {
+                "+content": "Sōichi Masui",
+                "+@id": "9802"
+            }
+        },
+        {
+            "+@gid": "2743267187",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Masahiro Yokotani",
+                "+@id": "32136"
+            }
+        },
+        {
+            "+@gid": "2464725771",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Masahiro Yokotani",
+                "+@id": "32136"
+            }
+        },
+        {
+            "+@gid": "1514282806",
+            "task": "Music",
+            "person": {
+                "+content": "fox capture plan",
+                "+@id": "171777"
+            }
+        },
         {
             "+@gid": "1538977810",
             "task": "Original creator",
@@ -55,8 +120,135 @@
                 "+content": "Keeji Mizoguchi",
                 "+@id": "105907"
             }
+        },
+        {
+            "+@gid": "2055080517",
+            "task": "Character Design",
+            "person": {
+                "+content": "Satomi Tamura",
+                "+@id": "89635"
+            }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "1962746408",
+            "+@lang": "JA",
+            "role": "Nodoka Toyohama",
+            "person": {
+                "+content": "Maaya Uchida",
+                "+@id": "94314"
+            }
+        },
+        {
+            "+@gid": "507579998",
+            "+@lang": "JA",
+            "role": "Shōko Makinohara",
+            "person": {
+                "+content": "Inori Minase",
+                "+@id": "95027"
+            }
+        },
+        {
+            "+@gid": "1896785860",
+            "+@lang": "JA",
+            "role": "Mai Sakurajima",
+            "person": {
+                "+content": "Asami Seto",
+                "+@id": "95225"
+            }
+        },
+        {
+            "+@gid": "2102712296",
+            "+@lang": "JA",
+            "role": "Tomoe Koga",
+            "person": {
+                "+content": "Nao Tōyama",
+                "+@id": "95316"
+            }
+        },
+        {
+            "+@gid": "852591259",
+            "+@lang": "JA",
+            "role": "Rio Futaba",
+            "person": {
+                "+content": "Atsumi Tanezaki",
+                "+@id": "111376"
+            }
+        },
+        {
+            "+@gid": "3271310268",
+            "+@lang": "JA",
+            "role": "Kaede Azusagawa",
+            "person": {
+                "+content": "Yurika Kubo",
+                "+@id": "112826"
+            }
+        },
+        {
+            "+@gid": "1164541481",
+            "+@lang": "JA",
+            "role": "Sakuta Azusagawa",
+            "person": {
+                "+content": "Kaito Ishikawa",
+                "+@id": "114052"
+            }
+        },
+        {
+            "+@gid": "3517029840",
+            "+@lang": "JA",
+            "role": "Nene Iwamizawa",
+            "person": {
+                "+content": "Reina Ueda",
+                "+@id": "116390"
+            }
+        },
+        {
+            "+@gid": "658101427",
+            "+@lang": "JA",
+            "role": "Uzuki Hirokawa",
+            "person": {
+                "+content": "Sora Amamiya",
+                "+@id": "119743"
+            }
+        },
+        {
+            "+@gid": "2073711999",
+            "+@lang": "JA",
+            "role": "Sara Himeji",
+            "person": {
+                "+content": "Konomi Kohara",
+                "+@id": "153781"
+            }
+        },
+        {
+            "+@gid": "979612036",
+            "+@lang": "JA",
+            "role": "Miori Mitō",
+            "person": {
+                "+content": "Manaka Iwami",
+                "+@id": "156030"
+            }
+        },
+        {
+            "+@gid": "2739835396",
+            "+@lang": "JA",
+            "role": "Ikumi Akagi",
+            "person": {
+                "+content": "Aya Yamane",
+                "+@id": "173872"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "1675556359",
+        "task": "Animation Production",
+        "company": {
+            "+content": "CloverWorks",
+            "+@id": "16953"
+        }
+    },
     "+@date-added": "2025-09-27T22:42:30Z",
-    "+@date-last-updated-at": "2025-11-28T04:40:21Z"
+    "+@date-last-modified-at": "2025-12-28T04:55:34Z",
+    "+@date-last-updated-at": "2025-12-28T04:55:34Z"
 }
