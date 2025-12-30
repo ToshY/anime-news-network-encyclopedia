@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "MARRIAGETOXIN",
     "+@precision": "TV",
-    "+@generated-on": "2025-11-30T04:48:32Z",
+    "+@generated-on": "2025-12-30T04:52:57Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25739"
@@ -13,19 +13,24 @@
         {
             "+@gid": "1865452924",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37882-1865452924.1759271382.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37882-1865452924.1765865407.jpg",
+            "+@width": "140",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37882-1865452924.1759271382.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37882-1865452924.1765865407.jpg",
+                    "+@width": "140",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37882-1865452924.1759271382.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37882-1865452924.1765865407.jpg",
+                    "+@width": "419",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37882-1865452924.1765865407.jpg",
+                    "+@width": "539",
+                    "+@height": "772"
                 }
             ]
         },
@@ -82,6 +87,11 @@
             "+content": "<cite>The Ghost in the Shell, Marriage Toxin, Super Psychic Policeman Chojo</cite> Anime to Air in New Tuesday Night Programming Block",
             "+@datetime": "2025-10-23T10:39:43Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-10-23/the-ghost-in-the-shell-marriage-toxin-super-psychic-policeman-chojo-anime-to-air-in-new-tuesday-/.230241"
+        },
+        {
+            "+content": "<cite>Marriage Toxin</cite> TV Anime Reveals Trailer, More Cast & Staff",
+            "+@datetime": "2025-12-16T06:27:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-16/marriage-toxin-tv-anime-reveals-trailer-more-cast-and-staff/.232053"
         }
     ],
     "staff": [
@@ -156,9 +166,50 @@
                 "+content": "Kōhei Tokuoka",
                 "+@id": "95421"
             }
+        },
+        {
+            "+@gid": "2050783822",
+            "task": "Art design",
+            "person": {
+                "+content": "Toshiki Amata",
+                "+@id": "149325"
+            }
+        },
+        {
+            "+@gid": "2640612738",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Haru Yamada",
+                "+@id": "135072"
+            }
+        },
+        {
+            "+@gid": "1324506628",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Taiki Nagashima",
+                "+@id": "291838"
+            }
+        },
+        {
+            "+@gid": "2428933088",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Gō Kanbayashi",
+                "+@id": "59415"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "1217037356",
+            "+@lang": "JA",
+            "role": "Shizuku Ushio",
+            "person": {
+                "+content": "Mariya Ise",
+                "+@id": "46112"
+            }
+        },
         {
             "+@gid": "2123979041",
             "+@lang": "JA",
@@ -169,12 +220,75 @@
             }
         },
         {
+            "+@gid": "2806674994",
+            "+@lang": "JA",
+            "role": "Akari Gero",
+            "person": {
+                "+content": "Haruka Shiraishi",
+                "+@id": "104544"
+            }
+        },
+        {
+            "+@gid": "2469155506",
+            "+@lang": "JA",
+            "role": "Genya Naruko",
+            "person": {
+                "+content": "Sōma Saitō",
+                "+@id": "104960"
+            }
+        },
+        {
+            "+@gid": "640909725",
+            "+@lang": "JA",
+            "role": "Toshiki Hanamaki",
+            "person": {
+                "+content": "Isamu Yūsen",
+                "+@id": "117729"
+            }
+        },
+        {
+            "+@gid": "1646585772",
+            "+@lang": "JA",
+            "role": "Piichi Nakagawa",
+            "person": {
+                "+content": "Shimba Tsuchiya",
+                "+@id": "121607"
+            }
+        },
+        {
             "+@gid": "2410084752",
             "+@lang": "JA",
             "role": "Hikaru Gero",
             "person": {
                 "+content": "Haruki Ishiya",
                 "+@id": "124503"
+            }
+        },
+        {
+            "+@gid": "2656922158",
+            "+@lang": "JA",
+            "role": "Kyōko Himekawa",
+            "person": {
+                "+content": "Anna Nagase",
+                "+@id": "196760"
+            }
+        },
+        {
+            "+@gid": "3821007825",
+            "+@lang": "JA",
+            "role": "Shiori Ureshino",
+            "person": {
+                "+content": "Asaki Yuikawa",
+                "+@id": "237718"
+            }
+        },
+        {
+            "+@gid": "2710109608",
+            "+@lang": "JA",
+            "role": "Kimie Arashiyama",
+            "person": {
+                "+content": "Hinano Shirahama",
+                "+@id": "273437"
             }
         }
     ],
@@ -187,5 +301,6 @@
         }
     },
     "+@date-added": "2025-09-30T18:29:02Z",
-    "+@date-last-updated-at": "2025-11-30T04:48:37Z"
+    "+@date-last-modified-at": "2025-12-30T04:53:03Z",
+    "+@date-last-updated-at": "2025-12-30T04:53:03Z"
 }

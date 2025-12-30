@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Kill Blue",
     "+@precision": "TV",
-    "+@generated-on": "2025-11-30T04:48:32Z",
+    "+@generated-on": "2025-12-30T04:52:57Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27910"
@@ -13,17 +13,17 @@
         {
             "+@gid": "793149865",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37722-793149865.1756679365.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37722-793149865.1766298170.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37722-793149865.1756679365.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37722-793149865.1766298170.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37722-793149865.1756679365.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37722-793149865.1766298170.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
@@ -67,7 +67,7 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026",
+            "+content": "2026-04",
             "+@gid": "1932456709",
             "+@type": "Vintage"
         },
@@ -86,11 +86,18 @@
             "+@href": "https://kill-blue.us/"
         }
     ],
-    "news": {
-        "+content": "<cite>Kill Blue</cite> TV Anime Casts Shunsuke Takeuchi as Protagonist Juzo Ogami",
-        "+@datetime": "2025-10-23T10:32:28Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-10-23/kill-blue-tv-anime-casts-shunsuke-takeuchi-as-protagonist-juzo-ogami/.230239"
-    },
+    "news": [
+        {
+            "+content": "<cite>Kill Blue</cite> TV Anime Casts Shunsuke Takeuchi as Protagonist Juzo Ogami",
+            "+@datetime": "2025-10-23T10:32:28Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-23/kill-blue-tv-anime-casts-shunsuke-takeuchi-as-protagonist-juzo-ogami/.230239"
+        },
+        {
+            "+content": "<cite>Kill Blue</cite> TV Anime Reveals More Cast, April 2026 Debut in Trailer",
+            "+@datetime": "2025-12-21T04:55:47Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-20/kill-blue-tv-anime-reveals-more-cast-april-2026-debut-in-trailer/.232333"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1602907115",
@@ -117,15 +124,71 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "747951413",
-        "+@lang": "JA",
-        "role": "Jūzō Ōgami",
-        "person": {
-            "+content": "Shunsuke Takeuchi",
-            "+@id": "132044"
+    "cast": [
+        {
+            "+@gid": "2835160910",
+            "+@lang": "JA",
+            "role": "Jūzō Ōgami",
+            "person": {
+                "+content": "Yūko Sanpei",
+                "+@id": "22150"
+            }
+        },
+        {
+            "+@gid": "3530251792",
+            "+@lang": "JA",
+            "role": "Eri Wanibuchi",
+            "person": {
+                "+content": "Yumi Uchiyama",
+                "+@id": "96014"
+            }
+        },
+        {
+            "+@gid": "1426677635",
+            "+@lang": "JA",
+            "role": "Chisato Shiraishi",
+            "person": {
+                "+content": "Atsumi Tanezaki",
+                "+@id": "111376"
+            }
+        },
+        {
+            "+@gid": "747951413",
+            "+@lang": "JA",
+            "role": "Jūzō Ōgami",
+            "person": {
+                "+content": "Shunsuke Takeuchi",
+                "+@id": "132044"
+            }
+        },
+        {
+            "+@gid": "767867499",
+            "+@lang": "JA",
+            "role": "Tenma Tendō",
+            "person": {
+                "+content": "Takeo Ōtsuka",
+                "+@id": "158555"
+            }
+        },
+        {
+            "+@gid": "3151061531",
+            "+@lang": "JA",
+            "role": "Kotatsu Nekota",
+            "person": {
+                "+content": "Shūichirō Umeda",
+                "+@id": "187553"
+            }
+        },
+        {
+            "+@gid": "2325550717",
+            "+@lang": "JA",
+            "role": "Noren Mitsuoka",
+            "person": {
+                "+content": "Fūka Izumi",
+                "+@id": "201580"
+            }
         }
-    },
+    ],
     "credit": {
         "+@gid": "3341273793",
         "task": "Animation Production",
@@ -135,5 +198,6 @@
         }
     },
     "+@date-added": "2025-08-31T18:28:28Z",
-    "+@date-last-updated-at": "2025-11-30T04:48:37Z"
+    "+@date-last-modified-at": "2025-12-30T04:53:03Z",
+    "+@date-last-updated-at": "2025-12-30T04:53:03Z"
 }

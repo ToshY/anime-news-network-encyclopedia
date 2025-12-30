@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Mobile Suit Gundam Hathaway",
     "+@precision": "movie",
-    "+@generated-on": "2025-11-30T02:29:37Z",
+    "+@generated-on": "2025-12-30T04:52:57Z",
     "related-prev": [
         {
             "+@rel": "sequel of",
@@ -15,10 +15,16 @@
             "+@id": "4189"
         }
     ],
-    "related-next": {
-        "+@id": "36742",
-        "+@rel": "sequel"
-    },
+    "related-next": [
+        {
+            "+@id": "36742",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "38117",
+            "+@rel": "compilation"
+        }
+    ],
     "info": [
         {
             "+@gid": "2125598533",
@@ -148,9 +154,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "70",
-        "+@weighted_score": "7.6283",
-        "+@bayesian_score": "7.60391"
+        "+@nb_votes": "71",
+        "+@weighted_score": "7.6381",
+        "+@bayesian_score": "7.61242"
     },
     "review": {
         "+content": "Mobile Suit Gundam Hathaway",
@@ -346,6 +352,11 @@
             "+content": "2nd <cite>Gundam Hathaway</cite> Film's Trailer Confirms January 30, 2026 Delay",
             "+@datetime": "2025-10-09T23:31:46Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-10-09/2nd-gundam-hathaway-film-trailer-confirms-january-30-2026-delay/.229798"
+        },
+        {
+            "+content": "1st <cite>Gundam Hathaway</cite> Film Gets Episodic TV Version",
+            "+@datetime": "2025-12-07T06:26:15Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-07/1st-gundam-hathaway-film-gets-episodic-tv-version/.231771"
         }
     ],
     "staff": [
@@ -1685,6 +1696,6 @@
         }
     ],
     "+@date-added": "2019-12-31T12:07:44Z",
-    "+@date-last-modified-at": "2025-11-30T02:29:41Z",
-    "+@date-last-updated-at": "2025-11-30T02:29:41Z"
+    "+@date-last-modified-at": "2025-12-30T04:53:03Z",
+    "+@date-last-updated-at": "2025-12-30T04:53:03Z"
 }
