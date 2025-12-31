@@ -4,15 +4,21 @@
     "+@type": "TV",
     "+@name": "Psycho-Pass 3",
     "+@precision": "TV",
-    "+@generated-on": "2025-12-01T08:47:22Z",
+    "+@generated-on": "2025-12-31T13:03:45Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "21547"
     },
-    "related-next": {
-        "+@id": "23025",
-        "+@rel": "sequel"
-    },
+    "related-next": [
+        {
+            "+@id": "23025",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "26226",
+            "+@rel": "prequel"
+        }
+    ],
     "info": [
         {
             "+@gid": "1208924855",
@@ -90,8 +96,8 @@
     ],
     "ratings": {
         "+@nb_votes": "136",
-        "+@weighted_score": "7.4404",
-        "+@bayesian_score": "7.44321"
+        "+@weighted_score": "7.4406",
+        "+@bayesian_score": "7.44335"
     },
     "episode": [
         {
@@ -861,6 +867,6 @@
         }
     },
     "+@date-added": "2019-03-15T00:09:19Z",
-    "+@date-last-modified-at": "2025-12-01T08:47:25Z",
-    "+@date-last-updated-at": "2025-12-01T08:47:25Z"
+    "+@date-last-modified-at": "2025-12-31T13:03:48Z",
+    "+@date-last-updated-at": "2025-12-31T13:03:48Z"
 }
