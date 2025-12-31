@@ -4,15 +4,21 @@
     "+@type": "movie",
     "+@name": "Psycho-Pass: Sinners of the System",
     "+@precision": "movies",
-    "+@generated-on": "2025-12-01T16:46:48Z",
+    "+@generated-on": "2025-12-31T20:36:03Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "15670"
     },
-    "related-next": {
-        "+@id": "21952",
-        "+@rel": "sequel"
-    },
+    "related-next": [
+        {
+            "+@id": "21952",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "26226",
+            "+@rel": "sequel"
+        }
+    ],
     "info": [
         {
             "+@gid": "3342724427",
@@ -108,7 +114,7 @@
     "ratings": {
         "+@nb_votes": "93",
         "+@weighted_score": "7.7332",
-        "+@bayesian_score": "7.70124"
+        "+@bayesian_score": "7.70118"
     },
     "review": [
         {
@@ -305,7 +311,7 @@
             }
         },
         {
-            "+@gid": "2322650813",
+            "+@gid": "1018365501",
             "task": "Unit Director",
             "person": {
                 "+content": "Toshiyuki Yamashita",
@@ -1807,6 +1813,6 @@
         }
     ],
     "+@date-added": "2018-10-31T11:53:17Z",
-    "+@date-last-modified-at": "2025-12-01T16:46:50Z",
-    "+@date-last-updated-at": "2025-12-01T16:46:50Z"
+    "+@date-last-modified-at": "2025-12-31T20:36:06Z",
+    "+@date-last-updated-at": "2025-12-31T20:36:06Z"
 }
