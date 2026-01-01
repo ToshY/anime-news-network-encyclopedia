@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Jumbo Max",
     "+@precision": "manga",
-    "+@generated-on": "2025-12-02T04:44:46Z",
+    "+@generated-on": "2026-01-01T13:04:17Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "4327"
@@ -61,11 +61,18 @@
         "+@nb_votes": "1",
         "+@weighted_score": "9"
     },
-    "news": {
-        "+content": "<cite>Ice Blade's</cite> Tsutomu Takahashi Launches <cite>Jumbo Max</cite> Manga",
-        "+@datetime": "2020-04-09T21:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2020-04-09/ice-blade-tsutomu-takahashi-launches-jumbo-max-manga/.158392"
-    },
+    "news": [
+        {
+            "+content": "<cite>Ice Blade's</cite> Tsutomu Takahashi Launches <cite>Jumbo Max</cite> Manga",
+            "+@datetime": "2020-04-09T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2020-04-09/ice-blade-tsutomu-takahashi-launches-jumbo-max-manga/.158392"
+        },
+        {
+            "+content": "11 Works Including <cite>DAN DA DAN, Cosmos, Firefly Wedding</cite> Nominated for 71st Shogakukan Manga Awards",
+            "+@datetime": "2025-12-04T09:45:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-04/11-works-including-dan-da-dan-cosmos-firefly-wedding-nominated-for-71st-shogakukan-manga-awards/.231702"
+        }
+    ],
     "staff": {
         "+@gid": "3183295335",
         "task": "Story & Art",
@@ -75,5 +82,6 @@
         }
     },
     "+@date-added": "2024-03-14T08:56:01Z",
-    "+@date-last-updated-at": "2025-12-02T04:44:47Z"
+    "+@date-last-modified-at": "2026-01-01T13:04:19Z",
+    "+@date-last-updated-at": "2026-01-01T13:04:19Z"
 }
