@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Akane-banashi",
     "+@precision": "TV",
-    "+@generated-on": "2025-12-03T08:45:48Z",
+    "+@generated-on": "2026-01-02T08:45:57Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25523"
@@ -13,17 +13,17 @@
         {
             "+@gid": "3550998009",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37292-3550998009.1754353575.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37292-3550998009.1766301314.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37292-3550998009.1754353575.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37292-3550998009.1766301314.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37292-3550998009.1754353575.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37292-3550998009.1766301314.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
@@ -46,7 +46,7 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026",
+            "+content": "2026-04",
             "+@gid": "1870730632",
             "+@type": "Vintage"
         },
@@ -56,6 +56,18 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://akane-banashi.com/"
+        }
+    ],
+    "news": [
+        {
+            "+content": "<cite>Akane-banashi</cite> Anime Reveals Trailer, More Cast & Staff, April 2026 Debut",
+            "+@datetime": "2025-12-21T07:10:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-21/akane-banashi-anime-reveals-trailer-more-cast-and-staff-april-2026-debut/.232342"
+        },
+        {
+            "+content": "<cite>Akane-banashi</cite> Anime Casts Akihisa Shiono",
+            "+@datetime": "2025-12-27T15:19:01Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-27/akane-banashi-anime-casts-akihisa-shiono/.232553"
         }
     ],
     "staff": [
@@ -108,15 +120,64 @@
             }
         },
         {
+            "+@gid": "2530821332",
+            "task": "Art Director",
+            "person": {
+                "+content": "Takumi Oda",
+                "+@id": "259215"
+            }
+        },
+        {
+            "+@gid": "521599922",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Hisashi Kagawa",
+                "+@id": "3028"
+            }
+        },
+        {
+            "+@gid": "239671560",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yasunari Nitta",
+                "+@id": "18562"
+            }
+        },
+        {
             "+@gid": "3547439167",
             "task": "Chief Animation Director",
             "person": {
                 "+content": "Kii Tanaka",
                 "+@id": "119033"
             }
+        },
+        {
+            "+@gid": "3620564744",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Noriyoshi Konuma",
+                "+@id": "84893"
+            }
+        },
+        {
+            "+@gid": "2044075257",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yūta Nakamura",
+                "+@id": "210906"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "3220566847",
+            "+@lang": "JA",
+            "role": "Shinta Arakawa",
+            "person": {
+                "+content": "Jun Fukuyama",
+                "+@id": "337"
+            }
+        },
         {
             "+@gid": "1126469092",
             "+@lang": "JA",
@@ -124,6 +185,33 @@
             "person": {
                 "+content": "Takuya Eguchi",
                 "+@id": "76338"
+            }
+        },
+        {
+            "+@gid": "1345397366",
+            "+@lang": "JA",
+            "role": "Maikeru Arakawa",
+            "person": {
+                "+content": "Nobunaga Shimazaki",
+                "+@id": "86706"
+            }
+        },
+        {
+            "+@gid": "1886227311",
+            "+@lang": "JA",
+            "role": "Kyoji Arakawa",
+            "person": {
+                "+content": "Yōhei Azakami",
+                "+@id": "108274"
+            }
+        },
+        {
+            "+@gid": "2097833094",
+            "+@lang": "JA",
+            "role": "Guriko Arakawa",
+            "person": {
+                "+content": "Seiichirō Yamashita",
+                "+@id": "121187"
             }
         },
         {
@@ -136,12 +224,30 @@
             }
         },
         {
+            "+@gid": "1885225528",
+            "+@lang": "JA",
+            "role": "Koguma Arakawa",
+            "person": {
+                "+content": "Chiaki Kobayashi",
+                "+@id": "176057"
+            }
+        },
+        {
             "+@gid": "2625797634",
             "+@lang": "JA",
             "role": "Akane Ōsaki",
             "person": {
                 "+content": "Anna Nagase",
                 "+@id": "196760"
+            }
+        },
+        {
+            "+@gid": "1900181449",
+            "+@lang": "JA",
+            "role": "Kaisei Arakawa",
+            "person": {
+                "+content": "Akihisa Shiono",
+                "+@id": "290437"
             }
         }
     ],
@@ -154,5 +260,6 @@
         }
     },
     "+@date-added": "2025-08-04T20:24:21Z",
-    "+@date-last-updated-at": "2025-12-03T08:45:51Z"
+    "+@date-last-modified-at": "2026-01-02T08:46:00Z",
+    "+@date-last-updated-at": "2026-01-02T08:46:00Z"
 }
