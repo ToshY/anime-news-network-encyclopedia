@@ -4,12 +4,31 @@
     "+@type": "TV",
     "+@name": "Black Clover",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-12-04T08:45:35Z",
+    "+@generated-on": "2026-01-03T13:00:33Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "19743"
     },
     "info": [
+        {
+            "+@gid": "1321379261",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36880-1321379261.1766301083.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36880-1321379261.1766301083.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36880-1321379261.1766301083.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Black Clover",
             "+@gid": "1502427655",
@@ -31,11 +50,24 @@
             "+content": "fantasy",
             "+@gid": "1539726949",
             "+@type": "Genres"
+        },
+        {
+            "+content": "2026",
+            "+@gid": "3686270377",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ『ブラッククローバー』公式サイト",
+            "+@gid": "2022445367",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://bclover.jp/"
         }
     ],
-    "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "7"
+    "news": {
+        "+content": "<cite>Black Clover</cite> Anime's 2nd Season Reveals 2026 Debut in Video (Updated)",
+        "+@datetime": "2025-12-21T07:06:58Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-12-21/black-clover-anime-2nd-season-reveals-2026-debut-in-video/.232340"
     },
     "staff": {
         "+@gid": "804591573",
@@ -45,6 +77,53 @@
             "+@id": "126506"
         }
     },
+    "cast": [
+        {
+            "+@gid": "2309353554",
+            "+@lang": "JA",
+            "role": "Nacht Faust",
+            "person": {
+                "+content": "Hiro Shimono",
+                "+@id": "7636"
+            }
+        },
+        {
+            "+@gid": "1811679183",
+            "+@lang": "JA",
+            "role": "Yami Sukehiro",
+            "person": {
+                "+content": "Junichi Suwabe",
+                "+@id": "48696"
+            }
+        },
+        {
+            "+@gid": "1861479139",
+            "+@lang": "JA",
+            "role": "Yuno",
+            "person": {
+                "+content": "Nobunaga Shimazaki",
+                "+@id": "86706"
+            }
+        },
+        {
+            "+@gid": "99371152",
+            "+@lang": "JA",
+            "role": "Noelle Silva",
+            "person": {
+                "+content": "Kana Yūki",
+                "+@id": "127401"
+            }
+        },
+        {
+            "+@gid": "2589787280",
+            "+@lang": "JA",
+            "role": "Asta",
+            "person": {
+                "+content": "Gakuto Kajiwara",
+                "+@id": "159160"
+            }
+        }
+    ],
     "credit": {
         "+@gid": "1920234383",
         "task": "Animation Production",
@@ -54,5 +133,6 @@
         }
     },
     "+@date-added": "2025-07-05T22:50:18Z",
-    "+@date-last-updated-at": "2025-12-04T08:45:38Z"
+    "+@date-last-modified-at": "2026-01-03T13:00:37Z",
+    "+@date-last-updated-at": "2026-01-03T13:00:37Z"
 }
