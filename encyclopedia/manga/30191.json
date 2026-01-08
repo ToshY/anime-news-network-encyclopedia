@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Tamamori's Fantasies Never Stop!",
     "+@precision": "manga",
-    "+@generated-on": "2025-12-09T16:44:26Z",
+    "+@generated-on": "2026-01-08T16:49:46Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "27577"
@@ -79,11 +79,18 @@
         "+@nb_votes": "1",
         "+@weighted_score": "2"
     },
-    "release": {
-        "+content": "Tamamori's Fantasies Never Stop! (GN 1)",
-        "+@date": "2025-02-25",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52292"
-    },
+    "release": [
+        {
+            "+content": "Tamamori's Fantasies Never Stop! (GN 1)",
+            "+@date": "2025-02-25",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52292"
+        },
+        {
+            "+content": "Tamamori's Fantasies Never Stop! (GN 2)",
+            "+@date": "2025-07-01",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=56199"
+        }
+    ],
     "news": [
         {
             "+content": "Seven Seas Licenses <cite>Fate/Kaleid Liner Prisma Illya</cite>, <cite>It Takes More Than a Pretty Face to Fall in Love</cite>, 2 More Manga",
@@ -99,6 +106,11 @@
             "+content": "<cite>Tamamori's Fantasies Never Stop!</cite> Manga Ends",
             "+@datetime": "2025-03-10T17:30:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-03-10/tamamori-fantasies-never-stop-manga-ends/.222175"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, December 14-20",
+            "+@datetime": "2025-12-18T22:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-18/north-american-anime-manga-releases-december-14-20/.232157"
         }
     ],
     "staff": {
@@ -110,5 +122,6 @@
         }
     },
     "+@date-added": "2023-10-05T18:39:07Z",
-    "+@date-last-updated-at": "2025-12-09T16:44:27Z"
+    "+@date-last-modified-at": "2026-01-08T16:49:46Z",
+    "+@date-last-updated-at": "2026-01-08T16:49:46Z"
 }
