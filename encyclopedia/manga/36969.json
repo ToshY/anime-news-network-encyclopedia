@@ -2,13 +2,19 @@
     "+@id": "36969",
     "+@gid": "1736849389",
     "+@type": "manga",
-    "+@name": "Yotsugo Gurashi",
+    "+@name": "Yotsugogurashi",
     "+@precision": "manga",
-    "+@generated-on": "2025-12-09T04:43:37Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "15760"
-    },
+    "+@generated-on": "2026-01-08T04:53:22Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "15760"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "38211"
+        }
+    ],
     "info": [
         {
             "+@gid": "1643620927",
@@ -35,8 +41,8 @@
             ]
         },
         {
-            "+content": "Yotsugo Gurashi",
-            "+@gid": "2168170963",
+            "+content": "Yotsugogurashi",
+            "+@gid": "3311146450",
             "+@type": "Main title",
             "+@lang": "JA"
         },
@@ -50,6 +56,11 @@
             "+content": "drama",
             "+@gid": "2724629188",
             "+@type": "Genres"
+        },
+        {
+            "+content": "family",
+            "+@gid": "855720462",
+            "+@type": "Themes"
         },
         {
             "+content": "2021-02-10 (serialized in Comptiq, Mar 2021)",
@@ -76,5 +87,6 @@
         }
     ],
     "+@date-added": "2025-07-11T00:46:18Z",
-    "+@date-last-updated-at": "2025-12-09T04:43:39Z"
+    "+@date-last-modified-at": "2026-01-08T04:53:23Z",
+    "+@date-last-updated-at": "2026-01-08T04:53:23Z"
 }
