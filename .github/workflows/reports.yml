@@ -91,7 +91,7 @@ jobs:
       has_files: ${{ steps.check-directory.outputs.has_files }}
     steps:
       - name: Download artifacts
-        uses: actions/download-artifact@v6
+        uses: actions/download-artifact@v7
         with:
           path: /tmp/reports
           pattern: report-*
@@ -135,7 +135,7 @@ jobs:
           ref: ${{ github.head_ref }}
 
       - name: Download artifacts
-        uses: actions/download-artifact@v6
+        uses: actions/download-artifact@v7
         with:
           path: /tmp/reports
           pattern: report-*
