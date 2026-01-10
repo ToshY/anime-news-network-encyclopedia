@@ -4,15 +4,21 @@
     "+@type": "manga",
     "+@name": "Mechanical Marie",
     "+@precision": "manga",
-    "+@generated-on": "2025-12-11T02:24:31Z",
+    "+@generated-on": "2026-01-10T04:48:16Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "4526"
     },
-    "related-next": {
-        "+@id": "33134",
-        "+@rel": "adaptation"
-    },
+    "related-next": [
+        {
+            "+@id": "33134",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "38208",
+            "+@rel": "sequel"
+        }
+    ],
     "info": [
         {
             "+@gid": "1590436138",
@@ -100,11 +106,18 @@
         "+content": "<cite>Mechanical Marie</cite> Volume 1 Manga Review",
         "+@href": "https://www.animenewsnetwork.com/review/mechanical-marie-volume-1-manga/.227752"
     },
-    "release": {
-        "+content": "Mechanical Marie (GN 1)",
-        "+@date": "2025-08-26",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=54460"
-    },
+    "release": [
+        {
+            "+content": "Mechanical Marie (GN 1)",
+            "+@date": "2025-08-26",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=54460"
+        },
+        {
+            "+content": "Mechanical Marie (GN 2)",
+            "+@date": "2026-02-24",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=56098"
+        }
+    ],
     "news": [
         {
             "+content": "Aki Akimoto's <cite>Kikaijikake no Marie</cite> Manga Gets TV Anime Adaptation",
@@ -125,6 +138,11 @@
             "+content": "North American Anime, Manga Releases, August 24-30",
             "+@datetime": "2025-08-29T21:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-08-29/north-american-anime-manga-releases-august-24-30/.228082"
+        },
+        {
+            "+content": "<cite>Mechanical Marie+</cite> Manga Ends",
+            "+@datetime": "2025-12-29T11:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-29/mechanical-marie-manga-ends/.232607"
         }
     ],
     "staff": {
@@ -136,5 +154,6 @@
         }
     },
     "+@date-added": "2023-09-04T16:41:59Z",
-    "+@date-last-updated-at": "2025-12-11T02:24:33Z"
+    "+@date-last-modified-at": "2026-01-10T04:48:17Z",
+    "+@date-last-updated-at": "2026-01-10T04:48:17Z"
 }
