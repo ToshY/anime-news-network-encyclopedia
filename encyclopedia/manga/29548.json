@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Akuma Kōjo",
     "+@precision": "manga",
-    "+@generated-on": "2025-12-11T16:49:54Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "19627"
-    },
+    "+@generated-on": "2026-01-10T20:35:08Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "19627"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "38203"
+        }
+    ],
     "info": [
         {
             "+@gid": "3821677782",
@@ -58,8 +64,8 @@
             "+@type": "Number of tankoubon"
         },
         {
-            "+content": "2022-05-26 (serialized in Monthly Shonen Sirius)",
-            "+@gid": "1787726248",
+            "+content": "2022-05-26 to 2024-05-24 (Shonen Sirius, Jul 2022 - Jul 2024)",
+            "+@gid": "625995151",
             "+@type": "Vintage"
         }
     ],
@@ -102,5 +108,6 @@
         }
     ],
     "+@date-added": "2023-08-21T18:31:25Z",
-    "+@date-last-updated-at": "2025-12-11T16:49:56Z"
+    "+@date-last-modified-at": "2026-01-10T20:35:10Z",
+    "+@date-last-updated-at": "2026-01-10T20:35:10Z"
 }
