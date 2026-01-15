@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Gran Familia",
     "+@precision": "manga",
-    "+@generated-on": "2025-12-16T16:48:30Z",
+    "+@generated-on": "2026-01-15T20:42:37Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "4818"
@@ -61,11 +61,18 @@
             "+@type": "Vintage"
         }
     ],
-    "release": {
-        "+content": "Gran Familia (GN 1)",
-        "+@date": "2025-09-30",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52320"
-    },
+    "release": [
+        {
+            "+content": "Gran Familia (GN 1)",
+            "+@date": "2025-09-30",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52320"
+        },
+        {
+            "+content": "Gran Familia (GN 2)",
+            "+@date": "2025-12-30",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=56293"
+        }
+    ],
     "news": [
         {
             "+content": "Exclusive: Kenji Hamada's <cite>Gran Familia</cite> Manga Launches in English on September 30",
@@ -76,6 +83,11 @@
             "+content": "North American Anime, Manga Releases, September 28-October 4",
             "+@datetime": "2025-10-03T21:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-10-03/north-american-anime-manga-releases-september-28-october-4/.229442"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, December 28-January 3",
+            "+@datetime": "2025-12-30T22:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-30/north-american-anime-manga-releases-december-28-january-3/.232638"
         }
     ],
     "staff": {
@@ -87,5 +99,6 @@
         }
     },
     "+@date-added": "2023-04-09T00:47:21Z",
-    "+@date-last-updated-at": "2025-12-16T16:48:33Z"
+    "+@date-last-modified-at": "2026-01-15T20:42:40Z",
+    "+@date-last-updated-at": "2026-01-15T20:42:40Z"
 }
