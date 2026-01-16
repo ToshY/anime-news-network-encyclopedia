@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "World of GOLDEN EGGS",
     "+@precision": "TV",
-    "+@generated-on": "2025-12-17T04:46:59Z",
+    "+@generated-on": "2026-01-16T08:47:03Z",
     "info": [
         {
             "+@gid": "2362986457",
@@ -69,7 +69,7 @@
     ],
     "ratings": {
         "+@nb_votes": "3",
-        "+@weighted_score": "4.4361"
+        "+@weighted_score": "4.4363"
     },
     "episode": [
         {
@@ -374,15 +374,26 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "2208281895",
-        "+@lang": "JA",
-        "role": "Amura",
-        "person": {
-            "+content": "Namie Amuro",
-            "+@id": "10504"
+    "cast": [
+        {
+            "+@gid": "2208281895",
+            "+@lang": "JA",
+            "role": "Amura",
+            "person": {
+                "+content": "Namie Amuro",
+                "+@id": "10504"
+            }
+        },
+        {
+            "+@gid": "1075534849",
+            "+@lang": "JA",
+            "role": "Larry",
+            "person": {
+                "+content": "Larry Masashi Ōiwa",
+                "+@id": "291886"
+            }
         }
-    },
+    ],
     "credit": {
         "+@gid": "2557926879",
         "task": "Production",
@@ -392,6 +403,6 @@
         }
     },
     "+@date-added": "2007-05-02T09:55:49Z",
-    "+@date-last-modified-at": "2025-12-17T04:47:02Z",
-    "+@date-last-updated-at": "2025-12-17T04:47:02Z"
+    "+@date-last-modified-at": "2026-01-16T08:47:06Z",
+    "+@date-last-updated-at": "2026-01-16T08:47:06Z"
 }
