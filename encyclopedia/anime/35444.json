@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Toilet-Bound Hanako-kun",
     "+@precision": "TV 3",
-    "+@generated-on": "2025-12-19T08:46:22Z",
+    "+@generated-on": "2026-01-18T13:00:34Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "30590"
@@ -48,9 +48,59 @@
             "+@lang": "JA"
         },
         {
+            "+content": "adventure",
+            "+@gid": "2596077042",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "2228920123",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "horror",
+            "+@gid": "2505279599",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "1926935007",
+            "+@type": "Genres"
+        },
+        {
             "+content": "supernatural",
             "+@gid": "1564670162",
             "+@type": "Genres"
+        },
+        {
+            "+content": "ghosts",
+            "+@gid": "671843005",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "mythology",
+            "+@gid": "368455069",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "parody",
+            "+@gid": "2969323326",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "school",
+            "+@gid": "3422817403",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "23",
+            "+@gid": "3245278096",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "12",
+            "+@gid": "2554694692",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2025-07-06",
@@ -76,9 +126,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "36",
-        "+@weighted_score": "7.523",
-        "+@bayesian_score": "7.5096"
+        "+@nb_votes": "38",
+        "+@weighted_score": "7.5207",
+        "+@bayesian_score": "7.50899"
     },
     "news": [
         {
@@ -177,6 +227,15 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "3517324367",
+            "+@lang": "EN",
+            "role": "Sakura Nanamine",
+            "person": {
+                "+content": "Kara Edwards",
+                "+@id": "4218"
+            }
+        },
         {
             "+@gid": "1999482341",
             "+@lang": "EN",
@@ -439,6 +498,6 @@
         }
     },
     "+@date-added": "2025-03-30T23:03:28Z",
-    "+@date-last-modified-at": "2025-12-19T08:46:24Z",
-    "+@date-last-updated-at": "2025-12-19T08:46:24Z"
+    "+@date-last-modified-at": "2026-01-18T13:00:37Z",
+    "+@date-last-updated-at": "2026-01-18T13:00:37Z"
 }

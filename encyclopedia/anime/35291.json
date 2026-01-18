@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Sakamoto Days",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-12-19T08:46:23Z",
+    "+@generated-on": "2026-01-18T13:00:35Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32767"
+    },
+    "related-next": {
+        "+@id": "38152",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -64,6 +68,11 @@
         {
             "+content": "crime",
             "+@gid": "4214468718",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "fighting",
+            "+@gid": "2198112254",
             "+@type": "Themes"
         },
         {
@@ -125,9 +134,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "69",
-        "+@weighted_score": "7.3117",
-        "+@bayesian_score": "7.33719"
+        "+@nb_votes": "72",
+        "+@weighted_score": "7.3386",
+        "+@bayesian_score": "7.35764"
     },
     "episode": [
         {
@@ -239,6 +248,11 @@
             "+content": "<cite>Sakamoto Days</cite> Anime's English Trailer Previews JCC Exams Arc",
             "+@datetime": "2025-08-22T00:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-08-21/sakamoto-days-anime-english-trailer-previews-jcc-exams-arc/.227920"
+        },
+        {
+            "+content": "<cite>Sakamoto Days</cite> TV Anime Gets 2nd Season",
+            "+@datetime": "2025-12-20T08:45:21Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-20/sakamoto-days-tv-anime-gets-2nd-season/.232307"
         }
     ],
     "staff": [
@@ -430,8 +444,8 @@
             "+@gid": "1650650887",
             "task": "Original creator",
             "person": {
-                "+content": "Yuuto Suzuki",
-                "+@id": "230918"
+                "+content": "Yūto Suzuki",
+                "+@id": "291997"
             }
         },
         {
@@ -1119,6 +1133,6 @@
         }
     },
     "+@date-added": "2025-03-22T20:15:47Z",
-    "+@date-last-modified-at": "2025-12-19T08:46:24Z",
-    "+@date-last-updated-at": "2025-12-19T08:46:24Z"
+    "+@date-last-modified-at": "2026-01-18T13:00:37Z",
+    "+@date-last-updated-at": "2026-01-18T13:00:37Z"
 }

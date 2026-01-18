@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "DIGIMON BEATBREAK",
     "+@precision": "TV",
-    "+@generated-on": "2025-12-19T08:46:23Z",
+    "+@generated-on": "2026-01-18T13:00:35Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "794"
@@ -57,6 +57,11 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "2025-12-27 (United States, Crunchyroll, dub)",
+            "+@gid": "2215283745",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "#1: \"Mad Pulse\" by MADKID",
             "+@gid": "1898048889",
             "+@type": "Opening Theme"
@@ -82,8 +87,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "6.8339"
+        "+@nb_votes": "6",
+        "+@weighted_score": "5.9139"
     },
     "news": [
         {
@@ -132,9 +137,19 @@
             "+@href": "https://www.animenewsnetwork.com:/news/2025-12-16/crunchyroll-announces-release-schedule-for-winter-2026-season/.232156"
         },
         {
-            "+content": "<cite>Digimon Beatbreak</cite> Anime Gets English Dub",
+            "+content": "<cite>Digimon Beatbreak</cite> Anime Gets English Dub (Updated)",
             "+@datetime": "2025-12-18T18:50:10Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-12-18/digimon-beatbreak-anime-gets-english-dub/.232245"
+        },
+        {
+            "+content": "<cite>Digimon Beatbreak</cite> Anime Reveals 10 New Cast Members, Previews 'Tactics Arc' in Video",
+            "+@datetime": "2025-12-21T03:03:26Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-20/digimon-beatbreak-anime-reveals-10-new-cast-members-previews-tactics-arc-in-video/.232329"
+        },
+        {
+            "+content": "<cite>Digimon Beatbreak</cite> Anime's Trailer Reveals December 27 Debut for English Dub",
+            "+@datetime": "2025-12-22T18:35:45Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-22/digimon-beatbreak-anime-trailer-reveals-december-27-debut-for-english-dub/.232396"
         }
     ],
     "staff": [
@@ -661,6 +676,87 @@
     ],
     "cast": [
         {
+            "+@gid": "1053420177",
+            "+@lang": "EN",
+            "role": "Reina Sakuya",
+            "person": {
+                "+content": "Cristina Vee",
+                "+@id": "68135"
+            }
+        },
+        {
+            "+@gid": "2851286518",
+            "+@lang": "EN",
+            "role": "Hyemon (Scar)",
+            "person": {
+                "+content": "Mick Lauer",
+                "+@id": "123816"
+            }
+        },
+        {
+            "+@gid": "1957447314",
+            "+@lang": "EN",
+            "role": "Asuka Tenma",
+            "person": {
+                "+content": "Chris Hackney",
+                "+@id": "135828"
+            }
+        },
+        {
+            "+@gid": "1781997480",
+            "+@lang": "EN",
+            "role": "Yoshimura",
+            "person": {
+                "+content": "Chris Hackney",
+                "+@id": "135828"
+            }
+        },
+        {
+            "+@gid": "1784759555",
+            "+@lang": "EN",
+            "role": "Tomoro Tenma",
+            "person": {
+                "+content": "Zeno Robinson",
+                "+@id": "151160"
+            }
+        },
+        {
+            "+@gid": "2403714164",
+            "+@lang": "EN",
+            "role": "Chiropmon",
+            "person": {
+                "+content": "Courtney Shaw",
+                "+@id": "175374"
+            }
+        },
+        {
+            "+@gid": "2333988741",
+            "+@lang": "EN",
+            "role": "Hitomi Shinomiya",
+            "person": {
+                "+content": "Courtney Shaw",
+                "+@id": "175374"
+            }
+        },
+        {
+            "+@gid": "1868533441",
+            "+@lang": "EN",
+            "role": "Maki Kutsuwada",
+            "person": {
+                "+content": "Lily Lammers",
+                "+@id": "188911"
+            }
+        },
+        {
+            "+@gid": "1895028166",
+            "+@lang": "EN",
+            "role": "Pristimon",
+            "person": {
+                "+content": "Lily Lammers",
+                "+@id": "188911"
+            }
+        },
+        {
             "+@gid": "2803193814",
             "+@lang": "EN",
             "role": "Gekkomon",
@@ -670,12 +766,57 @@
             }
         },
         {
+            "+@gid": "1564613386",
+            "+@lang": "EN",
+            "role": "Murasamemon",
+            "person": {
+                "+content": "Cory Yee",
+                "+@id": "207885"
+            }
+        },
+        {
+            "+@gid": "2260173026",
+            "+@lang": "EN",
+            "role": "Makoto Kuonji",
+            "person": {
+                "+content": "Brenna Larsen",
+                "+@id": "268318"
+            }
+        },
+        {
+            "+@gid": "1870541690",
+            "+@lang": "EN",
+            "role": "Kyo Sawashiro",
+            "person": {
+                "+content": "Jalen Askins",
+                "+@id": "292128"
+            }
+        },
+        {
+            "+@gid": "2656820771",
+            "+@lang": "JA",
+            "role": "Chairman Wong",
+            "person": {
+                "+content": "Akio Ōtsuka",
+                "+@id": "459"
+            }
+        },
+        {
             "+@gid": "1241129539",
             "+@lang": "JA",
             "role": "Asuka Tenma",
             "person": {
                 "+content": "Kazuya Nakai",
                 "+@id": "551"
+            }
+        },
+        {
+            "+@gid": "3310656685",
+            "+@lang": "JA",
+            "role": "Honoka Sakai",
+            "person": {
+                "+content": "Rie Kugimiya",
+                "+@id": "808"
             }
         },
         {
@@ -733,12 +874,30 @@
             }
         },
         {
+            "+@gid": "2371730330",
+            "+@lang": "JA",
+            "role": "Genjo Kanada",
+            "person": {
+                "+content": "Hiroshi Kamiya",
+                "+@id": "5902"
+            }
+        },
+        {
             "+@gid": "2730059398",
             "+@lang": "JA",
             "role": "Maki Kutsuwada",
             "person": {
                 "+content": "Mie Sonozaki",
                 "+@id": "7696"
+            }
+        },
+        {
+            "+@gid": "2098324944",
+            "+@lang": "JA",
+            "role": "Gokuumon",
+            "person": {
+                "+content": "Kazuhiro Yamaji",
+                "+@id": "10484"
             }
         },
         {
@@ -751,12 +910,75 @@
             }
         },
         {
+            "+@gid": "727629884",
+            "+@lang": "JA",
+            "role": "Rose Woodville",
+            "person": {
+                "+content": "Ryōko Shiraishi",
+                "+@id": "16480"
+            }
+        },
+        {
+            "+@gid": "1777016105",
+            "+@lang": "JA",
+            "role": "Monodramon",
+            "person": {
+                "+content": "Wataru Hatano",
+                "+@id": "17481"
+            }
+        },
+        {
+            "+@gid": "3660976508",
+            "+@lang": "JA",
+            "role": "Raito Souda",
+            "person": {
+                "+content": "Toshiyuki Toyonaga",
+                "+@id": "17817"
+            }
+        },
+        {
+            "+@gid": "3627333463",
+            "+@lang": "JA",
+            "role": "Granit",
+            "person": {
+                "+content": "Marina Inoue",
+                "+@id": "20999"
+            }
+        },
+        {
+            "+@gid": "3679385950",
+            "+@lang": "JA",
+            "role": "Ludomon",
+            "person": {
+                "+content": "Yūko Sanpei",
+                "+@id": "22150"
+            }
+        },
+        {
+            "+@gid": "2088266288",
+            "+@lang": "JA",
+            "role": "Gigasmon",
+            "person": {
+                "+content": "Ken Uo",
+                "+@id": "53470"
+            }
+        },
+        {
             "+@gid": "2504299879",
             "+@lang": "JA",
             "role": "Kawarazaki",
             "person": {
                 "+content": "Yūya Uchida",
                 "+@id": "63485"
+            }
+        },
+        {
+            "+@gid": "2001148207",
+            "+@lang": "JA",
+            "role": "Seraphy Naito",
+            "person": {
+                "+content": "Ryōta Takeuchi",
+                "+@id": "69834"
             }
         },
         {
@@ -784,6 +1006,15 @@
             "person": {
                 "+content": "Tomoyo Kurosawa",
                 "+@id": "86495"
+            }
+        },
+        {
+            "+@gid": "3138169248",
+            "+@lang": "JA",
+            "role": "Klay Arslan",
+            "person": {
+                "+content": "Satoshi Mikami",
+                "+@id": "86669"
             }
         },
         {
@@ -832,6 +1063,15 @@
             }
         },
         {
+            "+@gid": "1474640677",
+            "+@lang": "JA",
+            "role": "Shakomon",
+            "person": {
+                "+content": "Misaki Watada",
+                "+@id": "141958"
+            }
+        },
+        {
             "+@gid": "3247139744",
             "+@lang": "JA",
             "role": "Makoto Kuonji",
@@ -844,6 +1084,15 @@
             "+@gid": "3122725003",
             "+@lang": "JA",
             "role": "Funbeemon",
+            "person": {
+                "+content": "Sakura Kawaguchi",
+                "+@id": "183716"
+            }
+        },
+        {
+            "+@gid": "495396228",
+            "+@lang": "JA",
+            "role": "Hotaruko Kanuma",
             "person": {
                 "+content": "Sakura Kawaguchi",
                 "+@id": "183716"
@@ -912,6 +1161,6 @@
         }
     ],
     "+@date-added": "2025-03-20T05:15:39Z",
-    "+@date-last-modified-at": "2025-12-19T08:46:24Z",
-    "+@date-last-updated-at": "2025-12-19T08:46:24Z"
+    "+@date-last-modified-at": "2026-01-18T13:00:37Z",
+    "+@date-last-updated-at": "2026-01-18T13:00:37Z"
 }
