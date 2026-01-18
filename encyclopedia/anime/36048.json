@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "In the Clear Moonlit Dusk",
     "+@precision": "TV",
-    "+@generated-on": "2025-12-19T04:47:57Z",
+    "+@generated-on": "2026-01-18T04:53:15Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24521"
     },
     "info": [
         {
-            "+@gid": "1069421438",
+            "+@gid": "3602275492",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36048-1069421438.1746748240.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36048-3602275492.1767562755.jpg",
             "+@width": "147",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36048-1069421438.1746748240.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36048-3602275492.1767562755.jpg",
                     "+@width": "147",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36048-1069421438.1746748240.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36048-3602275492.1767562755.jpg",
                     "+@width": "440",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A36048-3602275492.1767562755.jpg",
+                    "+@width": "586",
+                    "+@height": "800"
                 }
             ]
         },
@@ -48,14 +53,34 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "332787509",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "1568733075",
+            "+@type": "Genres"
+        },
+        {
             "+content": "romance",
             "+@gid": "2223328661",
             "+@type": "Genres"
         },
         {
-            "+content": "Yoi Takiguchi has long legs, a deep voice, and a handsome face...in other words, Yoi is such a good-looking guy that most people don't notice or care that she is, in fact, a girl. Indeed, she's had the nickname \"Prince\" as long as she can remember. That is, until she met Ichimura-senpai...the only person who's really seemed to see her for herself. To her surprise, she's not sure how to handle this new relationship, especially when her newfound friend is a prince himself. (from manga)",
-            "+@gid": "1816066152",
+            "+content": "school",
+            "+@gid": "1007865774",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "Yoi Takiguchi has long legs, a deep voice, and a handsome face…in other words, Yoi is such a good-looking guy that most people don’t notice or care that she is, in fact, a girl. Indeed, she’s had the nickname \"Prince\" for as long as she can remember. That is, until she met Ichimura-senpai, the only person who really seemed to see her for herself. To her surprise, she’s not sure how to handle this new relationship, especially when her newfound friend is a prince himself (and a guy prince, at that).",
+            "+@gid": "1894212818",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "2613553455",
+            "+@type": "Running time"
         },
         {
             "+content": "2026-01-11",
@@ -80,6 +105,10 @@
             "+@href": "https://uruwashi-anime.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "3",
+        "+@weighted_score": "3.0707"
+    },
     "news": [
         {
             "+content": "<cite>In the Clear Moonlit Dusk</cite> Anime Unveils 2 Cast Members",
@@ -105,6 +134,11 @@
             "+content": "Crunchyroll Announces Release Schedule for Winter 2026 Season",
             "+@datetime": "2025-12-16T18:21:55Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-12-16/crunchyroll-announces-release-schedule-for-winter-2026-season/.232156"
+        },
+        {
+            "+content": "<cite>In the Clear Moonlit Dusk</cite> Anime's 2nd Promo Video Reveals More Cast",
+            "+@datetime": "2025-12-23T10:22:24Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-23/in-the-clear-moonlit-dusk-anime-2nd-promo-video-reveals-more-cast/.232425"
         }
     ],
     "staff": [
@@ -150,6 +184,24 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "2781388515",
+            "+@lang": "JA",
+            "role": "Takuto Ohji",
+            "person": {
+                "+content": "Kenshō Ono",
+                "+@id": "33692"
+            }
+        },
+        {
+            "+@gid": "1667779212",
+            "+@lang": "JA",
+            "role": "Yoi's Father",
+            "person": {
+                "+content": "Kenjirō Tsuda",
+                "+@id": "39751"
+            }
+        },
         {
             "+@gid": "423075286",
             "+@lang": "JA",
@@ -205,15 +257,25 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "1289897193",
-        "task": "Animation Production",
-        "company": {
-            "+content": "East Fish Studio",
-            "+@id": "17601"
+    "credit": [
+        {
+            "+@gid": "1289897193",
+            "task": "Animation Production",
+            "company": {
+                "+content": "East Fish Studio",
+                "+@id": "17601"
+            }
+        },
+        {
+            "+@gid": "2485242728",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Atelier Peuplier",
+                "+@id": "27369"
+            }
         }
-    },
+    ],
     "+@date-added": "2025-05-08T19:49:17Z",
-    "+@date-last-modified-at": "2025-12-19T04:47:59Z",
-    "+@date-last-updated-at": "2025-12-19T04:47:59Z"
+    "+@date-last-modified-at": "2026-01-18T04:53:16Z",
+    "+@date-last-updated-at": "2026-01-18T04:53:16Z"
 }
