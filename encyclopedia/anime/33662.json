@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "Oshi no Ko",
     "+@precision": "TV 3",
-    "+@generated-on": "2025-12-20T12:58:17Z",
+    "+@generated-on": "2026-01-19T13:12:42Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28810"
     },
     "info": [
         {
-            "+@gid": "2120450333",
+            "+@gid": "2443054890",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33662-2120450333.1762262869.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33662-2443054890.1767562958.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33662-2120450333.1762262869.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33662-2443054890.1767562958.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33662-2120450333.1762262869.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33662-2443054890.1767562958.jpg",
+                    "+@width": "425",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A33662-2443054890.1767562958.jpg",
+                    "+@width": "566",
+                    "+@height": "800"
                 }
             ]
         },
@@ -117,9 +122,24 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "\"TEST ME\" by CHANMINA",
+            "+@gid": "1289664866",
+            "+@type": "Opening Theme"
+        },
+        {
             "+content": "\"Serenade\" (セレナーデ) by natori",
             "+@gid": "3019520839",
             "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"B no Revenge\" (Bのリベンジ) by B-Komachi [Yurie Igoma, Megumi Han, Rumi Ōkubo] (ep 25)",
+            "+@gid": "2059047131",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"On your side feat. o.j.o\" by o.j.o (ep 25)",
+            "+@gid": "3324060016",
+            "+@type": "Insert song"
         },
         {
             "+content": "アニメ『【推しの子】』公式サイト",
@@ -129,6 +149,18 @@
             "+@href": "https://ichigoproduction.com/Season3/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "7.6707"
+    },
+    "episode": {
+        "+@num": "25",
+        "title": {
+            "+content": "Down Bad",
+            "+@gid": "1914691561",
+            "+@lang": "EN"
+        }
+    },
     "news": [
         {
             "+content": "<cite>Oshi no Ko</cite> Anime Gets 3rd Season, Reveals More Cast",
@@ -164,6 +196,36 @@
             "+content": "Crunchyroll Announces Release Schedule for Winter 2026 Season",
             "+@datetime": "2025-12-16T18:21:55Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-12-16/crunchyroll-announces-release-schedule-for-winter-2026-season/.232156"
+        },
+        {
+            "+content": "<cite>Oshi no Ko</cite> Season 3 Anime's 2nd Promo Video Reveals Chanmina's Opening Theme",
+            "+@datetime": "2025-12-28T04:35:57Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-27/oshi-no-ko-season-3-anime-2nd-promo-video-reveals-chanmina-opening-theme/.232570"
+        },
+        {
+            "+content": "<cite>Hell's Paradise: Jigokuraku</cite> Season 2, <cite>Oshi no Ko</cite> Season 3 Stream on Netflix in India",
+            "+@datetime": "2026-01-02T10:43:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-02/hell-paradise-jigokuraku-season-2-oshi-no-ko-season-3-stream-on-netflix-in-india/.232699"
+        },
+        {
+            "+content": "<cite>Chained Soldier</cite> Season 2, <cite>Scum of the Brave</cite>, More Anime Stream in India on Anime Times",
+            "+@datetime": "2026-01-05T10:24:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-05/chained-soldier-season-2-scum-of-the-brave-more-anime-stream-in-india-on-anime-times/.232772"
+        },
+        {
+            "+content": "HIDIVE to Stream <cite>Oshi no Ko</cite> Season 3 Anime",
+            "+@datetime": "2026-01-13T19:55:57Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-13/hidive-to-stream-oshi-no-ko-season-3-anime/.233033"
+        },
+        {
+            "+content": "o.j.o Performs Insert Song for <cite>Oshi no Ko</cite> Season 3 Anime",
+            "+@datetime": "2026-01-14T16:12:29Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-14/o.j.o-performs-insert-song-for-oshi-no-ko-season-3-anime/.233053"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>Oshi no Ko</cite> Season 3 Anime in India",
+            "+@datetime": "2026-01-16T09:44:57Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-16/crunchyroll-streams-oshi-no-ko-season-3-anime-in-india/.233137"
         }
     ],
     "staff": [
@@ -181,6 +243,30 @@
             "person": {
                 "+content": "Jin Tanaka",
                 "+@id": "153258"
+            }
+        },
+        {
+            "+@gid": "2427512441",
+            "task": "Script",
+            "person": {
+                "+content": "Jin Tanaka",
+                "+@id": "153258"
+            }
+        },
+        {
+            "+@gid": "1055493844",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Daisuke Hiramaki",
+                "+@id": "53184"
+            }
+        },
+        {
+            "+@gid": "3307843354",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Daisuke Hiramaki",
+                "+@id": "53184"
             }
         },
         {
@@ -277,6 +363,30 @@
             "person": {
                 "+content": "Shuri",
                 "+@id": "220246"
+            }
+        },
+        {
+            "+@gid": "2415371316",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masaaki Yamano",
+                "+@id": "56286"
+            }
+        },
+        {
+            "+@gid": "3176344476",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ayaka Muroga",
+                "+@id": "154129"
+            }
+        },
+        {
+            "+@gid": "1987056297",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shōno Kikuchi",
+                "+@id": "256496"
             }
         },
         {
@@ -397,6 +507,6 @@
         }
     },
     "+@date-added": "2024-10-06T07:01:33Z",
-    "+@date-last-modified-at": "2025-12-20T12:58:20Z",
-    "+@date-last-updated-at": "2025-12-20T12:58:20Z"
+    "+@date-last-modified-at": "2026-01-19T13:12:43Z",
+    "+@date-last-updated-at": "2026-01-19T13:12:43Z"
 }
