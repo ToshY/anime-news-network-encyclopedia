@@ -4,11 +4,17 @@
     "+@type": "ONA",
     "+@name": "Dokodemo Makibao",
     "+@precision": "ONA",
-    "+@generated-on": "2025-12-20T02:16:44Z",
-    "related-prev": {
-        "+@rel": "spinoff of",
-        "+@id": "2070"
-    },
+    "+@generated-on": "2026-01-19T05:03:07Z",
+    "related-prev": [
+        {
+            "+@rel": "spinoff of",
+            "+@id": "2070"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "38262"
+        }
+    ],
     "related-next": {
         "+@id": "37907",
         "+@rel": "sequel"
@@ -49,6 +55,21 @@
             "+@gid": "3299588892",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "3247464113",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "tournament",
+            "+@gid": "3538641144",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "OC",
+            "+@gid": "2740292600",
+            "+@type": "Objectionable content"
         },
         {
             "+content": "2024-12-16",
@@ -148,5 +169,6 @@
         }
     },
     "+@date-added": "2024-12-14T04:53:07Z",
-    "+@date-last-updated-at": "2025-12-20T02:16:46Z"
+    "+@date-last-modified-at": "2026-01-19T05:03:08Z",
+    "+@date-last-updated-at": "2026-01-19T05:03:08Z"
 }

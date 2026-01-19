@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "MF Ghost",
     "+@precision": "TV 3",
-    "+@generated-on": "2025-12-20T02:16:42Z",
+    "+@generated-on": "2026-01-19T05:03:06Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "31074"
@@ -82,6 +82,11 @@
             "+@type": "Themes"
         },
         {
+            "+content": "sports",
+            "+@gid": "1409336813",
+            "+@type": "Themes"
+        },
+        {
             "+content": "TA",
             "+@gid": "3555670863",
             "+@type": "Objectionable content"
@@ -102,11 +107,89 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "\"TIMELESS POWER feat. MOTSU\" by Yū Serizawa",
+            "+@gid": "943887892",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Adrenaline\" by Manuel (ep 27)",
+            "+@gid": "3215535021",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Bad Love\" by David Dima (ep 27)",
+            "+@gid": "2190995389",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Crash Boom Burn Me Up\" by Fastway (ep 25)",
+            "+@gid": "2813345646",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"JUNGLE FIRE feat. MOTSU\" by Yū Serizawa (ep 26)",
+            "+@gid": "3439601431",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Rage Your Dream\" by Move (ep 25)",
+            "+@gid": "3126911988",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Run Run Babe\" by Go 2 (ep 27)",
+            "+@gid": "2199251773",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"The Fire and the Rain\" by Dusty (ep 26)",
+            "+@gid": "3080865185",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "アニメ『MFゴースト』公式サイト",
             "+@gid": "2624167072",
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://mfg-anime.com/"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "5.8354"
+    },
+    "episode": [
+        {
+            "+@num": "25",
+            "title": {
+                "+content": "Miraculous Comeback",
+                "+@gid": "2690810652",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "26",
+            "title": {
+                "+content": "Fireball",
+                "+@gid": "1126664172",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "27",
+            "title": {
+                "+content": "Into the Final Lap",
+                "+@gid": "3223583152",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "28",
+            "title": {
+                "+content": "Their First Kiss",
+                "+@gid": "2773337800",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -134,6 +217,11 @@
             "+content": "<cite>MF Ghost</cite> 3rd Season Anime's New Video Reveals More Cast, January 1 Early Streaming Debut",
             "+@datetime": "2025-12-19T09:57:05Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-12-19/mf-ghost-3rd-season-anime-new-video-reveals-more-cast-january-1-early-streaming-debut/.232266"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>Tamon's B-Side</cite>, <cite>Sentenced to Be a Hero</cite>, More Anime in India",
+            "+@datetime": "2025-12-21T09:54:27Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-21/crunchyroll-streams-tamon-b-side-sentenced-to-be-a-hero-more-anime-in-india/.232312"
         }
     ],
     "staff": [
@@ -170,6 +258,62 @@
             }
         },
         {
+            "+@gid": "2525123083",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Naruse Takahashi",
+                "+@id": "22116"
+            }
+        },
+        {
+            "+@gid": "1444619553",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hiroyuki Hata",
+                "+@id": "45965"
+            }
+        },
+        {
+            "+@gid": "1177925365",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tomohito Naka",
+                "+@id": "75640"
+            }
+        },
+        {
+            "+@gid": "1329102342",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Naruse Takahashi",
+                "+@id": "22116"
+            }
+        },
+        {
+            "+@gid": "3101423406",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tomohito Naka",
+                "+@id": "75640"
+            }
+        },
+        {
+            "+@gid": "698529807",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Hiroyuki Hata",
+                "+@id": "45965"
+            }
+        },
+        {
+            "+@gid": "3923898748",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Tomohito Naka",
+                "+@id": "75640"
+            }
+        },
+        {
             "+@gid": "1464479866",
             "task": "Music",
             "person": {
@@ -202,6 +346,38 @@
             }
         },
         {
+            "+@gid": "953616912",
+            "task": "Art",
+            "person": {
+                "+content": "Seiko Akashi",
+                "+@id": "13818"
+            }
+        },
+        {
+            "+@gid": "941281839",
+            "task": "Art",
+            "person": {
+                "+content": "Takimi Echizen",
+                "+@id": "41276"
+            }
+        },
+        {
+            "+@gid": "2246805179",
+            "task": "Art",
+            "person": {
+                "+content": "Ryōko Miya",
+                "+@id": "81268"
+            }
+        },
+        {
+            "+@gid": "1846445838",
+            "task": "Art",
+            "person": {
+                "+content": "Kohaku Ujiie",
+                "+@id": "155400"
+            }
+        },
+        {
             "+@gid": "2152655484",
             "task": "Chief Animation Director",
             "person": {
@@ -220,6 +396,70 @@
         {
             "+@gid": "1872240857",
             "task": "Chief Animation Director",
+            "person": {
+                "+content": "Tetsutarō Yui",
+                "+@id": "106208"
+            }
+        },
+        {
+            "+@gid": "941995009",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Naoyuki Onda",
+                "+@id": "1279"
+            }
+        },
+        {
+            "+@gid": "2076330310",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Misao Abe",
+                "+@id": "22831"
+            }
+        },
+        {
+            "+@gid": "291457470",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yumenosuke Tokuda",
+                "+@id": "23136"
+            }
+        },
+        {
+            "+@gid": "2966777394",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Makoto Yamada",
+                "+@id": "29593"
+            }
+        },
+        {
+            "+@gid": "2058634172",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Naoko Yamamoto",
+                "+@id": "29653"
+            }
+        },
+        {
+            "+@gid": "1850836220",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chiyoko Sakamoto",
+                "+@id": "35552"
+            }
+        },
+        {
+            "+@gid": "3469488448",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yoshiaki Iketani",
+                "+@id": "84689"
+            }
+        },
+        {
+            "+@gid": "1505553661",
+            "task": "Animation Director",
             "person": {
                 "+content": "Tetsutarō Yui",
                 "+@id": "106208"
@@ -247,6 +487,54 @@
             "person": {
                 "+content": "Kōji Hayashi",
                 "+@id": "261828"
+            }
+        },
+        {
+            "+@gid": "2934727792",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Ryo Oyama",
+                "+@id": "8181"
+            }
+        },
+        {
+            "+@gid": "1949673287",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Shin Furukawa",
+                "+@id": "97434"
+            }
+        },
+        {
+            "+@gid": "2217711753",
+            "task": "Producer",
+            "person": {
+                "+content": "Yūji Suzuki",
+                "+@id": "16600"
+            }
+        },
+        {
+            "+@gid": "2043505660",
+            "task": "Producer",
+            "person": {
+                "+content": "Hirotsugu Ogo",
+                "+@id": "127125"
+            }
+        },
+        {
+            "+@gid": "3374218259",
+            "task": "Producer",
+            "person": {
+                "+content": "Naoto Kase",
+                "+@id": "153189"
+            }
+        },
+        {
+            "+@gid": "2384164660",
+            "task": "Producer",
+            "person": {
+                "+content": "Nobuhiko Kurosu",
+                "+@id": "166300"
             }
         }
     ],
@@ -531,15 +819,73 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2122286975",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Felix Film",
-            "+@id": "14574"
+    "credit": [
+        {
+            "+@gid": "2122286975",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Felix Film",
+                "+@id": "14574"
+            }
+        },
+        {
+            "+@gid": "2631079459",
+            "task": "Production",
+            "company": {
+                "+content": "Kodansha",
+                "+@id": "88"
+            }
+        },
+        {
+            "+@gid": "2412907654",
+            "task": "Production",
+            "company": {
+                "+content": "Sammy",
+                "+@id": "7191"
+            }
+        },
+        {
+            "+@gid": "1643473020",
+            "task": "Production",
+            "company": {
+                "+content": "Crunchyroll",
+                "+@id": "7606"
+            }
+        },
+        {
+            "+@gid": "1219640888",
+            "task": "Production",
+            "company": {
+                "+content": "Animax Broadcast Japan",
+                "+@id": "8689"
+            }
+        },
+        {
+            "+@gid": "1316316989",
+            "task": "Production",
+            "company": {
+                "+content": "JIN",
+                "+@id": "10036"
+            }
+        },
+        {
+            "+@gid": "1993816951",
+            "task": "Production",
+            "company": {
+                "+content": "Avex Pictures",
+                "+@id": "13014"
+            }
+        },
+        {
+            "+@gid": "2302030509",
+            "task": "Production",
+            "company": {
+                "+content": "MF Ghost Production Committee",
+                "+@id": "25706"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-12-22T16:43:36Z",
-    "+@date-last-modified-at": "2025-12-20T02:16:46Z",
-    "+@date-last-updated-at": "2025-12-20T02:16:46Z"
+    "+@date-last-modified-at": "2026-01-19T05:03:08Z",
+    "+@date-last-updated-at": "2026-01-19T05:03:08Z"
 }

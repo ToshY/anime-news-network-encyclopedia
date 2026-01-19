@@ -4,11 +4,17 @@
     "+@type": "ONA",
     "+@name": "Alps no Rōjin Heidi no Ojii-san",
     "+@precision": "ONA",
-    "+@generated-on": "2025-12-20T02:16:44Z",
-    "related-prev": {
-        "+@rel": "spinoff of",
-        "+@id": "433"
-    },
+    "+@generated-on": "2026-01-19T05:03:07Z",
+    "related-prev": [
+        {
+            "+@rel": "spinoff of",
+            "+@id": "433"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "38262"
+        }
+    ],
     "info": [
         {
             "+@gid": "3631009634",
@@ -45,6 +51,11 @@
             "+@gid": "2918235182",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "1268626255",
+            "+@type": "Genres"
         },
         {
             "+content": "2024-12-18",
@@ -92,5 +103,6 @@
         }
     },
     "+@date-added": "2024-12-14T05:05:18Z",
-    "+@date-last-updated-at": "2025-12-20T02:16:46Z"
+    "+@date-last-modified-at": "2026-01-19T05:03:08Z",
+    "+@date-last-updated-at": "2026-01-19T05:03:08Z"
 }
