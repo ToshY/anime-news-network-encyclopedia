@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
     "+@precision": "TV",
-    "+@generated-on": "2025-12-20T16:38:51Z",
+    "+@generated-on": "2026-01-19T20:39:24Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28902"
     },
     "info": [
         {
-            "+@gid": "2709173116",
+            "+@gid": "2280255223",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33452-2709173116.1763274585.jpg",
-            "+@width": "141",
-            "+@height": "200",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33452-2280255223.1767558454.jpg",
+            "+@width": "200",
+            "+@height": "189",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33452-2709173116.1763274585.jpg",
-                    "+@width": "141",
-                    "+@height": "200"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33452-2280255223.1767558454.jpg",
+                    "+@width": "200",
+                    "+@height": "189"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33452-2709173116.1763274585.jpg",
-                    "+@width": "424",
-                    "+@height": "600"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33452-2280255223.1767558454.jpg",
+                    "+@width": "500",
+                    "+@height": "472"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A33452-2280255223.1767558454.jpg",
+                    "+@width": "848",
+                    "+@height": "800"
                 }
             ]
         },
@@ -48,6 +53,18 @@
             "+@lang": "JA"
         },
         {
+            "+content": "SHIBOYUGI",
+            "+@gid": "486313121",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
+            "+content": "Shiboyugi: Juegos mortales para ganarse el pan",
+            "+@gid": "4064540168",
+            "+@type": "Alternative title",
+            "+@lang": "ES"
+        },
+        {
             "+content": "SHIBOYUGI: Me gano el pan participando de juegos mortales",
             "+@gid": "224034881",
             "+@type": "Alternative title",
@@ -60,9 +77,59 @@
             "+@lang": "JA"
         },
         {
-            "+content": "In a world where death games are a robust, underground entertainment industry unto themselves, Yuki is a seasoned player who seeks to survive 99 games. (from manga)",
-            "+@gid": "2006225673",
+            "+content": "action",
+            "+@gid": "862557342",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "2542956713",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "mystery",
+            "+@gid": "1978531479",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "psychological",
+            "+@gid": "445229297",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "thriller",
+            "+@gid": "3531347318",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "maids",
+            "+@gid": "2062416139",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "survival game",
+            "+@gid": "1627594841",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "tragedy",
+            "+@gid": "1051875999",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "MA",
+            "+@gid": "1963598605",
+            "+@type": "Objectionable content"
+        },
+        {
+            "+content": "Trapped in a mansion of death games, Yuki turns her strange profession into survival.",
+            "+@gid": "2742620750",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "2651283318",
+            "+@type": "Running time"
         },
         {
             "+content": "2026-01-07",
@@ -80,11 +147,46 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "#2: \"Whatever Will Be, Will Be (Que Sera, Sera)\" by Doris Day (ep 1)",
+            "+@gid": "2579156401",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "TVアニメ「死亡遊戯で飯を食う」公式サイト",
             "+@gid": "2468505891",
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://shiboyugi-anime.com/"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "4",
+        "+@weighted_score": "2.1972"
+    },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "All You Need Is ----",
+                "+@gid": "3036658788",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "Chains of ----",
+                "+@gid": "3294502563",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "In the Name of ----",
+                "+@gid": "2432531141",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -117,6 +219,41 @@
             "+content": "Crunchyroll Announces Release Schedule for Winter 2026 Season",
             "+@datetime": "2025-12-16T18:21:55Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-12-16/crunchyroll-announces-release-schedule-for-winter-2026-season/.232156"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>Tamon's B-Side</cite>, <cite>Sentenced to Be a Hero</cite>, More Anime in India",
+            "+@datetime": "2025-12-21T09:54:27Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-21/crunchyroll-streams-tamon-b-side-sentenced-to-be-a-hero-more-anime-in-india/.232312"
+        },
+        {
+            "+content": "Netflix to Stream <cite>100 Meters</cite> Film, <cite>Shiboyugi</cite> Anime, More in India",
+            "+@datetime": "2025-12-28T15:23:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-28/netflix-to-stream-100-meters-film-shiboyugi-anime-more-in-india/.232574"
+        },
+        {
+            "+content": "Netflix to Also Stream <cite>SHIBOYUGI: Playing Death Games to Put Food on the Table</cite> Anime Outside Japan",
+            "+@datetime": "2025-12-29T20:00:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-29/netflix-to-also-stream-shiboyugi-playing-death-games-to-put-food-on-the-table-anime-outside-japan/.232637"
+        },
+        {
+            "+content": "Crunchyroll Reveals <cite>SHIBOYUGI: Playing Death Games to Put Food on the Table</cite> Anime Same-Day English Dub Debut, Cast",
+            "+@datetime": "2026-01-07T17:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-07/crunchyroll-reveals-shiboyugi-playing-death-games-to-put-food-on-the-table-anime-same-day-english-/.232824"
+        },
+        {
+            "+content": "<cite>SHIBOYUGI: Playing Death Games to Put Food on the Table</cite> Unveils Main Promo Video, 5 More Cast Members",
+            "+@datetime": "2026-01-07T15:05:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-07/shiboyugi-playing-death-games-to-put-food-on-the-table-unveils-main-promo-video-5-more-cast-members/.232839"
+        },
+        {
+            "+content": "Hindi, Tamil, Telugu Dubs for <cite>Sentenced to Be a Hero</cite> Anime Stream on Crunchyroll",
+            "+@datetime": "2026-01-10T10:33:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-10/hindi-tamil-telugu-dubs-for-sentenced-to-be-a-hero-anime-stream-on-crunchyroll/.232897"
+        },
+        {
+            "+content": "<cite>SHIBOYUGI: Playing Death Games to Put Food on the Table</cite> TV Anime Reveals More Cast, 'Scrap Building' Promo Video",
+            "+@datetime": "2026-01-09T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-09/shiboyugi-playing-death-games-to-put-food-on-the-table-tv-anime-reveals-more-cast-scrap-building-/.232898"
         }
     ],
     "staff": [
@@ -134,6 +271,54 @@
             "person": {
                 "+content": "Rintarō Ikeda",
                 "+@id": "278234"
+            }
+        },
+        {
+            "+@gid": "3582746506",
+            "task": "Script",
+            "person": {
+                "+content": "Rintarō Ikeda",
+                "+@id": "278234"
+            }
+        },
+        {
+            "+@gid": "1567320004",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Sōta Ueno",
+                "+@id": "256065"
+            }
+        },
+        {
+            "+@gid": "2959023967",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Masahiko Watanabe",
+                "+@id": "12553"
+            }
+        },
+        {
+            "+@gid": "2788432379",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Matsuo Asami",
+                "+@id": "31362"
+            }
+        },
+        {
+            "+@gid": "1359780320",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Taro Kubo",
+                "+@id": "75408"
+            }
+        },
+        {
+            "+@gid": "2348151513",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yui Kamura",
+                "+@id": "187381"
             }
         },
         {
@@ -177,6 +362,110 @@
             }
         },
         {
+            "+@gid": "1761969984",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Masahiko Matsuo",
+                "+@id": "47435"
+            }
+        },
+        {
+            "+@gid": "3515300278",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Keika Ōtsuka",
+                "+@id": "119695"
+            }
+        },
+        {
+            "+@gid": "2581082169",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Ayaka Murakami",
+                "+@id": "189552"
+            }
+        },
+        {
+            "+@gid": "2913451132",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Eri Osada",
+                "+@id": "245544"
+            }
+        },
+        {
+            "+@gid": "2909802372",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Noriko Takahashi",
+                "+@id": "10634"
+            }
+        },
+        {
+            "+@gid": "2308273350",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sachiyo Takada",
+                "+@id": "41696"
+            }
+        },
+        {
+            "+@gid": "2721547657",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Emi Yamashita",
+                "+@id": "47631"
+            }
+        },
+        {
+            "+@gid": "2013344359",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuri Naminoue",
+                "+@id": "72388"
+            }
+        },
+        {
+            "+@gid": "762796717",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nanami Kobayashi",
+                "+@id": "130591"
+            }
+        },
+        {
+            "+@gid": "2478826479",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiyori Tsunesada",
+                "+@id": "173886"
+            }
+        },
+        {
+            "+@gid": "978927376",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ame Isara",
+                "+@id": "232987"
+            }
+        },
+        {
+            "+@gid": "2077532028",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wei Hang Liu",
+                "+@id": "270454"
+            }
+        },
+        {
+            "+@gid": "2427564544",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zi Xin Zhang",
+                "+@id": "280225"
+            }
+        },
+        {
             "+@gid": "2404927286",
             "task": "Sound Director",
             "person": {
@@ -194,6 +483,195 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "1184618518",
+            "+@lang": "EN",
+            "role": "Hakushi",
+            "person": {
+                "+content": "Dawn M. Bennett",
+                "+@id": "130217"
+            }
+        },
+        {
+            "+@gid": "2086794719",
+            "+@lang": "EN",
+            "role": "Beniya",
+            "person": {
+                "+content": "Morgan Berry",
+                "+@id": "132751"
+            }
+        },
+        {
+            "+@gid": "3383817402",
+            "+@lang": "EN",
+            "role": "Aoi",
+            "person": {
+                "+content": "Brianna Knickerbocker",
+                "+@id": "135490"
+            }
+        },
+        {
+            "+@gid": "3175155776",
+            "+@lang": "EN",
+            "role": "Momono",
+            "person": {
+                "+content": "Kayli Mills",
+                "+@id": "154655"
+            }
+        },
+        {
+            "+@gid": "292558337",
+            "+@lang": "EN",
+            "role": "Mishiro",
+            "person": {
+                "+content": "Allegra Clark",
+                "+@id": "163712"
+            }
+        },
+        {
+            "+@gid": "1421411664",
+            "+@lang": "EN",
+            "role": "Kinko",
+            "person": {
+                "+content": "Michelle Marie",
+                "+@id": "175663"
+            }
+        },
+        {
+            "+@gid": "3530067531",
+            "+@lang": "EN",
+            "role": "Yuki",
+            "person": {
+                "+content": "Suzie Yeung",
+                "+@id": "184793"
+            }
+        },
+        {
+            "+@gid": "1786283008",
+            "+@lang": "EN",
+            "role": "Keito",
+            "person": {
+                "+content": "Riley Fussenegger",
+                "+@id": "289101"
+            }
+        },
+        {
+            "+@gid": "2065658754",
+            "+@lang": "EN",
+            "role": "Kokuto",
+            "person": {
+                "+content": "Sky Santacruz",
+                "+@id": "292511"
+            }
+        },
+        {
+            "+@gid": "1663599131",
+            "+@lang": "ES",
+            "role": "Beniya",
+            "person": {
+                "+content": "Anahi de la Fuente",
+                "+@id": "70007"
+            }
+        },
+        {
+            "+@gid": "1226420713",
+            "+@lang": "ES",
+            "role": "Momono",
+            "person": {
+                "+content": "María del Olmo",
+                "+@id": "173240"
+            }
+        },
+        {
+            "+@gid": "705259067",
+            "+@lang": "ES",
+            "role": "Yuki",
+            "person": {
+                "+content": "Fer Navarro",
+                "+@id": "216175"
+            }
+        },
+        {
+            "+@gid": "995920867",
+            "+@lang": "ES",
+            "role": "Yuki",
+            "person": {
+                "+content": "Irene Valadés",
+                "+@id": "221722"
+            }
+        },
+        {
+            "+@gid": "2121899580",
+            "+@lang": "ES",
+            "role": "Aoi",
+            "person": {
+                "+content": "Inés Cron",
+                "+@id": "292685"
+            }
+        },
+        {
+            "+@gid": "3394283705",
+            "+@lang": "ES",
+            "role": "Kokuto",
+            "person": {
+                "+content": "Noa García",
+                "+@id": "292686"
+            }
+        },
+        {
+            "+@gid": "824721587",
+            "+@lang": "ES",
+            "role": "Kinko",
+            "person": {
+                "+content": "Paula Martín",
+                "+@id": "292687"
+            }
+        },
+        {
+            "+@gid": "1834180110",
+            "+@lang": "FR",
+            "role": "Yūki",
+            "person": {
+                "+content": "Zina Khakhoulia",
+                "+@id": "168696"
+            }
+        },
+        {
+            "+@gid": "1960459120",
+            "+@lang": "IT",
+            "role": "Yuki",
+            "person": {
+                "+content": "Sara Labidi",
+                "+@id": "144550"
+            }
+        },
+        {
+            "+@gid": "1871203100",
+            "+@lang": "JA",
+            "role": "Moegi",
+            "person": {
+                "+content": "Natsuko Abe",
+                "+@id": "39234"
+            }
+        },
+        {
+            "+@gid": "1464164117",
+            "+@lang": "JA",
+            "role": "Airi",
+            "person": {
+                "+content": "Yume Miyamoto",
+                "+@id": "49573"
+            }
+        },
+        {
+            "+@gid": "2574637722",
+            "+@lang": "JA",
+            "role": "Kotoha",
+            "person": {
+                "+content": "Shion Wakayama",
+                "+@id": "61670"
+            }
+        },
         {
             "+@gid": "2653430930",
             "+@lang": "JA",
@@ -213,12 +691,30 @@
             }
         },
         {
+            "+@gid": "2563107342",
+            "+@lang": "JA",
+            "role": "Chie",
+            "person": {
+                "+content": "Rui Tanabe",
+                "+@id": "120615"
+            }
+        },
+        {
             "+@gid": "2325713969",
             "+@lang": "JA",
             "role": "Yūki",
             "person": {
                 "+content": "Chiyuki Miura",
                 "+@id": "183652"
+            }
+        },
+        {
+            "+@gid": "1239766607",
+            "+@lang": "JA",
+            "role": "Keito",
+            "person": {
+                "+content": "Wakana Maruoka",
+                "+@id": "183784"
             }
         },
         {
@@ -231,12 +727,39 @@
             }
         },
         {
+            "+@gid": "1884378832",
+            "+@lang": "JA",
+            "role": "Mishiro",
+            "person": {
+                "+content": "Rio Tsuchiya",
+                "+@id": "190688"
+            }
+        },
+        {
             "+@gid": "1648047407",
             "+@lang": "JA",
             "role": "Aoi",
             "person": {
                 "+content": "Rena Motomura",
                 "+@id": "223889"
+            }
+        },
+        {
+            "+@gid": "1033637804",
+            "+@lang": "JA",
+            "role": "Azuma",
+            "person": {
+                "+content": "Haruka Oribe",
+                "+@id": "235041"
+            }
+        },
+        {
+            "+@gid": "1718783628",
+            "+@lang": "JA",
+            "role": "Hakushi",
+            "person": {
+                "+content": "Shizuka Itō",
+                "+@id": "249200"
             }
         },
         {
@@ -249,15 +772,65 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2402137530",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Studio DEEN",
-            "+@id": "35"
+    "credit": [
+        {
+            "+@gid": "2402137530",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Studio DEEN",
+                "+@id": "35"
+            }
+        },
+        {
+            "+@gid": "3103086495",
+            "task": "Production",
+            "company": {
+                "+content": "Studio DEEN",
+                "+@id": "35"
+            }
+        },
+        {
+            "+@gid": "2661152881",
+            "task": "Production",
+            "company": {
+                "+content": "WOWOW",
+                "+@id": "100"
+            }
+        },
+        {
+            "+@gid": "1904586590",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon Columbia",
+                "+@id": "694"
+            }
+        },
+        {
+            "+@gid": "144319252",
+            "task": "Production",
+            "company": {
+                "+content": "ABC Animation",
+                "+@id": "14887"
+            }
+        },
+        {
+            "+@gid": "2423579429",
+            "task": "Production",
+            "company": {
+                "+content": "Kadokawa",
+                "+@id": "15420"
+            }
+        },
+        {
+            "+@gid": "3331536385",
+            "task": "Production",
+            "company": {
+                "+content": "Culture Entertainment",
+                "+@id": "17366"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-09-01T20:22:09Z",
-    "+@date-last-modified-at": "2025-12-20T16:38:53Z",
-    "+@date-last-updated-at": "2025-12-20T16:38:53Z"
+    "+@date-last-modified-at": "2026-01-19T20:39:27Z",
+    "+@date-last-updated-at": "2026-01-19T20:39:27Z"
 }

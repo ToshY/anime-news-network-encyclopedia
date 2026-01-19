@@ -4,27 +4,27 @@
     "+@type": "TV",
     "+@name": "Petals of Reincarnation",
     "+@precision": "TV",
-    "+@generated-on": "2025-12-20T20:33:14Z",
+    "+@generated-on": "2026-01-19T20:39:26Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "33055"
     },
     "info": [
         {
-            "+@gid": "3162371885",
+            "+@gid": "3430310453",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33056-3162371885.1754324395.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33056-3430310453.1768706710.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33056-3162371885.1754324395.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33056-3430310453.1768706710.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33056-3162371885.1754324395.jpg",
-                    "+@width": "425",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33056-3430310453.1768706710.jpg",
+                    "+@width": "423",
                     "+@height": "600"
                 }
             ]
@@ -48,9 +48,19 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2026",
+            "+content": "2026-04",
             "+@gid": "4169076490",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Glitch*\" by eill",
+            "+@gid": "2204895712",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Rei\" (零) by Sizuk",
+            "+@gid": "315710782",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ『リィンカーネーションの花弁』公式サイト",
@@ -70,6 +80,11 @@
             "+content": "<cite>Petals of Reincarnation</cite> Anime's 1st Promo Video Reveals Main Cast, Staff, 2026 Debut",
             "+@datetime": "2025-08-04T14:45:27Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-08-04/petals-of-reincarnation-anime-1st-promo-video-reveals-main-cast-staff-2026-debut/.227346"
+        },
+        {
+            "+content": "<cite>Petals of Reincarnation</cite> TV Anime Reveals April Debut, More Cast, Theme Song Artists in Promo Video",
+            "+@datetime": "2026-01-17T11:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-17/petals-of-reincarnation-tv-anime-reveals-april-debut-more-cast-theme-song-artists-in-promo-video/.233174"
         }
     ],
     "staff": [
@@ -114,15 +129,48 @@
             }
         },
         {
+            "+@gid": "2036735542",
+            "task": "Art Director",
+            "person": {
+                "+content": "Kenta Masuda",
+                "+@id": "94574"
+            }
+        },
+        {
+            "+@gid": "1447899769",
+            "task": "Mechanical design",
+            "person": {
+                "+content": "Wataru Inada",
+                "+@id": "209524"
+            }
+        },
+        {
             "+@gid": "2770232112",
             "task": "Sound Director",
             "person": {
                 "+content": "Yukio Nagasaki",
                 "+@id": "3079"
             }
+        },
+        {
+            "+@gid": "1483042267",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Hiroyuki Chiba",
+                "+@id": "60119"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "800944530",
+            "+@lang": "JA",
+            "role": "Jūbei Mitsuyoshi Yagyū",
+            "person": {
+                "+content": "Marina Inoue",
+                "+@id": "20999"
+            }
+        },
         {
             "+@gid": "3865436380",
             "+@lang": "JA",
@@ -139,6 +187,42 @@
             "person": {
                 "+content": "Shōya Chiba",
                 "+@id": "97379"
+            }
+        },
+        {
+            "+@gid": "4097168205",
+            "+@lang": "JA",
+            "role": "A. Einstein",
+            "person": {
+                "+content": "Haruka Shiraishi",
+                "+@id": "104544"
+            }
+        },
+        {
+            "+@gid": "2019748883",
+            "+@lang": "JA",
+            "role": "I. Newton",
+            "person": {
+                "+content": "Kaito Ishikawa",
+                "+@id": "114052"
+            }
+        },
+        {
+            "+@gid": "2923249886",
+            "+@lang": "JA",
+            "role": "F. Nightingale",
+            "person": {
+                "+content": "Reina Ueda",
+                "+@id": "116390"
+            }
+        },
+        {
+            "+@gid": "1839610849",
+            "+@lang": "JA",
+            "role": "Hiroshi Funasaka",
+            "person": {
+                "+content": "Shūgo Nakamura",
+                "+@id": "150186"
             }
         },
         {
@@ -170,5 +254,6 @@
         }
     ],
     "+@date-added": "2024-08-01T02:39:33Z",
-    "+@date-last-updated-at": "2025-12-20T20:33:15Z"
+    "+@date-last-modified-at": "2026-01-19T20:39:27Z",
+    "+@date-last-updated-at": "2026-01-19T20:39:27Z"
 }
