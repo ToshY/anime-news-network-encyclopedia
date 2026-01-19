@@ -1,36 +1,37 @@
 {
     "+@id": "34017",
     "+@gid": "732809745",
-    "+@type": "TV",
+    "+@type": "special",
     "+@name": "Sakuna: Of Rice and Ruin",
-    "+@precision": "TV 2",
-    "+@generated-on": "2025-12-20T04:41:46Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "32383"
-    },
+    "+@precision": "special",
+    "+@generated-on": "2026-01-19T08:51:00Z",
+    "related-prev": [
+        {
+            "+@rel": "sequel of",
+            "+@id": "32383"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "32385"
+        }
+    ],
     "info": [
         {
             "+@gid": "1774865148",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34017-1774865148.1731658334.jpg",
-            "+@width": "120",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34017-1774865148.1768462115.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34017-1774865148.1731658334.jpg",
-                    "+@width": "120",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34017-1774865148.1768462115.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34017-1774865148.1731658334.jpg",
-                    "+@width": "359",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34017-1774865148.1768462115.jpg",
+                    "+@width": "425",
                     "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34017-1774865148.1731658334.jpg",
-                    "+@width": "496",
-                    "+@height": "830"
                 }
             ]
         },
@@ -41,16 +42,26 @@
             "+@lang": "EN"
         },
         {
-            "+content": "Tensui no Sakuna Hime",
+            "+content": "Tensui no Sakuna Hime: Kokorowa Inasaku Nisshi",
             "+@gid": "1514120655",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
-            "+content": "天穂のサクナヒメ",
+            "+content": "天穂のサクナヒメ ココロワ稲作日誌",
             "+@gid": "1106295498",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "2026-02-15 (Part 1)",
+            "+@gid": "1313660081",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2026-02-22 (Part 2)",
+            "+@gid": "516942066",
+            "+@type": "Vintage"
         },
         {
             "+content": "TVアニメ『天穂のサクナヒメ』",
@@ -60,6 +71,58 @@
             "+@href": "https://sakuna-anime.com/"
         }
     ],
+    "news": {
+        "+content": "<cite>Sakuna: Of Rice And Ruin</cite> Anime Gets 2-Part Special About Kokorowa on February 15, 22",
+        "+@datetime": "2026-01-15T07:01:38Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-01-15/sakuna-of-rice-and-ruin-anime-gets-2-part-special-about-kokorowa-on-february-15-22/.233068"
+    },
+    "staff": [
+        {
+            "+@gid": "3165283516",
+            "task": "Director",
+            "person": {
+                "+content": "Masayuki Yoshihara",
+                "+@id": "18874"
+            }
+        },
+        {
+            "+@gid": "2262431004",
+            "task": "Original story",
+            "person": {
+                "+content": "Keiji Andō",
+                "+@id": "258098"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1197971099",
+            "+@lang": "JA",
+            "role": "Sakuna Hime",
+            "person": {
+                "+content": "Naomi Ōzora",
+                "+@id": "120825"
+            }
+        },
+        {
+            "+@gid": "840753105",
+            "+@lang": "JA",
+            "role": "Kokorowa Hime",
+            "person": {
+                "+content": "Rika Kinugawa",
+                "+@id": "136075"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2184766569",
+        "task": "Animation Production",
+        "company": {
+            "+content": "P.A. Works",
+            "+@id": "4769"
+        }
+    },
     "+@date-added": "2024-11-15T03:08:15Z",
-    "+@date-last-updated-at": "2025-12-20T04:41:48Z"
+    "+@date-last-modified-at": "2026-01-19T08:51:05Z",
+    "+@date-last-updated-at": "2026-01-19T08:51:05Z"
 }
