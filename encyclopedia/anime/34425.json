@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "Kunon the Sorcerer Can See",
     "+@precision": "TV",
-    "+@generated-on": "2025-12-19T20:36:35Z",
+    "+@generated-on": "2026-01-19T02:35:46Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27158"
     },
     "info": [
         {
-            "+@gid": "3528849623",
+            "+@gid": "2546137676",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34425-3528849623.1764926320.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34425-2546137676.1767409968.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34425-3528849623.1764926320.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34425-2546137676.1767409968.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34425-3528849623.1764926320.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34425-2546137676.1767409968.jpg",
+                    "+@width": "425",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34425-2546137676.1767409968.jpg",
+                    "+@width": "566",
+                    "+@height": "800"
                 }
             ]
         },
@@ -54,14 +59,34 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "1144816971",
+            "+@type": "Genres"
+        },
+        {
             "+content": "fantasy",
             "+@gid": "878269153",
             "+@type": "Genres"
         },
         {
-            "+content": "Born blind, Kunon aims to be the first person to use water magic to create new eyes for himself. After five months of study, he has already surpassed his teacher, and continues to grow his talents. Not only can his magic help him sense color, but he can also use it to make handy items and even conjure a whole cat. Word of his skills and ingenuity soon reach the court and earn him a spot as disciple to the most powerful magician in the land. (from manga)",
-            "+@gid": "408296655",
+            "+content": "school",
+            "+@gid": "3425230118",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "wizards",
+            "+@gid": "2701961108",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "Kunon, a young man who cannot see, has the goal of creating new eyes with water magic. After just five months of learning sorcery, Kunon surpassed his own mentor and honed his talent as he tried to do a feat that's never been done before. A fantasy about a young man, a blind genius, who opens up the world through curiosity in the pursuit for magic is about to begin.",
+            "+@gid": "2870607017",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "3288283387",
+            "+@type": "Running time"
         },
         {
             "+content": "2026-01-04",
@@ -86,6 +111,10 @@
             "+@href": "https://kunonanime.jp/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "4",
+        "+@weighted_score": "3.7519"
+    },
     "news": [
         {
             "+content": "<cite>Kunon the Sorcerer Can See Through</cite> TV Anime Reveals Main Cast",
@@ -121,6 +150,11 @@
             "+content": "Crunchyroll Announces Release Schedule for Winter 2026 Season",
             "+@datetime": "2025-12-16T18:21:55Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-12-16/crunchyroll-announces-release-schedule-for-winter-2026-season/.232156"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>Tamon's B-Side</cite>, <cite>Sentenced to Be a Hero</cite>, More Anime in India",
+            "+@datetime": "2025-12-21T09:54:27Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-21/crunchyroll-streams-tamon-b-side-sentenced-to-be-a-hero-more-anime-in-india/.232312"
         }
     ],
     "staff": [
@@ -146,6 +180,54 @@
             "person": {
                 "+content": "Yuki Enatsu",
                 "+@id": "23459"
+            }
+        },
+        {
+            "+@gid": "2609887015",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hideaki Ōba",
+                "+@id": "8840"
+            }
+        },
+        {
+            "+@gid": "292358786",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tomoya Takashima",
+                "+@id": "122018"
+            }
+        },
+        {
+            "+@gid": "1859514704",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Motohiko Niwa",
+                "+@id": "226976"
+            }
+        },
+        {
+            "+@gid": "1320137541",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Motohiko Niwa",
+                "+@id": "226976"
+            }
+        },
+        {
+            "+@gid": "2994986746",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Hideaki Ōba",
+                "+@id": "8840"
+            }
+        },
+        {
+            "+@gid": "438758941",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Tomoya Takashima",
+                "+@id": "122018"
             }
         },
         {
@@ -202,6 +284,38 @@
             "person": {
                 "+content": "Haruka Miyata",
                 "+@id": "200762"
+            }
+        },
+        {
+            "+@gid": "3371717010",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Toshimitsu Kobayashi",
+                "+@id": "5028"
+            }
+        },
+        {
+            "+@gid": "2309958621",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kōji Ogawa",
+                "+@id": "29586"
+            }
+        },
+        {
+            "+@gid": "2065023892",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Masaya Nozaki",
+                "+@id": "51792"
+            }
+        },
+        {
+            "+@gid": "2137488499",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masaya Nozaki",
+                "+@id": "51792"
             }
         },
         {
@@ -277,6 +391,6 @@
         }
     },
     "+@date-added": "2025-01-24T05:47:33Z",
-    "+@date-last-modified-at": "2025-12-19T20:36:37Z",
-    "+@date-last-updated-at": "2025-12-19T20:36:37Z"
+    "+@date-last-modified-at": "2026-01-19T02:35:48Z",
+    "+@date-last-updated-at": "2026-01-19T02:35:48Z"
 }
