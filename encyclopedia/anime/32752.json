@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "Darwin Incident",
     "+@precision": "TV",
-    "+@generated-on": "2025-12-21T04:49:44Z",
+    "+@generated-on": "2026-01-20T08:51:07Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26659"
     },
     "info": [
         {
-            "+@gid": "1780981091",
+            "+@gid": "2487372008",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32752-1780981091.1761306962.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32752-2487372008.1767556685.jpg",
+            "+@width": "115",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32752-1780981091.1761306962.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32752-2487372008.1767556685.jpg",
+                    "+@width": "115",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32752-1780981091.1761306962.jpg",
-                    "+@width": "425",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32752-2487372008.1767556685.jpg",
+                    "+@width": "346",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A32752-2487372008.1767556685.jpg",
+                    "+@width": "461",
+                    "+@height": "800"
                 }
             ]
         },
@@ -54,9 +59,49 @@
             "+@lang": "JA"
         },
         {
+            "+content": "action",
+            "+@gid": "1072502056",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "1889958334",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "psychological",
+            "+@gid": "1506435087",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "science fiction",
+            "+@gid": "1525415665",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "thriller",
+            "+@gid": "2558192784",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "terrorism",
+            "+@gid": "1942754677",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "2092607648",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "An attack by an eco-terrorist organization unveils the birth of a half-human, half-chimpanzee named Charlie. After growing up with foster parents and home schooling, Charlie enrolls in a high school and encounters many strange looks, a few bullies, and a friend. Meanwhile, the eco-terrorist organization is getting more extreme and wants to get Charlie involved with them, any way possible. Their involvement makes people even more suspicious of Charlie’s differences in appearance, ability, and worldview. (from manga)",
             "+@gid": "1137966365",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "1107276926",
+            "+@type": "Running time"
         },
         {
             "+content": "2026-01-06",
@@ -76,6 +121,10 @@
             "+@href": "https://darwinsincident.net/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "4.6049"
+    },
     "news": [
         {
             "+content": "<cite>Darwin Incident</cite> Anime Unveils Teaser Visual, Staff",
@@ -101,6 +150,11 @@
             "+content": "<cite>Darwin Incident</cite> TV Anime Reveals Video, More Cast, January 6 Debut",
             "+@datetime": "2025-12-12T11:43:39Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-12-12/darwin-incident-tv-anime-reveals-video-more-cast-january-6-debut/.232018"
+        },
+        {
+            "+content": "Amazon's Prime Video to Stream <cite>The Darwin Incident</cite> Anime in N. America",
+            "+@datetime": "2026-01-01T08:40:46Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-01/amazon-prime-video-to-stream-the-darwin-incident-anime-in-n-america/.232665"
         }
     ],
     "staff": [
@@ -186,6 +240,195 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "2812769879",
+            "+@lang": "EN",
+            "role": "Philip Graham",
+            "person": {
+                "+content": "Tim Powers",
+                "+@id": "82540"
+            }
+        },
+        {
+            "+@gid": "1296115409",
+            "+@lang": "EN",
+            "role": "Gilbert Stein",
+            "person": {
+                "+content": "Roly Gutierrez",
+                "+@id": "188331"
+            }
+        },
+        {
+            "+@gid": "1168211449",
+            "+@lang": "EN",
+            "role": "Kayla",
+            "person": {
+                "+content": "Debbie Murillo",
+                "+@id": "191363"
+            }
+        },
+        {
+            "+@gid": "1402282399",
+            "+@lang": "EN",
+            "role": "Hannah Stein",
+            "person": {
+                "+content": "Sara Secora",
+                "+@id": "204754"
+            }
+        },
+        {
+            "+@gid": "2846546259",
+            "+@lang": "EN",
+            "role": "Charlie",
+            "person": {
+                "+content": "Yenni Ann",
+                "+@id": "214889"
+            }
+        },
+        {
+            "+@gid": "1126734859",
+            "+@lang": "EN",
+            "role": "Lesley K. Lippman",
+            "person": {
+                "+content": "Charles Sothers",
+                "+@id": "259294"
+            }
+        },
+        {
+            "+@gid": "2799041715",
+            "+@lang": "EN",
+            "role": "Rivera Feyerabend",
+            "person": {
+                "+content": "Sean Tapiero",
+                "+@id": "289280"
+            }
+        },
+        {
+            "+@gid": "539560495",
+            "+@lang": "EN",
+            "role": "Trevor",
+            "person": {
+                "+content": "Jonathan Torres",
+                "+@id": "289342"
+            }
+        },
+        {
+            "+@gid": "2298245826",
+            "+@lang": "EN",
+            "role": "Lucy Eldred",
+            "person": {
+                "+content": "Kate Domenech",
+                "+@id": "289344"
+            }
+        },
+        {
+            "+@gid": "2420902608",
+            "+@lang": "EN",
+            "role": "Mia",
+            "person": {
+                "+content": "Krystal Martinez",
+                "+@id": "289386"
+            }
+        },
+        {
+            "+@gid": "1782526071",
+            "+@lang": "EN",
+            "role": "Ozzy",
+            "person": {
+                "+content": "Danny Cortes",
+                "+@id": "292497"
+            }
+        },
+        {
+            "+@gid": "2401020096",
+            "+@lang": "EN",
+            "role": "Marco",
+            "person": {
+                "+content": "Michael Skinner",
+                "+@id": "292503"
+            }
+        },
+        {
+            "+@gid": "3168019193",
+            "+@lang": "FR",
+            "role": "Charlie Stein",
+            "person": {
+                "+content": "Thomas Sagols",
+                "+@id": "85935"
+            }
+        },
+        {
+            "+@gid": "1689725392",
+            "+@lang": "FR",
+            "role": "Lucy Eldred",
+            "person": {
+                "+content": "Bianca Tomassian",
+                "+@id": "173578"
+            }
+        },
+        {
+            "+@gid": "1314169083",
+            "+@lang": "FR",
+            "role": "Livera Feyerabend",
+            "person": {
+                "+content": "Serge Biavan",
+                "+@id": "202156"
+            }
+        },
+        {
+            "+@gid": "1740029019",
+            "+@lang": "IT",
+            "role": "Hannah Stein",
+            "person": {
+                "+content": "Chiara Colizzi",
+                "+@id": "27412"
+            }
+        },
+        {
+            "+@gid": "1698129450",
+            "+@lang": "IT",
+            "role": "Gilbert Stein",
+            "person": {
+                "+content": "Gabriele Sabatini",
+                "+@id": "51282"
+            }
+        },
+        {
+            "+@gid": "1926274110",
+            "+@lang": "IT",
+            "role": "Rivera Feyerabend",
+            "person": {
+                "+content": "Dario Oppido",
+                "+@id": "53298"
+            }
+        },
+        {
+            "+@gid": "3288229302",
+            "+@lang": "IT",
+            "role": "Charlie",
+            "person": {
+                "+content": "Stefano Broccoletti",
+                "+@id": "126210"
+            }
+        },
+        {
+            "+@gid": "3197376994",
+            "+@lang": "IT",
+            "role": "Lesley K. Lippman",
+            "person": {
+                "+content": "Francesco De Francesco",
+                "+@id": "128555"
+            }
+        },
+        {
+            "+@gid": "2064933201",
+            "+@lang": "IT",
+            "role": "Lucy Eldred",
+            "person": {
+                "+content": "Chiara Fabiano",
+                "+@id": "131045"
+            }
+        },
         {
             "+@gid": "2029765197",
             "+@lang": "JA",
@@ -278,6 +521,6 @@
         }
     ],
     "+@date-added": "2024-05-21T19:39:41Z",
-    "+@date-last-modified-at": "2025-12-21T04:49:45Z",
-    "+@date-last-updated-at": "2025-12-21T04:49:45Z"
+    "+@date-last-modified-at": "2026-01-20T08:51:09Z",
+    "+@date-last-updated-at": "2026-01-20T08:51:09Z"
 }

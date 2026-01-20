@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Princession Orchestra",
     "+@precision": "TV",
-    "+@generated-on": "2025-12-21T04:49:43Z",
+    "+@generated-on": "2026-01-20T08:51:06Z",
     "related-next": {
         "+@id": "38034",
         "+@rel": "adaptation"
@@ -77,7 +77,7 @@
             "+@type": "Opening Theme"
         },
         {
-            "+content": "#3: \"FUTURE SESSION -Ver. Constellation-\" by ORCHERIA (ep 36)",
+            "+content": "#3: \"FUTURE SESSION -Ver. Constellation-\" by ORCHERIA (eps 36-)",
             "+@gid": "3255558072",
             "+@type": "Opening Theme"
         },
@@ -192,7 +192,7 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Sekka Ryōran\" (雪花繚乱) by Princess Viola (CV: Akari Kitō) × Princess Neige (CV: Miku Itō) (eps 35-36)",
+            "+content": "\"Sekka Ryōran\" (雪花繚乱) by Princess Viola (CV: Akari Kitō) × Princess Neige (CV: Miku Itō) (eps 35-38)",
             "+@gid": "790032358",
             "+@type": "Insert song"
         },
@@ -202,7 +202,7 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Signal Lyrical\" (シグナル・リリカル) by Princess Ripple (CV: Azusa Aoi) (eps 26,28)",
+            "+content": "\"Signal Lyrical\" (シグナル・リリカル) by Princess Ripple (CV: Azusa Aoi) (eps 26,28,38)",
             "+@gid": "789068404",
             "+@type": "Insert song"
         },
@@ -539,6 +539,22 @@
             "title": {
                 "+content": "Kaze ni Yureru",
                 "+@gid": "2253653498",
+                "+@lang": "JA"
+            }
+        },
+        {
+            "+@num": "37",
+            "title": {
+                "+content": "Yukidoke ni wa Mada Tōku",
+                "+@gid": "3723827241",
+                "+@lang": "JA"
+            }
+        },
+        {
+            "+@num": "38",
+            "title": {
+                "+content": "Daisuki na Anata-tachi e",
+                "+@gid": "3209377981",
                 "+@lang": "JA"
             }
         }
@@ -962,7 +978,7 @@
         {
             "+@gid": "2360128273",
             "+@lang": "JA",
-            "role": "Seishiro ‌Sorano",
+            "role": "Seishirō ‌Sorano",
             "person": {
                 "+content": "Satoshi Hino",
                 "+@id": "15417"
@@ -996,6 +1012,15 @@
             }
         },
         {
+            "+@gid": "1549414341",
+            "+@lang": "JA",
+            "role": "Jammersnark",
+            "person": {
+                "+content": "Ryō Sugisaki",
+                "+@id": "48517"
+            }
+        },
+        {
             "+@gid": "1326101414",
             "+@lang": "JA",
             "role": "White Queen",
@@ -1007,7 +1032,7 @@
         {
             "+@gid": "1380280434",
             "+@lang": "JA",
-            "role": "Yoko ‌Sorano",
+            "role": "Yōko ‌Sorano",
             "person": {
                 "+content": "Yoshino Nanjō",
                 "+@id": "55281"
@@ -1016,7 +1041,7 @@
         {
             "+@gid": "1536025711",
             "+@lang": "JA",
-            "role": "Kaede Sato",
+            "role": "Kaede Satō",
             "person": {
                 "+content": "Kana Asumi",
                 "+@id": "60780"
@@ -1025,16 +1050,16 @@
         {
             "+@gid": "810923206",
             "+@lang": "JA",
-            "role": "Saki Somoto",
+            "role": "Saki Sōmoto",
             "person": {
                 "+content": "Misaki Kuno",
                 "+@id": "85915"
             }
         },
         {
-            "+@gid": "1726867219",
+            "+@gid": "3718244083",
             "+@lang": "JA",
-            "role": "Himura Mikan",
+            "role": "Mikan Himura",
             "person": {
                 "+content": "Rumi Ōkubo",
                 "+@id": "88587"
@@ -1079,16 +1104,16 @@
         {
             "+@gid": "970189286",
             "+@lang": "JA",
-            "role": "Toma",
+            "role": "Tōma",
             "person": {
                 "+content": "Yumiri Hanamori",
                 "+@id": "118609"
             }
         },
         {
-            "+@gid": "729888050",
+            "+@gid": "1937893022",
             "+@lang": "JA",
-            "role": "Hayate Hasagawa",
+            "role": "Hayate Hasegawa",
             "person": {
                 "+content": "Sora Amamiya",
                 "+@id": "119743"
@@ -1131,6 +1156,24 @@
             }
         },
         {
+            "+@gid": "288432580",
+            "+@lang": "JA",
+            "role": "Botan Kisaragi",
+            "person": {
+                "+content": "Ami Maeshima",
+                "+@id": "124599"
+            }
+        },
+        {
+            "+@gid": "1785820601",
+            "+@lang": "JA",
+            "role": "Rona Sōbi",
+            "person": {
+                "+content": "Satsumi Matsuda",
+                "+@id": "125534"
+            }
+        },
+        {
             "+@gid": "1551493381",
             "+@lang": "JA",
             "role": "Flower Knight Sincere",
@@ -1140,18 +1183,9 @@
             }
         },
         {
-            "+@gid": "2695372629",
-            "+@lang": "JA",
-            "role": "Princess Viola",
-            "person": {
-                "+content": "Akari Kitō",
-                "+@id": "130728"
-            }
-        },
-        {
             "+@gid": "3601589336",
             "+@lang": "JA",
-            "role": "Sumire Kazahana",
+            "role": "Sumire Kazahana/Princess Viola",
             "person": {
                 "+content": "Akari Kitō",
                 "+@id": "130728"
@@ -1194,9 +1228,9 @@
             }
         },
         {
-            "+@gid": "2923925004",
+            "+@gid": "3540632392",
             "+@lang": "JA",
-            "role": "Kanami Ena",
+            "role": "Ena Sōbi",
             "person": {
                 "+content": "Risae Matsuda",
                 "+@id": "136079"
@@ -1209,6 +1243,15 @@
             "person": {
                 "+content": "Rikako Aida",
                 "+@id": "143731"
+            }
+        },
+        {
+            "+@gid": "3366917089",
+            "+@lang": "JA",
+            "role": "Kaji",
+            "person": {
+                "+content": "Hitomi Isaka",
+                "+@id": "154946"
             }
         },
         {
@@ -1227,6 +1270,15 @@
             "person": {
                 "+content": "Yūko Natsuyoshi",
                 "+@id": "187604"
+            }
+        },
+        {
+            "+@gid": "1308939845",
+            "+@lang": "JA",
+            "role": "Bijou",
+            "person": {
+                "+content": "Reo Osanai",
+                "+@id": "213348"
             }
         },
         {
@@ -1263,6 +1315,15 @@
             "person": {
                 "+content": "Hikari Aimura",
                 "+@id": "280063"
+            }
+        },
+        {
+            "+@gid": "3744321934",
+            "+@lang": "JA",
+            "role": "Asagi Sakomizu",
+            "person": {
+                "+content": "Miyū Hayasaka",
+                "+@id": "281792"
             }
         }
     ],
@@ -1301,6 +1362,6 @@
         }
     ],
     "+@date-added": "2024-06-14T19:29:38Z",
-    "+@date-last-modified-at": "2025-12-21T04:49:45Z",
-    "+@date-last-updated-at": "2025-12-21T04:49:45Z"
+    "+@date-last-modified-at": "2026-01-20T08:51:08Z",
+    "+@date-last-updated-at": "2026-01-20T08:51:08Z"
 }
