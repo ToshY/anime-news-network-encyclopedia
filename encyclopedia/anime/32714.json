@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Tougen Anki",
     "+@precision": "TV",
-    "+@generated-on": "2025-12-21T08:41:25Z",
+    "+@generated-on": "2026-01-20T13:13:55Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27853"
+    },
+    "related-next": {
+        "+@id": "38194",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -121,9 +125,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "18",
-        "+@weighted_score": "5.5506",
-        "+@bayesian_score": "6.35656"
+        "+@nb_votes": "29",
+        "+@weighted_score": "6.0091",
+        "+@bayesian_score": "6.43724"
     },
     "review": {
         "+content": "<cite>Tougen Anki</cite> Episodes 1-12 Anime Series Review",
@@ -219,6 +223,21 @@
             "+content": "Japanese Animation TV Ranking, December 1-7",
             "+@datetime": "2025-12-13T14:15:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-12-13/japanese-animation-tv-ranking-december-1-7/.232007"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, December 8-14",
+            "+@datetime": "2025-12-27T11:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-27/japanese-animation-tv-ranking-december-8-14/.232524"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, December 15-21",
+            "+@datetime": "2025-12-27T15:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-27/japanese-animation-tv-ranking-december-15-21/.232525"
+        },
+        {
+            "+content": "<cite>Tougen Anki</cite> Anime Gets <cite>Nikko Kegon Falls Arc</cite> Sequel",
+            "+@datetime": "2025-12-26T15:30:26Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-26/tougen-anki-anime-gets-nikko-kegon-falls-arc-sequel/.232534"
         }
     ],
     "staff": [
@@ -239,11 +258,67 @@
             }
         },
         {
+            "+@gid": "1976092083",
+            "task": "Script",
+            "person": {
+                "+content": "Yū Kinome",
+                "+@id": "97444"
+            }
+        },
+        {
             "+@gid": "2081514892",
             "task": "Script",
             "person": {
                 "+content": "Yukie Sugawara",
                 "+@id": "111723"
+            }
+        },
+        {
+            "+@gid": "1110347902",
+            "task": "Script",
+            "person": {
+                "+content": "Daisuke Tazawa",
+                "+@id": "167902"
+            }
+        },
+        {
+            "+@gid": "1834252120",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hatsuki Tsuji",
+                "+@id": "12531"
+            }
+        },
+        {
+            "+@gid": "3588356592",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hideki Okamoto",
+                "+@id": "12964"
+            }
+        },
+        {
+            "+@gid": "2548248401",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Noriaki Saito",
+                "+@id": "25206"
+            }
+        },
+        {
+            "+@gid": "1925335629",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yō Nakano",
+                "+@id": "57971"
+            }
+        },
+        {
+            "+@gid": "2585369815",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tomohiro Matsukawa",
+                "+@id": "63453"
             }
         },
         {
@@ -271,6 +346,70 @@
             }
         },
         {
+            "+@gid": "3524076241",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yui Miura",
+                "+@id": "188841"
+            }
+        },
+        {
+            "+@gid": "1912714780",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yoshitsugu Kimura",
+                "+@id": "198855"
+            }
+        },
+        {
+            "+@gid": "2012998717",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shinichi Fukumoto",
+                "+@id": "219254"
+            }
+        },
+        {
+            "+@gid": "2006944385",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Makoto Ogihara",
+                "+@id": "221078"
+            }
+        },
+        {
+            "+@gid": "3127034470",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ken Yoshino",
+                "+@id": "292206"
+            }
+        },
+        {
+            "+@gid": "2281716703",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yusuke Kamata",
+                "+@id": "36555"
+            }
+        },
+        {
+            "+@gid": "3466153426",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Masaru Kanamori",
+                "+@id": "51428"
+            }
+        },
+        {
+            "+@gid": "2894662045",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tomohiro Matsukawa",
+                "+@id": "63453"
+            }
+        },
+        {
             "+@gid": "1710820306",
             "task": "Episode Director",
             "person": {
@@ -279,11 +418,51 @@
             }
         },
         {
+            "+@gid": "1810147205",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hyeon Dae Song",
+                "+@id": "92077"
+            }
+        },
+        {
             "+@gid": "1270408366",
             "task": "Episode Director",
             "person": {
                 "+content": "Yū Kinome",
                 "+@id": "97444"
+            }
+        },
+        {
+            "+@gid": "1896309512",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hitomi Ezoe",
+                "+@id": "131254"
+            }
+        },
+        {
+            "+@gid": "1499223071",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yoshitsugu Kimura",
+                "+@id": "198855"
+            }
+        },
+        {
+            "+@gid": "1640204056",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Atsuji Tanizawa",
+                "+@id": "218470"
+            }
+        },
+        {
+            "+@gid": "3643159194",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ken Yoshino",
+                "+@id": "292206"
             }
         },
         {
@@ -794,6 +973,15 @@
             }
         },
         {
+            "+@gid": "3247634434",
+            "+@lang": "IT",
+            "role": "Naito Mudano",
+            "person": {
+                "+content": "Paolo De Santis",
+                "+@id": "51099"
+            }
+        },
+        {
             "+@gid": "3199178017",
             "+@lang": "IT",
             "role": "Juji Yusurube",
@@ -818,6 +1006,15 @@
             "person": {
                 "+content": "Martina Felli",
                 "+@id": "122827"
+            }
+        },
+        {
+            "+@gid": "1996008483",
+            "+@lang": "IT",
+            "role": "Shiki Ichinose",
+            "person": {
+                "+content": "Alessandro Germano",
+                "+@id": "122882"
             }
         },
         {
@@ -1091,6 +1288,6 @@
         }
     },
     "+@date-added": "2024-05-07T19:08:09Z",
-    "+@date-last-modified-at": "2025-12-21T08:41:27Z",
-    "+@date-last-updated-at": "2025-12-21T08:41:27Z"
+    "+@date-last-modified-at": "2026-01-20T13:13:58Z",
+    "+@date-last-updated-at": "2026-01-20T13:13:58Z"
 }
