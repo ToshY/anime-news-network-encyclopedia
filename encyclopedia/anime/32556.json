@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Tales of Wedding Rings II",
     "+@precision": "TV 2",
-    "+@generated-on": "2025-12-21T12:59:01Z",
+    "+@generated-on": "2026-01-20T16:52:33Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26935"
@@ -59,6 +59,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "13",
+            "+@gid": "2668794282",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2025-10-04",
             "+@gid": "2230033023",
             "+@type": "Vintage"
@@ -82,8 +87,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "4.4481"
+        "+@nb_votes": "20",
+        "+@weighted_score": "5.3725",
+        "+@bayesian_score": "6.15977"
     },
     "news": [
         {
@@ -338,6 +344,22 @@
             "person": {
                 "+content": "Saori Nakashiki",
                 "+@id": "98253"
+            }
+        },
+        {
+            "+@gid": "2117124317",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shiori Nakasone",
+                "+@id": "105106"
+            }
+        },
+        {
+            "+@gid": "3238445403",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ayana Togashi",
+                "+@id": "173832"
             }
         },
         {
@@ -609,6 +631,6 @@
         }
     },
     "+@date-added": "2024-03-23T20:07:17Z",
-    "+@date-last-modified-at": "2025-12-21T12:59:06Z",
-    "+@date-last-updated-at": "2025-12-21T12:59:06Z"
+    "+@date-last-modified-at": "2026-01-20T16:52:36Z",
+    "+@date-last-updated-at": "2026-01-20T16:52:36Z"
 }
