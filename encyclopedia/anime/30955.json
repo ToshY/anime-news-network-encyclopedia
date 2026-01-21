@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Ascendance of a Bookworm",
     "+@precision": "TV 4",
-    "+@generated-on": "2025-12-22T02:30:13Z",
+    "+@generated-on": "2026-01-21T04:56:35Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24606"
@@ -13,18 +13,18 @@
         {
             "+@gid": "1647031328",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A30955-1647031328.1751884998.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A30955-1647031328.1768863648.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A30955-1647031328.1751884998.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A30955-1647031328.1768863648.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A30955-1647031328.1751884998.jpg",
-                    "+@width": "426",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A30955-1647031328.1768863648.jpg",
+                    "+@width": "424",
                     "+@height": "600"
                 }
             ]
@@ -54,9 +54,14 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2026-04",
+            "+content": "2026-04-04",
             "+@gid": "2048664958",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Pages\" by Little Glee Monster",
+            "+@gid": "1892114070",
+            "+@type": "Opening Theme"
         },
         {
             "+content": "TVアニメ「本好きの下剋上 司書になるためには手段を選んでいられません」公式サイト",
@@ -81,6 +86,11 @@
             "+content": "<cite>Ascendance of a Bookworm: Adopted Daughter of an Archduke</cite> Anime's Teaser Video Reveals Returning Cast, New Staff",
             "+@datetime": "2025-07-07T10:38:10Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-07-07/ascendance-of-a-bookworm-adopted-daughter-of-an-archduke-anime-teaser-video-reveals-returning-cast-/.226409"
+        },
+        {
+            "+content": "<cite>Ascendance of a Bookworm: Adopted Daughter of an Archduke</cite> Anime's Main Trailer Unveils More Staff, Opening Song Artist, April 4 Debut",
+            "+@datetime": "2026-01-19T09:02:45Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-19/ascendance-of-a-bookworm-adopted-daughter-of-an-archduke-anime-main-trailer-unveils-more-staff-/.233207"
         }
     ],
     "staff": [
@@ -139,9 +149,69 @@
                 "+content": "Aiko Minowa",
                 "+@id": "157964"
             }
+        },
+        {
+            "+@gid": "3062405889",
+            "task": "Art Director",
+            "person": {
+                "+content": "Seiki Tamura",
+                "+@id": "1824"
+            }
+        },
+        {
+            "+@gid": "1458731954",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Jun Watanabe",
+                "+@id": "10017"
+            }
+        },
+        {
+            "+@gid": "2163154005",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Mayuko Koike",
+                "+@id": "128583"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "1703808852",
+            "+@lang": "JA",
+            "role": "Benno",
+            "person": {
+                "+content": "Takehito Koyasu",
+                "+@id": "662"
+            }
+        },
+        {
+            "+@gid": "3577237100",
+            "+@lang": "JA",
+            "role": "Karlsted",
+            "person": {
+                "+content": "Toshiyuki Morikawa",
+                "+@id": "692"
+            }
+        },
+        {
+            "+@gid": "2708585403",
+            "+@lang": "JA",
+            "role": "Sylvester",
+            "person": {
+                "+content": "Kazuhiko Inoue",
+                "+@id": "722"
+            }
+        },
+        {
+            "+@gid": "1292563862",
+            "+@lang": "JA",
+            "role": "Effa",
+            "person": {
+                "+content": "Fumiko Orikasa",
+                "+@id": "912"
+            }
+        },
         {
             "+@gid": "3009868542",
             "+@lang": "JA",
@@ -152,12 +222,84 @@
             }
         },
         {
+            "+@gid": "3302649371",
+            "+@lang": "JA",
+            "role": "Gunther",
+            "person": {
+                "+content": "Tsuyoshi Koyama",
+                "+@id": "20355"
+            }
+        },
+        {
+            "+@gid": "2394010379",
+            "+@lang": "JA",
+            "role": "Gil",
+            "person": {
+                "+content": "Yūko Sanpei",
+                "+@id": "22150"
+            }
+        },
+        {
             "+@gid": "1200847607",
             "+@lang": "JA",
             "role": "Rozemyne",
             "person": {
                 "+content": "Yuka Iguchi",
                 "+@id": "28316"
+            }
+        },
+        {
+            "+@gid": "1699637662",
+            "+@lang": "JA",
+            "role": "Mark",
+            "person": {
+                "+content": "Tomoaki Maeno",
+                "+@id": "46653"
+            }
+        },
+        {
+            "+@gid": "805413553",
+            "+@lang": "JA",
+            "role": "Turi",
+            "person": {
+                "+content": "Megumi Nakajima",
+                "+@id": "67162"
+            }
+        },
+        {
+            "+@gid": "1623326646",
+            "+@lang": "JA",
+            "role": "Lutz",
+            "person": {
+                "+content": "Mutsumi Tamura",
+                "+@id": "70817"
+            }
+        },
+        {
+            "+@gid": "1318358671",
+            "+@lang": "JA",
+            "role": "Vilma",
+            "person": {
+                "+content": "Kiyono Yasuno",
+                "+@id": "99806"
+            }
+        },
+        {
+            "+@gid": "2189305808",
+            "+@lang": "JA",
+            "role": "Fran",
+            "person": {
+                "+content": "Shō Karino",
+                "+@id": "111887"
+            }
+        },
+        {
+            "+@gid": "1849172419",
+            "+@lang": "JA",
+            "role": "Damuel",
+            "person": {
+                "+content": "Yūichirō Umehara",
+                "+@id": "127402"
             }
         }
     ],
@@ -170,5 +312,6 @@
         }
     },
     "+@date-added": "2023-12-06T21:31:34Z",
-    "+@date-last-updated-at": "2025-12-22T02:30:17Z"
+    "+@date-last-modified-at": "2026-01-21T04:56:38Z",
+    "+@date-last-updated-at": "2026-01-21T04:56:38Z"
 }
