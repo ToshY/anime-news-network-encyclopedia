@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Rent-A-Girlfriend",
     "+@precision": "TV 5",
-    "+@generated-on": "2025-12-22T02:30:13Z",
+    "+@generated-on": "2026-01-21T02:32:13Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32921"
@@ -13,18 +13,18 @@
         {
             "+@gid": "1642875967",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37856-1642875967.1758356799.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37856-1642875967.1768518602.jpg",
+            "+@width": "143",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37856-1642875967.1758356799.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37856-1642875967.1768518602.jpg",
+                    "+@width": "143",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37856-1642875967.1758356799.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37856-1642875967.1768518602.jpg",
+                    "+@width": "428",
                     "+@height": "600"
                 }
             ]
@@ -48,19 +48,154 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2026",
+            "+content": "2026-04",
             "+@gid": "1556595218",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ『彼女、お借りします』公式サイト",
+            "+@gid": "3374203967",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://kanokari-official.com/"
         }
     ],
-    "staff": {
-        "+@gid": "2576692777",
-        "task": "Original creator",
-        "person": {
-            "+content": "Reiji Miyajima",
-            "+@id": "147124"
+    "news": {
+        "+content": "<cite>Rent-A-Girlfriend</cite> Anime's 5th Season Debuts in April",
+        "+@datetime": "2026-01-15T09:52:23Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-01-15/rent-a-girlfriend-anime-5th-season-debuts-in-april/.233113"
+    },
+    "staff": [
+        {
+            "+@gid": "3072456473",
+            "task": "Director",
+            "person": {
+                "+content": "Kazuomi Koga",
+                "+@id": "55117"
+            }
+        },
+        {
+            "+@gid": "2146726423",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Mitsutaka Hirota",
+                "+@id": "50326"
+            }
+        },
+        {
+            "+@gid": "3355140606",
+            "task": "Music",
+            "person": {
+                "+content": "Hyadain",
+                "+@id": "100486"
+            }
+        },
+        {
+            "+@gid": "2576692777",
+            "task": "Original creator",
+            "person": {
+                "+content": "Reiji Miyajima",
+                "+@id": "147124"
+            }
+        },
+        {
+            "+@gid": "1741551407",
+            "task": "Character Design",
+            "person": {
+                "+content": "Kanna Hirayama",
+                "+@id": "130869"
+            }
+        },
+        {
+            "+@gid": "1612193763",
+            "task": "Art Director",
+            "person": {
+                "+content": "Minoru Akiba",
+                "+@id": "28066"
+            }
+        },
+        {
+            "+@gid": "1201194900",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Hajime Takakuwa",
+                "+@id": "12967"
+            }
+        },
+        {
+            "+@gid": "3985678061",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Shintaro Sakai",
+                "+@id": "124517"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3492283880",
+            "+@lang": "JA",
+            "role": "Mami Nanami",
+            "person": {
+                "+content": "Aoi Yūki",
+                "+@id": "68107"
+            }
+        },
+        {
+            "+@gid": "1028813136",
+            "+@lang": "JA",
+            "role": "Ruka Sarashina",
+            "person": {
+                "+content": "Nao Tōyama",
+                "+@id": "95316"
+            }
+        },
+        {
+            "+@gid": "740036429",
+            "+@lang": "JA",
+            "role": "Mini Yaemori",
+            "person": {
+                "+content": "Yū Serizawa",
+                "+@id": "118002"
+            }
+        },
+        {
+            "+@gid": "1550354171",
+            "+@lang": "JA",
+            "role": "Chizuru Mizuhara",
+            "person": {
+                "+content": "Sora Amamiya",
+                "+@id": "119743"
+            }
+        },
+        {
+            "+@gid": "1409170454",
+            "+@lang": "JA",
+            "role": "Sumi Sakurasawa",
+            "person": {
+                "+content": "Rie Takahashi",
+                "+@id": "126148"
+            }
+        },
+        {
+            "+@gid": "1912106098",
+            "+@lang": "JA",
+            "role": "Kazuya Kinoshita",
+            "person": {
+                "+content": "Shun Horie",
+                "+@id": "141454"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "1962734017",
+        "task": "Animation Production",
+        "company": {
+            "+content": "TMS Entertainment",
+            "+@id": "292"
         }
     },
     "+@date-added": "2025-09-20T04:25:34Z",
-    "+@date-last-updated-at": "2025-12-22T02:30:17Z"
+    "+@date-last-modified-at": "2026-01-21T02:32:17Z",
+    "+@date-last-updated-at": "2026-01-21T02:32:17Z"
 }

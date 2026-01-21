@@ -4,7 +4,11 @@
     "+@type": "manga",
     "+@name": "Same-nyan",
     "+@precision": "manga",
-    "+@generated-on": "2025-12-21T20:34:35Z",
+    "+@generated-on": "2026-01-21T02:32:19Z",
+    "related-next": {
+        "+@id": "38172",
+        "+@rel": "related"
+    },
     "info": [
         {
             "+@gid": "3376605572",
@@ -37,10 +41,21 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Shark Meow",
+            "+@gid": "2685601924",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "サメにゃん",
             "+@gid": "2257233052",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "2871691179",
+            "+@type": "Genres"
         },
         {
             "+content": "slice of life",
@@ -48,8 +63,20 @@
             "+@type": "Genres"
         },
         {
+            "+content": "AA",
+            "+@gid": "1974107352",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "2024-04-26",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "サメにゃん",
+            "+@gid": "3965875449",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://www.shogakukan.co.jp/books/77803626"
         }
     ],
     "staff": {
@@ -61,5 +88,6 @@
         }
     },
     "+@date-added": "2025-05-02T18:28:17Z",
-    "+@date-last-updated-at": "2025-12-21T20:34:36Z"
+    "+@date-last-modified-at": "2026-01-21T02:32:21Z",
+    "+@date-last-updated-at": "2026-01-21T02:32:21Z"
 }
