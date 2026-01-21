@@ -4,33 +4,34 @@
     "+@type": "TV",
     "+@name": "Fate/strange Fake",
     "+@precision": "TV",
-    "+@generated-on": "2025-12-22T16:44:22Z",
-    "related-prev": {
-        "+@rel": "adapted from",
-        "+@id": "26376"
-    },
+    "+@generated-on": "2026-01-21T20:48:55Z",
+    "related-prev": [
+        {
+            "+@rel": "part of",
+            "+@id": "24612"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "26376"
+        }
+    ],
     "info": [
         {
-            "+@gid": "1156913333",
+            "+@gid": "2995540384",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28887-1156913333.1757810942.jpg",
-            "+@width": "200",
-            "+@height": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28887-2995540384.1766972580.jpg",
+            "+@width": "140",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28887-1156913333.1757810942.jpg",
-                    "+@width": "200",
-                    "+@height": "141"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28887-2995540384.1766972580.jpg",
+                    "+@width": "140",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A28887-1156913333.1757810942.jpg",
-                    "+@width": "500",
-                    "+@height": "353"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A28887-1156913333.1757810942.jpg",
-                    "+@width": "600",
-                    "+@height": "424"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A28887-2995540384.1766972580.jpg",
+                    "+@width": "350",
+                    "+@height": "500"
                 }
             ]
         },
@@ -61,6 +62,16 @@
             "+@type": "Genres"
         },
         {
+            "+content": "psychological",
+            "+@gid": "1767058747",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "thriller",
+            "+@gid": "3923290883",
+            "+@type": "Genres"
+        },
+        {
             "+content": "tournament",
             "+@gid": "712555915",
             "+@type": "Genres"
@@ -76,8 +87,28 @@
             "+@type": "Themes"
         },
         {
+            "+content": "gore",
+            "+@gid": "2383576101",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "military",
+            "+@gid": "946448919",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "monsters",
+            "+@gid": "2620890573",
+            "+@type": "Themes"
+        },
+        {
             "+content": "mythology",
             "+@gid": "2047237696",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "police",
+            "+@gid": "3378564423",
             "+@type": "Themes"
         },
         {
@@ -86,13 +117,33 @@
             "+@type": "Themes"
         },
         {
+            "+content": "superpowers",
+            "+@gid": "1422061484",
+            "+@type": "Themes"
+        },
+        {
             "+content": "survival game",
             "+@gid": "3798512198",
             "+@type": "Themes"
         },
         {
+            "+content": "swordplay",
+            "+@gid": "3992759151",
+            "+@type": "Themes"
+        },
+        {
             "+content": "tragedy",
             "+@gid": "2418305450",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "vampires",
+            "+@gid": "1213438245",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "war",
+            "+@gid": "3278715184",
             "+@type": "Themes"
         },
         {
@@ -144,8 +195,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "9"
+        "+@nb_votes": "2",
+        "+@weighted_score": "8.5454"
     },
     "review": [
         {
@@ -207,6 +258,16 @@
             "+content": "Crunchyroll Streams <cite>Tamon's B-Side</cite>, <cite>Sentenced to Be a Hero</cite>, More Anime in India",
             "+@datetime": "2025-12-21T09:54:27Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-12-21/crunchyroll-streams-tamon-b-side-sentenced-to-be-a-hero-more-anime-in-india/.232312"
+        },
+        {
+            "+content": "Aniplex USA Reveals <cite>Fate/Strange Fake</cite> Anime's English Dub Cast",
+            "+@datetime": "2026-01-01T08:58:12Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-01/aniplex-usa-reveals-fate-strange-fake-anime-english-dub-cast/.232682"
+        },
+        {
+            "+content": "<cite>Chained Soldier</cite> Season 2, <cite>Scum of the Brave</cite>, More Anime Stream in India on Anime Times",
+            "+@datetime": "2026-01-05T10:24:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-05/chained-soldier-season-2-scum-of-the-brave-more-anime-stream-in-india-on-anime-times/.232772"
         }
     ],
     "staff": [
@@ -259,6 +320,14 @@
             }
         },
         {
+            "+@gid": "1851580524",
+            "task": "Storyboard",
+            "person": {
+                "+content": "tkg",
+                "+@id": "292580"
+            }
+        },
+        {
             "+@gid": "2346847491",
             "task": "Episode Director",
             "person": {
@@ -272,6 +341,30 @@
             "person": {
                 "+content": "Shun Enokido",
                 "+@id": "135393"
+            }
+        },
+        {
+            "+@gid": "1135508172",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kazuho Kunimoto",
+                "+@id": "207934"
+            }
+        },
+        {
+            "+@gid": "1233930675",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Toru Iwasawa",
+                "+@id": "153209"
+            }
+        },
+        {
+            "+@gid": "2025955500",
+            "task": "Unit Director",
+            "person": {
+                "+content": "tkg",
+                "+@id": "292580"
             }
         },
         {
@@ -323,6 +416,22 @@
             }
         },
         {
+            "+@gid": "2273202373",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kou Aine",
+                "+@id": "199387"
+            }
+        },
+        {
+            "+@gid": "500460128",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiroaki Gōda",
+                "+@id": "1367"
+            }
+        },
+        {
             "+@gid": "2686340023",
             "task": "Animation Director",
             "person": {
@@ -336,6 +445,38 @@
             "person": {
                 "+content": "Kiminori Itō",
                 "+@id": "82703"
+            }
+        },
+        {
+            "+@gid": "2643349523",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yukiko Busa",
+                "+@id": "84382"
+            }
+        },
+        {
+            "+@gid": "1423663534",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shoichiro Nishimi",
+                "+@id": "99704"
+            }
+        },
+        {
+            "+@gid": "1303650031",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Risa Suzuki",
+                "+@id": "120865"
+            }
+        },
+        {
+            "+@gid": "2395094005",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masaaki Takiyama",
+                "+@id": "150647"
             }
         },
         {
@@ -379,11 +520,67 @@
             }
         },
         {
+            "+@gid": "1894569114",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wen Jing Li",
+                "+@id": "204191"
+            }
+        },
+        {
             "+@gid": "2258480067",
             "task": "Animation Director",
             "person": {
                 "+content": "Ayaka Kondō",
                 "+@id": "224414"
+            }
+        },
+        {
+            "+@gid": "1245158464",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Lu Xiao",
+                "+@id": "225166"
+            }
+        },
+        {
+            "+@gid": "3899076980",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Facu Escobedo",
+                "+@id": "230525"
+            }
+        },
+        {
+            "+@gid": "1666725268",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zhi Lan Cui",
+                "+@id": "258124"
+            }
+        },
+        {
+            "+@gid": "2343163681",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zhen Jia Ning",
+                "+@id": "280894"
+            }
+        },
+        {
+            "+@gid": "3078328944",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Pei Yuan Yang",
+                "+@id": "281613"
+            }
+        },
+        {
+            "+@gid": "3662114120",
+            "task": "Animation Director",
+            "person": {
+                "+content": "tkg",
+                "+@id": "292580"
             }
         },
         {
@@ -769,6 +966,6 @@
         }
     },
     "+@date-added": "2023-07-03T14:49:57Z",
-    "+@date-last-modified-at": "2025-12-22T16:44:24Z",
-    "+@date-last-updated-at": "2025-12-22T16:44:24Z"
+    "+@date-last-modified-at": "2026-01-21T20:48:56Z",
+    "+@date-last-updated-at": "2026-01-21T20:48:56Z"
 }
