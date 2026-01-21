@@ -2,13 +2,19 @@
     "+@id": "35844",
     "+@gid": "2102459771",
     "+@type": "manga",
-    "+@name": "Kiwamete Gōmantaru Akuyaku Kizoku no Shogyō",
+    "+@name": "Misdeeds of an Extremely Arrogant Villain Aristocrat",
     "+@precision": "manga",
-    "+@generated-on": "2025-12-22T08:46:47Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "20005"
-    },
+    "+@generated-on": "2026-01-21T13:12:51Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "20005"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "38209"
+        }
+    ],
     "info": [
         {
             "+@gid": "1555189671",
@@ -35,20 +41,20 @@
             ]
         },
         {
+            "+content": "The Misdeeds of an Extremely Arrogant Villain Aristocrat",
+            "+@gid": "3180689310",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Kiwamete Gōmantaru Akuyaku Kizoku no Shogyō",
             "+@gid": "2510607576",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
             "+content": "The Deeds of an Extremely Arrogant Villainous Noble",
             "+@gid": "613197383",
-            "+@type": "Alternative title",
-            "+@lang": "EN"
-        },
-        {
-            "+content": "The Misdeeds of an Extremely Arrogant Villain Aristocrat",
-            "+@gid": "3180689310",
             "+@type": "Alternative title",
             "+@lang": "EN"
         },
@@ -108,5 +114,6 @@
         }
     ],
     "+@date-added": "2025-04-25T17:07:12Z",
-    "+@date-last-updated-at": "2025-12-22T08:46:49Z"
+    "+@date-last-modified-at": "2026-01-21T13:12:52Z",
+    "+@date-last-updated-at": "2026-01-21T13:12:52Z"
 }
