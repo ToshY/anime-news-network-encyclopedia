@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "One Punch Man",
     "+@precision": "TV 3",
-    "+@generated-on": "2025-12-24T04:49:53Z",
+    "+@generated-on": "2026-01-23T13:10:44Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "21282"
+    },
+    "related-next": {
+        "+@id": "38200",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -112,6 +116,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "1238073896",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2025-10-05",
             "+@gid": "1994933126",
             "+@type": "Vintage"
@@ -135,8 +144,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "11",
-        "+@weighted_score": "5.3802"
+        "+@nb_votes": "66",
+        "+@weighted_score": "5.3999",
+        "+@bayesian_score": "5.71865"
     },
     "episode": {
         "+@num": "1",
@@ -241,6 +251,11 @@
             "+content": "<cite>One-Punch Man</cite> Season 3 Anime Reveals 3rd Promo Video",
             "+@datetime": "2025-12-20T05:57:58Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-12-20/one-punch-man-season-3-anime-reveals-3rd-promo-video/.232295"
+        },
+        {
+            "+content": "<cite>One-Punch Man</cite> Season 3's Part 2 Airs in 2027",
+            "+@datetime": "2025-12-28T17:50:12Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-28/one-punch-man-season-3-part-2-airs-in-2027/.232610"
         }
     ],
     "staff": [
@@ -338,6 +353,14 @@
             "person": {
                 "+content": "Shūji Miyazaki",
                 "+@id": "49516"
+            }
+        },
+        {
+            "+@gid": "1996234011",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yoshiyuki Nogami",
+                "+@id": "102383"
             }
         },
         {
@@ -533,6 +556,14 @@
             }
         },
         {
+            "+@gid": "1062266729",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Qiang Sun",
+                "+@id": "115117"
+            }
+        },
+        {
             "+@gid": "1695227059",
             "task": "Animation Director",
             "person": {
@@ -618,6 +649,14 @@
             "person": {
                 "+content": "Li Ze Dong",
                 "+@id": "257795"
+            }
+        },
+        {
+            "+@gid": "1810813445",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Dong dong Fan",
+                "+@id": "266793"
             }
         },
         {
@@ -761,15 +800,6 @@
             "person": {
                 "+content": "Laura Post",
                 "+@id": "70304"
-            }
-        },
-        {
-            "+@gid": "2138312880",
-            "+@lang": "EN",
-            "role": "Speed-o'-Sound Sonic",
-            "person": {
-                "+content": "Erik Scott Kimerer",
-                "+@id": "104711"
             }
         },
         {
@@ -1304,6 +1334,6 @@
         }
     },
     "+@date-added": "2022-08-18T04:01:40Z",
-    "+@date-last-modified-at": "2025-12-24T04:49:55Z",
-    "+@date-last-updated-at": "2025-12-24T04:49:55Z"
+    "+@date-last-modified-at": "2026-01-23T13:10:47Z",
+    "+@date-last-updated-at": "2026-01-23T13:10:47Z"
 }
