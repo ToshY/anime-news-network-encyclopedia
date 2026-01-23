@@ -4,11 +4,17 @@
     "+@type": "special",
     "+@name": "Fate/strange Fake -Whispers of Dawn-",
     "+@precision": "special",
-    "+@generated-on": "2025-12-24T02:23:06Z",
-    "related-prev": {
-        "+@rel": "adapted from",
-        "+@id": "26376"
-    },
+    "+@generated-on": "2026-01-23T02:30:18Z",
+    "related-prev": [
+        {
+            "+@rel": "part of",
+            "+@id": "24612"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "26376"
+        }
+    ],
     "info": [
         {
             "+@gid": "1983498998",
@@ -56,6 +62,16 @@
             "+@type": "Genres"
         },
         {
+            "+content": "psychological",
+            "+@gid": "2099751679",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "thriller",
+            "+@gid": "2099083462",
+            "+@type": "Genres"
+        },
+        {
             "+content": "tournament",
             "+@gid": "1570258183",
             "+@type": "Genres"
@@ -71,8 +87,23 @@
             "+@type": "Themes"
         },
         {
+            "+content": "gore",
+            "+@gid": "1512434971",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "military",
+            "+@gid": "2022814403",
+            "+@type": "Themes"
+        },
+        {
             "+content": "mythology",
             "+@gid": "3717407258",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "police",
+            "+@gid": "1053081986",
             "+@type": "Themes"
         },
         {
@@ -81,13 +112,28 @@
             "+@type": "Themes"
         },
         {
+            "+content": "superpowers",
+            "+@gid": "1845187108",
+            "+@type": "Themes"
+        },
+        {
             "+content": "survival game",
             "+@gid": "2038694748",
             "+@type": "Themes"
         },
         {
+            "+content": "swordplay",
+            "+@gid": "2245220827",
+            "+@type": "Themes"
+        },
+        {
             "+content": "tragedy",
             "+@gid": "1059862147",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "war",
+            "+@gid": "2786393916",
             "+@type": "Themes"
         },
         {
@@ -136,9 +182,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "42",
-        "+@weighted_score": "7.7797",
-        "+@bayesian_score": "7.70707"
+        "+@nb_votes": "50",
+        "+@weighted_score": "7.8077",
+        "+@bayesian_score": "7.74271"
     },
     "review": {
         "+content": "Fate/strange Fake -Whispers of Dawn-",
@@ -758,6 +804,6 @@
         }
     ],
     "+@date-added": "2022-09-24T05:55:34Z",
-    "+@date-last-modified-at": "2025-12-24T02:23:09Z",
-    "+@date-last-updated-at": "2025-12-24T02:23:09Z"
+    "+@date-last-modified-at": "2026-01-23T02:30:20Z",
+    "+@date-last-updated-at": "2026-01-23T02:30:20Z"
 }
