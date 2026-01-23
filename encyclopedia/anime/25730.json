@@ -4,15 +4,21 @@
     "+@type": "TV",
     "+@name": "KonoSuba – God’s blessing on this wonderful world! 3",
     "+@precision": "TV",
-    "+@generated-on": "2025-12-24T13:03:16Z",
+    "+@generated-on": "2026-01-23T20:42:01Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "21138"
     },
-    "related-next": {
-        "+@id": "33539",
-        "+@rel": "related"
-    },
+    "related-next": [
+        {
+            "+@id": "33539",
+            "+@rel": "side story"
+        },
+        {
+            "+@id": "38284",
+            "+@rel": "sequel"
+        }
+    ],
     "info": [
         {
             "+@gid": "1961714579",
@@ -55,6 +61,16 @@
             "+@gid": "2436144066",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "2347165015",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "2452517429",
+            "+@type": "Genres"
         },
         {
             "+content": "gods",
@@ -100,9 +116,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "143",
-        "+@weighted_score": "7.5547",
-        "+@bayesian_score": "7.54784"
+        "+@nb_votes": "144",
+        "+@weighted_score": "7.552",
+        "+@bayesian_score": "7.54583"
     },
     "episode": [
         {
@@ -1202,6 +1218,6 @@
         }
     },
     "+@date-added": "2022-05-29T01:25:17Z",
-    "+@date-last-modified-at": "2025-12-24T13:03:18Z",
-    "+@date-last-updated-at": "2025-12-24T13:03:18Z"
+    "+@date-last-modified-at": "2026-01-23T20:42:02Z",
+    "+@date-last-updated-at": "2026-01-23T20:42:02Z"
 }
