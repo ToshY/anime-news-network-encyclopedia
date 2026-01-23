@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Shanti",
     "+@precision": "manga",
-    "+@generated-on": "2025-12-24T16:42:40Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "19498"
-    },
+    "+@generated-on": "2026-01-23T16:49:54Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "19498"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "38323"
+        }
+    ],
     "info": [
         {
             "+@gid": "2287660914",
@@ -47,6 +53,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "crime",
+            "+@gid": "2822588259",
+            "+@type": "Themes"
+        },
+        {
             "+content": "2024-07-12 (serialized in Comic Gene, Aug 2024)",
             "+@gid": "2045839010",
             "+@type": "Vintage"
@@ -79,5 +90,6 @@
         }
     ],
     "+@date-added": "2025-06-25T23:34:21Z",
-    "+@date-last-updated-at": "2025-12-24T16:42:42Z"
+    "+@date-last-modified-at": "2026-01-23T16:49:56Z",
+    "+@date-last-updated-at": "2026-01-23T16:49:56Z"
 }
