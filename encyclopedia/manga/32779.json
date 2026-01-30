@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Star Wars: The High Republic - Edge of Balance",
     "+@precision": "manga",
-    "+@generated-on": "2025-12-31T16:43:09Z",
-    "related-prev": {
-        "+@rel": "related to",
-        "+@id": "2482"
-    },
+    "+@generated-on": "2026-01-30T20:48:20Z",
+    "related-prev": [
+        {
+            "+@rel": "related to",
+            "+@id": "2482"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "38290"
+        }
+    ],
     "info": [
         {
             "+@gid": "3446053577",
@@ -106,5 +112,6 @@
         }
     ],
     "+@date-added": "2024-05-29T16:21:55Z",
-    "+@date-last-updated-at": "2025-12-31T16:43:12Z"
+    "+@date-last-modified-at": "2026-01-30T20:48:21Z",
+    "+@date-last-updated-at": "2026-01-30T20:48:21Z"
 }
