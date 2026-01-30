@@ -4,7 +4,17 @@
     "+@type": "manga",
     "+@name": "Hits",
     "+@precision": "manga",
-    "+@generated-on": "2025-12-31T02:26:20Z",
+    "+@generated-on": "2026-01-30T03:07:19Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "20372"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "37455"
+        }
+    ],
     "info": [
         {
             "+@gid": "2225319572",
@@ -53,11 +63,28 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2020-08",
-            "+@gid": "2362210437",
+            "+content": "2020-07-01 to 2020-10-30 (serialized in Monthly Hero's, Aug-Dec 2020)",
+            "+@gid": "1307165677",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2020-12-25 (serialized on Comiplex)",
+            "+@gid": "4049928498",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "ヒッツ - 原作：柴田ヨクサル/作画：沢 真 / #1 僕がいる | コミプレ｜ヒーローズ編集部が運営する無料マンガサイト",
+            "+@gid": "1800440228",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://viewer.heros-web.com/episode/13933686331676415718"
         }
     ],
+    "news": {
+        "+content": "<cite>Air Master's</cite> Shibata Launches New Manga on July 1",
+        "+@datetime": "2020-06-10T16:30:00Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2020-06-10/air-master-shibata-launches-new-manga-on-july-1/.160450"
+    },
     "staff": [
         {
             "+@gid": "2250587304",
@@ -77,5 +104,6 @@
         }
     ],
     "+@date-added": "2025-12-30T12:51:04Z",
-    "+@date-last-updated-at": "2025-12-31T02:26:20Z"
+    "+@date-last-modified-at": "2026-01-30T03:07:21Z",
+    "+@date-last-updated-at": "2026-01-30T03:07:21Z"
 }
