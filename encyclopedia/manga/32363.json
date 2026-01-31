@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Street Fighter II: The Animated Movie",
     "+@precision": "manga",
-    "+@generated-on": "2026-01-01T16:44:36Z",
-    "related-prev": {
-        "+@rel": "adapted from",
-        "+@id": "2302"
-    },
+    "+@generated-on": "2026-01-31T20:42:49Z",
+    "related-prev": [
+        {
+            "+@rel": "adapted from",
+            "+@id": "2302"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "26115"
+        }
+    ],
     "info": [
         {
             "+@gid": "2145526581",
@@ -85,5 +91,6 @@
         }
     },
     "+@date-added": "2024-03-06T11:01:20Z",
-    "+@date-last-updated-at": "2026-01-01T16:44:37Z"
+    "+@date-last-modified-at": "2026-01-31T20:42:50Z",
+    "+@date-last-updated-at": "2026-01-31T20:42:50Z"
 }
