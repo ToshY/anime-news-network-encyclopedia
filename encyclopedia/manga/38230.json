@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Star Wars Visions: Tsukumo",
     "+@precision": "manga",
-    "+@generated-on": "2026-01-03T02:21:28Z",
-    "related-prev": {
-        "+@rel": "spinoff of",
-        "+@id": "23840"
-    },
+    "+@generated-on": "2026-02-02T03:20:14Z",
+    "related-prev": [
+        {
+            "+@rel": "spinoff of",
+            "+@id": "23840"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "38290"
+        }
+    ],
     "info": [
         {
             "+content": "Star Wars Visions: Tsukumo",
@@ -57,5 +63,6 @@
         }
     ],
     "+@date-added": "2025-12-31T17:09:05Z",
-    "+@date-last-updated-at": "2026-01-03T02:21:29Z"
+    "+@date-last-modified-at": "2026-02-02T03:20:16Z",
+    "+@date-last-updated-at": "2026-02-02T03:20:16Z"
 }
