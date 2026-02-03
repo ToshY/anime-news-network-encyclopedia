@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Cardfight!! Vanguard Divinez Parallactic Clash Arc",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-04T02:40:32Z",
+    "+@generated-on": "2026-02-03T03:13:35Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "36281"
@@ -80,6 +80,11 @@
             "+content": "<cite>Cardfight!! Vanguard Divinez Genma Seisen-hen</cite> Anime Reveals Promo Video, Cast, Theme Songs, January 10 Premiere",
             "+@datetime": "2025-12-17T16:16:52Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-12-17/cardfight-vanguard-divinez-genma-seisen-hen-anime-reveals-promo-video-cast-theme-songs-january-10-/.232194"
+        },
+        {
+            "+content": "Aniplus Asia Airs Simulcast of <cite>Cardfight!! Vanguard DivineZ Parallactic Clash</cite> Anime",
+            "+@datetime": "2026-01-12T22:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-12/aniplus-asia-airs-simulcast-of-cardfight-vanguard-divinez-parallactic-clash-anime/.232972"
         }
     ],
     "staff": [
@@ -108,11 +113,27 @@
             }
         },
         {
+            "+@gid": "3845003665",
+            "task": "Script",
+            "person": {
+                "+content": "Shun Menjou",
+                "+@id": "170965"
+            }
+        },
+        {
             "+@gid": "1877059484",
             "task": "Script",
             "person": {
                 "+content": "Takahito Ōnishi",
                 "+@id": "222404"
+            }
+        },
+        {
+            "+@gid": "1579217999",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Daigo Yamagishi",
+                "+@id": "79628"
             }
         },
         {
@@ -124,11 +145,67 @@
             }
         },
         {
+            "+@gid": "931161734",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Aya Takahashi",
+                "+@id": "129562"
+            }
+        },
+        {
+            "+@gid": "656264702",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Asuka Ōkubo",
+                "+@id": "184024"
+            }
+        },
+        {
+            "+@gid": "1424910769",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Daigo Yamagishi",
+                "+@id": "79628"
+            }
+        },
+        {
             "+@gid": "2827890272",
             "task": "Episode Director",
             "person": {
                 "+content": "Taku Yamada",
                 "+@id": "90823"
+            }
+        },
+        {
+            "+@gid": "1986348266",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kazuma Komatsu",
+                "+@id": "179394"
+            }
+        },
+        {
+            "+@gid": "2792296199",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Asuka Ōkubo",
+                "+@id": "184024"
+            }
+        },
+        {
+            "+@gid": "1495149990",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Taku Yamada",
+                "+@id": "90823"
+            }
+        },
+        {
+            "+@gid": "3771282128",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Asuka Ōkubo",
+                "+@id": "184024"
             }
         },
         {
@@ -204,6 +281,38 @@
             }
         },
         {
+            "+@gid": "2109647529",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiroko Oguri",
+                "+@id": "27968"
+            }
+        },
+        {
+            "+@gid": "2673603080",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tadashi Oppata",
+                "+@id": "32898"
+            }
+        },
+        {
+            "+@gid": "2348824421",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Azumi Kuniyoshi",
+                "+@id": "43250"
+            }
+        },
+        {
+            "+@gid": "2500170061",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tomokatsu Nagasaku",
+                "+@id": "49810"
+            }
+        },
+        {
             "+@gid": "4147313907",
             "task": "Animation Director",
             "person": {
@@ -212,11 +321,51 @@
             }
         },
         {
+            "+@gid": "3300621101",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ga Young Park",
+                "+@id": "139465"
+            }
+        },
+        {
+            "+@gid": "973119486",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tomoko Kitagawa",
+                "+@id": "140317"
+            }
+        },
+        {
+            "+@gid": "1806059271",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Maki Toyoda",
+                "+@id": "153036"
+            }
+        },
+        {
             "+@gid": "3586872857",
             "task": "Animation Director",
             "person": {
                 "+content": "Hoang My Linh Dang",
                 "+@id": "202786"
+            }
+        },
+        {
+            "+@gid": "745705132",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sun Hee Im",
+                "+@id": "205475"
+            }
+        },
+        {
+            "+@gid": "1702659453",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hatsuhi Yoshitake",
+                "+@id": "207782"
             }
         },
         {
@@ -297,6 +446,30 @@
             "person": {
                 "+content": "Shiyu Otomo",
                 "+@id": "199811"
+            }
+        },
+        {
+            "+@gid": "1286916947",
+            "task": "Producer",
+            "person": {
+                "+content": "Ikumo Nishino",
+                "+@id": "267682"
+            }
+        },
+        {
+            "+@gid": "2922743487",
+            "task": "Producer",
+            "person": {
+                "+content": "Misaki Abe",
+                "+@id": "268680"
+            }
+        },
+        {
+            "+@gid": "1555034632",
+            "task": "Producer",
+            "person": {
+                "+content": "Daiki Muronozono",
+                "+@id": "284977"
             }
         }
     ],
@@ -434,9 +607,17 @@
                 "+content": "Studio Jemi",
                 "+@id": "20548"
             }
+        },
+        {
+            "+@gid": "3556667913",
+            "task": "Production",
+            "company": {
+                "+content": "Bushiroad",
+                "+@id": "15513"
+            }
         }
     ],
     "+@date-added": "2025-10-05T05:57:56Z",
-    "+@date-last-modified-at": "2026-01-04T02:40:35Z",
-    "+@date-last-updated-at": "2026-01-04T02:40:35Z"
+    "+@date-last-modified-at": "2026-02-03T03:13:39Z",
+    "+@date-last-updated-at": "2026-02-03T03:13:39Z"
 }
