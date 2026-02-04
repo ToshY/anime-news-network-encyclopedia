@@ -4,11 +4,17 @@
     "+@type": "ONA",
     "+@name": "Eagle Talon XX",
     "+@precision": "ONA",
-    "+@generated-on": "2026-01-05T02:02:26Z",
-    "related-prev": {
-        "+@rel": "related to",
-        "+@id": "23703"
-    },
+    "+@generated-on": "2026-02-04T03:09:14Z",
+    "related-prev": [
+        {
+            "+@rel": "related to",
+            "+@id": "23703"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "38262"
+        }
+    ],
     "info": [
         {
             "+@gid": "715647811",
@@ -137,5 +143,6 @@
         }
     ],
     "+@date-added": "2025-12-05T02:01:50Z",
-    "+@date-last-updated-at": "2026-01-05T02:40:06Z"
+    "+@date-last-modified-at": "2026-02-04T03:09:18Z",
+    "+@date-last-updated-at": "2026-02-04T03:09:18Z"
 }
