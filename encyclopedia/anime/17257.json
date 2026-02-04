@@ -4,11 +4,17 @@
     "+@type": "movie",
     "+@name": "Persona 3 the Movie #4 Winter of Rebirth",
     "+@precision": "movie",
-    "+@generated-on": "2026-01-05T13:09:31Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "16103"
-    },
+    "+@generated-on": "2026-02-04T20:53:15Z",
+    "related-prev": [
+        {
+            "+@rel": "sequel of",
+            "+@id": "16103"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "38312"
+        }
+    ],
     "info": [
         {
             "+@gid": "376460011",
@@ -79,8 +85,8 @@
     ],
     "ratings": {
         "+@nb_votes": "56",
-        "+@weighted_score": "7.6503",
-        "+@bayesian_score": "7.61673"
+        "+@weighted_score": "7.65",
+        "+@bayesian_score": "7.61854"
     },
     "release": [
         {
@@ -447,6 +453,6 @@
         }
     ],
     "+@date-added": "2015-07-01T11:16:10Z",
-    "+@date-last-modified-at": "2026-01-05T13:09:32Z",
-    "+@date-last-updated-at": "2026-01-05T13:09:32Z"
+    "+@date-last-modified-at": "2026-02-04T20:53:16Z",
+    "+@date-last-updated-at": "2026-02-04T20:53:16Z"
 }
