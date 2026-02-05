@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Boy and The Beast",
     "+@precision": "movie",
-    "+@generated-on": "2026-01-06T04:53:13Z",
+    "+@generated-on": "2026-02-05T13:39:50Z",
     "related-next": {
         "+@id": "17839",
         "+@rel": "adaptation"
@@ -69,6 +69,12 @@
             "+@gid": "1794121221",
             "+@type": "Alternative title",
             "+@lang": "FR"
+        },
+        {
+            "+content": "O neno e a besta",
+            "+@gid": "609482763",
+            "+@type": "Alternative title",
+            "+@lang": "ES"
         },
         {
             "+content": "O Rapaz e o Monstro",
@@ -248,7 +254,7 @@
     "ratings": {
         "+@nb_votes": "438",
         "+@weighted_score": "8.0083",
-        "+@bayesian_score": "7.99284"
+        "+@bayesian_score": "7.99399"
     },
     "review": [
         {
@@ -261,6 +267,11 @@
         }
     ],
     "release": [
+        {
+            "+content": "The Boy and The Beast - [4K] [SteelBook] (Blu-ray)",
+            "+@date": "2026-03-17",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=56328"
+        },
         {
             "+content": "Mamoru Hosoda Movie Collection (Blu-ray)",
             "+@date": "2018-10-16",
@@ -617,6 +628,11 @@
             "+content": "Japanese Animation TV Ranking, November 10-16",
             "+@datetime": "2025-11-22T09:15:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-11-22/japanese-animation-tv-ranking-november-10-16/.231293"
+        },
+        {
+            "+content": "GKIDS to Release <cite>The Boy and The Beast</cite> Film on 4K UHD",
+            "+@datetime": "2026-01-07T21:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-07/gkids-to-release-the-boy-and-the-beast-film-on-4k-uhd/.232847"
         }
     ],
     "staff": [
@@ -1248,6 +1264,15 @@
             }
         },
         {
+            "+@gid": "2473848740",
+            "+@lang": "ES",
+            "role": "Hyakushubo",
+            "person": {
+                "+content": "Eduardo Elías",
+                "+@id": "82743"
+            }
+        },
+        {
             "+@gid": "3487104628",
             "+@lang": "ES",
             "role": "Kumatetsu",
@@ -1275,12 +1300,48 @@
             }
         },
         {
+            "+@gid": "3415690652",
+            "+@lang": "ES",
+            "role": "Tatara",
+            "person": {
+                "+content": "Óscar Fernández",
+                "+@id": "138056"
+            }
+        },
+        {
             "+@gid": "1383054758",
             "+@lang": "ES",
             "role": "Kyuta",
             "person": {
                 "+content": "Alberto Bernal",
                 "+@id": "148365"
+            }
+        },
+        {
+            "+@gid": "1844965074",
+            "+@lang": "ES",
+            "role": "Hyakushubo",
+            "person": {
+                "+content": "Antón Rubal",
+                "+@id": "148500"
+            }
+        },
+        {
+            "+@gid": "3108244838",
+            "+@lang": "ES",
+            "role": "Ichirohiko",
+            "person": {
+                "+content": "Daniel Lema",
+                "+@id": "148506"
+            }
+        },
+        {
+            "+@gid": "2651429889",
+            "+@lang": "ES",
+            "role": "Jiromaru",
+            "person": {
+                "+content": "Ana Lemos",
+                "+@id": "148507"
             }
         },
         {
@@ -1308,6 +1369,78 @@
             "person": {
                 "+content": "Dan Osorio",
                 "+@id": "150281"
+            }
+        },
+        {
+            "+@gid": "428170246",
+            "+@lang": "ES",
+            "role": "Iozen",
+            "person": {
+                "+content": "Matías Brea",
+                "+@id": "156598"
+            }
+        },
+        {
+            "+@gid": "2346042611",
+            "+@lang": "ES",
+            "role": "Kyuta",
+            "person": {
+                "+content": "Isabel Vallejo",
+                "+@id": "184320"
+            }
+        },
+        {
+            "+@gid": "846296578",
+            "+@lang": "ES",
+            "role": "Kumatetsu",
+            "person": {
+                "+content": "Luis Iglesia",
+                "+@id": "184327"
+            }
+        },
+        {
+            "+@gid": "2054465798",
+            "+@lang": "ES",
+            "role": "Kyuta",
+            "person": {
+                "+content": "Gaspar Somoza",
+                "+@id": "184330"
+            }
+        },
+        {
+            "+@gid": "2465498990",
+            "+@lang": "ES",
+            "role": "Grand Master",
+            "person": {
+                "+content": "Tacho Gonzalez",
+                "+@id": "184337"
+            }
+        },
+        {
+            "+@gid": "2314156581",
+            "+@lang": "ES",
+            "role": "Jiromaru",
+            "person": {
+                "+content": "Gelos Rosado",
+                "+@id": "207816"
+            }
+        },
+        {
+            "+@gid": "3920386478",
+            "+@lang": "ES",
+            "role": "Ichirohiko",
+            "person": {
+                "+content": "Montse Davila",
+                "+@id": "217959"
+            }
+        },
+        {
+            "+@gid": "1744358503",
+            "+@lang": "ES",
+            "role": "Kaede",
+            "person": {
+                "+content": "Lidia Veiga",
+                "+@id": "267696"
             }
         },
         {
@@ -1857,6 +1990,6 @@
         }
     ],
     "+@date-added": "2015-01-04T14:50:26Z",
-    "+@date-last-modified-at": "2026-01-06T04:53:16Z",
-    "+@date-last-updated-at": "2026-01-06T04:53:16Z"
+    "+@date-last-modified-at": "2026-02-05T13:39:52Z",
+    "+@date-last-updated-at": "2026-02-05T13:39:52Z"
 }

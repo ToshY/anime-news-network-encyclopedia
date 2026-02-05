@@ -4,11 +4,17 @@
     "+@type": "movie",
     "+@name": "Makuai no Kusabi",
     "+@precision": "movie",
-    "+@generated-on": "2026-01-06T13:06:32Z",
-    "related-prev": {
-        "+@rel": "related to",
-        "+@id": "37161"
-    },
+    "+@generated-on": "2026-02-05T13:39:49Z",
+    "related-prev": [
+        {
+            "+@rel": "part of",
+            "+@id": "4189"
+        },
+        {
+            "+@rel": "related to",
+            "+@id": "37161"
+        }
+    ],
     "info": [
         {
             "+@gid": "1148305771",
@@ -36,6 +42,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Wedge of Interposition",
+            "+@gid": "3837228045",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "幕間の楔",
             "+@gid": "2510237322",
             "+@type": "Alternative title",
@@ -56,6 +68,10 @@
             "+@type": "Premiere date"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "6.562"
+    },
     "news": [
         {
             "+content": "<cite>Mobile Suit Gundam: Iron-Blooded Orphans – Urðr Hunt</cite> Anime's Trailer Reveals New Short Film",
@@ -71,6 +87,11 @@
             "+content": "<cite>Gundam: Iron-Blooded Orphans – Urðr Hunt</cite> Film's Trailer Reveals English-Subbed January Screenings",
             "+@datetime": "2025-12-12T16:39:44Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-12-12/gundam-iron-blooded-orphans-ur-r-hunt-film-trailer-reveals-english-subbed-january-screenings/.232023"
+        },
+        {
+            "+content": "Exclusive: Gundam Premiere Night Event Screens in Canadian Theaters in February",
+            "+@datetime": "2026-01-14T17:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-14/exclusive-gundam-premiere-night-event-screens-in-canadian-theaters-in-february/.233035"
         }
     ],
     "staff": [
@@ -92,6 +113,6 @@
         }
     ],
     "+@date-added": "2025-08-07T21:32:13Z",
-    "+@date-last-modified-at": "2026-01-06T13:06:35Z",
-    "+@date-last-updated-at": "2026-01-06T13:06:35Z"
+    "+@date-last-modified-at": "2026-02-05T13:39:52Z",
+    "+@date-last-updated-at": "2026-02-05T13:39:52Z"
 }
