@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Dragon Ball Super",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-05T20:40:43Z",
+    "+@generated-on": "2026-02-05T05:33:09Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "244"
@@ -37,6 +37,10 @@
         {
             "+@id": "30298",
             "+@rel": "prequel"
+        },
+        {
+            "+@id": "38367",
+            "+@rel": "remix"
         }
     ],
     "info": [
@@ -371,9 +375,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "264",
-        "+@weighted_score": "7.3071",
-        "+@bayesian_score": "7.31484"
+        "+@nb_votes": "265",
+        "+@weighted_score": "7.2848",
+        "+@bayesian_score": "7.2929"
     },
     "episode": [
         {
@@ -2775,6 +2779,16 @@
             "+content": "<i>Godzilla Minus One</i> U.K. Home Editions Released on Monday",
             "+@datetime": "2024-12-01T00:46:45Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-12-01/godzilla-minus-one-u.k-home-editions-released-on-monday/.218458"
+        },
+        {
+            "+content": "<cite>Dragon Ball</cite> Announces <cite>Dragon Ball Super: The Galactic Patrol</cite> Anime",
+            "+@datetime": "2026-01-25T01:59:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-24/dragon-ball-announces-dragon-ball-super-the-galactic-patrol-anime/.233444"
+        },
+        {
+            "+content": "<cite>Dragon Ball Super: Beerus</cite> TV Anime Announced for This Fall",
+            "+@datetime": "2026-01-25T04:52:51Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-24/dragon-ball-super-beerus-tv-anime-announced-for-this-fall/.233451"
         }
     ],
     "staff": [
@@ -3187,14 +3201,6 @@
             }
         },
         {
-            "+@gid": "1737917674",
-            "task": "Episode Director",
-            "person": {
-                "+content": "Kōji Kawasaki",
-                "+@id": "6458"
-            }
-        },
-        {
             "+@gid": "1570405842",
             "task": "Episode Director",
             "person": {
@@ -3360,6 +3366,14 @@
             "person": {
                 "+content": "Megumi Ishitani",
                 "+@id": "212349"
+            }
+        },
+        {
+            "+@gid": "1737917674",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kōji Kawasaki",
+                "+@id": "292591"
             }
         },
         {
@@ -9537,6 +9551,6 @@
         }
     ],
     "+@date-added": "2015-04-28T06:46:43Z",
-    "+@date-last-modified-at": "2026-01-05T20:40:47Z",
-    "+@date-last-updated-at": "2026-01-05T20:40:47Z"
+    "+@date-last-modified-at": "2026-02-05T05:33:11Z",
+    "+@date-last-updated-at": "2026-02-05T05:33:11Z"
 }

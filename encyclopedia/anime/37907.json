@@ -4,12 +4,42 @@
     "+@type": "ONA",
     "+@name": "Dokodemo Makibao ~World Tour~",
     "+@precision": "ONA",
-    "+@generated-on": "2026-01-06T04:53:12Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "34169"
-    },
+    "+@generated-on": "2026-02-05T05:33:07Z",
+    "related-prev": [
+        {
+            "+@rel": "sequel of",
+            "+@id": "34169"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "38262"
+        }
+    ],
     "info": [
+        {
+            "+@gid": "3085806379",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37907-3085806379.1767849417.jpg",
+            "+@width": "200",
+            "+@height": "113",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37907-3085806379.1767849417.jpg",
+                    "+@width": "200",
+                    "+@height": "113"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37907-3085806379.1767849417.jpg",
+                    "+@width": "500",
+                    "+@height": "281"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37907-3085806379.1767849417.jpg",
+                    "+@width": "1960",
+                    "+@height": "1103"
+                }
+            ]
+        },
         {
             "+content": "Dokodemo Makibao ~World Tour~",
             "+@gid": "2411009165",
@@ -23,14 +53,58 @@
             "+@lang": "JA"
         },
         {
-            "+content": "racing",
-            "+@gid": "1462022897",
-            "+@type": "Themes"
+            "+content": "comedy",
+            "+@gid": "3049174697",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "tournament",
+            "+@gid": "202834138",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "OC",
+            "+@gid": "2082118817",
+            "+@type": "Objectionable content"
         },
         {
             "+content": "2025-10-08",
             "+@gid": "335564169",
             "+@type": "Vintage"
+        }
+    ],
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "It's Going Worldwide!",
+                "+@gid": "668973624",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "It's Going Worldwide! (Part 2)",
+                "+@gid": "2525294225",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "German Oktoberfest Cup",
+                "+@gid": "2166584031",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "German Oktoberfest Cup (Part 2)",
+                "+@gid": "2123765871",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": {
@@ -143,5 +217,6 @@
         }
     },
     "+@date-added": "2025-10-07T04:31:02Z",
-    "+@date-last-updated-at": "2026-01-06T04:53:16Z"
+    "+@date-last-modified-at": "2026-02-05T05:33:11Z",
+    "+@date-last-updated-at": "2026-02-05T05:33:11Z"
 }
