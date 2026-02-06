@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Gargantia on the Verdurous Planet - Far Beyond The Voyage",
     "+@precision": "OAV",
-    "+@generated-on": "2026-01-06T13:06:35Z",
+    "+@generated-on": "2026-02-06T03:10:37Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "14961"
@@ -74,6 +74,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "2",
+            "+@gid": "1975297552",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2014-09-27 (Vol 1.; Japanese theaters)",
             "+@gid": "2485750099",
             "+@type": "Vintage"
@@ -106,9 +111,27 @@
     ],
     "ratings": {
         "+@nb_votes": "155",
-        "+@weighted_score": "7.3979",
-        "+@bayesian_score": "7.40364"
+        "+@weighted_score": "7.3978",
+        "+@bayesian_score": "7.40311"
     },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "Part 01",
+                "+@gid": "2565655867",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "Part 02",
+                "+@gid": "3727212452",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "release": [
         {
             "+content": "Gargantia on the Verdurous Planet - The Complete Series [Special Edition] (BD+DVD)",
@@ -619,6 +642,6 @@
         }
     ],
     "+@date-added": "2014-10-30T12:43:50Z",
-    "+@date-last-modified-at": "2026-01-06T13:06:36Z",
-    "+@date-last-updated-at": "2026-01-06T13:06:36Z"
+    "+@date-last-modified-at": "2026-02-06T03:10:43Z",
+    "+@date-last-updated-at": "2026-02-06T03:10:43Z"
 }
