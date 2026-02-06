@@ -4,11 +4,17 @@
     "+@type": "movie",
     "+@name": "Persona 3 the Movie #2 Midsummer Knight's Dream",
     "+@precision": "movie",
-    "+@generated-on": "2026-01-07T08:48:11Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "14449"
-    },
+    "+@generated-on": "2026-02-06T20:51:08Z",
+    "related-prev": [
+        {
+            "+@rel": "sequel of",
+            "+@id": "14449"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "38312"
+        }
+    ],
     "related-next": {
         "+@id": "16103",
         "+@rel": "sequel"
@@ -113,8 +119,8 @@
     ],
     "ratings": {
         "+@nb_votes": "92",
-        "+@weighted_score": "7.2924",
-        "+@bayesian_score": "7.31465"
+        "+@weighted_score": "7.2923",
+        "+@bayesian_score": "7.313"
     },
     "release": [
         {
@@ -803,6 +809,6 @@
         }
     ],
     "+@date-added": "2013-12-14T17:15:36Z",
-    "+@date-last-modified-at": "2026-01-07T08:48:12Z",
-    "+@date-last-updated-at": "2026-01-07T08:48:12Z"
+    "+@date-last-modified-at": "2026-02-06T20:51:12Z",
+    "+@date-last-updated-at": "2026-02-06T20:51:12Z"
 }
