@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Wake in Garakuta Town",
     "+@precision": "OAV",
-    "+@generated-on": "2026-01-08T08:47:46Z",
+    "+@generated-on": "2026-02-07T16:50:17Z",
     "info": [
         {
             "+@gid": "3238930999",
@@ -73,17 +73,51 @@
     ],
     "ratings": {
         "+@nb_votes": "17",
-        "+@weighted_score": "6.0292",
-        "+@bayesian_score": "6.65446"
+        "+@weighted_score": "6.0287",
+        "+@bayesian_score": "6.6258"
     },
-    "staff": {
-        "+@gid": "1181170316",
-        "task": "Director",
-        "person": {
-            "+content": "Nobutake Ito",
-            "+@id": "92080"
+    "staff": [
+        {
+            "+@gid": "1181170316",
+            "task": "Director",
+            "person": {
+                "+content": "Nobutake Ito",
+                "+@id": "92080"
+            }
+        },
+        {
+            "+@gid": "4051087260",
+            "task": "Music",
+            "person": {
+                "+content": "Minoru Maruo",
+                "+@id": "46400"
+            }
+        },
+        {
+            "+@gid": "1433041652",
+            "task": "Art Director",
+            "person": {
+                "+content": "Tōru Hishiyama",
+                "+@id": "75627"
+            }
+        },
+        {
+            "+@gid": "3857945349",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Mamoru Hosoda",
+                "+@id": "4068"
+            }
+        },
+        {
+            "+@gid": "4170174159",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Minoru Terao",
+                "+@id": "55066"
+            }
         }
-    },
+    ],
     "credit": [
         {
             "+@gid": "2116154753",
@@ -111,6 +145,6 @@
         }
     ],
     "+@date-added": "2013-04-30T06:27:52Z",
-    "+@date-last-modified-at": "2026-01-08T08:47:48Z",
-    "+@date-last-updated-at": "2026-01-08T08:47:48Z"
+    "+@date-last-modified-at": "2026-02-07T16:50:19Z",
+    "+@date-last-updated-at": "2026-02-07T16:50:19Z"
 }
