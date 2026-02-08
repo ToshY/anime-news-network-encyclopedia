@@ -4,11 +4,17 @@
     "+@type": "movie",
     "+@name": "Persona 3 the Movie #1 Spring of Birth",
     "+@precision": "movie",
-    "+@generated-on": "2026-01-09T13:07:52Z",
-    "related-prev": {
-        "+@rel": "related to",
-        "+@id": "11445"
-    },
+    "+@generated-on": "2026-02-08T20:45:51Z",
+    "related-prev": [
+        {
+            "+@rel": "related to",
+            "+@id": "11445"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "38312"
+        }
+    ],
     "related-next": {
         "+@id": "15771",
         "+@rel": "sequel"
@@ -125,7 +131,7 @@
     "ratings": {
         "+@nb_votes": "139",
         "+@weighted_score": "7.0238",
-        "+@bayesian_score": "7.06213"
+        "+@bayesian_score": "7.05939"
     },
     "review": {
         "+content": "Persona 3: Dancing Moon Night & Persona 5: Dancing Star Night",
@@ -877,6 +883,6 @@
         }
     ],
     "+@date-added": "2012-07-06T18:12:45Z",
-    "+@date-last-modified-at": "2026-01-09T13:07:55Z",
-    "+@date-last-updated-at": "2026-01-09T13:07:55Z"
+    "+@date-last-modified-at": "2026-02-08T20:45:54Z",
+    "+@date-last-updated-at": "2026-02-08T20:45:54Z"
 }
