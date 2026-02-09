@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Star Wars: The Mandalorian: The Manga",
     "+@precision": "manga",
-    "+@generated-on": "2026-01-10T08:42:15Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "19739"
-    },
+    "+@generated-on": "2026-02-09T20:58:26Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "19739"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "38290"
+        }
+    ],
     "related-next": {
         "+@id": "26557",
         "+@rel": "related"
@@ -45,12 +51,6 @@
             "+@lang": "EN"
         },
         {
-            "+content": "Star Wars. Mandalorianin",
-            "+@gid": "2235753982",
-            "+@type": "Alternative title",
-            "+@lang": "PL"
-        },
-        {
             "+content": "Star Wars: Mandalorian",
             "+@gid": "2351947264",
             "+@type": "Alternative title",
@@ -61,6 +61,12 @@
             "+@gid": "2823729890",
             "+@type": "Alternative title",
             "+@lang": "PT"
+        },
+        {
+            "+content": "Star Wars. Mandalorianin",
+            "+@gid": "2235753982",
+            "+@type": "Alternative title",
+            "+@lang": "PL"
         },
         {
             "+content": "The Mandalorian",
@@ -97,7 +103,7 @@
     ],
     "ratings": {
         "+@nb_votes": "2",
-        "+@weighted_score": "6.8842"
+        "+@weighted_score": "6.8821"
     },
     "release": {
         "+content": "Star Wars: The Mandalorian: The (GN 1)",
@@ -129,6 +135,11 @@
             "+content": "<i>Star Wars: The Mandalorian</i> Adaptation Returns With New Creative Team",
             "+@datetime": "2025-04-29T03:46:54Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-04-28/star-wars-the-mandalorian-adaptation-returns-with-new-creative-team/.223979"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, January 11-17",
+            "+@datetime": "2026-01-15T22:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-15/north-american-anime-manga-releases-january-11-17/.232998"
         }
     ],
     "staff": {
@@ -140,6 +151,6 @@
         }
     },
     "+@date-added": "2023-09-04T11:56:55Z",
-    "+@date-last-modified-at": "2026-01-10T08:42:17Z",
-    "+@date-last-updated-at": "2026-01-10T08:42:17Z"
+    "+@date-last-modified-at": "2026-02-09T20:58:28Z",
+    "+@date-last-updated-at": "2026-02-09T20:58:28Z"
 }
