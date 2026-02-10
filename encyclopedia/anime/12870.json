@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "Persona 4: The Animation",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-11T02:39:57Z",
-    "related-prev": {
-        "+@rel": "related to",
-        "+@id": "11446"
-    },
+    "+@generated-on": "2026-02-10T13:36:53Z",
+    "related-prev": [
+        {
+            "+@rel": "related to",
+            "+@id": "11446"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "38312"
+        }
+    ],
     "related-next": [
         {
             "+@id": "14342",
@@ -16,10 +22,6 @@
         },
         {
             "+@id": "16027",
-            "+@rel": "related"
-        },
-        {
-            "+@id": "18635",
             "+@rel": "related"
         }
     ],
@@ -177,7 +179,7 @@
     "ratings": {
         "+@nb_votes": "779",
         "+@weighted_score": "7.3727",
-        "+@bayesian_score": "7.37433"
+        "+@bayesian_score": "7.3742"
     },
     "episode": [
         {
@@ -1844,6 +1846,6 @@
         }
     ],
     "+@date-added": "2011-04-11T12:06:08Z",
-    "+@date-last-modified-at": "2026-01-11T02:39:59Z",
-    "+@date-last-updated-at": "2026-01-11T02:39:59Z"
+    "+@date-last-modified-at": "2026-02-10T13:55:14Z",
+    "+@date-last-updated-at": "2026-02-10T13:55:14Z"
 }
