@@ -2,9 +2,9 @@
     "+@id": "29136",
     "+@gid": "1356004489",
     "+@type": "manga",
-    "+@name": "Fuan no Tane Asterisk",
+    "+@name": "Seeds of Anxiety: Asterisk",
     "+@precision": "manga",
-    "+@generated-on": "2026-01-12T05:00:41Z",
+    "+@generated-on": "2026-02-11T17:18:36Z",
     "related-prev": [
         {
             "+@rel": "serialized in",
@@ -41,9 +41,15 @@
             ]
         },
         {
+            "+content": "Seeds of Anxiety: Asterisk",
+            "+@gid": "2249156581",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Fuan no Tane Asterisk",
             "+@gid": "1259621585",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -53,16 +59,28 @@
             "+@lang": "JA"
         },
         {
+            "+content": "horror",
+            "+@gid": "3263649286",
+            "+@type": "Genres"
+        },
+        {
             "+content": "2019-02-19 (serialized in Champion RED, Apr 2019)",
             "+@gid": "2667171622",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "<cite>Fuan no Tane</cite> Omnibus Manga Returns for New Series",
-        "+@datetime": "2019-01-21T22:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2019-01-21/fuan-no-tane-omnibus-manga-returns-for-new-series/.142385"
-    },
+    "news": [
+        {
+            "+content": "<cite>Fuan no Tane</cite> Omnibus Manga Returns for New Series",
+            "+@datetime": "2019-01-21T22:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2019-01-21/fuan-no-tane-omnibus-manga-returns-for-new-series/.142385"
+        },
+        {
+            "+content": "Yen Press Licenses <cite>The Bubble Love of the Mermaid</cite> Manga, <cite>Love Unseen Beneath the Radiant Night Sky</cite> Novels, More Titles",
+            "+@datetime": "2026-01-16T18:10:19Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-16/yen-press-licenses-the-bubble-love-of-the-mermaid-manga-love-unseen-beneath-the-radiant-night-sky-/.233155"
+        }
+    ],
     "staff": {
         "+@gid": "2953143328",
         "task": "Story & Art",
@@ -72,5 +90,6 @@
         }
     },
     "+@date-added": "2023-07-23T01:26:07Z",
-    "+@date-last-updated-at": "2026-01-12T05:00:42Z"
+    "+@date-last-modified-at": "2026-02-11T17:18:38Z",
+    "+@date-last-updated-at": "2026-02-11T17:18:38Z"
 }
