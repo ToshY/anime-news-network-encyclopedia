@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "DEAD ROCK",
     "+@precision": "manga",
-    "+@generated-on": "2026-01-13T20:41:36Z",
+    "+@generated-on": "2026-02-13T17:07:09Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "20840"
@@ -60,11 +60,18 @@
         "+@nb_votes": "1",
         "+@weighted_score": "2"
     },
-    "release": {
-        "+content": "DEAD ROCK  (GN 1)",
-        "+@date": "2025-03-04",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52364"
-    },
+    "release": [
+        {
+            "+content": "DEAD ROCK  (GN 1)",
+            "+@date": "2025-03-04",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52364"
+        },
+        {
+            "+content": "DEAD ROCK  (GN 2)",
+            "+@date": "2025-06-10",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=56631"
+        }
+    ],
     "news": [
         {
             "+content": "<cite>Fairy Tail's</cite> Hiro Mashima Launches <cite>Dead Rock</cite> Manga",
@@ -90,6 +97,11 @@
             "+content": "North American Anime, Manga Releases, August 10-16",
             "+@datetime": "2025-08-14T21:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-08-14/north-american-anime-manga-releases-august-10-16/.227563"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, February 1-7",
+            "+@datetime": "2026-02-04T22:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-04/north-american-anime-manga-releases-february-1-7/.233755"
         }
     ],
     "staff": {
@@ -101,5 +113,6 @@
         }
     },
     "+@date-added": "2023-06-06T05:10:37Z",
-    "+@date-last-updated-at": "2026-01-13T20:41:37Z"
+    "+@date-last-modified-at": "2026-02-13T17:07:10Z",
+    "+@date-last-updated-at": "2026-02-13T17:07:10Z"
 }
