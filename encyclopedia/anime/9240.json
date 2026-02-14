@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "My Melody no Akazukin",
     "+@precision": "movie",
-    "+@generated-on": "2026-01-15T04:54:50Z",
+    "+@generated-on": "2026-02-14T05:15:26Z",
     "info": [
         {
             "+@gid": "891558982",
@@ -35,6 +35,11 @@
             "+@gid": "2239280091",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "995384342",
+            "+@type": "Genres"
         },
         {
             "+content": "AA",
@@ -132,15 +137,6 @@
     ],
     "cast": [
         {
-            "+@gid": "1254598550",
-            "+@lang": "JA",
-            "role": "Akazukin",
-            "person": {
-                "+content": "Rei Sakuma",
-                "+@id": "853"
-            }
-        },
-        {
             "+@gid": "3134122884",
             "+@lang": "JA",
             "role": "Little Red Riding Hood/Melody",
@@ -178,5 +174,6 @@
         }
     ],
     "+@date-added": "2008-01-26T13:03:37Z",
-    "+@date-last-updated-at": "2026-01-15T04:54:55Z"
+    "+@date-last-modified-at": "2026-02-14T05:15:28Z",
+    "+@date-last-updated-at": "2026-02-14T05:15:28Z"
 }

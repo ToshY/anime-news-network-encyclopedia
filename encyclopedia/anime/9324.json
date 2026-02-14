@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Fujun Isei Kōyū: Taisetsu na Kimi e",
     "+@precision": "OAV",
-    "+@generated-on": "2026-01-15T02:28:10Z",
+    "+@generated-on": "2026-02-14T05:15:23Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "9325"
@@ -92,16 +92,26 @@
     ],
     "ratings": {
         "+@nb_votes": "10",
-        "+@weighted_score": "5.3168"
+        "+@weighted_score": "5.3157"
     },
-    "staff": {
-        "+@gid": "2845092512",
-        "task": "Original creator",
-        "person": {
-            "+content": "Hitoshi Kino",
-            "+@id": "64514"
+    "staff": [
+        {
+            "+@gid": "2845092512",
+            "task": "Original creator",
+            "person": {
+                "+content": "Hitoshi Kino",
+                "+@id": "64514"
+            }
+        },
+        {
+            "+@gid": "1085542438",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Motoki Yagi",
+                "+@id": "11733"
+            }
         }
-    },
+    ],
     "cast": [
         {
             "+@gid": "2979657697",
@@ -140,6 +150,6 @@
         }
     },
     "+@date-added": "2008-02-09T08:14:53Z",
-    "+@date-last-modified-at": "2026-01-15T02:28:12Z",
-    "+@date-last-updated-at": "2026-01-15T02:28:12Z"
+    "+@date-last-modified-at": "2026-02-14T05:15:28Z",
+    "+@date-last-updated-at": "2026-02-14T05:15:28Z"
 }
