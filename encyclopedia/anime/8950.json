@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "Persona -trinity soul-",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-15T13:08:30Z",
-    "related-prev": {
-        "+@rel": "related to",
-        "+@id": "11445"
-    },
+    "+@generated-on": "2026-02-14T16:50:10Z",
+    "related-prev": [
+        {
+            "+@rel": "related to",
+            "+@id": "11445"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "38312"
+        }
+    ],
     "info": [
         {
             "+@gid": "2005628540",
@@ -140,7 +146,7 @@
     "ratings": {
         "+@nb_votes": "496",
         "+@weighted_score": "6.6648",
-        "+@bayesian_score": "6.68387"
+        "+@bayesian_score": "6.68386"
     },
     "episode": [
         {
@@ -892,6 +898,6 @@
         }
     ],
     "+@date-added": "2007-11-07T12:44:13Z",
-    "+@date-last-modified-at": "2026-01-15T13:08:32Z",
-    "+@date-last-updated-at": "2026-01-15T13:08:32Z"
+    "+@date-last-modified-at": "2026-02-14T16:50:16Z",
+    "+@date-last-updated-at": "2026-02-14T16:50:16Z"
 }
