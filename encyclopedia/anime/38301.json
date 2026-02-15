@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Ingoku Danchi",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-16T02:00:03Z",
+    "+@generated-on": "2026-02-15T05:35:01Z",
     "related-prev": [
         {
             "+@rel": "adapted from",
@@ -19,24 +19,19 @@
         {
             "+@gid": "927828470",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38301-927828470.1768520812.jpg",
-            "+@width": "200",
-            "+@height": "112",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38301-927828470.1770246877.jpg",
+            "+@width": "140",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38301-927828470.1768520812.jpg",
-                    "+@width": "200",
-                    "+@height": "112"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38301-927828470.1770246877.jpg",
+                    "+@width": "140",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38301-927828470.1768520812.jpg",
-                    "+@width": "500",
-                    "+@height": "279"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38301-927828470.1768520812.jpg",
-                    "+@width": "600",
-                    "+@height": "335"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38301-927828470.1770246877.jpg",
+                    "+@width": "419",
+                    "+@height": "600"
                 }
             ]
         },
@@ -53,12 +48,52 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2026",
+            "+content": "Yoshida, the rookie caretaker, must protect the peace of the apartment complex from the threat of perverted married women donning \"Libido Costumes.\" <em class=de-emphasized>(from manga)</em>",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2026-04",
             "+@gid": "881637827",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ「インゴクダンチ」公式サイト",
+            "+@gid": "1001147659",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://ingoku-danchi.deregula.com/"
         }
     ],
+    "news": {
+        "+content": "<cite>Ingoku Danchi</cite> Short TV Anime Reveals Cast, Staff, April Premiere",
+        "+@datetime": "2026-02-04T12:14:06Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-02-04/ingoku-danchi-short-tv-anime-reveals-cast-staff-april-premiere/.233802"
+    },
     "staff": [
+        {
+            "+@gid": "1032040624",
+            "task": "Director",
+            "person": {
+                "+content": "Toshikatsu Tokoro",
+                "+@id": "37632"
+            }
+        },
+        {
+            "+@gid": "1666320130",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Eeyo Kurosaki",
+                "+@id": "188584"
+            }
+        },
+        {
+            "+@gid": "1772531751",
+            "task": "Music",
+            "person": {
+                "+content": "Loser Kashiwagi",
+                "+@id": "287297"
+            }
+        },
         {
             "+@gid": "727346291",
             "task": "Original creator",
@@ -74,9 +109,142 @@
                 "+content": "Yui Jōyama",
                 "+@id": "283788"
             }
+        },
+        {
+            "+@gid": "2072680669",
+            "task": "Character Design",
+            "person": {
+                "+content": "Shingo Nishimoto",
+                "+@id": "225155"
+            }
+        },
+        {
+            "+@gid": "2965579726",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Akinori Shiba",
+                "+@id": "271529"
+            }
+        },
+        {
+            "+@gid": "4001470202",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yoshikazu Miyagawa",
+                "+@id": "48643"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3958148721",
+            "+@lang": "JA",
+            "role": "Gōda",
+            "person": {
+                "+content": "Kana Yūki",
+                "+@id": "127401"
+            }
+        },
+        {
+            "+@gid": "2260291788",
+            "+@lang": "JA",
+            "role": "Ichinose",
+            "person": {
+                "+content": "Kana Yūki",
+                "+@id": "127401"
+            }
+        },
+        {
+            "+@gid": "2079693607",
+            "+@lang": "JA",
+            "role": "Ikayama",
+            "person": {
+                "+content": "Kana Yūki",
+                "+@id": "127401"
+            }
+        },
+        {
+            "+@gid": "3380865786",
+            "+@lang": "JA",
+            "role": "Kanzaki",
+            "person": {
+                "+content": "Kana Yūki",
+                "+@id": "127401"
+            }
+        },
+        {
+            "+@gid": "3755018151",
+            "+@lang": "JA",
+            "role": "Katagiri",
+            "person": {
+                "+content": "Kana Yūki",
+                "+@id": "127401"
+            }
+        },
+        {
+            "+@gid": "1697488459",
+            "+@lang": "JA",
+            "role": "Mizutani",
+            "person": {
+                "+content": "Kana Yūki",
+                "+@id": "127401"
+            }
+        },
+        {
+            "+@gid": "1705684265",
+            "+@lang": "JA",
+            "role": "Sakakura",
+            "person": {
+                "+content": "Kana Yūki",
+                "+@id": "127401"
+            }
+        },
+        {
+            "+@gid": "3700989911",
+            "+@lang": "JA",
+            "role": "Sanamori",
+            "person": {
+                "+content": "Kana Yūki",
+                "+@id": "127401"
+            }
+        },
+        {
+            "+@gid": "1819256636",
+            "+@lang": "JA",
+            "role": "Shikijō",
+            "person": {
+                "+content": "Kana Yūki",
+                "+@id": "127401"
+            }
+        },
+        {
+            "+@gid": "3150457824",
+            "+@lang": "JA",
+            "role": "Watanabe",
+            "person": {
+                "+content": "Kana Yūki",
+                "+@id": "127401"
+            }
+        },
+        {
+            "+@gid": "2081994876",
+            "+@lang": "JA",
+            "role": "Yoshida",
+            "person": {
+                "+content": "Aika Wakuno",
+                "+@id": "236656"
+            }
         }
     ],
     "credit": [
+        {
+            "+@gid": "2463854051",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Elias",
+                "+@id": "19508"
+            }
+        },
         {
             "+@gid": "1439044483",
             "task": "Production",
@@ -95,5 +263,6 @@
         }
     ],
     "+@date-added": "2026-01-15T18:45:55Z",
-    "+@date-last-updated-at": "2026-01-16T02:29:42Z"
+    "+@date-last-modified-at": "2026-02-15T05:35:07Z",
+    "+@date-last-updated-at": "2026-02-15T05:35:07Z"
 }
