@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Iron Wok Jan!",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-18T02:00:09Z",
+    "+@generated-on": "2026-02-17T03:14:43Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "1594"
@@ -13,24 +13,19 @@
         {
             "+@gid": "3529383632",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38131-3529383632.1765791320.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38131-3529383632.1771150718.jpg",
             "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38131-3529383632.1765791320.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38131-3529383632.1771150718.jpg",
                     "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38131-3529383632.1765791320.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38131-3529383632.1771150718.jpg",
                     "+@width": "425",
                     "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38131-3529383632.1765791320.jpg",
-                    "+@width": "869",
-                    "+@height": "1228"
                 }
             ]
         },
@@ -79,6 +74,11 @@
             "+@href": "https://tetsujan.com/"
         }
     ],
+    "news": {
+        "+content": "<cite>Iron Wok Jan!</cite> Anime's Teaser Video Unveils Main Cast, More Staff",
+        "+@datetime": "2026-02-15T10:03:21Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-02-15/iron-wok-jan-anime-teaser-video-unveils-main-cast-more-staff/.234213"
+    },
     "staff": [
         {
             "+@gid": "3671139035",
@@ -97,32 +97,108 @@
             }
         },
         {
+            "+@gid": "608790184",
+            "task": "Music",
+            "person": {
+                "+content": "Tomoki Kikuya",
+                "+@id": "58429"
+            }
+        },
+        {
             "+@gid": "2287800294",
             "task": "Original creator",
             "person": {
                 "+content": "Shinji Saijyo",
                 "+@id": "27692"
             }
-        }
-    ],
-    "credit": [
+        },
         {
-            "+@gid": "1782093208",
-            "task": "Animation Production",
-            "company": {
-                "+content": "TROYCA",
-                "+@id": "12192"
+            "+@gid": "2721512853",
+            "task": "Character Design",
+            "person": {
+                "+content": "Masako Matsumoto",
+                "+@id": "20472"
             }
         },
         {
-            "+@gid": "1974010571",
-            "task": "Production",
-            "company": {
-                "+content": "NBCUniversal Entertainment Japan",
-                "+@id": "12727"
+            "+@gid": "3431336806",
+            "task": "Art Director",
+            "person": {
+                "+content": "Ken Naitō",
+                "+@id": "70719"
+            }
+        },
+        {
+            "+@gid": "1193366193",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Masako Matsumoto",
+                "+@id": "20472"
+            }
+        },
+        {
+            "+@gid": "2299064445",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Jin Aketagawa",
+                "+@id": "8466"
+            }
+        },
+        {
+            "+@gid": "1485459822",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Mitsutaka Iguchi",
+                "+@id": "400"
+            }
+        },
+        {
+            "+@gid": "3189158641",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Ryosuke Tsuda",
+                "+@id": "59930"
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "1156332812",
+            "+@lang": "JA",
+            "role": "Takao Okonogi",
+            "person": {
+                "+content": "Kōhei Amasaki",
+                "+@id": "131781"
+            }
+        },
+        {
+            "+@gid": "1888432060",
+            "+@lang": "JA",
+            "role": "Kiriko Gobanchō",
+            "person": {
+                "+content": "Ikumi Hasegawa",
+                "+@id": "151984"
+            }
+        },
+        {
+            "+@gid": "1293863880",
+            "+@lang": "JA",
+            "role": "Jan Akiyama",
+            "person": {
+                "+content": "Kikunosuke Toya",
+                "+@id": "222634"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "1782093208",
+        "task": "Animation Production",
+        "company": {
+            "+content": "TROYCA",
+            "+@id": "12192"
+        }
+    },
     "+@date-added": "2025-12-15T04:33:41Z",
-    "+@date-last-updated-at": "2026-01-18T02:38:35Z"
+    "+@date-last-modified-at": "2026-02-17T03:14:49Z",
+    "+@date-last-updated-at": "2026-02-17T03:14:49Z"
 }

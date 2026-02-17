@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Clevatess",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-01-18T02:38:33Z",
+    "+@generated-on": "2026-02-17T03:14:46Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32863"
@@ -13,24 +13,19 @@
         {
             "+@gid": "2824593746",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37848-2824593746.1758150135.jpg",
-            "+@width": "200",
-            "+@height": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37848-2824593746.1768732854.jpg",
+            "+@width": "141",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37848-2824593746.1758150135.jpg",
-                    "+@width": "200",
-                    "+@height": "141"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37848-2824593746.1768732854.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37848-2824593746.1758150135.jpg",
-                    "+@width": "500",
-                    "+@height": "353"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37848-2824593746.1758150135.jpg",
-                    "+@width": "600",
-                    "+@height": "424"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37848-2824593746.1768732854.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
                 }
             ]
         },
@@ -108,6 +103,11 @@
             "+@type": "Objectionable content"
         },
         {
+            "+content": "2026-07",
+            "+@gid": "1364693344",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ「クレバテス」公式サイト",
             "+@gid": "1249984385",
             "+@type": "Official website",
@@ -115,14 +115,235 @@
             "+@href": "https://clevatess.com/"
         }
     ],
-    "staff": {
-        "+@gid": "2089203890",
-        "task": "Original creator",
-        "person": {
-            "+content": "Yuji Iwahara",
-            "+@id": "23737"
+    "news": [
+        {
+            "+content": "<cite>Clevatess</cite> Anime Gets 2nd Season (Updated)",
+            "+@datetime": "2025-09-17T14:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-17/clevatess-anime-gets-2nd-season/.228903"
+        },
+        {
+            "+content": "<cite>Clevatess II</cite> Anime Reveals New Cast, Returning Staff, July Debut in 1st Promo Video",
+            "+@datetime": "2026-01-18T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-18/clevatess-ii-anime-reveals-new-cast-returning-staff-july-debut-in-1st-promo-video/.233205"
+        }
+    ],
+    "staff": [
+        {
+            "+@gid": "300741771",
+            "task": "Director",
+            "person": {
+                "+content": "Kiyotaka Taguchi",
+                "+@id": "95588"
+            }
+        },
+        {
+            "+@gid": "2822006485",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Keigo Koyanagi",
+                "+@id": "83411"
+            }
+        },
+        {
+            "+@gid": "2320616458",
+            "task": "Music",
+            "person": {
+                "+content": "Nobuaki Nobusawa",
+                "+@id": "132498"
+            }
+        },
+        {
+            "+@gid": "2089203890",
+            "task": "Original creator",
+            "person": {
+                "+content": "Yuji Iwahara",
+                "+@id": "23737"
+            }
+        },
+        {
+            "+@gid": "1493250304",
+            "task": "Character Design",
+            "person": {
+                "+content": "Sōichirō Sako",
+                "+@id": "280079"
+            }
+        },
+        {
+            "+@gid": "992181493",
+            "task": "Art Director",
+            "person": {
+                "+content": "Atsushi Morikawa",
+                "+@id": "4785"
+            }
+        },
+        {
+            "+@gid": "1179375829",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Natsuko Kondō",
+                "+@id": "44271"
+            }
+        },
+        {
+            "+@gid": "2355065491",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Sōichirō Sako",
+                "+@id": "280079"
+            }
+        },
+        {
+            "+@gid": "4000571572",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takurō Tsukada",
+                "+@id": "79627"
+            }
+        },
+        {
+            "+@gid": "1356943047",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Kiyotaka Taguchi",
+                "+@id": "95588"
+            }
+        },
+        {
+            "+@gid": "3201203961",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Naoki Tsuji",
+                "+@id": "213869"
+            }
+        },
+        {
+            "+@gid": "283832564",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Shigeki Asakawa",
+                "+@id": "72311"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3642288745",
+            "+@lang": "JA",
+            "role": "Rodd",
+            "person": {
+                "+content": "Tomokazu Seki",
+                "+@id": "529"
+            }
+        },
+        {
+            "+@gid": "3348104178",
+            "+@lang": "JA",
+            "role": "Vordin",
+            "person": {
+                "+content": "Takaya Kuroda",
+                "+@id": "10402"
+            }
+        },
+        {
+            "+@gid": "2011878874",
+            "+@lang": "JA",
+            "role": "Clevatess",
+            "person": {
+                "+content": "Yūichi Nakamura",
+                "+@id": "15878"
+            }
+        },
+        {
+            "+@gid": "609675716",
+            "+@lang": "JA",
+            "role": "Clen",
+            "person": {
+                "+content": "Mutsumi Tamura",
+                "+@id": "70817"
+            }
+        },
+        {
+            "+@gid": "3454686762",
+            "+@lang": "JA",
+            "role": "Naie",
+            "person": {
+                "+content": "Tomoyo Kurosawa",
+                "+@id": "86495"
+            }
+        },
+        {
+            "+@gid": "2159637923",
+            "+@lang": "JA",
+            "role": "Alicia",
+            "person": {
+                "+content": "Haruka Shiraishi",
+                "+@id": "104544"
+            }
+        },
+        {
+            "+@gid": "1355877217",
+            "+@lang": "JA",
+            "role": "Leon",
+            "person": {
+                "+content": "Hiromu Mineta",
+                "+@id": "150636"
+            }
+        },
+        {
+            "+@gid": "1544385745",
+            "+@lang": "JA",
+            "role": "Luna",
+            "person": {
+                "+content": "Saya Aizawa",
+                "+@id": "154564"
+            }
+        },
+        {
+            "+@gid": "1186661585",
+            "+@lang": "JA",
+            "role": "Tigel",
+            "person": {
+                "+content": "Ryōta Suzuki",
+                "+@id": "174131"
+            }
+        },
+        {
+            "+@gid": "3510619588",
+            "+@lang": "JA",
+            "role": "Andrew",
+            "person": {
+                "+content": "Tatsumaru Tachibana",
+                "+@id": "180195"
+            }
+        },
+        {
+            "+@gid": "2666211148",
+            "+@lang": "JA",
+            "role": "Ray",
+            "person": {
+                "+content": "Shūichirō Umeda",
+                "+@id": "187553"
+            }
+        },
+        {
+            "+@gid": "1077432197",
+            "+@lang": "JA",
+            "role": "Mary Mary",
+            "person": {
+                "+content": "Yurina Kikuchi",
+                "+@id": "270325"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "3355594107",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Lay-duce",
+            "+@id": "12613"
         }
     },
     "+@date-added": "2025-09-17T19:00:48Z",
-    "+@date-last-updated-at": "2026-01-18T02:38:35Z"
+    "+@date-last-modified-at": "2026-02-17T03:14:49Z",
+    "+@date-last-updated-at": "2026-02-17T03:14:49Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Yoroi-Shinden Samurai Troopers",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-18T02:38:34Z",
+    "+@generated-on": "2026-02-17T03:14:48Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "340"
@@ -168,13 +168,33 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "\"Hito ni Yasashiku\" (人にやさしく) by SERRA (ep 3)",
+            "+@gid": "3676504664",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Linda Linda\" (リンダ リンダ) by SERRA (ep 3)",
+            "+@gid": "154782849",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "\"Namida no Request\" (涙のリクエスト) by ASH (ep 1)",
             "+@gid": "2142289632",
             "+@type": "Insert song"
         },
         {
+            "+content": "\"Runner\" by ASH (ep 4)",
+            "+@gid": "2048225830",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "\"Sailor Fuku wo Nugasanaide\" (セーラー服を脱がさないで) by SERRA (ep 1)",
             "+@gid": "2556804485",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Samurai Heart\" (サムライハート) by Hiroko Moriguchi (ep 5)",
+            "+@gid": "2015065396",
             "+@type": "Insert song"
         },
         {
@@ -191,8 +211,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "4.7967"
+        "+@nb_votes": "5",
+        "+@weighted_score": "5.1508"
     },
     "episode": [
         {
@@ -216,6 +236,38 @@
             "title": {
                 "+content": "Link",
                 "+@gid": "1960156659",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "Combat",
+                "+@gid": "1510499558",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "Sadness",
+                "+@gid": "2143296396",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "Restart",
+                "+@gid": "1706280168",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "Memory",
+                "+@gid": "2564837205",
                 "+@lang": "EN"
             }
         }
@@ -496,6 +548,15 @@
             }
         },
         {
+            "+@gid": "2734345662",
+            "+@lang": "JA",
+            "role": "Ryo Sanada",
+            "person": {
+                "+content": "Takeshi Kusao",
+                "+@id": "1103"
+            }
+        },
+        {
             "+@gid": "1985649684",
             "+@lang": "JA",
             "role": "Saizō",
@@ -511,6 +572,15 @@
             "person": {
                 "+content": "Kenichi Suzumura",
                 "+@id": "5894"
+            }
+        },
+        {
+            "+@gid": "2966491686",
+            "+@lang": "JA",
+            "role": "Jun Yamano",
+            "person": {
+                "+content": "Hiro Shimono",
+                "+@id": "7636"
             }
         },
         {
@@ -732,6 +802,6 @@
         }
     ],
     "+@date-added": "2025-06-11T20:17:35Z",
-    "+@date-last-modified-at": "2026-01-18T02:38:35Z",
-    "+@date-last-updated-at": "2026-01-18T02:38:35Z"
+    "+@date-last-modified-at": "2026-02-17T03:14:49Z",
+    "+@date-last-updated-at": "2026-02-17T03:14:49Z"
 }
