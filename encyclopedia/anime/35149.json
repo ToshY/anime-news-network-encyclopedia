@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Tune In to the Midnight Heart",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-18T16:41:32Z",
+    "+@generated-on": "2026-02-17T17:18:24Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29962"
@@ -108,6 +108,11 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "\"Yumeoi Hakusho\" (夢追白書) by Rikka Inohana [Momoko Seto] (ep 2)",
+            "+@gid": "2611763001",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "TVアニメ『真夜中ハートチューン』公式サイト",
             "+@gid": "722752119",
             "+@type": "Official website",
@@ -117,8 +122,136 @@
     ],
     "ratings": {
         "+@nb_votes": "2",
-        "+@weighted_score": "4.8791"
+        "+@weighted_score": "4.8786"
     },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": [
+                {
+                    "+content": "This Has Been Yamabuki Arisu",
+                    "+@part": "A",
+                    "+@gid": "1440474941",
+                    "+@lang": "EN"
+                },
+                {
+                    "+content": "Re-Start",
+                    "+@part": "B",
+                    "+@gid": "3104099685",
+                    "+@lang": "EN"
+                }
+            ]
+        },
+        {
+            "+@num": "2",
+            "title": [
+                {
+                    "+content": "Liar",
+                    "+@part": "A",
+                    "+@gid": "1489981133",
+                    "+@lang": "EN"
+                },
+                {
+                    "+content": "Himekawa Nene's Ears Give It Away",
+                    "+@part": "B",
+                    "+@gid": "1409941918",
+                    "+@lang": "EN"
+                }
+            ]
+        },
+        {
+            "+@num": "3",
+            "title": [
+                {
+                    "+content": "Lock the Door If It's Embarrassing",
+                    "+@part": "A",
+                    "+@gid": "2187799013",
+                    "+@lang": "EN"
+                },
+                {
+                    "+content": "I Can't Smile In Front of the Camera",
+                    "+@part": "B",
+                    "+@gid": "2945650277",
+                    "+@lang": "EN"
+                },
+                {
+                    "+content": "I Can't Smile In Front of You",
+                    "+@part": "C",
+                    "+@gid": "2333804783",
+                    "+@lang": "EN"
+                }
+            ]
+        },
+        {
+            "+@num": "4",
+            "title": [
+                {
+                    "+content": "All Alone with You until Dark",
+                    "+@part": "A",
+                    "+@gid": "1979729086",
+                    "+@lang": "EN"
+                },
+                {
+                    "+content": "Partners in Crime",
+                    "+@part": "B",
+                    "+@gid": "2903219967",
+                    "+@lang": "EN"
+                },
+                {
+                    "+content": "The Advisor’s Called Lemon-Chan",
+                    "+@part": "C",
+                    "+@gid": "2130464679",
+                    "+@lang": "EN"
+                }
+            ]
+        },
+        {
+            "+@num": "5",
+            "title": [
+                {
+                    "+content": "I Can't Tell Whose Voice It Was",
+                    "+@part": "A",
+                    "+@gid": "2878788035",
+                    "+@lang": "EN"
+                },
+                {
+                    "+content": "Yamabuki Arisu-kun",
+                    "+@part": "B",
+                    "+@gid": "3000686829",
+                    "+@lang": "EN"
+                },
+                {
+                    "+content": "Flyby Anomaly",
+                    "+@part": "C",
+                    "+@gid": "2748671585",
+                    "+@lang": "EN"
+                }
+            ]
+        },
+        {
+            "+@num": "6",
+            "title": [
+                {
+                    "+content": "Nene Saw",
+                    "+@part": "A",
+                    "+@gid": "3255367772",
+                    "+@lang": "EN"
+                },
+                {
+                    "+content": "A Piece of Cake",
+                    "+@part": "B",
+                    "+@gid": "1495985239",
+                    "+@lang": "EN"
+                },
+                {
+                    "+content": "I'll Cherish What You Just Said Forever",
+                    "+@part": "C",
+                    "+@gid": "1708583485",
+                    "+@lang": "EN"
+                }
+            ]
+        }
+    ],
     "news": [
         {
             "+content": "Masakuni Igarashi's <cite>Tune In to the Midnight Heart</cite> Manga Gets TV Anime in 2026",
@@ -164,6 +297,11 @@
             "+content": "<cite>Tune In to the Midnight Heart</cite> Anime Casts Yūki Wakai, Nao Tōyama",
             "+@datetime": "2026-01-04T12:37:58Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-01-04/tune-in-to-the-midnight-heart-anime-casts-yuki-wakai-nao-toyama/.232752"
+        },
+        {
+            "+content": "Crunchyroll Reveals <cite>Tune In to the Midnight Heart</cite> Anime's English Dub Cast",
+            "+@datetime": "2026-01-20T20:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-20/crunchyroll-reveals-tune-in-to-the-midnight-heart-anime-english-dub-cast/.233257"
         }
     ],
     "staff": [
@@ -250,6 +388,60 @@
     ],
     "cast": [
         {
+            "+@gid": "4268348291",
+            "+@lang": "EN",
+            "role": "Nene Himekawa",
+            "person": {
+                "+content": "Tia Ballard",
+                "+@id": "81350"
+            }
+        },
+        {
+            "+@gid": "1694199813",
+            "+@lang": "EN",
+            "role": "Arisu Yamabuki",
+            "person": {
+                "+content": "Ricco Fajardo",
+                "+@id": "107339"
+            }
+        },
+        {
+            "+@gid": "3170279502",
+            "+@lang": "EN",
+            "role": "Iko Kirino",
+            "person": {
+                "+content": "Sarah Wiedenheft",
+                "+@id": "128620"
+            }
+        },
+        {
+            "+@gid": "2917307542",
+            "+@lang": "EN",
+            "role": "Lemon Ando",
+            "person": {
+                "+content": "Hannah Alyea",
+                "+@id": "223713"
+            }
+        },
+        {
+            "+@gid": "2552831791",
+            "+@lang": "EN",
+            "role": "Rikka Inohana",
+            "person": {
+                "+content": "Abigail Blythe",
+                "+@id": "229925"
+            }
+        },
+        {
+            "+@gid": "3220654532",
+            "+@lang": "EN",
+            "role": "Shinobu Uzuki",
+            "person": {
+                "+content": "Kayla Temshiv",
+                "+@id": "262637"
+            }
+        },
+        {
             "+@gid": "868183519",
             "+@lang": "JA",
             "role": "Lemon Ando",
@@ -331,6 +523,6 @@
         }
     },
     "+@date-added": "2025-03-14T07:18:58Z",
-    "+@date-last-modified-at": "2026-01-18T16:41:35Z",
-    "+@date-last-updated-at": "2026-01-18T16:41:35Z"
+    "+@date-last-modified-at": "2026-02-17T17:18:30Z",
+    "+@date-last-updated-at": "2026-02-17T17:18:30Z"
 }
