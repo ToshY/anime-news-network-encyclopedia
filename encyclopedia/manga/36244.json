@@ -2,9 +2,17 @@
     "+@id": "36244",
     "+@gid": "3284221295",
     "+@type": "manga",
-    "+@name": "FX Senshi Kurumi-chan",
+    "+@name": "FX Fighter Kurumi-chan",
     "+@precision": "manga",
-    "+@generated-on": "2026-01-19T20:39:20Z",
+    "+@generated-on": "2026-02-18T20:58:16Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "18912"
+    },
+    "related-next": {
+        "+@id": "38330",
+        "+@rel": "adaptation"
+    },
     "info": [
         {
             "+@gid": "3454319366",
@@ -31,9 +39,15 @@
             ]
         },
         {
+            "+content": "FX Fighter Kurumi-chan",
+            "+@gid": "3433163696",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "FX Senshi Kurumi-chan",
             "+@gid": "1228922431",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -77,6 +91,6 @@
         }
     ],
     "+@date-added": "2025-05-24T20:05:36Z",
-    "+@date-last-modified-at": "2026-01-19T20:39:21Z",
-    "+@date-last-updated-at": "2026-01-19T20:39:21Z"
+    "+@date-last-modified-at": "2026-02-18T20:58:17Z",
+    "+@date-last-updated-at": "2026-02-18T20:58:17Z"
 }
