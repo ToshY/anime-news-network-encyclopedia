@@ -3,8 +3,8 @@
     "+@gid": "1996303878",
     "+@type": "movie",
     "+@name": "Patlabor EZY",
-    "+@precision": "movie",
-    "+@generated-on": "2026-01-19T16:48:43Z",
+    "+@precision": "movies",
+    "+@generated-on": "2026-02-18T17:29:54Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "408"
@@ -13,19 +13,19 @@
         {
             "+@gid": "684392069",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33589-684392069.1726795181.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33589-684392069.1768884479.jpg",
+            "+@width": "145",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33589-684392069.1726795181.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33589-684392069.1768884479.jpg",
+                    "+@width": "145",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33589-684392069.1726795181.jpg",
-                    "+@width": "424",
-                    "+@height": "600"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33589-684392069.1768884479.jpg",
+                    "+@width": "374",
+                    "+@height": "517"
                 }
             ]
         },
@@ -48,14 +48,35 @@
             "+@lang": "JA"
         },
         {
+            "+content": "science fiction",
+            "+@gid": "2775661778",
+            "+@type": "Genres"
+        },
+        {
             "+content": "mecha",
             "+@gid": "770377003",
             "+@type": "Themes"
         },
         {
-            "+content": "2026",
-            "+@gid": "1763244924",
+            "+content": "2026-05-15",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2026-05-15 (Japan, File 1)",
+            "+@gid": "1898491202",
+            "+@type": "Premiere date"
+        },
+        {
+            "+content": "2026-08-14 (Japan, File 2)",
+            "+@gid": "3147952467",
+            "+@type": "Premiere date"
+        },
+        {
+            "+content": "機動警察パトレイバーEZY 公式サイト",
+            "+@gid": "2725862906",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://ezy.patlabor.tokyo"
         }
     ],
     "news": [
@@ -78,6 +99,16 @@
             "+content": "<cite>Patlabor EZY</cite> Anime Project Unveils Visual, Staff, 2026 Start",
             "+@datetime": "2024-09-19T23:10:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-09-19/patlabor-ezy-anime-project-unveils-visual-staff-2026-start/.215775"
+        },
+        {
+            "+content": "<cite>Patlabor EZY</cite> Anime's Teaser Unveils Cast, More Staff, 3-Film Release Starting in May",
+            "+@datetime": "2026-01-20T04:07:47Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-19/patlabor-ezy-anime-teaser-unveils-cast-more-staff-3-film-release-starting-in-may/.233261"
+        },
+        {
+            "+content": "<cite>Patlabor EZY</cite> Anime Reveals 5 Cast Members",
+            "+@datetime": "2026-02-13T04:59:36Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-12/patlabor-ezy-anime-reveals-5-cast-members/.234116"
         }
     ],
     "staff": [
@@ -103,6 +134,14 @@
             "person": {
                 "+content": "Kazunori Itō",
                 "+@id": "20600"
+            }
+        },
+        {
+            "+@gid": "1743342999",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Kōzō Kaihō",
+                "+@id": "152846"
             }
         },
         {
@@ -170,6 +209,14 @@
             }
         },
         {
+            "+@gid": "1257445704",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Kazuhiro Wakabayashi",
+                "+@id": "424"
+            }
+        },
+        {
             "+@gid": "1005256251",
             "task": "Cgi Director",
             "person": {
@@ -178,11 +225,92 @@
             }
         },
         {
-            "+@gid": "1749870589",
-            "task": "Producer",
+            "+@gid": "1283795906",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yoshio Ōkouchi",
+                "+@id": "18024"
+            }
+        },
+        {
+            "+@gid": "803355430",
+            "task": "Executive producer",
             "person": {
                 "+content": "Tarō Maki",
                 "+@id": "1162"
+            }
+        },
+        {
+            "+@gid": "2417181241",
+            "task": "Producer",
+            "person": {
+                "+content": "Yūya Machida",
+                "+@id": "129683"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1628873157",
+            "+@lang": "JA",
+            "role": "Kimika Saeki",
+            "person": {
+                "+content": "Megumi Hayashibara",
+                "+@id": "391"
+            }
+        },
+        {
+            "+@gid": "1714611599",
+            "+@lang": "JA",
+            "role": "Saki Hirata",
+            "person": {
+                "+content": "Ami Koshimizu",
+                "+@id": "17254"
+            }
+        },
+        {
+            "+@gid": "1928344921",
+            "+@lang": "JA",
+            "role": "Towa Kuga",
+            "person": {
+                "+content": "Sumire Uesaka",
+                "+@id": "106108"
+            }
+        },
+        {
+            "+@gid": "1452773046",
+            "+@lang": "JA",
+            "role": "Akihiko Hazama",
+            "person": {
+                "+content": "Chikahiro Kobayashi",
+                "+@id": "121091"
+            }
+        },
+        {
+            "+@gid": "2714285461",
+            "+@lang": "JA",
+            "role": "Kippei Atori",
+            "person": {
+                "+content": "Kikunosuke Toya",
+                "+@id": "222634"
+            }
+        },
+        {
+            "+@gid": "1380863392",
+            "+@lang": "JA",
+            "role": "Yūta Yanai",
+            "person": {
+                "+content": "Setsuji Satō",
+                "+@id": "278004"
+            }
+        },
+        {
+            "+@gid": "2004883111",
+            "+@lang": "JA",
+            "role": "Hachikuma Yuzuki",
+            "person": {
+                "+content": "Yume Matsumura",
+                "+@id": "287471"
             }
         }
     ],
@@ -205,5 +333,6 @@
         }
     ],
     "+@date-added": "2024-09-19T21:17:58Z",
-    "+@date-last-updated-at": "2026-01-19T16:48:46Z"
+    "+@date-last-modified-at": "2026-02-18T17:29:58Z",
+    "+@date-last-updated-at": "2026-02-18T17:29:58Z"
 }

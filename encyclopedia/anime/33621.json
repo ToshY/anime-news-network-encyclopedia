@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Eiga Doraemon: Nobita no Esekai Monogatari",
     "+@precision": "movie",
-    "+@generated-on": "2026-01-19T16:48:43Z",
+    "+@generated-on": "2026-02-18T17:29:54Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28934"
@@ -51,10 +51,22 @@
             "+@lang": "IT"
         },
         {
+            "+content": "Doraemon: Aventuras en el mundo del arte",
+            "+@gid": "1952467875",
+            "+@type": "Alternative title",
+            "+@lang": "ES"
+        },
+        {
             "+content": "Doraemon: Nobita's Art World Tales",
             "+@gid": "2214833834",
             "+@type": "Alternative title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "دورايمون: نوبيتا في عالم اللوحات",
+            "+@gid": "1331352024",
+            "+@type": "Alternative title",
+            "+@lang": "AR"
         },
         {
             "+content": "映画ドラえもん のび太の絵世界物語",
@@ -69,6 +81,11 @@
         {
             "+content": "2025-03-07 (Japan)",
             "+@gid": "2491467102",
+            "+@type": "Premiere date"
+        },
+        {
+            "+content": "2026-10-09 (Spain)",
+            "+@gid": "1217796709",
             "+@type": "Premiere date"
         },
         {
@@ -96,7 +113,7 @@
     ],
     "ratings": {
         "+@nb_votes": "2",
-        "+@weighted_score": "7.5064"
+        "+@weighted_score": "7.5063"
     },
     "news": [
         {
@@ -437,6 +454,24 @@
     ],
     "cast": [
         {
+            "+@gid": "2060585186",
+            "+@lang": "AR",
+            "role": "Nobita",
+            "person": {
+                "+content": "Aamna Omar",
+                "+@id": "169953"
+            }
+        },
+        {
+            "+@gid": "785852756",
+            "+@lang": "AR",
+            "role": "Doraemon",
+            "person": {
+                "+content": "Amal Saad Al-Din",
+                "+@id": "170239"
+            }
+        },
+        {
             "+@gid": "3177670495",
             "+@lang": "IT",
             "role": "Sodro",
@@ -749,6 +784,6 @@
         }
     ],
     "+@date-added": "2024-09-26T23:00:02Z",
-    "+@date-last-modified-at": "2026-01-19T16:48:46Z",
-    "+@date-last-updated-at": "2026-01-19T16:48:46Z"
+    "+@date-last-modified-at": "2026-02-18T17:29:58Z",
+    "+@date-last-updated-at": "2026-02-18T17:29:58Z"
 }
