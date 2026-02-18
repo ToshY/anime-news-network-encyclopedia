@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Yowayowa Sensei",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-19T08:50:57Z",
+    "+@generated-on": "2026-02-18T09:05:03Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29471"
@@ -52,6 +52,10 @@
             "+@type": "Genres"
         },
         {
+            "+content": "Hiyori Hiwamura is a new high school teacher who just graduated from college. With Hiwamura's weak voice, weak stamina, and being basically weak in every aspect, one might have the urge to protect her. Ironically, students misread her meekness and fear her as the rumored \"Ms. Scary\" who will curse them if she gets upset. Nevertheless, she works hard for her students, and one student, Akihito Abikura, recognizes her true nature. <em class=de-emphasized>(from manga)</em>",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "2026-04",
             "+@gid": "1777100248",
             "+@type": "Vintage"
@@ -64,11 +68,18 @@
             "+@href": "https://www.yowayowasensei-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Yowayowa Sensei</cite> TV Anime Reveals Main Cast, Staff, April 2026 Debut (Updated)",
-        "+@datetime": "2025-11-08T04:38:54Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-11-07/yowayowa-sensei-tv-anime-reveals-main-cast-staff-april-2026-debut/.230765"
-    },
+    "news": [
+        {
+            "+content": "<cite>Yowayowa Sensei</cite> TV Anime Reveals Main Cast, Staff, April 2026 Debut (Updated)",
+            "+@datetime": "2025-11-08T04:38:54Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-07/yowayowa-sensei-tv-anime-reveals-main-cast-staff-april-2026-debut/.230765"
+        },
+        {
+            "+content": "<cite>Yowayowa Sensei</cite> Anime's Teaser Unveils 4 More Cast Members",
+            "+@datetime": "2026-01-28T10:13:04Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-28/yowayowa-sensei-anime-teaser-unveils-4-more-cast-members/.233567"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1162085727",
@@ -121,12 +132,48 @@
     ],
     "cast": [
         {
+            "+@gid": "3661810489",
+            "+@lang": "JA",
+            "role": "Akemi Abikura",
+            "person": {
+                "+content": "Mai Nakahara",
+                "+@id": "438"
+            }
+        },
+        {
             "+@gid": "2547883245",
             "+@lang": "JA",
             "role": "Hiyori Hiwamura",
             "person": {
                 "+content": "Marika Kōno",
                 "+@id": "134422"
+            }
+        },
+        {
+            "+@gid": "1230494922",
+            "+@lang": "JA",
+            "role": "Yūki Yukishita",
+            "person": {
+                "+content": "Yū Sasahara",
+                "+@id": "158556"
+            }
+        },
+        {
+            "+@gid": "1112141301",
+            "+@lang": "JA",
+            "role": "Kaya Kuguri",
+            "person": {
+                "+content": "Yūko Natsuyoshi",
+                "+@id": "187604"
+            }
+        },
+        {
+            "+@gid": "3542076954",
+            "+@lang": "JA",
+            "role": "Mizuki Mukubayashi",
+            "person": {
+                "+content": "Yurie Igoma",
+                "+@id": "224869"
             }
         },
         {
@@ -148,5 +195,6 @@
         }
     },
     "+@date-added": "2024-12-03T21:41:37Z",
-    "+@date-last-updated-at": "2026-01-19T08:51:05Z"
+    "+@date-last-modified-at": "2026-02-18T09:05:10Z",
+    "+@date-last-updated-at": "2026-02-18T09:05:10Z"
 }

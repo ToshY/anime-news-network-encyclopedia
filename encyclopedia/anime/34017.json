@@ -2,9 +2,9 @@
     "+@id": "34017",
     "+@gid": "732809745",
     "+@type": "special",
-    "+@name": "Sakuna: Of Rice and Ruin",
+    "+@name": "Sakuna: Of Rice And Ruin Kokorowa Rice Cultivation Diary",
     "+@precision": "special",
-    "+@generated-on": "2026-01-19T08:51:00Z",
+    "+@generated-on": "2026-02-18T09:05:07Z",
     "related-prev": [
         {
             "+@rel": "sequel of",
@@ -36,8 +36,8 @@
             ]
         },
         {
-            "+content": "Sakuna: Of Rice and Ruin",
-            "+@gid": "1711064780",
+            "+content": "Sakuna: Of Rice And Ruin Kokorowa Rice Cultivation Diary",
+            "+@gid": "1786672110",
             "+@type": "Main title",
             "+@lang": "EN"
         },
@@ -71,11 +71,23 @@
             "+@href": "https://sakuna-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Sakuna: Of Rice And Ruin</cite> Anime Gets 2-Part Special About Kokorowa on February 15, 22",
-        "+@datetime": "2026-01-15T07:01:38Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-01-15/sakuna-of-rice-and-ruin-anime-gets-2-part-special-about-kokorowa-on-february-15-22/.233068"
-    },
+    "news": [
+        {
+            "+content": "<cite>Sakuna: Of Rice And Ruin</cite> Anime Gets 2-Part Special About Kokorowa on February 15, 22",
+            "+@datetime": "2026-01-15T07:01:38Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-15/sakuna-of-rice-and-ruin-anime-gets-2-part-special-about-kokorowa-on-february-15-22/.233068"
+        },
+        {
+            "+content": "<cite>Sakuna: Of Rice And Ruin</cite> Anime's 2 Specials Unveils New Cast & Staff in Video",
+            "+@datetime": "2026-02-01T11:04:34Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-01/sakuna-of-rice-and-ruin-anime-2-specials-unveils-new-cast-and-staff-in-video/.233703"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>Sakuna: Of Rice And Ruin</cite> Anime Specials",
+            "+@datetime": "2026-02-16T07:54:34Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-16/crunchyroll-streams-sakuna-of-rice-and-ruin-anime-specials/.234228"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3165283516",
@@ -86,15 +98,123 @@
             }
         },
         {
+            "+@gid": "2060225853",
+            "task": "Script",
+            "person": {
+                "+content": "Keigo Koyanagi",
+                "+@id": "83411"
+            }
+        },
+        {
+            "+@gid": "1239173221",
+            "task": "Music",
+            "person": {
+                "+content": "Yoshiaki Fujisawa",
+                "+@id": "113645"
+            }
+        },
+        {
             "+@gid": "2262431004",
             "task": "Original story",
             "person": {
                 "+content": "Keiji Andō",
                 "+@id": "258098"
             }
+        },
+        {
+            "+@gid": "2047851761",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Ryōta Murayama",
+                "+@id": "263140"
+            }
+        },
+        {
+            "+@gid": "650192610",
+            "task": "Character Design",
+            "person": {
+                "+content": "Mio Fujishima",
+                "+@id": "111033"
+            }
+        },
+        {
+            "+@gid": "2642921378",
+            "task": "Art Director",
+            "person": {
+                "+content": "Tamako Kamiyama",
+                "+@id": "109678"
+            }
+        },
+        {
+            "+@gid": "1786148593",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Sayo Mizuno",
+                "+@id": "112057"
+            }
+        },
+        {
+            "+@gid": "1305649872",
+            "task": "3D Director",
+            "person": {
+                "+content": "Motonari Ichikawa",
+                "+@id": "91981"
+            }
+        },
+        {
+            "+@gid": "2565055312",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Jin Aketagawa",
+                "+@id": "8466"
+            }
+        },
+        {
+            "+@gid": "603432999",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Tomo Namiki",
+                "+@id": "149946"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "252653034",
+            "+@lang": "JA",
+            "role": "Uketa Hime",
+            "person": {
+                "+content": "Asami Imai",
+                "+@id": "9744"
+            }
+        },
+        {
+            "+@gid": "2161733015",
+            "+@lang": "JA",
+            "role": "Tama-Jii",
+            "person": {
+                "+content": "Takashi Narumi",
+                "+@id": "101387"
+            }
+        },
+        {
+            "+@gid": "2099138808",
+            "+@lang": "JA",
+            "role": "Ashigumo",
+            "person": {
+                "+content": "Riki Kagami",
+                "+@id": "111484"
+            }
+        },
+        {
+            "+@gid": "1747903247",
+            "+@lang": "JA",
+            "role": "Kinta",
+            "person": {
+                "+content": "Sōma Maeda",
+                "+@id": "113292"
+            }
+        },
         {
             "+@gid": "1197971099",
             "+@lang": "JA",
@@ -105,12 +225,48 @@
             }
         },
         {
+            "+@gid": "1467272444",
+            "+@lang": "JA",
+            "role": "Tauemon",
+            "person": {
+                "+content": "Ryōta Yano",
+                "+@id": "125923"
+            }
+        },
+        {
             "+@gid": "840753105",
             "+@lang": "JA",
             "role": "Kokorowa Hime",
             "person": {
                 "+content": "Rika Kinugawa",
                 "+@id": "136075"
+            }
+        },
+        {
+            "+@gid": "1906133455",
+            "+@lang": "JA",
+            "role": "Kaimaru",
+            "person": {
+                "+content": "Rika Momokawa",
+                "+@id": "140611"
+            }
+        },
+        {
+            "+@gid": "1736410626",
+            "+@lang": "JA",
+            "role": "Yui",
+            "person": {
+                "+content": "Aoi Koga",
+                "+@id": "140695"
+            }
+        },
+        {
+            "+@gid": "1383178243",
+            "+@lang": "JA",
+            "role": "Mirute",
+            "person": {
+                "+content": "Hikari Kubota",
+                "+@id": "150847"
             }
         }
     ],
@@ -123,6 +279,6 @@
         }
     },
     "+@date-added": "2024-11-15T03:08:15Z",
-    "+@date-last-modified-at": "2026-01-19T08:51:05Z",
-    "+@date-last-updated-at": "2026-01-19T08:51:05Z"
+    "+@date-last-modified-at": "2026-02-18T09:05:11Z",
+    "+@date-last-updated-at": "2026-02-18T09:05:11Z"
 }
