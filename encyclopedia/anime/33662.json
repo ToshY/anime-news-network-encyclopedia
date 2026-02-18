@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Oshi no Ko",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-01-19T13:12:42Z",
+    "+@generated-on": "2026-02-18T13:42:09Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28810"
@@ -117,6 +117,16 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "919001826",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "11",
+            "+@gid": "2729288575",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-01-14",
             "+@gid": "2526105652",
             "+@type": "Vintage"
@@ -150,17 +160,51 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "7.6707"
+        "+@nb_votes": "3",
+        "+@weighted_score": "7.8266"
     },
-    "episode": {
-        "+@num": "25",
-        "title": {
-            "+content": "Down Bad",
-            "+@gid": "1914691561",
-            "+@lang": "EN"
+    "episode": [
+        {
+            "+@num": "25",
+            "title": {
+                "+content": "Down Bad",
+                "+@gid": "1914691561",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "26",
+            "title": {
+                "+content": "Calculating",
+                "+@gid": "999645179",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "27",
+            "title": {
+                "+content": "Correctness",
+                "+@gid": "2417486287",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "28",
+            "title": {
+                "+content": "Blind",
+                "+@gid": "3821228833",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "29",
+            "title": {
+                "+content": "Casting",
+                "+@gid": "2939194305",
+                "+@lang": "EN"
+            }
         }
-    },
+    ],
     "news": [
         {
             "+content": "<cite>Oshi no Ko</cite> Anime Gets 3rd Season, Reveals More Cast",
@@ -262,11 +306,51 @@
             }
         },
         {
+            "+@gid": "2712087278",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Naoya Nakayama",
+                "+@id": "122850"
+            }
+        },
+        {
+            "+@gid": "3901481712",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ciao Nekotomi",
+                "+@id": "254801"
+            }
+        },
+        {
             "+@gid": "3307843354",
             "task": "Episode Director",
             "person": {
                 "+content": "Daisuke Hiramaki",
                 "+@id": "53184"
+            }
+        },
+        {
+            "+@gid": "2728704704",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ichinosuke Akikaze",
+                "+@id": "292961"
+            }
+        },
+        {
+            "+@gid": "1819354491",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Naoya Nakayama",
+                "+@id": "122850"
+            }
+        },
+        {
+            "+@gid": "2223867057",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Ciao Nekotomi",
+                "+@id": "254801"
             }
         },
         {
@@ -404,6 +488,78 @@
                 "+content": "Takafumi Kuwano",
                 "+@id": "82836"
             }
+        },
+        {
+            "+@gid": "2720119384",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Shuzo Kasahara",
+                "+@id": "119293"
+            }
+        },
+        {
+            "+@gid": "2469357893",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Hajime Kamata",
+                "+@id": "122260"
+            }
+        },
+        {
+            "+@gid": "2903155742",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Takahiro Yamauchi",
+                "+@id": "186933"
+            }
+        },
+        {
+            "+@gid": "2784290389",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Shōtarō Usui",
+                "+@id": "227409"
+            }
+        },
+        {
+            "+@gid": "1659477846",
+            "task": "Producer",
+            "person": {
+                "+content": "Shinpei Yamashita",
+                "+@id": "119437"
+            }
+        },
+        {
+            "+@gid": "1062554567",
+            "task": "Producer",
+            "person": {
+                "+content": "Shingo Saitō",
+                "+@id": "124957"
+            }
+        },
+        {
+            "+@gid": "2165905112",
+            "task": "Producer",
+            "person": {
+                "+content": "Takuya Yoshioka",
+                "+@id": "148649"
+            }
+        },
+        {
+            "+@gid": "2572494446",
+            "task": "Producer",
+            "person": {
+                "+content": "Manami Kabashima",
+                "+@id": "175865"
+            }
+        },
+        {
+            "+@gid": "2065091930",
+            "task": "Producer",
+            "person": {
+                "+content": "Hiroki Okagawa",
+                "+@id": "198206"
+            }
         }
     ],
     "cast": [
@@ -498,15 +654,49 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "686980553",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Dōga Kōbō",
-            "+@id": "228"
+    "credit": [
+        {
+            "+@gid": "686980553",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Dōga Kōbō",
+                "+@id": "228"
+            }
+        },
+        {
+            "+@gid": "1746649882",
+            "task": "Production",
+            "company": {
+                "+content": "Dōga Kōbō",
+                "+@id": "228"
+            }
+        },
+        {
+            "+@gid": "3363362779",
+            "task": "Production",
+            "company": {
+                "+content": "Shueisha",
+                "+@id": "909"
+            }
+        },
+        {
+            "+@gid": "1361114597",
+            "task": "Production",
+            "company": {
+                "+content": "CyberAgent",
+                "+@id": "12936"
+            }
+        },
+        {
+            "+@gid": "3490676742",
+            "task": "Production",
+            "company": {
+                "+content": "Kadokawa",
+                "+@id": "15420"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-10-06T07:01:33Z",
-    "+@date-last-modified-at": "2026-01-19T13:12:43Z",
-    "+@date-last-updated-at": "2026-01-19T13:12:43Z"
+    "+@date-last-modified-at": "2026-02-18T13:42:12Z",
+    "+@date-last-updated-at": "2026-02-18T13:42:12Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Gentle Noble's Vacation Recommendation",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-19T13:12:42Z",
+    "+@generated-on": "2026-02-18T13:42:09Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "33689"
@@ -58,14 +58,29 @@
             "+@type": "Genres"
         },
         {
+            "+content": "comedy",
+            "+@gid": "1750286329",
+            "+@type": "Genres"
+        },
+        {
             "+content": "fantasy",
             "+@gid": "1330195710",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "slice of life",
+            "+@gid": "587035017",
             "+@type": "Genres"
         },
         {
             "+content": "traveling",
             "+@gid": "2116265399",
             "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "2218819649",
+            "+@type": "Objectionable content"
         },
         {
             "+content": "When Lizel finds himself in a city that bears odd similarities to his own but clearly isn't, he quickly comes to terms with the unlikely truth: this is an entirely different world. Even so, laid-back Lizel isn't the type to panic. He immediately hires a seasoned adventurer named Gil as his tour guide and protector. Until he's able to find a way home, Lizel figures this is a perfect opportunity to explore a new way of life, adventuring as part of a guild. After all, he's sure he'll go home eventually, might as well enjoy the otherworldly vacation for now.",
@@ -91,8 +106,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "7.5911"
+        "+@nb_votes": "4",
+        "+@weighted_score": "5.6885"
     },
     "news": [
         {
@@ -223,6 +238,14 @@
             }
         },
         {
+            "+@gid": "2393331982",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kei Sakai",
+                "+@id": "72106"
+            }
+        },
+        {
             "+@gid": "1278916385",
             "task": "3D Director",
             "person": {
@@ -330,6 +353,6 @@
         }
     },
     "+@date-added": "2024-10-10T06:08:40Z",
-    "+@date-last-modified-at": "2026-01-19T13:12:43Z",
-    "+@date-last-updated-at": "2026-01-19T13:12:43Z"
+    "+@date-last-modified-at": "2026-02-18T13:42:12Z",
+    "+@date-last-updated-at": "2026-02-18T13:42:12Z"
 }
