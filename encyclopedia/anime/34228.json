@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "MF Ghost",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-01-19T05:03:06Z",
+    "+@generated-on": "2026-02-18T05:39:36Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "31074"
@@ -107,9 +107,14 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "\"TIMELESS POWER feat. MOTSU\" by Yū Serizawa",
+            "+content": "\"TIMELESS POWER feat. MOTSU\" by Yū Serizawa (eps 25-29)",
             "+@gid": "943887892",
             "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Yokan no Tochū Prod. ☆Taku Takahashi (m-flo)\" (予感の途中) by Himika Akaneya (eps 25-29, 31)",
+            "+@gid": "1834946850",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "\"Adrenaline\" by Manuel (ep 27)",
@@ -122,7 +127,7 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Crash Boom Burn Me Up\" by Fastway (ep 25)",
+            "+content": "\"Crash Boom Burn Me Up\" by Fastway (eps 25,28)",
             "+@gid": "2813345646",
             "+@type": "Insert song"
         },
@@ -132,8 +137,18 @@
             "+@type": "Insert song"
         },
         {
+            "+content": "\"Power Two\" by Hotblade (ep 28)",
+            "+@gid": "310644968",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "\"Rage Your Dream\" by Move (ep 25)",
             "+@gid": "3126911988",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Red Zone\" by Ray Hikari (ep 29)",
+            "+@gid": "441039024",
             "+@type": "Insert song"
         },
         {
@@ -142,8 +157,28 @@
             "+@type": "Insert song"
         },
         {
+            "+content": "\"Sorry\" by David Dima (ep 30)",
+            "+@gid": "2094352574",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Spirit of the Night\" by David Dima (ep 28)",
+            "+@gid": "1351709208",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Stereo Sunset (Prod. AmPm)\" by Himika Akaneya (ep 30)",
+            "+@gid": "1566916221",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "\"The Fire and the Rain\" by Dusty (ep 26)",
             "+@gid": "3080865185",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Wonderful Love\" by Sophie Sanz (ep 28)",
+            "+@gid": "2201333827",
             "+@type": "Insert song"
         },
         {
@@ -156,7 +191,7 @@
     ],
     "ratings": {
         "+@nb_votes": "2",
-        "+@weighted_score": "5.8354"
+        "+@weighted_score": "5.8348"
     },
     "episode": [
         {
@@ -188,6 +223,38 @@
             "title": {
                 "+content": "Their First Kiss",
                 "+@gid": "2773337800",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "29",
+            "title": {
+                "+content": "Grandma`s Kei Truck",
+                "+@gid": "2001380791",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "30",
+            "title": {
+                "+content": "The 1:09 PM Miracle",
+                "+@gid": "2114285285",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "31",
+            "title": {
+                "+content": "The End of Summer",
+                "+@gid": "2711402978",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "32",
+            "title": {
+                "+content": "Sparks Fly",
+                "+@gid": "1474832218",
                 "+@lang": "EN"
             }
         }
@@ -222,6 +289,11 @@
             "+content": "Crunchyroll Streams <cite>Tamon's B-Side</cite>, <cite>Sentenced to Be a Hero</cite>, More Anime in India",
             "+@datetime": "2025-12-21T09:54:27Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-12-21/crunchyroll-streams-tamon-b-side-sentenced-to-be-a-hero-more-anime-in-india/.232312"
+        },
+        {
+            "+content": "<cite>MF Ghost</cite> 3rd Season Anime's English Dub Debuts on January 22",
+            "+@datetime": "2026-01-22T18:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-22/mf-ghost-3rd-season-anime-english-dub-debuts-on-january-22/.233364"
         }
     ],
     "staff": [
@@ -266,6 +338,14 @@
             }
         },
         {
+            "+@gid": "1191198347",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kenji Setō",
+                "+@id": "35070"
+            }
+        },
+        {
             "+@gid": "1444619553",
             "task": "Storyboard",
             "person": {
@@ -282,11 +362,27 @@
             }
         },
         {
+            "+@gid": "1031922292",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yoshino Asō",
+                "+@id": "271485"
+            }
+        },
+        {
             "+@gid": "1329102342",
             "task": "Episode Director",
             "person": {
                 "+content": "Naruse Takahashi",
                 "+@id": "22116"
+            }
+        },
+        {
+            "+@gid": "3296756872",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kenji Setō",
+                "+@id": "35070"
             }
         },
         {
@@ -402,11 +498,27 @@
             }
         },
         {
+            "+@gid": "2582685303",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazuchika Kise",
+                "+@id": "469"
+            }
+        },
+        {
             "+@gid": "941995009",
             "task": "Animation Director",
             "person": {
                 "+content": "Naoyuki Onda",
                 "+@id": "1279"
+            }
+        },
+        {
+            "+@gid": "242657727",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hidetoshi Namura",
+                "+@id": "22614"
             }
         },
         {
@@ -450,6 +562,22 @@
             }
         },
         {
+            "+@gid": "1746555786",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shinichi Wada",
+                "+@id": "48400"
+            }
+        },
+        {
+            "+@gid": "3338871138",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiroshi Tatezaki",
+                "+@id": "77849"
+            }
+        },
+        {
             "+@gid": "3469488448",
             "task": "Animation Director",
             "person": {
@@ -463,6 +591,86 @@
             "person": {
                 "+content": "Tetsutarō Yui",
                 "+@id": "106208"
+            }
+        },
+        {
+            "+@gid": "3587896241",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Minoru Ezaki",
+                "+@id": "137791"
+            }
+        },
+        {
+            "+@gid": "2350817880",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuka Kojima",
+                "+@id": "222157"
+            }
+        },
+        {
+            "+@gid": "1571560796",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jing Li",
+                "+@id": "242947"
+            }
+        },
+        {
+            "+@gid": "1745182012",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jie Liu",
+                "+@id": "247652"
+            }
+        },
+        {
+            "+@gid": "1727826796",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zhi Yuan Yang",
+                "+@id": "293243"
+            }
+        },
+        {
+            "+@gid": "1444840945",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yu Lan He",
+                "+@id": "293244"
+            }
+        },
+        {
+            "+@gid": "2431218163",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hong Wei Guo",
+                "+@id": "293245"
+            }
+        },
+        {
+            "+@gid": "1524779889",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Xiao Ting Zhu",
+                "+@id": "293246"
+            }
+        },
+        {
+            "+@gid": "3746310306",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nuo Chen",
+                "+@id": "293247"
+            }
+        },
+        {
+            "+@gid": "1028558085",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jian Jun Ma",
+                "+@id": "293248"
             }
         },
         {
@@ -539,6 +747,168 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "3804267834",
+            "+@lang": "EN",
+            "role": "Fumihiro Joyu",
+            "person": {
+                "+content": "Chris Cason",
+                "+@id": "9199"
+            }
+        },
+        {
+            "+@gid": "2591837704",
+            "+@lang": "EN",
+            "role": "Hiroya Okuyama",
+            "person": {
+                "+content": "David Matranga",
+                "+@id": "9293"
+            }
+        },
+        {
+            "+@gid": "2877691755",
+            "+@lang": "EN",
+            "role": "Wataru Akiyama",
+            "person": {
+                "+content": "Robert McCollum",
+                "+@id": "29209"
+            }
+        },
+        {
+            "+@gid": "1533534132",
+            "+@lang": "EN",
+            "role": "Fujin Ishigami",
+            "person": {
+                "+content": "Chris Ryan",
+                "+@id": "34203"
+            }
+        },
+        {
+            "+@gid": "868868453",
+            "+@lang": "EN",
+            "role": "Ogata",
+            "person": {
+                "+content": "Larry Brantley",
+                "+@id": "44731"
+            }
+        },
+        {
+            "+@gid": "3669865192",
+            "+@lang": "EN",
+            "role": "Ryosuke Takahashi",
+            "person": {
+                "+content": "J. Michael Tatum",
+                "+@id": "65527"
+            }
+        },
+        {
+            "+@gid": "2246305457",
+            "+@lang": "EN",
+            "role": "Takuya Yanagida",
+            "person": {
+                "+content": "Kamen Casey",
+                "+@id": "130211"
+            }
+        },
+        {
+            "+@gid": "1195346499",
+            "+@lang": "EN",
+            "role": "Daigo Oishi",
+            "person": {
+                "+content": "Matt Shipman",
+                "+@id": "134957"
+            }
+        },
+        {
+            "+@gid": "2110484598",
+            "+@lang": "EN",
+            "role": "Mami Sato",
+            "person": {
+                "+content": "Marisa Duran",
+                "+@id": "154417"
+            }
+        },
+        {
+            "+@gid": "1254531455",
+            "+@lang": "EN",
+            "role": "Tanaka Yoji",
+            "person": {
+                "+content": "Chris Gardner",
+                "+@id": "155928"
+            }
+        },
+        {
+            "+@gid": "919533294",
+            "+@lang": "EN",
+            "role": "Shun Aiba",
+            "person": {
+                "+content": "Cory Phillips",
+                "+@id": "164050"
+            }
+        },
+        {
+            "+@gid": "816407284",
+            "+@lang": "EN",
+            "role": "Kanata Katagiri / Kanata Rivington",
+            "person": {
+                "+content": "Kieran Flitton",
+                "+@id": "190516"
+            }
+        },
+        {
+            "+@gid": "1867158950",
+            "+@lang": "EN",
+            "role": "Kaito Akaba",
+            "person": {
+                "+content": "Wyatt Baker",
+                "+@id": "211397"
+            }
+        },
+        {
+            "+@gid": "2614417543",
+            "+@lang": "EN",
+            "role": "Ren Sainoji",
+            "person": {
+                "+content": "Trisha Mellon",
+                "+@id": "221688"
+            }
+        },
+        {
+            "+@gid": "3677544855",
+            "+@lang": "EN",
+            "role": "Kazuhiro Maezono",
+            "person": {
+                "+content": "Sean Letourneau",
+                "+@id": "232187"
+            }
+        },
+        {
+            "+@gid": "2036052467",
+            "+@lang": "EN",
+            "role": "Koki Sawatari",
+            "person": {
+                "+content": "Brandon Acosta",
+                "+@id": "232202"
+            }
+        },
+        {
+            "+@gid": "1994449631",
+            "+@lang": "EN",
+            "role": "Yudai Sakamoto",
+            "person": {
+                "+content": "Nasim Benelkour",
+                "+@id": "243087"
+            }
+        },
+        {
+            "+@gid": "2277473480",
+            "+@lang": "EN",
+            "role": "Sena Moroboshi",
+            "person": {
+                "+content": "Mauricio Ortiz-Segura",
+                "+@id": "244000"
+            }
+        },
         {
             "+@gid": "1713860159",
             "+@lang": "JA",
@@ -886,6 +1256,6 @@
         }
     ],
     "+@date-added": "2024-12-22T16:43:36Z",
-    "+@date-last-modified-at": "2026-01-19T05:03:08Z",
-    "+@date-last-updated-at": "2026-01-19T05:03:08Z"
+    "+@date-last-modified-at": "2026-02-18T05:39:42Z",
+    "+@date-last-updated-at": "2026-02-18T05:39:42Z"
 }
