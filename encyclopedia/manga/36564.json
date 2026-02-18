@@ -4,12 +4,36 @@
     "+@type": "manga",
     "+@name": "Harukaze Mound",
     "+@precision": "manga",
-    "+@generated-on": "2026-01-19T02:35:47Z",
+    "+@generated-on": "2026-02-18T03:18:35Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "1363"
     },
     "info": [
+        {
+            "+@gid": "2334933572",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36564-2334933572.1768965355.jpg",
+            "+@width": "126",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36564-2334933572.1768965355.jpg",
+                    "+@width": "126",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36564-2334933572.1768965355.jpg",
+                    "+@width": "379",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A36564-2334933572.1768965355.jpg",
+                    "+@width": "758",
+                    "+@height": "1200"
+                }
+            ]
+        },
         {
             "+content": "Harukaze Mound",
             "+@gid": "2042794413",
@@ -33,16 +57,23 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "2025-06-16 (serialized in Weekly Shonen Jump, 2025 #29)",
+            "+content": "2025-06-16 to 2026-01-26 (Weekly Shonen Jump, 2025 #29 - 2026 #9)",
             "+@gid": "2571493406",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Shun Numa's <cite>Super Psychic Policeman Chojo</cite> Manga Ends; 4 New Manga Launch in <cite>Weekly Shonen Jump</cite>",
-        "+@datetime": "2025-06-08T15:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-06-08/shun-numa-super-psychic-policeman-chojo-manga-ends-4-new-manga-launch-in-weekly-shonen-jump/.225304"
-    },
+    "news": [
+        {
+            "+content": "Shun Numa's <cite>Super Psychic Policeman Chojo</cite> Manga Ends; 4 New Manga Launch in <cite>Weekly Shonen Jump</cite>",
+            "+@datetime": "2025-06-08T15:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-08/shun-numa-super-psychic-policeman-chojo-manga-ends-4-new-manga-launch-in-weekly-shonen-jump/.225304"
+        },
+        {
+            "+content": "<cite>Harukaze Mound</cite> Manga Ends",
+            "+@datetime": "2026-01-26T13:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-26/harukaze-mound-manga-ends/.233467"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3229986107",
@@ -62,5 +93,6 @@
         }
     ],
     "+@date-added": "2025-06-15T12:47:10Z",
-    "+@date-last-updated-at": "2026-01-19T02:35:50Z"
+    "+@date-last-modified-at": "2026-02-18T03:18:37Z",
+    "+@date-last-updated-at": "2026-02-18T03:18:37Z"
 }
