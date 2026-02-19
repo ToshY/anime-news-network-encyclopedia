@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Darwin Incident",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-20T08:51:07Z",
+    "+@generated-on": "2026-02-19T09:05:43Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26659"
@@ -84,12 +84,27 @@
             "+@type": "Genres"
         },
         {
+            "+content": "conspiracy",
+            "+@gid": "2260546359",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "crime",
+            "+@gid": "1187215709",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "school",
+            "+@gid": "2539510547",
+            "+@type": "Themes"
+        },
+        {
             "+content": "terrorism",
             "+@gid": "1942754677",
             "+@type": "Themes"
         },
         {
-            "+content": "TA",
+            "+content": "MA",
             "+@gid": "2092607648",
             "+@type": "Objectionable content"
         },
@@ -114,6 +129,11 @@
             "+@type": "Opening Theme"
         },
         {
+            "+content": "\"Turn It Up\" by ako",
+            "+@gid": "1341710714",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "TVアニメ『ダーウィン事変』公式サイト",
             "+@gid": "1965452719",
             "+@type": "Official website",
@@ -122,8 +142,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "4.6049"
+        "+@nb_votes": "4",
+        "+@weighted_score": "5.626"
     },
     "news": [
         {
@@ -223,6 +243,14 @@
             }
         },
         {
+            "+@gid": "1045783657",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Shinpei Tomooka",
+                "+@id": "27539"
+            }
+        },
+        {
             "+@gid": "3416586009",
             "task": "Sound Director",
             "person": {
@@ -250,12 +278,39 @@
             }
         },
         {
+            "+@gid": "2383865365",
+            "+@lang": "EN",
+            "role": "Lydia",
+            "person": {
+                "+content": "Marissa Lenti",
+                "+@id": "137305"
+            }
+        },
+        {
+            "+@gid": "2008898213",
+            "+@lang": "EN",
+            "role": "Min-Su",
+            "person": {
+                "+content": "Jesse Inocalla",
+                "+@id": "139542"
+            }
+        },
+        {
             "+@gid": "1296115409",
             "+@lang": "EN",
             "role": "Gilbert Stein",
             "person": {
                 "+content": "Roly Gutierrez",
                 "+@id": "188331"
+            }
+        },
+        {
+            "+@gid": "3396808444",
+            "+@lang": "EN",
+            "role": "Dr. Fowler",
+            "person": {
+                "+content": "Chris Jahn",
+                "+@id": "190538"
             }
         },
         {
@@ -349,6 +404,33 @@
             }
         },
         {
+            "+@gid": "1472219932",
+            "+@lang": "FR",
+            "role": "Lesley K. Lippman",
+            "person": {
+                "+content": "Franck Lorrain",
+                "+@id": "69918"
+            }
+        },
+        {
+            "+@gid": "3455394103",
+            "+@lang": "FR",
+            "role": "Philip Graham",
+            "person": {
+                "+content": "Boris Rehlinger",
+                "+@id": "70324"
+            }
+        },
+        {
+            "+@gid": "2126147814",
+            "+@lang": "FR",
+            "role": "Gilbert Stein",
+            "person": {
+                "+content": "Jérémy Prévost",
+                "+@id": "81134"
+            }
+        },
+        {
             "+@gid": "3168019193",
             "+@lang": "FR",
             "role": "Charlie Stein",
@@ -364,6 +446,24 @@
             "person": {
                 "+content": "Bianca Tomassian",
                 "+@id": "173578"
+            }
+        },
+        {
+            "+@gid": "1789951563",
+            "+@lang": "FR",
+            "role": "Gale",
+            "person": {
+                "+content": "Victor Niverd",
+                "+@id": "173857"
+            }
+        },
+        {
+            "+@gid": "2185857429",
+            "+@lang": "FR",
+            "role": "Hannah Stein",
+            "person": {
+                "+content": "Laëtitia Lefebvre",
+                "+@id": "176010"
             }
         },
         {
@@ -521,6 +621,6 @@
         }
     ],
     "+@date-added": "2024-05-21T19:39:41Z",
-    "+@date-last-modified-at": "2026-01-20T08:51:09Z",
-    "+@date-last-updated-at": "2026-01-20T08:51:09Z"
+    "+@date-last-modified-at": "2026-02-19T09:05:46Z",
+    "+@date-last-updated-at": "2026-02-19T09:05:46Z"
 }

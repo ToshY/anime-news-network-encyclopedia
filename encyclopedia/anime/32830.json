@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Kumarba",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-01-20T08:51:06Z",
+    "+@generated-on": "2026-02-19T09:05:37Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "30491"
+    },
+    "related-next": {
+        "+@id": "38385",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -47,6 +51,16 @@
             "+@lang": "JA"
         },
         {
+            "+content": "action",
+            "+@gid": "1040256939",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "1272392762",
+            "+@type": "Genres"
+        },
+        {
             "+content": "2024-10-05",
             "+@gid": "1121869462",
             "+@type": "Vintage"
@@ -59,11 +73,18 @@
             "+@href": "https://kumarba.com/pages/tv-anime"
         }
     ],
-    "news": {
-        "+content": "<cite>Kumarba</cite> Season 2 Anime Debuts on October 5",
-        "+@datetime": "2024-09-16T21:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-09-16/kumarba-season-2-anime-debuts-on-october-5/.215622"
-    },
+    "news": [
+        {
+            "+content": "<cite>Kumarba</cite> Season 2 Anime Debuts on October 5",
+            "+@datetime": "2024-09-16T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-09-16/kumarba-season-2-anime-debuts-on-october-5/.215622"
+        },
+        {
+            "+content": "<cite>Kumarba</cite> Anime Gets 3rd Season in April, Shifts From 3D to 2D",
+            "+@datetime": "2026-01-28T03:10:35Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-27/kumarba-anime-gets-3rd-season-in-april-shifts-from-3d-to-2d/.233548"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1815950807",
@@ -163,5 +184,6 @@
         }
     ],
     "+@date-added": "2024-06-22T17:45:20Z",
-    "+@date-last-updated-at": "2026-01-20T08:51:08Z"
+    "+@date-last-modified-at": "2026-02-19T09:05:45Z",
+    "+@date-last-updated-at": "2026-02-19T09:05:45Z"
 }
