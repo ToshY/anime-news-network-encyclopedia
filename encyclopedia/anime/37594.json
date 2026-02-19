@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Liar Game",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-20T13:13:54Z",
+    "+@generated-on": "2026-02-19T13:43:05Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "8178"
@@ -63,11 +63,18 @@
             "+@href": "https://www.liargame-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Liar Game</cite> TV Anime's Trailer Reveals Main Cast, More Staff, April 2026 Premiere",
-        "+@datetime": "2025-12-18T09:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-12-18/liar-game-tv-anime-trailer-reveals-main-cast-more-staff-april-2026-premiere/.232214"
-    },
+    "news": [
+        {
+            "+content": "<cite>Liar Game</cite> TV Anime's Trailer Reveals Main Cast, More Staff, April 2026 Premiere",
+            "+@datetime": "2025-12-18T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-18/liar-game-tv-anime-trailer-reveals-main-cast-more-staff-april-2026-premiere/.232214"
+        },
+        {
+            "+content": "<cite>Liar Game</cite> Anime Adds 3 Cast Members",
+            "+@datetime": "2026-02-12T09:06:27Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-12/liar-game-anime-adds-3-cast-members/.234078"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1334071218",
@@ -144,6 +151,33 @@
     ],
     "cast": [
         {
+            "+@gid": "1244450611",
+            "+@lang": "JA",
+            "role": "Kazuo Fujisawa",
+            "person": {
+                "+content": "Nobuo Tobita",
+                "+@id": "666"
+            }
+        },
+        {
+            "+@gid": "2001968365",
+            "+@lang": "JA",
+            "role": "Leronira",
+            "person": {
+                "+content": "Kazuhiro Nakaya",
+                "+@id": "70574"
+            }
+        },
+        {
+            "+@gid": "1161522002",
+            "+@lang": "JA",
+            "role": "Mitsuo Tanimura",
+            "person": {
+                "+content": "Yōji Ueda",
+                "+@id": "131376"
+            }
+        },
+        {
             "+@gid": "3533759809",
             "+@lang": "JA",
             "role": "Shinichi Akiyama",
@@ -171,5 +205,6 @@
         }
     },
     "+@date-added": "2025-08-22T19:55:12Z",
-    "+@date-last-updated-at": "2026-01-20T13:13:58Z"
+    "+@date-last-modified-at": "2026-02-19T13:43:13Z",
+    "+@date-last-updated-at": "2026-02-19T13:43:13Z"
 }

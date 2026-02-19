@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Journal with Witch",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-20T13:13:55Z",
+    "+@generated-on": "2026-02-19T13:43:07Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27721"
@@ -53,9 +53,34 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "3180571794",
+            "+@type": "Genres"
+        },
+        {
             "+content": "drama",
             "+@gid": "2134693757",
             "+@type": "Genres"
+        },
+        {
+            "+content": "psychological",
+            "+@gid": "2265271019",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "1534557140",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "school",
+            "+@gid": "1594886703",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "990984270",
+            "+@type": "Objectionable content"
         },
         {
             "+content": "35-year-old novelist Makio Kōdai and her 15-year-old niece Asa live together under one roof. Makio took Asa in on an impulse after Asa's parents, which included Makio's older sister, passed away. The next day, Makio returns to her senses and remembers that she does not do well in the company of other people. So begins their daily life, as Makio attempts to acclimate to a roommate, while Asa attempts to get used to an adult who never acts like one.",
@@ -91,8 +116,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "6"
+        "+@nb_votes": "6",
+        "+@weighted_score": "9.4105"
     },
     "news": [
         {
@@ -155,6 +180,14 @@
             }
         },
         {
+            "+@gid": "3007543775",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shinya Kawatsura",
+                "+@id": "15163"
+            }
+        },
+        {
             "+@gid": "3233763736",
             "task": "Storyboard",
             "person": {
@@ -171,11 +204,27 @@
             }
         },
         {
+            "+@gid": "667847544",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tomomi Kawatsuma",
+                "+@id": "166388"
+            }
+        },
+        {
             "+@gid": "2715050941",
             "task": "Storyboard",
             "person": {
                 "+content": "Ryōko Nakano",
                 "+@id": "176465"
+            }
+        },
+        {
+            "+@gid": "1238643672",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shinya Kawatsura",
+                "+@id": "15163"
             }
         },
         {
@@ -200,6 +249,22 @@
             "person": {
                 "+content": "Hisanori Kobayashi",
                 "+@id": "129919"
+            }
+        },
+        {
+            "+@gid": "2660994112",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tomomi Kawatsuma",
+                "+@id": "166388"
+            }
+        },
+        {
+            "+@gid": "3246398246",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Mitsuki Kitamura",
+                "+@id": "166419"
             }
         },
         {
@@ -304,6 +369,14 @@
             "person": {
                 "+content": "Kaede Aizawa",
                 "+@id": "153845"
+            }
+        },
+        {
+            "+@gid": "1587519966",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tomomi Kawatsuma",
+                "+@id": "166388"
             }
         },
         {
@@ -453,6 +526,6 @@
         }
     },
     "+@date-added": "2024-05-03T07:21:45Z",
-    "+@date-last-modified-at": "2026-01-20T13:13:58Z",
-    "+@date-last-updated-at": "2026-01-20T13:13:58Z"
+    "+@date-last-modified-at": "2026-02-19T13:43:13Z",
+    "+@date-last-updated-at": "2026-02-19T13:43:13Z"
 }
