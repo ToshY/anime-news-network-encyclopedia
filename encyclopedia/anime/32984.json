@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Rooster Fighter",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-20T02:30:15Z",
+    "+@generated-on": "2026-02-19T03:17:08Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25810"
@@ -13,19 +13,24 @@
         {
             "+@gid": "487804016",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32984-487804016.1751768366.jpg",
-            "+@width": "160",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32984-487804016.1770269528.jpg",
+            "+@width": "146",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32984-487804016.1751768366.jpg",
-                    "+@width": "160",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32984-487804016.1770269528.jpg",
+                    "+@width": "146",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32984-487804016.1751768366.jpg",
-                    "+@width": "480",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32984-487804016.1770269528.jpg",
+                    "+@width": "437",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A32984-487804016.1770269528.jpg",
+                    "+@width": "895",
+                    "+@height": "1228"
                 }
             ]
         },
@@ -62,7 +67,17 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026-04",
+            "+content": "2026-03-14 (USA, Toonami broadcast)",
+            "+@gid": "3243117016",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2026-03-15 (streaming on Disney+ / Hulu)",
+            "+@gid": "899488407",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2026-04-05 (Japan, TV broadcast)",
             "+@gid": "1155312378",
             "+@type": "Vintage"
         },
@@ -108,6 +123,16 @@
             "+content": "<cite>Rooster Fighter</cite> Anime Reveals English Dub Trailer, Cast",
             "+@datetime": "2025-10-10T20:30:53Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-10-10/rooster-fighter-anime-reveals-english-dub-trailer-cast/.229840"
+        },
+        {
+            "+content": "<cite>Rooster Fighter</cite> Anime's English Trailer Reveals March 14 Debut on Toonami",
+            "+@datetime": "2026-02-04T15:59:12Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-04/rooster-fighter-anime-english-trailer-reveals-march-14-debut-on-toonami/.233809"
+        },
+        {
+            "+content": "Disney+, Hulu to Stream <cite>Rooster Fighter</cite> Anime on March 15",
+            "+@datetime": "2026-02-19T00:00:05Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-18/disney-hulu-to-stream-rooster-fighter-anime-on-march-15/.234320"
         }
     ],
     "staff": [
@@ -120,11 +145,19 @@
             }
         },
         {
-            "+@gid": "2060945818",
-            "task": "Series Composition",
+            "+@gid": "2893161480",
+            "task": "Script",
             "person": {
                 "+content": "Hiroshi Seko",
                 "+@id": "78744"
+            }
+        },
+        {
+            "+@gid": "3466351003",
+            "task": "Music",
+            "person": {
+                "+content": "Tetsuya Takahashi",
+                "+@id": "42092"
             }
         },
         {
@@ -136,11 +169,51 @@
             }
         },
         {
-            "+@gid": "1322000859",
-            "task": "Producer",
+            "+@gid": "2971996659",
+            "task": "Character Design",
             "person": {
-                "+content": "Joseph Chou",
-                "+@id": "66834"
+                "+content": "Takuya Chanohara",
+                "+@id": "77899"
+            }
+        },
+        {
+            "+@gid": "3998887057",
+            "task": "Character Design",
+            "person": {
+                "+content": "Joseph Shin",
+                "+@id": "197009"
+            }
+        },
+        {
+            "+@gid": "2502473415",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yūji Noyama",
+                "+@id": "164385"
+            }
+        },
+        {
+            "+@gid": "1397510489",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Yukio Nagasaki",
+                "+@id": "3079"
+            }
+        },
+        {
+            "+@gid": "2162249072",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Keisuke Watanabe",
+                "+@id": "10627"
+            }
+        },
+        {
+            "+@gid": "2544225754",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Shōko Hayashi",
+                "+@id": "289609"
             }
         }
     ],
@@ -353,5 +426,6 @@
         }
     ],
     "+@date-added": "2024-07-25T18:30:30Z",
-    "+@date-last-updated-at": "2026-01-20T02:30:24Z"
+    "+@date-last-modified-at": "2026-02-19T03:17:13Z",
+    "+@date-last-updated-at": "2026-02-19T03:17:13Z"
 }
