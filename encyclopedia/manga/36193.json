@@ -2,12 +2,16 @@
     "+@id": "36193",
     "+@gid": "3270702540",
     "+@type": "manga",
-    "+@name": "Mouse Cursor de Genjitsu o Sōsa Dekiru Yō ni Natta node",
+    "+@name": "Click Me All Over",
     "+@precision": "manga",
-    "+@generated-on": "2026-01-20T04:58:12Z",
+    "+@generated-on": "2026-02-19T05:38:05Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "32969"
+    },
+    "related-next": {
+        "+@id": "38360",
+        "+@rel": "adaptation"
     },
     "info": [
         {
@@ -35,16 +39,16 @@
             ]
         },
         {
-            "+content": "Mouse Cursor de Genjitsu o Sōsa Dekiru Yō ni Natta node",
-            "+@gid": "1832273311",
-            "+@type": "Main title",
-            "+@lang": "JA"
-        },
-        {
             "+content": "Click Me All Over",
             "+@gid": "2161101799",
-            "+@type": "Alternative title",
+            "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Mouse Cursor de Genjitsu o Sōsa Dekiru Yō ni Natta node",
+            "+@gid": "1832273311",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
         },
         {
             "+content": "Mouse Cursor de Genjitsu o Sōsa Dekiru Yō ni Natta node, Onna no Ko o Ippai Click Shima~su",
@@ -64,9 +68,19 @@
             "+@type": "Genres"
         },
         {
+            "+content": "romance",
+            "+@gid": "2780318359",
+            "+@type": "Genres"
+        },
+        {
             "+content": "ecchi",
             "+@gid": "2987231624",
             "+@type": "Themes"
+        },
+        {
+            "+content": "Takumi, the nerdy outcast, harbors unrequited feelings for his first love, Mone, who treats him with disdain. During computer class, Takumi discovers that his mouse cursor extends beyond the screen and into the physical world. With this newfound power visible only to him, Takumi sees an opportunity for mischief. He uses the cursor to get revenge on Mone, clicking on sensitive areas and reveling in her reactions. But when an \"Intercourse\" button appears unexpectedly, Takumi is thrust into a reality he never imagined possible.",
+            "+@gid": "3528144232",
+            "+@type": "Plot Summary"
         },
         {
             "+content": "2024-03-28 (serialized on ComicFesta)",
@@ -74,6 +88,15 @@
             "+@type": "Vintage"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "1"
+    },
+    "news": {
+        "+content": "<i>Click Me All Over</i> Romance Manga Gets AnimeFesta TV Anime",
+        "+@datetime": "2026-01-24T14:11:22Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-01-24/click-me-all-over-romance-manga-gets-animefesta-tv-anime/.233433"
+    },
     "staff": {
         "+@gid": "1856661247",
         "task": "Story & Art",
@@ -83,5 +106,6 @@
         }
     },
     "+@date-added": "2025-05-20T08:24:42Z",
-    "+@date-last-updated-at": "2026-01-20T04:58:14Z"
+    "+@date-last-modified-at": "2026-02-19T05:38:06Z",
+    "+@date-last-updated-at": "2026-02-19T05:38:06Z"
 }

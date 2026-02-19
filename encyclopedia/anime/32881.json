@@ -4,15 +4,21 @@
     "+@type": "omnibus",
     "+@name": "Monogatari Series: Family Season",
     "+@precision": "omnibus",
-    "+@generated-on": "2026-01-20T04:58:12Z",
+    "+@generated-on": "2026-02-19T05:38:10Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "32876"
     },
-    "related-next": {
-        "+@id": "32903",
-        "+@rel": "part"
-    },
+    "related-next": [
+        {
+            "+@id": "32903",
+            "+@rel": "part"
+        },
+        {
+            "+@id": "38378",
+            "+@rel": "part"
+        }
+    ],
     "info": {
         "+content": "Monogatari Series: Family Season",
         "+@gid": "2111134706",
@@ -20,5 +26,6 @@
         "+@lang": "EN"
     },
     "+@date-added": "2024-07-06T20:29:03Z",
-    "+@date-last-updated-at": "2026-01-20T04:58:15Z"
+    "+@date-last-modified-at": "2026-02-19T05:38:16Z",
+    "+@date-last-updated-at": "2026-02-19T05:38:16Z"
 }
