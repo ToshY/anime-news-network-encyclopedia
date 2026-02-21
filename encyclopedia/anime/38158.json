@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Chainsaw Man Assassins Arc",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-22T02:34:43Z",
+    "+@generated-on": "2026-02-21T02:00:11Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "31068"
@@ -60,14 +60,33 @@
             "+@href": "https://chainsawman.dog/assassin/"
         }
     ],
-    "staff": {
-        "+@gid": "2359386815",
-        "task": "Original creator",
-        "person": {
-            "+content": "Tatsuki Fujimoto",
-            "+@id": "159143"
+    "staff": [
+        {
+            "+@gid": "2359386815",
+            "task": "Original creator",
+            "person": {
+                "+content": "Tatsuki Fujimoto",
+                "+@id": "159143"
+            }
+        },
+        {
+            "+@gid": "2978380344",
+            "task": "Character Design",
+            "person": {
+                "+content": "Kazutaka Sugiyama",
+                "+@id": "137164"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2355040848",
+        "task": "Animation Production",
+        "company": {
+            "+content": "MAPPA",
+            "+@id": "10189"
         }
     },
     "+@date-added": "2025-12-21T04:13:47Z",
-    "+@date-last-updated-at": "2026-01-22T02:34:47Z"
+    "+@date-last-modified-at": "2026-02-21T02:48:58Z",
+    "+@date-last-updated-at": "2026-02-21T02:48:58Z"
 }

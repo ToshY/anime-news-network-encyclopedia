@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Hell's Paradise",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-01-21T20:48:55Z",
+    "+@generated-on": "2026-02-21T02:48:54Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "23963"
@@ -177,8 +177,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "7.8114"
+        "+@nb_votes": "5",
+        "+@weighted_score": "8.264"
     },
     "episode": [
         {
@@ -194,6 +194,38 @@
             "title": {
                 "+content": "Reality and Fantasy",
                 "+@gid": "1732430707",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "16",
+            "title": {
+                "+content": "Immutability and Change",
+                "+@gid": "2163662653",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "17",
+            "title": {
+                "+content": "The Samurai Code and Carnage",
+                "+@gid": "373936783",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "18",
+            "title": {
+                "+content": "Humans and Sages",
+                "+@gid": "3292394730",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "19",
+            "title": {
+                "+content": "Hindering and Restoration",
+                "+@gid": "2168774166",
                 "+@lang": "EN"
             }
         }
@@ -238,6 +270,16 @@
             "+content": "<cite>Hell's Paradise: Jigokuraku</cite> Season 2's New Video Unveils Queen Bee's Ending Song",
             "+@datetime": "2026-01-07T11:05:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-01-07/hell-paradise-jigokuraku-season-2-new-video-unveils-queen-bee-ending-song/.232806"
+        },
+        {
+            "+content": "<cite>Dead Account</cite>, <cite>In the Clear Moonlit Dusk</cite>, More Anime's English Dub Cast Revealed",
+            "+@datetime": "2026-01-26T05:25:26Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-26/dead-account-in-the-clear-moonlit-dusk-more-anime-english-dub-cast-revealed/.233459"
+        },
+        {
+            "+content": "<cite>Hell's Paradise: Jigokuraku</cite> Season 2 Casts Ayumu Murase as Shija",
+            "+@datetime": "2026-02-01T16:38:27Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-01/hell-paradise-jigokuraku-season-2-casts-ayumu-murase-as-shija/.233709"
         }
     ],
     "staff": [
@@ -324,6 +366,474 @@
     ],
     "cast": [
         {
+            "+@gid": "1643986824",
+            "+@lang": "DE",
+            "role": "Chobei",
+            "person": {
+                "+content": "Tim Sander",
+                "+@id": "23116"
+            }
+        },
+        {
+            "+@gid": "914368646",
+            "+@lang": "DE",
+            "role": "Sagiri Yamada Asaemon",
+            "person": {
+                "+content": "Victoria Frenz",
+                "+@id": "27473"
+            }
+        },
+        {
+            "+@gid": "1645108412",
+            "+@lang": "DE",
+            "role": "Gantetsusai Tamiya",
+            "person": {
+                "+content": "Torsten Münchow",
+                "+@id": "28924"
+            }
+        },
+        {
+            "+@gid": "2762001900",
+            "+@lang": "DE",
+            "role": "Jikka Yamada Asaemon",
+            "person": {
+                "+content": "Matthias Deutelmoser",
+                "+@id": "33397"
+            }
+        },
+        {
+            "+@gid": "2165106185",
+            "+@lang": "DE",
+            "role": "Toma Yamada Asaemon",
+            "person": {
+                "+content": "Patrick Keller",
+                "+@id": "121003"
+            }
+        },
+        {
+            "+@gid": "3981344140",
+            "+@lang": "DE",
+            "role": "Gabimaru",
+            "person": {
+                "+content": "Nicolas Rathod",
+                "+@id": "183873"
+            }
+        },
+        {
+            "+@gid": "2950486984",
+            "+@lang": "DE",
+            "role": "Shugen Yamada Asaemon",
+            "person": {
+                "+content": "Daniel Fehlow",
+                "+@id": "198270"
+            }
+        },
+        {
+            "+@gid": "2817532122",
+            "+@lang": "EN",
+            "role": "Isuzu Yamada Asaemon",
+            "person": {
+                "+content": "Kara Edwards",
+                "+@id": "4218"
+            }
+        },
+        {
+            "+@gid": "2384009272",
+            "+@lang": "EN",
+            "role": "Gantetsusai Tamiya",
+            "person": {
+                "+content": "Phil Parsons",
+                "+@id": "10794"
+            }
+        },
+        {
+            "+@gid": "3121375401",
+            "+@lang": "EN",
+            "role": "Tensen",
+            "person": {
+                "+content": "Ian Sinclair",
+                "+@id": "42612"
+            }
+        },
+        {
+            "+@gid": "4006814895",
+            "+@lang": "EN",
+            "role": "Tensen",
+            "person": {
+                "+content": "Michelle Rojas",
+                "+@id": "115434"
+            }
+        },
+        {
+            "+@gid": "1055039159",
+            "+@lang": "EN",
+            "role": "Fuchi Yamada Asaemon",
+            "person": {
+                "+content": "Justin Briner",
+                "+@id": "130749"
+            }
+        },
+        {
+            "+@gid": "3263628604",
+            "+@lang": "EN",
+            "role": "Toma Yamada Asaemon",
+            "person": {
+                "+content": "Matt Shipman",
+                "+@id": "134957"
+            }
+        },
+        {
+            "+@gid": "2877891652",
+            "+@lang": "EN",
+            "role": "Yuzuriha",
+            "person": {
+                "+content": "Jill Harris",
+                "+@id": "138979"
+            }
+        },
+        {
+            "+@gid": "3341591363",
+            "+@lang": "EN",
+            "role": "Gabimaru",
+            "person": {
+                "+content": "Alejandro Saab",
+                "+@id": "144413"
+            }
+        },
+        {
+            "+@gid": "1973652833",
+            "+@lang": "EN",
+            "role": "Shugen Yamada Asaemon",
+            "person": {
+                "+content": "Landon McDonald",
+                "+@id": "148198"
+            }
+        },
+        {
+            "+@gid": "1656370084",
+            "+@lang": "EN",
+            "role": "Sagiri Yamada Asaemon",
+            "person": {
+                "+content": "Marisa Duran",
+                "+@id": "154417"
+            }
+        },
+        {
+            "+@gid": "1448756499",
+            "+@lang": "EN",
+            "role": "Chobe Aza",
+            "person": {
+                "+content": "Nazeeh Tarsha",
+                "+@id": "158692"
+            }
+        },
+        {
+            "+@gid": "1506641679",
+            "+@lang": "EN",
+            "role": "Jikka Yamada Asaemon",
+            "person": {
+                "+content": "SungWon Cho",
+                "+@id": "164450"
+            }
+        },
+        {
+            "+@gid": "2983969206",
+            "+@lang": "EN",
+            "role": "Mei",
+            "person": {
+                "+content": "Macy Anne Johnson",
+                "+@id": "165232"
+            }
+        },
+        {
+            "+@gid": "1054609836",
+            "+@lang": "EN",
+            "role": "Shija",
+            "person": {
+                "+content": "Hayden Daviau",
+                "+@id": "174838"
+            }
+        },
+        {
+            "+@gid": "3217674878",
+            "+@lang": "EN",
+            "role": "Shion Yamada Asaemon",
+            "person": {
+                "+content": "Reagan Murdock",
+                "+@id": "176327"
+            }
+        },
+        {
+            "+@gid": "3223160841",
+            "+@lang": "EN",
+            "role": "Nurugai",
+            "person": {
+                "+content": "Cassie Ewulu",
+                "+@id": "178360"
+            }
+        },
+        {
+            "+@gid": "1066791307",
+            "+@lang": "EN",
+            "role": "Kiyomaru Yamada Asaemon",
+            "person": {
+                "+content": "Elizabeth Hohman",
+                "+@id": "274339"
+            }
+        },
+        {
+            "+@gid": "2445785365",
+            "+@lang": "ES",
+            "role": "Yuzuriha",
+            "person": {
+                "+content": "Jessica Angeles",
+                "+@id": "36810"
+            }
+        },
+        {
+            "+@gid": "2042541916",
+            "+@lang": "ES",
+            "role": "Gantelsusai",
+            "person": {
+                "+content": "Octavio Rojas",
+                "+@id": "38779"
+            }
+        },
+        {
+            "+@gid": "2222970477",
+            "+@lang": "ES",
+            "role": "Gabimaru \"El vacío\" Iwakure",
+            "person": {
+                "+content": "Javier Olguín",
+                "+@id": "50673"
+            }
+        },
+        {
+            "+@gid": "1897587231",
+            "+@lang": "ES",
+            "role": "Nurugai",
+            "person": {
+                "+content": "Susana Moreno",
+                "+@id": "57846"
+            }
+        },
+        {
+            "+@gid": "1380104773",
+            "+@lang": "ES",
+            "role": "Zhu Jin",
+            "person": {
+                "+content": "Mildred Barrera",
+                "+@id": "73422"
+            }
+        },
+        {
+            "+@gid": "2270541611",
+            "+@lang": "ES",
+            "role": "Rien",
+            "person": {
+                "+content": "Arturo Cataño",
+                "+@id": "98489"
+            }
+        },
+        {
+            "+@gid": "2439339582",
+            "+@lang": "ES",
+            "role": "Chobee",
+            "person": {
+                "+content": "Marc Winslow",
+                "+@id": "119690"
+            }
+        },
+        {
+            "+@gid": "3179900393",
+            "+@lang": "ES",
+            "role": "Toma Yamada Asaemon",
+            "person": {
+                "+content": "Alberto Bernal",
+                "+@id": "148365"
+            }
+        },
+        {
+            "+@gid": "1642877868",
+            "+@lang": "ES",
+            "role": "Tao Fa",
+            "person": {
+                "+content": "Montserrat Aguilar",
+                "+@id": "150279"
+            }
+        },
+        {
+            "+@gid": "2432887334",
+            "+@lang": "ES",
+            "role": "Shion Yamada Asaemon",
+            "person": {
+                "+content": "Dave Ramos",
+                "+@id": "161967"
+            }
+        },
+        {
+            "+@gid": "1929932501",
+            "+@lang": "ES",
+            "role": "Fuchi Yamada Asaemon",
+            "person": {
+                "+content": "Diego Becerril",
+                "+@id": "171065"
+            }
+        },
+        {
+            "+@gid": "2067380368",
+            "+@lang": "ES",
+            "role": "Mei",
+            "person": {
+                "+content": "Casandra Acevedo",
+                "+@id": "177169"
+            }
+        },
+        {
+            "+@gid": "3524827392",
+            "+@lang": "ES",
+            "role": "Sagiri Yamada Asaemon",
+            "person": {
+                "+content": "Alexa Navarro",
+                "+@id": "208104"
+            }
+        },
+        {
+            "+@gid": "862676485",
+            "+@lang": "ES",
+            "role": "Shugen Yamada Asaemon",
+            "person": {
+                "+content": "Ángel Mota",
+                "+@id": "237353"
+            }
+        },
+        {
+            "+@gid": "2258087308",
+            "+@lang": "FR",
+            "role": "Aza Chôbe",
+            "person": {
+                "+content": "Arthur Pestel",
+                "+@id": "38726"
+            }
+        },
+        {
+            "+@gid": "2278842825",
+            "+@lang": "FR",
+            "role": "Yamada Asaemon Tōma",
+            "person": {
+                "+content": "Hervé Grull",
+                "+@id": "40001"
+            }
+        },
+        {
+            "+@gid": "2348110079",
+            "+@lang": "FR",
+            "role": "Gabimaru Iwagakure",
+            "person": {
+                "+content": "Yoann Sover",
+                "+@id": "53258"
+            }
+        },
+        {
+            "+@gid": "1338797462",
+            "+@lang": "FR",
+            "role": "Shugen Yamada Asaemon",
+            "person": {
+                "+content": "Antoine Schoumsky",
+                "+@id": "69920"
+            }
+        },
+        {
+            "+@gid": "1806356995",
+            "+@lang": "FR",
+            "role": "Fuchi Yamada Asaemon",
+            "person": {
+                "+content": "Thomas Sagols",
+                "+@id": "85935"
+            }
+        },
+        {
+            "+@gid": "2140281737",
+            "+@lang": "FR",
+            "role": "Éternels",
+            "person": {
+                "+content": "Alice Orsat",
+                "+@id": "109045"
+            }
+        },
+        {
+            "+@gid": "3831673191",
+            "+@lang": "FR",
+            "role": "Mei",
+            "person": {
+                "+content": "Charlotte Hennequin",
+                "+@id": "147417"
+            }
+        },
+        {
+            "+@gid": "1305127389",
+            "+@lang": "FR",
+            "role": "Éternels",
+            "person": {
+                "+content": "Aurélien Raynal",
+                "+@id": "173843"
+            }
+        },
+        {
+            "+@gid": "2196435218",
+            "+@lang": "FR",
+            "role": "Sagiri Yamada Asaemon",
+            "person": {
+                "+content": "Kaïna Blada",
+                "+@id": "177876"
+            }
+        },
+        {
+            "+@gid": "2383316062",
+            "+@lang": "FR",
+            "role": "Jikka Yamada Asaemon",
+            "person": {
+                "+content": "Yann Sundberg",
+                "+@id": "182138"
+            }
+        },
+        {
+            "+@gid": "2137404504",
+            "+@lang": "FR",
+            "role": "Shion Yamada Asaemon",
+            "person": {
+                "+content": "Simon Herlin",
+                "+@id": "197938"
+            }
+        },
+        {
+            "+@gid": "1715326781",
+            "+@lang": "FR",
+            "role": "Yuzuriha",
+            "person": {
+                "+content": "Charlotte Hervieux",
+                "+@id": "199384"
+            }
+        },
+        {
+            "+@gid": "2263545486",
+            "+@lang": "FR",
+            "role": "Tamiya Gantetsusai",
+            "person": {
+                "+content": "Mario Bastelica",
+                "+@id": "210153"
+            }
+        },
+        {
+            "+@gid": "1949193077",
+            "+@lang": "FR",
+            "role": "Nurugai",
+            "person": {
+                "+content": "Mathilde Carmes",
+                "+@id": "215844"
+            }
+        },
+        {
             "+@gid": "2292238984",
             "+@lang": "JA",
             "role": "Yamada Asaemon Isuzu",
@@ -393,6 +903,15 @@
             "person": {
                 "+content": "Maaya Uchida",
                 "+@id": "94314"
+            }
+        },
+        {
+            "+@gid": "893479303",
+            "+@lang": "JA",
+            "role": "Shija",
+            "person": {
+                "+content": "Ayumu Murase",
+                "+@id": "113308"
             }
         },
         {
@@ -477,6 +996,6 @@
         }
     },
     "+@date-added": "2023-07-01T17:04:59Z",
-    "+@date-last-modified-at": "2026-01-21T20:48:56Z",
-    "+@date-last-updated-at": "2026-01-21T20:48:56Z"
+    "+@date-last-modified-at": "2026-02-21T02:48:58Z",
+    "+@date-last-updated-at": "2026-02-21T02:48:58Z"
 }
