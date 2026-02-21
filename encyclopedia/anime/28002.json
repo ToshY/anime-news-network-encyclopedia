@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "Girls Band Cry",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-22T04:59:10Z",
-    "related-next": {
-        "+@id": "33520",
-        "+@rel": "compilation"
-    },
+    "+@generated-on": "2026-02-21T08:48:56Z",
+    "related-next": [
+        {
+            "+@id": "33520",
+            "+@rel": "compilation"
+        },
+        {
+            "+@id": "38351",
+            "+@rel": "adaptation"
+        }
+    ],
     "info": [
         {
             "+@gid": "2021726689",
@@ -76,8 +82,8 @@
     ],
     "ratings": {
         "+@nb_votes": "143",
-        "+@weighted_score": "7.9905",
-        "+@bayesian_score": "7.95035"
+        "+@weighted_score": "7.9906",
+        "+@bayesian_score": "7.95042"
     },
     "episode": [
         {
@@ -274,6 +280,11 @@
             "+content": "<cite>Girls Band Cry</cite> Anime Gets Webtoon Adaptation",
             "+@datetime": "2025-12-11T16:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-12-11/girls-band-cry-anime-gets-webtoon-adaptation/.231906"
+        },
+        {
+            "+content": "<cite>Girls Band Cry</cite> Anime Gets Manga on January 30",
+            "+@datetime": "2026-01-24T05:30:44Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-24/girls-band-cry-anime-gets-manga-on-january-30/.233420"
         }
     ],
     "staff": [
@@ -617,6 +628,6 @@
         }
     },
     "+@date-added": "2023-04-24T05:22:21Z",
-    "+@date-last-modified-at": "2026-01-22T04:59:14Z",
-    "+@date-last-updated-at": "2026-01-22T04:59:14Z"
+    "+@date-last-modified-at": "2026-02-21T08:49:01Z",
+    "+@date-last-updated-at": "2026-02-21T08:49:01Z"
 }
