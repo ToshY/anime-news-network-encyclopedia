@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe",
     "+@precision": "movie",
-    "+@generated-on": "2026-01-23T16:49:55Z",
+    "+@generated-on": "2026-02-22T20:44:31Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "22960"
@@ -48,6 +48,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "drama",
+            "+@gid": "1810525209",
+            "+@type": "Genres"
+        },
+        {
             "+content": "science fiction",
             "+@gid": "2125131704",
             "+@type": "Genres"
@@ -55,6 +60,21 @@
         {
             "+content": "mecha",
             "+@gid": "1519882004",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "military",
+            "+@gid": "1763262450",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "politics",
+            "+@gid": "1448218267",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "terrorism",
+            "+@gid": "3998531562",
             "+@type": "Themes"
         },
         {
@@ -72,6 +92,11 @@
             "+@type": "Opening Theme"
         },
         {
+            "+content": "\"Sweet Child o’ Mine\" by Guns N’ Roses",
+            "+@gid": "3031429763",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』公式サイト",
             "+@gid": "1611402403",
             "+@type": "Official website",
@@ -79,6 +104,10 @@
             "+@href": "https://gundam-official.com/hathaway/"
         }
     ],
+    "review": {
+        "+content": "<cite>Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe</cite> Anime Film Review",
+        "+@href": "https://www.animenewsnetwork.com/review/mobile-suit-gundam-hathaway/the-sorcery-of-nymph-circe-anime-film/.233634"
+    },
     "news": [
         {
             "+content": "2nd <i>Gundam Hathaway</i> Film's Teaser Announces Staff, Title, Winter Debut",
@@ -114,6 +143,26 @@
             "+content": "2nd <cite>Gundam Hathaway</cite> Film's Special Trailer Reveals Opening Song by R&B Artist SZA",
             "+@datetime": "2026-01-15T19:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-01-15/2nd-gundam-hathaway-film-special-trailer-reveals-opening-song-by-r-b-artist-sza/.233114"
+        },
+        {
+            "+content": "2nd <cite>Gundam Hathaway</cite> Film's Ending Song Is Guns N' Roses' 'Sweet Child o' Mine'",
+            "+@datetime": "2026-01-30T03:40:44Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-29/2nd-gundam-hathaway-film-ending-song-is-guns-n-roses-sweet-child-o-mine/.233633"
+        },
+        {
+            "+content": "2nd <cite>Gundam Hathaway</cite> Film Opens at #1, <cite>The Camphorwood Custodian</cite> Anime Film at #3",
+            "+@datetime": "2026-02-05T11:24:05Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-05/2nd-gundam-hathaway-film-opens-at-no.1-the-camphorwood-custodian-anime-film-at-no.3/.233773"
+        },
+        {
+            "+content": "2nd <cite>Gundam Hathaway</cite> Film Drops to #2 in Japan, <i>Milky☆Subway</i> Opens at #4",
+            "+@datetime": "2026-02-12T08:32:12Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-12/2nd-gundam-hathaway-film-drops-to-no.2-in-japan-milky-subway-opens-at-no.4/.233995"
+        },
+        {
+            "+content": "<cite>Gintama</cite> 'Yoshiwara in Flames' Compilation Film Opens at #2, <cite>The Dangers in My Heart</cite> Anime at #6",
+            "+@datetime": "2026-02-19T07:01:06Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-19/gintama-yoshiwara-in-flames-compilation-film-opens-at-no.2-the-dangers-in-my-heart-anime-at-no.6/.234261"
         }
     ],
     "staff": [
@@ -131,6 +180,70 @@
             "person": {
                 "+content": "Yasuyuki Mutō",
                 "+@id": "10527"
+            }
+        },
+        {
+            "+@gid": "256692361",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hiroyuki Okiura",
+                "+@id": "28"
+            }
+        },
+        {
+            "+@gid": "1770955564",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shinichirō Watanabe",
+                "+@id": "774"
+            }
+        },
+        {
+            "+@gid": "3197469710",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shūkō Murase",
+                "+@id": "72892"
+            }
+        },
+        {
+            "+@gid": "545216800",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kotomi Deai",
+                "+@id": "92079"
+            }
+        },
+        {
+            "+@gid": "2625138591",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Yuuji Kumazawa",
+                "+@id": "59661"
+            }
+        },
+        {
+            "+@gid": "1548605305",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Taisuke Mori",
+                "+@id": "134330"
+            }
+        },
+        {
+            "+@gid": "2004231588",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Yoshiyuki Kaneko",
+                "+@id": "179982"
+            }
+        },
+        {
+            "+@gid": "1135405673",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Yohei Shindo",
+                "+@id": "184878"
             }
         },
         {
@@ -195,6 +308,46 @@
             "person": {
                 "+content": "Kinichi Okubo",
                 "+@id": "35315"
+            }
+        },
+        {
+            "+@gid": "1089284478",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Naoyuki Onda",
+                "+@id": "1279"
+            }
+        },
+        {
+            "+@gid": "2749774096",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Shigeki Kuhara",
+                "+@id": "3473"
+            }
+        },
+        {
+            "+@gid": "735151177",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Hirotoshi Takaya",
+                "+@id": "3631"
+            }
+        },
+        {
+            "+@gid": "2899661767",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Iwao Teraoka",
+                "+@id": "14480"
+            }
+        },
+        {
+            "+@gid": "1884284250",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Shinpei Sawa",
+                "+@id": "76987"
             }
         },
         {
@@ -401,6 +554,6 @@
         }
     ],
     "+@date-added": "2025-06-26T08:50:57Z",
-    "+@date-last-modified-at": "2026-01-23T16:49:58Z",
-    "+@date-last-updated-at": "2026-01-23T16:49:58Z"
+    "+@date-last-modified-at": "2026-02-22T20:44:39Z",
+    "+@date-last-updated-at": "2026-02-22T20:44:39Z"
 }

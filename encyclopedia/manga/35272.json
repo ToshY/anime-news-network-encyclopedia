@@ -2,9 +2,9 @@
     "+@id": "35272",
     "+@gid": "3173919559",
     "+@type": "manga",
-    "+@name": "Mii-chan to Yamada-san",
+    "+@name": "Mii-chan and Yamada-san",
     "+@precision": "manga",
-    "+@generated-on": "2026-01-23T16:49:54Z",
+    "+@generated-on": "2026-02-22T20:44:29Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "24256"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "Mii-chan and Yamada-san",
+            "+@gid": "1697852600",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Mii-chan to Yamada-san",
             "+@gid": "1929553138",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -64,11 +70,18 @@
             "+@href": "https://pocket.shonenmagazine.com/episode/2550912964519016240"
         }
     ],
-    "news": {
-        "+content": "Kono Manga ga Sugoi! Editors Unveil Full List of Top 2026 Manga",
-        "+@datetime": "2025-12-22T21:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-12-22/kono-manga-ga-sugoi-editors-unveil-full-list-of-top-2026-manga/.232368"
-    },
+    "news": [
+        {
+            "+content": "Kono Manga ga Sugoi! Editors Unveil Full List of Top 2026 Manga",
+            "+@datetime": "2025-12-22T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-22/kono-manga-ga-sugoi-editors-unveil-full-list-of-top-2026-manga/.232368"
+        },
+        {
+            "+content": "Seven Seas Licenses <cite>Love Tattoo, Mii-chan and Yamada-san,</cite> 7 More Titles",
+            "+@datetime": "2026-01-29T02:04:03Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-28/seven-seas-licenses-love-tattoo-mii-chan-and-yamada-san-7-more-titles/.233582"
+        }
+    ],
     "staff": {
         "+@gid": "3172980231",
         "task": "Story & Art",
@@ -78,5 +91,6 @@
         }
     },
     "+@date-added": "2025-03-21T07:24:02Z",
-    "+@date-last-updated-at": "2026-01-23T16:49:56Z"
+    "+@date-last-modified-at": "2026-02-22T20:44:31Z",
+    "+@date-last-updated-at": "2026-02-22T20:44:31Z"
 }
