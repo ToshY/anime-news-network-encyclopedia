@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Ghost Cat Anzu",
     "+@precision": "movie",
-    "+@generated-on": "2026-01-23T02:30:17Z",
+    "+@generated-on": "2026-02-22T05:30:42Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26403"
@@ -97,8 +97,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "11",
-        "+@weighted_score": "6.8978"
+        "+@nb_votes": "12",
+        "+@weighted_score": "6.8794",
+        "+@bayesian_score": "7.1755"
     },
     "review": {
         "+content": "<cite>Ghost Cat Anzu</cite> Anime Movie Review",
@@ -560,6 +561,15 @@
             }
         },
         {
+            "+@gid": "2749656268",
+            "+@lang": "IT",
+            "role": "Anzu",
+            "person": {
+                "+content": "Maurizio Merluzzo",
+                "+@id": "74590"
+            }
+        },
+        {
             "+@gid": "321671469",
             "+@lang": "JA",
             "role": "Oshō",
@@ -633,6 +643,6 @@
         }
     ],
     "+@date-added": "2022-10-03T22:32:41Z",
-    "+@date-last-modified-at": "2026-01-23T02:30:20Z",
-    "+@date-last-updated-at": "2026-01-23T02:30:20Z"
+    "+@date-last-modified-at": "2026-02-22T05:30:47Z",
+    "+@date-last-updated-at": "2026-02-22T05:30:47Z"
 }
