@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Witch Hat Atelier",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-24T02:25:26Z",
+    "+@generated-on": "2026-02-23T05:44:20Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "21181"
@@ -24,6 +24,25 @@
                 },
                 {
                     "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A25496-1178568927.1760047402.jpg",
+                    "+@width": "425",
+                    "+@height": "600"
+                }
+            ]
+        },
+        {
+            "+@gid": "2612404340",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25496-2612404340.1771589696.jpg",
+            "+@width": "142",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A25496-2612404340.1771589696.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A25496-2612404340.1771589696.jpg",
                     "+@width": "425",
                     "+@height": "600"
                 }
@@ -62,9 +81,19 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026-04",
+            "+content": "2026-04-06",
             "+@gid": "3559387545",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Kaze no Anthem\" (Anthem of Wind) by Eve feat. suis",
+            "+@gid": "1255888696",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Tada Utsukushii no Noroi\" (Just a Beautiful Curse) by Nakamura Hak",
+            "+@gid": "2134368651",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ「とんがり帽子のアトリエ」",
@@ -101,6 +130,11 @@
             "+content": "<cite>Witch Hat Atelier</cite> Anime's Teaser Reveals Cast, More Staff, April 2026 Debut",
             "+@datetime": "2025-11-18T11:08:12Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-11-18/witch-hat-atelier-anime-teaser-reveals-cast-more-staff-april-2026-debut/.231159"
+        },
+        {
+            "+content": "<cite>Witch Hat Atelier</cite> Anime's Promo Video Reveals April 6 Debut, 6 More Cast Members, Theme Song Artists",
+            "+@datetime": "2026-02-20T11:52:05Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-20/witch-hat-atelier-anime-promo-video-reveals-april-6-debut-6-more-cast-members-theme-song-artists/.234382"
         }
     ],
     "staff": [
@@ -115,6 +149,14 @@
         {
             "+@gid": "2283197586",
             "task": "Series Composition",
+            "person": {
+                "+content": "Hiroshi Seko",
+                "+@id": "78744"
+            }
+        },
+        {
+            "+@gid": "1001445711",
+            "task": "Script",
             "person": {
                 "+content": "Hiroshi Seko",
                 "+@id": "78744"
@@ -153,6 +195,14 @@
             }
         },
         {
+            "+@gid": "1648405798",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Kisuke Koizumi",
+                "+@id": "30629"
+            }
+        },
+        {
             "+@gid": "2257928774",
             "task": "Director of Photography",
             "person": {
@@ -163,6 +213,42 @@
     ],
     "cast": [
         {
+            "+@gid": "1969742625",
+            "+@lang": "JA",
+            "role": "Iguin",
+            "person": {
+                "+content": "Mitsuki Saiga",
+                "+@id": "411"
+            }
+        },
+        {
+            "+@gid": "1507361738",
+            "+@lang": "JA",
+            "role": "Olruggio",
+            "person": {
+                "+content": "Yūichi Nakamura",
+                "+@id": "15878"
+            }
+        },
+        {
+            "+@gid": "4210775265",
+            "+@lang": "JA",
+            "role": "Agott",
+            "person": {
+                "+content": "Hibiku Yamamura",
+                "+@id": "81692"
+            }
+        },
+        {
+            "+@gid": "1784032955",
+            "+@lang": "JA",
+            "role": "Brushbuddy",
+            "person": {
+                "+content": "Misaki Kuno",
+                "+@id": "85915"
+            }
+        },
+        {
             "+@gid": "3691566845",
             "+@lang": "JA",
             "role": "Qifrey",
@@ -172,12 +258,30 @@
             }
         },
         {
+            "+@gid": "688238244",
+            "+@lang": "JA",
+            "role": "Richeh",
+            "person": {
+                "+content": "Hika Tsukishiro",
+                "+@id": "222908"
+            }
+        },
+        {
             "+@gid": "3212230197",
             "+@lang": "JA",
             "role": "Coco",
             "person": {
                 "+content": "Rena Motomura",
                 "+@id": "223889"
+            }
+        },
+        {
+            "+@gid": "2383725982",
+            "+@lang": "JA",
+            "role": "Tetia",
+            "person": {
+                "+content": "Kurumi Haruki",
+                "+@id": "293998"
             }
         }
     ],
@@ -190,5 +294,6 @@
         }
     },
     "+@date-added": "2022-04-05T22:10:24Z",
-    "+@date-last-updated-at": "2026-01-24T02:25:29Z"
+    "+@date-last-modified-at": "2026-02-23T05:44:22Z",
+    "+@date-last-updated-at": "2026-02-23T05:44:22Z"
 }
