@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "High Card",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-24T04:49:08Z",
+    "+@generated-on": "2026-02-23T09:08:36Z",
     "related-next": {
         "+@id": "27640",
         "+@rel": "sequel"
@@ -70,8 +70,8 @@
     ],
     "ratings": {
         "+@nb_votes": "91",
-        "+@weighted_score": "6.2235",
-        "+@bayesian_score": "6.36893"
+        "+@weighted_score": "6.2234",
+        "+@bayesian_score": "6.36882"
     },
     "episode": [
         {
@@ -357,6 +357,14 @@
             }
         },
         {
+            "+@gid": "2508358848",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shin Mita",
+                "+@id": "292185"
+            }
+        },
+        {
             "+@gid": "2274626219",
             "task": "Episode Director",
             "person": {
@@ -418,6 +426,14 @@
             "person": {
                 "+content": "Yōhei Fukui",
                 "+@id": "291808"
+            }
+        },
+        {
+            "+@gid": "1260799933",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shin Mita",
+                "+@id": "292185"
             }
         },
         {
@@ -908,6 +924,6 @@
         }
     ],
     "+@date-added": "2022-03-08T04:24:17Z",
-    "+@date-last-modified-at": "2026-01-24T04:49:09Z",
-    "+@date-last-updated-at": "2026-01-24T04:49:09Z"
+    "+@date-last-modified-at": "2026-02-23T09:08:38Z",
+    "+@date-last-updated-at": "2026-02-23T09:08:38Z"
 }
