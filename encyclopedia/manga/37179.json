@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "My Dress-Up Darling XOXO!",
     "+@precision": "manga",
-    "+@generated-on": "2026-01-24T20:35:04Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "3089"
-    },
+    "+@generated-on": "2026-02-23T21:03:08Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "3089"
+        },
+        {
+            "+@rel": "spinoff of",
+            "+@id": "22520"
+        }
+    ],
     "info": [
         {
             "+@gid": "2662529657",
@@ -98,6 +104,11 @@
             "+content": "Manga Up! Global Adds <cite>My Dress-Up Darling XOXO!</cite>, 3 More Manga",
             "+@datetime": "2025-11-27T15:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-11-27/manga-up-global-adds-my-dress-up-darling-xoxo-3-more-manga/.231323"
+        },
+        {
+            "+content": "Square Enix Manga & Books Licenses <cite>Apothecary Diaries: Xiaolan's Story</cite>, 8 More Titles",
+            "+@datetime": "2026-02-19T03:14:34Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-18/square-enix-manga-and-books-licenses-apothecary-diaries-xiaolan-story-8-more-titles/.234321"
         }
     ],
     "staff": [
@@ -119,5 +130,6 @@
         }
     ],
     "+@date-added": "2025-07-26T00:06:47Z",
-    "+@date-last-updated-at": "2026-01-24T20:35:06Z"
+    "+@date-last-modified-at": "2026-02-23T21:03:09Z",
+    "+@date-last-updated-at": "2026-02-23T21:03:09Z"
 }
