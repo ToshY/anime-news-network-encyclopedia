@@ -4,7 +4,11 @@
     "+@type": "movie",
     "+@name": "Kimi to Hanabi to Yakusoku to",
     "+@precision": "movie",
-    "+@generated-on": "2026-01-25T02:00:03Z",
+    "+@generated-on": "2026-02-24T03:15:28Z",
+    "related-prev": {
+        "+@rel": "adapted from",
+        "+@id": "38361"
+    },
     "info": [
         {
             "+@gid": "3591049538",
@@ -37,10 +41,25 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Kimi-Hana",
+            "+@gid": "1707898269",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
             "+content": "君と花火と約束と",
             "+@gid": "1978499541",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "2170615153",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "The Nagaoka Festival Grand Fireworks Show is one of Japan's three major fireworks shows, which draws several hundred thousand visitors to Niigata Prefecture every year. What connects Makoto (a Tokyo high school boy without social skills or self-confidence) and Aki (a popular high school girl and class president with beauty and talent) is a drawing of a fireworks display. At the mercy of the drawing's mystery and fate itself, the two have to make a choice in a limited amount of time. <em class=de-emphasized>(from manga)</em>",
+            "+@type": "Plot Summary"
         },
         {
             "+content": "2026-07-17",
@@ -59,6 +78,92 @@
             "+@href": "https://kimi-hana-movie.com/"
         }
     ],
+    "news": {
+        "+content": "<i>Kimi to Hanabi to Yakusoku to</i> Romance Novel Gets Anime Film on July 17",
+        "+@datetime": "2026-01-25T01:02:23Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-01-24/kimi-to-hanabi-to-yakusoku-to-romance-novel-gets-anime-film-on-july-17/.233443"
+    },
+    "staff": [
+        {
+            "+@gid": "2249355266",
+            "task": "Director",
+            "person": {
+                "+content": "Kei Suzuki",
+                "+@id": "243922"
+            }
+        },
+        {
+            "+@gid": "563725477",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Kōhei Mori",
+                "+@id": "293129"
+            }
+        },
+        {
+            "+@gid": "1406799439",
+            "task": "Original creator",
+            "person": {
+                "+content": "Kaori Mado",
+                "+@id": "293128"
+            }
+        },
+        {
+            "+@gid": "3072261984",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Akamoku",
+                "+@id": "285341"
+            }
+        },
+        {
+            "+@gid": "2724182487",
+            "task": "Character Design",
+            "person": {
+                "+content": "Yūji Watanabe",
+                "+@id": "210347"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "869332893",
+            "+@lang": "JA",
+            "role": "Makoto Natsume",
+            "person": {
+                "+content": "Shōri Satō",
+                "+@id": "125437"
+            }
+        },
+        {
+            "+@gid": "3984922295",
+            "+@lang": "JA",
+            "role": "Aki Hayama",
+            "person": {
+                "+content": "Nanoka Hara",
+                "+@id": "225223"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "3343080678",
+            "task": "Animation Production",
+            "company": {
+                "+content": "SynergySP",
+                "+@id": "10717"
+            }
+        },
+        {
+            "+@gid": "1800141039",
+            "task": "Animation Production",
+            "company": {
+                "+content": "The Answer Studio",
+                "+@id": "26116"
+            }
+        }
+    ],
     "+@date-added": "2026-01-24T20:42:27Z",
-    "+@date-last-updated-at": "2026-01-25T02:42:30Z"
+    "+@date-last-modified-at": "2026-02-24T03:15:33Z",
+    "+@date-last-updated-at": "2026-02-24T03:15:33Z"
 }
