@@ -4,7 +4,11 @@
     "+@type": "manga",
     "+@name": "Please Look After the Dragon",
     "+@precision": "manga",
-    "+@generated-on": "2026-01-25T20:38:44Z",
+    "+@generated-on": "2026-02-25T03:16:43Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "20271"
+    },
     "info": [
         {
             "+@gid": "1596556431",
@@ -54,6 +58,11 @@
             "+@type": "Themes"
         },
         {
+            "+content": "Murakami is not very fond of other people. He lives a quiet life in his old apartment, going to college, gaming, and buying onigiri at a local place. One day, he passes a dragon holding a sign, \"Look After Me Please,\" and finds himself caught up in the mythological beast's needs.",
+            "+@gid": "1578323758",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "2023-10-11 (serialized on Manga ONE / Ura Sunday)",
             "+@gid": "1939593287",
             "+@type": "Vintage"
@@ -71,11 +80,18 @@
         "+@date": "2026-01-20",
         "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=55880"
     },
-    "news": {
-        "+content": "Yen Press Licenses <cite>Wonder Boy</cite>, <cite>Hinatsugimura</cite>, <cite>Out of the Cocoon</cite>, More Manga/Novels",
-        "+@datetime": "2025-07-04T02:05:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-07-03/yen-press-licenses-wonder-boy-hinatsugimura-out-of-the-cocoon-more-manga-novels/.226271"
-    },
+    "news": [
+        {
+            "+content": "Yen Press Licenses <cite>Wonder Boy</cite>, <cite>Hinatsugimura</cite>, <cite>Out of the Cocoon</cite>, More Manga/Novels",
+            "+@datetime": "2025-07-04T02:05:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-03/yen-press-licenses-wonder-boy-hinatsugimura-out-of-the-cocoon-more-manga-novels/.226271"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, February 8-14",
+            "+@datetime": "2026-02-13T22:01:24Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-13/north-american-anime-manga-releases-february-8-14/.233978"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2371466757",
@@ -95,5 +111,6 @@
         }
     ],
     "+@date-added": "2025-02-08T21:14:32Z",
-    "+@date-last-updated-at": "2026-01-25T20:38:45Z"
+    "+@date-last-modified-at": "2026-02-25T03:16:44Z",
+    "+@date-last-updated-at": "2026-02-25T03:16:44Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Star Detective Precure!",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-26T02:41:35Z",
+    "+@generated-on": "2026-02-25T03:16:43Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "25076"
@@ -73,7 +73,7 @@
             "+@type": "Themes"
         },
         {
-            "+content": "Anna Akechi is a second-year middle school student who lives in Makoto Mirai Town. She travels back in time from 2027 to 1999 when her fairy partner named Pochitan appears on her birthday. In Makoto Mirai Town in 1999, Anna meets Mikuru Kobayashi, another second-year middle school student who dreams of becoming a star detective. The two girls witness the troubles caused by the Phantom Thieves who steal people's precious belongings. They transform into Star Detective Precures and use their deductive reasoning skills to protect people's smiles.",
+            "+content": "Anna Akechi is a second-year middle school student who lives in Makotomirai Town. She travels back in time from 2027 to 1999 when her fairy partner named Pochitan appears on her birthday. In Makotomirai City in 1999, Anna meets Mikuru Kobayashi, another second-year middle school student who dreams of becoming a star detective. The two girls witness the troubles caused by the Phantom Thieves who steal people's precious belongings. They transform into Star Detective Precures and use their deductive reasoning skills to protect people's smiles.",
             "+@gid": "2072472764",
             "+@type": "Plot Summary"
         },
@@ -83,7 +83,7 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "\"Hint In My Heart! Star Detective Precure!\" (ハートにヒント！名探偵プリキュア！) by Ami Ishii (eps 1-)",
+            "+content": "\"The Hint In The Heart! Star Detective Precure!\" (ハートにヒント！名探偵プリキュア！) by Ami Ishii (eps 1-)",
             "+@gid": "1978562708",
             "+@type": "Opening Theme"
         },
@@ -100,14 +100,52 @@
             "+@href": "https://www.toei-anim.co.jp/tv/star-detective_precure/"
         }
     ],
-    "episode": {
-        "+@num": "1",
-        "title": {
-            "+content": "Born! Star Detective Precure!",
-            "+@gid": "2445228584",
-            "+@lang": "EN"
-        }
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "7"
     },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "Born! Star Detective Precure!",
+                "+@gid": "2445228584",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "The Genius Appears! His Name Is Jett-senpai!",
+                "+@gid": "1198943904",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "Everyone Come Here! To The CUREtto Detective Agency!",
+                "+@gid": "3672101109",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "Exciting! The First Request!",
+                "+@gid": "3279449964",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "Star Detectives' Big Pinch!",
+                "+@gid": "1715490738",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "<cite>Precure</cite> Franchise Announces <cite>Star Detective Precure!</cite> Anime",
@@ -123,6 +161,26 @@
             "+content": "<cite>Precure</cite> Franchise Streams 'Baton-Passing' Video Ahead of <cite>Star Detective Precure!</cite> Premiere",
             "+@datetime": "2026-01-25T08:06:06Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-01-25/precure-franchise-streams-baton-passing-video-ahead-of-star-detective-precure-premiere/.233454"
+        },
+        {
+            "+content": "Crunchyroll to Stream <cite>Star Detective Precure!</cite> Anime",
+            "+@datetime": "2026-01-27T18:20:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-27/crunchyroll-to-stream-star-detective-precure-anime/.233534"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, January 26-February 1",
+            "+@datetime": "2026-02-07T14:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-07/japanese-animation-tv-ranking-january-26-february-1/.233891"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, February 2-8",
+            "+@datetime": "2026-02-15T14:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-15/japanese-animation-tv-ranking-february-2-8/.234207"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, February 9-15",
+            "+@datetime": "2026-02-22T14:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-22/japanese-animation-tv-ranking-february-9-15/.234372"
         }
     ],
     "staff": [
@@ -151,6 +209,38 @@
             }
         },
         {
+            "+@gid": "2307074221",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Noriyo Sasaki",
+                "+@id": "40490"
+            }
+        },
+        {
+            "+@gid": "1315114925",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yutaka Nakashima",
+                "+@id": "41372"
+            }
+        },
+        {
+            "+@gid": "2853758162",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yutaka Tsuchida",
+                "+@id": "82289"
+            }
+        },
+        {
+            "+@gid": "836363404",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Gaku Yano",
+                "+@id": "163033"
+            }
+        },
+        {
             "+@gid": "1330271669",
             "task": "Storyboard",
             "person": {
@@ -159,8 +249,48 @@
             }
         },
         {
+            "+@gid": "1958095280",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takao Iwai",
+                "+@id": "9471"
+            }
+        },
+        {
+            "+@gid": "3012771265",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yutaka Tsuchida",
+                "+@id": "82289"
+            }
+        },
+        {
+            "+@gid": "2518132854",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tsuyoshi Tobita",
+                "+@id": "132674"
+            }
+        },
+        {
+            "+@gid": "3067821012",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Gaku Yano",
+                "+@id": "163033"
+            }
+        },
+        {
             "+@gid": "1322144857",
             "task": "Episode Director",
+            "person": {
+                "+content": "Kōji Kawasaki",
+                "+@id": "292591"
+            }
+        },
+        {
+            "+@gid": "1547636053",
+            "task": "Unit Director",
             "person": {
                 "+content": "Kōji Kawasaki",
                 "+@id": "292591"
@@ -207,11 +337,131 @@
             }
         },
         {
+            "+@gid": "682650113",
+            "task": "Art",
+            "person": {
+                "+content": "Rika Uehara",
+                "+@id": "56629"
+            }
+        },
+        {
+            "+@gid": "1398149964",
+            "task": "Art",
+            "person": {
+                "+content": "Izumi Muta",
+                "+@id": "65129"
+            }
+        },
+        {
+            "+@gid": "1721245692",
+            "task": "Art",
+            "person": {
+                "+content": "Natsuko Tosugi",
+                "+@id": "91325"
+            }
+        },
+        {
+            "+@gid": "2424532950",
+            "task": "Art",
+            "person": {
+                "+content": "Daigorō Yamaguchi",
+                "+@id": "93232"
+            }
+        },
+        {
+            "+@gid": "1379599121",
+            "task": "Art",
+            "person": {
+                "+content": "Zhu Xing Xu",
+                "+@id": "184231"
+            }
+        },
+        {
+            "+@gid": "1879165613",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mitsuru Aoyama",
+                "+@id": "6015"
+            }
+        },
+        {
+            "+@gid": "1911136866",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Katsumi Tamegai",
+                "+@id": "25697"
+            }
+        },
+        {
+            "+@gid": "2275058188",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hitomi Matsuura",
+                "+@id": "36345"
+            }
+        },
+        {
+            "+@gid": "171349953",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiroshi Numata",
+                "+@id": "83167"
+            }
+        },
+        {
+            "+@gid": "3620560411",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Francis Kaneda",
+                "+@id": "91336"
+            }
+        },
+        {
+            "+@gid": "1446293065",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Noel Año-Nuevo",
+                "+@id": "91338"
+            }
+        },
+        {
+            "+@gid": "1271115418",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Akane Yano",
+                "+@id": "105545"
+            }
+        },
+        {
+            "+@gid": "608138681",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Risa Miyadani",
+                "+@id": "181688"
+            }
+        },
+        {
             "+@gid": "1402591283",
             "task": "Art design",
             "person": {
                 "+content": "Miki Imai",
                 "+@id": "202044"
+            }
+        },
+        {
+            "+@gid": "1498654649",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Tomohiko Takahashi",
+                "+@id": "91322"
+            }
+        },
+        {
+            "+@gid": "444781839",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Mari Kondō",
+                "+@id": "243468"
             }
         },
         {
@@ -245,9 +495,26 @@
                 "+content": "Masaya Aramaki",
                 "+@id": "147285"
             }
+        },
+        {
+            "+@gid": "1370577971",
+            "task": "Producer",
+            "person": {
+                "+content": "Shōko Hirata",
+                "+@id": "293386"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "2419266569",
+            "+@lang": "JA",
+            "role": "Usonoir",
+            "person": {
+                "+content": "Satoshi Hino",
+                "+@id": "15417"
+            }
+        },
         {
             "+@gid": "2249197872",
             "+@lang": "JA",
@@ -267,12 +534,30 @@
             }
         },
         {
+            "+@gid": "2142016847",
+            "+@lang": "JA",
+            "role": "Niji",
+            "person": {
+                "+content": "Yoshitsugu Matsuoka",
+                "+@id": "93780"
+            }
+        },
+        {
             "+@gid": "2820119500",
             "+@lang": "JA",
             "role": "Luluka Moria / Cure Arcana Shadow",
             "person": {
                 "+content": "Nao Tōyama",
                 "+@id": "95316"
+            }
+        },
+        {
+            "+@gid": "2199048478",
+            "+@lang": "JA",
+            "role": "Ageseine",
+            "person": {
+                "+content": "Ayaka Ōhashi",
+                "+@id": "108470"
             }
         },
         {
@@ -291,6 +576,15 @@
             "person": {
                 "+content": "Hina Yomiya",
                 "+@id": "209292"
+            }
+        },
+        {
+            "+@gid": "587494933",
+            "+@lang": "JA",
+            "role": "Goemon",
+            "person": {
+                "+content": "Eiichi Ishikawa",
+                "+@id": "226999"
             }
         },
         {
@@ -346,6 +640,6 @@
         }
     ],
     "+@date-added": "2025-11-26T19:08:40Z",
-    "+@date-last-modified-at": "2026-01-26T02:41:38Z",
-    "+@date-last-updated-at": "2026-01-26T02:41:38Z"
+    "+@date-last-modified-at": "2026-02-25T03:16:47Z",
+    "+@date-last-updated-at": "2026-02-25T03:16:47Z"
 }
