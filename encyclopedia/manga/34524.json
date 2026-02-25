@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Darkest Corners of the Heart",
     "+@precision": "manga",
-    "+@generated-on": "2026-01-26T05:04:56Z",
+    "+@generated-on": "2026-02-25T09:08:32Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "20219"
@@ -53,7 +53,12 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2025-02-02 (serialized on Shonen Jump+)",
+            "+content": "3",
+            "+@gid": "3167220386",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2025-02-02 to 2026-02-15 (serialized on Shonen Jump+)",
             "+@gid": "2631521168",
             "+@type": "Vintage"
         },
@@ -72,11 +77,18 @@
             "+@href": "https://shonenjumpplus.com/episode/17106567263035943892"
         }
     ],
-    "news": {
-        "+content": "<cite>Dr. Stone's</cite> Boichi, <cite>World's End Harem's</cite> Kotaro Shono, More Launch Manga on <cite>Jump+</cite> in February",
-        "+@datetime": "2025-02-01T06:26:43Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-02-01/dr-stone-boichi-world-end-harem-kotaro-shono-more-launch-manga-on-jump-in-february/.220725"
-    },
+    "news": [
+        {
+            "+content": "<cite>Dr. Stone's</cite> Boichi, <cite>World's End Harem's</cite> Kotaro Shono, More Launch Manga on <cite>Jump+</cite> in February",
+            "+@datetime": "2025-02-01T06:26:43Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-01/dr-stone-boichi-world-end-harem-kotaro-shono-more-launch-manga-on-jump-in-february/.220725"
+        },
+        {
+            "+content": "Yūho Amayo's <cite>Darkest Corners of the Heart</cite> Manga Ends on February 15",
+            "+@datetime": "2026-02-02T14:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-02/yuho-amayo-darkest-corners-of-the-heart-manga-ends-on-february-15/.233725"
+        }
+    ],
     "staff": {
         "+@gid": "3135289977",
         "task": "Story & Art",
@@ -86,5 +98,6 @@
         }
     },
     "+@date-added": "2025-02-01T11:32:26Z",
-    "+@date-last-updated-at": "2026-01-26T05:04:57Z"
+    "+@date-last-modified-at": "2026-02-25T09:08:34Z",
+    "+@date-last-updated-at": "2026-02-25T09:08:34Z"
 }
