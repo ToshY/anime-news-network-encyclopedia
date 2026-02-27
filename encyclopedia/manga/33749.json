@@ -2,9 +2,9 @@
     "+@id": "33749",
     "+@gid": "3909466893",
     "+@type": "manga",
-    "+@name": "Ushimitsu Gao",
+    "+@name": "Witching Hour",
     "+@precision": "manga",
-    "+@generated-on": "2026-01-28T04:56:31Z",
+    "+@generated-on": "2026-02-27T20:45:51Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "27578"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "Witching Hour",
+            "+@gid": "2054032878",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Ushimitsu Gao",
             "+@gid": "1173160166",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -69,11 +75,18 @@
             "+@href": "https://championcross.jp/episodes/23ebd8b8fbac8"
         }
     ],
-    "news": {
-        "+content": "<cite>BEASTARS</cite> Creator Paru Itagaki Launches New Horror Manga",
-        "+@datetime": "2024-10-16T16:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-10-16/beastars-creator-paru-itagaki-launches-new-horror-manga/.216777"
-    },
+    "news": [
+        {
+            "+content": "<cite>BEASTARS</cite> Creator Paru Itagaki Launches New Horror Manga",
+            "+@datetime": "2024-10-16T16:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-10-16/beastars-creator-paru-itagaki-launches-new-horror-manga/.216777"
+        },
+        {
+            "+content": "Viz Media Adds Minoji Kurata's <cite>Apothecary Diaries</cite> Manga, New Series from Inio Asano, Paru Itagaki, More",
+            "+@datetime": "2026-02-20T23:04:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-20/viz-media-adds-minoji-kurata-apothecary-diaries-manga-new-series-from-inio-asano-paru-itagaki-more/.234390"
+        }
+    ],
     "staff": {
         "+@gid": "2252666837",
         "task": "Story & Art",
@@ -83,5 +96,6 @@
         }
     },
     "+@date-added": "2024-10-16T15:22:22Z",
-    "+@date-last-updated-at": "2026-01-28T04:56:33Z"
+    "+@date-last-modified-at": "2026-02-27T20:45:53Z",
+    "+@date-last-updated-at": "2026-02-27T20:45:53Z"
 }
