@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Gals Can’t Be Kind to Otaku!?",
     "+@precision": "TV",
-    "+@generated-on": "2026-01-30T05:16:11Z",
+    "+@generated-on": "2026-03-01T05:32:12Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28724"
@@ -13,18 +13,18 @@
         {
             "+@gid": "957190972",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37884-957190972.1766641621.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37884-957190972.1771110945.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37884-957190972.1766641621.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37884-957190972.1771110945.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37884-957190972.1766641621.jpg",
-                    "+@width": "422",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37884-957190972.1771110945.jpg",
+                    "+@width": "424",
                     "+@height": "600"
                 }
             ]
@@ -58,9 +58,23 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026-04",
+            "+content": "Takuya Seo is an otaku who sits behind the popular gals in class, Ijichi and Amane. As people from different \"castes,\" you wouldn't expect them to have much in common. But when their worlds collide over a borrowed eraser, Takuya slips up about his favorite anime, and Amane is rather quick to correct him. She says she's not a fan, but her familiarity with the series suggests otherwise. <em class=de-emphasized>(from manga)</em>",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2026-04-08",
             "+@gid": "2403879378",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"HIDE AND SEEK\" by i-dle",
+            "+@gid": "1997772075",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Ishō Nakako\" (一生仲仔) by sunsoogirl",
+            "+@gid": "1518183279",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "アニメ「オタクに優しいギャルはいない!?」公式サイト",
@@ -70,11 +84,18 @@
             "+@href": "https://otagal.jp/"
         }
     ],
-    "news": {
-        "+content": "<cite>Gals Can't Be Kind to Otaku!?</cite> Anime Unveils Cast, Staff, Key Visual, Teaser",
-        "+@datetime": "2025-12-25T04:08:36Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-12-24/gals-cant-be-kind-to-otaku-anime-unveils-cast-staff-key-visual-teaser/.232490"
-    },
+    "news": [
+        {
+            "+content": "<cite>Gals Can't Be Kind to Otaku!?</cite> Anime Unveils Cast, Staff, Key Visual, Teaser",
+            "+@datetime": "2025-12-25T04:08:36Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-24/gals-cant-be-kind-to-otaku-anime-unveils-cast-staff-key-visual-teaser/.232490"
+        },
+        {
+            "+content": "<cite>Gals Can't Be Kind to Otaku!?</cite> Anime's New Video Unveils More Cast, Songs, April 8 Debut",
+            "+@datetime": "2026-02-14T14:12:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-14/gals-cant-be-kind-to-otaku-anime-new-video-unveils-more-cast-songs-april-8-debut/.234186"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1771668872",
@@ -159,12 +180,48 @@
     ],
     "cast": [
         {
+            "+@gid": "1015831526",
+            "+@lang": "JA",
+            "role": "Hibiki Ijichi",
+            "person": {
+                "+content": "Emiri Katō",
+                "+@id": "28606"
+            }
+        },
+        {
+            "+@gid": "2197197778",
+            "+@lang": "JA",
+            "role": "Kakeru Ijichi",
+            "person": {
+                "+content": "Atsumi Tanezaki",
+                "+@id": "111376"
+            }
+        },
+        {
             "+@gid": "1361499170",
             "+@lang": "JA",
             "role": "Kotoko Ijichi",
             "person": {
                 "+content": "Yū Serizawa",
                 "+@id": "118002"
+            }
+        },
+        {
+            "+@gid": "2063275679",
+            "+@lang": "JA",
+            "role": "Genichirō Ijichi",
+            "person": {
+                "+content": "Jun Kasama",
+                "+@id": "125180"
+            }
+        },
+        {
+            "+@gid": "2445271638",
+            "+@lang": "JA",
+            "role": "Sayu Amamiya",
+            "person": {
+                "+content": "Konomi Kohara",
+                "+@id": "153781"
             }
         },
         {
@@ -205,5 +262,6 @@
         }
     ],
     "+@date-added": "2025-10-01T01:20:05Z",
-    "+@date-last-updated-at": "2026-01-30T05:16:15Z"
+    "+@date-last-modified-at": "2026-03-01T05:32:17Z",
+    "+@date-last-updated-at": "2026-03-01T05:32:17Z"
 }
