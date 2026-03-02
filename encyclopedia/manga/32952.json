@@ -4,10 +4,18 @@
     "+@type": "magazine",
     "+@name": "Comic Ruelle",
     "+@precision": "anthology",
-    "+@generated-on": "2026-01-30T17:00:32Z",
+    "+@generated-on": "2026-03-02T09:02:23Z",
     "related-next": [
         {
-            "+@id": "18091",
+            "+@id": "32951",
+            "+@rel": "serialized"
+        },
+        {
+            "+@id": "31940",
+            "+@rel": "serialized"
+        },
+        {
+            "+@id": "28428",
             "+@rel": "serialized"
         },
         {
@@ -19,7 +27,7 @@
             "+@rel": "serialized"
         },
         {
-            "+@id": "28428",
+            "+@id": "18091",
             "+@rel": "serialized"
         },
         {
@@ -28,14 +36,6 @@
         },
         {
             "+@id": "30855",
-            "+@rel": "serialized"
-        },
-        {
-            "+@id": "31940",
-            "+@rel": "serialized"
-        },
-        {
-            "+@id": "32951",
             "+@rel": "serialized"
         },
         {
@@ -73,5 +73,6 @@
         }
     ],
     "+@date-added": "2024-07-23T13:46:51Z",
-    "+@date-last-updated-at": "2026-01-30T17:00:33Z"
+    "+@date-last-modified-at": "2026-03-02T09:02:26Z",
+    "+@date-last-updated-at": "2026-03-02T09:02:26Z"
 }
