@@ -4,15 +4,21 @@
     "+@type": "manga",
     "+@name": "Unexpectedly Naughty Fukami",
     "+@precision": "manga",
-    "+@generated-on": "2026-01-30T20:48:20Z",
+    "+@generated-on": "2026-03-02T17:06:26Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "32969"
     },
-    "related-next": {
-        "+@id": "32751",
-        "+@rel": "adaptation"
-    },
+    "related-next": [
+        {
+            "+@id": "32751",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "38572",
+            "+@rel": "adaptation"
+        }
+    ],
     "info": [
         {
             "+@gid": "2914729168",
@@ -77,6 +83,11 @@
             "+content": "Seven Seas Licenses <cite>Unexpectedly Naughty Fukami</cite>, <cite>Uesugi-kun Wants to Quit Being a Girl</cite>, 4 More Titles (Updated)",
             "+@datetime": "2025-11-06T06:40:12Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-11-06/seven-seas-licenses-unexpectedly-naughty-fukami-uesugi-kun-wants-to-quit-being-a-girl-4-more-titles/.230688"
+        },
+        {
+            "+content": "<cite>Unexpectedly Naughty Fukami</cite> Boys-Love Manga Gets Live-Action Series in April",
+            "+@datetime": "2026-02-27T10:14:02Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-27/unexpectedly-naughty-fukami-boys-love-manga-gets-live-action-series-in-april/.234665"
         }
     ],
     "staff": {
@@ -88,5 +99,6 @@
         }
     },
     "+@date-added": "2024-05-21T05:44:27Z",
-    "+@date-last-updated-at": "2026-01-30T20:48:21Z"
+    "+@date-last-modified-at": "2026-03-02T17:06:28Z",
+    "+@date-last-updated-at": "2026-03-02T17:06:28Z"
 }
