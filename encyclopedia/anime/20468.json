@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Infini-T Force the Movie Farewell, Friend",
     "+@precision": "movie",
-    "+@generated-on": "2026-02-01T05:38:38Z",
+    "+@generated-on": "2026-03-03T17:07:42Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "19401"
@@ -62,6 +62,11 @@
             "+@type": "Premiere date"
         },
         {
+            "+content": "\"To be continued...\" by flumpool",
+            "+@gid": "2196534338",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "映画『劇場版Infini-T Force／ガッチャマン さらば友よ』公式サイト",
             "+@gid": "3351392562",
             "+@type": "Official website",
@@ -71,7 +76,7 @@
     ],
     "ratings": {
         "+@nb_votes": "5",
-        "+@weighted_score": "4.7159"
+        "+@weighted_score": "4.7165"
     },
     "review": {
         "+content": "Infini-T Force: Farewell, Friend BD",
@@ -124,6 +129,70 @@
             "person": {
                 "+content": "Jun Kumagai",
                 "+@id": "106350"
+            }
+        },
+        {
+            "+@gid": "914249192",
+            "task": "Music",
+            "person": {
+                "+content": "Yutaka Yamada",
+                "+@id": "128448"
+            }
+        },
+        {
+            "+@gid": "2165558026",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Daisuke Kadoya",
+                "+@id": "2005"
+            }
+        },
+        {
+            "+@gid": "3192848149",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Hibiki Ito",
+                "+@id": "36189"
+            }
+        },
+        {
+            "+@gid": "3283539437",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Koji Shinomiya",
+                "+@id": "125231"
+            }
+        },
+        {
+            "+@gid": "2049986940",
+            "task": "Producer",
+            "person": {
+                "+content": "Naoki Iwasa",
+                "+@id": "104555"
+            }
+        },
+        {
+            "+@gid": "549884796",
+            "task": "Producer",
+            "person": {
+                "+content": "Atsushi Kirimoto",
+                "+@id": "122486"
+            }
+        },
+        {
+            "+@gid": "1895749740",
+            "task": "Producer",
+            "person": {
+                "+content": "Kazumichi Haruna",
+                "+@id": "139301"
+            }
+        },
+        {
+            "+@gid": "2352061518",
+            "task": "Producer",
+            "person": {
+                "+content": "Toshiyuki Watanabe",
+                "+@id": "225532"
             }
         }
     ],
@@ -273,15 +342,161 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "3190900204",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Digital Frontier",
-            "+@id": "2475"
+    "credit": [
+        {
+            "+@gid": "3190900204",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Digital Frontier",
+                "+@id": "2475"
+            }
+        },
+        {
+            "+@gid": "2863686890",
+            "task": "Production",
+            "company": {
+                "+content": "Pony Canyon",
+                "+@id": "269"
+            }
+        },
+        {
+            "+@gid": "1045911107",
+            "task": "Production",
+            "company": {
+                "+content": "Tatsunoko Production",
+                "+@id": "591"
+            }
+        },
+        {
+            "+@gid": "2229315274",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon Television Network",
+                "+@id": "834"
+            }
+        },
+        {
+            "+@gid": "2776543180",
+            "task": "Production",
+            "company": {
+                "+content": "YTV",
+                "+@id": "848"
+            }
+        },
+        {
+            "+@gid": "2182537821",
+            "task": "Production",
+            "company": {
+                "+content": "HoriPro",
+                "+@id": "1313"
+            }
+        },
+        {
+            "+@gid": "1666454038",
+            "task": "Production",
+            "company": {
+                "+content": "Digital Frontier",
+                "+@id": "2475"
+            }
+        },
+        {
+            "+@gid": "1688886742",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon Television Music Corporation",
+                "+@id": "6422"
+            }
+        },
+        {
+            "+@gid": "2798075686",
+            "task": "Production",
+            "company": {
+                "+content": "Fukuoka Broadcasting Corporation",
+                "+@id": "6576"
+            }
+        },
+        {
+            "+@gid": "3680509432",
+            "task": "Production",
+            "company": {
+                "+content": "The Sapporo Television Broadcasting Co., Ltd.",
+                "+@id": "6867"
+            }
+        },
+        {
+            "+@gid": "1352418885",
+            "task": "Production",
+            "company": {
+                "+content": "Shizuoka Daiichi Television Corporation",
+                "+@id": "6868"
+            }
+        },
+        {
+            "+@gid": "1868498606",
+            "task": "Production",
+            "company": {
+                "+content": "Hulu",
+                "+@id": "6901"
+            }
+        },
+        {
+            "+@gid": "1209463995",
+            "task": "Production",
+            "company": {
+                "+content": "Miyagi Television Broadcasting Co., Ltd.",
+                "+@id": "7731"
+            }
+        },
+        {
+            "+@gid": "1076437927",
+            "task": "Production",
+            "company": {
+                "+content": "Hiroshima TV",
+                "+@id": "8140"
+            }
+        },
+        {
+            "+@gid": "2339498620",
+            "task": "Production",
+            "company": {
+                "+content": "bilibili",
+                "+@id": "14614"
+            }
+        },
+        {
+            "+@gid": "1455680991",
+            "task": "Production",
+            "company": {
+                "+content": "Shochiku",
+                "+@id": "14702"
+            }
+        },
+        {
+            "+@gid": "1709407499",
+            "task": "Production",
+            "company": {
+                "+content": "Kadokawa",
+                "+@id": "15420"
+            }
+        },
+        {
+            "+@gid": "1386971563",
+            "task": "Production",
+            "company": {
+                "+content": "Bushiroad",
+                "+@id": "15513"
+            }
+        },
+        {
+            "+@gid": "898147423",
+            "task": "Production",
+            "company": {
+                "+content": "Chukyo TV. Broadcasting Co., Ltd.",
+                "+@id": "22898"
+            }
         }
-    },
+    ],
     "+@date-added": "2017-12-26T23:31:35Z",
-    "+@date-last-modified-at": "2026-02-01T05:38:40Z",
-    "+@date-last-updated-at": "2026-02-01T05:38:40Z"
+    "+@date-last-modified-at": "2026-03-03T17:07:46Z",
+    "+@date-last-updated-at": "2026-03-03T17:07:46Z"
 }
