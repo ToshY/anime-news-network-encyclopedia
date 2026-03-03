@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Transformers Go! Go!",
     "+@precision": "manga",
-    "+@generated-on": "2026-02-01T05:38:36Z",
-    "related-prev": {
-        "+@rel": "part of",
-        "+@id": "5959"
-    },
+    "+@generated-on": "2026-03-03T20:48:54Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "2588"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "5959"
+        }
+    ],
     "info": [
         {
             "+@gid": "1442561184",
@@ -86,5 +92,6 @@
         }
     ],
     "+@date-added": "2024-03-01T22:12:33Z",
-    "+@date-last-updated-at": "2026-02-01T05:38:38Z"
+    "+@date-last-modified-at": "2026-03-03T20:48:56Z",
+    "+@date-last-updated-at": "2026-03-03T20:48:56Z"
 }
