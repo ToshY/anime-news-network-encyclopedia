@@ -2,38 +2,44 @@
     "+@id": "37760",
     "+@gid": "2534553605",
     "+@type": "TV",
-    "+@name": "Nezumi-kun no Chokki",
+    "+@name": "Little Mouse's Red Vest",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-01T05:38:36Z",
+    "+@generated-on": "2026-03-03T09:01:13Z",
     "info": [
         {
             "+@gid": "631855932",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37760-631855932.1756875099.jpg",
-            "+@width": "200",
-            "+@height": "143",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37760-631855932.1771302075.jpg",
+            "+@width": "183",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37760-631855932.1756875099.jpg",
-                    "+@width": "200",
-                    "+@height": "143"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37760-631855932.1771302075.jpg",
+                    "+@width": "183",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37760-631855932.1756875099.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37760-631855932.1771302075.jpg",
                     "+@width": "500",
-                    "+@height": "358"
+                    "+@height": "548"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37760-631855932.1756875099.jpg",
-                    "+@width": "600",
-                    "+@height": "430"
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37760-631855932.1771302075.jpg",
+                    "+@width": "730",
+                    "+@height": "800"
                 }
             ]
         },
         {
+            "+content": "Little Mouse's Red Vest",
+            "+@gid": "1805828242",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Nezumi-kun no Chokki",
             "+@gid": "2129615116",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -41,14 +47,41 @@
             "+@gid": "1827271485",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "2026-04-04",
+            "+@gid": "1355871339",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "アニメ「ねずみくんのチョッキ」特設サイト｜ポプラ社",
+            "+@gid": "2108943195",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://www.poplar.co.jp/pr/anime-nezumikun/"
         }
     ],
-    "news": {
-        "+content": "<cite>Nezumi-kun no Chokki</cite> Picture Books Get TV Anime",
-        "+@datetime": "2025-09-03T03:47:58Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-09-02/nezumi-kun-no-chokki-picture-books-get-tv-anime/.228375"
-    },
+    "news": [
+        {
+            "+content": "<cite>Nezumi-kun no Chokki</cite> Picture Books Get TV Anime",
+            "+@datetime": "2025-09-03T03:47:58Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-02/nezumi-kun-no-chokki-picture-books-get-tv-anime/.228375"
+        },
+        {
+            "+content": "<cite>Little Mouse's Red Vest</cite> TV Anime Reveals Cast, Staff, April 4 Premiere",
+            "+@datetime": "2026-02-17T03:18:37Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-16/little-mouse-red-vest-tv-anime-reveals-cast-staff-april-4-premiere/.234253"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "1700200959",
+            "task": "Director",
+            "person": {
+                "+content": "Nobuyoshi Habara",
+                "+@id": "5802"
+            }
+        },
         {
             "+@gid": "2175963206",
             "task": "Original creator",
@@ -64,8 +97,63 @@
                 "+content": "Noriko Ueno",
                 "+@id": "257186"
             }
+        },
+        {
+            "+@gid": "2608670697",
+            "task": "Character Design",
+            "person": {
+                "+content": "Kanemori Yasuda",
+                "+@id": "24189"
+            }
+        },
+        {
+            "+@gid": "1834418384",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Kanemori Yasuda",
+                "+@id": "24189"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "749373840",
+            "+@lang": "JA",
+            "role": "Nemi-chan",
+            "person": {
+                "+content": "Mamiko Noto",
+                "+@id": "3166"
+            }
+        },
+        {
+            "+@gid": "552647974",
+            "+@lang": "JA",
+            "role": "Nezumi-kun",
+            "person": {
+                "+content": "Kenjirō Tsuda",
+                "+@id": "39751"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "3891172394",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Creadom8",
+                "+@id": "27462"
+            }
+        },
+        {
+            "+@gid": "1094104583",
+            "task": "Production",
+            "company": {
+                "+content": "Poplar Publishing Co., Ltd.",
+                "+@id": "6306"
+            }
         }
     ],
     "+@date-added": "2025-09-03T00:50:49Z",
-    "+@date-last-updated-at": "2026-02-01T05:38:40Z"
+    "+@date-last-modified-at": "2026-03-03T09:01:19Z",
+    "+@date-last-updated-at": "2026-03-03T09:01:19Z"
 }

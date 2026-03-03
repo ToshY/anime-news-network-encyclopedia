@@ -4,11 +4,17 @@
     "+@type": "movie",
     "+@name": "Godzilla: City on the Edge of Battle",
     "+@precision": "movie",
-    "+@generated-on": "2026-01-31T20:42:50Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "19389"
-    },
+    "+@generated-on": "2026-03-03T09:01:18Z",
+    "related-prev": [
+        {
+            "+@rel": "part of",
+            "+@id": "1972"
+        },
+        {
+            "+@rel": "sequel of",
+            "+@id": "19389"
+        }
+    ],
     "related-next": {
         "+@id": "21594",
         "+@rel": "sequel"
@@ -149,8 +155,8 @@
     ],
     "ratings": {
         "+@nb_votes": "104",
-        "+@weighted_score": "6.4812",
-        "+@bayesian_score": "6.58367"
+        "+@weighted_score": "6.4811",
+        "+@bayesian_score": "6.58356"
     },
     "review": {
         "+content": "Godzilla: City on the Edge of Battle",
@@ -1095,6 +1101,6 @@
         }
     ],
     "+@date-added": "2018-01-16T23:48:37Z",
-    "+@date-last-modified-at": "2026-01-31T20:42:52Z",
-    "+@date-last-updated-at": "2026-01-31T20:42:52Z"
+    "+@date-last-modified-at": "2026-03-03T09:01:19Z",
+    "+@date-last-updated-at": "2026-03-03T09:01:19Z"
 }
