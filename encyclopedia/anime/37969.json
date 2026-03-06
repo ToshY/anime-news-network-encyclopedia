@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Cosmic Princess Kaguya!",
     "+@precision": "movie",
-    "+@generated-on": "2026-02-04T09:01:50Z",
+    "+@generated-on": "2026-03-06T13:30:05Z",
     "related-next": [
         {
             "+@id": "38101",
@@ -48,6 +48,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Kaguya: A Princesa Espacial",
+            "+@gid": "3156605857",
+            "+@type": "Alternative title",
+            "+@lang": "PT"
+        },
+        {
             "+content": "La princesa Kaguya del cosmos",
             "+@gid": "3630440911",
             "+@type": "Alternative title",
@@ -71,6 +77,11 @@
         {
             "+content": "2026-01-22 (worldwide streaming on Netflix)",
             "+@gid": "3169225124",
+            "+@type": "Premiere date"
+        },
+        {
+            "+content": "2026-02-20 (Japan, limited theatrical screening)",
+            "+@gid": "3503676194",
             "+@type": "Premiere date"
         },
         {
@@ -137,8 +148,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "9",
-        "+@weighted_score": "6.9928"
+        "+@nb_votes": "20",
+        "+@weighted_score": "7.1597",
+        "+@bayesian_score": "7.27663"
     },
     "review": {
         "+content": "<cite>Cosmic Princess Kaguya!</cite> Anime Film Review",
@@ -184,6 +196,26 @@
             "+content": "<cite>Cosmic Princess Kaguya!</cite> Anime Film Reveals Animated Music Video for Ending Theme Song",
             "+@datetime": "2026-02-01T02:34:29Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-01-31/cosmic-princess-kaguya-anime-film-reveals-animated-music-video-for-ending-theme-song/.233681"
+        },
+        {
+            "+content": "<cite>Cosmic Princess Kaguya!</cite> Anime Film Gets Theatrical Release",
+            "+@datetime": "2026-02-09T09:04:14Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-09/cosmic-princess-kaguya-anime-film-gets-theatrical-release/.233932"
+        },
+        {
+            "+content": "<cite>Cosmic Princess Kaguya!</cite> Film's Limited 1-Week Run at Theaters in Japan Extended",
+            "+@datetime": "2026-02-23T05:13:37Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-23/cosmic-princess-kaguya-film-limited-1-week-run-at-theaters-in-japan-extended/.234467"
+        },
+        {
+            "+content": "<cite>Gintama</cite> 'Yoshiwara in Flames' Compilation Film Drops to #3, <cite>Cosmic Princess Kaguya!</cite> Film Re-Opens at #5",
+            "+@datetime": "2026-02-26T07:38:03Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-26/gintama-yoshiwara-in-flames-compilation-film-drops-to-no.3-cosmic-princess-kaguya-film-re-opens-at-/.234523"
+        },
+        {
+            "+content": "2026 <cite>Doraemon</cite> Film Opens at #1, 2nd <cite>That Time I Got Reincarnated as a Slime</cite> Film at #3",
+            "+@datetime": "2026-03-05T08:07:53Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-05/2026-doraemon-film-opens-at-no.1-2nd-that-time-i-got-reincarnated-as-a-slime-film-at-no.3/.234857"
         }
     ],
     "staff": [
@@ -690,15 +722,6 @@
             }
         },
         {
-            "+@gid": "2130399457",
-            "+@lang": "EN",
-            "role": "Yachiyo Runami",
-            "person": {
-                "+content": "Frankie Kevich",
-                "+@id": "242511"
-            }
-        },
-        {
             "+@gid": "810524792",
             "+@lang": "ES",
             "role": "Roka Ayatsumugi",
@@ -795,6 +818,105 @@
             "person": {
                 "+content": "Ainhoa Maiquez",
                 "+@id": "221488"
+            }
+        },
+        {
+            "+@gid": "770143982",
+            "+@lang": "FR",
+            "role": "Roka Ayatsumugi",
+            "person": {
+                "+content": "Camille Timmerman",
+                "+@id": "57317"
+            }
+        },
+        {
+            "+@gid": "1853619271",
+            "+@lang": "FR",
+            "role": "Koto Okotteru",
+            "person": {
+                "+content": "Jérémy Zylberberg",
+                "+@id": "70472"
+            }
+        },
+        {
+            "+@gid": "1057297566",
+            "+@lang": "FR",
+            "role": "Iroha Sakayori",
+            "person": {
+                "+content": "Emmylou Homs",
+                "+@id": "135316"
+            }
+        },
+        {
+            "+@gid": "3828770885",
+            "+@lang": "FR",
+            "role": "Mami Isayama",
+            "person": {
+                "+content": "Coralie Thuilier",
+                "+@id": "141835"
+            }
+        },
+        {
+            "+@gid": "1986539819",
+            "+@lang": "FR",
+            "role": "Fushi",
+            "person": {
+                "+content": "Cécilé Gatto",
+                "+@id": "155604"
+            }
+        },
+        {
+            "+@gid": "1664330901",
+            "+@lang": "FR",
+            "role": "Kaguya",
+            "person": {
+                "+content": "Clotilde Verry",
+                "+@id": "186906"
+            }
+        },
+        {
+            "+@gid": "3087197665",
+            "+@lang": "FR",
+            "role": "Otako the Loyal Dog",
+            "person": {
+                "+content": "Valerie Bescht",
+                "+@id": "189369"
+            }
+        },
+        {
+            "+@gid": "2789459401",
+            "+@lang": "FR",
+            "role": "Akira Mikado",
+            "person": {
+                "+content": "Martin Faliu",
+                "+@id": "190385"
+            }
+        },
+        {
+            "+@gid": "3301008948",
+            "+@lang": "FR",
+            "role": "Yachiyo Runami",
+            "person": {
+                "+content": "Charlotte Hervieux",
+                "+@id": "199384"
+            }
+        },
+        {
+            "+@gid": "1470636342",
+            "+@lang": "FR",
+            "role": "Rai Komazawa",
+            "person": {
+                "+content": "Lucas Williams",
+                "+@id": "294141"
+            }
+        },
+        {
+            "+@gid": "1082677568",
+            "+@lang": "FR",
+            "role": "Noi Komazawa",
+            "person": {
+                "+content": "Jonathan Gimbord-Millan",
+                "+@id": "294142"
             }
         },
         {
@@ -1184,6 +1306,6 @@
         }
     ],
     "+@date-added": "2025-11-05T18:54:58Z",
-    "+@date-last-modified-at": "2026-02-04T09:01:54Z",
-    "+@date-last-updated-at": "2026-02-04T09:01:54Z"
+    "+@date-last-modified-at": "2026-03-06T13:30:12Z",
+    "+@date-last-updated-at": "2026-03-06T13:30:12Z"
 }
