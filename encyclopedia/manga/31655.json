@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Matsu Kage ni Ikou",
     "+@precision": "manga",
-    "+@generated-on": "2026-02-03T13:35:56Z",
+    "+@generated-on": "2026-03-06T03:08:45Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "20236"
@@ -52,6 +52,11 @@
             "+@type": "Themes"
         },
         {
+            "+content": "7",
+            "+@gid": "1235228618",
+            "+@type": "Number of tankoubon"
+        },
+        {
             "+content": "2018-12-04 to 2020-06-02 (irregularly in Bessatsu Young Champion, Jan 2019-Jul 2020)",
             "+@gid": "2024145846",
             "+@type": "Vintage"
@@ -62,11 +67,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "<cite>All Out!!'s</cite> Shiori Amase Launches New Manga in October",
-        "+@datetime": "2020-09-03T00:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2020-09-02/all-out-s-shiori-amase-launches-new-manga-in-october/.163567"
-    },
+    "news": [
+        {
+            "+content": "<cite>All Out!!'s</cite> Shiori Amase Launches New Manga in October",
+            "+@datetime": "2020-09-03T00:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2020-09-02/all-out-s-shiori-amase-launches-new-manga-in-october/.163567"
+        },
+        {
+            "+content": "<cite>All Out!!'s</cite> Shiori Amase Ends <cite>Matsu Kage ni Ikou</cite> Manga in 7th Volume",
+            "+@datetime": "2026-02-25T13:31:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-25/all-out-s-shiori-amase-ends-matsu-kage-ni-ikou-manga-in-7th-volume/.234465"
+        }
+    ],
     "staff": {
         "+@gid": "2830965514",
         "task": "Story & Art",
@@ -76,5 +88,6 @@
         }
     },
     "+@date-added": "2024-01-19T03:36:29Z",
-    "+@date-last-updated-at": "2026-02-03T13:35:57Z"
+    "+@date-last-modified-at": "2026-03-06T03:08:47Z",
+    "+@date-last-updated-at": "2026-03-06T03:08:47Z"
 }
