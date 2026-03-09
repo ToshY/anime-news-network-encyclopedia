@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Barakamon",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-06T13:35:10Z",
+    "+@generated-on": "2026-03-09T03:15:43Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "12430"
@@ -105,8 +105,8 @@
     ],
     "ratings": {
         "+@nb_votes": "803",
-        "+@weighted_score": "7.9193",
-        "+@bayesian_score": "7.91271"
+        "+@weighted_score": "7.9204",
+        "+@bayesian_score": "7.91379"
     },
     "episode": [
         {
@@ -712,21 +712,21 @@
     ],
     "cast": [
         {
+            "+@gid": "1370437965",
+            "+@lang": "EN",
+            "role": "Emi Handa",
+            "person": {
+                "+content": "Cynthia Cranz",
+                "+@id": "1109"
+            }
+        },
+        {
             "+@gid": "2862044430",
             "+@lang": "EN",
             "role": "Kazuyuki Sakamoto",
             "person": {
                 "+content": "Christopher R. Sabat",
                 "+@id": "1386"
-            }
-        },
-        {
-            "+@gid": "1857884298",
-            "+@lang": "EN",
-            "role": "Director",
-            "person": {
-                "+content": "Ed Blaylock",
-                "+@id": "1665"
             }
         },
         {
@@ -745,6 +745,15 @@
             "person": {
                 "+content": "Bill Flynn",
                 "+@id": "22583"
+            }
+        },
+        {
+            "+@gid": "3178709490",
+            "+@lang": "EN",
+            "role": "Seimei Handa",
+            "person": {
+                "+content": "Mark Stoddard",
+                "+@id": "25958"
             }
         },
         {
@@ -865,12 +874,30 @@
             }
         },
         {
+            "+@gid": "3888030590",
+            "+@lang": "JA",
+            "role": "Emi Handa",
+            "person": {
+                "+content": "Yoshino Takamori",
+                "+@id": "1588"
+            }
+        },
+        {
             "+@gid": "2571358629",
             "+@lang": "JA",
             "role": "Kōsaku Kotoishi",
             "person": {
                 "+content": "Hiroshi Ito",
                 "+@id": "2106"
+            }
+        },
+        {
+            "+@gid": "352030582",
+            "+@lang": "JA",
+            "role": "Seimei Handa",
+            "person": {
+                "+content": "Kōsuke Meguro",
+                "+@id": "9126"
             }
         },
         {
@@ -889,15 +916,6 @@
             "person": {
                 "+content": "Daisuke Ono",
                 "+@id": "14929"
-            }
-        },
-        {
-            "+@gid": "2001885815",
-            "+@lang": "JA",
-            "role": "curator",
-            "person": {
-                "+content": "Toshihiko Miki",
-                "+@id": "24736"
             }
         },
         {
@@ -1035,6 +1053,6 @@
         }
     ],
     "+@date-added": "2014-05-31T12:51:08Z",
-    "+@date-last-modified-at": "2026-02-06T13:35:15Z",
-    "+@date-last-updated-at": "2026-02-06T13:35:15Z"
+    "+@date-last-modified-at": "2026-03-09T03:15:50Z",
+    "+@date-last-updated-at": "2026-03-09T03:15:50Z"
 }
