@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "MAO",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-10T17:19:10Z",
+    "+@generated-on": "2026-03-12T20:52:44Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24598"
@@ -13,18 +13,18 @@
         {
             "+@gid": "2500370797",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37025-2500370797.1752533715.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37025-2500370797.1772501995.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37025-2500370797.1752533715.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37025-2500370797.1772501995.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37025-2500370797.1752533715.jpg",
-                    "+@width": "425",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37025-2500370797.1772501995.jpg",
+                    "+@width": "424",
                     "+@height": "600"
                 }
             ]
@@ -50,9 +50,19 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026-04",
+            "+content": "2026-04-04",
             "+@gid": "3847899660",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"HEARTLOUD\" by Kis-My-Ft2",
+            "+@gid": "2127497694",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Juai\" (呪愛) by TRUE",
+            "+@gid": "969983367",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ『MAO』公式サイト",
@@ -62,6 +72,11 @@
             "+@href": "https://www.anime-mao.com/"
         }
     ],
+    "news": {
+        "+content": "<cite>MAO</cite> Anime's New Video Unveils More Cast, Half-Year Run, April 4 Debut",
+        "+@datetime": "2026-03-02T12:56:56Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-02/mao-anime-new-video-unveils-more-cast-half-year-run-april-4-debut/.234822"
+    },
     "staff": [
         {
             "+@gid": "2612563885",
@@ -154,6 +169,24 @@
     ],
     "cast": [
         {
+            "+@gid": "899959592",
+            "+@lang": "JA",
+            "role": "Funa Uozumi",
+            "person": {
+                "+content": "Motoko Kumai",
+                "+@id": "448"
+            }
+        },
+        {
+            "+@gid": "592694670",
+            "+@lang": "JA",
+            "role": "Byōki",
+            "person": {
+                "+content": "Takashi Matsuyama",
+                "+@id": "3123"
+            }
+        },
+        {
             "+@gid": "2471790576",
             "+@lang": "JA",
             "role": "Hyakka",
@@ -172,6 +205,15 @@
             }
         },
         {
+            "+@gid": "2524980969",
+            "+@lang": "JA",
+            "role": "Sana",
+            "person": {
+                "+content": "Risa Shimizu",
+                "+@id": "22232"
+            }
+        },
+        {
             "+@gid": "1837390806",
             "+@lang": "JA",
             "role": "Mao",
@@ -181,12 +223,48 @@
             }
         },
         {
+            "+@gid": "2183105579",
+            "+@lang": "JA",
+            "role": "Tenko",
+            "person": {
+                "+content": "Yōko Hikasa",
+                "+@id": "67797"
+            }
+        },
+        {
+            "+@gid": "598454493",
+            "+@lang": "JA",
+            "role": "Shiranui",
+            "person": {
+                "+content": "Kazuyuki Okitsu",
+                "+@id": "67851"
+            }
+        },
+        {
+            "+@gid": "2013981485",
+            "+@lang": "JA",
+            "role": "Yurako",
+            "person": {
+                "+content": "Reina Ueda",
+                "+@id": "116390"
+            }
+        },
+        {
             "+@gid": "3006081441",
             "+@lang": "JA",
             "role": "Nanoka Kiba",
             "person": {
                 "+content": "Natsumi Kawaida",
                 "+@id": "155490"
+            }
+        },
+        {
+            "+@gid": "2438394606",
+            "+@lang": "JA",
+            "role": "Otoya",
+            "person": {
+                "+content": "Momoka Terasawa",
+                "+@id": "231450"
             }
         }
     ],
@@ -199,5 +277,6 @@
         }
     },
     "+@date-added": "2025-07-14T18:54:33Z",
-    "+@date-last-updated-at": "2026-02-10T17:19:18Z"
+    "+@date-last-modified-at": "2026-03-12T20:52:50Z",
+    "+@date-last-updated-at": "2026-03-12T20:52:50Z"
 }
