@@ -2,9 +2,9 @@
     "+@id": "29316",
     "+@gid": "3816494777",
     "+@type": "manga",
-    "+@name": "Zeikin de Katta Hon",
+    "+@name": "Books bought with tax",
     "+@precision": "manga",
-    "+@generated-on": "2026-02-11T05:46:21Z",
+    "+@generated-on": "2026-03-14T08:52:25Z",
     "related-prev": [
         {
             "+@rel": "serialized in",
@@ -13,6 +13,16 @@
         {
             "+@rel": "serialized in",
             "+@id": "29974"
+        }
+    ],
+    "related-next": [
+        {
+            "+@id": "38579",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "38580",
+            "+@rel": "adaptation"
         }
     ],
     "info": [
@@ -41,16 +51,16 @@
             ]
         },
         {
-            "+content": "Zeikin de Katta Hon",
-            "+@gid": "1903593355",
-            "+@type": "Main title",
-            "+@lang": "JA"
-        },
-        {
             "+content": "Books bought with tax",
             "+@gid": "3040771653",
-            "+@type": "Alternative title",
+            "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Zeikin de Katta Hon",
+            "+@gid": "1903593355",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
         },
         {
             "+content": "税金で買った本",
@@ -81,6 +91,10 @@
             "+@href": "https://yanmaga.jp/comics/%E7%A8%8E%E9%87%91%E3%81%A7%E8%B2%B7%E3%81%A3%E3%81%9F%E6%9C%AC"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "6"
+    },
     "news": [
         {
             "+content": "<cite>Spy×Family</cite> Tops <cite>Da Vinci</cite> Manga Ranking",
@@ -91,6 +105,11 @@
             "+content": "Tomoko Yamashita's <cite>Ikoku Nikki</cite> Tops <cite>Da Vinci</cite> Manga Ranking",
             "+@datetime": "2023-12-06T02:31:08Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2023-12-05/tomoko-yamashita-ikoku-nikki-tops-da-vinci-manga-ranking/.205150"
+        },
+        {
+            "+content": "<cite>Zeikin de Katta Hon</cite> Manga Gets TV Anime, Live-Action Series",
+            "+@datetime": "2026-02-27T17:03:59Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-27/zeikin-de-katta-hon-manga-gets-tv-anime-live-action-series/.234678"
         }
     ],
     "staff": [
@@ -112,5 +131,6 @@
         }
     ],
     "+@date-added": "2023-08-07T03:09:00Z",
-    "+@date-last-updated-at": "2026-02-11T05:46:24Z"
+    "+@date-last-modified-at": "2026-03-14T08:52:27Z",
+    "+@date-last-updated-at": "2026-03-14T08:52:27Z"
 }
