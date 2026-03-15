@@ -2,25 +2,25 @@
     "+@id": "38465",
     "+@gid": "1881312630",
     "+@type": "TV",
-    "+@name": "Beyond Twilight",
+    "+@name": "Hyakki Yakou Shou",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-13T03:23:08Z",
+    "+@generated-on": "2026-03-15T03:31:45Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "5284"
     },
     "info": [
         {
-            "+content": "Beyond Twilight",
-            "+@gid": "1794006527",
-            "+@type": "Main title",
-            "+@lang": "EN"
-        },
-        {
             "+content": "Hyakki Yakou Shou",
             "+@gid": "2853588580",
-            "+@type": "Alternative title",
+            "+@type": "Main title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "Beyond Twilight",
+            "+@gid": "1794006527",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
         },
         {
             "+content": "百鬼夜行抄",
@@ -38,19 +38,90 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026-04",
+            "+content": "2026-04-07",
             "+@gid": "558306946",
             "+@type": "Vintage"
         }
     ],
-    "staff": {
-        "+@gid": "3644493802",
-        "task": "Original creator",
-        "person": {
-            "+content": "Ichiko Ima",
-            "+@id": "42500"
-        }
+    "news": {
+        "+content": "<cite>Beyond Twilight</cite> Short Anime's Trailer Reveals Cast, Staff, Ending Theme Song Artist, April 7 Premiere",
+        "+@datetime": "2026-02-27T21:58:47Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-02-27/beyond-twilight-short-anime-trailer-reveals-cast-staff-ending-theme-song-artist-april-7-premiere/.234758"
     },
+    "staff": [
+        {
+            "+@gid": "1204869436",
+            "task": "Director",
+            "person": {
+                "+content": "Saya Fukase",
+                "+@id": "54239"
+            }
+        },
+        {
+            "+@gid": "3644493802",
+            "task": "Original creator",
+            "person": {
+                "+content": "Ichiko Ima",
+                "+@id": "42500"
+            }
+        },
+        {
+            "+@gid": "3868491385",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Taeko Miura",
+                "+@id": "190748"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1410889355",
+            "+@lang": "JA",
+            "role": "Ritsu Iijima",
+            "person": {
+                "+content": "Nobuhiko Okamoto",
+                "+@id": "59411"
+            }
+        },
+        {
+            "+@gid": "2260181259",
+            "+@lang": "JA",
+            "role": "Seiran",
+            "person": {
+                "+content": "Hironori Kondō",
+                "+@id": "72631"
+            }
+        },
+        {
+            "+@gid": "3168464545",
+            "+@lang": "JA",
+            "role": "Tsukasa Iijima",
+            "person": {
+                "+content": "Ikumi Hasegawa",
+                "+@id": "151984"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "2762467831",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Imageworks Studio",
+                "+@id": "23023"
+            }
+        },
+        {
+            "+@gid": "1781099148",
+            "task": "Animation Production",
+            "company": {
+                "+content": "IMAGICA Infos",
+                "+@id": "24988"
+            }
+        }
+    ],
     "+@date-added": "2026-02-12T18:43:05Z",
-    "+@date-last-updated-at": "2026-02-13T03:23:10Z"
+    "+@date-last-modified-at": "2026-03-15T03:31:53Z",
+    "+@date-last-updated-at": "2026-03-15T03:31:53Z"
 }
