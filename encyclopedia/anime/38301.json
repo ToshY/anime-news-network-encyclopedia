@@ -2,9 +2,9 @@
     "+@id": "38301",
     "+@gid": "2008609227",
     "+@type": "TV",
-    "+@name": "Ingoku Danchi",
+    "+@name": "Ingoku Danchi: Deviant's Apartment Complex",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-15T05:35:01Z",
+    "+@generated-on": "2026-03-17T05:37:43Z",
     "related-prev": [
         {
             "+@rel": "adapted from",
@@ -19,26 +19,32 @@
         {
             "+@gid": "927828470",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38301-927828470.1770246877.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38301-927828470.1772542253.jpg",
             "+@width": "140",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38301-927828470.1770246877.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38301-927828470.1772542253.jpg",
                     "+@width": "140",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38301-927828470.1770246877.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38301-927828470.1772542253.jpg",
                     "+@width": "419",
                     "+@height": "600"
                 }
             ]
         },
         {
+            "+content": "Ingoku Danchi: Deviant's Apartment Complex",
+            "+@gid": "732695703",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Ingoku Danchi",
             "+@gid": "2444123012",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -52,7 +58,7 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026-04",
+            "+content": "2026-04-05",
             "+@gid": "881637827",
             "+@type": "Vintage"
         },
@@ -64,11 +70,18 @@
             "+@href": "https://ingoku-danchi.deregula.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Ingoku Danchi</cite> Short TV Anime Reveals Cast, Staff, April Premiere",
-        "+@datetime": "2026-02-04T12:14:06Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-02-04/ingoku-danchi-short-tv-anime-reveals-cast-staff-april-premiere/.233802"
-    },
+    "news": [
+        {
+            "+content": "<cite>Ingoku Danchi</cite> Short TV Anime Reveals Cast, Staff, April Premiere",
+            "+@datetime": "2026-02-04T12:14:06Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-04/ingoku-danchi-short-tv-anime-reveals-cast-staff-april-premiere/.233802"
+        },
+        {
+            "+content": "<cite>Ingoku Danchi: Deviant's Apartment Complex</cite> Anime's New Video Unveils More Cast, April 5 Debut",
+            "+@datetime": "2026-03-03T12:27:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-03/ingoku-danchi-deviant-apartment-complex-anime-new-video-unveils-more-cast-april-5-debut/.234858"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1032040624",
@@ -136,6 +149,51 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "787226050",
+            "+@lang": "JA",
+            "role": "Shirakage",
+            "person": {
+                "+content": "Misato Fukuen",
+                "+@id": "5916"
+            }
+        },
+        {
+            "+@gid": "2142850739",
+            "+@lang": "JA",
+            "role": "Shōda",
+            "person": {
+                "+content": "Misato Fukuen",
+                "+@id": "5916"
+            }
+        },
+        {
+            "+@gid": "2387780798",
+            "+@lang": "JA",
+            "role": "Kiritani",
+            "person": {
+                "+content": "Ai Shimizu",
+                "+@id": "7592"
+            }
+        },
+        {
+            "+@gid": "3774742462",
+            "+@lang": "JA",
+            "role": "Hasegawa",
+            "person": {
+                "+content": "Sayuri Yahagi",
+                "+@id": "48719"
+            }
+        },
+        {
+            "+@gid": "1784681380",
+            "+@lang": "JA",
+            "role": "Tsujisaki",
+            "person": {
+                "+content": "Sayuri Yahagi",
+                "+@id": "48719"
+            }
+        },
         {
             "+@gid": "3958148721",
             "+@lang": "JA",
@@ -234,6 +292,33 @@
                 "+content": "Aika Wakuno",
                 "+@id": "236656"
             }
+        },
+        {
+            "+@gid": "3570759474",
+            "+@lang": "JA",
+            "role": "Haibara",
+            "person": {
+                "+content": "Nagisa Kujime",
+                "+@id": "241899"
+            }
+        },
+        {
+            "+@gid": "1533867012",
+            "+@lang": "JA",
+            "role": "Andō",
+            "person": {
+                "+content": "Kazuki Asami",
+                "+@id": "270880"
+            }
+        },
+        {
+            "+@gid": "623466979",
+            "+@lang": "JA",
+            "role": "Numajiri",
+            "person": {
+                "+content": "Shinobu Izumi",
+                "+@id": "294336"
+            }
         }
     ],
     "credit": [
@@ -263,6 +348,6 @@
         }
     ],
     "+@date-added": "2026-01-15T18:45:55Z",
-    "+@date-last-modified-at": "2026-02-15T05:35:07Z",
-    "+@date-last-updated-at": "2026-02-15T05:35:07Z"
+    "+@date-last-modified-at": "2026-03-17T05:37:46Z",
+    "+@date-last-updated-at": "2026-03-17T05:37:46Z"
 }
