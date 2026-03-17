@@ -2,12 +2,16 @@
     "+@id": "28188",
     "+@gid": "1612320227",
     "+@type": "manga",
-    "+@name": "Mahōtsukai Rosé no Sado Life",
+    "+@name": "Sado Life of Rosé the Witch",
     "+@precision": "manga",
-    "+@generated-on": "2026-02-14T13:12:54Z",
+    "+@generated-on": "2026-03-17T20:57:46Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "12693"
+    },
+    "related-next": {
+        "+@id": "38530",
+        "+@rel": "adaptation"
     },
     "info": [
         {
@@ -35,16 +39,16 @@
             ]
         },
         {
-            "+content": "Mahōtsukai Rosé no Sado Life",
-            "+@gid": "2233834358",
-            "+@type": "Main title",
-            "+@lang": "JA"
-        },
-        {
             "+content": "The Sado Life of Rosé the Witch",
             "+@gid": "3757613306",
-            "+@type": "Alternative title",
+            "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Mahōtsukai Rosé no Sado Life",
+            "+@gid": "2233834358",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
         },
         {
             "+content": "魔法使いロゼの佐渡ライフ",
@@ -58,6 +62,11 @@
             "+@type": "Vintage"
         }
     ],
+    "news": {
+        "+content": "<cite>The Sado Life of Rosé the Witch</cite> Manga Gets TV Anime",
+        "+@datetime": "2026-02-23T21:58:16Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-02-23/the-sado-life-of-rose-the-witch-manga-gets-tv-anime/.234462"
+    },
     "staff": {
         "+@gid": "3386946265",
         "task": "Story & Art",
@@ -67,5 +76,6 @@
         }
     },
     "+@date-added": "2023-05-11T01:50:50Z",
-    "+@date-last-updated-at": "2026-02-14T13:12:56Z"
+    "+@date-last-modified-at": "2026-03-17T20:58:24Z",
+    "+@date-last-updated-at": "2026-03-17T20:58:24Z"
 }
