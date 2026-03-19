@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Odekake Kozame",
     "+@precision": "ONA 2",
-    "+@generated-on": "2026-02-17T03:14:42Z",
+    "+@generated-on": "2026-03-19T03:22:02Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32725"
@@ -47,7 +47,7 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026-04",
+            "+content": "2026-04-12",
             "+@gid": "3034325065",
             "+@type": "Vintage"
         },
@@ -59,6 +59,11 @@
             "+@href": "https://odekake-kozame.com/"
         }
     ],
+    "news": {
+        "+content": "<cite>Odekake Kozame</cite> Anime's 2nd Season Reveals April 12 Debut in Video",
+        "+@datetime": "2026-03-06T09:00:00Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-06/odekake-kozame-anime-2nd-season-reveals-april-12-debut-in-video/.234984"
+    },
     "staff": [
         {
             "+@gid": "663968959",
@@ -69,11 +74,27 @@
             }
         },
         {
+            "+@gid": "1661026492",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Hiroaki Nagashima",
+                "+@id": "245221"
+            }
+        },
+        {
             "+@gid": "1808886850",
             "task": "Script",
             "person": {
                 "+content": "Hiroaki Nagashima",
                 "+@id": "245221"
+            }
+        },
+        {
+            "+@gid": "1511811590",
+            "task": "Music",
+            "person": {
+                "+content": "Yoshiaki Fujisawa",
+                "+@id": "113645"
             }
         },
         {
@@ -90,6 +111,30 @@
             "person": {
                 "+content": "Ayumi Takeuchi",
                 "+@id": "194694"
+            }
+        },
+        {
+            "+@gid": "430474420",
+            "task": "Art Director",
+            "person": {
+                "+content": "Masayo Ogura",
+                "+@id": "294396"
+            }
+        },
+        {
+            "+@gid": "2704162315",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Kisuke Koizumi",
+                "+@id": "30629"
+            }
+        },
+        {
+            "+@gid": "3030663895",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Akemi Sasaki",
+                "+@id": "22078"
             }
         }
     ],
@@ -120,6 +165,51 @@
                 "+content": "Megumi Han",
                 "+@id": "104148"
             }
+        },
+        {
+            "+@gid": "2806987083",
+            "+@lang": "JA",
+            "role": "Mohican Aniki",
+            "person": {
+                "+content": "Yūichirō Umehara",
+                "+@id": "127402"
+            }
+        },
+        {
+            "+@gid": "2724429628",
+            "+@lang": "JA",
+            "role": "Kitsune-chan",
+            "person": {
+                "+content": "Karin Takahashi",
+                "+@id": "128601"
+            }
+        },
+        {
+            "+@gid": "1897729084",
+            "+@lang": "JA",
+            "role": "Tokage-chan",
+            "person": {
+                "+content": "Yurina Watanabe",
+                "+@id": "148876"
+            }
+        },
+        {
+            "+@gid": "1990741943",
+            "+@lang": "JA",
+            "role": "Dober-san",
+            "person": {
+                "+content": "Ryōta Suzuki",
+                "+@id": "174131"
+            }
+        },
+        {
+            "+@gid": "2123312636",
+            "+@lang": "JA",
+            "role": "Kaeru-chan",
+            "person": {
+                "+content": "Minami Kurisaka",
+                "+@id": "203668"
+            }
         }
     ],
     "credit": {
@@ -131,5 +221,6 @@
         }
     },
     "+@date-added": "2025-12-18T04:28:55Z",
-    "+@date-last-updated-at": "2026-02-17T03:14:49Z"
+    "+@date-last-modified-at": "2026-03-19T03:22:09Z",
+    "+@date-last-updated-at": "2026-03-19T03:22:09Z"
 }

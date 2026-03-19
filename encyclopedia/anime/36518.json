@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Yoroi-Shinden Samurai Troopers",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-17T03:14:48Z",
+    "+@generated-on": "2026-03-19T03:22:07Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "340"
@@ -39,6 +39,12 @@
             "+@gid": "2533512934",
             "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Samurai Troopers - I cinque Samurai - La nuova leggenda delle armature",
+            "+@gid": "2028519013",
+            "+@type": "Alternative title",
+            "+@lang": "IT"
         },
         {
             "+content": "Yoroi Shin Den Samurai Troopers",
@@ -178,8 +184,18 @@
             "+@type": "Insert song"
         },
         {
+            "+content": "\"My Revolution\" by SERRA (ep 10)",
+            "+@gid": "710437992",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "\"Namida no Request\" (涙のリクエスト) by ASH (ep 1)",
             "+@gid": "2142289632",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Okiraku Jodo e\" (お気楽浄土へ) by Miho Amane, Kana Hoshizaki and Nanase Matsuoka (eps 3,8)",
+            "+@gid": "2171244502",
             "+@type": "Insert song"
         },
         {
@@ -203,6 +219,11 @@
             "+@type": "Insert song"
         },
         {
+            "+content": "\"Yume wo Shinjite\" (夢を信じて) by ASH (ep 7)",
+            "+@gid": "3082826035",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "TVアニメ『鎧真伝サムライトルーパー』公式サイト",
             "+@gid": "1547654536",
             "+@type": "Official website",
@@ -212,7 +233,7 @@
     ],
     "ratings": {
         "+@nb_votes": "5",
-        "+@weighted_score": "5.1508"
+        "+@weighted_score": "5.1516"
     },
     "episode": [
         {
@@ -268,6 +289,46 @@
             "title": {
                 "+content": "Memory",
                 "+@gid": "2564837205",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "Again",
+                "+@gid": "1322260506",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "Outbreak",
+                "+@gid": "1056368514",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "Sacrifice",
+                "+@gid": "2596124132",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "Return",
+                "+@gid": "3491045494",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Epilogue",
+                "+@gid": "1160421976",
                 "+@lang": "EN"
             }
         }
@@ -332,6 +393,11 @@
             "+content": "Crunchyroll Streams <cite>Champignon Witch</cite>, <cite>Noble Reincarnation</cite>, More Anime in India",
             "+@datetime": "2026-01-08T08:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-01-08/crunchyroll-streams-champignon-witch-noble-reincarnation-more-anime-in-india/.232837"
+        },
+        {
+            "+content": "<cite>Yoroi-Shinden Samurai Troopers</cite> Anime Reveals 3 New Cast Members",
+            "+@datetime": "2026-03-04T07:13:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-04/yoroi-shinden-samurai-troopers-anime-reveals-3-new-cast-members/.234886"
         }
     ],
     "staff": [
@@ -593,12 +659,30 @@
             }
         },
         {
+            "+@gid": "2847828930",
+            "+@lang": "JA",
+            "role": "Seiun Kuroda/Fubuki no Seiun",
+            "person": {
+                "+content": "Misato Matsuoka",
+                "+@id": "53103"
+            }
+        },
+        {
             "+@gid": "655531775",
             "+@lang": "JA",
             "role": "Kamanosuke",
             "person": {
                 "+content": "Takuma Terashima",
                 "+@id": "55286"
+            }
+        },
+        {
+            "+@gid": "522103914",
+            "+@lang": "JA",
+            "role": "Tadayoshi Katō/Shōdo no Tadayoshi",
+            "person": {
+                "+content": "Kentarō Tone",
+                "+@id": "57088"
             }
         },
         {
@@ -689,6 +773,15 @@
             "person": {
                 "+content": "Shunsuke Takeuchi",
                 "+@id": "132044"
+            }
+        },
+        {
+            "+@gid": "1435732904",
+            "+@lang": "JA",
+            "role": "Shun Shimazu/Enten no Shun",
+            "person": {
+                "+content": "Yūya Hirose",
+                "+@id": "141455"
             }
         },
         {
@@ -802,6 +895,6 @@
         }
     ],
     "+@date-added": "2025-06-11T20:17:35Z",
-    "+@date-last-modified-at": "2026-02-17T03:14:49Z",
-    "+@date-last-updated-at": "2026-02-17T03:14:49Z"
+    "+@date-last-modified-at": "2026-03-19T03:22:09Z",
+    "+@date-last-updated-at": "2026-03-19T03:22:09Z"
 }

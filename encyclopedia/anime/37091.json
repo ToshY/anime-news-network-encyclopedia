@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Cyborg 009: Nemesis",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-17T03:14:47Z",
+    "+@generated-on": "2026-03-19T03:22:06Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "2598"
@@ -56,7 +56,7 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026",
+            "+content": "2026 (summer)",
             "+@gid": "1136816118",
             "+@type": "Vintage"
         },
@@ -78,25 +78,75 @@
             "+content": "<cite>Cyborg 009: Nemesis</cite> Anime Reveals Teaser Video, Theme Song Artist, 2026 Debut",
             "+@datetime": "2026-01-25T00:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-01-24/cyborg-009-nemesis-anime-reveals-teaser-video-theme-song-artist-2026-debut/.233417"
+        },
+        {
+            "+content": "<cite>Cyborg 009: Nemesis</cite> Anime Reveals Cast Member, Staff, Summer Premiere",
+            "+@datetime": "2026-03-19T03:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-18/cyborg-009-nemesis-anime-reveals-cast-member-staff-summer-premiere/.235458"
         }
     ],
-    "staff": {
-        "+@gid": "2426760944",
-        "task": "Original creator",
+    "staff": [
+        {
+            "+@gid": "938167382",
+            "task": "Director",
+            "person": {
+                "+content": "Hideki Ambo",
+                "+@id": "294858"
+            }
+        },
+        {
+            "+@gid": "2493474477",
+            "task": "Script",
+            "person": {
+                "+content": "Atsuhiro Tomioka",
+                "+@id": "1623"
+            }
+        },
+        {
+            "+@gid": "2426760944",
+            "task": "Original creator",
+            "person": {
+                "+content": "Shōtarō Ishinomori",
+                "+@id": "6650"
+            }
+        },
+        {
+            "+@gid": "2948698473",
+            "task": "Character Design",
+            "person": {
+                "+content": "sanorin",
+                "+@id": "234135"
+            }
+        }
+    ],
+    "cast": {
+        "+@gid": "2491712887",
+        "+@lang": "JA",
+        "role": "Graviton",
         "person": {
-            "+content": "Shōtarō Ishinomori",
-            "+@id": "6650"
+            "+content": "Yūichi Nakamura",
+            "+@id": "15878"
         }
     },
-    "credit": {
-        "+@gid": "769407218",
-        "task": "Production",
-        "company": {
-            "+content": "Ishimori Production",
-            "+@id": "15139"
+    "credit": [
+        {
+            "+@gid": "2658646739",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Arect",
+                "+@id": "13279"
+            }
+        },
+        {
+            "+@gid": "769407218",
+            "task": "Production",
+            "company": {
+                "+content": "Ishimori Production",
+                "+@id": "15139"
+            }
         }
-    },
+    ],
     "+@date-added": "2025-07-18T23:53:47Z",
-    "+@date-last-modified-at": "2026-02-17T03:14:49Z",
-    "+@date-last-updated-at": "2026-02-17T03:14:49Z"
+    "+@date-last-modified-at": "2026-03-19T03:22:09Z",
+    "+@date-last-updated-at": "2026-03-19T03:22:09Z"
 }

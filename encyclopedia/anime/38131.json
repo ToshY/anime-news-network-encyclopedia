@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Iron Wok Jan!",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-17T03:14:43Z",
+    "+@generated-on": "2026-03-19T03:22:02Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "1594"
@@ -190,15 +190,25 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "1782093208",
-        "task": "Animation Production",
-        "company": {
-            "+content": "TROYCA",
-            "+@id": "12192"
+    "credit": [
+        {
+            "+@gid": "1782093208",
+            "task": "Animation Production",
+            "company": {
+                "+content": "TROYCA",
+                "+@id": "12192"
+            }
+        },
+        {
+            "+@gid": "928227042",
+            "task": "Production",
+            "company": {
+                "+content": "NBCUniversal Entertainment Japan",
+                "+@id": "12727"
+            }
         }
-    },
+    ],
     "+@date-added": "2025-12-15T04:33:41Z",
-    "+@date-last-modified-at": "2026-02-17T03:14:49Z",
-    "+@date-last-updated-at": "2026-02-17T03:14:49Z"
+    "+@date-last-modified-at": "2026-03-19T03:22:09Z",
+    "+@date-last-updated-at": "2026-03-19T03:22:09Z"
 }
