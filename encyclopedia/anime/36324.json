@@ -2,9 +2,9 @@
     "+@id": "36324",
     "+@gid": "693310425",
     "+@type": "TV",
-    "+@name": "One Within the Villainess",
+    "+@name": "Within the Villainess",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-17T05:37:58Z",
+    "+@generated-on": "2026-03-19T05:20:27Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "36323"
@@ -13,31 +13,32 @@
         {
             "+@gid": "2028201473",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36324-2028201473.1748578415.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36324-2028201473.1773392659.jpg",
+            "+@width": "145",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36324-2028201473.1748578415.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36324-2028201473.1773392659.jpg",
+                    "+@width": "145",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36324-2028201473.1748578415.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36324-2028201473.1773392659.jpg",
+                    "+@width": "434",
                     "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A36324-2028201473.1748578415.jpg",
-                    "+@width": "579",
-                    "+@height": "819"
                 }
             ]
         },
         {
+            "+content": "Within the Villainess",
+            "+@gid": "2407961835",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "The One Within the Villainess",
             "+@gid": "2137503194",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "EN"
         },
         {
@@ -51,9 +52,58 @@
             "+@gid": "1494413084",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "2027",
+            "+@gid": "3778139524",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ『悪役令嬢の中の人』公式サイト",
+            "+@gid": "2123599442",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://nakanohito-pr.com/"
         }
     ],
+    "news": {
+        "+content": "<cite>Within the Villainess</cite> Anime Reveals TV Format, Staff, Cast, 2027 Debut",
+        "+@datetime": "2026-03-13T09:00:00Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-13/within-the-villainess-anime-reveals-tv-format-staff-cast-2027-debut/.235257"
+    },
     "staff": [
+        {
+            "+@gid": "1949117778",
+            "task": "Director",
+            "person": {
+                "+content": "Shigehisa Iida",
+                "+@id": "77021"
+            }
+        },
+        {
+            "+@gid": "2210476229",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Hiroyuki Yoshino",
+                "+@id": "36992"
+            }
+        },
+        {
+            "+@gid": "3329440752",
+            "task": "Script",
+            "person": {
+                "+content": "Hiroyuki Yoshino",
+                "+@id": "36992"
+            }
+        },
+        {
+            "+@gid": "2933683077",
+            "task": "Music",
+            "person": {
+                "+content": "Shūji Katayama",
+                "+@id": "108612"
+            }
+        },
         {
             "+@gid": "1458672269",
             "task": "Original creator",
@@ -77,8 +127,55 @@
                 "+content": "Mai Murasaki",
                 "+@id": "210774"
             }
+        },
+        {
+            "+@gid": "494117918",
+            "task": "Character Design",
+            "person": {
+                "+content": "Reiko Nagasawa",
+                "+@id": "132328"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2865610373",
+            "+@lang": "JA",
+            "role": "Remilia Rose Graupner",
+            "person": {
+                "+content": "Miyuki Sawashiro",
+                "+@id": "5735"
+            }
+        },
+        {
+            "+@gid": "2668951140",
+            "+@lang": "JA",
+            "role": "Emi",
+            "person": {
+                "+content": "Rie Takahashi",
+                "+@id": "126148"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "1021299663",
+            "task": "Animation Production",
+            "company": {
+                "+content": "ROLL2",
+                "+@id": "21324"
+            }
+        },
+        {
+            "+@gid": "1412489639",
+            "task": "Production",
+            "company": {
+                "+content": "Infinite",
+                "+@id": "10685"
+            }
         }
     ],
     "+@date-added": "2025-05-30T00:11:36Z",
-    "+@date-last-updated-at": "2026-02-17T05:38:02Z"
+    "+@date-last-modified-at": "2026-03-19T05:38:39Z",
+    "+@date-last-updated-at": "2026-03-19T05:38:39Z"
 }

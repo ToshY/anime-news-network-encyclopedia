@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "An Adventurer's Daily Grind at Age 29",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-17T05:37:59Z",
+    "+@generated-on": "2026-03-19T05:38:36Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "31214"
@@ -74,9 +74,19 @@
             "+@type": "Genres"
         },
         {
+            "+content": "gore",
+            "+@gid": "1964167788",
+            "+@type": "Themes"
+        },
+        {
             "+content": "monsters",
             "+@gid": "1587279450",
             "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "2037915360",
+            "+@type": "Objectionable content"
         },
         {
             "+content": "Having spent his childhood in the slums, Hajime Shinonome desperately sought strength to survive. Now, he enjoys a peaceful and carefree life as a resident adventurer of the Komai Village. One day, during a quest, he ventured into a dungeon and finds a young girl being partially eaten by a weakest kind of monster, a slime. Having been abandoned by her parents, Lirui had no place to go and entered the dungeon alone in order to stay alive. Hajime couldn't just leave her there, so he took her back to the village to live with him.",
@@ -112,8 +122,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "2.7737"
+        "+@nb_votes": "6",
+        "+@weighted_score": "4.0128"
     },
     "news": [
         {
@@ -248,6 +258,15 @@
     ],
     "cast": [
         {
+            "+@gid": "1157424269",
+            "+@lang": "EN",
+            "role": "Cocko",
+            "person": {
+                "+content": "Hollis Beck",
+                "+@id": "191294"
+            }
+        },
+        {
             "+@gid": "1768852660",
             "+@lang": "EN",
             "role": "Olive Carmen",
@@ -374,6 +393,6 @@
         }
     },
     "+@date-added": "2025-05-05T05:35:09Z",
-    "+@date-last-modified-at": "2026-02-17T05:38:02Z",
-    "+@date-last-updated-at": "2026-02-17T05:38:02Z"
+    "+@date-last-modified-at": "2026-03-19T05:38:39Z",
+    "+@date-last-updated-at": "2026-03-19T05:38:39Z"
 }
