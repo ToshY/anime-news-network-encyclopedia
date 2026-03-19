@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Medalist",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-02-17T13:40:14Z",
+    "+@generated-on": "2026-03-19T13:43:12Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28262"
@@ -96,6 +96,11 @@
             "+@type": "Opening Theme"
         },
         {
+            "+content": "\"Rookies\" by Conton Candy",
+            "+@gid": "3019401099",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "TVアニメ「メダリスト」公式サイト",
             "+@gid": "1086364679",
             "+@type": "Official website",
@@ -103,6 +108,10 @@
             "+@href": "https://medalist-pr.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "8"
+    },
     "news": [
         {
             "+content": "<cite>Medalist</cite> 2nd Season Anime Unveils January 2026 Debut in Teaser Video",
@@ -123,6 +132,11 @@
             "+content": "<cite>Medalist</cite> Anime Season 2 Announces 4 More Cast Members",
             "+@datetime": "2026-02-15T16:16:49Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-02-15/medalist-anime-season-2-announces-4-more-cast-members/.234219"
+        },
+        {
+            "+content": "Hulu Adds <cite>Medalist</cite> Anime Season 2 in U.S.",
+            "+@datetime": "2026-02-19T00:08:50Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-18/hulu-adds-medalist-anime-season-2-in-u.s/.234313"
         }
     ],
     "staff": [
@@ -215,6 +229,14 @@
             }
         },
         {
+            "+@gid": "2006377519",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takaaki Agatsuma",
+                "+@id": "279696"
+            }
+        },
+        {
             "+@gid": "1876320935",
             "task": "Unit Director",
             "person": {
@@ -260,6 +282,22 @@
             "person": {
                 "+content": "Yōko Nakao",
                 "+@id": "103001"
+            }
+        },
+        {
+            "+@gid": "2758572129",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Katsuhiro Kumagai",
+                "+@id": "83432"
+            }
+        },
+        {
+            "+@gid": "2081189929",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Saki Hasegawa",
+                "+@id": "95226"
             }
         },
         {
@@ -311,6 +349,14 @@
             }
         },
         {
+            "+@gid": "3749353477",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mai Ogawa",
+                "+@id": "80931"
+            }
+        },
+        {
             "+@gid": "2757698295",
             "task": "Animation Director",
             "person": {
@@ -343,6 +389,14 @@
             }
         },
         {
+            "+@gid": "518977664",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hidehiro Asama",
+                "+@id": "110104"
+            }
+        },
+        {
             "+@gid": "1362347691",
             "task": "Animation Director",
             "person": {
@@ -364,6 +418,14 @@
             "person": {
                 "+content": "Chika Nōmi",
                 "+@id": "130145"
+            }
+        },
+        {
+            "+@gid": "2775030846",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ayaka Murakami",
+                "+@id": "137376"
             }
         },
         {
@@ -391,6 +453,14 @@
             }
         },
         {
+            "+@gid": "3416389742",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūhi Suzuki",
+                "+@id": "187336"
+            }
+        },
+        {
             "+@gid": "1157477040",
             "task": "Animation Director",
             "person": {
@@ -407,6 +477,38 @@
             }
         },
         {
+            "+@gid": "2179333756",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ayumi Takeuchi",
+                "+@id": "194694"
+            }
+        },
+        {
+            "+@gid": "2199386493",
+            "task": "Animation Director",
+            "person": {
+                "+content": "tofu",
+                "+@id": "201278"
+            }
+        },
+        {
+            "+@gid": "1893686572",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Miyuki Maemura",
+                "+@id": "204266"
+            }
+        },
+        {
+            "+@gid": "2060391948",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ryoko Oka",
+                "+@id": "204760"
+            }
+        },
+        {
             "+@gid": "1094226684",
             "task": "Animation Director",
             "person": {
@@ -420,6 +522,14 @@
             "person": {
                 "+content": "Han Byeol Jang",
                 "+@id": "217237"
+            }
+        },
+        {
+            "+@gid": "1855295255",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Eun Ah Shin",
+                "+@id": "223288"
             }
         },
         {
@@ -471,6 +581,14 @@
             }
         },
         {
+            "+@gid": "2765476403",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Meroma",
+                "+@id": "281919"
+            }
+        },
+        {
             "+@gid": "3689536207",
             "task": "Animation Director",
             "person": {
@@ -492,6 +610,14 @@
             "person": {
                 "+content": "Yue Liang",
                 "+@id": "293181"
+            }
+        },
+        {
+            "+@gid": "2830853143",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ye Jin Yu",
+                "+@id": "294272"
             }
         },
         {
@@ -554,6 +680,15 @@
             "person": {
                 "+content": "Kaiji Tang",
                 "+@id": "70445"
+            }
+        },
+        {
+            "+@gid": "2154242709",
+            "+@lang": "EN",
+            "role": "Mika Yuitsuka",
+            "person": {
+                "+content": "Christine Marie Cabanos",
+                "+@id": "95337"
             }
         },
         {
@@ -626,6 +761,15 @@
             "person": {
                 "+content": "Madeline Dorroh",
                 "+@id": "203714"
+            }
+        },
+        {
+            "+@gid": "2342944144",
+            "+@lang": "EN",
+            "role": "Kakeru Uobuchi",
+            "person": {
+                "+content": "Paul Castro Jr.",
+                "+@id": "204899"
             }
         },
         {
@@ -818,6 +962,15 @@
             }
         },
         {
+            "+@gid": "1571682387",
+            "+@lang": "JA",
+            "role": "Koichi Kago",
+            "person": {
+                "+content": "Takanori Hoshino",
+                "+@id": "16462"
+            }
+        },
+        {
             "+@gid": "2383353495",
             "+@lang": "JA",
             "role": "Yuna Yagi",
@@ -905,6 +1058,15 @@
             "person": {
                 "+content": "Makoto Koichi",
                 "+@id": "143804"
+            }
+        },
+        {
+            "+@gid": "3166019062",
+            "+@lang": "JA",
+            "role": "Yo Kago",
+            "person": {
+                "+content": "Honoka Inoue",
+                "+@id": "151186"
             }
         },
         {
@@ -1007,6 +1169,6 @@
         }
     },
     "+@date-added": "2025-03-29T19:49:24Z",
-    "+@date-last-modified-at": "2026-02-17T13:40:18Z",
-    "+@date-last-updated-at": "2026-02-17T13:40:18Z"
+    "+@date-last-modified-at": "2026-03-19T13:43:16Z",
+    "+@date-last-updated-at": "2026-03-19T13:43:16Z"
 }

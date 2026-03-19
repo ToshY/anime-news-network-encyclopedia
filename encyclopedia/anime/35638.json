@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "STEEL BALL RUN JoJo’s Bizarre Adventure",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-17T09:06:03Z",
+    "+@generated-on": "2026-03-19T13:43:11Z",
     "related-prev": [
         {
             "+@rel": "adapted from",
@@ -68,11 +68,36 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "#1: \"Dance with STEEL BALL RUN\" by Yūgo Kanno (ep 1)",
+            "+@gid": "3034322859",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "アニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』",
             "+@gid": "2370790943",
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://jojo-portal.com/anime/sbr/"
+        }
+    ],
+    "episode": {
+        "+@num": "1",
+        "title": {
+            "+content": "Steel Ball Run",
+            "+@gid": "228238412",
+            "+@lang": "EN"
+        }
+    },
+    "news": [
+        {
+            "+content": "<cite>JoJo's Bizarre Adventure Part 7: Steel Ball Run</cite> Anime's English Dub Trailer Reveals Dub Cast",
+            "+@datetime": "2026-02-20T01:14:41Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-19/jojo-bizarre-adventure-part-7-steel-ball-run-anime-english-dub-trailer-reveals-dub-cast/.234354"
+        },
+        {
+            "+content": "Netflix Lists <cite>JoJo's Bizarre Adventure Part 7: Steel Ball Run</cite> Anime in India",
+            "+@datetime": "2026-03-01T12:46:37Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-01/netflix-lists-jojo-bizarre-adventure-part-7-steel-ball-run-anime-in-india/.234768"
         }
     ],
     "staff": [
@@ -155,9 +180,88 @@
                 "+content": "Noriko Dohi",
                 "+@id": "124882"
             }
+        },
+        {
+            "+@gid": "2880761992",
+            "task": "Producer",
+            "person": {
+                "+content": "Fumihiro Ozawa",
+                "+@id": "166302"
+            }
+        },
+        {
+            "+@gid": "2207743125",
+            "task": "Producer",
+            "person": {
+                "+content": "Takamitsu Sueyoshi",
+                "+@id": "199142"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "2292989074",
+            "+@lang": "EN",
+            "role": "Steven Steel",
+            "person": {
+                "+content": "Jamieson K. Price",
+                "+@id": "2258"
+            }
+        },
+        {
+            "+@gid": "1760400364",
+            "+@lang": "EN",
+            "role": "Gyro Zeppeli",
+            "person": {
+                "+content": "Kaiji Tang",
+                "+@id": "70445"
+            }
+        },
+        {
+            "+@gid": "2455634373",
+            "+@lang": "EN",
+            "role": "Pocoloco",
+            "person": {
+                "+content": "Cedric Williams",
+                "+@id": "129229"
+            }
+        },
+        {
+            "+@gid": "1993510862",
+            "+@lang": "EN",
+            "role": "Johnny Joestar",
+            "person": {
+                "+content": "Daman Mills",
+                "+@id": "134672"
+            }
+        },
+        {
+            "+@gid": "2753414188",
+            "+@lang": "EN",
+            "role": "Diego Brando",
+            "person": {
+                "+content": "Damien Haas",
+                "+@id": "154733"
+            }
+        },
+        {
+            "+@gid": "226158877",
+            "+@lang": "EN",
+            "role": "Sand Man",
+            "person": {
+                "+content": "Alejandro Ruiz",
+                "+@id": "222685"
+            }
+        },
+        {
+            "+@gid": "2641505436",
+            "+@lang": "EN",
+            "role": "Lucy Steel",
+            "person": {
+                "+content": "Frankie Kevich",
+                "+@id": "242511"
+            }
+        },
         {
             "+@gid": "3764034143",
             "+@lang": "JA",
@@ -222,15 +326,33 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "1167357930",
-        "task": "Animation Production",
-        "company": {
-            "+content": "david production",
-            "+@id": "7677"
+    "credit": [
+        {
+            "+@gid": "1167357930",
+            "task": "Animation Production",
+            "company": {
+                "+content": "david production",
+                "+@id": "7677"
+            }
+        },
+        {
+            "+@gid": "2800928896",
+            "task": "Production",
+            "company": {
+                "+content": "Shueisha",
+                "+@id": "909"
+            }
+        },
+        {
+            "+@gid": "2893533956",
+            "task": "Production",
+            "company": {
+                "+content": "Warner Bros. Japan",
+                "+@id": "12786"
+            }
         }
-    },
+    ],
     "+@date-added": "2025-04-12T20:23:51Z",
-    "+@date-last-modified-at": "2026-02-17T09:06:07Z",
-    "+@date-last-updated-at": "2026-02-17T09:06:07Z"
+    "+@date-last-modified-at": "2026-03-19T13:43:16Z",
+    "+@date-last-updated-at": "2026-03-19T13:43:16Z"
 }
