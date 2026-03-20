@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Shiō no Kikan",
     "+@precision": "manga",
-    "+@generated-on": "2026-02-18T13:41:51Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "20005"
-    },
+    "+@generated-on": "2026-03-20T17:02:51Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "20005"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "38514"
+        }
+    ],
     "info": [
         {
             "+@gid": "2220476936",
@@ -109,5 +115,6 @@
         }
     ],
     "+@date-added": "2025-07-22T21:07:27Z",
-    "+@date-last-updated-at": "2026-02-18T13:41:53Z"
+    "+@date-last-modified-at": "2026-03-20T17:02:53Z",
+    "+@date-last-updated-at": "2026-03-20T17:02:53Z"
 }
