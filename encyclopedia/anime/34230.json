@@ -4,7 +4,11 @@
     "+@type": "movie",
     "+@name": "Scarlet",
     "+@precision": "movie",
-    "+@generated-on": "2026-02-18T05:39:35Z",
+    "+@generated-on": "2026-03-20T13:35:00Z",
+    "related-next": {
+        "+@id": "38500",
+        "+@rel": "adaptation"
+    },
     "info": [
         {
             "+@gid": "3948035013",
@@ -36,6 +40,12 @@
             "+@gid": "602475304",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "Scarlet et l'Eternité",
+            "+@gid": "3162538370",
+            "+@type": "Alternative title",
+            "+@lang": "FR"
         },
         {
             "+content": "果てしなきスカーレット",
@@ -73,6 +83,11 @@
             "+@type": "Premiere date"
         },
         {
+            "+content": "2026-02-19 (Hungary)",
+            "+@gid": "2263965758",
+            "+@type": "Premiere date"
+        },
+        {
             "+content": "2026-02-27 (Poland)",
             "+@gid": "1512146771",
             "+@type": "Premiere date"
@@ -96,8 +111,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "5.8765"
+        "+@nb_votes": "5",
+        "+@weighted_score": "6.3367"
     },
     "review": [
         {
@@ -111,14 +126,24 @@
     ],
     "release": [
         {
+            "+content": "Scarlet - [4K] [UK] (Blu-ray)",
+            "+@date": "2026-00-00",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57442"
+        },
+        {
             "+content": "Scarlet - [4K] [SteelBook] (Blu-ray)",
-            "+@date": "2026-11-19",
+            "+@date": "2026-05-19",
             "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=56714"
         },
         {
             "+content": "Scarlet (Blu-ray)",
-            "+@date": "2026-11-19",
+            "+@date": "2026-05-19",
             "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=56713"
+        },
+        {
+            "+content": "Scarlet - [UK] (Blu-ray)",
+            "+@date": "2026-00-00",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57441"
         }
     ],
     "news": [
@@ -238,9 +263,9 @@
             "+@href": "https://www.animenewsnetwork.com:/news/2026-02-09/mamoru-hosoda-scarlet-anime-film-earns-usd260000-in-united-states/.233945"
         },
         {
-            "+content": "Yen Press Licenses <cite>Scarlet</cite>, <cite>My Yandere Girlfriend Hiding in the Dungeon Kills Me Over and Over Again</cite> Novels, 11 Manga",
-            "+@datetime": "2026-02-13T20:30:33Z",
-            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-13/yen-press-licenses-scarlet-my-yandere-girlfriend-hiding-in-the-dungeon-kills-me-over-and-over-again-/.234154"
+            "+content": "<cite>Scarlet</cite> Anime Film Crosses US$626,800 in U.S. Box Office",
+            "+@datetime": "2026-02-24T18:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-24/scarlet-anime-film-crosses-usd626800-in-u.s-box-office/.234479"
         }
     ],
     "staff": [
@@ -500,6 +525,123 @@
             }
         },
         {
+            "+@gid": "2554178338",
+            "+@lang": "FR",
+            "role": "Voltemand",
+            "person": {
+                "+content": "Arnaud Léonard",
+                "+@id": "29175"
+            }
+        },
+        {
+            "+@gid": "908937978",
+            "+@lang": "FR",
+            "role": "Cornelius",
+            "person": {
+                "+content": "Eric Peter",
+                "+@id": "34266"
+            }
+        },
+        {
+            "+@gid": "2043025723",
+            "+@lang": "FR",
+            "role": "Gertrude",
+            "person": {
+                "+content": "Isabelle Desplantes",
+                "+@id": "95270"
+            }
+        },
+        {
+            "+@gid": "3325072974",
+            "+@lang": "FR",
+            "role": "Amleth",
+            "person": {
+                "+content": "Franck Vincent",
+                "+@id": "190980"
+            }
+        },
+        {
+            "+@gid": "845122539",
+            "+@lang": "FR",
+            "role": "Claudius",
+            "person": {
+                "+content": "Serge Biavan",
+                "+@id": "202156"
+            }
+        },
+        {
+            "+@gid": "747632914",
+            "+@lang": "FR",
+            "role": "Scarlet",
+            "person": {
+                "+content": "Elia-Carmine Robbe",
+                "+@id": "241218"
+            }
+        },
+        {
+            "+@gid": "2269690129",
+            "+@lang": "FR",
+            "role": "Hijiri",
+            "person": {
+                "+content": "Mathieu Spinosi",
+                "+@id": "294340"
+            }
+        },
+        {
+            "+@gid": "2612110808",
+            "+@lang": "FR",
+            "role": "Guildenstern",
+            "person": {
+                "+content": "Yannis Harzallah",
+                "+@id": "294342"
+            }
+        },
+        {
+            "+@gid": "1861839961",
+            "+@lang": "IT",
+            "role": "Claudio",
+            "person": {
+                "+content": "Paolo Marchese",
+                "+@id": "26617"
+            }
+        },
+        {
+            "+@gid": "1916607618",
+            "+@lang": "IT",
+            "role": "Amleto",
+            "person": {
+                "+content": "Alberto Angrisano",
+                "+@id": "52607"
+            }
+        },
+        {
+            "+@gid": "3439050940",
+            "+@lang": "IT",
+            "role": "Cornelio",
+            "person": {
+                "+content": "Dario Oppido",
+                "+@id": "53298"
+            }
+        },
+        {
+            "+@gid": "3764967175",
+            "+@lang": "IT",
+            "role": "Hijiri",
+            "person": {
+                "+content": "Alessandro Campaiola",
+                "+@id": "131277"
+            }
+        },
+        {
+            "+@gid": "2023971341",
+            "+@lang": "IT",
+            "role": "Scarlet",
+            "person": {
+                "+content": "Margherita De Risi",
+                "+@id": "144962"
+            }
+        },
+        {
             "+@gid": "3097769468",
             "+@lang": "JA",
             "role": "Polonius",
@@ -706,6 +848,6 @@
         }
     ],
     "+@date-added": "2024-12-23T04:45:18Z",
-    "+@date-last-modified-at": "2026-02-18T05:39:42Z",
-    "+@date-last-updated-at": "2026-02-18T05:39:42Z"
+    "+@date-last-modified-at": "2026-03-20T13:35:06Z",
+    "+@date-last-updated-at": "2026-03-20T13:35:06Z"
 }

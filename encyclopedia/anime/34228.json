@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "MF Ghost",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-02-18T05:39:36Z",
+    "+@generated-on": "2026-03-20T13:35:00Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "31074"
@@ -107,14 +107,24 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "\"TIMELESS POWER feat. MOTSU\" by Yū Serizawa (eps 25-29)",
+            "+content": "\"TIMELESS POWER feat. MOTSU\" by Yū Serizawa (eps 25-29, 33)",
             "+@gid": "943887892",
             "+@type": "Opening Theme"
         },
         {
-            "+content": "\"Yokan no Tochū Prod. ☆Taku Takahashi (m-flo)\" (予感の途中) by Himika Akaneya (eps 25-29, 31)",
+            "+content": "#1: \"Yokan no Tochū Prod. ☆Taku Takahashi (m-flo)\" (予感の途中) by Himika Akaneya (eps 25-29, 31-33)",
             "+@gid": "1834946850",
             "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#2: \"Ready to Go\" by Mega NRG Man (ep 34)",
+            "+@gid": "3254816699",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"A World of Joy\" by Dave Rodgers feat. Kaioh (ep 32)",
+            "+@gid": "3302751705",
+            "+@type": "Insert song"
         },
         {
             "+content": "\"Adrenaline\" by Manuel (ep 27)",
@@ -129,6 +139,16 @@
         {
             "+content": "\"Crash Boom Burn Me Up\" by Fastway (eps 25,28)",
             "+@gid": "2813345646",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Disco Fire\" by Neo (ep 33)",
+            "+@gid": "1116244610",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Horizon\" by Yū Serizawa (ep 32)",
+            "+@gid": "599020168",
             "+@type": "Insert song"
         },
         {
@@ -152,7 +172,7 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Run Run Babe\" by Go 2 (ep 27)",
+            "+content": "\"Run Run Babe\" by Go 2 (eps 27,35)",
             "+@gid": "2199251773",
             "+@type": "Insert song"
         },
@@ -162,13 +182,18 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Spirit of the Night\" by David Dima (ep 28)",
+            "+content": "\"Spirit of the Night\" by David Dima (eps 28,34)",
             "+@gid": "1351709208",
             "+@type": "Insert song"
         },
         {
             "+content": "\"Stereo Sunset (Prod. AmPm)\" by Himika Akaneya (ep 30)",
             "+@gid": "1566916221",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"The Final Game\" by Dave Rodgers & Kiko Loureiro (ep 32)",
+            "+@gid": "1398506845",
             "+@type": "Insert song"
         },
         {
@@ -190,8 +215,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "5.8348"
+        "+@nb_votes": "3",
+        "+@weighted_score": "6.4013"
     },
     "episode": [
         {
@@ -257,6 +282,38 @@
                 "+@gid": "1474832218",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "33",
+            "title": {
+                "+content": "The Red Bullet",
+                "+@gid": "1927521670",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "34",
+            "title": {
+                "+content": "The King's Impatience",
+                "+@gid": "1435435642",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "35",
+            "title": {
+                "+content": "The Strongest Train",
+                "+@gid": "1029765031",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "36",
+            "title": {
+                "+content": "The Midair Feint",
+                "+@gid": "3260430309",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -294,6 +351,11 @@
             "+content": "<cite>MF Ghost</cite> 3rd Season Anime's English Dub Debuts on January 22",
             "+@datetime": "2026-01-22T18:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-01-22/mf-ghost-3rd-season-anime-english-dub-debuts-on-january-22/.233364"
+        },
+        {
+            "+content": "<cite>MF Ghost</cite> Season 3 Anime Streams 3rd Promotional Video",
+            "+@datetime": "2026-02-20T10:49:29Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-20/mf-ghost-season-3-anime-streams-3rd-promotional-video/.234377"
         }
     ],
     "staff": [
@@ -362,6 +424,14 @@
             }
         },
         {
+            "+@gid": "1515463003",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tsutomu Ōno",
+                "+@id": "225238"
+            }
+        },
+        {
             "+@gid": "1031922292",
             "task": "Storyboard",
             "person": {
@@ -391,6 +461,22 @@
             "person": {
                 "+content": "Tomohito Naka",
                 "+@id": "75640"
+            }
+        },
+        {
+            "+@gid": "1283187802",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tsutomu Ōno",
+                "+@id": "225238"
+            }
+        },
+        {
+            "+@gid": "2064254141",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yoshino Asō",
+                "+@id": "271485"
             }
         },
         {
@@ -514,6 +600,14 @@
             }
         },
         {
+            "+@gid": "2141110214",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Akira Oguro",
+                "+@id": "8088"
+            }
+        },
+        {
             "+@gid": "242657727",
             "task": "Animation Director",
             "person": {
@@ -554,6 +648,14 @@
             }
         },
         {
+            "+@gid": "2981737898",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yoshito Narimatsu",
+                "+@id": "35018"
+            }
+        },
+        {
             "+@gid": "1850836220",
             "task": "Animation Director",
             "person": {
@@ -570,11 +672,27 @@
             }
         },
         {
+            "+@gid": "1438783784",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Saki Hisamatsu",
+                "+@id": "72278"
+            }
+        },
+        {
             "+@gid": "3338871138",
             "task": "Animation Director",
             "person": {
                 "+content": "Hiroshi Tatezaki",
                 "+@id": "77849"
+            }
+        },
+        {
+            "+@gid": "1276013249",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Atsushi Usui",
+                "+@id": "78088"
             }
         },
         {
@@ -602,6 +720,30 @@
             }
         },
         {
+            "+@gid": "2603994869",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Rina Miura",
+                "+@id": "158933"
+            }
+        },
+        {
+            "+@gid": "1578334469",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mizuki Furiya",
+                "+@id": "159080"
+            }
+        },
+        {
+            "+@gid": "2483154904",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Meng Meng Li",
+                "+@id": "194291"
+            }
+        },
+        {
             "+@gid": "2350817880",
             "task": "Animation Director",
             "person": {
@@ -610,11 +752,35 @@
             }
         },
         {
+            "+@gid": "1496998758",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tsutomu Ōno",
+                "+@id": "225238"
+            }
+        },
+        {
             "+@gid": "1571560796",
             "task": "Animation Director",
             "person": {
                 "+content": "Jing Li",
                 "+@id": "242947"
+            }
+        },
+        {
+            "+@gid": "2477488721",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Qiu Yu Jiang",
+                "+@id": "245274"
+            }
+        },
+        {
+            "+@gid": "1589969560",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yu Meng Liu",
+                "+@id": "245277"
             }
         },
         {
@@ -671,6 +837,22 @@
             "person": {
                 "+content": "Jian Jun Ma",
                 "+@id": "293248"
+            }
+        },
+        {
+            "+@gid": "1817746324",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jia Zhu Yu",
+                "+@id": "294568"
+            }
+        },
+        {
+            "+@gid": "2520345634",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jiang Shan Wei",
+                "+@id": "294569"
             }
         },
         {
@@ -793,12 +975,30 @@
             }
         },
         {
+            "+@gid": "3131357895",
+            "+@lang": "EN",
+            "role": "Keisuke Takahashi",
+            "person": {
+                "+content": "Todd Haberkorn",
+                "+@id": "62405"
+            }
+        },
+        {
             "+@gid": "3669865192",
             "+@lang": "EN",
             "role": "Ryosuke Takahashi",
             "person": {
                 "+content": "J. Michael Tatum",
                 "+@id": "65527"
+            }
+        },
+        {
+            "+@gid": "3050129172",
+            "+@lang": "EN",
+            "role": "Emma Green",
+            "person": {
+                "+content": "Alexis Tipton",
+                "+@id": "77434"
             }
         },
         {
@@ -1256,6 +1456,6 @@
         }
     ],
     "+@date-added": "2024-12-22T16:43:36Z",
-    "+@date-last-modified-at": "2026-02-18T05:39:42Z",
-    "+@date-last-updated-at": "2026-02-18T05:39:42Z"
+    "+@date-last-modified-at": "2026-03-20T13:35:06Z",
+    "+@date-last-updated-at": "2026-03-20T13:35:06Z"
 }
