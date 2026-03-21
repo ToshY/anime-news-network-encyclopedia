@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Frieren: Beyond Journey's End",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-02-18T17:29:52Z",
+    "+@generated-on": "2026-03-21T02:48:13Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26334"
@@ -146,8 +146,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "9",
-        "+@weighted_score": "8.7373"
+        "+@nb_votes": "13",
+        "+@weighted_score": "8.9148",
+        "+@bayesian_score": "8.22197"
     },
     "news": [
         {
@@ -219,6 +220,21 @@
             "+content": "Japanese Animation TV Ranking, February 2-8",
             "+@datetime": "2026-02-15T14:15:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-02-15/japanese-animation-tv-ranking-february-2-8/.234207"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, February 9-15",
+            "+@datetime": "2026-02-22T14:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-22/japanese-animation-tv-ranking-february-9-15/.234372"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, February 23-March 1",
+            "+@datetime": "2026-03-08T21:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-08/japanese-animation-tv-ranking-february-23-march-1/.235045"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, March 2-8",
+            "+@datetime": "2026-03-14T18:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-14/japanese-animation-tv-ranking-march-2-8/.235254"
         }
     ],
     "staff": [
@@ -263,6 +279,30 @@
             }
         },
         {
+            "+@gid": "1913907260",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kōki Fujimoto",
+                "+@id": "152121"
+            }
+        },
+        {
+            "+@gid": "2999800630",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Keiichirō Saitō",
+                "+@id": "153655"
+            }
+        },
+        {
+            "+@gid": "2843013368",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Daiki Harashina",
+                "+@id": "154609"
+            }
+        },
+        {
             "+@gid": "1730301305",
             "task": "Storyboard",
             "person": {
@@ -300,6 +340,22 @@
             "person": {
                 "+content": "Tomoya Kitagawa",
                 "+@id": "122204"
+            }
+        },
+        {
+            "+@gid": "1513186859",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Aimi Yamauchi",
+                "+@id": "136962"
+            }
+        },
+        {
+            "+@gid": "3205316743",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kōki Fujimoto",
+                "+@id": "152121"
             }
         },
         {
@@ -375,11 +431,35 @@
             }
         },
         {
+            "+@gid": "1577909507",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Keisuke Kojima",
+                "+@id": "83263"
+            }
+        },
+        {
+            "+@gid": "3450971317",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shinichi Yoshikawa",
+                "+@id": "11662"
+            }
+        },
+        {
             "+@gid": "2817529244",
             "task": "Animation Director",
             "person": {
                 "+content": "Izumi Seguchi",
                 "+@id": "68056"
+            }
+        },
+        {
+            "+@gid": "3061558519",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Keita Nagasaka",
+                "+@id": "79122"
             }
         },
         {
@@ -404,6 +484,14 @@
             "person": {
                 "+content": "Yuri Fujinaka",
                 "+@id": "144907"
+            }
+        },
+        {
+            "+@gid": "2905147385",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Daiki Harashina",
+                "+@id": "154609"
             }
         },
         {
@@ -708,6 +796,15 @@
             }
         },
         {
+            "+@gid": "1774107156",
+            "+@lang": "FR",
+            "role": "Methode",
+            "person": {
+                "+content": "Jessie Lambotte",
+                "+@id": "55847"
+            }
+        },
+        {
             "+@gid": "995496486",
             "+@lang": "FR",
             "role": "Stark",
@@ -762,6 +859,15 @@
             }
         },
         {
+            "+@gid": "895111922",
+            "+@lang": "FR",
+            "role": "Genau",
+            "person": {
+                "+content": "Simon Herlin",
+                "+@id": "197938"
+            }
+        },
+        {
             "+@gid": "2702144717",
             "+@lang": "FR",
             "role": "Scharf",
@@ -798,6 +904,33 @@
             }
         },
         {
+            "+@gid": "3456804304",
+            "+@lang": "JA",
+            "role": "Genau",
+            "person": {
+                "+content": "Tarusuke Shingaki",
+                "+@id": "12355"
+            }
+        },
+        {
+            "+@gid": "2551668604",
+            "+@lang": "JA",
+            "role": "Denken",
+            "person": {
+                "+content": "Jirō Saitō",
+                "+@id": "19882"
+            }
+        },
+        {
+            "+@gid": "2489907944",
+            "+@lang": "JA",
+            "role": "Serie",
+            "person": {
+                "+content": "Mariya Ise",
+                "+@id": "46112"
+            }
+        },
+        {
             "+@gid": "2844937814",
             "+@lang": "JA",
             "role": "Himmel",
@@ -822,6 +955,15 @@
             "person": {
                 "+content": "Atsumi Tanezaki",
                 "+@id": "111376"
+            }
+        },
+        {
+            "+@gid": "800976485",
+            "+@lang": "JA",
+            "role": "Methode",
+            "person": {
+                "+content": "Reina Ueda",
+                "+@id": "116390"
             }
         },
         {
@@ -879,6 +1021,6 @@
         }
     },
     "+@date-added": "2024-09-29T02:47:06Z",
-    "+@date-last-modified-at": "2026-02-18T17:29:58Z",
-    "+@date-last-updated-at": "2026-02-18T17:29:58Z"
+    "+@date-last-modified-at": "2026-03-21T02:48:19Z",
+    "+@date-last-updated-at": "2026-03-21T02:48:19Z"
 }

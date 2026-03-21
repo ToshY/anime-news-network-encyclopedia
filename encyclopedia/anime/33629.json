@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Wistoria: Wand and Sword",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-02-18T17:29:52Z",
+    "+@generated-on": "2026-03-21T02:48:13Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32011"
@@ -13,18 +13,18 @@
         {
             "+@gid": "2471073930",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33629-2471073930.1765022835.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33629-2471073930.1772759185.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33629-2471073930.1765022835.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33629-2471073930.1772759185.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33629-2471073930.1765022835.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33629-2471073930.1772759185.jpg",
+                    "+@width": "423",
                     "+@height": "600"
                 }
             ]
@@ -58,9 +58,19 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026-04",
+            "+content": "2026-04-12",
             "+@gid": "1942826580",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"BELIEVERS\" by ASH DA HERO",
+            "+@gid": "2481165561",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Reachlight\" (リーチライト) by Shiyui",
+            "+@gid": "1923642521",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ『杖と剣のウィストリア』公式サイト",
@@ -85,6 +95,11 @@
             "+content": "<cite>Wistoria: Wand and Sword</cite> Season 2 Anime Unveils Trailer, Visual",
             "+@datetime": "2025-12-06T12:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-12-06/wistoria-wand-and-sword-season-2-anime-unveils-trailer-visual/.231752"
+        },
+        {
+            "+content": "<cite>Wistoria: Wand and Sword</cite> Season 2 Anime's Video Reveals Theme Songs",
+            "+@datetime": "2026-03-05T15:03:37Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-05/wistoria-wand-and-sword-season-2-anime-video-reveals-theme-songs/.234920"
         }
     ],
     "staff": [
@@ -102,6 +117,14 @@
             "person": {
                 "+content": "Hideaki Nakano",
                 "+@id": "49322"
+            }
+        },
+        {
+            "+@gid": "2976971061",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Noboru Kimura",
+                "+@id": "18594"
             }
         },
         {
@@ -137,11 +160,43 @@
             }
         },
         {
+            "+@gid": "1365381238",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yuki Maeda",
+                "+@id": "61137"
+            }
+        },
+        {
             "+@gid": "2825065474",
             "task": "Chief Animation Director",
             "person": {
                 "+content": "Sayaka Ono",
                 "+@id": "40986"
+            }
+        },
+        {
+            "+@gid": "2289828600",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Hiroto Morishita",
+                "+@id": "107159"
+            }
+        },
+        {
+            "+@gid": "2408008942",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Takuji Goshima",
+                "+@id": "145186"
+            }
+        },
+        {
+            "+@gid": "668403086",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Ayako Otsuki",
+                "+@id": "195415"
             }
         }
     ],
@@ -156,12 +211,48 @@
             }
         },
         {
+            "+@gid": "1941616703",
+            "+@lang": "JA",
+            "role": "Logwell",
+            "person": {
+                "+content": "Akio Ōtsuka",
+                "+@id": "459"
+            }
+        },
+        {
             "+@gid": "2611749437",
             "+@lang": "JA",
             "role": "Workner Norgram",
             "person": {
                 "+content": "Tomokazu Seki",
                 "+@id": "529"
+            }
+        },
+        {
+            "+@gid": "2964471237",
+            "+@lang": "JA",
+            "role": "Caldron Anouve",
+            "person": {
+                "+content": "Reiko Suzuki",
+                "+@id": "1576"
+            }
+        },
+        {
+            "+@gid": "2754621751",
+            "+@lang": "JA",
+            "role": "Mercedes",
+            "person": {
+                "+content": "Marina Inoue",
+                "+@id": "20999"
+            }
+        },
+        {
+            "+@gid": "4009964019",
+            "+@lang": "JA",
+            "role": "Sarisa Alfeldt",
+            "person": {
+                "+content": "Ayaka Shimizu",
+                "+@id": "28034"
             }
         },
         {
@@ -174,12 +265,30 @@
             }
         },
         {
+            "+@gid": "1484174062",
+            "+@lang": "JA",
+            "role": "Mike Maius",
+            "person": {
+                "+content": "Atsushi Kōsaka",
+                "+@id": "36200"
+            }
+        },
+        {
             "+@gid": "2007739141",
             "+@lang": "JA",
             "role": "Edward Serfence",
             "person": {
                 "+content": "Kōji Yusa",
                 "+@id": "51073"
+            }
+        },
+        {
+            "+@gid": "2180885706",
+            "+@lang": "JA",
+            "role": "Marze",
+            "person": {
+                "+content": "Nobuhiko Okamoto",
+                "+@id": "59411"
             }
         },
         {
@@ -198,6 +307,42 @@
             "person": {
                 "+content": "Mutsumi Tamura",
                 "+@id": "70817"
+            }
+        },
+        {
+            "+@gid": "2967397707",
+            "+@lang": "JA",
+            "role": "Renaisse Arette",
+            "person": {
+                "+content": "Shinya Takahashi",
+                "+@id": "74624"
+            }
+        },
+        {
+            "+@gid": "2758266259",
+            "+@lang": "JA",
+            "role": "Filvis Challia",
+            "person": {
+                "+content": "Hisako Kanemoto",
+                "+@id": "85826"
+            }
+        },
+        {
+            "+@gid": "2803333963",
+            "+@lang": "JA",
+            "role": "Iris Churchill",
+            "person": {
+                "+content": "Rumi Ōkubo",
+                "+@id": "88587"
+            }
+        },
+        {
+            "+@gid": "2418680120",
+            "+@lang": "JA",
+            "role": "Jorua Moraine",
+            "person": {
+                "+content": "Atsushi Tamaru",
+                "+@id": "96013"
             }
         },
         {
@@ -228,6 +373,15 @@
             }
         },
         {
+            "+@gid": "599748738",
+            "+@lang": "JA",
+            "role": "Lefiya Viridis",
+            "person": {
+                "+content": "Juri Kimura",
+                "+@id": "126111"
+            }
+        },
+        {
             "+@gid": "2603404097",
             "+@lang": "JA",
             "role": "Elfaria Alvis Serfort",
@@ -246,6 +400,24 @@
             }
         },
         {
+            "+@gid": "971063155",
+            "+@lang": "JA",
+            "role": "Rose Prehnite",
+            "person": {
+                "+content": "Maki Kawase",
+                "+@id": "145029"
+            }
+        },
+        {
+            "+@gid": "1615943093",
+            "+@lang": "JA",
+            "role": "Kiki",
+            "person": {
+                "+content": "Aoi Inase",
+                "+@id": "147471"
+            }
+        },
+        {
             "+@gid": "1518447271",
             "+@lang": "JA",
             "role": "Sion Ulster",
@@ -255,12 +427,39 @@
             }
         },
         {
+            "+@gid": "1762187508",
+            "+@lang": "JA",
+            "role": "Emma Klever",
+            "person": {
+                "+content": "Sayumi Suzushiro",
+                "+@id": "170536"
+            }
+        },
+        {
+            "+@gid": "1262615198",
+            "+@lang": "JA",
+            "role": "Gordon Baret",
+            "person": {
+                "+content": "Kazuki Ura",
+                "+@id": "172811"
+            }
+        },
+        {
             "+@gid": "2636182287",
             "+@lang": "JA",
             "role": "Colette Loire",
             "person": {
                 "+content": "Satomi Amano",
                 "+@id": "186176"
+            }
+        },
+        {
+            "+@gid": "2308578487",
+            "+@lang": "JA",
+            "role": "Lyril Mars",
+            "person": {
+                "+content": "Tomohiro Ōno",
+                "+@id": "197487"
             }
         },
         {
@@ -292,5 +491,6 @@
         }
     ],
     "+@date-added": "2024-09-29T04:56:46Z",
-    "+@date-last-updated-at": "2026-02-18T17:29:58Z"
+    "+@date-last-modified-at": "2026-03-21T02:48:19Z",
+    "+@date-last-updated-at": "2026-03-21T02:48:19Z"
 }

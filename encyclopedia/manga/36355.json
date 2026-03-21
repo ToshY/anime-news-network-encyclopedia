@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Ie o Oidasaremashita ga, Genki ni Kurashiteimasu",
     "+@precision": "manga",
-    "+@generated-on": "2026-02-18T17:29:52Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "20005"
-    },
+    "+@generated-on": "2026-03-21T02:48:13Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "20005"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "38648"
+        }
+    ],
     "info": [
         {
             "+@gid": "1790784227",
@@ -58,6 +64,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "fantasy",
+            "+@gid": "2373634395",
+            "+@type": "Genres"
+        },
+        {
             "+content": "2024-03-07 (serialized on ComicWalker)",
             "+@gid": "3221201858",
             "+@type": "Vintage"
@@ -97,5 +108,6 @@
         }
     ],
     "+@date-added": "2025-06-01T16:46:07Z",
-    "+@date-last-updated-at": "2026-02-18T17:29:56Z"
+    "+@date-last-modified-at": "2026-03-21T02:48:15Z",
+    "+@date-last-updated-at": "2026-03-21T02:48:15Z"
 }

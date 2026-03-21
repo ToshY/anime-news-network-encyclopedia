@@ -2,9 +2,9 @@
     "+@id": "36326",
     "+@gid": "2178764293",
     "+@type": "manga",
-    "+@name": "Mabataki no Oto",
+    "+@name": "Sound of a Blink",
     "+@precision": "manga",
-    "+@generated-on": "2026-02-18T17:29:53Z",
+    "+@generated-on": "2026-03-21T02:48:14Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "19910"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "Sound of a Blink",
+            "+@gid": "1450421493",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Mabataki no Oto",
             "+@gid": "2035493052",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -52,16 +58,38 @@
             "+@type": "Genres"
         },
         {
+            "+content": "4",
+            "+@gid": "2677786400",
+            "+@type": "Number of tankoubon"
+        },
+        {
             "+content": "2024-12-13 (serialized in Big Comic Superior, 2025 #1)",
             "+@gid": "2929565596",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Shūzō Oshimi Launches New Manga on December 13",
-        "+@datetime": "2024-11-07T16:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-11-07/shuzo-oshimi-launches-new-manga-on-december-13/.217595"
-    },
+    "news": [
+        {
+            "+content": "Shūzō Oshimi Launches New Manga on December 13",
+            "+@datetime": "2024-11-07T16:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-11-07/shuzo-oshimi-launches-new-manga-on-december-13/.217595"
+        },
+        {
+            "+content": "Shūzō Oshimi's 'Hiromi' 1-Shot Manga Ends, to Launch New 1-Shot in Spring",
+            "+@datetime": "2024-11-19T17:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-11-19/shuzo-oshimi-hiromi-1-shot-manga-ends-to-launch-new-1-shot-in-spring/.218028"
+        },
+        {
+            "+content": "Viz Media Adds Minoji Kurata's <cite>Apothecary Diaries</cite> Manga, New Series from Inio Asano, Paru Itagaki, More",
+            "+@datetime": "2026-02-20T23:04:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-20/viz-media-adds-minoji-kurata-apothecary-diaries-manga-new-series-from-inio-asano-paru-itagaki-more/.234390"
+        },
+        {
+            "+content": "Shūzō Oshimi's <cite>Sound of a Blink</cite> Manga Ends in 2 Chapters",
+            "+@datetime": "2026-03-02T10:47:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-02/shuzo-oshimi-sound-of-a-blink-manga-ends-in-2-chapters/.234808"
+        }
+    ],
     "staff": {
         "+@gid": "1639714847",
         "task": "Story & Art",
@@ -71,5 +99,6 @@
         }
     },
     "+@date-added": "2025-05-30T01:44:13Z",
-    "+@date-last-updated-at": "2026-02-18T17:29:56Z"
+    "+@date-last-modified-at": "2026-03-21T02:48:15Z",
+    "+@date-last-updated-at": "2026-03-21T02:48:15Z"
 }
