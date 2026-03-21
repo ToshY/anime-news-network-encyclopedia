@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-18T20:58:15Z",
+    "+@generated-on": "2026-03-21T05:13:02Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28902"
@@ -57,6 +57,12 @@
             "+@gid": "486313121",
             "+@type": "Alternative title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Shiboyugi : Survivre est mon métier",
+            "+@gid": "1843579393",
+            "+@type": "Alternative title",
+            "+@lang": "FR"
         },
         {
             "+content": "SHIBOYUGI: Jogos Mortais para Colocar Comida na Mesa",
@@ -138,6 +144,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "11",
+            "+@gid": "519988399",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-01-07",
             "+@gid": "3186665225",
             "+@type": "Vintage"
@@ -158,8 +169,18 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "\"¬Ersterbend\" by - (ep 7)",
+            "+@gid": "3440568878",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "\"Breathe\" by Machico, LIN (ep 4)",
             "+@gid": "3640394637",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Inori\" (祈り) by Chiai Fujikawa (ep 7)",
+            "+@gid": "1413535190",
             "+@type": "Insert song"
         },
         {
@@ -176,8 +197,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "6",
-        "+@weighted_score": "3.6103"
+        "+@nb_votes": "13",
+        "+@weighted_score": "5.7056",
+        "+@bayesian_score": "6.55318"
     },
     "episode": [
         {
@@ -233,6 +255,38 @@
             "title": {
                 "+content": "Good ----",
                 "+@gid": "2440585955",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "---- It All",
+                "+@gid": "2650636536",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "Can’t Help Falling In ----",
+                "+@gid": "3565722625",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "Goin' ----",
+                "+@gid": "2959368071",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "--v-",
+                "+@gid": "2365923046",
                 "+@lang": "EN"
             }
         }
@@ -307,6 +361,11 @@
             "+content": "<cite>SHIBOYUGI: Playing Death Games to Put Food on the Table</cite> TV Anime Reveals More Cast, 'Golden Bath' Promo Video",
             "+@datetime": "2026-02-06T09:42:12Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-02-06/shiboyugi-playing-death-games-to-put-food-on-the-table-tv-anime-reveals-more-cast-golden-bath-promo-/.233896"
+        },
+        {
+            "+content": "<cite>SHIBOYUGI: Playing Death Games to Put Food on the Table</cite> TV Anime Reveals 'Candle Woods' Promo Video, 5 More Cast Members",
+            "+@datetime": "2026-02-20T10:36:18Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-20/shiboyugi-playing-death-games-to-put-food-on-the-table-tv-anime-reveals-candle-woods-promo-video-5-/.234378"
         }
     ],
     "staff": [
@@ -546,6 +605,24 @@
             }
         },
         {
+            "+@gid": "2733034063",
+            "+@lang": "EN",
+            "role": "Airi",
+            "person": {
+                "+content": "Erica Mendez",
+                "+@id": "124478"
+            }
+        },
+        {
+            "+@gid": "3649034653",
+            "+@lang": "EN",
+            "role": "Hikawa",
+            "person": {
+                "+content": "Erica Mendez",
+                "+@id": "124478"
+            }
+        },
+        {
             "+@gid": "2403736813",
             "+@lang": "EN",
             "role": "Amon",
@@ -600,6 +677,15 @@
             }
         },
         {
+            "+@gid": "2337607314",
+            "+@lang": "EN",
+            "role": "Iwan",
+            "person": {
+                "+content": "Sarah Anne Williams",
+                "+@id": "135491"
+            }
+        },
+        {
             "+@gid": "1193013630",
             "+@lang": "EN",
             "role": "Riko",
@@ -636,6 +722,15 @@
             }
         },
         {
+            "+@gid": "946393183",
+            "+@lang": "EN",
+            "role": "Sayaka",
+            "person": {
+                "+content": "Maureen Price",
+                "+@id": "167183"
+            }
+        },
+        {
             "+@gid": "1421411664",
             "+@lang": "EN",
             "role": "Kinko",
@@ -654,12 +749,48 @@
             }
         },
         {
+            "+@gid": "2789302519",
+            "+@lang": "EN",
+            "role": "Kyara",
+            "person": {
+                "+content": "Anairis Quiñones",
+                "+@id": "184795"
+            }
+        },
+        {
+            "+@gid": "755912162",
+            "+@lang": "EN",
+            "role": "Nishida",
+            "person": {
+                "+content": "Anairis Quiñones",
+                "+@id": "184795"
+            }
+        },
+        {
             "+@gid": "1308992123",
             "+@lang": "EN",
             "role": "Azuma",
             "person": {
                 "+content": "Tiana Camacho",
                 "+@id": "190003"
+            }
+        },
+        {
+            "+@gid": "718788290",
+            "+@lang": "EN",
+            "role": "Horai",
+            "person": {
+                "+content": "Jenny Yokobori",
+                "+@id": "198000"
+            }
+        },
+        {
+            "+@gid": "1519076973",
+            "+@lang": "EN",
+            "role": "Moegi",
+            "person": {
+                "+content": "Jenny Yokobori",
+                "+@id": "198000"
             }
         },
         {
@@ -699,6 +830,15 @@
             }
         },
         {
+            "+@gid": "1029340878",
+            "+@lang": "EN",
+            "role": "Sumiyaka",
+            "person": {
+                "+content": "Rebecca Wang",
+                "+@id": "255180"
+            }
+        },
+        {
             "+@gid": "1335578231",
             "+@lang": "EN",
             "role": "Kaya",
@@ -732,6 +872,15 @@
             "person": {
                 "+content": "Riley Fussenegger",
                 "+@id": "289101"
+            }
+        },
+        {
+            "+@gid": "2179156716",
+            "+@lang": "EN",
+            "role": "Kabane",
+            "person": {
+                "+content": "Aria Saltini",
+                "+@id": "291418"
             }
         },
         {
@@ -780,6 +929,15 @@
             }
         },
         {
+            "+@gid": "3655920277",
+            "+@lang": "ES",
+            "role": "Moegi",
+            "person": {
+                "+content": "Sara Heras",
+                "+@id": "80806"
+            }
+        },
+        {
             "+@gid": "2877343148",
             "+@lang": "ES",
             "role": "Kotoha",
@@ -795,6 +953,15 @@
             "person": {
                 "+content": "Betzabe Jara",
                 "+@id": "98106"
+            }
+        },
+        {
+            "+@gid": "1601346334",
+            "+@lang": "ES",
+            "role": "Azuma",
+            "person": {
+                "+content": "Jocelyn Robles",
+                "+@id": "106443"
             }
         },
         {
@@ -852,6 +1019,24 @@
             }
         },
         {
+            "+@gid": "3643249811",
+            "+@lang": "ES",
+            "role": "Kabane",
+            "person": {
+                "+content": "Alicia Valadés",
+                "+@id": "208774"
+            }
+        },
+        {
+            "+@gid": "3863320228",
+            "+@lang": "ES",
+            "role": "Kyara",
+            "person": {
+                "+content": "Alicia Valadés",
+                "+@id": "208774"
+            }
+        },
+        {
             "+@gid": "2497087582",
             "+@lang": "ES",
             "role": "Beniya",
@@ -881,7 +1066,7 @@
         {
             "+@gid": "995920867",
             "+@lang": "ES",
-            "role": "Yuki",
+            "role": "Yuki Sorimachi",
             "person": {
                 "+content": "Irene Valadés",
                 "+@id": "221722"
@@ -906,12 +1091,30 @@
             }
         },
         {
+            "+@gid": "3089632326",
+            "+@lang": "ES",
+            "role": "Sumiyaka",
+            "person": {
+                "+content": "Inés Cron",
+                "+@id": "292685"
+            }
+        },
+        {
             "+@gid": "3394283705",
             "+@lang": "ES",
             "role": "Kokuto",
             "person": {
                 "+content": "Noa García",
                 "+@id": "292686"
+            }
+        },
+        {
+            "+@gid": "3681161637",
+            "+@lang": "ES",
+            "role": "Airi",
+            "person": {
+                "+content": "Paula Martín",
+                "+@id": "292687"
             }
         },
         {
@@ -942,6 +1145,15 @@
             }
         },
         {
+            "+@gid": "1541732337",
+            "+@lang": "ES",
+            "role": "Iwan",
+            "person": {
+                "+content": "Alena Robles",
+                "+@id": "293023"
+            }
+        },
+        {
             "+@gid": "2657821937",
             "+@lang": "ES",
             "role": "Aoi",
@@ -960,12 +1172,147 @@
             }
         },
         {
+            "+@gid": "2745656408",
+            "+@lang": "FR",
+            "role": "Azuma",
+            "person": {
+                "+content": "Caroline Pascal",
+                "+@id": "43198"
+            }
+        },
+        {
+            "+@gid": "1867696042",
+            "+@lang": "FR",
+            "role": "Moegi",
+            "person": {
+                "+content": "Geneviève Doang",
+                "+@id": "52284"
+            }
+        },
+        {
+            "+@gid": "661625187",
+            "+@lang": "FR",
+            "role": "Hakushi",
+            "person": {
+                "+content": "Karine Foviau",
+                "+@id": "53257"
+            }
+        },
+        {
+            "+@gid": "3407219845",
+            "+@lang": "FR",
+            "role": "Kotoha",
+            "person": {
+                "+content": "Camille Donda",
+                "+@id": "57037"
+            }
+        },
+        {
+            "+@gid": "1002894974",
+            "+@lang": "FR",
+            "role": "Beniya",
+            "person": {
+                "+content": "Olivia Luccioni",
+                "+@id": "74332"
+            }
+        },
+        {
+            "+@gid": "2153730676",
+            "+@lang": "FR",
+            "role": "Chie",
+            "person": {
+                "+content": "Cindy Lemineur",
+                "+@id": "94651"
+            }
+        },
+        {
+            "+@gid": "3314751134",
+            "+@lang": "FR",
+            "role": "Riko",
+            "person": {
+                "+content": "Charlotte Hennequin",
+                "+@id": "147417"
+            }
+        },
+        {
+            "+@gid": "2968100383",
+            "+@lang": "FR",
+            "role": "Kyara",
+            "person": {
+                "+content": "Lisa Caruso",
+                "+@id": "149126"
+            }
+        },
+        {
+            "+@gid": "1805139886",
+            "+@lang": "FR",
+            "role": "Momono",
+            "person": {
+                "+content": "Clara Soares",
+                "+@id": "153590"
+            }
+        },
+        {
             "+@gid": "1834180110",
             "+@lang": "FR",
             "role": "Yūki",
             "person": {
                 "+content": "Zina Khakhoulia",
                 "+@id": "168696"
+            }
+        },
+        {
+            "+@gid": "1971715159",
+            "+@lang": "FR",
+            "role": "Mishiro",
+            "person": {
+                "+content": "Anaïs Delva",
+                "+@id": "173795"
+            }
+        },
+        {
+            "+@gid": "2700407287",
+            "+@lang": "FR",
+            "role": "Sumiyaka",
+            "person": {
+                "+content": "Lila Lacombe",
+                "+@id": "176859"
+            }
+        },
+        {
+            "+@gid": "718509826",
+            "+@lang": "FR",
+            "role": "Keito",
+            "person": {
+                "+content": "Charlotte Hervieux",
+                "+@id": "199384"
+            }
+        },
+        {
+            "+@gid": "2031791017",
+            "+@lang": "FR",
+            "role": "Kokuto",
+            "person": {
+                "+content": "Laure Sagols",
+                "+@id": "211504"
+            }
+        },
+        {
+            "+@gid": "2940629879",
+            "+@lang": "FR",
+            "role": "Aoi",
+            "person": {
+                "+content": "Mathilde Carmes",
+                "+@id": "215844"
+            }
+        },
+        {
+            "+@gid": "2374337303",
+            "+@lang": "FR",
+            "role": "Kinko",
+            "person": {
+                "+content": "Alix Nasse",
+                "+@id": "283522"
             }
         },
         {
@@ -1023,6 +1370,15 @@
             }
         },
         {
+            "+@gid": "2283703002",
+            "+@lang": "JA",
+            "role": "Sumiyaka",
+            "person": {
+                "+content": "Ayana Taketatsu",
+                "+@id": "73497"
+            }
+        },
+        {
             "+@gid": "1302572550",
             "+@lang": "JA",
             "role": "Kinko",
@@ -1038,6 +1394,15 @@
             "person": {
                 "+content": "Rui Tanabe",
                 "+@id": "120615"
+            }
+        },
+        {
+            "+@gid": "2815370748",
+            "+@lang": "JA",
+            "role": "Chara",
+            "person": {
+                "+content": "Rina Honnizumi",
+                "+@id": "166150"
             }
         },
         {
@@ -1092,15 +1457,6 @@
             "person": {
                 "+content": "Haruka Oribe",
                 "+@id": "235041"
-            }
-        },
-        {
-            "+@gid": "497207726",
-            "+@lang": "JA",
-            "role": "Sugiyama",
-            "person": {
-                "+content": "Azusa Aoi",
-                "+@id": "237716"
             }
         },
         {
@@ -1181,6 +1537,6 @@
         }
     ],
     "+@date-added": "2024-09-01T20:22:09Z",
-    "+@date-last-modified-at": "2026-02-18T20:58:21Z",
-    "+@date-last-updated-at": "2026-02-18T20:58:21Z"
+    "+@date-last-modified-at": "2026-03-21T05:13:08Z",
+    "+@date-last-updated-at": "2026-03-21T05:13:08Z"
 }
