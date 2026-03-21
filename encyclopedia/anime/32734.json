@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Hana-Kimi",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-19T13:43:05Z",
+    "+@generated-on": "2026-03-21T16:47:46Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "2028"
@@ -111,8 +111,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "6",
-        "+@weighted_score": "4.1039"
+        "+@nb_votes": "21",
+        "+@weighted_score": "5.7972",
+        "+@bayesian_score": "6.406"
     },
     "news": [
         {
@@ -251,11 +252,27 @@
             }
         },
         {
+            "+@gid": "2602497520",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Mitsuru Sasaki",
+                "+@id": "92466"
+            }
+        },
+        {
             "+@gid": "1503128044",
             "task": "Storyboard",
             "person": {
                 "+content": "Yūhei Sakuragi",
                 "+@id": "100271"
+            }
+        },
+        {
+            "+@gid": "2324495345",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kazuya Ishikuri",
+                "+@id": "180992"
             }
         },
         {
@@ -331,6 +348,14 @@
             }
         },
         {
+            "+@gid": "1829672550",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kōhei Kamiya",
+                "+@id": "264713"
+            }
+        },
+        {
             "+@gid": "902587076",
             "task": "Unit Director",
             "person": {
@@ -403,6 +428,14 @@
             }
         },
         {
+            "+@gid": "2650079780",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kazuchika Kise",
+                "+@id": "469"
+            }
+        },
+        {
             "+@gid": "885064909",
             "task": "Chief Animation Director",
             "person": {
@@ -435,11 +468,27 @@
             }
         },
         {
+            "+@gid": "3381023891",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazuchika Kise",
+                "+@id": "469"
+            }
+        },
+        {
             "+@gid": "2594582394",
             "task": "Animation Director",
             "person": {
                 "+content": "Yōko Kōjō",
                 "+@id": "8234"
+            }
+        },
+        {
+            "+@gid": "468395410",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masashi Kaneko",
+                "+@id": "10452"
             }
         },
         {
@@ -480,6 +529,14 @@
             "person": {
                 "+content": "Yoshihiro Maeda",
                 "+@id": "58562"
+            }
+        },
+        {
+            "+@gid": "1822147532",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Aya Nozawa",
+                "+@id": "62640"
             }
         },
         {
@@ -584,6 +641,14 @@
             "person": {
                 "+content": "Sora Ishizuka",
                 "+@id": "190148"
+            }
+        },
+        {
+            "+@gid": "2419894442",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūki Takenouchi",
+                "+@id": "192199"
             }
         },
         {
@@ -776,6 +841,14 @@
             "person": {
                 "+content": "Guo Qing Yang",
                 "+@id": "293135"
+            }
+        },
+        {
+            "+@gid": "848854994",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masato Sekizaki",
+                "+@id": "294478"
             }
         },
         {
@@ -973,6 +1046,15 @@
             "person": {
                 "+content": "Alberto Melendez",
                 "+@id": "208775"
+            }
+        },
+        {
+            "+@gid": "3429200427",
+            "+@lang": "ES",
+            "role": "Shizuki Claude Ashiya",
+            "person": {
+                "+content": "Emmanuel Alejandro",
+                "+@id": "214852"
             }
         },
         {
@@ -1228,6 +1310,6 @@
         }
     },
     "+@date-added": "2024-05-15T01:55:26Z",
-    "+@date-last-modified-at": "2026-02-19T13:43:13Z",
-    "+@date-last-updated-at": "2026-02-19T13:43:13Z"
+    "+@date-last-modified-at": "2026-03-21T16:47:51Z",
+    "+@date-last-updated-at": "2026-03-21T16:47:51Z"
 }
