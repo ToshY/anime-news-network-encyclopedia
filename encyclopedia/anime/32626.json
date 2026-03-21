@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "BAKI-DOU: The Invincible Samurai",
     "+@precision": "ONA",
-    "+@generated-on": "2026-02-19T13:43:11Z",
+    "+@generated-on": "2026-03-21T20:44:28Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "25468"
@@ -65,6 +65,10 @@
             "+@href": "https://baki-anime.jp/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "5.7393"
+    },
     "news": [
         {
             "+content": "Keisuke Itagaki's 1st <i>Baki-Dou</i> Manga Gets Anime",
@@ -100,6 +104,11 @@
             "+content": "<cite>Baki-Dou</cite> Anime's Trailer Previews English Dub",
             "+@datetime": "2026-02-04T16:31:24Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-02-04/baki-dou-anime-trailer-previews-english-dub/.233810"
+        },
+        {
+            "+content": "<cite>Baki-Dou</cite> Anime Ranks #2 on Netflix's Weekly Global Top 10 List for Non-English Shows",
+            "+@datetime": "2026-03-05T16:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-05/baki-dou-anime-ranks-no.2-on-netflix-weekly-global-top-10-list-for-non-english-shows/.234954"
         }
     ],
     "staff": [
@@ -178,6 +187,33 @@
     ],
     "cast": [
         {
+            "+@gid": "1893464916",
+            "+@lang": "EN",
+            "role": "Doppo Orochi",
+            "person": {
+                "+content": "Steven Jay Blum",
+                "+@id": "2265"
+            }
+        },
+        {
+            "+@gid": "647577982",
+            "+@lang": "EN",
+            "role": "Narrator",
+            "person": {
+                "+content": "Kirk Thornton",
+                "+@id": "3032"
+            }
+        },
+        {
+            "+@gid": "1566416266",
+            "+@lang": "EN",
+            "role": "Yūjirō Hanma",
+            "person": {
+                "+content": "Kirk Thornton",
+                "+@id": "3032"
+            }
+        },
+        {
             "+@gid": "1576454308",
             "+@lang": "EN",
             "role": "Baki Hanma",
@@ -187,12 +223,102 @@
             }
         },
         {
+            "+@gid": "2334230870",
+            "+@lang": "EN",
+            "role": "Retsu Kaioh",
+            "person": {
+                "+content": "Kaiji Tang",
+                "+@id": "70445"
+            }
+        },
+        {
+            "+@gid": "3551711261",
+            "+@lang": "EN",
+            "role": "Katsumi Orochi",
+            "person": {
+                "+content": "Ray Chase",
+                "+@id": "126711"
+            }
+        },
+        {
+            "+@gid": "1769579936",
+            "+@lang": "EN",
+            "role": "Chiharu Shiba",
+            "person": {
+                "+content": "Robbie Daymond",
+                "+@id": "127931"
+            }
+        },
+        {
+            "+@gid": "2421415469",
+            "+@lang": "EN",
+            "role": "Gōki Shibukawa",
+            "person": {
+                "+content": "Kyle McCarley",
+                "+@id": "135130"
+            }
+        },
+        {
+            "+@gid": "4113331369",
+            "+@lang": "EN",
+            "role": "Kureha Shinogi",
+            "person": {
+                "+content": "Matt Yang King",
+                "+@id": "146716"
+            }
+        },
+        {
+            "+@gid": "1562617476",
+            "+@lang": "EN",
+            "role": "Kaoru Hanayama",
+            "person": {
+                "+content": "Greg Chun",
+                "+@id": "154429"
+            }
+        },
+        {
+            "+@gid": "2910998919",
+            "+@lang": "EN",
+            "role": "Jack Hammer",
+            "person": {
+                "+content": "Christopher Swindle",
+                "+@id": "163292"
+            }
+        },
+        {
             "+@gid": "2285278513",
             "+@lang": "EN",
             "role": "Mushashi Miyamoto",
             "person": {
                 "+content": "SungWon Cho",
                 "+@id": "164450"
+            }
+        },
+        {
+            "+@gid": "826199104",
+            "+@lang": "EN",
+            "role": "Kaku Kaioh",
+            "person": {
+                "+content": "Mick Wingert",
+                "+@id": "172212"
+            }
+        },
+        {
+            "+@gid": "3571339880",
+            "+@lang": "EN",
+            "role": "John Honer",
+            "person": {
+                "+content": "Andrew Russell",
+                "+@id": "173873"
+            }
+        },
+        {
+            "+@gid": "2979317175",
+            "+@lang": "EN",
+            "role": "Sabuko Tokugawa",
+            "person": {
+                "+content": "Anzu Lawson",
+                "+@id": "226231"
             }
         },
         {
@@ -223,12 +349,48 @@
             }
         },
         {
+            "+@gid": "2292481984",
+            "+@lang": "JA",
+            "role": "Sabuko Tokugawa",
+            "person": {
+                "+content": "Masako Nozawa",
+                "+@id": "508"
+            }
+        },
+        {
+            "+@gid": "1972340745",
+            "+@lang": "JA",
+            "role": "Izō Motobe",
+            "person": {
+                "+content": "Yūsaku Yara",
+                "+@id": "1005"
+            }
+        },
+        {
+            "+@gid": "1962089113",
+            "+@lang": "JA",
+            "role": "Mitsunari Tokugawa",
+            "person": {
+                "+content": "Shinpachi Tsuji",
+                "+@id": "1173"
+            }
+        },
+        {
             "+@gid": "1160998337",
             "+@lang": "JA",
             "role": "Gōki Shibukawa",
             "person": {
                 "+content": "Bin Shimada",
                 "+@id": "1501"
+            }
+        },
+        {
+            "+@gid": "2131675261",
+            "+@lang": "JA",
+            "role": "Narrator",
+            "person": {
+                "+content": "Tōru Furuya",
+                "+@id": "3076"
             }
         },
         {
@@ -286,9 +448,9 @@
             }
         },
         {
-            "+@gid": "2348301788",
+            "+@gid": "1128893491",
             "+@lang": "JA",
-            "role": "Jin Nonomura",
+            "role": "Hitoshi Nonomura",
             "person": {
                 "+content": "Jin Domon",
                 "+@id": "15722"
@@ -340,6 +502,6 @@
         }
     },
     "+@date-added": "2024-03-31T15:01:09Z",
-    "+@date-last-modified-at": "2026-02-19T13:43:13Z",
-    "+@date-last-updated-at": "2026-02-19T13:43:13Z"
+    "+@date-last-modified-at": "2026-03-21T20:44:34Z",
+    "+@date-last-updated-at": "2026-03-21T20:44:34Z"
 }
