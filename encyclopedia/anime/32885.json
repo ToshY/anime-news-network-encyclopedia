@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Fire Force",
     "+@precision": "TV 4",
-    "+@generated-on": "2026-02-19T05:38:10Z",
+    "+@generated-on": "2026-03-21T08:50:55Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "25700"
@@ -68,6 +68,11 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "#2: \"Speak of the Devil feat. Masato from coldrain\" by Survive Said the Prophet (ep 7)",
+            "+@gid": "670511876",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "TVアニメ『炎炎ノ消防隊』",
             "+@gid": "2468112849",
             "+@type": "Official website",
@@ -76,8 +81,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "7.6561"
+        "+@nb_votes": "4",
+        "+@weighted_score": "7.3667"
     },
     "news": [
         {
@@ -417,15 +422,6 @@
             }
         },
         {
-            "+@gid": "2826796989",
-            "+@lang": "EN",
-            "role": "Sister Sumire",
-            "person": {
-                "+content": "Jessica Cavanagh",
-                "+@id": "101743"
-            }
-        },
-        {
             "+@gid": "2100498983",
             "+@lang": "EN",
             "role": "Yuichiro Kurono",
@@ -462,30 +458,12 @@
             }
         },
         {
-            "+@gid": "2231840974",
-            "+@lang": "EN",
-            "role": "Dr. Giovanni",
-            "person": {
-                "+content": "Marcus D. Stimac",
-                "+@id": "126787"
-            }
-        },
-        {
             "+@gid": "1721083881",
             "+@lang": "EN",
             "role": "Lisa Isaribi",
             "person": {
                 "+content": "Elizabeth Maxwell",
                 "+@id": "126948"
-            }
-        },
-        {
-            "+@gid": "689926478",
-            "+@lang": "EN",
-            "role": "Yū",
-            "person": {
-                "+content": "Kristen McGuire",
-                "+@id": "127814"
             }
         },
         {
@@ -534,15 +512,6 @@
             }
         },
         {
-            "+@gid": "2024962241",
-            "+@lang": "EN",
-            "role": "Yona",
-            "person": {
-                "+content": "Cory Phillips",
-                "+@id": "164050"
-            }
-        },
-        {
             "+@gid": "799137061",
             "+@lang": "EN",
             "role": "Maki Oze",
@@ -563,7 +532,7 @@
         {
             "+@gid": "3391534447",
             "+@lang": "EN",
-            "role": "Daikoku Oguro",
+            "role": "Daikoku Oguru",
             "person": {
                 "+content": "Nick Huber",
                 "+@id": "253890"
@@ -585,6 +554,24 @@
             "person": {
                 "+content": "Georgina Sanchez",
                 "+@id": "23448"
+            }
+        },
+        {
+            "+@gid": "685955795",
+            "+@lang": "ES",
+            "role": "Charon",
+            "person": {
+                "+content": "Gerardo Vazquez",
+                "+@id": "23794"
+            }
+        },
+        {
+            "+@gid": "1103044592",
+            "+@lang": "ES",
+            "role": "Purt Co Pan",
+            "person": {
+                "+content": "Edson Matus",
+                "+@id": "24144"
             }
         },
         {
@@ -642,12 +629,30 @@
             }
         },
         {
+            "+@gid": "103197345",
+            "+@lang": "ES",
+            "role": "Lisa Isabiri",
+            "person": {
+                "+content": "Betzabe Jara",
+                "+@id": "98106"
+            }
+        },
+        {
             "+@gid": "3438298817",
             "+@lang": "ES",
             "role": "Vulca Joseph",
             "person": {
                 "+content": "Carlo Vázquez",
                 "+@id": "98157"
+            }
+        },
+        {
+            "+@gid": "2824484302",
+            "+@lang": "ES",
+            "role": "Ritsu",
+            "person": {
+                "+content": "Cynthia Chong",
+                "+@id": "98297"
             }
         },
         {
@@ -660,12 +665,30 @@
             }
         },
         {
+            "+@gid": "2316338084",
+            "+@lang": "ES",
+            "role": "Mari Kusakabe",
+            "person": {
+                "+content": "Jocelyn Robles",
+                "+@id": "106443"
+            }
+        },
+        {
             "+@gid": "1006463925",
             "+@lang": "ES",
             "role": "Shinra Kusakabe",
             "person": {
                 "+content": "Luis Leonardo Suárez",
                 "+@id": "116585"
+            }
+        },
+        {
+            "+@gid": "2356422379",
+            "+@lang": "ES",
+            "role": "Arrow",
+            "person": {
+                "+content": "Lourdes Arruti",
+                "+@id": "121471"
             }
         },
         {
@@ -678,12 +701,57 @@
             }
         },
         {
+            "+@gid": "1603086956",
+            "+@lang": "ES",
+            "role": "Yu",
+            "person": {
+                "+content": "Alberto Bernal",
+                "+@id": "148365"
+            }
+        },
+        {
+            "+@gid": "1751165238",
+            "+@lang": "ES",
+            "role": "Haumea",
+            "person": {
+                "+content": "Montserrat Aguilar",
+                "+@id": "150279"
+            }
+        },
+        {
+            "+@gid": "1389533727",
+            "+@lang": "ES",
+            "role": "Faerie",
+            "person": {
+                "+content": "José Luis Piedra",
+                "+@id": "150280"
+            }
+        },
+        {
             "+@gid": "1837557081",
             "+@lang": "ES",
             "role": "Iris",
             "person": {
                 "+content": "Erika Langarica",
                 "+@id": "150291"
+            }
+        },
+        {
+            "+@gid": "2358948717",
+            "+@lang": "ES",
+            "role": "Joker",
+            "person": {
+                "+content": "Erick Selim",
+                "+@id": "152901"
+            }
+        },
+        {
+            "+@gid": "2011221468",
+            "+@lang": "ES",
+            "role": "Sho Kusakabe",
+            "person": {
+                "+content": "Armando Ibarrola",
+                "+@id": "203482"
             }
         },
         {
@@ -957,15 +1025,6 @@
             }
         },
         {
-            "+@gid": "2046548760",
-            "+@lang": "JA",
-            "role": "Daikoku",
-            "person": {
-                "+content": "Akira Ishida",
-                "+@id": "443"
-            }
-        },
-        {
             "+@gid": "1615315604",
             "+@lang": "JA",
             "role": "Sho Kusakabe",
@@ -1002,15 +1061,6 @@
             }
         },
         {
-            "+@gid": "1675699418",
-            "+@lang": "JA",
-            "role": "Yuichiro Kurono",
-            "person": {
-                "+content": "Takahiro Sakurai",
-                "+@id": "5039"
-            }
-        },
-        {
             "+@gid": "2566249227",
             "+@lang": "JA",
             "role": "Takehisa Hinawa",
@@ -1035,15 +1085,6 @@
             "person": {
                 "+content": "Satoshi Hino",
                 "+@id": "15417"
-            }
-        },
-        {
-            "+@gid": "2093125458",
-            "+@lang": "JA",
-            "role": "Dr. Giovanni",
-            "person": {
-                "+content": "Yutaka Aoyama",
-                "+@id": "18713"
             }
         },
         {
@@ -1164,15 +1205,6 @@
             }
         },
         {
-            "+@gid": "2994484154",
-            "+@lang": "JA",
-            "role": "Sister Sumire",
-            "person": {
-                "+content": "Hitomi Shogawa",
-                "+@id": "153312"
-            }
-        },
-        {
             "+@gid": "3637252951",
             "+@lang": "JA",
             "role": "Shinra Kusakabe",
@@ -1218,6 +1250,6 @@
         }
     },
     "+@date-added": "2024-07-06T20:53:09Z",
-    "+@date-last-modified-at": "2026-02-19T05:38:16Z",
-    "+@date-last-updated-at": "2026-02-19T05:38:16Z"
+    "+@date-last-modified-at": "2026-03-21T08:50:59Z",
+    "+@date-last-updated-at": "2026-03-21T08:50:59Z"
 }

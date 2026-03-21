@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Rooster Fighter",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-19T03:17:08Z",
+    "+@generated-on": "2026-03-21T08:50:52Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25810"
@@ -58,13 +58,43 @@
             "+@type": "Genres"
         },
         {
+            "+content": "comedy",
+            "+@gid": "2024250665",
+            "+@type": "Genres"
+        },
+        {
             "+content": "supernatural",
             "+@gid": "2230601309",
             "+@type": "Genres"
         },
         {
+            "+content": "demons",
+            "+@gid": "2267298787",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "parody",
+            "+@gid": "2048639765",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "revenge",
+            "+@gid": "3537865703",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "3171321237",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "In a world where terrifying monsters walk the earth, one heroic rooster is destined for greatness. When giant demons threaten the innocent, he’s going to show them who’s boss. The neighborhood cock of the walk is more than just an ordinary rooster—he’s humanity’s greatest defender. His opponents may be ten stories tall, but nothing is bigger than his stout heart and his fearsome battle cry—cock-a-doodle-doo. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2026-03-14 (Adult Swim Latinoamérica)",
+            "+@gid": "1112469610",
+            "+@type": "Vintage"
         },
         {
             "+content": "2026-03-14 (USA, Toonami broadcast)",
@@ -80,6 +110,21 @@
             "+content": "2026-04-05 (Japan, TV broadcast)",
             "+@gid": "1155312378",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"What's a Hero?\" by DARUMA Rollin’",
+            "+@gid": "1619633075",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"We're Loose Stars\" by Tetsuya Takahashi",
+            "+@gid": "1772493303",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"The Dream of Our Hearts\" by Tetsuya Takahashi and AYUKO SAITO (ep 1)",
+            "+@gid": "2867163472",
+            "+@type": "Insert song"
         },
         {
             "+content": "アニメ「ニワトリ・ファイター」公式サイト",
@@ -101,6 +146,44 @@
             "+@type": "Official website",
             "+@lang": "ES",
             "+@href": "https://www.niwatori-fighter.net/es/"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "9"
+    },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "A Rooster Among Cranes",
+                "+@gid": "3182041970",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "The Caged Bird",
+                "+@gid": "1070337254",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "The Parable of the Three Birds",
+                "+@gid": "1395641620",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "Homing In on Desire",
+                "+@gid": "2283191473",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -133,6 +216,31 @@
             "+content": "Disney+, Hulu to Stream <cite>Rooster Fighter</cite> Anime on March 15",
             "+@datetime": "2026-02-19T00:00:05Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-02-18/disney-hulu-to-stream-rooster-fighter-anime-on-march-15/.234320"
+        },
+        {
+            "+content": "<cite>Rooster Fighter</cite> Anime Reveals New English Dub Trailer",
+            "+@datetime": "2026-02-22T03:34:11Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-21/rooster-fighter-anime-reveals-new-english-dub-trailer/.234429"
+        },
+        {
+            "+content": "<cite>Rooster Fighter</cite> Anime's English-Subbed Trailer Previews Opening Theme Song",
+            "+@datetime": "2026-03-02T19:01:59Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-02/rooster-fighter-anime-english-subbed-trailer-previews-opening-theme-song/.234830"
+        },
+        {
+            "+content": "<cite>Rooster Fighter</cite> Anime Streams English-Dubbed Trailer",
+            "+@datetime": "2026-03-04T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-04/rooster-fighter-anime-streams-english-dubbed-trailer/.234916"
+        },
+        {
+            "+content": "<cite>Rooster Fighter</cite> Anime Previews 3-Minute Clip Ahead of Premiere",
+            "+@datetime": "2026-03-11T18:24:42Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-11/rooster-fighter-anime-previews-3-minute-clip-ahead-of-premiere/.235184"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>Rooster Fighter</cite> Anime in India on March 15",
+            "+@datetime": "2026-03-14T07:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-14/crunchyroll-streams-rooster-fighter-anime-in-india-on-march-15/.235274"
         }
     ],
     "staff": [
@@ -214,6 +322,78 @@
             "person": {
                 "+content": "Shōko Hayashi",
                 "+@id": "289609"
+            }
+        },
+        {
+            "+@gid": "3903659914",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Jason DeMarco",
+                "+@id": "7562"
+            }
+        },
+        {
+            "+@gid": "1063330397",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Katsuya Shirai",
+                "+@id": "10666"
+            }
+        },
+        {
+            "+@gid": "3231133102",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Sae Whan Song",
+                "+@id": "163263"
+            }
+        },
+        {
+            "+@gid": "2424256268",
+            "task": "Producer",
+            "person": {
+                "+content": "Takenari Maeda",
+                "+@id": "34623"
+            }
+        },
+        {
+            "+@gid": "2905618206",
+            "task": "Producer",
+            "person": {
+                "+content": "Joseph Chou",
+                "+@id": "66834"
+            }
+        },
+        {
+            "+@gid": "3818512292",
+            "task": "Producer",
+            "person": {
+                "+content": "Ryokushi Suzuki",
+                "+@id": "171567"
+            }
+        },
+        {
+            "+@gid": "3239689884",
+            "task": "Producer",
+            "person": {
+                "+content": "Max Nishi",
+                "+@id": "175402"
+            }
+        },
+        {
+            "+@gid": "1977655203",
+            "task": "Producer",
+            "person": {
+                "+content": "saechan",
+                "+@id": "178701"
+            }
+        },
+        {
+            "+@gid": "1979493140",
+            "task": "Producer",
+            "person": {
+                "+content": "Emi Momiyama",
+                "+@id": "206747"
             }
         }
     ],
@@ -306,6 +486,78 @@
             "person": {
                 "+content": "Kimoy Lee",
                 "+@id": "284650"
+            }
+        },
+        {
+            "+@gid": "2633100838",
+            "+@lang": "FR",
+            "role": "Elizabeth",
+            "person": {
+                "+content": "Claire Tefnin",
+                "+@id": "53859"
+            }
+        },
+        {
+            "+@gid": "2373256254",
+            "+@lang": "FR",
+            "role": "Sara",
+            "person": {
+                "+content": "Sophie Landresse",
+                "+@id": "58715"
+            }
+        },
+        {
+            "+@gid": "3787924099",
+            "+@lang": "FR",
+            "role": "Yasuo",
+            "person": {
+                "+content": "Jean-Michel Vovk",
+                "+@id": "66571"
+            }
+        },
+        {
+            "+@gid": "1765077605",
+            "+@lang": "FR",
+            "role": "Tajima",
+            "person": {
+                "+content": "Laurent Bonnet",
+                "+@id": "68535"
+            }
+        },
+        {
+            "+@gid": "1877997138",
+            "+@lang": "FR",
+            "role": "Piyoko",
+            "person": {
+                "+content": "Marie Du Bled",
+                "+@id": "145504"
+            }
+        },
+        {
+            "+@gid": "2676320324",
+            "+@lang": "FR",
+            "role": "Keiji",
+            "person": {
+                "+content": "Jean-François Rossion",
+                "+@id": "171936"
+            }
+        },
+        {
+            "+@gid": "1243902953",
+            "+@lang": "IT",
+            "role": "Elizabeth",
+            "person": {
+                "+content": "Gea Riva",
+                "+@id": "80809"
+            }
+        },
+        {
+            "+@gid": "2360714799",
+            "+@lang": "IT",
+            "role": "Keiji",
+            "person": {
+                "+content": "Francesco Rizzi",
+                "+@id": "150404"
             }
         },
         {
@@ -409,6 +661,14 @@
             }
         },
         {
+            "+@gid": "1808369736",
+            "task": "Production",
+            "company": {
+                "+content": "Viz Media",
+                "+@id": "4552"
+            }
+        },
+        {
             "+@gid": "2980885739",
             "task": "Production",
             "company": {
@@ -426,6 +686,6 @@
         }
     ],
     "+@date-added": "2024-07-25T18:30:30Z",
-    "+@date-last-modified-at": "2026-02-19T03:17:13Z",
-    "+@date-last-updated-at": "2026-02-19T03:17:13Z"
+    "+@date-last-modified-at": "2026-03-21T08:50:58Z",
+    "+@date-last-updated-at": "2026-03-21T08:50:58Z"
 }
