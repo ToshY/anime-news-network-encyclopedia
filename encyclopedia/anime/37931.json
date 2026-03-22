@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Apothecary Diaries",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-02-20T03:11:47Z",
+    "+@generated-on": "2026-03-22T05:33:23Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32557"
@@ -117,10 +117,18 @@
     ],
     "staff": [
         {
+            "+@gid": "2325768844",
+            "task": "Director",
+            "person": {
+                "+content": "Akinori Fudesaka",
+                "+@id": "36197"
+            }
+        },
+        {
             "+@gid": "2123258005",
             "task": "Original creator",
             "person": {
-                "+content": "Natsu Hyūga",
+                "+content": "Hyūganatsu",
                 "+@id": "199786"
             }
         },
@@ -133,6 +141,15 @@
             }
         }
     ],
+    "credit": {
+        "+@gid": "2331855868",
+        "task": "Animation Production",
+        "company": {
+            "+content": "OLM",
+            "+@id": "33"
+        }
+    },
     "+@date-added": "2025-10-22T07:49:43Z",
-    "+@date-last-updated-at": "2026-02-20T03:11:52Z"
+    "+@date-last-modified-at": "2026-03-22T05:33:27Z",
+    "+@date-last-updated-at": "2026-03-22T05:33:27Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Apothecary Diaries",
     "+@precision": "movie",
-    "+@generated-on": "2026-02-20T03:11:46Z",
+    "+@generated-on": "2026-03-22T05:33:23Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "37931"
@@ -81,10 +81,18 @@
     ],
     "staff": [
         {
+            "+@gid": "2184046121",
+            "task": "Director",
+            "person": {
+                "+content": "Norihiro Naganuma",
+                "+@id": "37696"
+            }
+        },
+        {
             "+@gid": "754429535",
             "task": "Original creator",
             "person": {
-                "+content": "Natsu Hyūga",
+                "+content": "Hyūganatsu",
                 "+@id": "199786"
             }
         },
@@ -97,6 +105,15 @@
             }
         }
     ],
+    "credit": {
+        "+@gid": "1259529438",
+        "task": "Animation Production",
+        "company": {
+            "+content": "TOHO animation STUDIO",
+            "+@id": "23658"
+        }
+    },
     "+@date-added": "2025-10-22T08:09:53Z",
-    "+@date-last-updated-at": "2026-02-20T03:11:52Z"
+    "+@date-last-modified-at": "2026-03-22T05:33:27Z",
+    "+@date-last-updated-at": "2026-03-22T05:33:27Z"
 }

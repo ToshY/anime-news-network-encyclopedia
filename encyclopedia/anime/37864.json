@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Grand Blue Dreaming",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-02-20T03:11:47Z",
+    "+@generated-on": "2026-03-22T05:33:23Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "33631"
@@ -13,19 +13,24 @@
         {
             "+@gid": "4111655939",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37864-4111655939.1758577482.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37864-4111655939.1773839124.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37864-4111655939.1758577482.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37864-4111655939.1773839124.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37864-4111655939.1758577482.jpg",
-                    "+@width": "422",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37864-4111655939.1773839124.jpg",
+                    "+@width": "425",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37864-4111655939.1773839124.jpg",
+                    "+@width": "849",
+                    "+@height": "1200"
                 }
             ]
         },
@@ -53,6 +58,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "2026-07",
+            "+@gid": "2489868831",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ「ぐらんぶる」公式サイト",
             "+@gid": "2891572635",
             "+@type": "Official website",
@@ -60,7 +70,28 @@
             "+@href": "https://grandblue-anime.com/"
         }
     ],
+    "news": {
+        "+content": "<cite>Grand Blue Dreaming</cite> Season 3 Announces More Cast, July Premiere",
+        "+@datetime": "2026-03-18T12:51:23Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-18/grand-blue-dreaming-season-3-announces-more-cast-july-premiere/.235450"
+    },
     "staff": [
+        {
+            "+@gid": "2209937204",
+            "task": "Director",
+            "person": {
+                "+content": "Shinji Takamatsu",
+                "+@id": "6593"
+            }
+        },
+        {
+            "+@gid": "2268828538",
+            "task": "Script",
+            "person": {
+                "+content": "Shinji Takamatsu",
+                "+@id": "6593"
+            }
+        },
         {
             "+@gid": "632094815",
             "task": "Original creator",
@@ -76,8 +107,217 @@
                 "+content": "Kimitake Yoshioka",
                 "+@id": "107693"
             }
+        },
+        {
+            "+@gid": "2407870146",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Shinji Takamatsu",
+                "+@id": "6593"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2598441584",
+            "+@lang": "JA",
+            "role": "Kaya Mizuki",
+            "person": {
+                "+content": "Nana Mizuki",
+                "+@id": "436"
+            }
+        },
+        {
+            "+@gid": "1851411585",
+            "+@lang": "JA",
+            "role": "Ryūjirō Kotobuki",
+            "person": {
+                "+content": "Katsuyuki Konishi",
+                "+@id": "780"
+            }
+        },
+        {
+            "+@gid": "2285844388",
+            "+@lang": "JA",
+            "role": "Sayaka Kotegawa",
+            "person": {
+                "+content": "Sayaka Ōhara",
+                "+@id": "1376"
+            }
+        },
+        {
+            "+@gid": "2710706267",
+            "+@lang": "JA",
+            "role": "Kōhei Imamura",
+            "person": {
+                "+content": "Ryōhei Kimura",
+                "+@id": "8342"
+            }
+        },
+        {
+            "+@gid": "1240948217",
+            "+@lang": "JA",
+            "role": "Toshio Kotegawa",
+            "person": {
+                "+content": "Shinji Kawada",
+                "+@id": "14440"
+            }
+        },
+        {
+            "+@gid": "1203628606",
+            "+@lang": "JA",
+            "role": "Shinji Tokita",
+            "person": {
+                "+content": "Hiroki Yasumoto",
+                "+@id": "30785"
+            }
+        },
+        {
+            "+@gid": "2081979184",
+            "+@lang": "JA",
+            "role": "Aina Yoshiwara",
+            "person": {
+                "+content": "Kana Asumi",
+                "+@id": "60780"
+            }
+        },
+        {
+            "+@gid": "2155517809",
+            "+@lang": "JA",
+            "role": "Shiori Kitahara",
+            "person": {
+                "+content": "Sumire Morohoshi",
+                "+@id": "61669"
+            }
+        },
+        {
+            "+@gid": "1284884814",
+            "+@lang": "JA",
+            "role": "Hajime Nojima",
+            "person": {
+                "+content": "Takuya Eguchi",
+                "+@id": "76338"
+            }
+        },
+        {
+            "+@gid": "2896352161",
+            "+@lang": "JA",
+            "role": "Chisa Kotegawa",
+            "person": {
+                "+content": "Chika Anzai",
+                "+@id": "78724"
+            }
+        },
+        {
+            "+@gid": "3338826112",
+            "+@lang": "JA",
+            "role": "Azusa Hamaoka",
+            "person": {
+                "+content": "Toa Yukinari",
+                "+@id": "94245"
+            }
+        },
+        {
+            "+@gid": "2086926185",
+            "+@lang": "JA",
+            "role": "Nanaka Kotegawa",
+            "person": {
+                "+content": "Maaya Uchida",
+                "+@id": "94314"
+            }
+        },
+        {
+            "+@gid": "1575944618",
+            "+@lang": "JA",
+            "role": "Chief",
+            "person": {
+                "+content": "Asami Seto",
+                "+@id": "95225"
+            }
+        },
+        {
+            "+@gid": "3419052574",
+            "+@lang": "JA",
+            "role": "Yū Mitarai",
+            "person": {
+                "+content": "Natsuki Hanae",
+                "+@id": "106773"
+            }
+        },
+        {
+            "+@gid": "3259208380",
+            "+@lang": "JA",
+            "role": "Shinichirō Yamamoto",
+            "person": {
+                "+content": "Junya Enoki",
+                "+@id": "109167"
+            }
+        },
+        {
+            "+@gid": "2765410493",
+            "+@lang": "JA",
+            "role": "Maki",
+            "person": {
+                "+content": "Aya Suzaki",
+                "+@id": "115634"
+            }
+        },
+        {
+            "+@gid": "3683774868",
+            "+@lang": "JA",
+            "role": "Naomi Otoya",
+            "person": {
+                "+content": "Yoshino Aoyama",
+                "+@id": "123095"
+            }
+        },
+        {
+            "+@gid": "3619409329",
+            "+@lang": "JA",
+            "role": "Iori Kitahara",
+            "person": {
+                "+content": "Yūma Uchida",
+                "+@id": "124918"
+            }
+        },
+        {
+            "+@gid": "2307623267",
+            "+@lang": "JA",
+            "role": "Kenta Fujiwara",
+            "person": {
+                "+content": "Robert Waterman",
+                "+@id": "146605"
+            }
+        },
+        {
+            "+@gid": "387119879",
+            "+@lang": "JA",
+            "role": "Sakurako Busujima",
+            "person": {
+                "+content": "Aya Yamane",
+                "+@id": "173872"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "1959163109",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Zero-G",
+                "+@id": "12033"
+            }
+        },
+        {
+            "+@gid": "922149093",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Saber Works",
+                "+@id": "25627"
+            }
         }
     ],
     "+@date-added": "2025-09-22T17:43:39Z",
-    "+@date-last-updated-at": "2026-02-20T03:11:52Z"
+    "+@date-last-modified-at": "2026-03-22T05:33:27Z",
+    "+@date-last-updated-at": "2026-03-22T05:33:27Z"
 }

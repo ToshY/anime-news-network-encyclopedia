@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Red River",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-20T03:11:48Z",
+    "+@generated-on": "2026-03-22T05:33:22Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "3438"
@@ -84,6 +84,11 @@
             "+@href": "https://www.vap.co.jp/sorahaakaikawanohotori/"
         }
     ],
+    "news": {
+        "+content": "<cite>Red River</cite> Anime's Teaser Reveals Cast, More Staff, Opening Song Artist, July TV Debut",
+        "+@datetime": "2026-03-10T03:33:41Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-09/red-river-anime-teaser-reveals-cast-more-staff-opening-song-artist-july-tv-debut/.235114"
+    },
     "staff": [
         {
             "+@gid": "3368228904",
@@ -102,6 +107,14 @@
             }
         },
         {
+            "+@gid": "2675793880",
+            "task": "Music",
+            "person": {
+                "+content": "Yoshihisa Hirano",
+                "+@id": "435"
+            }
+        },
+        {
             "+@gid": "2552311901",
             "task": "Original creator",
             "person": {
@@ -116,6 +129,43 @@
                 "+content": "Kenji Fujisaki",
                 "+@id": "29718"
             }
+        },
+        {
+            "+@gid": "2046890013",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Hiroto Morishita",
+                "+@id": "107159"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2718551556",
+            "+@lang": "JA",
+            "role": "Satoshi Himuro",
+            "person": {
+                "+content": "Hiroki Nanami",
+                "+@id": "127203"
+            }
+        },
+        {
+            "+@gid": "1731348781",
+            "+@lang": "JA",
+            "role": "Kail Muršili / King Muršili II",
+            "person": {
+                "+content": "Wataru Katō",
+                "+@id": "151799"
+            }
+        },
+        {
+            "+@gid": "1757484555",
+            "+@lang": "JA",
+            "role": "Yuri Suzuki",
+            "person": {
+                "+content": "Mirai Tachibana",
+                "+@id": "191605"
+            }
         }
     ],
     "credit": {
@@ -127,5 +177,6 @@
         }
     },
     "+@date-added": "2026-02-15T01:51:18Z",
-    "+@date-last-updated-at": "2026-02-20T03:11:49Z"
+    "+@date-last-modified-at": "2026-03-22T05:33:27Z",
+    "+@date-last-updated-at": "2026-03-22T05:33:27Z"
 }
