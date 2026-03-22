@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Tenkō-saki no Seiso Karen na Bishōjo ga, Mukashi Danshi to Omotte",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-20T13:34:16Z",
+    "+@generated-on": "2026-03-22T20:45:51Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "30046"
@@ -13,17 +13,17 @@
         {
             "+@gid": "2352026216",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A30081-2352026216.1766539232.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A30081-2352026216.1774129119.jpg",
             "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A30081-2352026216.1766539232.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A30081-2352026216.1774129119.jpg",
                     "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A30081-2352026216.1766539232.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A30081-2352026216.1774129119.jpg",
                     "+@width": "425",
                     "+@height": "600"
                 }
@@ -52,7 +52,7 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026",
+            "+content": "2026-07",
             "+@gid": "1352570974",
             "+@type": "Vintage"
         },
@@ -74,9 +74,54 @@
             "+content": "<cite>'Tenkō-saki no Seiso Karen na Bishōjo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken'</cite> Unveils 2nd Teaser Video, Visual",
             "+@datetime": "2025-12-23T15:24:03Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-12-23/tenko-saki-no-seiso-karen-na-bishojo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-/.232433"
+        },
+        {
+            "+content": "<cite>Tenbin</cite> Romantic Comedy Anime Unveils More Cast, Staff, July Premiere",
+            "+@datetime": "2026-03-21T09:42:35Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-21/tenbin-romantic-comedy-anime-unveils-more-cast-staff-july-premiere/.235566"
         }
     ],
     "staff": [
+        {
+            "+@gid": "1532355587",
+            "task": "Director",
+            "person": {
+                "+content": "Chuan Feng Xu",
+                "+@id": "177455"
+            }
+        },
+        {
+            "+@gid": "1683996882",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Deko Akao",
+                "+@id": "51810"
+            }
+        },
+        {
+            "+@gid": "2898625576",
+            "task": "Music",
+            "person": {
+                "+content": "Ryosuke Nakanishi",
+                "+@id": "64768"
+            }
+        },
+        {
+            "+@gid": "1367263614",
+            "task": "Music",
+            "person": {
+                "+content": "Naoki Tani",
+                "+@id": "187298"
+            }
+        },
+        {
+            "+@gid": "1869642710",
+            "task": "Music",
+            "person": {
+                "+content": "Yuri Morita",
+                "+@id": "224383"
+            }
+        },
         {
             "+@gid": "3478587702",
             "task": "Original creator",
@@ -92,17 +137,80 @@
                 "+content": "Siso",
                 "+@id": "187840"
             }
+        },
+        {
+            "+@gid": "1580394184",
+            "task": "Character Design",
+            "person": {
+                "+content": "N-Nei Kurahashi",
+                "+@id": "209403"
+            }
+        },
+        {
+            "+@gid": "3188098587",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Daiki Hachimaki",
+                "+@id": "111550"
+            }
         }
     ],
-    "cast": {
-        "+@gid": "2251536260",
-        "+@lang": "JA",
-        "role": "Haruki Nikaidō",
-        "person": {
-            "+content": "Ikumi Hasegawa",
-            "+@id": "151984"
+    "cast": [
+        {
+            "+@gid": "3411149697",
+            "+@lang": "JA",
+            "role": "Hayato Kirishima",
+            "person": {
+                "+content": "Shunichi Toki",
+                "+@id": "131897"
+            }
+        },
+        {
+            "+@gid": "249781987",
+            "+@lang": "JA",
+            "role": "Minamo Mitake",
+            "person": {
+                "+content": "Natsumi Haruse",
+                "+@id": "140932"
+            }
+        },
+        {
+            "+@gid": "2251536260",
+            "+@lang": "JA",
+            "role": "Haruki Nikaidō",
+            "person": {
+                "+content": "Ikumi Hasegawa",
+                "+@id": "151984"
+            }
+        },
+        {
+            "+@gid": "3159147252",
+            "+@lang": "JA",
+            "role": "Himeko Kirishima",
+            "person": {
+                "+content": "Miharu Hanai",
+                "+@id": "154342"
+            }
+        },
+        {
+            "+@gid": "1245465866",
+            "+@lang": "JA",
+            "role": "Saki Murao",
+            "person": {
+                "+content": "Fūka Izumi",
+                "+@id": "201580"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2147463903",
+        "task": "Animation Production",
+        "company": {
+            "+content": "project No.9",
+            "+@id": "8409"
         }
     },
     "+@date-added": "2023-09-26T18:22:23Z",
-    "+@date-last-updated-at": "2026-02-20T13:34:20Z"
+    "+@date-last-modified-at": "2026-03-22T20:45:53Z",
+    "+@date-last-updated-at": "2026-03-22T20:45:53Z"
 }
