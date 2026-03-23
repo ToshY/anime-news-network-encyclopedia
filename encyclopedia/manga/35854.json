@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "We’re Not Cut Out to Be Lovers",
     "+@precision": "manga",
-    "+@generated-on": "2026-02-20T13:34:13Z",
+    "+@generated-on": "2026-03-23T03:24:45Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "36895"
@@ -52,16 +52,28 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2021-08-20 (serialized in from RED, vol. 9)",
+            "+content": "2",
+            "+@gid": "2488132930",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2021-08-20 to 2025-02-21 (serialized in from RED, vols. 9 - 30A)",
             "+@gid": "3356198144",
             "+@type": "Vintage"
         }
     ],
-    "release": {
-        "+content": "We're Not Cut Out to Be Lovers (GN 1)",
-        "+@date": "2025-04-22",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52920"
-    },
+    "release": [
+        {
+            "+content": "We're Not Cut Out to Be Lovers (GN 1)",
+            "+@date": "2025-04-22",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=52920"
+        },
+        {
+            "+content": "We're Not Cut Out to Be Lovers (GN 2)",
+            "+@date": "2026-03-10",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57414"
+        }
+    ],
     "news": [
         {
             "+content": "Tokyopop Licenses <cite>The Little Bird Sleeps by The Sea</cite>, <cite>Fated Not to Meet</cite>, More Manga",
@@ -72,6 +84,11 @@
             "+content": "North American Anime, Manga Releases, April 20-26",
             "+@datetime": "2025-04-25T21:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-04-25/north-american-anime-manga-releases-april-20-26/.223805"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, March 8-14",
+            "+@datetime": "2026-03-13T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-13/north-american-anime-manga-releases-march-8-14/.235103"
         }
     ],
     "staff": {
@@ -83,5 +100,6 @@
         }
     },
     "+@date-added": "2025-04-26T21:44:45Z",
-    "+@date-last-updated-at": "2026-02-20T13:34:15Z"
+    "+@date-last-modified-at": "2026-03-23T03:24:46Z",
+    "+@date-last-updated-at": "2026-03-23T03:24:46Z"
 }
