@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "nest",
     "+@precision": "manga",
-    "+@generated-on": "2026-02-21T08:49:01Z",
+    "+@generated-on": "2026-03-23T17:09:47Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "5671"
@@ -52,16 +52,23 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2024-05-08 (serialized in Petit Comic, Jun 2024)",
+            "+content": "2024-05-08 to 2026-03-06 (Petit Comic, Jun 2024 - Apr 2026)",
             "+@gid": "3941721774",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Kasumi Kazui Launches New Manga, Hiiro Kisaragi Publishes New Manga's Prologue Chapter on May 8",
-        "+@datetime": "2024-04-09T19:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-04-09/kasumi-kazui-launches-new-manga-hiiro-kisaragi-publishes-new-manga-prologue-chapter-on-may-8/.209672"
-    },
+    "news": [
+        {
+            "+content": "Kazumi Kazui Launches New Manga, Hiiro Kisaragi Publishes New Manga's Prologue Chapter on May 8",
+            "+@datetime": "2024-04-09T19:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-04-09/kazumi-kazui-launches-new-manga-hiiro-kisaragi-publishes-new-manga-prologue-chapter-on-may-8/.209672"
+        },
+        {
+            "+content": "Kazumi Kazui's <cite>nest</cite> Manga Ends",
+            "+@datetime": "2026-03-11T17:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-11/kazumi-kazui-nest-manga-ends/.235162"
+        }
+    ],
     "staff": {
         "+@gid": "2746466461",
         "task": "Story & Art",
@@ -71,5 +78,6 @@
         }
     },
     "+@date-added": "2025-04-13T12:30:34Z",
-    "+@date-last-updated-at": "2026-02-21T08:49:03Z"
+    "+@date-last-modified-at": "2026-03-23T17:09:49Z",
+    "+@date-last-updated-at": "2026-03-23T17:09:49Z"
 }
