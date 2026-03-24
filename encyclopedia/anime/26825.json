@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Zom 100: Bucket List of the Dead",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-21T20:42:19Z",
+    "+@generated-on": "2026-03-24T03:14:40Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25714"
@@ -46,6 +46,16 @@
             "+@gid": "3524856773",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "1170599440",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "horror",
+            "+@gid": "3424291873",
+            "+@type": "Genres"
         },
         {
             "+content": "zombies",
@@ -98,8 +108,8 @@
     ],
     "ratings": {
         "+@nb_votes": "240",
-        "+@weighted_score": "6.8267",
-        "+@bayesian_score": "6.85741"
+        "+@weighted_score": "6.8268",
+        "+@bayesian_score": "6.85992"
     },
     "episode": [
         {
@@ -551,7 +561,7 @@
             "+@gid": "2805593758",
             "task": "Original creator",
             "person": {
-                "+content": "Haro Aso",
+                "+content": "Haro Asō",
                 "+@id": "95223"
             }
         },
@@ -559,7 +569,7 @@
             "+@gid": "2084967366",
             "task": "Original creator",
             "person": {
-                "+content": "Kotaro Takata",
+                "+content": "Kōtarō Takata",
                 "+@id": "223571"
             }
         },
@@ -1140,6 +1150,30 @@
             }
         },
         {
+            "+@gid": "3064336056",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Nobumasa Sawabe",
+                "+@id": "8118"
+            }
+        },
+        {
+            "+@gid": "3115481384",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Takemoto Mori",
+                "+@id": "9589"
+            }
+        },
+        {
+            "+@gid": "3309408359",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Ken Sasaki",
+                "+@id": "61472"
+            }
+        },
+        {
             "+@gid": "2339781437",
             "task": "Producer",
             "person": {
@@ -1153,6 +1187,14 @@
             "person": {
                 "+content": "Hiroshi Kamei",
                 "+@id": "147594"
+            }
+        },
+        {
+            "+@gid": "3051126868",
+            "task": "Producer",
+            "person": {
+                "+content": "Emi Momiyama",
+                "+@id": "206747"
             }
         },
         {
@@ -1507,6 +1549,6 @@
         }
     ],
     "+@date-added": "2023-01-06T04:11:43Z",
-    "+@date-last-modified-at": "2026-02-21T20:42:25Z",
-    "+@date-last-updated-at": "2026-02-21T20:42:25Z"
+    "+@date-last-modified-at": "2026-03-24T03:14:44Z",
+    "+@date-last-updated-at": "2026-03-24T03:14:44Z"
 }
