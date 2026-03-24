@@ -4,22 +4,22 @@
     "+@type": "TV",
     "+@name": "Ghost Concert: missing Songs",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-22T08:49:50Z",
+    "+@generated-on": "2026-03-24T09:09:37Z",
     "info": [
         {
             "+@gid": "3710497630",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37935-3710497630.1761304748.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37935-3710497630.1772022413.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37935-3710497630.1761304748.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37935-3710497630.1772022413.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37935-3710497630.1761304748.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37935-3710497630.1772022413.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
@@ -43,7 +43,12 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026",
+            "+content": "In 2045, songs are banned. Instead of humans playing instruments and creating music, a music app titled \"MiucS\" is in charge of these activities. High school student Seria goes out with her friends one day, but she happens to hear someone singing, which is supposed to be prohibited. What she finds is a lone ghost, a \"Great Ghost\" who has appeared from outside this world.",
+            "+@gid": "1711373855",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2026-04-05",
             "+@gid": "3008673472",
             "+@type": "Vintage"
         },
@@ -55,11 +60,18 @@
             "+@href": "https://ghostconcert-anime.com/"
         }
     ],
-    "news": {
-        "+content": "Elements Garden, ENGI, Kadokawa Reveal <cite>Ghost Concert: Missing Songs</cite> TV Anime for 2026",
-        "+@datetime": "2025-10-24T10:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-10-24/elements-garden-engi-kadokawa-reveal-ghost-concert-missing-songs-tv-anime-for-2026/.230268"
-    },
+    "news": [
+        {
+            "+content": "Elements Garden, ENGI, Kadokawa Reveal <cite>Ghost Concert: Missing Songs</cite> TV Anime for 2026",
+            "+@datetime": "2025-10-24T10:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-24/elements-garden-engi-kadokawa-reveal-ghost-concert-missing-songs-tv-anime-for-2026/.230268"
+        },
+        {
+            "+content": "<cite>Ghost Concert: missing Songs</cite> Anime's New Video Unveils More Cast, Theme Songs, April 5 Debut",
+            "+@datetime": "2026-02-25T11:27:41Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-25/ghost-concert-missing-songs-anime-new-video-unveils-more-cast-theme-songs-april-5-debut/.234556"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1431774811",
@@ -160,6 +172,33 @@
     ],
     "cast": [
         {
+            "+@gid": "2017747318",
+            "+@lang": "JA",
+            "role": "Yōtetsu",
+            "person": {
+                "+content": "Miyu Irino",
+                "+@id": "1207"
+            }
+        },
+        {
+            "+@gid": "1899947399",
+            "+@lang": "JA",
+            "role": "Setsutei",
+            "person": {
+                "+content": "Satoshi Hino",
+                "+@id": "15417"
+            }
+        },
+        {
+            "+@gid": "2177258527",
+            "+@lang": "JA",
+            "role": "Odysseus",
+            "person": {
+                "+content": "Minako Kotobuki",
+                "+@id": "65512"
+            }
+        },
+        {
             "+@gid": "623014730",
             "+@lang": "JA",
             "role": "Cleopatra",
@@ -169,12 +208,57 @@
             }
         },
         {
+            "+@gid": "1844699468",
+            "+@lang": "JA",
+            "role": "MiucS",
+            "person": {
+                "+content": "Emiri Suyama",
+                "+@id": "165625"
+            }
+        },
+        {
+            "+@gid": "2145942529",
+            "+@lang": "JA",
+            "role": "Kaede Saionji",
+            "person": {
+                "+content": "Nao Ojika",
+                "+@id": "209908"
+            }
+        },
+        {
             "+@gid": "2479513579",
             "+@lang": "JA",
             "role": "Seria Aiba",
             "person": {
                 "+content": "Minori Fujidera",
                 "+@id": "214095"
+            }
+        },
+        {
+            "+@gid": "1647128819",
+            "+@lang": "JA",
+            "role": "Syuri Murayama",
+            "person": {
+                "+content": "Miyuki Sakurai",
+                "+@id": "244261"
+            }
+        },
+        {
+            "+@gid": "3417542412",
+            "+@lang": "JA",
+            "role": "Riku Aoki",
+            "person": {
+                "+content": "Satomi Satō",
+                "+@id": "270294"
+            }
+        },
+        {
+            "+@gid": "1831984434",
+            "+@lang": "JA",
+            "role": "Rui Ichikawa",
+            "person": {
+                "+content": "Yuri An",
+                "+@id": "274433"
             }
         }
     ],
@@ -187,5 +271,6 @@
         }
     },
     "+@date-added": "2025-10-24T07:18:10Z",
-    "+@date-last-updated-at": "2026-02-22T08:49:55Z"
+    "+@date-last-modified-at": "2026-03-24T09:09:43Z",
+    "+@date-last-updated-at": "2026-03-24T09:09:43Z"
 }
