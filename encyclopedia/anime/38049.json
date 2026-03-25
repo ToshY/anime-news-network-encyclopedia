@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Eiga Chiikawa: Ningyo no Shima no Himitsu",
     "+@precision": "movie",
-    "+@generated-on": "2026-02-23T05:44:17Z",
+    "+@generated-on": "2026-03-25T09:09:50Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "24912"
@@ -47,9 +47,13 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2026 (summer)",
-            "+@gid": "2735463455",
+            "+content": "2026-07-24",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2026-07-24 (Japan)",
+            "+@gid": "2293617297",
+            "+@type": "Premiere date"
         },
         {
             "+content": "『映画ちいかわ 人魚の島のひみつ』公式サイト",
@@ -59,11 +63,23 @@
             "+@href": "https://chiikawa.toho-movie.jp/"
         }
     ],
-    "news": {
-        "+content": "<cite>Chiikawa</cite> Manga Gets 1st Anime Film Next Summer",
-        "+@datetime": "2025-11-24T12:26:20Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-11-24/chiikawa-manga-gets-1st-anime-film-next-summer/.231350"
-    },
+    "news": [
+        {
+            "+content": "<cite>Chiikawa</cite> Manga Gets 1st Anime Film Next Summer",
+            "+@datetime": "2025-11-24T12:26:20Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-24/chiikawa-manga-gets-1st-anime-film-next-summer/.231350"
+        },
+        {
+            "+content": "<cite>Chiikawa</cite> Anime Film Reveals July 24 Debut in Teaser Video",
+            "+@datetime": "2026-02-26T11:13:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-26/chiikawa-anime-film-reveals-july-24-debut-in-teaser-video/.234605"
+        },
+        {
+            "+content": "<cite>Chiikawa</cite> Anime Film Streams New 60-Second Teaser",
+            "+@datetime": "2026-03-19T08:16:45Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-19/chiikawa-anime-film-streams-new-60-second-teaser/.235483"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2773582428",
@@ -82,11 +98,96 @@
             }
         },
         {
+            "+@gid": "2030739675",
+            "task": "Music",
+            "person": {
+                "+content": "Shūgo Tokumaru",
+                "+@id": "220054"
+            }
+        },
+        {
+            "+@gid": "2324521479",
+            "task": "Music",
+            "person": {
+                "+content": "Chikara Uemizutaru",
+                "+@id": "294157"
+            }
+        },
+        {
             "+@gid": "2126691933",
             "task": "Original creator",
             "person": {
                 "+content": "Nagano",
                 "+@id": "215024"
+            }
+        },
+        {
+            "+@gid": "1929767602",
+            "task": "Character Design",
+            "person": {
+                "+content": "Tomoko Tsuji",
+                "+@id": "81712"
+            }
+        },
+        {
+            "+@gid": "1745202495",
+            "task": "Art Director",
+            "person": {
+                "+content": "Moe Masaki",
+                "+@id": "202376"
+            }
+        },
+        {
+            "+@gid": "1298438435",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Masanori Tsuchiya",
+                "+@id": "15158"
+            }
+        },
+        {
+            "+@gid": "1097403683",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Yoshinori Nakano",
+                "+@id": "167390"
+            }
+        },
+        {
+            "+@gid": "437470990",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Masaharu Okazaki",
+                "+@id": "85175"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2767273091",
+            "+@lang": "JA",
+            "role": "Usagi",
+            "person": {
+                "+content": "Ari Ozawa",
+                "+@id": "126415"
+            }
+        },
+        {
+            "+@gid": "3274049848",
+            "+@lang": "JA",
+            "role": "Hachiware",
+            "person": {
+                "+content": "Makoto Tanaka",
+                "+@id": "192218"
+            }
+        },
+        {
+            "+@gid": "2911330780",
+            "+@lang": "JA",
+            "role": "Chiikawa",
+            "person": {
+                "+content": "Haruka Aoki",
+                "+@id": "259753"
             }
         }
     ],
@@ -109,5 +210,6 @@
         }
     ],
     "+@date-added": "2025-11-24T06:56:46Z",
-    "+@date-last-updated-at": "2026-02-23T05:44:21Z"
+    "+@date-last-modified-at": "2026-03-25T09:09:54Z",
+    "+@date-last-updated-at": "2026-03-25T09:09:54Z"
 }
