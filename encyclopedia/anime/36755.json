@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Hokuto no Ken -Fist of the North Star-",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-23T21:03:06Z",
+    "+@generated-on": "2026-03-26T03:28:12Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "1547"
@@ -47,13 +47,49 @@
             "+@type": "Genres"
         },
         {
-            "+content": "After an apocalypse, the world is laid to waste. Bandits rule the land, and might makes right the world over. Justice is a dying concept, so a new kind of hero begins to show himself to the people. With his \"Fist of the North Star\" technique, the man named Kenshiro slaughters those who would do violence upon the innocent. He journeys to violently set justice back in the world, and dreams of one day refinding his beloved Julia. <em class=de-emphasized>(from manga)</em>",
+            "+content": "drama",
+            "+@gid": "1464354949",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "science fiction",
+            "+@gid": "2272866844",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "gore",
+            "+@gid": "3398023614",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "martial arts",
+            "+@gid": "1063120677",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "post-apocalyptic",
+            "+@gid": "1826499913",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "MA",
+            "+@gid": "2048845546",
+            "+@type": "Objectionable content"
+        },
+        {
+            "+content": "The world is laid to waste after the apocalypse. A new kind of hero begins to show himself to the people. With his \"Fist of the North Star\" technique, a man named Kenshiro slaughters those who would do violence on the innocent. He aims to violently set justice back in the world, and dreams of one day reuniting with his beloved, Julia.",
+            "+@gid": "3091280463",
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026",
+            "+content": "2026-04-10",
             "+@gid": "1631426543",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Hallelujah\" by [Alexandros]",
+            "+@gid": "2401093392",
+            "+@type": "Opening Theme"
         },
         {
             "+content": "アニメ『北斗の拳 -FIST OF THE NORTH STAR-』公式サイト",
@@ -88,6 +124,11 @@
             "+content": "New <cite>Ghost in the Shell</cite>, <cite>Fist of the North Star</cite>, More Anime to Stream in India on Amazon Prime",
             "+@datetime": "2026-02-13T10:13:16Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-02-13/new-ghost-in-the-shell-fist-of-the-north-star-more-anime-to-stream-in-india-on-amazon-prime/.234131"
+        },
+        {
+            "+content": "New <cite>Fist of the North Star</cite> Anime's 2nd Promo Video Reveals Cast, Opening Theme Song, April 10 Premiere",
+            "+@datetime": "2026-03-12T01:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-11/new-fist-of-the-north-star-anime-2nd-promo-video-reveals-cast-opening-theme-song-april-10-premiere/.235183"
         }
     ],
     "staff": [
@@ -140,6 +181,22 @@
             }
         },
         {
+            "+@gid": "2501947693",
+            "task": "Art Director",
+            "person": {
+                "+content": "Takashi Aoi",
+                "+@id": "18546"
+            }
+        },
+        {
+            "+@gid": "1326064267",
+            "task": "Art Director",
+            "person": {
+                "+content": "Wakako Shimizu",
+                "+@id": "193932"
+            }
+        },
+        {
             "+@gid": "1111492675",
             "task": "Animation Director",
             "person": {
@@ -148,11 +205,35 @@
             }
         },
         {
+            "+@gid": "1032369300",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Noriyoshi Konuma",
+                "+@id": "84893"
+            }
+        },
+        {
+            "+@gid": "445680209",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Shinji Ikeda",
+                "+@id": "58895"
+            }
+        },
+        {
             "+@gid": "2601006305",
             "task": "Co-Director",
             "person": {
                 "+content": "Kazuma Ogasawara",
                 "+@id": "116515"
+            }
+        },
+        {
+            "+@gid": "1816557759",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yuki Takahashi",
+                "+@id": "18861"
             }
         }
     ],
@@ -164,6 +245,24 @@
             "person": {
                 "+content": "Wataru Takagi",
                 "+@id": "1307"
+            }
+        },
+        {
+            "+@gid": "3016725895",
+            "+@lang": "JA",
+            "role": "Narration",
+            "person": {
+                "+content": "Kōichi Yamadera",
+                "+@id": "5728"
+            }
+        },
+        {
+            "+@gid": "4175453837",
+            "+@lang": "JA",
+            "role": "Rei",
+            "person": {
+                "+content": "Yūichi Nakamura",
+                "+@id": "15878"
             }
         },
         {
@@ -200,6 +299,15 @@
             "person": {
                 "+content": "Saori Hayami",
                 "+@id": "63462"
+            }
+        },
+        {
+            "+@gid": "2202233285",
+            "+@lang": "JA",
+            "role": "Mamiya",
+            "person": {
+                "+content": "Ruriko Aoki",
+                "+@id": "116217"
             }
         },
         {
@@ -246,9 +354,25 @@
                 "+content": "7STUDIO",
                 "+@id": "23858"
             }
+        },
+        {
+            "+@gid": "2982152952",
+            "task": "Production",
+            "company": {
+                "+content": "Coamix",
+                "+@id": "1433"
+            }
+        },
+        {
+            "+@gid": "2110938214",
+            "task": "Production",
+            "company": {
+                "+content": "Warner Bros. Japan",
+                "+@id": "12786"
+            }
         }
     ],
     "+@date-added": "2025-06-26T22:54:34Z",
-    "+@date-last-modified-at": "2026-02-23T21:03:14Z",
-    "+@date-last-updated-at": "2026-02-23T21:03:14Z"
+    "+@date-last-modified-at": "2026-03-26T03:28:18Z",
+    "+@date-last-updated-at": "2026-03-26T03:28:18Z"
 }
