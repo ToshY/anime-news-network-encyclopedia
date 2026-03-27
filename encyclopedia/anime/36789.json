@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Uma Musume: Cinderella Gray",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-02-25T13:44:20Z",
+    "+@generated-on": "2026-03-27T13:44:39Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "33371"
@@ -82,6 +82,11 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "23",
+            "+@gid": "1936764819",
+            "+@type": "Running time"
+        },
+        {
             "+content": "10",
             "+@gid": "3798303023",
             "+@type": "Number of episodes"
@@ -115,9 +120,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "23",
-        "+@weighted_score": "8.2789",
-        "+@bayesian_score": "8.00211"
+        "+@nb_votes": "24",
+        "+@weighted_score": "8.266",
+        "+@bayesian_score": "7.98682"
     },
     "episode": [
         {
@@ -245,6 +250,14 @@
         {
             "+@gid": "2340302191",
             "task": "Series Composition",
+            "person": {
+                "+content": "Aki Kindaichi",
+                "+@id": "269592"
+            }
+        },
+        {
+            "+@gid": "1315153128",
+            "task": "Script",
             "person": {
                 "+content": "Aki Kindaichi",
                 "+@id": "269592"
@@ -1427,6 +1440,6 @@
         }
     },
     "+@date-added": "2025-06-29T04:15:05Z",
-    "+@date-last-modified-at": "2026-02-25T13:44:25Z",
-    "+@date-last-updated-at": "2026-02-25T13:44:25Z"
+    "+@date-last-modified-at": "2026-03-27T13:44:43Z",
+    "+@date-last-updated-at": "2026-03-27T13:44:43Z"
 }
