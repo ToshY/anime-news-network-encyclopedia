@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Hotel Inhumans",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-02-26T05:35:29Z",
+    "+@generated-on": "2026-03-28T05:35:41Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "33940"
@@ -13,23 +13,18 @@
         {
             "+@gid": "3884641723",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37881-3884641723.1759104582.jpg",
-            "+@width": "200",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37881-3884641723.1772792539.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37881-3884641723.1759104582.jpg",
-                    "+@width": "200",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37881-3884641723.1772792539.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37881-3884641723.1759104582.jpg",
-                    "+@width": "500",
-                    "+@height": "500"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37881-3884641723.1759104582.jpg",
-                    "+@width": "600",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37881-3884641723.1772792539.jpg",
+                    "+@width": "424",
                     "+@height": "600"
                 }
             ]
@@ -52,6 +47,11 @@
             "+@type": "Themes"
         },
         {
+            "+content": "2026-10",
+            "+@gid": "2571718080",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "アニメ「ホテル・インヒューマンズ」公式サイト",
             "+@gid": "804539656",
             "+@type": "Official website",
@@ -59,14 +59,125 @@
             "+@href": "https://hotel-inhumans.com/"
         }
     ],
-    "staff": {
-        "+@gid": "4114877352",
-        "task": "Original creator",
-        "person": {
-            "+content": "Ao Tajima",
-            "+@id": "272935"
-        }
+    "news": {
+        "+content": "<cite>Hotel Inhumans</cite> Anime's 2nd Season Reveals More Cast, October Debut",
+        "+@datetime": "2026-03-06T10:01:52Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-06/hotel-inhumans-anime-2nd-season-reveals-more-cast-october-debut/.234991"
     },
+    "staff": [
+        {
+            "+@gid": "617796233",
+            "task": "Director",
+            "person": {
+                "+content": "Tetsuro Amino",
+                "+@id": "961"
+            }
+        },
+        {
+            "+@gid": "1500496128",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Shoji Yonemura",
+                "+@id": "8134"
+            }
+        },
+        {
+            "+@gid": "3438323585",
+            "task": "Music",
+            "person": {
+                "+content": "Koharu",
+                "+@id": "278769"
+            }
+        },
+        {
+            "+@gid": "4114877352",
+            "task": "Original creator",
+            "person": {
+                "+content": "Ao Tajima",
+                "+@id": "272935"
+            }
+        },
+        {
+            "+@gid": "2407645857",
+            "task": "Character Design",
+            "person": {
+                "+content": "Shingo Fujisaki",
+                "+@id": "97372"
+            }
+        },
+        {
+            "+@gid": "1801496939",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yoshimi Umino",
+                "+@id": "9493"
+            }
+        },
+        {
+            "+@gid": "1377215856",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Haru Yamada",
+                "+@id": "135072"
+            }
+        },
+        {
+            "+@gid": "3403650865",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Toshiyuki Sadamatsu",
+                "+@id": "87770"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3652900514",
+            "+@lang": "JA",
+            "role": "Ikurō Hoshi",
+            "person": {
+                "+content": "Yūsuke Kobayashi",
+                "+@id": "123728"
+            }
+        },
+        {
+            "+@gid": "2276592285",
+            "+@lang": "JA",
+            "role": "Shiba Kirihara",
+            "person": {
+                "+content": "Hina Yomiya",
+                "+@id": "209292"
+            }
+        },
+        {
+            "+@gid": "2746490426",
+            "+@lang": "JA",
+            "role": "Sara Haizaki",
+            "person": {
+                "+content": "Hinano Shirahama",
+                "+@id": "273437"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "2640048257",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Bridge",
+                "+@id": "8719"
+            }
+        },
+        {
+            "+@gid": "2286411605",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Aisle",
+                "+@id": "27511"
+            }
+        }
+    ],
     "+@date-added": "2025-09-28T20:08:17Z",
-    "+@date-last-updated-at": "2026-02-26T05:35:34Z"
+    "+@date-last-modified-at": "2026-03-28T05:35:45Z",
+    "+@date-last-updated-at": "2026-03-28T05:35:45Z"
 }
