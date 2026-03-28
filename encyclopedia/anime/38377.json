@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Fukufuku no Chizu",
     "+@precision": "movie",
-    "+@generated-on": "2026-02-26T03:12:09Z",
+    "+@generated-on": "2026-03-28T03:17:19Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "38376"
@@ -58,11 +58,18 @@
             "+@href": "https://fukushimamap.jp/special-2/"
         }
     ],
-    "news": {
-        "+content": "<cite>In This Corner of the World's</cite> Sunao Katabuchi Directs New Original Short Film",
-        "+@datetime": "2026-01-26T14:59:40Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-01-26/in-this-corner-of-the-world-sunao-katabuchi-directs-new-original-short-film/.233483"
-    },
+    "news": [
+        {
+            "+content": "<cite>In This Corner of the World's</cite> Sunao Katabuchi Directs New Original Short Film",
+            "+@datetime": "2026-01-26T14:59:40Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-26/in-this-corner-of-the-world-sunao-katabuchi-directs-new-original-short-film/.233483"
+        },
+        {
+            "+content": "Sunao Katabuchi's 'Fukufuku no Chizu' Anime Short Posted",
+            "+@datetime": "2026-03-24T03:39:11Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-23/sunao-katabuchi-fukufuku-no-chizu-anime-short-posted/.235664"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1314001946",
@@ -119,6 +126,30 @@
                 "+content": "Izumi Seguchi",
                 "+@id": "68056"
             }
+        },
+        {
+            "+@gid": "2478273627",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Sunao Katabuchi",
+                "+@id": "2906"
+            }
+        },
+        {
+            "+@gid": "1373075367",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Tomoko Washida",
+                "+@id": "31030"
+            }
+        },
+        {
+            "+@gid": "2752563391",
+            "task": "Producer",
+            "person": {
+                "+content": "Jun Inoue",
+                "+@id": "254423"
+            }
         }
     ],
     "credit": [
@@ -140,5 +171,6 @@
         }
     ],
     "+@date-added": "2026-01-26T17:41:24Z",
-    "+@date-last-updated-at": "2026-02-26T03:12:14Z"
+    "+@date-last-modified-at": "2026-03-28T03:17:24Z",
+    "+@date-last-updated-at": "2026-03-28T03:17:24Z"
 }
