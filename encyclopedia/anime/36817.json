@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "My Hero Academia: Vigilantes",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-02-27T09:00:47Z",
+    "+@generated-on": "2026-03-29T13:29:16Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "34226"
@@ -103,6 +103,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "1459658889",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-01-05",
             "+@gid": "2812430655",
             "+@type": "Vintage"
@@ -116,8 +121,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "6",
-        "+@weighted_score": "6.7331"
+        "+@nb_votes": "7",
+        "+@weighted_score": "6.9798"
     },
     "news": [
         {
@@ -449,6 +454,15 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "652137528",
+            "+@lang": "EN",
+            "role": "Christopher Skyline / Captain Celebrity",
+            "person": {
+                "+content": "Sean Schemmel",
+                "+@id": "1126"
+            }
+        },
         {
             "+@gid": "1875857800",
             "+@lang": "EN",
@@ -972,6 +986,6 @@
         }
     },
     "+@date-added": "2025-06-30T22:40:36Z",
-    "+@date-last-modified-at": "2026-02-27T09:00:50Z",
-    "+@date-last-updated-at": "2026-02-27T09:00:50Z"
+    "+@date-last-modified-at": "2026-03-29T13:29:18Z",
+    "+@date-last-updated-at": "2026-03-29T13:29:18Z"
 }
