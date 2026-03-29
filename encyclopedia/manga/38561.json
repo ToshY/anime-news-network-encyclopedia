@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Mood Indigo",
     "+@precision": "manga",
-    "+@generated-on": "2026-02-27T05:29:59Z",
-    "related-prev": {
-        "+@rel": "prequel of",
-        "+@id": "38560"
-    },
+    "+@generated-on": "2026-03-29T05:52:09Z",
+    "related-prev": [
+        {
+            "+@rel": "prequel of",
+            "+@id": "38560"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "38565"
+        }
+    ],
     "info": [
         {
             "+@gid": "2254398423",
@@ -77,5 +83,6 @@
         }
     },
     "+@date-added": "2026-02-26T19:14:44Z",
-    "+@date-last-updated-at": "2026-02-27T05:30:01Z"
+    "+@date-last-modified-at": "2026-03-29T05:52:11Z",
+    "+@date-last-updated-at": "2026-03-29T05:52:11Z"
 }

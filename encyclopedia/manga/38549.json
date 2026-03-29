@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Godzilla Galaxy Odyssey",
     "+@precision": "manga",
-    "+@generated-on": "2026-02-27T05:29:59Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "19081"
-    },
+    "+@generated-on": "2026-03-29T05:52:09Z",
+    "related-prev": [
+        {
+            "+@rel": "part of",
+            "+@id": "1972"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "19081"
+        }
+    ],
     "info": [
         {
             "+@gid": "3233890840",
@@ -57,6 +63,13 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "X Twitter",
+            "+@gid": "1176024630",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://x.com/g_comic_yc"
+        },
+        {
             "+content": "Young Champion",
             "+@gid": "2394383498",
             "+@type": "Official website",
@@ -64,6 +77,11 @@
             "+@href": "https://youngchampion.jp/series/20a59d2babf28"
         }
     ],
+    "news": {
+        "+content": "New <cite>Godzilla</cite> Manga Unveils Visual, <cite>Godzilla Galaxy Odyssey</cite> Title",
+        "+@datetime": "2025-04-28T19:30:00Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2025-04-28/new-godzilla-manga-unveils-visual-godzilla-galaxy-odyssey-title/.224011"
+    },
     "staff": [
         {
             "+@gid": "1934149582",
@@ -91,5 +109,6 @@
         }
     ],
     "+@date-added": "2026-02-24T18:42:35Z",
-    "+@date-last-updated-at": "2026-02-27T05:30:01Z"
+    "+@date-last-modified-at": "2026-03-29T05:52:11Z",
+    "+@date-last-updated-at": "2026-03-29T05:52:11Z"
 }

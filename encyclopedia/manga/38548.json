@@ -4,7 +4,11 @@
     "+@type": "manga",
     "+@name": "Godzilla, King of the Monsters",
     "+@precision": "manga",
-    "+@generated-on": "2026-02-27T05:29:59Z",
+    "+@generated-on": "2026-03-29T05:52:09Z",
+    "related-prev": {
+        "+@rel": "part of",
+        "+@id": "1972"
+    },
     "info": [
         {
             "+@gid": "2236170241",
@@ -64,14 +68,25 @@
             "+@type": "Vintage"
         }
     ],
-    "staff": {
-        "+@gid": "1380884864",
-        "task": "Story & Art",
-        "person": {
-            "+content": "Hiroshi Kawamoto",
-            "+@id": "9473"
+    "staff": [
+        {
+            "+@gid": "3505463509",
+            "task": "Story",
+            "person": {
+                "+content": "Hisashi Yasui",
+                "+@id": "141961"
+            }
+        },
+        {
+            "+@gid": "2542688918",
+            "task": "Art",
+            "person": {
+                "+content": "Hiroshi Kawamoto",
+                "+@id": "9473"
+            }
         }
-    },
+    ],
     "+@date-added": "2026-02-24T17:57:39Z",
-    "+@date-last-updated-at": "2026-02-27T05:30:01Z"
+    "+@date-last-modified-at": "2026-03-29T05:52:11Z",
+    "+@date-last-updated-at": "2026-03-29T05:52:11Z"
 }
