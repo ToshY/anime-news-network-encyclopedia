@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Kakkun Cafe",
     "+@precision": "movie",
-    "+@generated-on": "2026-02-16T17:03:54Z",
+    "+@generated-on": "2026-03-29T08:59:27Z",
     "info": [
         {
             "+@gid": "2883863441",
@@ -43,6 +43,16 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "1561716720",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "politics",
+            "+@gid": "235507836",
+            "+@type": "Themes"
+        },
+        {
             "+content": "86",
             "+@gid": "2686968331",
             "+@type": "Running time"
@@ -65,6 +75,21 @@
             "+content": "\"Kō Iccha Nan dakedo...\" (こういっちゃナンだけど…) by Kenichi Nagira",
             "+@gid": "2821689507",
             "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Seishun mono Boku no Tabi ga ima...\" (青春もの僕の旅がいま…) by Sugar",
+            "+@gid": "2746652573",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Sōri Train\" (ソーリトレイン) by Kenichi Nagira & Manzō Saita",
+            "+@gid": "2493709998",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Ue no Hito Ondo\" (上のヒト音頭) by Kenichi Nagira & Manzō Saita",
+            "+@gid": "2030212617",
+            "+@type": "Insert song"
         }
     ],
     "staff": [
@@ -128,7 +153,7 @@
             "+@gid": "2437263752",
             "task": "Producer",
             "person": {
-                "+content": "Tetsuo Saijo",
+                "+content": "Tetsuo Saijō",
                 "+@id": "74012"
             }
         },
@@ -207,5 +232,6 @@
         }
     ],
     "+@date-added": "2006-11-15T01:47:33Z",
-    "+@date-last-updated-at": "2026-02-16T17:03:56Z"
+    "+@date-last-modified-at": "2026-03-29T08:59:28Z",
+    "+@date-last-updated-at": "2026-03-29T08:59:28Z"
 }
