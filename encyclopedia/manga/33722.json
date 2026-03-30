@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Kabushiki Gaisha 5-nen 1-kumi",
     "+@precision": "manga",
-    "+@generated-on": "2026-02-27T20:45:52Z",
+    "+@generated-on": "2026-03-30T03:43:56Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "19949"
@@ -53,21 +53,33 @@
             "+@lang": "JA"
         },
         {
+            "+content": "5",
+            "+@gid": "3922425820",
+            "+@type": "Number of tankoubon"
+        },
+        {
             "+content": "2023-04-04 (one-shot \"Billionaire Tutorial!\" in Saikyo Jump, May 2023)",
             "+@gid": "2551817433",
             "+@type": "Vintage"
         },
         {
-            "+content": "2024-04-04 (serialized in Saikyo Jump, May 2024)",
+            "+content": "2024-04-04 to 2026-03-04 (Saikyo Jump, May 2024 - Apr 2026)",
             "+@gid": "3111353908",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Hideo Shinkai Launches New Manga on April 4",
-        "+@datetime": "2024-03-04T18:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-03-04/hideo-shinkai-launches-new-manga-on-april-4/.208303"
-    },
+    "news": [
+        {
+            "+content": "Hideo Shinkai Launches New Manga on April 4",
+            "+@datetime": "2024-03-04T18:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-03-04/hideo-shinkai-launches-new-manga-on-april-4/.208303"
+        },
+        {
+            "+content": "Hideo Shinkai's <cite>Kabushiki Gaisha 5-nen 1-kumi</cite> Manga Ends",
+            "+@datetime": "2026-03-04T23:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-04/hideo-shinkai-kabushiki-gaisha-5-nen-1-kumi-manga-ends/.234877"
+        }
+    ],
     "staff": {
         "+@gid": "1688791271",
         "task": "Story & Art",
@@ -77,5 +89,6 @@
         }
     },
     "+@date-added": "2024-10-13T02:21:25Z",
-    "+@date-last-updated-at": "2026-02-27T20:45:53Z"
+    "+@date-last-modified-at": "2026-03-30T03:43:57Z",
+    "+@date-last-updated-at": "2026-03-30T03:43:57Z"
 }
