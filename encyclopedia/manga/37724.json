@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Sweet Heat",
     "+@precision": "manga",
-    "+@generated-on": "2026-03-01T13:10:11Z",
+    "+@generated-on": "2026-03-31T14:02:32Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "37725"
@@ -69,11 +69,18 @@
             "+@href": "https://bigcomics.jp/series/12543272212d3"
         }
     ],
-    "news": {
-        "+content": "North American Anime, Manga Releases, December 28-January 3",
-        "+@datetime": "2025-12-30T22:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-12-30/north-american-anime-manga-releases-december-28-january-3/.232638"
-    },
+    "news": [
+        {
+            "+content": "North American Anime, Manga Releases, December 28-January 3",
+            "+@datetime": "2025-12-30T22:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-30/north-american-anime-manga-releases-december-28-january-3/.232638"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, March 22-28",
+            "+@datetime": "2026-03-27T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-27/north-american-anime-manga-releases-march-22-28/.235655"
+        }
+    ],
     "staff": {
         "+@gid": "1779575997",
         "task": "Story & Art",
@@ -83,5 +90,6 @@
         }
     },
     "+@date-added": "2025-08-31T22:09:01Z",
-    "+@date-last-updated-at": "2026-03-01T13:10:12Z"
+    "+@date-last-modified-at": "2026-03-31T14:02:34Z",
+    "+@date-last-updated-at": "2026-03-31T14:02:34Z"
 }
