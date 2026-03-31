@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Kindergarten WARS",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-01T05:32:12Z",
+    "+@generated-on": "2026-03-31T05:54:52Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27253"
@@ -13,17 +13,17 @@
         {
             "+@gid": "2894597758",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37889-2894597758.1766214377.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37889-2894597758.1774762945.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37889-2894597758.1766214377.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37889-2894597758.1774762945.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37889-2894597758.1766214377.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37889-2894597758.1774762945.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
@@ -56,13 +56,32 @@
             "+content": "comedy",
             "+@gid": "1837725319",
             "+@type": "Genres"
+        },
+        {
+            "+content": "2027-04",
+            "+@gid": "1335022503",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ『幼稚園WARS』公式サイト",
+            "+@gid": "2372717227",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://www.youchienwars.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Kindergarten Wars</cite> TV Anime Reveals Teaser Visual, Main Staff",
-        "+@datetime": "2025-12-20T06:53:20Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-12-20/kindergarten-wars-tv-anime-reveals-teaser-visual-main-staff/.232303"
-    },
+    "news": [
+        {
+            "+content": "<cite>Kindergarten Wars</cite> TV Anime Reveals Teaser Visual, Main Staff",
+            "+@datetime": "2025-12-20T06:53:20Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-20/kindergarten-wars-tv-anime-reveals-teaser-visual-main-staff/.232303"
+        },
+        {
+            "+content": "<cite>Kindergarten Wars</cite> TV Anime Reveals Spring 2027 Debut, More Cast in Video",
+            "+@datetime": "2026-03-29T01:45:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-28/kindergarten-wars-tv-anime-reveals-spring-2027-debut-more-cast-in-video/.235879"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3347124485",
@@ -91,12 +110,39 @@
     ],
     "cast": [
         {
+            "+@gid": "3191514391",
+            "+@lang": "JA",
+            "role": "Luke",
+            "person": {
+                "+content": "Satoshi Hino",
+                "+@id": "15417"
+            }
+        },
+        {
+            "+@gid": "2169591696",
+            "+@lang": "JA",
+            "role": "Silvia",
+            "person": {
+                "+content": "Mariya Ise",
+                "+@id": "46112"
+            }
+        },
+        {
             "+@gid": "818249994",
             "+@lang": "JA",
             "role": "Rita",
             "person": {
                 "+content": "Atsumi Tanezaki",
                 "+@id": "111376"
+            }
+        },
+        {
+            "+@gid": "2854206565",
+            "+@lang": "JA",
+            "role": "Hana",
+            "person": {
+                "+content": "Hitomi Ohwada",
+                "+@id": "124191"
             }
         },
         {
@@ -109,14 +155,25 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2988884437",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Sunrise",
-            "+@id": "34"
+    "credit": [
+        {
+            "+@gid": "2988884437",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Sunrise",
+                "+@id": "34"
+            }
+        },
+        {
+            "+@gid": "2406670199",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Felix Film",
+                "+@id": "14574"
+            }
         }
-    },
+    ],
     "+@date-added": "2025-10-01T18:55:24Z",
-    "+@date-last-updated-at": "2026-03-01T05:32:17Z"
+    "+@date-last-modified-at": "2026-03-31T05:54:56Z",
+    "+@date-last-updated-at": "2026-03-31T05:54:56Z"
 }
