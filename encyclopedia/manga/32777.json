@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Godzilla vs. Biollante",
     "+@precision": "manga",
-    "+@generated-on": "2026-03-02T13:35:30Z",
+    "+@generated-on": "2026-04-01T17:12:02Z",
     "related-prev": [
         {
             "+@rel": "part of",
@@ -20,6 +20,30 @@
         "+@rel": "sequel"
     },
     "info": [
+        {
+            "+@gid": "3775877007",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32777-3775877007.1772490697.jpg",
+            "+@width": "129",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A32777-3775877007.1772490697.jpg",
+                    "+@width": "129",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A32777-3775877007.1772490697.jpg",
+                    "+@width": "388",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A32777-3775877007.1772490697.jpg",
+                    "+@width": "495",
+                    "+@height": "766"
+                }
+            ]
+        },
         {
             "+content": "Godzilla vs. Biollante",
             "+@gid": "1628233039",
@@ -48,15 +72,25 @@
             "+@type": "Vintage"
         }
     ],
-    "staff": {
-        "+@gid": "1194666330",
-        "task": "Story & Art",
-        "person": {
-            "+content": "Tatsuyoshi Kobayashi",
-            "+@id": "13881"
+    "staff": [
+        {
+            "+@gid": "1194666330",
+            "task": "Story & Art",
+            "person": {
+                "+content": "Tatsuyoshi Kobayashi",
+                "+@id": "13881"
+            }
+        },
+        {
+            "+@gid": "1775687914",
+            "task": "Original story",
+            "person": {
+                "+content": "Kazuki Ōmori",
+                "+@id": "19909"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-05-29T14:02:29Z",
-    "+@date-last-modified-at": "2026-03-02T13:35:31Z",
-    "+@date-last-updated-at": "2026-03-02T13:35:31Z"
+    "+@date-last-modified-at": "2026-04-01T17:12:03Z",
+    "+@date-last-updated-at": "2026-04-01T17:12:03Z"
 }
