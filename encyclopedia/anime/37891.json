@@ -4,10 +4,20 @@
     "+@type": "ONA",
     "+@name": "Petitcure ~Precure Fairies~",
     "+@precision": "ONA 2",
-    "+@generated-on": "2026-03-02T05:30:25Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "35273"
+    "+@generated-on": "2026-04-01T06:04:07Z",
+    "related-prev": [
+        {
+            "+@rel": "part of",
+            "+@id": "25076"
+        },
+        {
+            "+@rel": "sequel of",
+            "+@id": "35273"
+        }
+    ],
+    "related-next": {
+        "+@id": "38734",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -59,6 +69,10 @@
             "+@href": "https://www.toei-anim.co.jp/petitcure/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "9"
+    },
     "staff": [
         {
             "+@gid": "3732534890",
@@ -110,5 +124,6 @@
         }
     },
     "+@date-added": "2025-10-02T18:13:44Z",
-    "+@date-last-updated-at": "2026-03-02T05:30:30Z"
+    "+@date-last-modified-at": "2026-04-01T06:04:11Z",
+    "+@date-last-updated-at": "2026-04-01T06:04:11Z"
 }
