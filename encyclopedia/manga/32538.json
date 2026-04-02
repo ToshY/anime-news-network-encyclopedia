@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Mitsuka",
     "+@precision": "manga",
-    "+@generated-on": "2026-03-03T03:14:40Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "36895"
-    },
+    "+@generated-on": "2026-04-02T05:50:10Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "36895"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "38870"
+        }
+    ],
     "info": [
         {
             "+@gid": "1255982771",
@@ -121,5 +127,6 @@
         }
     },
     "+@date-added": "2024-03-22T17:21:08Z",
-    "+@date-last-updated-at": "2026-03-03T03:14:42Z"
+    "+@date-last-modified-at": "2026-04-02T05:50:11Z",
+    "+@date-last-updated-at": "2026-04-02T05:50:11Z"
 }
