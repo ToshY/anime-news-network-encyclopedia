@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Shibuya Near Family",
     "+@precision": "manga",
-    "+@generated-on": "2026-03-03T03:14:40Z",
+    "+@generated-on": "2026-04-02T03:27:03Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "4118"
@@ -61,11 +61,18 @@
         "+@nb_votes": "1",
         "+@weighted_score": "4"
     },
-    "news": {
-        "+content": "<cite>Kakushigoto's</cite> Kōji Kumeta Launches New Manga",
-        "+@datetime": "2021-10-26T19:34:07Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2021-10-26/kakushigoto-koji-kumeta-launches-new-manga/.178835"
-    },
+    "news": [
+        {
+            "+content": "<cite>Kakushigoto's</cite> Kōji Kumeta Launches New Manga",
+            "+@datetime": "2021-10-26T19:34:07Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2021-10-26/kakushigoto-koji-kumeta-launches-new-manga/.178835"
+        },
+        {
+            "+content": "<cite>Zetsubou-Sensei's</cite> Kōji Kumeta Injures Finger, Goes on Hiatus",
+            "+@datetime": "2026-03-19T05:38:47Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-19/zetsubou-sensei-koji-kumeta-injures-finger-goes-on-hiatus/.235474"
+        }
+    ],
     "staff": {
         "+@gid": "2642659870",
         "task": "Story & Art",
@@ -75,5 +82,6 @@
         }
     },
     "+@date-added": "2024-03-24T21:40:28Z",
-    "+@date-last-updated-at": "2026-03-03T03:14:42Z"
+    "+@date-last-modified-at": "2026-04-02T03:27:04Z",
+    "+@date-last-updated-at": "2026-04-02T03:27:04Z"
 }
