@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Batman Ninja",
     "+@precision": "movie",
-    "+@generated-on": "2026-03-03T17:07:44Z",
+    "+@generated-on": "2026-04-02T17:10:24Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "10174"
@@ -57,9 +57,39 @@
             "+@type": "Genres"
         },
         {
+            "+content": "comedy",
+            "+@gid": "2962690440",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "1063369843",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "mystery",
+            "+@gid": "1455087499",
+            "+@type": "Genres"
+        },
+        {
             "+content": "science fiction",
             "+@gid": "2428671976",
             "+@type": "Genres"
+        },
+        {
+            "+content": "crime",
+            "+@gid": "1831475892",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "detective",
+            "+@gid": "3024960689",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "historical",
+            "+@gid": "2104525061",
+            "+@type": "Themes"
         },
         {
             "+content": "martial arts",
@@ -72,8 +102,28 @@
             "+@type": "Themes"
         },
         {
+            "+content": "ninja",
+            "+@gid": "2377594208",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "samurai",
+            "+@gid": "2474076518",
+            "+@type": "Themes"
+        },
+        {
             "+content": "superhero",
             "+@gid": "118201880",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superhumans",
+            "+@gid": "2088970343",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "1809464968",
             "+@type": "Themes"
         },
         {
@@ -90,6 +140,11 @@
             "+content": "Gorilla Grodd's time displacement machine transports many of Batman's worst enemies to feudal Japan - along with the Dark Knight and a few of his allies. The villains take over the forms of the feudal lords that rule the divided land, with the Joker taking the lead among the warring factions. As his traditional high-tech weaponry is exhausted almost immediately, Batman must rely on his intellect and his allies - including Catwoman and the extended Bat-family - to restore order to the land, and return to present-day Gotham City.",
             "+@gid": "1423843931",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "85",
+            "+@gid": "2689498552",
+            "+@type": "Running time"
         },
         {
             "+content": "2018-04-24",
@@ -110,9 +165,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "88",
-        "+@weighted_score": "6.1627",
-        "+@bayesian_score": "6.31976"
+        "+@nb_votes": "89",
+        "+@weighted_score": "6.1874",
+        "+@bayesian_score": "6.35103"
     },
     "release": [
         {
@@ -1286,6 +1341,6 @@
         }
     ],
     "+@date-added": "2017-12-05T07:05:52Z",
-    "+@date-last-modified-at": "2026-03-03T17:07:46Z",
-    "+@date-last-updated-at": "2026-03-03T17:07:46Z"
+    "+@date-last-modified-at": "2026-04-02T17:10:27Z",
+    "+@date-last-updated-at": "2026-04-02T17:10:27Z"
 }
