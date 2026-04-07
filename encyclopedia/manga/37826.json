@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Jujutsu Kaisen Modulo",
     "+@precision": "manga",
-    "+@generated-on": "2026-03-08T13:10:52Z",
+    "+@generated-on": "2026-04-07T14:01:52Z",
     "related-prev": [
         {
             "+@rel": "serialized in",
@@ -64,20 +64,32 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2025-09-08 (serialized in Shonen Jump, 2025 #41)",
+            "+content": "3",
+            "+@gid": "2305826488",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2025-09-08 to 2026-03-09 (Shonen Jump, 2025 #41 - 2026 #15)",
             "+@gid": "2430123000",
             "+@type": "Vintage"
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "4"
+        "+@nb_votes": "3",
+        "+@weighted_score": "7.2815"
     },
-    "news": {
-        "+content": "Gege Akutami, Yuji Iwasaki's New Short-Term Manga Revealed as <cite>Jujutsu Kaisen</cite> Spinoff",
-        "+@datetime": "2025-09-07T15:05:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-09-07/gege-akutami-yuji-iwasaki-new-short-term-manga-revealed-as-jujutsu-kaisen-spinoff/.228512"
-    },
+    "news": [
+        {
+            "+content": "Gege Akutami, Yuji Iwasaki's New Short-Term Manga Revealed as <cite>Jujutsu Kaisen</cite> Spinoff",
+            "+@datetime": "2025-09-07T15:05:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-09-07/gege-akutami-yuji-iwasaki-new-short-term-manga-revealed-as-jujutsu-kaisen-spinoff/.228512"
+        },
+        {
+            "+content": "<cite>Jujutsu Kaisen Modulo</cite> Spinoff Manga Ends",
+            "+@datetime": "2026-03-08T15:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-08/jujutsu-kaisen-modulo-spinoff-manga-ends/.235040"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3136640060",
@@ -97,5 +109,6 @@
         }
     ],
     "+@date-added": "2025-09-07T18:05:42Z",
-    "+@date-last-updated-at": "2026-03-08T13:10:54Z"
+    "+@date-last-modified-at": "2026-04-07T14:01:54Z",
+    "+@date-last-updated-at": "2026-04-07T14:01:54Z"
 }
