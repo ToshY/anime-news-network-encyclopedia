@@ -4,12 +4,36 @@
     "+@type": "special",
     "+@name": "Evangelion 30th Anniversary Special Screening",
     "+@precision": "special",
-    "+@generated-on": "2026-03-08T03:12:25Z",
+    "+@generated-on": "2026-04-07T03:31:28Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "49"
     },
     "info": [
+        {
+            "+@gid": "2169926783",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38634-2169926783.1774843469.jpg",
+            "+@width": "200",
+            "+@height": "150",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38634-2169926783.1774843469.jpg",
+                    "+@width": "200",
+                    "+@height": "150"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38634-2169926783.1774843469.jpg",
+                    "+@width": "500",
+                    "+@height": "375"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38634-2169926783.1774843469.jpg",
+                    "+@width": "1440",
+                    "+@height": "1080"
+                }
+            ]
+        },
         {
             "+content": "Evangelion 30th Anniversary Special Screening",
             "+@gid": "1765739874",
@@ -29,6 +53,41 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "2493624809",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "science fiction",
+            "+@gid": "1062995400",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "fanservice",
+            "+@gid": "2835567561",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "mecha",
+            "+@gid": "2454390213",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "1969779330",
+            "+@type": "Objectionable content"
+        },
+        {
+            "+content": "Two Asuka Langleys from different timelines host a comedy stage show to celebrate the 30th anniversary of the <i>Evangelion</i> franchise and re-enact key scenes from the TV series and the films, hoping for Asuka Langley Sōryū to find the perfect ending to her story arc.",
+            "+@gid": "1514637691",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "15",
+            "+@gid": "1477905676",
+            "+@type": "Running time"
+        },
+        {
             "+content": "2026-02-21 (screened at Evangelion:30+;)",
             "+@gid": "2848748582",
             "+@type": "Vintage"
@@ -37,8 +96,22 @@
             "+content": "2026-03-08 (streaming on YouTube)",
             "+@gid": "793233073",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Komm, süsser Tod\" by Yūko Miyamura",
+            "+@gid": "2942194046",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Tsubasa o Kudasai\" (翼をください; Please Give Me Wings) by Megumi Hayashibara with Special Kids",
+            "+@gid": "477472679",
+            "+@type": "Insert song"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "4",
+        "+@weighted_score": "7.2394"
+    },
     "news": {
         "+content": "'Evangelion 30th Anniversary Special Screening' Anime Short is Now Officially Streaming",
         "+@datetime": "2026-03-07T09:23:11Z",
@@ -166,6 +239,53 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "2056754700",
+            "+@lang": "JA",
+            "role": "Mari Illustrious Makinami",
+            "person": {
+                "+content": "Maaya Sakamoto",
+                "+@id": "527"
+            }
+        },
+        {
+            "+@gid": "2295022909",
+            "+@lang": "JA",
+            "role": "Misato Katsuragi",
+            "person": {
+                "+content": "Kotono Mitsuishi",
+                "+@id": "720"
+            }
+        },
+        {
+            "+@gid": "2443639898",
+            "+@lang": "JA",
+            "role": "Shinji Ikari",
+            "person": {
+                "+content": "Megumi Ogata",
+                "+@id": "790"
+            }
+        },
+        {
+            "+@gid": "1257365274",
+            "+@lang": "JA",
+            "role": "Asuka Langley Shikinami",
+            "person": {
+                "+content": "Yūko Miyamura",
+                "+@id": "828"
+            }
+        },
+        {
+            "+@gid": "1473346412",
+            "+@lang": "JA",
+            "role": "Asuka Langley Sōryū",
+            "person": {
+                "+content": "Yūko Miyamura",
+                "+@id": "828"
+            }
+        }
+    ],
     "credit": [
         {
             "+@gid": "3744858227",
@@ -185,5 +305,6 @@
         }
     ],
     "+@date-added": "2026-03-07T19:37:06Z",
-    "+@date-last-updated-at": "2026-03-08T03:12:26Z"
+    "+@date-last-modified-at": "2026-04-07T03:31:35Z",
+    "+@date-last-updated-at": "2026-04-07T03:31:35Z"
 }
