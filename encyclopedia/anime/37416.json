@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "One Piece Heroines",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-09T05:35:21Z",
+    "+@generated-on": "2026-04-08T05:58:56Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "33747"
@@ -50,11 +50,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "<cite>One Piece: Heroines</cite> Anime Debuts on July 5",
-        "+@datetime": "2026-02-05T17:23:23Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-02-05/one-piece-heroines-anime-debuts-on-july-5/.233867"
-    },
+    "news": [
+        {
+            "+content": "<cite>One Piece: Heroines</cite> Anime Debuts on July 5",
+            "+@datetime": "2026-02-05T17:23:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-05/one-piece-heroines-anime-debuts-on-july-5/.233867"
+        },
+        {
+            "+content": "<cite>One Piece Heroines</cite> Anime Reveals Promo Video, More Cast",
+            "+@datetime": "2026-03-28T10:52:57Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-28/one-piece-heroines-anime-reveals-promo-video-more-cast/.235868"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1134221681",
@@ -105,6 +112,27 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "1879219210",
+            "+@lang": "JA",
+            "role": "Miucha",
+            "person": {
+                "+content": "Maaya Sakamoto",
+                "+@id": "527"
+            }
+        },
+        {
+            "+@gid": "3777499257",
+            "+@lang": "JA",
+            "role": "Lubun",
+            "person": {
+                "+content": "Takehito Koyasu",
+                "+@id": "662"
+            }
+        }
+    ],
     "+@date-added": "2025-08-10T05:28:30Z",
-    "+@date-last-updated-at": "2026-03-09T05:35:29Z"
+    "+@date-last-modified-at": "2026-04-08T05:59:05Z",
+    "+@date-last-updated-at": "2026-04-08T05:59:05Z"
 }
