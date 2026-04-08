@@ -2,9 +2,9 @@
     "+@id": "30754",
     "+@gid": "2790857519",
     "+@type": "manga",
-    "+@name": "Kage to Hana",
+    "+@name": "Shadow and the Flower",
     "+@precision": "manga",
-    "+@generated-on": "2026-03-09T09:02:59Z",
+    "+@generated-on": "2026-04-08T14:02:31Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "21726"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "The Shadow and the Flower",
+            "+@gid": "2003259973",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Kage to Hana",
             "+@gid": "1369165310",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -53,8 +59,23 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "1658109406",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "2800704387",
+            "+@type": "Genres"
+        },
+        {
             "+content": "ninja",
             "+@gid": "2795822142",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "yuri",
+            "+@gid": "2093435567",
             "+@type": "Themes"
         },
         {
@@ -75,6 +96,11 @@
             "+@href": "https://comic-action.com/episode/4856001361003856913"
         }
     ],
+    "news": {
+        "+content": "Tokyopop Licenses <cite>My One-Sided Love</cite>, <cite>Blue Spring in Your Eyes</cite>, <cite>Spicy Milk Candy</cite>, More Manga",
+        "+@datetime": "2026-03-19T20:34:59Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-19/tokyopop-licenses-my-one-sided-love-blue-spring-in-your-eyes-spicy-milk-candy-more-manga/.235502"
+    },
     "staff": {
         "+@gid": "1781969649",
         "task": "Story & Art",
@@ -84,5 +110,6 @@
         }
     },
     "+@date-added": "2023-11-19T21:21:19Z",
-    "+@date-last-updated-at": "2026-03-09T09:03:00Z"
+    "+@date-last-modified-at": "2026-04-08T14:02:34Z",
+    "+@date-last-updated-at": "2026-04-08T14:02:34Z"
 }
