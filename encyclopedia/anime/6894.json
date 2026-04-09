@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Megaman Star Force",
     "+@precision": "TV",
-    "+@generated-on": "2026-02-17T20:57:02Z",
+    "+@generated-on": "2026-04-09T21:04:31Z",
     "related-prev": [
         {
             "+@rel": "related to",
@@ -140,12 +140,12 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "\"Clouds of Everyday\" by ??? [English Version] (ep 5) (ep 6)",
+            "+content": "\"Clouds of Everyday\" by ??? [English Version] (ep 5) (ep 6) (ep 9) (ep 13)",
             "+@gid": "2348437362",
             "+@type": "Insert song"
         },
         {
-            "+content": "\"I Gave My Heart\" by ??? [English Version]",
+            "+content": "\"I Gave My Heart\" by ??? [English Version] (ep 9)",
             "+@gid": "3600062185",
             "+@type": "Insert song"
         },
@@ -187,8 +187,8 @@
     ],
     "ratings": {
         "+@nb_votes": "73",
-        "+@weighted_score": "6.6899",
-        "+@bayesian_score": "6.80026"
+        "+@weighted_score": "6.6894",
+        "+@bayesian_score": "6.79976"
     },
     "episode": [
         {
@@ -632,11 +632,23 @@
             }
         }
     ],
-    "release": {
-        "+content": "Mega Man Star Force: Official Complete Works (Artbook)",
-        "+@date": "2010-12-29",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=18020"
-    },
+    "release": [
+        {
+            "+content": "Mega Man Star Force: Official Complete Works (Artbook)",
+            "+@date": "2010-12-29",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=18020"
+        },
+        {
+            "+content": "Mega Man Star Force: Official Complete Works - [Hardcover] (Artbook)",
+            "+@date": "2020-06-09",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57576"
+        },
+        {
+            "+content": "Megaman Star Force - EM Wave Change! On Air! (Dub.DVD box 1)",
+            "+@date": "2008-11-24",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57618"
+        }
+    ],
     "news": [
         {
             "+content": "<cite>MegaMan Star Force</cite> Heading to Cartoon Network in August",
@@ -915,6 +927,22 @@
                 "+content": "Katsutoshi Hirose",
                 "+@id": "488"
             }
+        },
+        {
+            "+@gid": "2549075238",
+            "task": "Producer",
+            "person": {
+                "+content": "Hidenori Miyazawa",
+                "+@id": "13999"
+            }
+        },
+        {
+            "+@gid": "1853954067",
+            "task": "Producer",
+            "person": {
+                "+content": "Aya Yoshino",
+                "+@id": "51606"
+            }
         }
     ],
     "cast": [
@@ -1006,6 +1034,15 @@
             "person": {
                 "+content": "Jessica Straus",
                 "+@id": "26803"
+            }
+        },
+        {
+            "+@gid": "2869246991",
+            "+@lang": "EN",
+            "role": "Bud Bison",
+            "person": {
+                "+content": "Michael Greco",
+                "+@id": "58993"
             }
         },
         {
@@ -1198,15 +1235,33 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2232104928",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Xebec",
-            "+@id": "336"
+    "credit": [
+        {
+            "+@gid": "2232104928",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Xebec",
+                "+@id": "336"
+            }
+        },
+        {
+            "+@gid": "1504412062",
+            "task": "Production",
+            "company": {
+                "+content": "TV Tokyo",
+                "+@id": "262"
+            }
+        },
+        {
+            "+@gid": "1482005133",
+            "task": "Production",
+            "company": {
+                "+content": "Shogakukan-Shueisha Productions",
+                "+@id": "1017"
+            }
         }
-    },
+    ],
     "+@date-added": "2006-09-21T08:04:55Z",
-    "+@date-last-modified-at": "2026-02-17T20:57:09Z",
-    "+@date-last-updated-at": "2026-02-17T20:57:09Z"
+    "+@date-last-modified-at": "2026-04-09T21:04:36Z",
+    "+@date-last-updated-at": "2026-04-09T21:04:36Z"
 }
