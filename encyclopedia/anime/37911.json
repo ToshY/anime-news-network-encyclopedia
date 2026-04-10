@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Let's Go Kaikigumi",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-11T09:01:46Z",
+    "+@generated-on": "2026-04-10T09:39:30Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "37910"
@@ -52,6 +52,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "2026-07-05",
+            "+@gid": "2115545426",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ「レッツゴー怪奇組」公式サイト",
             "+@gid": "1491976182",
             "+@type": "Official website",
@@ -59,11 +64,18 @@
             "+@href": "https://kaikigumi.com/"
         }
     ],
-    "news": {
-        "+content": "<i>Let's Go Kaikigumi</i> Horror Comedy Anime's 2 More Cast Members Listed",
-        "+@datetime": "2026-02-10T15:15:07Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-02-10/let-go-kaikigumi-horror-comedy-anime-2-more-cast-members-listed/.233992"
-    },
+    "news": [
+        {
+            "+content": "<i>Let's Go Kaikigumi</i> Horror Comedy Anime's 2 More Cast Members Listed",
+            "+@datetime": "2026-02-10T15:15:07Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-10/let-go-kaikigumi-horror-comedy-anime-2-more-cast-members-listed/.233992"
+        },
+        {
+            "+content": "<cite>Let's Go Kaikigumi</cite> TV Anime Reveals July 5 Debut, More Cast in Video",
+            "+@datetime": "2026-03-29T04:37:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-29/let-go-kaikigumi-tv-anime-reveals-july-5-debut-more-cast-in-video/.235894"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3718099111",
@@ -90,6 +102,14 @@
             }
         },
         {
+            "+@gid": "1847901989",
+            "task": "Music",
+            "person": {
+                "+content": "Akiyuki Tateyama",
+                "+@id": "139125"
+            }
+        },
+        {
             "+@gid": "795601759",
             "task": "Original creator",
             "person": {
@@ -104,9 +124,42 @@
                 "+content": "Yoshimitsu Yamashita",
                 "+@id": "34025"
             }
+        },
+        {
+            "+@gid": "3572000841",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yoshimi Umino",
+                "+@id": "9493"
+            }
+        },
+        {
+            "+@gid": "2381570701",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Kōhei Yoshida",
+                "+@id": "123180"
+            }
+        },
+        {
+            "+@gid": "2040627631",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Misaki Horiuchi",
+                "+@id": "72423"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "1551413593",
+            "+@lang": "JA",
+            "role": "Cursed Doll",
+            "person": {
+                "+content": "Mayumi Shintani",
+                "+@id": "1454"
+            }
+        },
         {
             "+@gid": "1775911369",
             "+@lang": "JA",
@@ -153,6 +206,6 @@
         }
     },
     "+@date-added": "2025-10-11T19:02:35Z",
-    "+@date-last-modified-at": "2026-03-11T09:01:50Z",
-    "+@date-last-updated-at": "2026-03-11T09:01:50Z"
+    "+@date-last-modified-at": "2026-04-10T09:39:38Z",
+    "+@date-last-updated-at": "2026-04-10T09:39:38Z"
 }
