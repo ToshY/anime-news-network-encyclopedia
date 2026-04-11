@@ -4,33 +4,33 @@
     "+@type": "movie",
     "+@name": "To You in the Beyond",
     "+@precision": "movie",
-    "+@generated-on": "2026-03-12T05:30:47Z",
+    "+@generated-on": "2026-04-11T05:40:23Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "38430"
     },
     "info": [
         {
-            "+@gid": "2332620022",
+            "+@gid": "2568538257",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38432-2332620022.1770851908.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38432-2568538257.1775444264.jpg",
             "+@width": "200",
-            "+@height": "200",
+            "+@height": "125",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38432-2332620022.1770851908.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38432-2568538257.1775444264.jpg",
                     "+@width": "200",
-                    "+@height": "200"
+                    "+@height": "125"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38432-2332620022.1770851908.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38432-2568538257.1775444264.jpg",
                     "+@width": "500",
-                    "+@height": "500"
+                    "+@height": "313"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38432-2332620022.1770851908.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38432-2568538257.1775444264.jpg",
                     "+@width": "600",
-                    "+@height": "600"
+                    "+@height": "376"
                 }
             ]
         },
@@ -73,11 +73,18 @@
             "+@href": "https://sh-anime.shochiku.co.jp/dokokimi-movie/"
         }
     ],
-    "news": {
-        "+content": "<cite>To You in the Beyond</cite> Film Teaser Unveils Staff, October 9 Opening",
-        "+@datetime": "2026-02-11T13:03:58Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-02-11/to-you-in-the-beyond-film-teaser-unveils-staff-october-9-opening/.234041"
-    },
+    "news": [
+        {
+            "+content": "<cite>To You in the Beyond</cite> Film Teaser Unveils Staff, October 9 Opening",
+            "+@datetime": "2026-02-11T13:03:58Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-11/to-you-in-the-beyond-film-teaser-unveils-staff-october-9-opening/.234041"
+        },
+        {
+            "+content": "<cite>To You in the Beyond</cite> Anime Film's Teaser Reveals Cast",
+            "+@datetime": "2026-04-06T00:44:42Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-05/to-you-in-the-beyond-anime-film-teaser-reveals-cast/.236125"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2873167751",
@@ -93,6 +100,14 @@
             "person": {
                 "+content": "Sayaka Kuwamura",
                 "+@id": "188393"
+            }
+        },
+        {
+            "+@gid": "1998772157",
+            "task": "Music",
+            "person": {
+                "+content": "Kōji Nakamura",
+                "+@id": "244921"
             }
         },
         {
@@ -112,11 +127,73 @@
             }
         },
         {
+            "+@gid": "3834824191",
+            "task": "Art Director",
+            "person": {
+                "+content": "Minoru Ōnishi",
+                "+@id": "92437"
+            }
+        },
+        {
             "+@gid": "3512153055",
             "task": "Chief Animation Director",
             "person": {
                 "+content": "Hechima",
                 "+@id": "216928"
+            }
+        },
+        {
+            "+@gid": "2376509827",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Shōji Hata",
+                "+@id": "10427"
+            }
+        },
+        {
+            "+@gid": "3196797316",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Toshiya Kimura",
+                "+@id": "22543"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1079992256",
+            "+@lang": "JA",
+            "role": "Kōzu",
+            "person": {
+                "+content": "Hiroshi Tamaki",
+                "+@id": "61614"
+            }
+        },
+        {
+            "+@gid": "1233001289",
+            "+@lang": "JA",
+            "role": "Kazuki Tsukigase",
+            "person": {
+                "+content": "Hiiro Ishibashi",
+                "+@id": "180706"
+            }
+        },
+        {
+            "+@gid": "2195097534",
+            "+@lang": "JA",
+            "role": "Nao Akishika",
+            "person": {
+                "+content": "Anna Nagase",
+                "+@id": "196760"
+            }
+        },
+        {
+            "+@gid": "1112224290",
+            "+@lang": "JA",
+            "role": "Mikiya Ozaki",
+            "person": {
+                "+content": "Simba Tsuchiya",
+                "+@id": "282914"
             }
         }
     ],
@@ -155,6 +232,6 @@
         }
     ],
     "+@date-added": "2026-02-05T06:37:39Z",
-    "+@date-last-modified-at": "2026-03-12T05:30:53Z",
-    "+@date-last-updated-at": "2026-03-12T05:30:53Z"
+    "+@date-last-modified-at": "2026-04-11T05:40:29Z",
+    "+@date-last-updated-at": "2026-04-11T05:40:29Z"
 }
