@@ -4,29 +4,24 @@
     "+@type": "TV",
     "+@name": "Grow Up Show: Himawari no Circus-dan",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-12T20:52:44Z",
+    "+@generated-on": "2026-04-12T03:47:00Z",
     "info": [
         {
             "+@gid": "3753438230",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37027-3753438230.1752535334.jpg",
-            "+@width": "200",
-            "+@height": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37027-3753438230.1774211202.jpg",
+            "+@width": "141",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37027-3753438230.1752535334.jpg",
-                    "+@width": "200",
-                    "+@height": "141"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37027-3753438230.1774211202.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37027-3753438230.1752535334.jpg",
-                    "+@width": "500",
-                    "+@height": "353"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37027-3753438230.1752535334.jpg",
-                    "+@width": "600",
-                    "+@height": "424"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37027-3753438230.1774211202.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
                 }
             ]
         },
@@ -43,8 +38,8 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2026",
-            "+@gid": "2104302949",
+            "+content": "2026-07",
+            "+@gid": "3013999741",
             "+@type": "Vintage"
         },
         {
@@ -55,11 +50,18 @@
             "+@href": "https://growupshow.com/"
         }
     ],
-    "news": {
-        "+content": "Aniplex, A-1 Pictures, Psyde Kick Studio Announce <cite>Grow Up Show</cite> Original Anime",
-        "+@datetime": "2025-07-14T09:13:19Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-07-14/aniplex-a-1-pictures-psyde-kick-studio-announce-grow-up-show-original-anime/.226617"
-    },
+    "news": [
+        {
+            "+content": "Aniplex, A-1 Pictures, Psyde Kick Studio Announce <cite>Grow Up Show</cite> Original Anime",
+            "+@datetime": "2025-07-14T09:13:19Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-14/aniplex-a-1-pictures-psyde-kick-studio-announce-grow-up-show-original-anime/.226617"
+        },
+        {
+            "+content": "<cite>Grow Up Show: Himawari no Circus-dan</cite> Anime's New Video Unveils Cast, More Staff, July Debut",
+            "+@datetime": "2026-03-22T10:57:05Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-22/grow-up-show-himawari-no-circus-dan-anime-new-video-unveils-cast-more-staff-july-debut/.235596"
+        }
+    ],
     "staff": [
         {
             "+@gid": "825970697",
@@ -86,11 +88,159 @@
             }
         },
         {
+            "+@gid": "2645463455",
+            "task": "Music",
+            "person": {
+                "+content": "Yūgo Kanno",
+                "+@id": "18581"
+            }
+        },
+        {
             "+@gid": "1813512811",
             "task": "Original Character Design",
             "person": {
                 "+content": "Kurehito Misaki",
                 "+@id": "101677"
+            }
+        },
+        {
+            "+@gid": "3091673114",
+            "task": "Character Design",
+            "person": {
+                "+content": "Kazutoshi Makino",
+                "+@id": "150262"
+            }
+        },
+        {
+            "+@gid": "3361756770",
+            "task": "Art Director",
+            "person": {
+                "+content": "Takumi Hashimoto",
+                "+@id": "221931"
+            }
+        },
+        {
+            "+@gid": "3467571172",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kazutoshi Makino",
+                "+@id": "150262"
+            }
+        },
+        {
+            "+@gid": "3016917145",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Akiko Fujita",
+                "+@id": "75819"
+            }
+        },
+        {
+            "+@gid": "2769232232",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Mizuho Kanda",
+                "+@id": "155467"
+            }
+        },
+        {
+            "+@gid": "1613011039",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Toshiaki Aoshima",
+                "+@id": "104363"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2400655189",
+            "+@lang": "JA",
+            "role": "Maria",
+            "person": {
+                "+content": "Rie Kugimiya",
+                "+@id": "808"
+            }
+        },
+        {
+            "+@gid": "1410951609",
+            "+@lang": "JA",
+            "role": "Rin Mamiya",
+            "person": {
+                "+content": "Ai Kayano",
+                "+@id": "91009"
+            }
+        },
+        {
+            "+@gid": "3020742005",
+            "+@lang": "JA",
+            "role": "Svetlana",
+            "person": {
+                "+content": "Yuka Iwahashi",
+                "+@id": "140265"
+            }
+        },
+        {
+            "+@gid": "1046531647",
+            "+@lang": "JA",
+            "role": "Shizuku Sakawa",
+            "person": {
+                "+content": "Yuna Kamakura",
+                "+@id": "151274"
+            }
+        },
+        {
+            "+@gid": "2334426552",
+            "+@lang": "JA",
+            "role": "Aoi Yura",
+            "person": {
+                "+content": "Tomori Kusunoki",
+                "+@id": "158678"
+            }
+        },
+        {
+            "+@gid": "2455009176",
+            "+@lang": "JA",
+            "role": "Akane Yura",
+            "person": {
+                "+content": "Yūko Natsuyoshi",
+                "+@id": "187604"
+            }
+        },
+        {
+            "+@gid": "2727681844",
+            "+@lang": "JA",
+            "role": "Ōka Kawasumi",
+            "person": {
+                "+content": "Shiori Kurosaki",
+                "+@id": "205652"
+            }
+        },
+        {
+            "+@gid": "2226167486",
+            "+@lang": "JA",
+            "role": "Imari Agano",
+            "person": {
+                "+content": "Reo Osanai",
+                "+@id": "213348"
+            }
+        },
+        {
+            "+@gid": "3200823846",
+            "+@lang": "JA",
+            "role": "Isuzu Ikazuchi",
+            "person": {
+                "+content": "Nanako Ando",
+                "+@id": "273412"
+            }
+        },
+        {
+            "+@gid": "1766204237",
+            "+@lang": "JA",
+            "role": "Mizuka Tsurumaki",
+            "person": {
+                "+content": "Tomoka Noda",
+                "+@id": "285850"
             }
         }
     ],
@@ -113,5 +263,6 @@
         }
     ],
     "+@date-added": "2025-07-14T19:21:19Z",
-    "+@date-last-updated-at": "2026-03-12T20:52:50Z"
+    "+@date-last-modified-at": "2026-04-12T03:47:06Z",
+    "+@date-last-updated-at": "2026-04-12T03:47:06Z"
 }
