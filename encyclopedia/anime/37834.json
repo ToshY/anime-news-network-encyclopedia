@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Victoria of Many Faces",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-13T08:59:41Z",
+    "+@generated-on": "2026-04-12T09:06:12Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "32632"
@@ -60,11 +60,18 @@
             "+@href": "https://victoria-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Victoria of Many Faces</cite> TV Anime Reveals Teaser Visual, July Debut",
-        "+@datetime": "2026-02-16T09:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-02-16/victoria-of-many-faces-tv-anime-reveals-teaser-visual-july-debut/.234235"
-    },
+    "news": [
+        {
+            "+content": "<cite>Victoria of Many Faces</cite> TV Anime Reveals Teaser Visual, July Debut",
+            "+@datetime": "2026-02-16T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-16/victoria-of-many-faces-tv-anime-reveals-teaser-visual-july-debut/.234235"
+        },
+        {
+            "+content": "<cite>Victoria of Many Faces</cite> Anime Reveals 1st Footage, More Staff in Teaser",
+            "+@datetime": "2026-03-24T09:05:25Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-24/victoria-of-many-faces-anime-reveals-1st-footage-more-staff-in-teaser/.235676"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1348569683",
@@ -80,6 +87,14 @@
             "person": {
                 "+content": "Naohiro Fukushima",
                 "+@id": "75294"
+            }
+        },
+        {
+            "+@gid": "1340152243",
+            "task": "Music",
+            "person": {
+                "+content": "Moe Hyūga",
+                "+@id": "157228"
             }
         },
         {
@@ -112,6 +127,30 @@
             "person": {
                 "+content": "Mina Ōsawa",
                 "+@id": "119840"
+            }
+        },
+        {
+            "+@gid": "279512324",
+            "task": "Art Director",
+            "person": {
+                "+content": "Si Man Wei",
+                "+@id": "142062"
+            }
+        },
+        {
+            "+@gid": "1891545896",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Satoshi Yano",
+                "+@id": "29494"
+            }
+        },
+        {
+            "+@gid": "3780222082",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Ren Zhou Li",
+                "+@id": "247519"
             }
         }
     ],
@@ -153,6 +192,6 @@
         }
     },
     "+@date-added": "2025-09-12T06:33:41Z",
-    "+@date-last-modified-at": "2026-03-13T08:59:47Z",
-    "+@date-last-updated-at": "2026-03-13T08:59:47Z"
+    "+@date-last-modified-at": "2026-04-12T09:06:19Z",
+    "+@date-last-updated-at": "2026-04-12T09:06:19Z"
 }
