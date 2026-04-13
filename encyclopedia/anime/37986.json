@@ -4,15 +4,21 @@
     "+@type": "TV",
     "+@name": "Needy Girl Overdose",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-14T08:52:27Z",
+    "+@generated-on": "2026-04-13T10:06:02Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "29738"
     },
-    "related-next": {
-        "+@id": "38462",
-        "+@rel": "compilation"
-    },
+    "related-next": [
+        {
+            "+@id": "38462",
+            "+@rel": "compilation"
+        },
+        {
+            "+@id": "38848",
+            "+@rel": "related"
+        }
+    ],
     "info": [
         {
             "+@gid": "2312831356",
@@ -52,6 +58,16 @@
             "+@lang": "JA"
         },
         {
+            "+content": "In a world where likes are currency and every viewer is a judge, OMGkawaiiAngel—also known as KAngel—is determined to become the ultimate \"Internet Angel.\" Yet beneath her pastel smile and lively streams, there’s more than meets the eye.",
+            "+@gid": "2800490257",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "13",
+            "+@gid": "1593465779",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-04-04",
             "+@gid": "2127912848",
             "+@type": "Vintage"
@@ -64,6 +80,10 @@
             "+@href": "https://needygirl-anime.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "3",
+        "+@weighted_score": "1.5151"
+    },
     "news": [
         {
             "+content": "<cite>Needy Streamer Overload</cite> Game Gets TV Anime in April 2026",
@@ -99,6 +119,21 @@
             "+content": "<cite>Needy Girl Overdose</cite> Reveals New Video, Ending Song Artist, April 4 Debut",
             "+@datetime": "2026-03-10T10:31:24Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-03-10/needy-girl-overdose-reveals-new-video-ending-song-artist-april-4-debut/.235124"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Spring 2026 Season",
+            "+@datetime": "2026-03-24T18:28:06Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-24/crunchyroll-announces-release-schedule-for-spring-2026-season/.235686"
+        },
+        {
+            "+content": "Crunchyroll Simulcasts <cite>Agents of the Four Seasons</cite>, <cite>The Food Diary of Miss Maid</cite>, More Anime in India",
+            "+@datetime": "2026-03-29T09:47:58Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-29/crunchyroll-simulcasts-agents-of-the-four-seasons-the-food-diary-of-miss-maid-more-anime-in-india/.235819"
+        },
+        {
+            "+content": "<cite>Needy Girl Overdose</cite> Anime Gets 4-Panel Manga on April 5",
+            "+@datetime": "2026-03-29T09:50:38Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-29/needy-girl-overdose-anime-gets-4-panel-manga-on-april-5/.235918"
         }
     ],
     "staff": [
@@ -254,6 +289,6 @@
         }
     },
     "+@date-added": "2025-11-10T08:19:13Z",
-    "+@date-last-modified-at": "2026-03-14T08:52:31Z",
-    "+@date-last-updated-at": "2026-03-14T08:52:31Z"
+    "+@date-last-modified-at": "2026-04-13T10:06:07Z",
+    "+@date-last-updated-at": "2026-04-13T10:06:07Z"
 }
