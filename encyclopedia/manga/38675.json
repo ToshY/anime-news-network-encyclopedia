@@ -4,7 +4,11 @@
     "+@type": "manga",
     "+@name": "Let Me Fix You",
     "+@precision": "manga",
-    "+@generated-on": "2026-03-15T03:31:46Z",
+    "+@generated-on": "2026-04-14T03:43:37Z",
+    "related-next": {
+        "+@id": "38935",
+        "+@rel": "adaptation"
+    },
     "info": [
         {
             "+@gid": "1700796249",
@@ -43,6 +47,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Lass mich dich flicken",
+            "+@gid": "2043870622",
+            "+@type": "Alternative title",
+            "+@lang": "DE"
+        },
+        {
             "+content": "君を紡ぐ",
             "+@gid": "1697175109",
             "+@type": "Alternative title",
@@ -63,11 +73,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "BluPetal Launches Kickstarter for Sakura Kurihara's <cite>Let Me Fix You</cite> Yuri Manga",
-        "+@datetime": "2026-03-13T06:18:52Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-13/blupetal-launches-kickstarter-for-sakura-kurihara-let-me-fix-you-yuri-manga/.235245"
-    },
+    "news": [
+        {
+            "+content": "BluPetal Launches Kickstarter for Sakura Kurihara's <cite>Let Me Fix You</cite> Yuri Manga",
+            "+@datetime": "2026-03-13T06:18:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-13/blupetal-launches-kickstarter-for-sakura-kurihara-let-me-fix-you-yuri-manga/.235245"
+        },
+        {
+            "+content": "<cite>Let Me Fix You</cite> Yuri Manga Gets Short Anime",
+            "+@datetime": "2026-04-04T11:07:04Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-04/let-me-fix-you-yuri-manga-gets-short-anime/.236081"
+        }
+    ],
     "staff": {
         "+@gid": "961797702",
         "task": "Story & Art",
@@ -77,5 +94,6 @@
         }
     },
     "+@date-added": "2026-03-13T04:31:14Z",
-    "+@date-last-updated-at": "2026-03-15T03:31:46Z"
+    "+@date-last-modified-at": "2026-04-14T03:43:38Z",
+    "+@date-last-updated-at": "2026-04-14T03:43:38Z"
 }
