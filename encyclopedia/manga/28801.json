@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Animan",
     "+@precision": "manga",
-    "+@generated-on": "2026-03-16T03:34:47Z",
+    "+@generated-on": "2026-04-15T06:11:43Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "5091"
@@ -91,11 +91,18 @@
             "+@href": "https://younganimal.com/series/587ac21d326af"
         }
     ],
-    "release": {
-        "+content": "Animan (GN 1)",
-        "+@date": "2025-12-16",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=55437"
-    },
+    "release": [
+        {
+            "+content": "Animan (GN 1)",
+            "+@date": "2025-12-16",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=55437"
+        },
+        {
+            "+content": "Animan (GN 2)",
+            "+@date": "2026-06-23",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57615"
+        }
+    ],
     "news": [
         {
             "+content": "Yen Press Licenses <cite>Wonder Boy</cite>, <cite>Hinatsugimura</cite>, <cite>Out of the Cocoon</cite>, More Manga/Novels",
@@ -117,5 +124,6 @@
         }
     },
     "+@date-added": "2023-06-28T21:59:35Z",
-    "+@date-last-updated-at": "2026-03-16T03:34:48Z"
+    "+@date-last-modified-at": "2026-04-15T06:11:45Z",
+    "+@date-last-updated-at": "2026-04-15T06:11:45Z"
 }
