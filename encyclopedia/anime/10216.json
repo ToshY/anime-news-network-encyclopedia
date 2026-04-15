@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Fullmetal Alchemist: Brotherhood",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-16T09:14:51Z",
+    "+@generated-on": "2026-04-15T09:51:27Z",
     "related-prev": {
         "+@rel": "alternate retelling of",
         "+@id": "2960"
@@ -327,9 +327,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "6166",
-        "+@weighted_score": "9.0741",
-        "+@bayesian_score": "9.071"
+        "+@nb_votes": "6170",
+        "+@weighted_score": "9.0753",
+        "+@bayesian_score": "9.0722"
     },
     "episode": [
         {
@@ -2626,6 +2626,24 @@
             }
         },
         {
+            "+@gid": "1988144683",
+            "+@lang": "EN",
+            "role": "Izumi Curtis",
+            "person": {
+                "+content": "Christine Auten",
+                "+@id": "1062"
+            }
+        },
+        {
+            "+@gid": "2888617363",
+            "+@lang": "EN",
+            "role": "Maes Hughes",
+            "person": {
+                "+content": "Sonny Strait",
+                "+@id": "1127"
+            }
+        },
+        {
             "+@gid": "2015561046",
             "+@lang": "EN",
             "role": "Father",
@@ -2641,6 +2659,24 @@
             "person": {
                 "+content": "Christopher R. Sabat",
                 "+@id": "1386"
+            }
+        },
+        {
+            "+@gid": "2141873305",
+            "+@lang": "EN",
+            "role": "Solf J. Kimblee",
+            "person": {
+                "+content": "Eric Vale",
+                "+@id": "1388"
+            }
+        },
+        {
+            "+@gid": "3354169747",
+            "+@lang": "EN",
+            "role": "Lust",
+            "person": {
+                "+content": "Laura Bailey",
+                "+@id": "1389"
             }
         },
         {
@@ -2671,6 +2707,15 @@
             }
         },
         {
+            "+@gid": "1719002753",
+            "+@lang": "EN",
+            "role": "Greed",
+            "person": {
+                "+content": "Chris Patton",
+                "+@id": "2517"
+            }
+        },
+        {
             "+@gid": "2565561770",
             "+@lang": "EN",
             "role": "Van Hohenheim",
@@ -2680,12 +2725,39 @@
             }
         },
         {
+            "+@gid": "512050809",
+            "+@lang": "EN",
+            "role": "Zampano",
+            "person": {
+                "+content": "Chris Rager",
+                "+@id": "4213"
+            }
+        },
+        {
+            "+@gid": "1184081780",
+            "+@lang": "EN",
+            "role": "Gluttony",
+            "person": {
+                "+content": "Chris Cason",
+                "+@id": "9199"
+            }
+        },
+        {
             "+@gid": "3474309708",
             "+@lang": "EN",
             "role": "Envy",
             "person": {
                 "+content": "Wendy Powell",
                 "+@id": "10070"
+            }
+        },
+        {
+            "+@gid": "2472605481",
+            "+@lang": "EN",
+            "role": "Darius",
+            "person": {
+                "+content": "George Manley",
+                "+@id": "12637"
             }
         },
         {
@@ -2713,6 +2785,24 @@
             "person": {
                 "+content": "Caitlin Glass",
                 "+@id": "29271"
+            }
+        },
+        {
+            "+@gid": "2689054556",
+            "+@lang": "EN",
+            "role": "Jerso",
+            "person": {
+                "+content": "Andrew Love",
+                "+@id": "44594"
+            }
+        },
+        {
+            "+@gid": "1593701105",
+            "+@lang": "EN",
+            "role": "Selim Bradley",
+            "person": {
+                "+content": "Brittney Karbowski",
+                "+@id": "44595"
             }
         },
         {
@@ -2752,6 +2842,15 @@
             }
         },
         {
+            "+@gid": "2592903802",
+            "+@lang": "EN",
+            "role": "Scar",
+            "person": {
+                "+content": "J. Michael Tatum",
+                "+@id": "65527"
+            }
+        },
+        {
             "+@gid": "1788744905",
             "+@lang": "EN",
             "role": "Alphonse Elric",
@@ -2761,57 +2860,12 @@
             }
         },
         {
-            "+@gid": "548846441",
+            "+@gid": "1455544727",
             "+@lang": "EN",
-            "role": "Alphonse Elric",
+            "role": "Shao May",
             "person": {
-                "+content": "Lili Troncale",
-                "+@id": "100785"
-            }
-        },
-        {
-            "+@gid": "3688624220",
-            "+@lang": "EN",
-            "role": "Edward Elric",
-            "person": {
-                "+content": "Muriel Hofmann",
-                "+@id": "100786"
-            }
-        },
-        {
-            "+@gid": "1653017918",
-            "+@lang": "EN",
-            "role": "Riza Hawkeye",
-            "person": {
-                "+content": "Muriel Hofmann",
-                "+@id": "100786"
-            }
-        },
-        {
-            "+@gid": "572301700",
-            "+@lang": "EN",
-            "role": "Winry Rockbell",
-            "person": {
-                "+content": "Muriel Hofmann",
-                "+@id": "100786"
-            }
-        },
-        {
-            "+@gid": "3067135066",
-            "+@lang": "EN",
-            "role": "Alex Louis Armstrong",
-            "person": {
-                "+content": "Mike Brooks",
-                "+@id": "123642"
-            }
-        },
-        {
-            "+@gid": "3436298471",
-            "+@lang": "EN",
-            "role": "Roy Mustang",
-            "person": {
-                "+content": "Matt Bailey",
-                "+@id": "125507"
+                "+content": "Tia Ballard",
+                "+@id": "81350"
             }
         },
         {
@@ -3562,6 +3616,24 @@
             }
         },
         {
+            "+@gid": "3250131214",
+            "+@lang": "JA",
+            "role": "Kimblee",
+            "person": {
+                "+content": "Hiroyuki Yoshino",
+                "+@id": "507"
+            }
+        },
+        {
+            "+@gid": "2705191737",
+            "+@lang": "JA",
+            "role": "Lust",
+            "person": {
+                "+content": "Kikuko Inoue",
+                "+@id": "542"
+            }
+        },
+        {
             "+@gid": "1902217028",
             "+@lang": "JA",
             "role": "Alex Louis Armstrong",
@@ -3589,6 +3661,15 @@
             }
         },
         {
+            "+@gid": "3516955226",
+            "+@lang": "JA",
+            "role": "Shao May",
+            "person": {
+                "+content": "Rie Kugimiya",
+                "+@id": "808"
+            }
+        },
+        {
             "+@gid": "2556317506",
             "+@lang": "JA",
             "role": "Envy",
@@ -3607,12 +3688,30 @@
             }
         },
         {
+            "+@gid": "825177420",
+            "+@lang": "JA",
+            "role": "Maes Hughes",
+            "person": {
+                "+content": "Keiji Fujiwara",
+                "+@id": "949"
+            }
+        },
+        {
             "+@gid": "339659035",
             "+@lang": "JA",
             "role": "Van Hohenheim",
             "person": {
                 "+content": "Unshō Ishizuka",
                 "+@id": "1178"
+            }
+        },
+        {
+            "+@gid": "2164002282",
+            "+@lang": "JA",
+            "role": "Gluttony",
+            "person": {
+                "+content": "Tetsu Shiratori",
+                "+@id": "1495"
             }
         },
         {
@@ -3661,6 +3760,24 @@
             }
         },
         {
+            "+@gid": "1261650241",
+            "+@lang": "JA",
+            "role": "Darius",
+            "person": {
+                "+content": "Masuo Amada",
+                "+@id": "9591"
+            }
+        },
+        {
+            "+@gid": "1133414958",
+            "+@lang": "JA",
+            "role": "Izumi Curtis",
+            "person": {
+                "+content": "Shōko Tsuda",
+                "+@id": "9935"
+            }
+        },
+        {
             "+@gid": "2296823956",
             "+@lang": "JA",
             "role": "Ling Yao",
@@ -3670,12 +3787,57 @@
             }
         },
         {
+            "+@gid": "2558177896",
+            "+@lang": "JA",
+            "role": "Scar",
+            "person": {
+                "+content": "Kenta Miyake",
+                "+@id": "10398"
+            }
+        },
+        {
+            "+@gid": "952058524",
+            "+@lang": "JA",
+            "role": "Jerso",
+            "person": {
+                "+content": "Tomoyuki Shimura",
+                "+@id": "11972"
+            }
+        },
+        {
+            "+@gid": "2066202881",
+            "+@lang": "JA",
+            "role": "Greed",
+            "person": {
+                "+content": "Yūichi Nakamura",
+                "+@id": "15878"
+            }
+        },
+        {
+            "+@gid": "3123835483",
+            "+@lang": "JA",
+            "role": "Selim Bradley",
+            "person": {
+                "+content": "Yūko Sanpei",
+                "+@id": "22150"
+            }
+        },
+        {
             "+@gid": "511810453",
             "+@lang": "JA",
             "role": "May Chang",
             "person": {
                 "+content": "Mai Gotō",
                 "+@id": "28774"
+            }
+        },
+        {
+            "+@gid": "62576233",
+            "+@lang": "JA",
+            "role": "Zampano",
+            "person": {
+                "+content": "Takashi Hikida",
+                "+@id": "46367"
             }
         },
         {
@@ -4108,6 +4270,6 @@
         }
     ],
     "+@date-added": "2008-08-22T06:36:06Z",
-    "+@date-last-modified-at": "2026-03-16T09:14:55Z",
-    "+@date-last-updated-at": "2026-03-16T09:14:55Z"
+    "+@date-last-modified-at": "2026-04-15T09:51:30Z",
+    "+@date-last-updated-at": "2026-04-15T09:51:30Z"
 }
