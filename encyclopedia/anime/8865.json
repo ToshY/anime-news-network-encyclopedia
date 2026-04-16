@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "Ryūsei no Rockman Tribe",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-17T17:18:43Z",
+    "+@generated-on": "2026-04-16T17:44:49Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "6894"
     },
     "info": [
         {
-            "+@gid": "1778116105",
+            "+@gid": "1326541998",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A8865-13.jpg",
-            "+@width": "200",
-            "+@height": "163",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A8865-1326541998.1774732434.jpg",
+            "+@width": "155",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A8865-13.jpg",
-                    "+@width": "200",
-                    "+@height": "163"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A8865-1326541998.1774732434.jpg",
+                    "+@width": "155",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A8865-13.jpg",
-                    "+@width": "498",
-                    "+@height": "407"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A8865-1326541998.1774732434.jpg",
+                    "+@width": "466",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A8865-1326541998.1774732434.jpg",
+                    "+@width": "839",
+                    "+@height": "1080"
                 }
             ]
         },
@@ -150,8 +155,8 @@
     ],
     "ratings": {
         "+@nb_votes": "36",
-        "+@weighted_score": "6.8491",
-        "+@bayesian_score": "7.00467"
+        "+@weighted_score": "6.8482",
+        "+@bayesian_score": "7.0039"
     },
     "episode": [
         {
@@ -483,6 +488,22 @@
                 "+content": "Katsutoshi Hirose",
                 "+@id": "488"
             }
+        },
+        {
+            "+@gid": "473620352",
+            "task": "Producer",
+            "person": {
+                "+content": "Hidenori Miyazawa",
+                "+@id": "13999"
+            }
+        },
+        {
+            "+@gid": "2004911711",
+            "task": "Producer",
+            "person": {
+                "+content": "Aya Yoshino",
+                "+@id": "51606"
+            }
         }
     ],
     "cast": [
@@ -550,15 +571,33 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2800127287",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Xebec",
-            "+@id": "336"
+    "credit": [
+        {
+            "+@gid": "2800127287",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Xebec",
+                "+@id": "336"
+            }
+        },
+        {
+            "+@gid": "2751505857",
+            "task": "Production",
+            "company": {
+                "+content": "TV Tokyo",
+                "+@id": "262"
+            }
+        },
+        {
+            "+@gid": "1837200490",
+            "task": "Production",
+            "company": {
+                "+content": "Shogakukan-Shueisha Productions",
+                "+@id": "1017"
+            }
         }
-    },
+    ],
     "+@date-added": "2007-10-21T21:14:26Z",
-    "+@date-last-modified-at": "2026-03-17T17:18:45Z",
-    "+@date-last-updated-at": "2026-03-17T17:18:45Z"
+    "+@date-last-modified-at": "2026-04-16T17:44:51Z",
+    "+@date-last-updated-at": "2026-04-16T17:44:51Z"
 }
