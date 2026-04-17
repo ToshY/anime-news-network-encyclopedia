@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Recommendation from Mr. Iwamoto",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-18T03:21:27Z",
+    "+@generated-on": "2026-04-17T03:46:12Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27496"
@@ -13,19 +13,24 @@
         {
             "+@gid": "2087272860",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38308-2087272860.1768602074.jpg",
-            "+@width": "141",
-            "+@height": "200",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38308-2087272860.1774767823.jpg",
+            "+@width": "200",
+            "+@height": "132",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38308-2087272860.1768602074.jpg",
-                    "+@width": "141",
-                    "+@height": "200"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38308-2087272860.1774767823.jpg",
+                    "+@width": "200",
+                    "+@height": "132"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38308-2087272860.1768602074.jpg",
-                    "+@width": "424",
-                    "+@height": "600"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38308-2087272860.1774767823.jpg",
+                    "+@width": "500",
+                    "+@height": "329"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38308-2087272860.1774767823.jpg",
+                    "+@width": "600",
+                    "+@height": "395"
                 }
             ]
         },
@@ -58,6 +63,11 @@
             "+@type": "Themes"
         },
         {
+            "+content": "2026-07",
+            "+@gid": "2383253003",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ「岩元先輩ノ推薦」公式サイト",
             "+@gid": "2212629678",
             "+@type": "Official website",
@@ -65,6 +75,11 @@
             "+@href": "https://iwamoto-anime.com/"
         }
     ],
+    "news": {
+        "+content": "<cite>Recommendation from Mr. Iwamoto</cite> Anime's 2nd Promo Video Unveils More Cast Members, July Debut",
+        "+@datetime": "2026-03-29T07:00:00Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-29/recommendation-from-mr-iwamoto-anime-2nd-promo-video-unveils-more-cast-members-july-debut/.235882"
+    },
     "staff": [
         {
             "+@gid": "3507340213",
@@ -125,6 +140,24 @@
     ],
     "cast": [
         {
+            "+@gid": "2605536129",
+            "+@lang": "JA",
+            "role": "Bōkyo Kitsujō",
+            "person": {
+                "+content": "Akira Ishida",
+                "+@id": "443"
+            }
+        },
+        {
+            "+@gid": "3010338432",
+            "+@lang": "JA",
+            "role": "Shizuma Aonuma",
+            "person": {
+                "+content": "Takuma Nagatsuka",
+                "+@id": "131726"
+            }
+        },
+        {
             "+@gid": "382211871",
             "+@lang": "JA",
             "role": "Sōichirō Amaha",
@@ -140,6 +173,15 @@
             "person": {
                 "+content": "Taito Ban",
                 "+@id": "167294"
+            }
+        },
+        {
+            "+@gid": "1093696705",
+            "+@lang": "JA",
+            "role": "Oni Okuaki",
+            "person": {
+                "+content": "Masaya Fukunishi",
+                "+@id": "168276"
             }
         },
         {
@@ -161,5 +203,6 @@
         }
     },
     "+@date-added": "2026-01-16T17:20:12Z",
-    "+@date-last-updated-at": "2026-03-18T03:21:36Z"
+    "+@date-last-modified-at": "2026-04-17T03:46:19Z",
+    "+@date-last-updated-at": "2026-04-17T03:46:19Z"
 }
