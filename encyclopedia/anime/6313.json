@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Rockman.EXE Beast",
     "+@precision": "TV",
-    "+@generated-on": "2025-12-23T02:25:15Z",
+    "+@generated-on": "2026-04-17T17:08:02Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "4397"
@@ -14,6 +14,30 @@
         "+@rel": "sequel"
     },
     "info": [
+        {
+            "+@gid": "3715750581",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A6313-3715750581.1775528075.jpg",
+            "+@width": "142",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A6313-3715750581.1775528075.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A6313-3715750581.1775528075.jpg",
+                    "+@width": "427",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A6313-3715750581.1775528075.jpg",
+                    "+@width": "768",
+                    "+@height": "1080"
+                }
+            ]
+        },
         {
             "+@gid": "466946695",
             "+@type": "Picture",
@@ -125,8 +149,8 @@
     ],
     "ratings": {
         "+@nb_votes": "42",
-        "+@weighted_score": "7.0085",
-        "+@bayesian_score": "7.11815"
+        "+@weighted_score": "7.0082",
+        "+@bayesian_score": "7.11104"
     },
     "episode": [
         {
@@ -404,6 +428,22 @@
             }
         },
         {
+            "+@gid": "2903610480",
+            "task": "Music",
+            "person": {
+                "+content": "Jun'ichi Igarashi",
+                "+@id": "37699"
+            }
+        },
+        {
+            "+@gid": "1781426537",
+            "task": "Music",
+            "person": {
+                "+content": "Shuhei Naruse",
+                "+@id": "68068"
+            }
+        },
+        {
             "+@gid": "3114239585",
             "task": "Character Design",
             "person": {
@@ -434,9 +474,43 @@
                 "+content": "Katsutoshi Hirose",
                 "+@id": "488"
             }
+        },
+        {
+            "+@gid": "2760824003",
+            "task": "Producer",
+            "person": {
+                "+content": "Hidenori Miyazawa",
+                "+@id": "13999"
+            }
+        },
+        {
+            "+@gid": "2388831679",
+            "task": "Producer",
+            "person": {
+                "+content": "Yoshikazu Beniya",
+                "+@id": "85985"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "1834957220",
+            "+@lang": "JA",
+            "role": "Enzan Ijuuin",
+            "person": {
+                "+content": "Mitsuki Saiga",
+                "+@id": "411"
+            }
+        },
+        {
+            "+@gid": "3304574760",
+            "+@lang": "JA",
+            "role": "Meiru Sakurai",
+            "person": {
+                "+content": "Kaori Mizuhashi",
+                "+@id": "5179"
+            }
+        },
         {
             "+@gid": "2231454332",
             "+@lang": "JA",
@@ -456,12 +530,30 @@
             }
         },
         {
+            "+@gid": "2486712970",
+            "+@lang": "JA",
+            "role": "Blues",
+            "person": {
+                "+content": "Masaya Matsukaze",
+                "+@id": "8090"
+            }
+        },
+        {
             "+@gid": "1880120718",
             "+@lang": "JA",
             "role": "Trill",
             "person": {
                 "+content": "Noriko Shitaya",
                 "+@id": "9810"
+            }
+        },
+        {
+            "+@gid": "2870568116",
+            "+@lang": "JA",
+            "role": "Roll",
+            "person": {
+                "+content": "Masako Joh",
+                "+@id": "9813"
             }
         },
         {
@@ -726,6 +818,6 @@
         }
     ],
     "+@date-added": "2006-03-05T11:54:47Z",
-    "+@date-last-modified-at": "2025-12-23T02:25:16Z",
-    "+@date-last-updated-at": "2025-12-23T02:25:16Z"
+    "+@date-last-modified-at": "2026-04-17T17:08:05Z",
+    "+@date-last-updated-at": "2026-04-17T17:08:05Z"
 }
