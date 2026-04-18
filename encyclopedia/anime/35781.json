@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Easygoing Territory Defense by the Optimistic Lord",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-19T05:38:37Z",
+    "+@generated-on": "2026-04-18T09:05:49Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27413"
@@ -107,8 +107,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "3.8887"
+        "+@nb_votes": "53",
+        "+@weighted_score": "6.5312",
+        "+@bayesian_score": "6.7047"
     },
     "episode": [
         {
@@ -196,6 +197,14 @@
             "title": {
                 "+content": "The Ultimate Squad's Proud Counterattack",
                 "+@gid": "3874601143",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Easygoing Territory Defense by the Optimistic Lord",
+                "+@gid": "2571440098",
                 "+@lang": "EN"
             }
         }
@@ -374,6 +383,15 @@
             }
         },
         {
+            "+@gid": "3541729426",
+            "+@lang": "JA",
+            "role": "Row",
+            "person": {
+                "+content": "Seiichirō Yamashita",
+                "+@id": "121187"
+            }
+        },
+        {
             "+@gid": "3580606202",
             "+@lang": "JA",
             "role": "Ortho",
@@ -419,6 +437,15 @@
             }
         },
         {
+            "+@gid": "1791408331",
+            "+@lang": "JA",
+            "role": "Arb",
+            "person": {
+                "+content": "Shuntaro Takayama",
+                "+@id": "245823"
+            }
+        },
+        {
             "+@gid": "2635122944",
             "+@lang": "JA",
             "role": "Lada Priora",
@@ -437,6 +464,6 @@
         }
     },
     "+@date-added": "2025-04-20T17:30:11Z",
-    "+@date-last-modified-at": "2026-03-19T05:38:39Z",
-    "+@date-last-updated-at": "2026-03-19T05:38:39Z"
+    "+@date-last-modified-at": "2026-04-18T09:05:55Z",
+    "+@date-last-updated-at": "2026-04-18T09:05:55Z"
 }
