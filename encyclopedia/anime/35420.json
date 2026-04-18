@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Medalist",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-03-19T13:43:12Z",
+    "+@generated-on": "2026-04-18T16:59:04Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28262"
@@ -86,6 +86,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "9",
+            "+@gid": "3088921680",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-01-24",
             "+@gid": "1708193709",
             "+@type": "Vintage"
@@ -109,9 +114,84 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "8"
+        "+@nb_votes": "32",
+        "+@weighted_score": "8.0696",
+        "+@bayesian_score": "7.90635"
     },
+    "episode": [
+        {
+            "+@num": "14",
+            "title": {
+                "+content": "The Athlete's Pledge",
+                "+@gid": "592358718",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "15",
+            "title": {
+                "+content": "My Cards",
+                "+@gid": "1804908926",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "16",
+            "title": {
+                "+content": "The Queen's Leap",
+                "+@gid": "549408581",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "17",
+            "title": {
+                "+content": "Ascendance",
+                "+@gid": "400921632",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "18",
+            "title": {
+                "+content": "Beacon",
+                "+@gid": "828019407",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "19",
+            "title": {
+                "+content": "Intensive Training",
+                "+@gid": "1094147587",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "20",
+            "title": {
+                "+content": "The Frozen Lake",
+                "+@gid": "3308411704",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "21",
+            "title": {
+                "+content": "Hot Passion",
+                "+@gid": "3129734314",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "22",
+            "title": {
+                "+content": "Opening",
+                "+@gid": "1150609821",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "<cite>Medalist</cite> 2nd Season Anime Unveils January 2026 Debut in Teaser Video",
@@ -333,11 +413,27 @@
             }
         },
         {
+            "+@gid": "2903465270",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takayuki Noguchi",
+                "+@id": "44545"
+            }
+        },
+        {
             "+@gid": "1076519270",
             "task": "Animation Director",
             "person": {
                 "+content": "Tatsuo Nakajima",
                 "+@id": "47673"
+            }
+        },
+        {
+            "+@gid": "2188315275",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūko Hineno",
+                "+@id": "77848"
             }
         },
         {
@@ -683,6 +779,15 @@
             }
         },
         {
+            "+@gid": "1906903448",
+            "+@lang": "EN",
+            "role": "Kōhei Kamogawa",
+            "person": {
+                "+content": "Zachary Gordon",
+                "+@id": "74846"
+            }
+        },
+        {
             "+@gid": "2154242709",
             "+@lang": "EN",
             "role": "Mika Yuitsuka",
@@ -770,6 +875,24 @@
             "person": {
                 "+content": "Paul Castro Jr.",
                 "+@id": "204899"
+            }
+        },
+        {
+            "+@gid": "1176031946",
+            "+@lang": "EN",
+            "role": "Miku Ahiru",
+            "person": {
+                "+content": "Michaela Murphy",
+                "+@id": "215009"
+            }
+        },
+        {
+            "+@gid": "1188694493",
+            "+@lang": "EN",
+            "role": "Juna Shiratori",
+            "person": {
+                "+content": "John Choi",
+                "+@id": "229686"
             }
         },
         {
@@ -1169,6 +1292,6 @@
         }
     },
     "+@date-added": "2025-03-29T19:49:24Z",
-    "+@date-last-modified-at": "2026-03-19T13:43:16Z",
-    "+@date-last-updated-at": "2026-03-19T13:43:16Z"
+    "+@date-last-modified-at": "2026-04-18T16:59:07Z",
+    "+@date-last-updated-at": "2026-04-18T16:59:07Z"
 }

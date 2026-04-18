@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Blue Box",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-03-19T13:43:13Z",
+    "+@generated-on": "2026-04-18T16:59:05Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "30789"
@@ -13,17 +13,17 @@
         {
             "+@gid": "2095183185",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35384-2095183185.1766298001.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35384-2095183185.1774676829.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35384-2095183185.1766298001.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35384-2095183185.1774676829.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35384-2095183185.1766298001.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35384-2095183185.1774676829.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
@@ -53,8 +53,8 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026-10",
-            "+@gid": "2341098653",
+            "+content": "2026-10-04",
+            "+@gid": "1249255652",
             "+@type": "Vintage"
         },
         {
@@ -65,19 +65,183 @@
             "+@href": "https://aonohako-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Blue Box</cite> Anime's 2nd Season Debuts in Fall 2026",
-        "+@datetime": "2025-12-21T04:06:03Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-12-20/blue-box-anime-2nd-season-debuts-in-fall-2026/.232332"
-    },
-    "staff": {
-        "+@gid": "3073261045",
-        "task": "Original creator",
-        "person": {
-            "+content": "Kōji Miura",
-            "+@id": "212314"
+    "news": [
+        {
+            "+content": "<cite>Blue Box</cite> Anime's 2nd Season Debuts in Fall 2026",
+            "+@datetime": "2025-12-21T04:06:03Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-20/blue-box-anime-2nd-season-debuts-in-fall-2026/.232332"
+        },
+        {
+            "+content": "<cite>Blue Box</cite> Anime's Teaser Reveals New Cast, Staff, October 4 TV Premiere",
+            "+@datetime": "2026-03-28T01:45:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-27/blue-box-anime-teaser-reveals-new-cast-staff-october-4-tv-premiere/.235838"
+        }
+    ],
+    "staff": [
+        {
+            "+@gid": "1402985825",
+            "task": "Director",
+            "person": {
+                "+content": "Daisuke Sakō",
+                "+@id": "105956"
+            }
+        },
+        {
+            "+@gid": "1544479724",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Yūko Kakihara",
+                "+@id": "260892"
+            }
+        },
+        {
+            "+@gid": "1732394247",
+            "task": "Script",
+            "person": {
+                "+content": "Yūko Kakihara",
+                "+@id": "260892"
+            }
+        },
+        {
+            "+@gid": "2026206314",
+            "task": "Music",
+            "person": {
+                "+content": "Takashi Ōmama",
+                "+@id": "272023"
+            }
+        },
+        {
+            "+@gid": "3073261045",
+            "task": "Original creator",
+            "person": {
+                "+content": "Kōji Miura",
+                "+@id": "212314"
+            }
+        },
+        {
+            "+@gid": "1426545955",
+            "task": "Character Design",
+            "person": {
+                "+content": "Miho Tanino",
+                "+@id": "191369"
+            }
+        },
+        {
+            "+@gid": "3587498206",
+            "task": "Art Director",
+            "person": {
+                "+content": "Anri Ishida",
+                "+@id": "98272"
+            }
+        },
+        {
+            "+@gid": "1889598950",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Miho Tanino",
+                "+@id": "191369"
+            }
+        },
+        {
+            "+@gid": "2019798411",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Jin Aketagawa",
+                "+@id": "8466"
+            }
+        },
+        {
+            "+@gid": "2740099518",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yūki Kawashita",
+                "+@id": "89162"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1813772864",
+            "+@lang": "JA",
+            "role": "Kazuma Matsuoka",
+            "person": {
+                "+content": "Yūki Kaji",
+                "+@id": "58051"
+            }
+        },
+        {
+            "+@gid": "1878328603",
+            "+@lang": "JA",
+            "role": "Taiki Inomata",
+            "person": {
+                "+content": "Shōya Chiba",
+                "+@id": "97379"
+            }
+        },
+        {
+            "+@gid": "2405910668",
+            "+@lang": "JA",
+            "role": "Chinatsu Kano",
+            "person": {
+                "+content": "Reina Ueda",
+                "+@id": "116390"
+            }
+        },
+        {
+            "+@gid": "1677462485",
+            "+@lang": "JA",
+            "role": "Yumeka Kido",
+            "person": {
+                "+content": "Yoshino Aoyama",
+                "+@id": "123095"
+            }
+        },
+        {
+            "+@gid": "2053985454",
+            "+@lang": "JA",
+            "role": "Kengo Haryū",
+            "person": {
+                "+content": "Yūma Uchida",
+                "+@id": "124918"
+            }
+        },
+        {
+            "+@gid": "1941197478",
+            "+@lang": "JA",
+            "role": "Hina Chōno",
+            "person": {
+                "+content": "Akari Kitō",
+                "+@id": "130728"
+            }
+        },
+        {
+            "+@gid": "3684751058",
+            "+@lang": "JA",
+            "role": "Ayame Moriya",
+            "person": {
+                "+content": "Kana Ichinose",
+                "+@id": "164051"
+            }
+        },
+        {
+            "+@gid": "981027408",
+            "+@lang": "JA",
+            "role": "Kyō Kasahara",
+            "person": {
+                "+content": "Chiaki Kobayashi",
+                "+@id": "176057"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "1097511067",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Electric Circus",
+            "+@id": "27419"
         }
     },
     "+@date-added": "2025-03-27T20:11:41Z",
-    "+@date-last-updated-at": "2026-03-19T13:43:16Z"
+    "+@date-last-modified-at": "2026-04-18T16:59:07Z",
+    "+@date-last-updated-at": "2026-04-18T16:59:07Z"
 }
