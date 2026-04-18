@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Bugle Call: Song of War",
     "+@precision": "manga",
-    "+@generated-on": "2026-03-19T09:02:53Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "11709"
-    },
+    "+@generated-on": "2026-04-18T13:36:24Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "11709"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "20561"
+        }
+    ],
     "info": [
         {
             "+@gid": "2782159039",
@@ -64,11 +70,20 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2022-06-03 (serialized in Jump Square, Jul 2022)",
+            "+content": "2022-06-03 to 2026-04-03 (Jump Square, Jul 2022 - May 2026)",
             "+@gid": "1799013582",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2026-07-29 (serialized in Jump Square Rise, Summer 2026)",
+            "+@gid": "1365702755",
             "+@type": "Vintage"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "6"
+    },
     "release": [
         {
             "+content": "The Bugle Call: Song of War (GN 1)",
@@ -94,6 +109,11 @@
             "+content": "The Bugle Call: Song of War (GN 5)",
             "+@date": "2026-02-03",
             "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=56708"
+        },
+        {
+            "+content": "The Bugle Call: Song of War (GN 6)",
+            "+@date": "2026-04-07",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57743"
         }
     ],
     "news": [
@@ -131,6 +151,16 @@
             "+content": "North American Anime, Manga Releases, February 1-7",
             "+@datetime": "2026-02-04T22:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-02-04/north-american-anime-manga-releases-february-1-7/.233755"
+        },
+        {
+            "+content": "<cite>The Bugle Call: Song of War</cite> Manga Moves to <cite>Jump SQ. Rise</cite>",
+            "+@datetime": "2026-04-06T15:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-06/the-bugle-call-song-of-war-manga-moves-to-jump-sq-rise/.236119"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, April 5-11",
+            "+@datetime": "2026-04-08T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-08/north-american-anime-manga-releases-april-5-11/.236167"
         }
     ],
     "staff": [
@@ -152,5 +182,6 @@
         }
     ],
     "+@date-added": "2023-04-03T19:46:49Z",
-    "+@date-last-updated-at": "2026-03-19T09:02:54Z"
+    "+@date-last-modified-at": "2026-04-18T13:36:26Z",
+    "+@date-last-updated-at": "2026-04-18T13:36:26Z"
 }
