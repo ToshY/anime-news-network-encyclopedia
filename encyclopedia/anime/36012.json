@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "An Adventurer's Daily Grind at Age 29",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-19T05:38:36Z",
+    "+@generated-on": "2026-04-18T05:51:01Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "31214"
@@ -74,6 +74,16 @@
             "+@type": "Genres"
         },
         {
+            "+content": "romance",
+            "+@gid": "886456839",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "slice of life",
+            "+@gid": "1466813224",
+            "+@type": "Genres"
+        },
+        {
             "+content": "gore",
             "+@gid": "1964167788",
             "+@type": "Themes"
@@ -99,6 +109,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "2162919141",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-01-07",
             "+@gid": "748508706",
             "+@type": "Vintage"
@@ -122,8 +137,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "6",
-        "+@weighted_score": "4.0128"
+        "+@nb_votes": "33",
+        "+@weighted_score": "6.0526",
+        "+@bayesian_score": "6.43084"
     },
     "news": [
         {
@@ -257,6 +273,15 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "3350913932",
+            "+@lang": "EN",
+            "role": "Veronica",
+            "person": {
+                "+content": "Morgan Lauré",
+                "+@id": "157958"
+            }
+        },
         {
             "+@gid": "1157424269",
             "+@lang": "EN",
@@ -393,6 +418,6 @@
         }
     },
     "+@date-added": "2025-05-05T05:35:09Z",
-    "+@date-last-modified-at": "2026-03-19T05:38:39Z",
-    "+@date-last-updated-at": "2026-03-19T05:38:39Z"
+    "+@date-last-modified-at": "2026-04-18T05:51:03Z",
+    "+@date-last-updated-at": "2026-04-18T05:51:03Z"
 }

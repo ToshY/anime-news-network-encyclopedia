@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Hell Teacher: Jigoku Sensei Nube",
     "+@precision": "TV 2026",
-    "+@generated-on": "2026-03-19T05:08:20Z",
+    "+@generated-on": "2026-04-18T05:51:02Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32957"
@@ -63,8 +63,13 @@
             "+@type": "Running time"
         },
         {
-            "+content": "2026-01-07",
-            "+@gid": "2811667551",
+            "+content": "13",
+            "+@gid": "1853625424",
+            "+@type": "Number of episodes"
+        },
+        {
+            "+content": "2026-01-07 to 2026-03-25",
+            "+@gid": "1541283508",
             "+@type": "Vintage"
         },
         {
@@ -93,8 +98,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "3"
+        "+@nb_votes": "8",
+        "+@weighted_score": "6.4799"
     },
     "episode": [
         {
@@ -184,6 +189,22 @@
                 "+@gid": "2846336255",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "25",
+            "title": {
+                "+content": "Secret of the Demon Hand (Part 1)",
+                "+@gid": "3018173782",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "26",
+            "title": {
+                "+content": "Secret of the Demon Hand (Part 2)",
+                "+@gid": "3339562194",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -216,6 +237,11 @@
             "+content": "<cite>Hell Teacher: Jigoku Sensei Nube</cite> Anime Casts Chiwa Saitō",
             "+@datetime": "2026-03-13T03:54:31Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-03-12/hell-teacher-jigoku-sensei-nube-anime-casts-chiwa-saito/.235242"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, March 23-29",
+            "+@datetime": "2026-04-06T13:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-06/japanese-animation-tv-ranking-march-23-29/.236112"
         }
     ],
     "staff": [
@@ -233,6 +259,214 @@
             "person": {
                 "+content": "Yoshiki Ōkusa",
                 "+@id": "163933"
+            }
+        },
+        {
+            "+@gid": "1722900321",
+            "task": "Script",
+            "person": {
+                "+content": "Hiroko Fukuda",
+                "+@id": "113625"
+            }
+        },
+        {
+            "+@gid": "2158740047",
+            "task": "Script",
+            "person": {
+                "+content": "Seiki Takuno",
+                "+@id": "151591"
+            }
+        },
+        {
+            "+@gid": "1378977414",
+            "task": "Script",
+            "person": {
+                "+content": "Yoshiki Ōkusa",
+                "+@id": "163933"
+            }
+        },
+        {
+            "+@gid": "768843590",
+            "task": "Script",
+            "person": {
+                "+content": "Kenzen",
+                "+@id": "174682"
+            }
+        },
+        {
+            "+@gid": "2969013738",
+            "task": "Script",
+            "person": {
+                "+content": "Rinrin",
+                "+@id": "192986"
+            }
+        },
+        {
+            "+@gid": "424796112",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Toshihiko Masuda",
+                "+@id": "6641"
+            }
+        },
+        {
+            "+@gid": "2237970919",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tetsuya Watanabe",
+                "+@id": "7588"
+            }
+        },
+        {
+            "+@gid": "3803868435",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hayato Date",
+                "+@id": "8093"
+            }
+        },
+        {
+            "+@gid": "1200365890",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tetsuaki Matsuda",
+                "+@id": "41889"
+            }
+        },
+        {
+            "+@gid": "3453167181",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yū Yoshiyama",
+                "+@id": "115495"
+            }
+        },
+        {
+            "+@gid": "2725336486",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Aimi Yamauchi",
+                "+@id": "136962"
+            }
+        },
+        {
+            "+@gid": "2929447593",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Masaki Ōzora",
+                "+@id": "148562"
+            }
+        },
+        {
+            "+@gid": "2942157695",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Seiki Takuno",
+                "+@id": "151591"
+            }
+        },
+        {
+            "+@gid": "1113032910",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Teru Ishii",
+                "+@id": "185336"
+            }
+        },
+        {
+            "+@gid": "3662084240",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Miichiro Kamenosono",
+                "+@id": "274411"
+            }
+        },
+        {
+            "+@gid": "1878392554",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Mitsuo Hashimoto",
+                "+@id": "9804"
+            }
+        },
+        {
+            "+@gid": "3149142068",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kiyoshi Murayama",
+                "+@id": "9819"
+            }
+        },
+        {
+            "+@gid": "2558145193",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Masayuki Iimura",
+                "+@id": "35486"
+            }
+        },
+        {
+            "+@gid": "3362719628",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tetsuaki Matsuda",
+                "+@id": "41889"
+            }
+        },
+        {
+            "+@gid": "2508642568",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Seiki Takuno",
+                "+@id": "151591"
+            }
+        },
+        {
+            "+@gid": "1856559658",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Teru Ishii",
+                "+@id": "185336"
+            }
+        },
+        {
+            "+@gid": "1328942397",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shinichi Fukumoto",
+                "+@id": "219254"
+            }
+        },
+        {
+            "+@gid": "2103953227",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Fumito Yamada",
+                "+@id": "231625"
+            }
+        },
+        {
+            "+@gid": "853776515",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Fumiaki Usui",
+                "+@id": "80094"
+            }
+        },
+        {
+            "+@gid": "2120098356",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Yū Yoshiyama",
+                "+@id": "115495"
+            }
+        },
+        {
+            "+@gid": "1889360234",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Miichiro Kamenosono",
+                "+@id": "274411"
             }
         },
         {
@@ -273,6 +507,614 @@
             "person": {
                 "+content": "Minami Kasuga",
                 "+@id": "90776"
+            }
+        },
+        {
+            "+@gid": "822676412",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Keiko Sasaki",
+                "+@id": "1861"
+            }
+        },
+        {
+            "+@gid": "3431255219",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Atsuko Takahashi",
+                "+@id": "2128"
+            }
+        },
+        {
+            "+@gid": "1307552285",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Takahiro Kagami",
+                "+@id": "12527"
+            }
+        },
+        {
+            "+@gid": "1575063057",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kumiko Horikoshi",
+                "+@id": "41927"
+            }
+        },
+        {
+            "+@gid": "3300204754",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kenji Matsuoka",
+                "+@id": "45671"
+            }
+        },
+        {
+            "+@gid": "2388931141",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Sakurako Sagano",
+                "+@id": "91662"
+            }
+        },
+        {
+            "+@gid": "2000711377",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yū Yoshiyama",
+                "+@id": "115495"
+            }
+        },
+        {
+            "+@gid": "1738380604",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Miho Mizobuchi",
+                "+@id": "204197"
+            }
+        },
+        {
+            "+@gid": "2903266629",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Mi Hee Heo",
+                "+@id": "295718"
+            }
+        },
+        {
+            "+@gid": "620329659",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yoshiaki Tsubata",
+                "+@id": "1296"
+            }
+        },
+        {
+            "+@gid": "2686463339",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Keiko Sasaki",
+                "+@id": "1861"
+            }
+        },
+        {
+            "+@gid": "1519242716",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Atsuko Takahashi",
+                "+@id": "2128"
+            }
+        },
+        {
+            "+@gid": "2845358752",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Naoko Ozawa",
+                "+@id": "11545"
+            }
+        },
+        {
+            "+@gid": "2316346826",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masumi Hattori",
+                "+@id": "11824"
+            }
+        },
+        {
+            "+@gid": "1748843624",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takahiro Kagami",
+                "+@id": "12527"
+            }
+        },
+        {
+            "+@gid": "3137966126",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mariko Aoki",
+                "+@id": "18289"
+            }
+        },
+        {
+            "+@gid": "1899390552",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Natsuki Egami",
+                "+@id": "23881"
+            }
+        },
+        {
+            "+@gid": "2619764024",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ryō Koyama",
+                "+@id": "26099"
+            }
+        },
+        {
+            "+@gid": "2885083970",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kenji Hattori",
+                "+@id": "27387"
+            }
+        },
+        {
+            "+@gid": "1098982664",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kōichi Nakaya",
+                "+@id": "33906"
+            }
+        },
+        {
+            "+@gid": "1891060213",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Fumiko Kon",
+                "+@id": "36536"
+            }
+        },
+        {
+            "+@gid": "2191925314",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Miyako Nishida",
+                "+@id": "36566"
+            }
+        },
+        {
+            "+@gid": "781287471",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kenji Kajiwara",
+                "+@id": "36792"
+            }
+        },
+        {
+            "+@gid": "277351827",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hideyuki Yoshida",
+                "+@id": "37063"
+            }
+        },
+        {
+            "+@gid": "1193960601",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kumiko Horikoshi",
+                "+@id": "41927"
+            }
+        },
+        {
+            "+@gid": "3124389374",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shinya Kameyama",
+                "+@id": "44248"
+            }
+        },
+        {
+            "+@gid": "2128237270",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masato Nishikawa",
+                "+@id": "44511"
+            }
+        },
+        {
+            "+@gid": "2228670656",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazuya Saitō",
+                "+@id": "45203"
+            }
+        },
+        {
+            "+@gid": "2722149822",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kenji Matsuoka",
+                "+@id": "45671"
+            }
+        },
+        {
+            "+@gid": "3794605721",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tsuyoshi Yoshinaga",
+                "+@id": "49018"
+            }
+        },
+        {
+            "+@gid": "2837301928",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yoshinori Deno",
+                "+@id": "50681"
+            }
+        },
+        {
+            "+@gid": "3434524337",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Se Jong Lee",
+                "+@id": "57119"
+            }
+        },
+        {
+            "+@gid": "785712406",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mika Hironaka",
+                "+@id": "71627"
+            }
+        },
+        {
+            "+@gid": "2817563910",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takumi Nishiwaki",
+                "+@id": "75826"
+            }
+        },
+        {
+            "+@gid": "2808214419",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiroshi Tatezaki",
+                "+@id": "77849"
+            }
+        },
+        {
+            "+@gid": "508884273",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiromi Nanbe",
+                "+@id": "80631"
+            }
+        },
+        {
+            "+@gid": "2817445790",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūko Ishizaki",
+                "+@id": "83100"
+            }
+        },
+        {
+            "+@gid": "1498912200",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sakurako Sagano",
+                "+@id": "91662"
+            }
+        },
+        {
+            "+@gid": "2757974762",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Li Sun",
+                "+@id": "95093"
+            }
+        },
+        {
+            "+@gid": "1018531189",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shiho Hayashi",
+                "+@id": "95418"
+            }
+        },
+        {
+            "+@gid": "3993962542",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Miki Urashima",
+                "+@id": "101615"
+            }
+        },
+        {
+            "+@gid": "1863261125",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuri Kotake",
+                "+@id": "107011"
+            }
+        },
+        {
+            "+@gid": "3406775304",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiromi Kurosawa",
+                "+@id": "108153"
+            }
+        },
+        {
+            "+@gid": "2280231165",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yū Yoshiyama",
+                "+@id": "115495"
+            }
+        },
+        {
+            "+@gid": "3278976667",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nozomi Shimazaki",
+                "+@id": "115564"
+            }
+        },
+        {
+            "+@gid": "1944938951",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jeong Soon Kim",
+                "+@id": "121377"
+            }
+        },
+        {
+            "+@gid": "2546196600",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Eiji Kamiyama",
+                "+@id": "121747"
+            }
+        },
+        {
+            "+@gid": "2273220208",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shota Tsukiyama",
+                "+@id": "124819"
+            }
+        },
+        {
+            "+@gid": "1295059163",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūichirō Iida",
+                "+@id": "127436"
+            }
+        },
+        {
+            "+@gid": "317611640",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Saki Ishimoto",
+                "+@id": "153456"
+            }
+        },
+        {
+            "+@gid": "3097599609",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nana Higashida",
+                "+@id": "154472"
+            }
+        },
+        {
+            "+@gid": "2676148082",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mie Sugihara",
+                "+@id": "158078"
+            }
+        },
+        {
+            "+@gid": "800385637",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yui Nishiyama",
+                "+@id": "169833"
+            }
+        },
+        {
+            "+@gid": "2207662809",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yong Sang Kwon",
+                "+@id": "180231"
+            }
+        },
+        {
+            "+@gid": "3647559941",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yurie Gotō",
+                "+@id": "186084"
+            }
+        },
+        {
+            "+@gid": "3032345585",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Meng Wang",
+                "+@id": "190803"
+            }
+        },
+        {
+            "+@gid": "977861873",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shigeno Ōno",
+                "+@id": "195711"
+            }
+        },
+        {
+            "+@gid": "2514194202",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ting Ting Li",
+                "+@id": "202640"
+            }
+        },
+        {
+            "+@gid": "3395115856",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wen Jing Li",
+                "+@id": "204191"
+            }
+        },
+        {
+            "+@gid": "1726226195",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ryōgo Takahashi",
+                "+@id": "204198"
+            }
+        },
+        {
+            "+@gid": "1589176843",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Susumu Mamura",
+                "+@id": "209093"
+            }
+        },
+        {
+            "+@gid": "1937791901",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takahiro Ono",
+                "+@id": "223126"
+            }
+        },
+        {
+            "+@gid": "2562771829",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tsutomu Ōno",
+                "+@id": "225238"
+            }
+        },
+        {
+            "+@gid": "3428887936",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Xin Liang",
+                "+@id": "233805"
+            }
+        },
+        {
+            "+@gid": "1816749576",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Araiguma",
+                "+@id": "234253"
+            }
+        },
+        {
+            "+@gid": "2965955730",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yang Li",
+                "+@id": "245548"
+            }
+        },
+        {
+            "+@gid": "568406661",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuan Yao",
+                "+@id": "245784"
+            }
+        },
+        {
+            "+@gid": "2575018883",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Naoki Kawamura",
+                "+@id": "246088"
+            }
+        },
+        {
+            "+@gid": "4208580471",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kotetsu Sotosaki",
+                "+@id": "248258"
+            }
+        },
+        {
+            "+@gid": "996050427",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jing Wen",
+                "+@id": "257268"
+            }
+        },
+        {
+            "+@gid": "2387097841",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zhi Lan Cui",
+                "+@id": "258124"
+            }
+        },
+        {
+            "+@gid": "2267855128",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sango",
+                "+@id": "265274"
+            }
+        },
+        {
+            "+@gid": "2896742505",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zhen Jia Ning",
+                "+@id": "280894"
+            }
+        },
+        {
+            "+@gid": "3505650053",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Lei Li",
+                "+@id": "290173"
+            }
+        },
+        {
+            "+@gid": "2874456418",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yu Man Feng",
+                "+@id": "291445"
+            }
+        },
+        {
+            "+@gid": "2846445124",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yong De Lan",
+                "+@id": "295719"
             }
         },
         {
@@ -482,6 +1324,6 @@
         }
     ],
     "+@date-added": "2025-04-30T19:28:13Z",
-    "+@date-last-modified-at": "2026-03-19T05:38:39Z",
-    "+@date-last-updated-at": "2026-03-19T05:38:39Z"
+    "+@date-last-modified-at": "2026-04-18T05:51:03Z",
+    "+@date-last-updated-at": "2026-04-18T05:51:03Z"
 }

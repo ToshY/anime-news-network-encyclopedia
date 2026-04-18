@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Roll Over and Die",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-19T05:38:37Z",
+    "+@generated-on": "2026-04-18T05:51:02Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "23038"
@@ -137,8 +137,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "7",
-        "+@weighted_score": "5.2887"
+        "+@nb_votes": "43",
+        "+@weighted_score": "5.9958",
+        "+@bayesian_score": "6.31766"
     },
     "episode": [
         {
@@ -220,6 +221,22 @@
                 "+@gid": "2311050659",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "Dein and Flum",
+                "+@gid": "2241941396",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "The End and the Beginning",
+                "+@gid": "1563231382",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -267,6 +284,11 @@
             "+content": "Crunchyroll Announces <cite>Jujutsu Kaisen</cite> Season 3, <cite>'Anyway, I'm Falling in Love with You'</cite> Season 2, <cite>Roll Over and Die</cite> English Dub Cast",
             "+@datetime": "2026-01-22T08:36:08Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-01-22/crunchyroll-announces-jujutsu-kaisen-season-3-anyway-im-falling-in-love-with-you-season-2-roll-over-/.233327"
+        },
+        {
+            "+content": "<cite>Roll Over and Die</cite> Anime Casts Tetsu Inada",
+            "+@datetime": "2026-03-24T12:15:40Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-24/roll-over-and-die-anime-casts-tetsu-inada/.235682"
         }
     ],
     "staff": [
@@ -284,6 +306,62 @@
             "person": {
                 "+content": "Mariko Kunisawa",
                 "+@id": "74555"
+            }
+        },
+        {
+            "+@gid": "2178070011",
+            "task": "Script",
+            "person": {
+                "+content": "Mariko Kunisawa",
+                "+@id": "74555"
+            }
+        },
+        {
+            "+@gid": "3894177549",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hidefumi Kimura",
+                "+@id": "360"
+            }
+        },
+        {
+            "+@gid": "3960736632",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tsuneo Tominaga",
+                "+@id": "8838"
+            }
+        },
+        {
+            "+@gid": "1172877528",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Nobuharu Kamanaka",
+                "+@id": "51361"
+            }
+        },
+        {
+            "+@gid": "2441422942",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tsuneo Tominaga",
+                "+@id": "8838"
+            }
+        },
+        {
+            "+@gid": "2196139304",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Nobuharu Kamanaka",
+                "+@id": "51361"
+            }
+        },
+        {
+            "+@gid": "861952707",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Nobuharu Kamanaka",
+                "+@id": "51361"
             }
         },
         {
@@ -367,6 +445,102 @@
             }
         },
         {
+            "+@gid": "2854687267",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Fumio Matsumoto",
+                "+@id": "8226"
+            }
+        },
+        {
+            "+@gid": "3416045096",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Takaaki Fukuyo",
+                "+@id": "18356"
+            }
+        },
+        {
+            "+@gid": "3544644572",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Takafumi Furusawa",
+                "+@id": "79106"
+            }
+        },
+        {
+            "+@gid": "1654923322",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Fumio Matsumoto",
+                "+@id": "8226"
+            }
+        },
+        {
+            "+@gid": "3669662455",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takaaki Fukuyo",
+                "+@id": "18356"
+            }
+        },
+        {
+            "+@gid": "1626847881",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Se Jong Lee",
+                "+@id": "57119"
+            }
+        },
+        {
+            "+@gid": "1650628584",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Megumi Imai",
+                "+@id": "72525"
+            }
+        },
+        {
+            "+@gid": "380509488",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takafumi Furusawa",
+                "+@id": "79106"
+            }
+        },
+        {
+            "+@gid": "1071390850",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazuhiro Saitō",
+                "+@id": "79108"
+            }
+        },
+        {
+            "+@gid": "3192893937",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kumi Hashimoto",
+                "+@id": "79109"
+            }
+        },
+        {
+            "+@gid": "2252858438",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jeong Soon Kim",
+                "+@id": "80981"
+            }
+        },
+        {
+            "+@gid": "3702679320",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Na La Shin",
+                "+@id": "196184"
+            }
+        },
+        {
             "+@gid": "2014549958",
             "task": "Sound Director",
             "person": {
@@ -380,6 +554,78 @@
             "person": {
                 "+content": "Daisuke Horino",
                 "+@id": "41937"
+            }
+        },
+        {
+            "+@gid": "1391940596",
+            "task": "Producer",
+            "person": {
+                "+content": "Hitoshi Sugiura",
+                "+@id": "106707"
+            }
+        },
+        {
+            "+@gid": "2294277063",
+            "task": "Producer",
+            "person": {
+                "+content": "Kimihito Sekido",
+                "+@id": "117354"
+            }
+        },
+        {
+            "+@gid": "1755885773",
+            "task": "Producer",
+            "person": {
+                "+content": "Yuichi Tada",
+                "+@id": "132774"
+            }
+        },
+        {
+            "+@gid": "2087100362",
+            "task": "Producer",
+            "person": {
+                "+content": "Sojiro Arimizu",
+                "+@id": "175114"
+            }
+        },
+        {
+            "+@gid": "2578344748",
+            "task": "Producer",
+            "person": {
+                "+content": "Takayuki Yoneyama",
+                "+@id": "183391"
+            }
+        },
+        {
+            "+@gid": "1859742479",
+            "task": "Producer",
+            "person": {
+                "+content": "Cong Cao",
+                "+@id": "204179"
+            }
+        },
+        {
+            "+@gid": "1993250769",
+            "task": "Producer",
+            "person": {
+                "+content": "Yūki Konishi",
+                "+@id": "217652"
+            }
+        },
+        {
+            "+@gid": "1342672555",
+            "task": "Producer",
+            "person": {
+                "+content": "Takahiro Sasahara",
+                "+@id": "230448"
+            }
+        },
+        {
+            "+@gid": "1759773073",
+            "task": "Producer",
+            "person": {
+                "+content": "Hiroyasu Katō",
+                "+@id": "294926"
             }
         }
     ],
@@ -673,15 +919,6 @@
             }
         },
         {
-            "+@gid": "2322864221",
-            "+@lang": "JA",
-            "role": "Ink Wreathcraft",
-            "person": {
-                "+content": "Ayami Fujino",
-                "+@id": "177661"
-            }
-        },
-        {
             "+@gid": "2628274676",
             "+@lang": "JA",
             "role": "Linus Radiants",
@@ -899,6 +1136,6 @@
         }
     ],
     "+@date-added": "2025-04-28T04:22:30Z",
-    "+@date-last-modified-at": "2026-03-19T05:38:39Z",
-    "+@date-last-updated-at": "2026-03-19T05:38:39Z"
+    "+@date-last-modified-at": "2026-04-18T05:51:03Z",
+    "+@date-last-updated-at": "2026-04-18T05:51:03Z"
 }

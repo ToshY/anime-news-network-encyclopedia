@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Tamala 2030: A Punk Cat in Dark",
     "+@precision": "movie",
-    "+@generated-on": "2026-03-19T05:38:34Z",
+    "+@generated-on": "2026-04-18T05:50:59Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "2637"
@@ -13,24 +13,24 @@
         {
             "+@gid": "1805415797",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36431-1805415797.1749191243.jpg",
-            "+@width": "200",
-            "+@height": "113",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36431-1805415797.1776390957.jpg",
+            "+@width": "141",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36431-1805415797.1749191243.jpg",
-                    "+@width": "200",
-                    "+@height": "113"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36431-1805415797.1776390957.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36431-1805415797.1749191243.jpg",
-                    "+@width": "500",
-                    "+@height": "281"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36431-1805415797.1776390957.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A36431-1805415797.1749191243.jpg",
-                    "+@width": "3000",
-                    "+@height": "1688"
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A36431-1805415797.1776390957.jpg",
+                    "+@width": "520",
+                    "+@height": "735"
                 }
             ]
         },
@@ -41,9 +41,13 @@
             "+@lang": "EN"
         },
         {
-            "+content": "2025-07 (screened at Fantasia International Film Festival)",
-            "+@gid": "1434694048",
+            "+content": "2025-07-20",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-07-20 (screened at Fantasia International Film Festival)",
+            "+@gid": "1700500146",
+            "+@type": "Premiere date"
         }
     ],
     "ratings": {
@@ -67,14 +71,49 @@
             "+@href": "https://www.animenewsnetwork.com:/news/2025-08-14/spain-sitges-intl-film-fest-to-screen-chao-angel-egg-more-films/.227632"
         }
     ],
-    "staff": {
-        "+@gid": "2487582641",
-        "task": "Director",
-        "person": {
-            "+content": "t.o.L",
-            "+@id": "40696"
+    "staff": [
+        {
+            "+@gid": "2487582641",
+            "task": "Director",
+            "person": {
+                "+content": "t.o.L",
+                "+@id": "40696"
+            }
+        },
+        {
+            "+@gid": "1040352244",
+            "task": "Music",
+            "person": {
+                "+content": "t.o.L",
+                "+@id": "40696"
+            }
+        },
+        {
+            "+@gid": "724470137",
+            "task": "Producer",
+            "person": {
+                "+content": "Shinya Kishiro",
+                "+@id": "296106"
+            }
+        },
+        {
+            "+@gid": "2384236217",
+            "task": "Producer",
+            "person": {
+                "+content": "Masashi Mutō",
+                "+@id": "296109"
+            }
+        },
+        {
+            "+@gid": "2216890416",
+            "task": "Producer",
+            "person": {
+                "+content": "Sayaka",
+                "+@id": "296112"
+            }
         }
-    },
+    ],
     "+@date-added": "2025-06-06T02:15:04Z",
-    "+@date-last-updated-at": "2026-03-19T05:38:38Z"
+    "+@date-last-modified-at": "2026-04-18T05:51:03Z",
+    "+@date-last-updated-at": "2026-04-18T05:51:03Z"
 }
