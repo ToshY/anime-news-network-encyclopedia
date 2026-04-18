@@ -1,10 +1,10 @@
 {
     "+@id": "37091",
     "+@gid": "1307043921",
-    "+@type": "TV",
+    "+@type": "ONA",
     "+@name": "Cyborg 009: Nemesis",
-    "+@precision": "TV",
-    "+@generated-on": "2026-03-19T03:22:06Z",
+    "+@precision": "ONA",
+    "+@generated-on": "2026-04-18T03:31:04Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "2598"
@@ -13,24 +13,19 @@
         {
             "+@gid": "3299104093",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37091-3299104093.1752897298.jpg",
-            "+@width": "200",
-            "+@height": "133",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37091-3299104093.1773898290.jpg",
+            "+@width": "141",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37091-3299104093.1752897298.jpg",
-                    "+@width": "200",
-                    "+@height": "133"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37091-3299104093.1773898290.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37091-3299104093.1752897298.jpg",
-                    "+@width": "500",
-                    "+@height": "332"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37091-3299104093.1752897298.jpg",
-                    "+@width": "600",
-                    "+@height": "398"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37091-3299104093.1773898290.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
                 }
             ]
         },
@@ -119,15 +114,44 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "2491712887",
-        "+@lang": "JA",
-        "role": "Graviton",
-        "person": {
-            "+content": "Yūichi Nakamura",
-            "+@id": "15878"
+    "cast": [
+        {
+            "+@gid": "2480854306",
+            "+@lang": "JA",
+            "role": "Nemesis 009 / Graviton",
+            "person": {
+                "+content": "Yūichi Nakamura",
+                "+@id": "15878"
+            }
+        },
+        {
+            "+@gid": "2154880972",
+            "+@lang": "JA",
+            "role": "Nemesis 006 / Blitz",
+            "person": {
+                "+content": "Shion Wakayama",
+                "+@id": "61670"
+            }
+        },
+        {
+            "+@gid": "1846395990",
+            "+@lang": "JA",
+            "role": "Nemesis 007/ Morphine",
+            "person": {
+                "+content": "Maaya Uchida",
+                "+@id": "94314"
+            }
+        },
+        {
+            "+@gid": "3259126209",
+            "+@lang": "JA",
+            "role": "Nemesis 008 / Depths",
+            "person": {
+                "+content": "Ayane Sakura",
+                "+@id": "94383"
+            }
         }
-    },
+    ],
     "credit": [
         {
             "+@gid": "2658646739",
@@ -147,6 +171,6 @@
         }
     ],
     "+@date-added": "2025-07-18T23:53:47Z",
-    "+@date-last-modified-at": "2026-03-19T03:22:09Z",
-    "+@date-last-updated-at": "2026-03-19T03:22:09Z"
+    "+@date-last-modified-at": "2026-04-18T03:31:06Z",
+    "+@date-last-updated-at": "2026-04-18T03:31:06Z"
 }

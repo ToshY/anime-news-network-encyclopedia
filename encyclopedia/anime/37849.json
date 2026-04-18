@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Reborn as a Vending Machine, I Now Wander the Dungeon",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-03-19T03:22:04Z",
+    "+@generated-on": "2026-04-18T03:31:03Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "29983"
@@ -78,6 +78,11 @@
             "+@type": "Objectionable content"
         },
         {
+            "+content": "The future of this fantasy world now lies in the hands of a vending machine. Boxxo was once a human, until he died in an accident and was reincarnated as a sentient piece of machinery. While he can still hear and see, there’s no way for him to move by himself or speak more than his programmed phrases.",
+            "+@gid": "3423121826",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "23",
             "+@gid": "2547899327",
             "+@type": "Running time"
@@ -105,6 +110,44 @@
             "+@href": "https://jihanki-anime.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "3"
+    },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "Each to Their Own Story",
+                "+@gid": "1086477783",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "The Clam and the Vending Machine",
+                "+@gid": "407159869",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "A Stay in Enemy Territory",
+                "+@gid": "3208198774",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "Kunan wa Tsuzuku yo Doko made mo",
+                "+@gid": "3912910475",
+                "+@lang": "JA"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "<cite>Reborn as a Vending Machine</cite> Season 3 Debuts in April With Final Arc Teased",
@@ -115,6 +158,21 @@
             "+content": "<i>Reborn as a Vending Machine</i> Season 3's New Video Reveals Song Artists, April 1 Debut",
             "+@datetime": "2026-03-11T10:06:09Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-03-11/reborn-as-a-vending-machine-season-3-new-video-reveals-song-artists-april-1-debut/.235174"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Spring 2026 Season",
+            "+@datetime": "2026-03-24T18:28:06Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-24/crunchyroll-announces-release-schedule-for-spring-2026-season/.235686"
+        },
+        {
+            "+content": "Crunchyroll Simulcasts <cite>Agents of the Four Seasons</cite>, <cite>The Food Diary of Miss Maid</cite>, More Anime in India",
+            "+@datetime": "2026-03-29T09:47:58Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-29/crunchyroll-simulcasts-agents-of-the-four-seasons-the-food-diary-of-miss-maid-more-anime-in-india/.235819"
+        },
+        {
+            "+content": "<i>Reborn as a Vending Machine</i> Season 3 Unveils English Dub's Cast, April 15 Launch",
+            "+@datetime": "2026-04-15T08:03:31Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-15/reborn-as-a-vending-machine-season-3-unveils-english-dub-cast-april-15-launch/.236387"
         }
     ],
     "staff": [
@@ -132,6 +190,94 @@
             "person": {
                 "+content": "Tatsuya Takahashi",
                 "+@id": "72643"
+            }
+        },
+        {
+            "+@gid": "578592608",
+            "task": "Script",
+            "person": {
+                "+content": "Tatsuya Takahashi",
+                "+@id": "72643"
+            }
+        },
+        {
+            "+@gid": "2734733239",
+            "task": "Script",
+            "person": {
+                "+content": "Yutaka Yasunaga",
+                "+@id": "152165"
+            }
+        },
+        {
+            "+@gid": "2806375408",
+            "task": "Script",
+            "person": {
+                "+content": "Shōta Gotō",
+                "+@id": "187205"
+            }
+        },
+        {
+            "+@gid": "2270054074",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takashi Yamamoto",
+                "+@id": "29598"
+            }
+        },
+        {
+            "+@gid": "2406206657",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yukiko Ibe",
+                "+@id": "57353"
+            }
+        },
+        {
+            "+@gid": "2700297960",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Waruo Suzuki",
+                "+@id": "63720"
+            }
+        },
+        {
+            "+@gid": "1893557937",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kōichi Okizaki",
+                "+@id": "222384"
+            }
+        },
+        {
+            "+@gid": "2336067378",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yukio Kuroda",
+                "+@id": "56437"
+            }
+        },
+        {
+            "+@gid": "3086893373",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hodaka Kuramoto",
+                "+@id": "86935"
+            }
+        },
+        {
+            "+@gid": "1794069012",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tatsuya Fujinaka",
+                "+@id": "153665"
+            }
+        },
+        {
+            "+@gid": "814271314",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Miyuki Hokiwara",
+                "+@id": "33056"
             }
         },
         {
@@ -223,6 +369,110 @@
             }
         },
         {
+            "+@gid": "705651697",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hyun Ju Song",
+                "+@id": "34561"
+            }
+        },
+        {
+            "+@gid": "886418564",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Young Hee Park",
+                "+@id": "51937"
+            }
+        },
+        {
+            "+@gid": "1431946770",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Eun Young Choi",
+                "+@id": "56985"
+            }
+        },
+        {
+            "+@gid": "2579579393",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mi Jung Hwang",
+                "+@id": "57117"
+            }
+        },
+        {
+            "+@gid": "2250578988",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yukiko Ibe",
+                "+@id": "57353"
+            }
+        },
+        {
+            "+@gid": "181939259",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Eun Jin Han",
+                "+@id": "61845"
+            }
+        },
+        {
+            "+@gid": "3596246847",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nanako Tatsu",
+                "+@id": "79311"
+            }
+        },
+        {
+            "+@gid": "2065850397",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ran Young Kim",
+                "+@id": "88359"
+            }
+        },
+        {
+            "+@gid": "3233087163",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jin Wook Lim",
+                "+@id": "107998"
+            }
+        },
+        {
+            "+@gid": "3723734670",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wen Shan Zhong",
+                "+@id": "129700"
+            }
+        },
+        {
+            "+@gid": "2864156245",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tomotaka Nakayama",
+                "+@id": "195686"
+            }
+        },
+        {
+            "+@gid": "3731246348",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zio Choi",
+                "+@id": "202767"
+            }
+        },
+        {
+            "+@gid": "3138831528",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sung Hee Lee",
+                "+@id": "210490"
+            }
+        },
+        {
             "+@gid": "1894680812",
             "task": "Sound Director",
             "person": {
@@ -240,6 +490,96 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "3904021515",
+            "+@lang": "EN",
+            "role": "Director Bear",
+            "person": {
+                "+content": "Christopher R. Sabat",
+                "+@id": "1386"
+            }
+        },
+        {
+            "+@gid": "2982173913",
+            "+@lang": "EN",
+            "role": "Mikenne",
+            "person": {
+                "+content": "Brittney Karbowski",
+                "+@id": "52380"
+            }
+        },
+        {
+            "+@gid": "3598649629",
+            "+@lang": "EN",
+            "role": "Lammis",
+            "person": {
+                "+content": "Emily Neves",
+                "+@id": "83471"
+            }
+        },
+        {
+            "+@gid": "2179916444",
+            "+@lang": "EN",
+            "role": "Hevee",
+            "person": {
+                "+content": "Alex Organ",
+                "+@id": "96390"
+            }
+        },
+        {
+            "+@gid": "2593087971",
+            "+@lang": "EN",
+            "role": "Hulemy",
+            "person": {
+                "+content": "Elizabeth Maxwell",
+                "+@id": "126948"
+            }
+        },
+        {
+            "+@gid": "925747005",
+            "+@lang": "EN",
+            "role": "Boxxo",
+            "person": {
+                "+content": "Garret Storms",
+                "+@id": "130209"
+            }
+        },
+        {
+            "+@gid": "1529564545",
+            "+@lang": "EN",
+            "role": "Munami",
+            "person": {
+                "+content": "Marisa Duran",
+                "+@id": "154417"
+            }
+        },
+        {
+            "+@gid": "2088181955",
+            "+@lang": "EN",
+            "role": "Kikoyu",
+            "person": {
+                "+content": "Ariel Graham",
+                "+@id": "163724"
+            }
+        },
+        {
+            "+@gid": "1928130802",
+            "+@lang": "EN",
+            "role": "Mishuel",
+            "person": {
+                "+content": "Aaron Campbell",
+                "+@id": "170330"
+            }
+        },
+        {
+            "+@gid": "1361098352",
+            "+@lang": "EN",
+            "role": "Shui",
+            "person": {
+                "+content": "Hannah Alyea",
+                "+@id": "223713"
+            }
+        },
         {
             "+@gid": "2545366336",
             "+@lang": "JA",
@@ -422,6 +762,6 @@
         }
     ],
     "+@date-added": "2025-09-17T19:10:08Z",
-    "+@date-last-modified-at": "2026-03-19T03:22:09Z",
-    "+@date-last-updated-at": "2026-03-19T03:22:09Z"
+    "+@date-last-modified-at": "2026-04-18T03:31:06Z",
+    "+@date-last-updated-at": "2026-04-18T03:31:06Z"
 }
