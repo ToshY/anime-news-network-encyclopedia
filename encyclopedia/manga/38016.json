@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Love is Money II",
     "+@precision": "manga",
-    "+@generated-on": "2026-03-20T08:59:52Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "38015"
-    },
+    "+@generated-on": "2026-04-19T09:07:38Z",
+    "related-prev": [
+        {
+            "+@rel": "sequel of",
+            "+@id": "38015"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "38759"
+        }
+    ],
     "info": [
         {
             "+@gid": "1190181922",
@@ -77,5 +83,6 @@
         }
     },
     "+@date-added": "2025-11-16T01:21:13Z",
-    "+@date-last-updated-at": "2026-03-20T08:59:54Z"
+    "+@date-last-modified-at": "2026-04-19T09:07:41Z",
+    "+@date-last-updated-at": "2026-04-19T09:07:41Z"
 }
