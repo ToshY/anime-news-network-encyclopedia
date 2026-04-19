@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "MF Ghost",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-03-20T13:35:00Z",
+    "+@generated-on": "2026-04-19T13:35:36Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "31074"
+    },
+    "related-next": {
+        "+@id": "38821",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -107,12 +111,12 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "\"TIMELESS POWER feat. MOTSU\" by Yū Serizawa (eps 25-29, 33)",
+            "+content": "\"TIMELESS POWER feat. MOTSU\" by Yū Serizawa (eps 25-29, 33-36)",
             "+@gid": "943887892",
             "+@type": "Opening Theme"
         },
         {
-            "+content": "#1: \"Yokan no Tochū Prod. ☆Taku Takahashi (m-flo)\" (予感の途中) by Himika Akaneya (eps 25-29, 31-33)",
+            "+content": "#1: \"Yokan no Tochū Prod. ☆Taku Takahashi (m-flo)\" (予感の途中) by Himika Akaneya (eps 25-29, 31-33, 35)",
             "+@gid": "1834946850",
             "+@type": "Ending Theme"
         },
@@ -122,12 +126,17 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "#3: \"TIMELESS POWER feat. MOTSU\" by Yū Serizawa (ep 37)",
+            "+@gid": "2713453259",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "\"A World of Joy\" by Dave Rodgers feat. Kaioh (ep 32)",
             "+@gid": "3302751705",
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Adrenaline\" by Manuel (ep 27)",
+            "+content": "\"Adrenaline\" by Manuel (eps 27,37)",
             "+@gid": "3215535021",
             "+@type": "Insert song"
         },
@@ -139,6 +148,16 @@
         {
             "+content": "\"Crash Boom Burn Me Up\" by Fastway (eps 25,28)",
             "+@gid": "2813345646",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Dancin' Boy\" by Kiki & Fancy by (ep 36)",
+            "+@gid": "1848162042",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Dancing out of Danger\" by Fastway (ep 37)",
+            "+@gid": "1990272296",
             "+@type": "Insert song"
         },
         {
@@ -215,8 +234,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "6.4013"
+        "+@nb_votes": "24",
+        "+@weighted_score": "7.3617",
+        "+@bayesian_score": "7.39813"
     },
     "episode": [
         {
@@ -314,6 +334,14 @@
                 "+@gid": "3260430309",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "37",
+            "title": {
+                "+content": "The Lead Group Splits",
+                "+@gid": "1414679328",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -356,6 +384,11 @@
             "+content": "<cite>MF Ghost</cite> Season 3 Anime Streams 3rd Promotional Video",
             "+@datetime": "2026-02-20T10:49:29Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-02-20/mf-ghost-season-3-anime-streams-3rd-promotional-video/.234377"
+        },
+        {
+            "+content": "<cite>MF Ghost</cite> Anime Gets Final Season",
+            "+@datetime": "2026-03-26T16:25:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-26/mf-ghost-anime-gets-final-season/.235772"
         }
     ],
     "staff": [
@@ -1038,6 +1071,15 @@
             }
         },
         {
+            "+@gid": "2478939624",
+            "+@lang": "EN",
+            "role": "Kakeru Yashio",
+            "person": {
+                "+content": "Jordan Dash Cruz",
+                "+@id": "158695"
+            }
+        },
+        {
             "+@gid": "919533294",
             "+@lang": "EN",
             "role": "Shun Aiba",
@@ -1456,6 +1498,6 @@
         }
     ],
     "+@date-added": "2024-12-22T16:43:36Z",
-    "+@date-last-modified-at": "2026-03-20T13:35:06Z",
-    "+@date-last-updated-at": "2026-03-20T13:35:06Z"
+    "+@date-last-modified-at": "2026-04-19T13:35:42Z",
+    "+@date-last-updated-at": "2026-04-19T13:35:42Z"
 }
