@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Tojima Wants to Be a Kamen Rider",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-19T20:57:31Z",
+    "+@generated-on": "2026-04-19T03:50:41Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "35001"
@@ -154,6 +154,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "24",
+            "+@gid": "1401913949",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2025-10-04",
             "+@gid": "2407091927",
             "+@type": "Vintage"
@@ -184,7 +189,7 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"BRAINWASH\" by TORIENA (eps 4,19,23)",
+            "+content": "\"BRAINWASH\" by TORIENA (eps 4,19,23,24)",
             "+@gid": "1963399316",
             "+@type": "Insert song"
         },
@@ -199,12 +204,12 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"I am Tackle!\" by DELTA (eps 2-4,10-11,16,23)",
+            "+content": "\"I am Tackle!\" by DELTA (eps 2-4,10-11,16,23,24)",
             "+@gid": "2792248631",
             "+@type": "Insert song"
         },
         {
-            "+content": "\"It's My Justice\" by Gakuto (eps 6-7,19,21)",
+            "+content": "\"It's My Justice\" by Gakuto (eps 6-7,19,21,24)",
             "+@gid": "2636210637",
             "+@type": "Insert song"
         },
@@ -219,12 +224,12 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Let's Go!! Rider Kick (TeddyLoid Edit)\" by Julien (ep 1)",
+            "+content": "\"Let's Go!! Rider Kick (TeddyLoid Edit)\" by Julien (eps 1,24)",
             "+@gid": "3797996349",
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Let's Go!! Rider Kick\" (レッツゴー!! ライダーキック) by Hiroshi Fujioka and Male Harmony (eps 1,17)",
+            "+content": "\"Let's Go!! Rider Kick\" (レッツゴー!! ライダーキック) by Hiroshi Fujioka and Male Harmony (eps 1,17,24)",
             "+@gid": "3764020899",
             "+@type": "Insert song"
         },
@@ -234,7 +239,7 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"RIDER, RIDER\" by Julien (eps 1,3-5,8,10-11,16,18-19)",
+            "+content": "\"RIDER, RIDER\" by Julien (eps 1,3-5,8,10-11,16,18-19,24)",
             "+@gid": "2265702692",
             "+@type": "Insert song"
         },
@@ -249,7 +254,7 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Spider Beat\" by RXN (eps 3,5-6,14)",
+            "+content": "\"Spider Beat\" by RXN (eps 3,5-6,14,24)",
             "+@gid": "2141790013",
             "+@type": "Insert song"
         },
@@ -259,7 +264,7 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"THIRST\" by Julien (eps 16-17,22,23)",
+            "+content": "\"THIRST\" by Julien (eps 16-17,22,23,24)",
             "+@gid": "2075595516",
             "+@type": "Insert song"
         },
@@ -277,8 +282,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "4.558"
+        "+@nb_votes": "20",
+        "+@weighted_score": "7.1356",
+        "+@bayesian_score": "7.26138"
     },
     "episode": [
         {
@@ -751,6 +757,15 @@
             }
         },
         {
+            "+@gid": "3549307993",
+            "+@lang": "EN",
+            "role": "Bat Man/Morio Kouda",
+            "person": {
+                "+content": "Van Barr Jr.",
+                "+@id": "213292"
+            }
+        },
+        {
             "+@gid": "1464941639",
             "+@lang": "EN",
             "role": "Daisuke Sato",
@@ -983,6 +998,6 @@
         }
     ],
     "+@date-added": "2025-03-07T07:02:30Z",
-    "+@date-last-modified-at": "2026-03-19T20:57:34Z",
-    "+@date-last-updated-at": "2026-03-19T20:57:34Z"
+    "+@date-last-modified-at": "2026-04-19T03:50:45Z",
+    "+@date-last-updated-at": "2026-04-19T03:50:45Z"
 }

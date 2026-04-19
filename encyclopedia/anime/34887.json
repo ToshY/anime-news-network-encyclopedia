@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Butt Detective",
     "+@precision": "TV 9",
-    "+@generated-on": "2026-03-19T20:57:33Z",
+    "+@generated-on": "2026-04-19T03:50:43Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "34886"
+    },
+    "related-next": {
+        "+@id": "38743",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -53,7 +57,7 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "2025-10-04 (eps. 9+)",
+            "+content": "2025-10-04 to 2025-11-15 (eps. 9-15)",
             "+@gid": "1922266770",
             "+@type": "Vintage"
         }
@@ -193,6 +197,21 @@
             "+content": "Japanese Animation TV Ranking, March 2-8",
             "+@datetime": "2026-03-14T18:15:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-03-14/japanese-animation-tv-ranking-march-2-8/.235254"
+        },
+        {
+            "+content": "<cite>Butt Detective</cite> TV Anime Gets New Episodes Starting on April 4",
+            "+@datetime": "2026-03-20T03:54:20Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-19/butt-detective-tv-anime-gets-new-episodes-starting-on-april-4/.235508"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, March 9-15",
+            "+@datetime": "2026-03-21T16:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-21/japanese-animation-tv-ranking-march-9-15/.235512"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, March 16-22",
+            "+@datetime": "2026-04-06T12:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-06/japanese-animation-tv-ranking-march-16-22/.236111"
         }
     ],
     "staff": [
@@ -221,11 +240,27 @@
             }
         },
         {
+            "+@gid": "1237600066",
+            "task": "Script",
+            "person": {
+                "+content": "Yūsuke Moriguchi",
+                "+@id": "36618"
+            }
+        },
+        {
             "+@gid": "473846831",
             "task": "Script",
             "person": {
                 "+content": "Masao Iketani",
                 "+@id": "143555"
+            }
+        },
+        {
+            "+@gid": "3392285659",
+            "task": "Script",
+            "person": {
+                "+content": "Jun Narita",
+                "+@id": "174498"
             }
         },
         {
@@ -261,6 +296,14 @@
             }
         },
         {
+            "+@gid": "1142573910",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Emi Tezuka",
+                "+@id": "72289"
+            }
+        },
+        {
             "+@gid": "3027505563",
             "task": "Storyboard",
             "person": {
@@ -274,6 +317,22 @@
             "person": {
                 "+content": "Yuriko Kado",
                 "+@id": "87313"
+            }
+        },
+        {
+            "+@gid": "2118834537",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Masato Mikami",
+                "+@id": "105243"
+            }
+        },
+        {
+            "+@gid": "1479553524",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ryō Nanba",
+                "+@id": "122677"
             }
         },
         {
@@ -423,6 +482,6 @@
         }
     },
     "+@date-added": "2025-03-01T18:28:03Z",
-    "+@date-last-modified-at": "2026-03-19T20:57:34Z",
-    "+@date-last-updated-at": "2026-03-19T20:57:34Z"
+    "+@date-last-modified-at": "2026-04-19T03:50:45Z",
+    "+@date-last-updated-at": "2026-04-19T03:50:45Z"
 }

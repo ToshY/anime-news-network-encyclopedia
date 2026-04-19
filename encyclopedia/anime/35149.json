@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Tune In to the Midnight Heart",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-19T20:57:29Z",
+    "+@generated-on": "2026-04-19T03:50:39Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29962"
+    },
+    "related-next": {
+        "+@id": "38803",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -108,17 +112,37 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "\"Bus ja Tsuki ni Ikenakute\" (バスじゃ月に行けなくて; A Bus Won't Take Us to the Moon) by Arisu Yamabuki [Rikuya Yasuda] (ep 7)",
+            "+content": "\"ask for the moon\" by Rikka Inohana [Momoko Seto] (eps 11,12)",
+            "+@gid": "2659412649",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Bus ja Tsuki ni Ikenakute\" (バスじゃ月に行けなくて) by Arisu Yamabuki [Rikuya Yasuda] (ep 7)",
             "+@gid": "3556120472",
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Bus ja Tsuki ni Ikenakute\" (バスじゃ月に行けなくて; A Bus Won't Take Us to the Moon) by Broadcast Club [Momoko Seto, Rumi Ōkubo, Sayumi Suzushiro, Miku Itō] (ep 7)",
+            "+content": "\"Bus ja Tsuki ni Ikenakute\" (バスじゃ月に行けなくて) by Broadcasting Club [Momoko Seto, Rumi Ōkubo, Sayumi Suzushiro, Miku Itō] (ep 7)",
             "+@gid": "2140358124",
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Matataku Hibi e\" (瞬く日々へ) by Rikka Inohana [Momoko Seto] (ep 7)",
+            "+content": "\"Grayscale o Nozomu\" (グレースケールを臨む) by Aiko [Yūki Wakai] (ep 11)",
+            "+@gid": "573399593",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Half & Half\" by Rikka Inohana [Momoko Seto] (ep 12)",
+            "+@gid": "2739896424",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Inochi wa Shoudou de Naru\" (命は衝動で鳴る) by celestial (ep 12)",
+            "+@gid": "2218636666",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Matataku Hibi e\" (瞬く日々へ) by Rikka Inohana [Momoko Seto] (eps 7,11)",
             "+@gid": "3028697156",
             "+@type": "Insert song"
         },
@@ -130,6 +154,26 @@
         {
             "+content": "\"Suki!!\" (好き！！) by Rikka Inohana [Momoko Seto] (ep 7)",
             "+@gid": "1994712284",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"trails\" by Rikka Inohana [Momoko Seto] (ep 12)",
+            "+@gid": "2120645190",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Yonagi (Special Arrangement Version)\" (夜凪（スペシャルアレンジバージョン）) by Rikka Inohana [Momoko Seto], Aiko [Yūki Wakai] (ep 12)",
+            "+@gid": "1496714983",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Yonagi\" (夜凪) by Aiko [Yūki Wakai] (ep 11)",
+            "+@gid": "2306754712",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Yonagi\" (夜凪) by Rikka Inohana [Momoko Seto] (ep 11)",
+            "+@gid": "2788285259",
             "+@type": "Insert song"
         },
         {
@@ -146,8 +190,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "4.8784"
+        "+@nb_votes": "25",
+        "+@weighted_score": "6.4153",
+        "+@bayesian_score": "6.75769"
     },
     "episode": [
         {
@@ -367,6 +412,46 @@
                     "+@lang": "EN"
                 }
             ]
+        },
+        {
+            "+@num": "11",
+            "title": [
+                {
+                    "+content": "While You Look Away",
+                    "+@part": "A",
+                    "+@gid": "1407067502",
+                    "+@lang": "EN"
+                },
+                {
+                    "+content": "SECRET TRACK",
+                    "+@part": "B",
+                    "+@gid": "3796387927",
+                    "+@lang": "EN"
+                },
+                {
+                    "+content": "celestial",
+                    "+@part": "C",
+                    "+@gid": "3164320714",
+                    "+@lang": "EN"
+                }
+            ]
+        },
+        {
+            "+@num": "12",
+            "title": [
+                {
+                    "+content": "In Rikka's Front Row",
+                    "+@part": "A",
+                    "+@gid": "1879965781",
+                    "+@lang": "EN"
+                },
+                {
+                    "+content": "Symbol for Defiance",
+                    "+@part": "B",
+                    "+@gid": "903177478",
+                    "+@lang": "EN"
+                }
+            ]
         }
     ],
     "news": [
@@ -419,6 +504,11 @@
             "+content": "Crunchyroll Reveals <cite>Tune In to the Midnight Heart</cite> Anime's English Dub Cast",
             "+@datetime": "2026-01-20T20:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-01-20/crunchyroll-reveals-tune-in-to-the-midnight-heart-anime-english-dub-cast/.233257"
+        },
+        {
+            "+content": "<cite>Tune In to the Midnight Heart</cite> Anime Gets 2nd Season",
+            "+@datetime": "2026-03-24T15:18:42Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-24/tune-in-to-the-midnight-heart-anime-gets-2nd-season/.235685"
         }
     ],
     "staff": [
@@ -444,6 +534,102 @@
             "person": {
                 "+content": "Yukie Sugawara",
                 "+@id": "111723"
+            }
+        },
+        {
+            "+@gid": "951579515",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Masayuki Takahashi",
+                "+@id": "76358"
+            }
+        },
+        {
+            "+@gid": "1465999237",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Mitsuko Ōya",
+                "+@id": "295099"
+            }
+        },
+        {
+            "+@gid": "2704941656",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tomio Yamauchi",
+                "+@id": "11382"
+            }
+        },
+        {
+            "+@gid": "1246771847",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Seiichi Hirano",
+                "+@id": "12098"
+            }
+        },
+        {
+            "+@gid": "1926273586",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Masayuki Takahashi",
+                "+@id": "76358"
+            }
+        },
+        {
+            "+@gid": "1970373700",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shinji Sano",
+                "+@id": "88424"
+            }
+        },
+        {
+            "+@gid": "2103235964",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Taichi Atarashi",
+                "+@id": "108139"
+            }
+        },
+        {
+            "+@gid": "709645361",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yoshihiro Sasaki",
+                "+@id": "141466"
+            }
+        },
+        {
+            "+@gid": "3895562151",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kentaro Iino",
+                "+@id": "169944"
+            }
+        },
+        {
+            "+@gid": "3321050064",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tsurumi Mukoyama",
+                "+@id": "171285"
+            }
+        },
+        {
+            "+@gid": "1762322250",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kinya Nakamura",
+                "+@id": "244022"
+            }
+        },
+        {
+            "+@gid": "2451022031",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yūma Kano",
+                "+@id": "295100"
             }
         },
         {
@@ -559,6 +745,15 @@
             }
         },
         {
+            "+@gid": "3199124692",
+            "+@lang": "EN",
+            "role": "Aiko",
+            "person": {
+                "+content": "Erin Kelly Noble",
+                "+@id": "234005"
+            }
+        },
+        {
             "+@gid": "3220654532",
             "+@lang": "EN",
             "role": "Shinobu Uzuki",
@@ -649,6 +844,6 @@
         }
     },
     "+@date-added": "2025-03-14T07:18:58Z",
-    "+@date-last-modified-at": "2026-03-19T20:57:34Z",
-    "+@date-last-updated-at": "2026-03-19T20:57:34Z"
+    "+@date-last-modified-at": "2026-04-19T03:50:44Z",
+    "+@date-last-updated-at": "2026-04-19T03:50:44Z"
 }

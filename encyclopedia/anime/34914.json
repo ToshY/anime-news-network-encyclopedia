@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Jack-of-All-Trades, Party of None",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-19T20:57:32Z",
+    "+@generated-on": "2026-04-19T03:50:43Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "31316"
+    },
+    "related-next": {
+        "+@id": "38788",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -101,9 +105,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "21",
-        "+@weighted_score": "6.3545",
-        "+@bayesian_score": "6.76065"
+        "+@nb_votes": "59",
+        "+@weighted_score": "6.5914",
+        "+@bayesian_score": "6.74007"
     },
     "news": [
         {
@@ -150,6 +154,11 @@
             "+content": "<cite>'Jack-of-All-Trades, Party of None'</cite> Anime Reveals English Dub's Cast, January 14 Debut",
             "+@datetime": "2026-01-13T17:30:47Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-01-13/jack-of-all-trades-party-of-none-anime-reveals-english-dub-cast-january-14-debut/.233028"
+        },
+        {
+            "+content": "<cite>'Jack-of-All-Trades, Party of None'</cite> Anime Gets 2nd Season",
+            "+@datetime": "2026-03-22T14:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-22/jack-of-all-trades-party-of-none-anime-gets-2nd-season/.235577"
         }
     ],
     "staff": [
@@ -396,12 +405,30 @@
     ],
     "cast": [
         {
+            "+@gid": "2002436264",
+            "+@lang": "EN",
+            "role": "Lucrecia Otis",
+            "person": {
+                "+content": "Monica Rial",
+                "+@id": "2074"
+            }
+        },
+        {
             "+@gid": "2760484744",
             "+@lang": "EN",
             "role": "Anneli Wiles",
             "person": {
                 "+content": "Elise Baughman",
                 "+@id": "13313"
+            }
+        },
+        {
+            "+@gid": "1601257211",
+            "+@lang": "EN",
+            "role": "Rain Hagwell",
+            "person": {
+                "+content": "Tia Ballard",
+                "+@id": "81350"
             }
         },
         {
@@ -639,6 +666,6 @@
         }
     },
     "+@date-added": "2025-03-02T19:01:03Z",
-    "+@date-last-modified-at": "2026-03-19T20:57:34Z",
-    "+@date-last-updated-at": "2026-03-19T20:57:34Z"
+    "+@date-last-modified-at": "2026-04-19T03:50:45Z",
+    "+@date-last-updated-at": "2026-04-19T03:50:45Z"
 }
