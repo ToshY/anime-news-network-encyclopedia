@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Himitsu no AiPri: Ring-hen",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-03-20T16:33:00Z",
+    "+@generated-on": "2026-04-19T20:55:20Z",
     "related-prev": [
         {
             "+@rel": "sequel of",
@@ -80,6 +80,16 @@
             "+content": "\"Himitsu no Fufufu\" By Chō Tokimeki ♡ Sendenbu. (eps 52-77)",
             "+@gid": "1140077530",
             "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Bond x Link (Long Ver)\" By Minori Fujidera and Sae Hiratsuka (ep 102)",
+            "+@gid": "1197779870",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Bond x Link (Princess Ver)\" By Minori Fujidera and Sae Hiratsuka (ep 101)",
+            "+@gid": "1908892235",
+            "+@type": "Insert song"
         },
         {
             "+content": "\"Bond X Link\" Performed by Minori Fujidera and Sae Hiratsuka",
@@ -199,6 +209,10 @@
             "+@href": "https://aipri.jp/anime/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "10"
+    },
     "episode": [
         {
             "+@num": "52",
@@ -589,6 +603,22 @@
             "title": {
                 "+content": "We're AiPri",
                 "+@gid": "320518913",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "101",
+            "title": {
+                "+content": "The Song of Departure",
+                "+@gid": "3203140800",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "102",
+            "title": {
+                "+content": "Himitsu no AiPri",
+                "+@gid": "1958477393",
                 "+@lang": "EN"
             }
         }
@@ -1350,6 +1380,15 @@
             }
         },
         {
+            "+@gid": "3090655932",
+            "+@lang": "JA",
+            "role": "Vivi's Mu",
+            "person": {
+                "+content": "Momoka Terasawa",
+                "+@id": "231450"
+            }
+        },
+        {
             "+@gid": "3265123325",
             "+@lang": "JA",
             "role": "Rinrin's Mu",
@@ -1432,6 +1471,6 @@
         }
     ],
     "+@date-added": "2024-11-16T19:34:25Z",
-    "+@date-last-modified-at": "2026-03-20T17:03:05Z",
-    "+@date-last-updated-at": "2026-03-20T17:03:05Z"
+    "+@date-last-modified-at": "2026-04-19T20:55:23Z",
+    "+@date-last-updated-at": "2026-04-19T20:55:23Z"
 }
