@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Witch Watch",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-21T05:13:05Z",
+    "+@generated-on": "2026-04-20T10:10:03Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24171"
@@ -95,6 +95,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "25",
+            "+@gid": "3369210320",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2025-04-06",
             "+@gid": "2698373918",
             "+@type": "Vintage"
@@ -128,9 +133,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "84",
-        "+@weighted_score": "6.4518",
-        "+@bayesian_score": "6.57925"
+        "+@nb_votes": "86",
+        "+@weighted_score": "6.489",
+        "+@bayesian_score": "6.60924"
     },
     "episode": [
         {
@@ -2243,12 +2248,30 @@
             }
         },
         {
+            "+@gid": "404917908",
+            "+@lang": "IT",
+            "role": "Nico Wakatsuki",
+            "person": {
+                "+content": "Erica Laiolo",
+                "+@id": "182880"
+            }
+        },
+        {
             "+@gid": "2617571590",
             "+@lang": "IT",
             "role": "Kukumi Ureshino",
             "person": {
                 "+content": "Luisa D'Aprile",
                 "+@id": "183853"
+            }
+        },
+        {
+            "+@gid": "3286084129",
+            "+@lang": "IT",
+            "role": "Morihito Otogi",
+            "person": {
+                "+content": "Alessandro Fattori",
+                "+@id": "191772"
             }
         },
         {
@@ -2526,6 +2549,6 @@
         }
     ],
     "+@date-added": "2024-08-18T21:54:23Z",
-    "+@date-last-modified-at": "2026-03-21T05:13:09Z",
-    "+@date-last-updated-at": "2026-03-21T05:13:09Z"
+    "+@date-last-modified-at": "2026-04-20T10:10:05Z",
+    "+@date-last-updated-at": "2026-04-20T10:10:05Z"
 }
