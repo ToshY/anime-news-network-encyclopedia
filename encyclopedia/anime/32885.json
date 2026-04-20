@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Fire Force",
     "+@precision": "TV 4",
-    "+@generated-on": "2026-03-21T08:50:55Z",
+    "+@generated-on": "2026-04-20T14:14:06Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "25700"
@@ -68,8 +68,13 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "#2: \"Speak of the Devil feat. Masato from coldrain\" by Survive Said the Prophet (ep 7)",
+            "+content": "#2: \"Speak of the Devil feat. Masato from coldrain\" by Survive Said the Prophet (eps 7-12)",
             "+@gid": "670511876",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#3: \"Bakusō Yume Uta\" (爆走夢歌) by Diggy-MO' (ep 13)",
+            "+@gid": "1896998343",
             "+@type": "Ending Theme"
         },
         {
@@ -81,8 +86,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "7.3667"
+        "+@nb_votes": "32",
+        "+@weighted_score": "7.5559",
+        "+@bayesian_score": "7.53275"
     },
     "news": [
         {
@@ -254,7 +260,7 @@
             "+@gid": "3316599928",
             "task": "Music",
             "person": {
-                "+content": "Kenichiro Suehiro",
+                "+content": "Kenichirō Suehiro",
                 "+@id": "69237"
             }
         },
@@ -419,15 +425,6 @@
             "person": {
                 "+content": "Alexis Tipton",
                 "+@id": "77434"
-            }
-        },
-        {
-            "+@gid": "2100498983",
-            "+@lang": "EN",
-            "role": "Yuichiro Kurono",
-            "person": {
-                "+content": "Brandon McInnis",
-                "+@id": "106469"
             }
         },
         {
@@ -881,6 +878,15 @@
             }
         },
         {
+            "+@gid": "1901609321",
+            "+@lang": "FR",
+            "role": "Lisa Isaribi",
+            "person": {
+                "+content": "Estelle Darazi",
+                "+@id": "169128"
+            }
+        },
+        {
             "+@gid": "1765748888",
             "+@lang": "FR",
             "role": "Sho Kusakabe",
@@ -962,6 +968,15 @@
             }
         },
         {
+            "+@gid": "1716066543",
+            "+@lang": "FR",
+            "role": "Faerie",
+            "person": {
+                "+content": "Lou Howard",
+                "+@id": "278762"
+            }
+        },
+        {
             "+@gid": "1425668077",
             "+@lang": "IT",
             "role": "Akitaru Obi",
@@ -1022,6 +1037,15 @@
             "person": {
                 "+content": "Ezio Vivolo",
                 "+@id": "184736"
+            }
+        },
+        {
+            "+@gid": "2046548760",
+            "+@lang": "JA",
+            "role": "Daikoku",
+            "person": {
+                "+content": "Akira Ishida",
+                "+@id": "443"
             }
         },
         {
@@ -1142,15 +1166,6 @@
             }
         },
         {
-            "+@gid": "1885272517",
-            "+@lang": "JA",
-            "role": "Yona",
-            "person": {
-                "+content": "Yoshitsugu Matsuoka",
-                "+@id": "93780"
-            }
-        },
-        {
             "+@gid": "1205340696",
             "+@lang": "JA",
             "role": "Princess Hibana",
@@ -1250,6 +1265,6 @@
         }
     },
     "+@date-added": "2024-07-06T20:53:09Z",
-    "+@date-last-modified-at": "2026-03-21T08:50:59Z",
-    "+@date-last-updated-at": "2026-03-21T08:50:59Z"
+    "+@date-last-modified-at": "2026-04-20T14:14:07Z",
+    "+@date-last-updated-at": "2026-04-20T14:14:07Z"
 }
