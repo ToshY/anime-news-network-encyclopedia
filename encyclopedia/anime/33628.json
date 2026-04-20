@@ -4,15 +4,21 @@
     "+@type": "TV",
     "+@name": "Frieren: Beyond Journey's End",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-03-21T02:48:13Z",
+    "+@generated-on": "2026-04-20T06:27:43Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26334"
     },
-    "related-next": {
-        "+@id": "38331",
-        "+@rel": "spinoff"
-    },
+    "related-next": [
+        {
+            "+@id": "38331",
+            "+@rel": "spinoff"
+        },
+        {
+            "+@id": "38838",
+            "+@rel": "sequel"
+        }
+    ],
     "info": [
         {
             "+@gid": "1588041525",
@@ -43,6 +49,12 @@
             "+@gid": "565376151",
             "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Frieren - Oltre la Fine del Viaggio Stagione 2",
+            "+@gid": "1129415586",
+            "+@type": "Alternative title",
+            "+@lang": "IT"
         },
         {
             "+content": "Frieren: Más allá del final del viaje",
@@ -146,9 +158,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "13",
-        "+@weighted_score": "8.9148",
-        "+@bayesian_score": "8.22197"
+        "+@nb_votes": "130",
+        "+@weighted_score": "8.5817",
+        "+@bayesian_score": "8.48784"
     },
     "news": [
         {
@@ -235,6 +247,26 @@
             "+content": "Japanese Animation TV Ranking, March 2-8",
             "+@datetime": "2026-03-14T18:15:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-03-14/japanese-animation-tv-ranking-march-2-8/.235254"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, March 9-15",
+            "+@datetime": "2026-03-21T16:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-21/japanese-animation-tv-ranking-march-9-15/.235512"
+        },
+        {
+            "+content": "<cite>Frieren: Beyond Journey's End</cite> Anime Gets 3rd Season in October 2027",
+            "+@datetime": "2026-03-27T15:17:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-27/frieren-beyond-journey-end-anime-gets-3rd-season-in-october-2027/.235822"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, March 16-22",
+            "+@datetime": "2026-04-06T12:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-06/japanese-animation-tv-ranking-march-16-22/.236111"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, March 23-29",
+            "+@datetime": "2026-04-06T13:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-06/japanese-animation-tv-ranking-march-23-29/.236112"
         }
     ],
     "staff": [
@@ -487,6 +519,14 @@
             }
         },
         {
+            "+@gid": "3053083428",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ayaka Satō",
+                "+@id": "144909"
+            }
+        },
+        {
             "+@gid": "2905147385",
             "task": "Animation Director",
             "person": {
@@ -634,30 +674,21 @@
             }
         },
         {
+            "+@gid": "3511506837",
+            "+@lang": "EN",
+            "role": "Methode",
+            "person": {
+                "+content": "Caitlin Glass",
+                "+@id": "29271"
+            }
+        },
+        {
             "+@gid": "2947867022",
             "+@lang": "EN",
             "role": "Flamme",
             "person": {
                 "+content": "Lydia Mackay",
                 "+@id": "39188"
-            }
-        },
-        {
-            "+@gid": "1719123790",
-            "+@lang": "EN",
-            "role": "Ehre",
-            "person": {
-                "+content": "Trina Nishimura",
-                "+@id": "58419"
-            }
-        },
-        {
-            "+@gid": "1690465938",
-            "+@lang": "EN",
-            "role": "Hero of the South",
-            "person": {
-                "+content": "Brian Mathis",
-                "+@id": "67879"
             }
         },
         {
@@ -679,15 +710,6 @@
             }
         },
         {
-            "+@gid": "1846026947",
-            "+@lang": "EN",
-            "role": "Wirbel",
-            "person": {
-                "+content": "Ricco Fajardo",
-                "+@id": "107339"
-            }
-        },
-        {
             "+@gid": "2172745275",
             "+@lang": "EN",
             "role": "Sein",
@@ -703,6 +725,15 @@
             "person": {
                 "+content": "Chris Guerrero",
                 "+@id": "115171"
+            }
+        },
+        {
+            "+@gid": "672791749",
+            "+@lang": "EN",
+            "role": "Genau",
+            "person": {
+                "+content": "Aaron Roberts",
+                "+@id": "115172"
             }
         },
         {
@@ -739,15 +770,6 @@
             "person": {
                 "+content": "Jill Harris",
                 "+@id": "138979"
-            }
-        },
-        {
-            "+@gid": "1757351736",
-            "+@lang": "EN",
-            "role": "Scharf",
-            "person": {
-                "+content": "Alejandro Saab",
-                "+@id": "144413"
             }
         },
         {
@@ -805,6 +827,24 @@
             }
         },
         {
+            "+@gid": "2317609281",
+            "+@lang": "FR",
+            "role": "Serie",
+            "person": {
+                "+content": "Yumi Fujimori",
+                "+@id": "56990"
+            }
+        },
+        {
+            "+@gid": "3059618207",
+            "+@lang": "FR",
+            "role": "Denken",
+            "person": {
+                "+content": "Hervé Bellon",
+                "+@id": "57024"
+            }
+        },
+        {
             "+@gid": "995496486",
             "+@lang": "FR",
             "role": "Stark",
@@ -823,30 +863,12 @@
             }
         },
         {
-            "+@gid": "1553909267",
-            "+@lang": "FR",
-            "role": "Wirbel",
-            "person": {
-                "+content": "Benjamin Bollen",
-                "+@id": "126247"
-            }
-        },
-        {
             "+@gid": "1481716262",
             "+@lang": "FR",
             "role": "Himmel",
             "person": {
                 "+content": "Yoann Borg",
                 "+@id": "141837"
-            }
-        },
-        {
-            "+@gid": "1233178595",
-            "+@lang": "FR",
-            "role": "Ehre",
-            "person": {
-                "+content": "Lila Lacombe",
-                "+@id": "176859"
             }
         },
         {
@@ -868,15 +890,6 @@
             }
         },
         {
-            "+@gid": "2702144717",
-            "+@lang": "FR",
-            "role": "Scharf",
-            "person": {
-                "+content": "Louis Lecordier",
-                "+@id": "242616"
-            }
-        },
-        {
             "+@gid": "3420716349",
             "+@lang": "FR",
             "role": "Fern",
@@ -886,21 +899,84 @@
             }
         },
         {
-            "+@gid": "1185044352",
-            "+@lang": "JA",
-            "role": "Southern Hero",
+            "+@gid": "3210738020",
+            "+@lang": "IT",
+            "role": "Heiter",
             "person": {
-                "+content": "Kazuhiko Inoue",
-                "+@id": "722"
+                "+content": "Massimo De Ambrosis",
+                "+@id": "25902"
             }
         },
         {
-            "+@gid": "1523252595",
-            "+@lang": "JA",
-            "role": "Wirbel",
+            "+@gid": "839684553",
+            "+@lang": "IT",
+            "role": "Eisen",
             "person": {
-                "+content": "Kishō Taniyama",
-                "+@id": "8073"
+                "+content": "Dario Oppido",
+                "+@id": "53298"
+            }
+        },
+        {
+            "+@gid": "1579001105",
+            "+@lang": "IT",
+            "role": "Revolte",
+            "person": {
+                "+content": "Gianluca Crisafi",
+                "+@id": "53698"
+            }
+        },
+        {
+            "+@gid": "2880972260",
+            "+@lang": "IT",
+            "role": "Himmel",
+            "person": {
+                "+content": "Manuel Meli",
+                "+@id": "59722"
+            }
+        },
+        {
+            "+@gid": "338180486",
+            "+@lang": "IT",
+            "role": "Fern",
+            "person": {
+                "+content": "Agnese Marteddu",
+                "+@id": "74264"
+            }
+        },
+        {
+            "+@gid": "2267487366",
+            "+@lang": "IT",
+            "role": "Genau",
+            "person": {
+                "+content": "Andrea Lavagnino",
+                "+@id": "74592"
+            }
+        },
+        {
+            "+@gid": "3755333679",
+            "+@lang": "IT",
+            "role": "Stark",
+            "person": {
+                "+content": "Tito Marteddu",
+                "+@id": "86949"
+            }
+        },
+        {
+            "+@gid": "1583965594",
+            "+@lang": "IT",
+            "role": "Frieren",
+            "person": {
+                "+content": "Martina Felli",
+                "+@id": "122827"
+            }
+        },
+        {
+            "+@gid": "1857982388",
+            "+@lang": "IT",
+            "role": "Methode",
+            "person": {
+                "+content": "Valentina De Marchi",
+                "+@id": "218106"
             }
         },
         {
@@ -940,15 +1016,6 @@
             }
         },
         {
-            "+@gid": "2533677756",
-            "+@lang": "JA",
-            "role": "Ehre",
-            "person": {
-                "+content": "Kanae Itō",
-                "+@id": "66684"
-            }
-        },
-        {
             "+@gid": "2214406835",
             "+@lang": "JA",
             "role": "Frieren",
@@ -973,15 +1040,6 @@
             "person": {
                 "+content": "Yōji Ueda",
                 "+@id": "131376"
-            }
-        },
-        {
-            "+@gid": "3396012034",
-            "+@lang": "JA",
-            "role": "Scharf",
-            "person": {
-                "+content": "Yuji Murai",
-                "+@id": "150741"
             }
         },
         {
@@ -1021,6 +1079,6 @@
         }
     },
     "+@date-added": "2024-09-29T02:47:06Z",
-    "+@date-last-modified-at": "2026-03-21T02:48:19Z",
-    "+@date-last-updated-at": "2026-03-21T02:48:19Z"
+    "+@date-last-modified-at": "2026-04-20T06:27:48Z",
+    "+@date-last-updated-at": "2026-04-20T06:27:48Z"
 }

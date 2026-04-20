@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "Wistoria: Wand and Sword",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-03-21T02:48:13Z",
+    "+@generated-on": "2026-04-20T06:27:43Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32011"
     },
     "info": [
         {
-            "+@gid": "2471073930",
+            "+@gid": "2769589843",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33629-2471073930.1772759185.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33629-2769589843.1776265436.jpg",
+            "+@width": "134",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33629-2471073930.1772759185.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33629-2769589843.1776265436.jpg",
+                    "+@width": "134",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33629-2471073930.1772759185.jpg",
-                    "+@width": "423",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33629-2769589843.1776265436.jpg",
+                    "+@width": "402",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A33629-2769589843.1776265436.jpg",
+                    "+@width": "526",
+                    "+@height": "785"
                 }
             ]
         },
@@ -53,9 +58,54 @@
             "+@type": "Genres"
         },
         {
+            "+content": "comedy",
+            "+@gid": "2263110684",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "965964426",
+            "+@type": "Genres"
+        },
+        {
             "+content": "fantasy",
             "+@gid": "1734442091",
             "+@type": "Genres"
+        },
+        {
+            "+content": "monsters",
+            "+@gid": "3977064398",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "school",
+            "+@gid": "1867550508",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "1095637442",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "swordplay",
+            "+@gid": "1871505251",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "2851825789",
+            "+@type": "Objectionable content"
+        },
+        {
+            "+content": "In a world where magic reigns, Will Serfort can’t cast a spell. Though hardworking, Will’s classmates think less of him for it. However, he has a secret strength: his sword.",
+            "+@gid": "1388550689",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "2942059377",
+            "+@type": "Running time"
         },
         {
             "+content": "2026-04-12",
@@ -80,6 +130,28 @@
             "+@href": "https://wistoria-anime.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "4"
+    },
+    "episode": [
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "Barrier Day",
+                "+@gid": "2335543463",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "14",
+            "title": {
+                "+content": "Jigoku no Kaien",
+                "+@gid": "445021116",
+                "+@lang": "JA"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "<cite>Wistoria: Wand and Sword</cite> Season 2 Debuts in 2026",
@@ -100,6 +172,21 @@
             "+content": "<cite>Wistoria: Wand and Sword</cite> Season 2 Anime's Video Reveals Theme Songs",
             "+@datetime": "2026-03-05T15:03:37Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-03-05/wistoria-wand-and-sword-season-2-anime-video-reveals-theme-songs/.234920"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Spring 2026 Season",
+            "+@datetime": "2026-03-24T18:28:06Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-24/crunchyroll-announces-release-schedule-for-spring-2026-season/.235686"
+        },
+        {
+            "+content": "<cite>Wistoria: Wand and Sword</cite> Season 2 Casts Mai Nakahara",
+            "+@datetime": "2026-04-05T16:12:46Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-05/wistoria-wand-and-sword-season-2-casts-mai-nakahara/.236115"
+        },
+        {
+            "+content": "<cite>I Want to End This Love Game</cite>, <cite>The Classroom of a Black Cat and a Witch</cite>, More Anime Stream in India on Crunchyroll",
+            "+@datetime": "2026-04-17T12:33:25Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-17/i-want-to-end-this-love-game-the-classroom-of-a-black-cat-and-a-witch-more-anime-stream-in-india-on-/.236492"
         }
     ],
     "staff": [
@@ -208,6 +295,15 @@
             "person": {
                 "+content": "Jun Fukuyama",
                 "+@id": "337"
+            }
+        },
+        {
+            "+@gid": "1370696218",
+            "+@lang": "JA",
+            "role": "Clairie Serah",
+            "person": {
+                "+content": "Mai Nakahara",
+                "+@id": "438"
             }
         },
         {
@@ -491,6 +587,6 @@
         }
     ],
     "+@date-added": "2024-09-29T04:56:46Z",
-    "+@date-last-modified-at": "2026-03-21T02:48:19Z",
-    "+@date-last-updated-at": "2026-03-21T02:48:19Z"
+    "+@date-last-modified-at": "2026-04-20T06:27:48Z",
+    "+@date-last-updated-at": "2026-04-20T06:27:48Z"
 }
