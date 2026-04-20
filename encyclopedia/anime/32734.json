@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Hana-Kimi",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-21T16:47:46Z",
+    "+@generated-on": "2026-04-20T21:02:25Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "2028"
+    },
+    "related-next": {
+        "+@id": "38789",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -111,9 +115,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "21",
-        "+@weighted_score": "5.7972",
-        "+@bayesian_score": "6.406"
+        "+@nb_votes": "27",
+        "+@weighted_score": "5.8307",
+        "+@bayesian_score": "6.33541"
     },
     "news": [
         {
@@ -160,6 +164,11 @@
             "+content": "<cite>Hana-Kimi</cite> TV Anime Reveals Same-Day English Dub Debut, Cast",
             "+@datetime": "2026-01-02T17:30:07Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-01-02/hana-kimi-tv-anime-reveals-same-day-english-dub-debut-cast/.232713"
+        },
+        {
+            "+content": "<i>Hana-Kimi</i> Anime Gets 2nd Season",
+            "+@datetime": "2026-03-22T14:33:26Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-22/hana-kimi-anime-gets-2nd-season/.235604"
         }
     ],
     "staff": [
@@ -852,6 +861,14 @@
             }
         },
         {
+            "+@gid": "3256199799",
+            "task": "Animation Director",
+            "person": {
+                "+content": "U.",
+                "+@id": "295124"
+            }
+        },
+        {
             "+@gid": "3610169565",
             "task": "Sound Director",
             "person": {
@@ -873,6 +890,46 @@
             "person": {
                 "+content": "Masashi Uoyama",
                 "+@id": "194062"
+            }
+        },
+        {
+            "+@gid": "2681975101",
+            "task": "Producer",
+            "person": {
+                "+content": "Norie Shimizu",
+                "+@id": "82950"
+            }
+        },
+        {
+            "+@gid": "3193845827",
+            "task": "Producer",
+            "person": {
+                "+content": "Miho Matsumoto",
+                "+@id": "89408"
+            }
+        },
+        {
+            "+@gid": "1143289540",
+            "task": "Producer",
+            "person": {
+                "+content": "Atsumi Yamada",
+                "+@id": "205845"
+            }
+        },
+        {
+            "+@gid": "565033146",
+            "task": "Producer",
+            "person": {
+                "+content": "Kōsuke Suzuki",
+                "+@id": "224209"
+            }
+        },
+        {
+            "+@gid": "2071957594",
+            "task": "Producer",
+            "person": {
+                "+content": "Kanako Takahashi",
+                "+@id": "231010"
             }
         }
     ],
@@ -1301,15 +1358,57 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "1160156420",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Signal.MD",
-            "+@id": "14051"
+    "credit": [
+        {
+            "+@gid": "1160156420",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Signal.MD",
+                "+@id": "14051"
+            }
+        },
+        {
+            "+@gid": "2485336366",
+            "task": "Production",
+            "company": {
+                "+content": "Production I.G",
+                "+@id": "337"
+            }
+        },
+        {
+            "+@gid": "2978079302",
+            "task": "Production",
+            "company": {
+                "+content": "Hakusensha",
+                "+@id": "817"
+            }
+        },
+        {
+            "+@gid": "1524593074",
+            "task": "Production",
+            "company": {
+                "+content": "Aniplex",
+                "+@id": "1257"
+            }
+        },
+        {
+            "+@gid": "2694859787",
+            "task": "Production",
+            "company": {
+                "+content": "Crunchyroll",
+                "+@id": "7606"
+            }
+        },
+        {
+            "+@gid": "2680831910",
+            "task": "Production",
+            "company": {
+                "+content": "HAYATE",
+                "+@id": "27581"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-05-15T01:55:26Z",
-    "+@date-last-modified-at": "2026-03-21T16:47:51Z",
-    "+@date-last-updated-at": "2026-03-21T16:47:51Z"
+    "+@date-last-modified-at": "2026-04-20T21:02:29Z",
+    "+@date-last-updated-at": "2026-04-20T21:02:29Z"
 }

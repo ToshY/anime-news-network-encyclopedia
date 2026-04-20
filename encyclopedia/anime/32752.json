@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Darwin Incident",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-21T16:47:45Z",
+    "+@generated-on": "2026-04-20T21:02:24Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26659"
@@ -142,8 +142,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "5.7322"
+        "+@nb_votes": "14",
+        "+@weighted_score": "6.5725",
+        "+@bayesian_score": "6.98719"
     },
     "news": [
         {
@@ -278,39 +279,12 @@
             }
         },
         {
-            "+@gid": "2383865365",
-            "+@lang": "EN",
-            "role": "Lydia",
-            "person": {
-                "+content": "Marissa Lenti",
-                "+@id": "137305"
-            }
-        },
-        {
-            "+@gid": "2008898213",
-            "+@lang": "EN",
-            "role": "Min-Su",
-            "person": {
-                "+content": "Jesse Inocalla",
-                "+@id": "139542"
-            }
-        },
-        {
             "+@gid": "1296115409",
             "+@lang": "EN",
             "role": "Gilbert Stein",
             "person": {
                 "+content": "Roly Gutierrez",
                 "+@id": "188331"
-            }
-        },
-        {
-            "+@gid": "3396808444",
-            "+@lang": "EN",
-            "role": "Dr. Fowler",
-            "person": {
-                "+content": "Chris Jahn",
-                "+@id": "190538"
             }
         },
         {
@@ -338,6 +312,15 @@
             "person": {
                 "+content": "Yenni Ann",
                 "+@id": "214889"
+            }
+        },
+        {
+            "+@gid": "1557972799",
+            "+@lang": "EN",
+            "role": "Gale",
+            "person": {
+                "+content": "Kevin Garcia",
+                "+@id": "216072"
             }
         },
         {
@@ -374,15 +357,6 @@
             "person": {
                 "+content": "Kate Domenech",
                 "+@id": "289344"
-            }
-        },
-        {
-            "+@gid": "2420902608",
-            "+@lang": "EN",
-            "role": "Mia",
-            "person": {
-                "+content": "Krystal Martinez",
-                "+@id": "289386"
             }
         },
         {
@@ -476,12 +450,48 @@
             }
         },
         {
+            "+@gid": "1928952505",
+            "+@lang": "IT",
+            "role": "Grace Graham",
+            "person": {
+                "+content": "Barbara De Bortoli",
+                "+@id": "25917"
+            }
+        },
+        {
+            "+@gid": "2988735825",
+            "+@lang": "IT",
+            "role": "Dafne M. Linares",
+            "person": {
+                "+content": "Laura Boccanera",
+                "+@id": "26168"
+            }
+        },
+        {
+            "+@gid": "2415759521",
+            "+@lang": "IT",
+            "role": "Philip Graham",
+            "person": {
+                "+content": "Fabrizio Pucci",
+                "+@id": "26309"
+            }
+        },
+        {
             "+@gid": "1740029019",
             "+@lang": "IT",
             "role": "Hannah Stein",
             "person": {
                 "+content": "Chiara Colizzi",
                 "+@id": "27412"
+            }
+        },
+        {
+            "+@gid": "2869413252",
+            "+@lang": "IT",
+            "role": "Dott. Fowler",
+            "person": {
+                "+content": "Gerolamo Alchieri",
+                "+@id": "50856"
             }
         },
         {
@@ -494,12 +504,30 @@
             }
         },
         {
+            "+@gid": "2520967833",
+            "+@lang": "IT",
+            "role": "Maurice Williams",
+            "person": {
+                "+content": "Alessandro Ballico",
+                "+@id": "52604"
+            }
+        },
+        {
             "+@gid": "1926274110",
             "+@lang": "IT",
             "role": "Rivera Feyerabend",
             "person": {
                 "+content": "Dario Oppido",
                 "+@id": "53298"
+            }
+        },
+        {
+            "+@gid": "1724064539",
+            "+@lang": "IT",
+            "role": "Gale",
+            "person": {
+                "+content": "Federico Bebi",
+                "+@id": "74335"
             }
         },
         {
@@ -527,6 +555,15 @@
             "person": {
                 "+content": "Chiara Fabiano",
                 "+@id": "131045"
+            }
+        },
+        {
+            "+@gid": "2214958321",
+            "+@lang": "IT",
+            "role": "Kyle Foster",
+            "person": {
+                "+content": "Andrea Checchi",
+                "+@id": "295394"
             }
         },
         {
@@ -657,6 +694,6 @@
         }
     ],
     "+@date-added": "2024-05-21T19:39:41Z",
-    "+@date-last-modified-at": "2026-03-21T16:47:51Z",
-    "+@date-last-updated-at": "2026-03-21T16:47:51Z"
+    "+@date-last-modified-at": "2026-04-20T21:02:29Z",
+    "+@date-last-updated-at": "2026-04-20T21:02:29Z"
 }
