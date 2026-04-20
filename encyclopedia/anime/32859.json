@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Mushoku Tensei: Jobless Reincarnation III",
     "+@precision": "TV 5",
-    "+@generated-on": "2026-03-21T13:12:20Z",
+    "+@generated-on": "2026-04-20T17:19:20Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28953"
@@ -123,9 +123,14 @@
             "+@type": "Objectionable content"
         },
         {
-            "+content": "2026-07",
+            "+content": "2026-07-05",
             "+@gid": "3543881080",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Ketsui no Uta\" (決意の唄) by Yuiko Ōhara",
+            "+@gid": "3497082026",
+            "+@type": "Opening Theme"
         },
         {
             "+content": "TVアニメ「無職転生 ～異世界行ったら本気だす」公式サイト",
@@ -135,12 +140,51 @@
             "+@href": "https://mushokutensei.jp/"
         }
     ],
-    "news": {
-        "+content": "<cite>Mushoku Tensei: Jobless Reincarnation</cite> Anime Unveils Season 3's July Debut, New Game App",
-        "+@datetime": "2026-01-10T13:12:25Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-01-10/mushoku-tensei-jobless-reincarnation-anime-unveils-season-3-july-debut-new-game-app/.232931"
-    },
+    "news": [
+        {
+            "+content": "<cite>Mushoku Tensei: Jobless Reincarnation</cite> Anime Unveils Season 3's July Debut, New Game App",
+            "+@datetime": "2026-01-10T13:12:25Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-10/mushoku-tensei-jobless-reincarnation-anime-unveils-season-3-july-debut-new-game-app/.232931"
+        },
+        {
+            "+content": "<cite>Mushoku Tensei: Jobless Reincarnation</cite> Anime's 3rd Season 2nd Promo Video Reveals July 5 Debut",
+            "+@datetime": "2026-03-28T01:50:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-27/mushoku-tensei-jobless-reincarnation-anime-3rd-season-2nd-promo-video-reveals-july-5-debut/.235837"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "1464674270",
+            "task": "Director",
+            "person": {
+                "+content": "Ryōsuke Shibuya",
+                "+@id": "91970"
+            }
+        },
+        {
+            "+@gid": "2278877930",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Ryōsuke Shibuya",
+                "+@id": "91970"
+            }
+        },
+        {
+            "+@gid": "1797443143",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Naoto Taniuchi",
+                "+@id": "217196"
+            }
+        },
+        {
+            "+@gid": "1317567103",
+            "task": "Music",
+            "person": {
+                "+content": "Yoshiaki Fujisawa",
+                "+@id": "113645"
+            }
+        },
         {
             "+@gid": "2927798653",
             "task": "Original creator",
@@ -156,8 +200,139 @@
                 "+content": "Shirotaka",
                 "+@id": "134272"
             }
+        },
+        {
+            "+@gid": "1758768811",
+            "task": "Character Design",
+            "person": {
+                "+content": "Ryōta Furukawa",
+                "+@id": "78936"
+            }
+        },
+        {
+            "+@gid": "2247306742",
+            "task": "Character Design",
+            "person": {
+                "+content": "Sanae Shimada",
+                "+@id": "82854"
+            }
+        },
+        {
+            "+@gid": "1847915661",
+            "task": "Art Director",
+            "person": {
+                "+content": "Masakazu Miyake",
+                "+@id": "35699"
+            }
+        },
+        {
+            "+@gid": "1888053157",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Satoshi Shimada",
+                "+@id": "14461"
+            }
+        },
+        {
+            "+@gid": "2494584080",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Keiya Nakano",
+                "+@id": "38884"
+            }
+        },
+        {
+            "+@gid": "990514600",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Jin Aketagawa",
+                "+@id": "8466"
+            }
+        },
+        {
+            "+@gid": "3573477592",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Shinji Tonsho",
+                "+@id": "143412"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3350472593",
+            "+@lang": "JA",
+            "role": "Ghislaine Dedoldia",
+            "person": {
+                "+content": "Megumi Toyoguchi",
+                "+@id": "794"
+            }
+        },
+        {
+            "+@gid": "1915422087",
+            "+@lang": "JA",
+            "role": "Rudeus Greyrat",
+            "person": {
+                "+content": "Tomokazu Sugita",
+                "+@id": "910"
+            }
+        },
+        {
+            "+@gid": "2834414393",
+            "+@lang": "JA",
+            "role": "Gal Farion",
+            "person": {
+                "+content": "Tetsu Inada",
+                "+@id": "7015"
+            }
+        },
+        {
+            "+@gid": "3316399780",
+            "+@lang": "JA",
+            "role": "Nina Farion",
+            "person": {
+                "+content": "Haruka Tomatsu",
+                "+@id": "63126"
+            }
+        },
+        {
+            "+@gid": "2763239802",
+            "+@lang": "JA",
+            "role": "Rudeus Greyrat",
+            "person": {
+                "+content": "Yumi Uchiyama",
+                "+@id": "96014"
+            }
+        },
+        {
+            "+@gid": "1336261364",
+            "+@lang": "JA",
+            "role": "Eris Boreas Greyrat",
+            "person": {
+                "+content": "Ai Kakuma",
+                "+@id": "109103"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "1938074465",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Studio Bind",
+                "+@id": "18987"
+            }
+        },
+        {
+            "+@gid": "2239668105",
+            "task": "Production",
+            "company": {
+                "+content": "EGG FIRM",
+                "+@id": "14569"
+            }
         }
     ],
     "+@date-added": "2024-07-01T00:25:38Z",
-    "+@date-last-updated-at": "2026-03-21T13:12:27Z"
+    "+@date-last-modified-at": "2026-04-20T17:19:29Z",
+    "+@date-last-updated-at": "2026-04-20T17:19:29Z"
 }
