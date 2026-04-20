@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Elusive Samurai",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-03-20T20:50:20Z",
+    "+@generated-on": "2026-04-20T03:53:13Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "27523"
@@ -13,17 +13,17 @@
         {
             "+@gid": "3156656567",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33669-3156656567.1766298827.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33669-3156656567.1774765025.jpg",
             "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33669-3156656567.1766298827.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33669-3156656567.1774765025.jpg",
                     "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33669-3156656567.1766298827.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33669-3156656567.1774765025.jpg",
                     "+@width": "425",
                     "+@height": "600"
                 }
@@ -70,17 +70,24 @@
             "+@href": "https://nigewaka.run/"
         }
     ],
-    "news": {
-        "+content": "<cite>The Elusive Samurai</cite> Season 2 Anime Debuts in July 2026",
-        "+@datetime": "2025-12-21T05:32:42Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-12-21/the-elusive-samurai-season-2-anime-debuts-in-july-2026/.232341"
-    },
+    "news": [
+        {
+            "+content": "<cite>The Elusive Samurai</cite> Season 2 Anime Debuts in July 2026",
+            "+@datetime": "2025-12-21T05:32:42Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-21/the-elusive-samurai-season-2-anime-debuts-in-july-2026/.232341"
+        },
+        {
+            "+content": "<cite>The Elusive Samurai</cite> Season 2 Anime Reveals Special Promo Video, New Visual",
+            "+@datetime": "2026-03-29T03:03:32Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-28/the-elusive-samurai-season-2-anime-reveals-special-promo-video-new-visual/.235885"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1981948140",
             "task": "Director",
             "person": {
-                "+content": "Yuta Yamazaki",
+                "+content": "Yūta Yamazaki",
                 "+@id": "107464"
             }
         },
@@ -90,6 +97,22 @@
             "person": {
                 "+content": "Yoriko Tomita",
                 "+@id": "107216"
+            }
+        },
+        {
+            "+@gid": "2580200616",
+            "task": "Music",
+            "person": {
+                "+content": "Akiyuki Tateyama",
+                "+@id": "139125"
+            }
+        },
+        {
+            "+@gid": "2995324665",
+            "task": "Music",
+            "person": {
+                "+content": "GEMBI",
+                "+@id": "256928"
             }
         },
         {
@@ -109,11 +132,59 @@
             }
         },
         {
+            "+@gid": "1669377083",
+            "task": "Art Director",
+            "person": {
+                "+content": "Ayumi Kojima",
+                "+@id": "107800"
+            }
+        },
+        {
             "+@gid": "1380991338",
             "task": "Chief Animation Director",
             "person": {
                 "+content": "Yasushi Nishiya",
                 "+@id": "86854"
+            }
+        },
+        {
+            "+@gid": "2986725095",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shinnosuke Ōta",
+                "+@id": "146126"
+            }
+        },
+        {
+            "+@gid": "1985143694",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Akiko Fujita",
+                "+@id": "75819"
+            }
+        },
+        {
+            "+@gid": "3037034625",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Jie Ren",
+                "+@id": "217995"
+            }
+        },
+        {
+            "+@gid": "3898711492",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Mai Kawakita",
+                "+@id": "222344"
+            }
+        },
+        {
+            "+@gid": "1997003765",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yūya Sakuma",
+                "+@id": "83607"
             }
         }
     ],
@@ -200,5 +271,6 @@
         }
     },
     "+@date-added": "2024-10-06T19:56:37Z",
-    "+@date-last-updated-at": "2026-03-20T20:50:22Z"
+    "+@date-last-modified-at": "2026-04-20T03:53:16Z",
+    "+@date-last-updated-at": "2026-04-20T03:53:16Z"
 }

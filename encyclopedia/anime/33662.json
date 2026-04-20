@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Oshi no Ko",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-03-20T20:50:20Z",
+    "+@generated-on": "2026-04-20T03:53:14Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28810"
+    },
+    "related-next": {
+        "+@id": "38810",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -162,6 +166,11 @@
             "+@type": "Insert song"
         },
         {
+            "+content": "\"You are light feat. o.j.o\" by - (ep 35)",
+            "+@gid": "2049223765",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "アニメ『【推しの子】』公式サイト",
             "+@gid": "956490186",
             "+@type": "Official website",
@@ -170,8 +179,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "8.2248"
+        "+@nb_votes": "66",
+        "+@weighted_score": "8.4138",
+        "+@bayesian_score": "8.26875"
     },
     "episode": [
         {
@@ -243,6 +253,22 @@
             "title": {
                 "+content": "Greed and Passion",
                 "+@gid": "985483014",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "34",
+            "title": {
+                "+content": "Private Audition",
+                "+@gid": "2666607284",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "35",
+            "title": {
+                "+content": "The Beginning",
+                "+@gid": "1884897189",
                 "+@lang": "EN"
             }
         }
@@ -317,6 +343,11 @@
             "+content": "<cite>Oshi no Ko</cite> Season 3 Anime Ends With 1-Hour Special on March 25",
             "+@datetime": "2026-03-18T14:39:20Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-03-18/oshi-no-ko-season-3-anime-ends-with-1-hour-special-on-march-25/.235454"
+        },
+        {
+            "+content": "<cite>Oshi no Ko</cite> Anime Gets 4th Season",
+            "+@datetime": "2026-03-25T15:08:22Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-25/oshi-no-ko-anime-gets-4th-season/.235727"
         }
     ],
     "staff": [
@@ -611,6 +642,69 @@
     ],
     "cast": [
         {
+            "+@gid": "2708028060",
+            "+@lang": "EN",
+            "role": "Mem-Cho",
+            "person": {
+                "+content": "Juliet Simmons",
+                "+@id": "122788"
+            }
+        },
+        {
+            "+@gid": "2063513580",
+            "+@lang": "EN",
+            "role": "Kana Arima",
+            "person": {
+                "+content": "Natalie Rial",
+                "+@id": "125100"
+            }
+        },
+        {
+            "+@gid": "790600824",
+            "+@lang": "EN",
+            "role": "Akane Kurokawa",
+            "person": {
+                "+content": "Kristen McGuire",
+                "+@id": "127814"
+            }
+        },
+        {
+            "+@gid": "709145209",
+            "+@lang": "EN",
+            "role": "Shun Yoshizumi",
+            "person": {
+                "+content": "Antonio Lasanta",
+                "+@id": "169876"
+            }
+        },
+        {
+            "+@gid": "3087060430",
+            "+@lang": "EN",
+            "role": "Ruby Hoshino",
+            "person": {
+                "+content": "Alyssa Marek",
+                "+@id": "175665"
+            }
+        },
+        {
+            "+@gid": "1178860650",
+            "+@lang": "EN",
+            "role": "Tetsu Urushibara",
+            "person": {
+                "+content": "Sean Patrick Judge",
+                "+@id": "202944"
+            }
+        },
+        {
+            "+@gid": "2385045901",
+            "+@lang": "EN",
+            "role": "Aqua Hoshino",
+            "person": {
+                "+content": "Jack Stansbury",
+                "+@id": "220224"
+            }
+        },
+        {
             "+@gid": "2543182156",
             "+@lang": "JA",
             "role": "Hikaru Kamiki",
@@ -744,6 +838,6 @@
         }
     ],
     "+@date-added": "2024-10-06T07:01:33Z",
-    "+@date-last-modified-at": "2026-03-20T20:50:22Z",
-    "+@date-last-updated-at": "2026-03-20T20:50:22Z"
+    "+@date-last-modified-at": "2026-04-20T03:53:16Z",
+    "+@date-last-updated-at": "2026-04-20T03:53:16Z"
 }
