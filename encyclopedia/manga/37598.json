@@ -4,7 +4,7 @@
     "+@type": "magazine",
     "+@name": "GANMA!",
     "+@precision": "anthology",
-    "+@generated-on": "2026-03-22T13:14:26Z",
+    "+@generated-on": "2026-04-21T14:09:37Z",
     "related-next": [
         {
             "+@id": "32200",
@@ -81,14 +81,32 @@
         {
             "+@id": "38094",
             "+@rel": "serialized"
+        },
+        {
+            "+@id": "39112",
+            "+@rel": "serialized"
+        },
+        {
+            "+@id": "39120",
+            "+@rel": "serialized"
         }
     ],
-    "info": {
-        "+content": "GANMA!",
-        "+@gid": "2439642797",
-        "+@type": "Main title",
-        "+@lang": "EN"
-    },
+    "info": [
+        {
+            "+content": "GANMA!",
+            "+@gid": "2439642797",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
+            "+content": "GANMA!(ガンマ)｜話題のマンガ・ウェブトゥーンが無料で読める！",
+            "+@gid": "1695271968",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://ganma.jp/web"
+        }
+    ],
     "+@date-added": "2025-08-23T16:55:42Z",
-    "+@date-last-updated-at": "2026-03-22T13:14:28Z"
+    "+@date-last-modified-at": "2026-04-21T14:09:39Z",
+    "+@date-last-updated-at": "2026-04-21T14:09:39Z"
 }
