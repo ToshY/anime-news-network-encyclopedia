@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Chained Soldier",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-03-21T20:44:31Z",
+    "+@generated-on": "2026-04-21T03:46:25Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24978"
@@ -164,6 +164,11 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "\"Yume no Ito\" (夢の糸) by Akari Kitō (ep 11)",
+            "+@gid": "1942892523",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "TVアニメ『魔都精兵のスレイブ』公式サイト",
             "+@gid": "1356363224",
             "+@type": "Official website",
@@ -172,8 +177,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "6.0821"
+        "+@nb_votes": "26",
+        "+@weighted_score": "6.4552",
+        "+@bayesian_score": "6.77598"
     },
     "episode": [
         {
@@ -259,9 +265,17 @@
         {
             "+@num": "11",
             "title": {
-                "+content": "Sureibu Ten",
-                "+@gid": "2210914742",
-                "+@lang": "JA"
+                "+content": "Slave: Heaven",
+                "+@gid": "1505465190",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Gods Assemble",
+                "+@gid": "1178997921",
+                "+@lang": "EN"
             }
         }
     ],
@@ -1204,6 +1218,6 @@
         }
     ],
     "+@date-added": "2024-03-22T20:43:37Z",
-    "+@date-last-modified-at": "2026-03-21T20:44:34Z",
-    "+@date-last-updated-at": "2026-03-21T20:44:34Z"
+    "+@date-last-modified-at": "2026-04-21T03:46:29Z",
+    "+@date-last-updated-at": "2026-04-21T03:46:29Z"
 }
