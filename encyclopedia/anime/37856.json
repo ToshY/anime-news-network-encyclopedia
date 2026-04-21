@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "Rent-A-Girlfriend",
     "+@precision": "TV 5",
-    "+@generated-on": "2026-03-22T05:33:24Z",
+    "+@generated-on": "2026-04-21T06:14:24Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32921"
     },
     "info": [
         {
-            "+@gid": "1642875967",
+            "+@gid": "2616889413",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37856-1642875967.1768518602.jpg",
-            "+@width": "143",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37856-2616889413.1776259802.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37856-1642875967.1768518602.jpg",
-                    "+@width": "143",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37856-2616889413.1776259802.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37856-1642875967.1768518602.jpg",
-                    "+@width": "428",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37856-2616889413.1776259802.jpg",
+                    "+@width": "425",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37856-2616889413.1776259802.jpg",
+                    "+@width": "1600",
+                    "+@height": "2260"
                 }
             ]
         },
@@ -46,6 +51,26 @@
             "+@gid": "2841956834",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "3063181558",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "2373936307",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "Kinoshita Kazuya is a 20-year-old failure of a college student. He managed to kiss his girlfriend once, but was dumped after a month. Completely spiteful, Kazuya uses a certain method to date a girl. A beautiful girl brushing her long, black hair behind her ear was there, smiling at him. Her name was Mizuhara Chizuru. Something real is born after just a single rental. A reckless rom-com filled with love and excitement is about to begin.",
+            "+@gid": "2746405132",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "12",
+            "+@gid": "3299583767",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2026-04-08",
@@ -70,6 +95,10 @@
             "+@href": "https://kanokari-official.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "2"
+    },
     "news": [
         {
             "+content": "<cite>Rent-A-Girlfriend</cite> Anime's 5th Season Debuts in April",
@@ -85,6 +114,11 @@
             "+content": "<cite>Rent-A-Girlfriend</cite> Anime's 5th Season Reveals April 8 Streaming Debut in New Video",
             "+@datetime": "2026-03-13T09:55:13Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-03-13/rent-a-girlfriend-anime-5th-season-reveals-april-8-streaming-debut-in-new-video/.235260"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Spring 2026 Season",
+            "+@datetime": "2026-03-24T18:28:06Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-24/crunchyroll-announces-release-schedule-for-spring-2026-season/.235686"
         }
     ],
     "staff": [
@@ -102,6 +136,78 @@
             "person": {
                 "+content": "Mitsutaka Hirota",
                 "+@id": "50326"
+            }
+        },
+        {
+            "+@gid": "1415559774",
+            "task": "Script",
+            "person": {
+                "+content": "Mitsutaka Hirota",
+                "+@id": "50326"
+            }
+        },
+        {
+            "+@gid": "2190846022",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hiroshi Matsuzono",
+                "+@id": "13419"
+            }
+        },
+        {
+            "+@gid": "1962638455",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hiroshi Kimura",
+                "+@id": "20966"
+            }
+        },
+        {
+            "+@gid": "3125673030",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kazuomi Koga",
+                "+@id": "55117"
+            }
+        },
+        {
+            "+@gid": "2480295096",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Aleksei Iatsutko",
+                "+@id": "276659"
+            }
+        },
+        {
+            "+@gid": "3529373562",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hiroshi Kimura",
+                "+@id": "20966"
+            }
+        },
+        {
+            "+@gid": "3794532033",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Akira Mano",
+                "+@id": "32181"
+            }
+        },
+        {
+            "+@gid": "1827652008",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Hiroshi Kimura",
+                "+@id": "20966"
+            }
+        },
+        {
+            "+@gid": "675993267",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Kazuomi Koga",
+                "+@id": "55117"
             }
         },
         {
@@ -137,6 +243,134 @@
             }
         },
         {
+            "+@gid": "1551413969",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Hiromi Ono",
+                "+@id": "2185"
+            }
+        },
+        {
+            "+@gid": "2659966625",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kanna Hirayama",
+                "+@id": "130869"
+            }
+        },
+        {
+            "+@gid": "2099094750",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiromi Ono",
+                "+@id": "2185"
+            }
+        },
+        {
+            "+@gid": "1145917818",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yasushi Tanizawa",
+                "+@id": "2691"
+            }
+        },
+        {
+            "+@gid": "2070859336",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Toshiya Washida",
+                "+@id": "9253"
+            }
+        },
+        {
+            "+@gid": "1200831532",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yasutaka Hanabusa",
+                "+@id": "63801"
+            }
+        },
+        {
+            "+@gid": "3624251027",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hanako Kikuchi",
+                "+@id": "109791"
+            }
+        },
+        {
+            "+@gid": "1878432284",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ayako Nagasaka",
+                "+@id": "115499"
+            }
+        },
+        {
+            "+@gid": "2212644889",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kanna Hirayama",
+                "+@id": "130869"
+            }
+        },
+        {
+            "+@gid": "3721644789",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masashi Hioki",
+                "+@id": "136324"
+            }
+        },
+        {
+            "+@gid": "2297788695",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kei Naitō",
+                "+@id": "217747"
+            }
+        },
+        {
+            "+@gid": "2266482634",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazu Uzaki",
+                "+@id": "240170"
+            }
+        },
+        {
+            "+@gid": "3116744290",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Lachlan Walsh",
+                "+@id": "266198"
+            }
+        },
+        {
+            "+@gid": "577083277",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Aleksei Iatsutko",
+                "+@id": "276659"
+            }
+        },
+        {
+            "+@gid": "2778976792",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Soemy Yuka",
+                "+@id": "276805"
+            }
+        },
+        {
+            "+@gid": "2523160049",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Igor Oleynikov",
+                "+@id": "285598"
+            }
+        },
+        {
             "+@gid": "1201194900",
             "task": "Sound Director",
             "person": {
@@ -150,6 +384,38 @@
             "person": {
                 "+content": "Shintaro Sakai",
                 "+@id": "124517"
+            }
+        },
+        {
+            "+@gid": "2791619164",
+            "task": "Producer",
+            "person": {
+                "+content": "Yuri Terao",
+                "+@id": "56200"
+            }
+        },
+        {
+            "+@gid": "1409845429",
+            "task": "Producer",
+            "person": {
+                "+content": "Kōhei Matsuoka",
+                "+@id": "224419"
+            }
+        },
+        {
+            "+@gid": "1478282538",
+            "task": "Producer",
+            "person": {
+                "+content": "Kou Tachibana",
+                "+@id": "246927"
+            }
+        },
+        {
+            "+@gid": "796663527",
+            "task": "Producer",
+            "person": {
+                "+content": "Takuya Matsumoto",
+                "+@id": "266865"
             }
         }
     ],
@@ -218,6 +484,6 @@
         }
     },
     "+@date-added": "2025-09-20T04:25:34Z",
-    "+@date-last-modified-at": "2026-03-22T05:33:27Z",
-    "+@date-last-updated-at": "2026-03-22T05:33:27Z"
+    "+@date-last-modified-at": "2026-04-21T06:14:26Z",
+    "+@date-last-updated-at": "2026-04-21T06:14:26Z"
 }
