@@ -4,7 +4,11 @@
     "+@type": "ONA",
     "+@name": "ELEMON",
     "+@precision": "ONA",
-    "+@generated-on": "2026-03-22T20:45:50Z",
+    "+@generated-on": "2026-04-21T21:06:39Z",
+    "related-next": {
+        "+@id": "38880",
+        "+@rel": "sequel"
+    },
     "info": [
         {
             "+@gid": "2590940443",
@@ -331,6 +335,11 @@
             }
         }
     ],
+    "news": {
+        "+content": "<cite>Elemon</cite> Animated 'Edutainment' Series Gets 2nd Season",
+        "+@datetime": "2026-04-01T17:31:06Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-04-01/elemon-animated-edutainment-series-gets-2nd-season/.236030"
+    },
     "staff": [
         {
             "+@gid": "3132680373",
@@ -343,6 +352,14 @@
         {
             "+@gid": "2869920093",
             "task": "Series Composition",
+            "person": {
+                "+content": "Masaki Wachi",
+                "+@id": "83921"
+            }
+        },
+        {
+            "+@gid": "2031980993",
+            "task": "Script",
             "person": {
                 "+content": "Masaki Wachi",
                 "+@id": "83921"
@@ -976,5 +993,6 @@
         }
     ],
     "+@date-added": "2023-09-28T19:16:18Z",
-    "+@date-last-updated-at": "2026-03-22T20:45:53Z"
+    "+@date-last-modified-at": "2026-04-21T21:06:42Z",
+    "+@date-last-updated-at": "2026-04-21T21:06:42Z"
 }
