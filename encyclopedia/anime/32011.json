@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Wistoria: Wand and Sword",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-22T08:51:51Z",
+    "+@generated-on": "2026-04-21T09:52:55Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24984"
@@ -57,13 +57,63 @@
             "+@type": "Genres"
         },
         {
+            "+content": "comedy",
+            "+@gid": "2095855332",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "1778276395",
+            "+@type": "Genres"
+        },
+        {
             "+content": "fantasy",
             "+@gid": "2779012343",
             "+@type": "Genres"
         },
         {
+            "+content": "tournament",
+            "+@gid": "1135540805",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "monsters",
+            "+@gid": "3635650332",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "school",
+            "+@gid": "1181922626",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "3323295809",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "swordplay",
+            "+@gid": "1544449319",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "2704105988",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "Will Serfort dreams of keeping his promise to a childhood friend by becoming a Magia Vander, one of the mighty magicians who sit atop the Wizard's Tower. However, he is unable to cast even the simplest of spells, leaving him to fight dungeon monsters to earn credits at Regarden Magical Academy. As if that weren't enough, he finds himself putting his sword skills to the test against a bullying professor. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "1366319610",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "12",
+            "+@gid": "1607258353",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2024-07-07",
@@ -89,9 +139,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "124",
-        "+@weighted_score": "7.2381",
-        "+@bayesian_score": "7.25869"
+        "+@nb_votes": "126",
+        "+@weighted_score": "7.2455",
+        "+@bayesian_score": "7.26511"
     },
     "episode": [
         {
@@ -1313,7 +1363,7 @@
         {
             "+@gid": "1747698173",
             "+@lang": "FR",
-            "role": "Elfaria Albis Selfort",
+            "role": "Elfalia Albis Selfort",
             "person": {
                 "+content": "Laetitia Liénart",
                 "+@id": "68740"
@@ -1376,7 +1426,7 @@
         {
             "+@gid": "2087282183",
             "+@lang": "FR",
-            "role": "Shion Alster",
+            "role": "Shion Alstar",
             "person": {
                 "+content": "Brieuc Lemaire",
                 "+@id": "163757"
@@ -1579,9 +1629,49 @@
                 "+content": "Bandai Namco Pictures",
                 "+@id": "13900"
             }
+        },
+        {
+            "+@gid": "4122772916",
+            "task": "Production",
+            "company": {
+                "+content": "Kodansha",
+                "+@id": "88"
+            }
+        },
+        {
+            "+@gid": "1636610702",
+            "task": "Production",
+            "company": {
+                "+content": "Tokyo Broadcasting System",
+                "+@id": "552"
+            }
+        },
+        {
+            "+@gid": "1711337143",
+            "task": "Production",
+            "company": {
+                "+content": "Crunchyroll",
+                "+@id": "7606"
+            }
+        },
+        {
+            "+@gid": "2966293801",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Namco Music Live",
+                "+@id": "22617"
+            }
+        },
+        {
+            "+@gid": "2254854998",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Namco Filmworks",
+                "+@id": "22618"
+            }
         }
     ],
     "+@date-added": "2024-02-07T21:35:56Z",
-    "+@date-last-modified-at": "2026-03-22T08:51:55Z",
-    "+@date-last-updated-at": "2026-03-22T08:51:55Z"
+    "+@date-last-modified-at": "2026-04-21T09:52:59Z",
+    "+@date-last-updated-at": "2026-04-21T09:52:59Z"
 }
