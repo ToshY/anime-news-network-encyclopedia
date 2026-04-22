@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "High Card",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-03-23T17:09:44Z",
+    "+@generated-on": "2026-04-22T17:15:55Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "25414"
@@ -45,6 +45,61 @@
             "+@lang": "EN"
         },
         {
+            "+content": "action",
+            "+@gid": "3772523861",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "2424166712",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "577155803",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "2800369124",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "conspiracy",
+            "+@gid": "868774922",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "crime",
+            "+@gid": "2142981089",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "police",
+            "+@gid": "2207643251",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "secret organizations",
+            "+@gid": "2899717257",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "1274252751",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "1666824363",
+            "+@type": "Objectionable content"
+        },
+        {
+            "+content": "23",
+            "+@gid": "2998086499",
+            "+@type": "Running time"
+        },
+        {
             "+content": "12",
             "+@gid": "3135264362",
             "+@type": "Number of episodes"
@@ -64,8 +119,8 @@
     ],
     "ratings": {
         "+@nb_votes": "15",
-        "+@weighted_score": "6.218",
-        "+@bayesian_score": "6.79994"
+        "+@weighted_score": "6.2174",
+        "+@bayesian_score": "6.77456"
     },
     "review": {
         "+content": "<cite>High Card</cite> Season 2 Anime Series Review",
@@ -368,6 +423,38 @@
             "person": {
                 "+content": "Tomoyuki Kunii",
                 "+@id": "79161"
+            }
+        },
+        {
+            "+@gid": "1704658989",
+            "task": "Producer",
+            "person": {
+                "+content": "Satoshi Motonaga",
+                "+@id": "100373"
+            }
+        },
+        {
+            "+@gid": "1359265149",
+            "task": "Producer",
+            "person": {
+                "+content": "Shungo Eguchi",
+                "+@id": "147085"
+            }
+        },
+        {
+            "+@gid": "3240391211",
+            "task": "Producer",
+            "person": {
+                "+content": "Cong Cao",
+                "+@id": "204179"
+            }
+        },
+        {
+            "+@gid": "1471797959",
+            "task": "Producer",
+            "person": {
+                "+content": "Hiroki Okamoto",
+                "+@id": "248768"
             }
         }
     ],
@@ -748,6 +835,6 @@
         }
     ],
     "+@date-added": "2023-03-26T02:48:29Z",
-    "+@date-last-modified-at": "2026-03-23T17:09:51Z",
-    "+@date-last-updated-at": "2026-03-23T17:09:51Z"
+    "+@date-last-modified-at": "2026-04-22T17:16:01Z",
+    "+@date-last-updated-at": "2026-04-22T17:16:01Z"
 }
