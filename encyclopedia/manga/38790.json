@@ -4,15 +4,25 @@
     "+@type": "manga",
     "+@name": "Dragon Fist",
     "+@precision": "manga by Katayama",
-    "+@generated-on": "2026-03-23T03:24:38Z",
+    "+@generated-on": "2026-04-22T03:43:28Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "3000"
     },
-    "related-next": {
-        "+@id": "3357",
-        "+@rel": "adaptation"
-    },
+    "related-next": [
+        {
+            "+@id": "3357",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "38793",
+            "+@rel": "spinoff"
+        },
+        {
+            "+@id": "38794",
+            "+@rel": "spinoff"
+        }
+    ],
     "info": [
         {
             "+@gid": "1799748305",
@@ -75,5 +85,6 @@
         }
     },
     "+@date-added": "2026-03-22T20:28:50Z",
-    "+@date-last-updated-at": "2026-03-23T03:24:39Z"
+    "+@date-last-modified-at": "2026-04-22T03:43:31Z",
+    "+@date-last-updated-at": "2026-04-22T03:43:31Z"
 }
