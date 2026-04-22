@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Beyblade X",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-23T13:50:39Z",
+    "+@generated-on": "2026-04-22T14:10:33Z",
     "related-prev": [
         {
             "+@rel": "related to",
@@ -15,6 +15,10 @@
             "+@id": "29750"
         }
     ],
+    "related-next": {
+        "+@id": "39107",
+        "+@rel": "sequel"
+    },
     "info": [
         {
             "+@gid": "863607682",
@@ -63,7 +67,12 @@
             "+@type": "Objectionable content"
         },
         {
-            "+content": "2023-10-06",
+            "+content": "122",
+            "+@gid": "1692955366",
+            "+@type": "Number of episodes"
+        },
+        {
+            "+content": "2023-10-06 to 2026-03-27",
             "+@gid": "2841191483",
             "+@type": "Vintage"
         },
@@ -112,7 +121,7 @@
     ],
     "ratings": {
         "+@nb_votes": "3",
-        "+@weighted_score": "7.2752"
+        "+@weighted_score": "7.2751"
     },
     "episode": [
         {
@@ -2601,18 +2610,10 @@
             }
         },
         {
-            "+@gid": "2456680978",
-            "task": "Executive producer",
-            "person": {
-                "+content": "Ryo Shibata",
-                "+@id": "100357"
-            }
-        },
-        {
             "+@gid": "2681662870",
             "task": "Executive producer",
             "person": {
-                "+content": "Atsushi Ooya",
+                "+content": "Atsushi Ōya",
                 "+@id": "136212"
             }
         },
@@ -2622,6 +2623,14 @@
             "person": {
                 "+content": "Hisato Takaoka",
                 "+@id": "256596"
+            }
+        },
+        {
+            "+@gid": "2456680978",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Ryō Shibata",
+                "+@id": "296237"
             }
         },
         {
@@ -3084,6 +3093,15 @@
             "person": {
                 "+content": "Valerie Muzzi",
                 "+@id": "80050"
+            }
+        },
+        {
+            "+@gid": "2350151636",
+            "+@lang": "FR",
+            "role": "Numéro Zéro",
+            "person": {
+                "+content": "Olivier premel",
+                "+@id": "126589"
             }
         },
         {
@@ -3717,6 +3735,6 @@
         }
     ],
     "+@date-added": "2023-05-17T01:48:03Z",
-    "+@date-last-modified-at": "2026-03-23T13:50:43Z",
-    "+@date-last-updated-at": "2026-03-23T13:50:43Z"
+    "+@date-last-modified-at": "2026-04-22T14:10:36Z",
+    "+@date-last-updated-at": "2026-04-22T14:10:36Z"
 }
