@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Sentenced to Be a Hero",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-23T05:48:24Z",
+    "+@generated-on": "2026-04-22T06:11:49Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27156"
+    },
+    "related-next": {
+        "+@id": "38840",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -157,8 +161,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "9",
-        "+@weighted_score": "5.5606"
+        "+@nb_votes": "86",
+        "+@weighted_score": "7.6358",
+        "+@bayesian_score": "7.61562"
     },
     "episode": [
         {
@@ -236,17 +241,25 @@
         {
             "+@num": "10",
             "title": {
-                "+content": "Keibatsu: Yoofu Chegu Kouwan Hinan Kyuujo 1",
-                "+@gid": "1676171768",
-                "+@lang": "JA"
+                "+content": "Sentence: Aid in Evacuation of Ioff Cheg Port 1",
+                "+@gid": "2100758695",
+                "+@lang": "EN"
             }
         },
         {
             "+@num": "11",
             "title": {
-                "+content": "Keibatsu: Yoofu Chegu Kouwan Hinan Kyuujo 2",
-                "+@gid": "1315248936",
-                "+@lang": "JA"
+                "+content": "Sentence: Aid in Evacuation of Ioff Cheg Port 2",
+                "+@gid": "2626044690",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Sentence: Aid in Evacuation of Ioff Cheg Port 3",
+                "+@gid": "3040134570",
+                "+@lang": "EN"
             }
         }
     ],
@@ -335,6 +348,11 @@
             "+content": "<cite>Sentenced to Be a Hero</cite> Anime Casts Yū Sugimoto, Shinichirō Miki",
             "+@datetime": "2026-02-19T14:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-02-19/sentenced-to-be-a-hero-anime-casts-yu-sugimoto-shinichiro-miki/.234343"
+        },
+        {
+            "+content": "<cite>Sentenced to Be a Hero</cite> Anime Gets 2nd Season, Game Project",
+            "+@datetime": "2026-03-28T03:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-27/sentenced-to-be-a-hero-anime-gets-2nd-season-game-project/.235820"
         }
     ],
     "staff": [
@@ -1161,6 +1179,15 @@
             }
         },
         {
+            "+@gid": "1071606243",
+            "+@lang": "EN",
+            "role": "Rajit",
+            "person": {
+                "+content": "Nick Huber",
+                "+@id": "253890"
+            }
+        },
+        {
             "+@gid": "1624811619",
             "+@lang": "EN",
             "role": "Shiji Bau",
@@ -1492,6 +1519,15 @@
                 "+content": "Yū Sugimoto",
                 "+@id": "175585"
             }
+        },
+        {
+            "+@gid": "1965560890",
+            "+@lang": "TL",
+            "role": "Noragalle Senridge",
+            "person": {
+                "+content": "Pocholo Gonzales",
+                "+@id": "46212"
+            }
         }
     ],
     "credit": {
@@ -1503,6 +1539,6 @@
         }
     },
     "+@date-added": "2023-07-17T13:23:25Z",
-    "+@date-last-modified-at": "2026-03-23T05:48:28Z",
-    "+@date-last-updated-at": "2026-03-23T05:48:28Z"
+    "+@date-last-modified-at": "2026-04-22T06:11:52Z",
+    "+@date-last-updated-at": "2026-04-22T06:11:52Z"
 }

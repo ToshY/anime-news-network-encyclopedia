@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Fable",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-23T05:48:26Z",
+    "+@generated-on": "2026-04-22T06:11:51Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25680"
+    },
+    "related-next": {
+        "+@id": "38879",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -40,6 +44,16 @@
             "+@gid": "1367958661",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "action",
+            "+@gid": "873895541",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "assassins",
+            "+@gid": "1963072088",
+            "+@type": "Themes"
         },
         {
             "+content": "When you're the infamous prodigy hitman known only as “Fable,” many things come easy. Being a normal person, however, isn't one of them. In fact, being told that he can't kill anyone for a while may just be the hardest job Fable's ever taken... <em class=de-emphasized>(from manga)</em>",
@@ -80,8 +94,8 @@
     ],
     "ratings": {
         "+@nb_votes": "58",
-        "+@weighted_score": "7.4371",
-        "+@bayesian_score": "7.44298"
+        "+@weighted_score": "7.4373",
+        "+@bayesian_score": "7.44308"
     },
     "episode": [
         {
@@ -324,6 +338,11 @@
             "+content": "Hulu Streams <cite>Synduality: Noir</cite>, <cite>The Fable</cite> Anime's English Dub",
             "+@datetime": "2025-04-04T16:30:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-04-04/hulu-streams-synduality-noir-the-fable-anime-english-dub/.223243"
+        },
+        {
+            "+content": "<cite>The Fable</cite> TV Anime Gets 2nd Season",
+            "+@datetime": "2026-04-01T16:00:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-01/the-fable-tv-anime-gets-2nd-season/.236027"
         }
     ],
     "staff": [
@@ -743,15 +762,6 @@
             }
         },
         {
-            "+@gid": "2352809942",
-            "+@lang": "JA",
-            "role": "Shūichi Sanagawa",
-            "person": {
-                "+content": "Koujirou Takahashi",
-                "+@id": "41346"
-            }
-        },
-        {
             "+@gid": "2259551196",
             "+@lang": "JA",
             "role": "Misaki Shimizu",
@@ -831,6 +841,15 @@
                 "+content": "Yūdai Mino",
                 "+@id": "186762"
             }
+        },
+        {
+            "+@gid": "3414689756",
+            "+@lang": "JA",
+            "role": "Sōichi Sunagawa",
+            "person": {
+                "+content": "Kōjirō Takahashi",
+                "+@id": "226380"
+            }
         }
     ],
     "credit": [
@@ -860,6 +879,6 @@
         }
     ],
     "+@date-added": "2023-07-10T12:31:26Z",
-    "+@date-last-modified-at": "2026-03-23T05:48:28Z",
-    "+@date-last-updated-at": "2026-03-23T05:48:28Z"
+    "+@date-last-modified-at": "2026-04-22T06:11:52Z",
+    "+@date-last-updated-at": "2026-04-22T06:11:52Z"
 }

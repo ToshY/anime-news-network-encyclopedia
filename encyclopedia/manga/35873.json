@@ -2,9 +2,9 @@
     "+@id": "35873",
     "+@gid": "2548079618",
     "+@type": "manga",
-    "+@name": "Hoshi-kui Koroshi Egnaro",
+    "+@name": "Egnaro the Star-Eating Killer",
     "+@precision": "manga",
-    "+@generated-on": "2026-03-23T03:24:44Z",
+    "+@generated-on": "2026-04-22T06:11:46Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "4379"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "Egnaro the Star-Eating Killer",
+            "+@gid": "3170411060",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Hoshi-kui Koroshi Egnaro",
             "+@gid": "2966234837",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -63,11 +69,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Arata Yamaji's <cite>Hoshi-kui Koroshi Egnaro</cite> Manga Canceled",
-        "+@datetime": "2025-08-27T19:30:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-08-27/arata-yamaji-hoshi-kui-koroshi-egnaro-manga-canceled/.228128"
-    },
+    "news": [
+        {
+            "+content": "Arata Yamaji's <cite>Hoshi-kui Koroshi Egnaro</cite> Manga Canceled",
+            "+@datetime": "2025-08-27T19:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-08-27/arata-yamaji-hoshi-kui-koroshi-egnaro-manga-canceled/.228128"
+        },
+        {
+            "+content": "Exclusive: Titan Manga Licenses <cite>Darwin's Game</cite> Omnibus Edition, <cite>Resident Evil: Death Island</cite>, <cite>Egnaro the Star-Eating Killer</cite>, 3 More Manga",
+            "+@datetime": "2026-03-26T14:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-26/exclusive-titan-manga-licenses-darwin-game-omnibus-edition-resident-evil-death-island-egnaro-the-/.235758"
+        }
+    ],
     "staff": {
         "+@gid": "393114006",
         "task": "Story & Art",
@@ -77,5 +90,6 @@
         }
     },
     "+@date-added": "2025-04-27T13:43:17Z",
-    "+@date-last-updated-at": "2026-03-23T03:24:46Z"
+    "+@date-last-modified-at": "2026-04-22T06:11:48Z",
+    "+@date-last-updated-at": "2026-04-22T06:11:48Z"
 }
