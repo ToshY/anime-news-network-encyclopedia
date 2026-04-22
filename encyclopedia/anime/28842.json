@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Hell's Paradise",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-03-23T09:14:07Z",
+    "+@generated-on": "2026-04-22T09:53:34Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "23963"
@@ -177,8 +177,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "7",
-        "+@weighted_score": "7.9018"
+        "+@nb_votes": "64",
+        "+@weighted_score": "7.3335",
+        "+@bayesian_score": "7.35521"
     },
     "episode": [
         {
@@ -268,6 +269,14 @@
                 "+@gid": "1256678561",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "25",
+            "title": {
+                "+content": "Endings and Beginnings",
+                "+@gid": "2248169438",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -337,6 +346,174 @@
             "person": {
                 "+content": "Akira Kindaichi",
                 "+@id": "163050"
+            }
+        },
+        {
+            "+@gid": "2394023474",
+            "task": "Script",
+            "person": {
+                "+content": "Akira Kindaichi",
+                "+@id": "163050"
+            }
+        },
+        {
+            "+@gid": "2968678197",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hiroshi Hamasaki",
+                "+@id": "9693"
+            }
+        },
+        {
+            "+@gid": "1890431535",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yasuhiro Geshi",
+                "+@id": "13886"
+            }
+        },
+        {
+            "+@gid": "2242463415",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Daisuke Niitsuma",
+                "+@id": "35788"
+            }
+        },
+        {
+            "+@gid": "2519918340",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Masahiro Mukai",
+                "+@id": "75018"
+            }
+        },
+        {
+            "+@gid": "2350900142",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yuka Kuroda",
+                "+@id": "78307"
+            }
+        },
+        {
+            "+@gid": "1772439102",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ai Yoshimura",
+                "+@id": "79372"
+            }
+        },
+        {
+            "+@gid": "2359234427",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kaori Makita",
+                "+@id": "122663"
+            }
+        },
+        {
+            "+@gid": "1809023669",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Junichi Yamamoto",
+                "+@id": "156249"
+            }
+        },
+        {
+            "+@gid": "1129502565",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kayona Yamada",
+                "+@id": "177453"
+            }
+        },
+        {
+            "+@gid": "3484635990",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Iho Ishikawa",
+                "+@id": "222308"
+            }
+        },
+        {
+            "+@gid": "984692957",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hajime Ōtani",
+                "+@id": "267080"
+            }
+        },
+        {
+            "+@gid": "1392741510",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yasuhiro Geshi",
+                "+@id": "13886"
+            }
+        },
+        {
+            "+@gid": "2258461720",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Masahiro Mukai",
+                "+@id": "75018"
+            }
+        },
+        {
+            "+@gid": "2342243488",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ai Yoshimura",
+                "+@id": "79372"
+            }
+        },
+        {
+            "+@gid": "2900327238",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kaori Makita",
+                "+@id": "122663"
+            }
+        },
+        {
+            "+@gid": "1942677055",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kayona Yamada",
+                "+@id": "177453"
+            }
+        },
+        {
+            "+@gid": "2521193631",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yuka Fujiwara",
+                "+@id": "204078"
+            }
+        },
+        {
+            "+@gid": "1822967186",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Koji Hisaki",
+                "+@id": "217292"
+            }
+        },
+        {
+            "+@gid": "1709830544",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hajime Ōtani",
+                "+@id": "267080"
+            }
+        },
+        {
+            "+@gid": "1997096630",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ryōta Hoshikawa",
+                "+@id": "295413"
             }
         },
         {
@@ -883,12 +1060,30 @@
             }
         },
         {
+            "+@gid": "259461864",
+            "+@lang": "FR",
+            "role": "Shija",
+            "person": {
+                "+content": "Youna Noiret",
+                "+@id": "199036"
+            }
+        },
+        {
             "+@gid": "1715326781",
             "+@lang": "FR",
             "role": "Yuzuriha",
             "person": {
                 "+content": "Charlotte Hervieux",
                 "+@id": "199384"
+            }
+        },
+        {
+            "+@gid": "1555118759",
+            "+@lang": "FR",
+            "role": "Isuzu Yamada Asaemon",
+            "person": {
+                "+content": "Meaghan Dendrael",
+                "+@id": "207725"
             }
         },
         {
@@ -907,6 +1102,168 @@
             "person": {
                 "+content": "Mathilde Carmes",
                 "+@id": "215844"
+            }
+        },
+        {
+            "+@gid": "2334977889",
+            "+@lang": "FR",
+            "role": "Kiyomaru Yamada Asaemon",
+            "person": {
+                "+content": "Daphnée Papineau",
+                "+@id": "276881"
+            }
+        },
+        {
+            "+@gid": "3109607428",
+            "+@lang": "IT",
+            "role": "Tamiya Gantetsusai",
+            "person": {
+                "+content": "Luca Ghignone",
+                "+@id": "55299"
+            }
+        },
+        {
+            "+@gid": "1526049434",
+            "+@lang": "IT",
+            "role": "Yamada Asaemon Jikka",
+            "person": {
+                "+content": "Ruggero Andreozzi",
+                "+@id": "68702"
+            }
+        },
+        {
+            "+@gid": "1966170238",
+            "+@lang": "IT",
+            "role": "Yamada Asaemon Fuchi",
+            "person": {
+                "+content": "Stefano Pozzi",
+                "+@id": "71174"
+            }
+        },
+        {
+            "+@gid": "2660557682",
+            "+@lang": "IT",
+            "role": "Mei",
+            "person": {
+                "+content": "Valentina Pallavicino",
+                "+@id": "95302"
+            }
+        },
+        {
+            "+@gid": "2886980376",
+            "+@lang": "IT",
+            "role": "Tensen",
+            "person": {
+                "+content": "Alessandro Germano",
+                "+@id": "122882"
+            }
+        },
+        {
+            "+@gid": "3830800195",
+            "+@lang": "IT",
+            "role": "Yamada Asaemon Shion",
+            "person": {
+                "+content": "Dario Sansalone",
+                "+@id": "163008"
+            }
+        },
+        {
+            "+@gid": "2621741738",
+            "+@lang": "IT",
+            "role": "Tensen",
+            "person": {
+                "+content": "Ilaria Silvestri",
+                "+@id": "182640"
+            }
+        },
+        {
+            "+@gid": "3991159351",
+            "+@lang": "IT",
+            "role": "Yamada Asaemon Shugen",
+            "person": {
+                "+content": "Ezio Vivolo",
+                "+@id": "184736"
+            }
+        },
+        {
+            "+@gid": "3357545754",
+            "+@lang": "IT",
+            "role": "Yamada Asaemon Sagiri",
+            "person": {
+                "+content": "Chiara Leoncini",
+                "+@id": "200055"
+            }
+        },
+        {
+            "+@gid": "972567628",
+            "+@lang": "IT",
+            "role": "Yamada Asaemon Tōma",
+            "person": {
+                "+content": "Alessio Talamo",
+                "+@id": "206961"
+            }
+        },
+        {
+            "+@gid": "3245669745",
+            "+@lang": "IT",
+            "role": "Nurugai",
+            "person": {
+                "+content": "Giorgia Carnevale",
+                "+@id": "207774"
+            }
+        },
+        {
+            "+@gid": "828708763",
+            "+@lang": "IT",
+            "role": "Aza Chōbee",
+            "person": {
+                "+content": "Davide Fazio",
+                "+@id": "211164"
+            }
+        },
+        {
+            "+@gid": "1795053349",
+            "+@lang": "IT",
+            "role": "Yuzuriha",
+            "person": {
+                "+content": "Virginia Astarita",
+                "+@id": "211295"
+            }
+        },
+        {
+            "+@gid": "2045650304",
+            "+@lang": "IT",
+            "role": "Gabimaru",
+            "person": {
+                "+content": "Sebastiano Tamburrini",
+                "+@id": "216365"
+            }
+        },
+        {
+            "+@gid": "2278884350",
+            "+@lang": "IT",
+            "role": "Ayumu Murase",
+            "person": {
+                "+content": "Lorenzo Briganti",
+                "+@id": "228490"
+            }
+        },
+        {
+            "+@gid": "2324507848",
+            "+@lang": "IT",
+            "role": "Yamada Asaemon Isuzu",
+            "person": {
+                "+content": "Irene Geronimi",
+                "+@id": "294813"
+            }
+        },
+        {
+            "+@gid": "3283936235",
+            "+@lang": "IT",
+            "role": "Yamada Asaemon Kiyomaru",
+            "person": {
+                "+content": "Emanuele Niego",
+                "+@id": "296370"
             }
         },
         {
@@ -1072,6 +1429,6 @@
         }
     },
     "+@date-added": "2023-07-01T17:04:59Z",
-    "+@date-last-modified-at": "2026-03-23T09:14:14Z",
-    "+@date-last-updated-at": "2026-03-23T09:14:14Z"
+    "+@date-last-modified-at": "2026-04-22T09:53:39Z",
+    "+@date-last-updated-at": "2026-04-22T09:53:39Z"
 }
