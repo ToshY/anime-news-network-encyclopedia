@@ -4,7 +4,11 @@
     "+@type": "manga",
     "+@name": "beautiful place",
     "+@precision": "manga",
-    "+@generated-on": "2026-03-24T03:14:36Z",
+    "+@generated-on": "2026-04-23T06:17:27Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "37455"
+    },
     "info": [
         {
             "+@gid": "2546985738",
@@ -42,11 +46,32 @@
             "+@type": "Genres"
         },
         {
+            "+content": "2022-03-29",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "Comiplex",
             "+@gid": "1128938463",
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://viewer.heros-web.com/episode/3269754496293599580"
+        }
+    ],
+    "news": [
+        {
+            "+content": "<cite>Velveteen & Mandala's</cite> Jiro Matsumoto Launches New Manga",
+            "+@datetime": "2021-05-03T20:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2021-05-03/velveteen-and-mandala-jiro-matsumoto-launches-new-manga/.172402"
+        },
+        {
+            "+content": "Jiro Matsumoto's <cite>beautiful place</cite> Manga Resumes in 2023 (Updated)",
+            "+@datetime": "2022-10-15T23:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2022-10-15/jiro-matsumoto-beautiful-place-manga-resumes-in-2023/.190842"
+        },
+        {
+            "+content": "Jiro Matsumoto Resumes <cite>beautiful place</cite> Manga in June",
+            "+@datetime": "2025-04-09T13:04:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-09/jiro-matsumoto-resumes-beautiful-place-manga-in-june/.223359"
         }
     ],
     "staff": {
@@ -58,5 +83,6 @@
         }
     },
     "+@date-added": "2025-04-09T14:24:27Z",
-    "+@date-last-updated-at": "2026-03-24T03:14:38Z"
+    "+@date-last-modified-at": "2026-04-23T06:17:30Z",
+    "+@date-last-updated-at": "2026-04-23T06:17:30Z"
 }
