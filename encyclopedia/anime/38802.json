@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Komekami! Girls",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-25T03:19:36Z",
+    "+@generated-on": "2026-04-24T03:52:09Z",
     "info": [
         {
             "+@gid": "2243654494",
@@ -38,6 +38,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "supernatural",
+            "+@gid": "1691289780",
+            "+@type": "Genres"
+        },
+        {
             "+content": "2026-04-02",
             "+@gid": "2299308470",
             "+@type": "Vintage"
@@ -50,11 +55,18 @@
             "+@href": "https://komekamigirls.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Komekami! Girls</cite> Rice Mascots Get TV Anime on April 2",
-        "+@datetime": "2026-03-24T12:02:16Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-24/komekami-girls-rice-mascots-get-tv-anime-on-april-2/.235678"
-    },
+    "news": [
+        {
+            "+content": "<cite>Komekami! Girls</cite> Rice Mascots Get TV Anime on April 2",
+            "+@datetime": "2026-03-24T12:02:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-24/komekami-girls-rice-mascots-get-tv-anime-on-april-2/.235678"
+        },
+        {
+            "+content": "<cite>Komekami! Girls</cite> Anime Announces 3 More Cast Members",
+            "+@datetime": "2026-03-31T07:28:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-31/komekami-girls-anime-announces-3-more-cast-members/.235988"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2301968104",
@@ -131,6 +143,15 @@
     ],
     "cast": [
         {
+            "+@gid": "2319059932",
+            "+@lang": "JA",
+            "role": "Rice Goddess Queen (Hana Koshino)",
+            "person": {
+                "+content": "Noriko Hidaka",
+                "+@id": "282"
+            }
+        },
+        {
             "+@gid": "2250567951",
             "+@lang": "JA",
             "role": "Okoge Oniyama",
@@ -182,6 +203,15 @@
             "person": {
                 "+content": "Misa Segawa",
                 "+@id": "285544"
+            }
+        },
+        {
+            "+@gid": "2674091090",
+            "+@lang": "JA",
+            "role": "Demon King Zangi",
+            "person": {
+                "+content": "Ryūma Tanizawa",
+                "+@id": "292297"
             }
         },
         {
@@ -255,6 +285,15 @@
                 "+content": "Ayaka Tamaki",
                 "+@id": "295133"
             }
+        },
+        {
+            "+@gid": "2247085417",
+            "+@lang": "JA",
+            "role": "Chief Priest of Momiji Hachimangu Shrine",
+            "person": {
+                "+content": "Yū Saitō",
+                "+@id": "295325"
+            }
         }
     ],
     "credit": [
@@ -284,5 +323,6 @@
         }
     ],
     "+@date-added": "2026-03-24T21:38:29Z",
-    "+@date-last-updated-at": "2026-03-25T03:19:37Z"
+    "+@date-last-modified-at": "2026-04-24T03:52:15Z",
+    "+@date-last-updated-at": "2026-04-24T03:52:15Z"
 }
