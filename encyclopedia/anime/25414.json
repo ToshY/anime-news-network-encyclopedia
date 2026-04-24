@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "High Card",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-25T17:17:51Z",
+    "+@generated-on": "2026-04-24T21:07:13Z",
     "related-next": {
         "+@id": "27640",
         "+@rel": "sequel"
@@ -41,9 +41,69 @@
             "+@lang": "EN"
         },
         {
+            "+content": "action",
+            "+@gid": "2853560112",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "1644420075",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "2533846031",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "2943966249",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "conspiracy",
+            "+@gid": "2578821500",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "crime",
+            "+@gid": "1070409410",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "police",
+            "+@gid": "1260865454",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "secret organizations",
+            "+@gid": "2271524728",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "1630951372",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "3529753095",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "After discovering that his orphanage was on the brink of closing due to financial stress, Finn, who was living freely on the streets, set out for a casino with the aim of making a fortune. However, nothing could have prepared Finn for the nightmare that was awaiting him. The world order can be controlled by a set of 52 X-Playing cards with the power to bestow different superhuman powers and abilities to the ones that possess them. With these cards, people can access the hidden power of the “buddy” that can be found within themselves. There is a secret group of players called High Card, who have been directly ordered by the king of Fourland to collect the cards that have been scattered throughout the kingdom, while moonlighting as employees of the luxury car maker Pinochle.",
             "+@gid": "2860415648",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "1540111503",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "12",
+            "+@gid": "1522376314",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2023-01-09",
@@ -70,8 +130,8 @@
     ],
     "ratings": {
         "+@nb_votes": "91",
-        "+@weighted_score": "6.2234",
-        "+@bayesian_score": "6.3794"
+        "+@weighted_score": "6.2236",
+        "+@bayesian_score": "6.36893"
     },
     "episode": [
         {
@@ -595,6 +655,38 @@
                 "+content": "Tomoyuki Kunii",
                 "+@id": "79161"
             }
+        },
+        {
+            "+@gid": "2572925823",
+            "task": "Producer",
+            "person": {
+                "+content": "Satoshi Motonaga",
+                "+@id": "100373"
+            }
+        },
+        {
+            "+@gid": "1922877789",
+            "task": "Producer",
+            "person": {
+                "+content": "Shungo Eguchi",
+                "+@id": "147085"
+            }
+        },
+        {
+            "+@gid": "2287565405",
+            "task": "Producer",
+            "person": {
+                "+content": "Cong Cao",
+                "+@id": "204179"
+            }
+        },
+        {
+            "+@gid": "863264242",
+            "task": "Producer",
+            "person": {
+                "+content": "Hiroki Okamoto",
+                "+@id": "248768"
+            }
         }
     ],
     "cast": [
@@ -924,6 +1016,6 @@
         }
     ],
     "+@date-added": "2022-03-08T04:24:17Z",
-    "+@date-last-modified-at": "2026-03-25T17:17:57Z",
-    "+@date-last-updated-at": "2026-03-25T17:17:57Z"
+    "+@date-last-modified-at": "2026-04-24T21:07:19Z",
+    "+@date-last-updated-at": "2026-04-24T21:07:19Z"
 }
