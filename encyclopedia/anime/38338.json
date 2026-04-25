@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Onegai AiPri",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-26T03:28:10Z",
+    "+@generated-on": "2026-04-25T03:33:03Z",
     "related-prev": [
         {
             "+@rel": "related to",
@@ -17,26 +17,21 @@
     ],
     "info": [
         {
-            "+@gid": "2280238781",
+            "+@gid": "1579360436",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38338-2280238781.1772092013.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38338-1579360436.1776259136.jpg",
+            "+@width": "140",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38338-2280238781.1772092013.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38338-1579360436.1776259136.jpg",
+                    "+@width": "140",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38338-2280238781.1772092013.jpg",
-                    "+@width": "425",
-                    "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38338-2280238781.1772092013.jpg",
-                    "+@width": "850",
-                    "+@height": "1200"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38338-1579360436.1776259136.jpg",
+                    "+@width": "350",
+                    "+@height": "500"
                 }
             ]
         },
@@ -51,6 +46,21 @@
             "+@gid": "1524724836",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "magic",
+            "+@gid": "2979022152",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "idols",
+            "+@gid": "2383891045",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "music",
+            "+@gid": "1505951536",
+            "+@type": "Themes"
         },
         {
             "+content": "Inori Konomi is a first year middle school student who just moved to the town of Onegai. At the town's plaza, Inori prayed to the goddess statue to give her a chance to be an AiPri. After she prayed, she accidentally meets the famous AiPri Aoi Yumemiya and a mysterious talking stuffed toy with her named Fōchū. It turns out that Fōchū is looking for an AiPri who can make their wish come true, and when Inori opened the special mirror pact that Aoi handed her, she gets the AiPri debut that she prayed for.",
@@ -73,11 +83,21 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "『おねがいアイプリ』 アニメ特設ページ",
+            "+content": "\"Dream Colored Believer\" by Rika Kanaya (eps 1,2,3)",
+            "+@gid": "2875422776",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Tokimeki Jump\" By Hanaka Ogawa (eps 1,2,3)",
+            "+@gid": "3625700166",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "『おねがいアイプリ』",
             "+@gid": "2910685589",
             "+@type": "Official website",
             "+@lang": "JA",
-            "+@href": "https://aipri.jp/anime/special/onegai/"
+            "+@href": "https://aipri.jp/anime/"
         }
     ],
     "news": [
@@ -224,12 +244,57 @@
     ],
     "cast": [
         {
+            "+@gid": "1904770727",
+            "+@lang": "JA",
+            "role": "Karen Yoshimi",
+            "person": {
+                "+content": "Rei Igarashi",
+                "+@id": "3588"
+            }
+        },
+        {
+            "+@gid": "2183828222",
+            "+@lang": "JA",
+            "role": "Minoru Konomi",
+            "person": {
+                "+content": "Kazuya Ichijō",
+                "+@id": "4868"
+            }
+        },
+        {
             "+@gid": "1659716303",
             "+@lang": "JA",
             "role": "MC Priusa",
             "person": {
                 "+content": "Showtaro Morikubo",
                 "+@id": "21911"
+            }
+        },
+        {
+            "+@gid": "3546250535",
+            "+@lang": "JA",
+            "role": "Koharu Hanasaki",
+            "person": {
+                "+content": "Natsumi Abe",
+                "+@id": "41942"
+            }
+        },
+        {
+            "+@gid": "3117628929",
+            "+@lang": "JA",
+            "role": "Principal",
+            "person": {
+                "+content": "Kōji Yusa",
+                "+@id": "51073"
+            }
+        },
+        {
+            "+@gid": "2514186534",
+            "+@lang": "JA",
+            "role": "Meganee Akai",
+            "person": {
+                "+content": "Kanae Itō",
+                "+@id": "66684"
             }
         },
         {
@@ -251,12 +316,66 @@
             }
         },
         {
+            "+@gid": "1160637180",
+            "+@lang": "JA",
+            "role": "Chikwa",
+            "person": {
+                "+content": "Miharu Hanai",
+                "+@id": "154342"
+            }
+        },
+        {
+            "+@gid": "1480515642",
+            "+@lang": "JA",
+            "role": "Narrator",
+            "person": {
+                "+content": "Miharu Hanai",
+                "+@id": "154342"
+            }
+        },
+        {
+            "+@gid": "1845400512",
+            "+@lang": "JA",
+            "role": "Takami Sensei",
+            "person": {
+                "+content": "Yumika Yano",
+                "+@id": "173192"
+            }
+        },
+        {
             "+@gid": "1634292367",
             "+@lang": "JA",
             "role": "Gumi Tomosaka",
             "person": {
                 "+content": "Wakana Maruoka",
                 "+@id": "183784"
+            }
+        },
+        {
+            "+@gid": "2443164880",
+            "+@lang": "JA",
+            "role": "Hiori Moko",
+            "person": {
+                "+content": "Marika Suzuki",
+                "+@id": "188585"
+            }
+        },
+        {
+            "+@gid": "3044205392",
+            "+@lang": "JA",
+            "role": "Minami Fumika",
+            "person": {
+                "+content": "Fūka Izumi",
+                "+@id": "201580"
+            }
+        },
+        {
+            "+@gid": "3008059215",
+            "+@lang": "JA",
+            "role": "Purineko",
+            "person": {
+                "+content": "Fūka Izumi",
+                "+@id": "201580"
             }
         },
         {
@@ -294,6 +413,33 @@
                 "+content": "Hanaka Ogawa",
                 "+@id": "294149"
             }
+        },
+        {
+            "+@gid": "320812561",
+            "+@lang": "JA",
+            "role": "Riori",
+            "person": {
+                "+content": "Rio Orino",
+                "+@id": "295384"
+            }
+        },
+        {
+            "+@gid": "2253273320",
+            "+@lang": "JA",
+            "role": "Azumin",
+            "person": {
+                "+content": "Nao Azumi",
+                "+@id": "295386"
+            }
+        },
+        {
+            "+@gid": "2159333040",
+            "+@lang": "JA",
+            "role": "Kyouka",
+            "person": {
+                "+content": "Kyouka Kikkawa",
+                "+@id": "295387"
+            }
         }
     ],
     "credit": [
@@ -315,6 +461,6 @@
         }
     ],
     "+@date-added": "2026-01-21T16:48:59Z",
-    "+@date-last-modified-at": "2026-03-26T03:28:18Z",
-    "+@date-last-updated-at": "2026-03-26T03:28:18Z"
+    "+@date-last-modified-at": "2026-04-25T03:33:07Z",
+    "+@date-last-updated-at": "2026-04-25T03:33:07Z"
 }
