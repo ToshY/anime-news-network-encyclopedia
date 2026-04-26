@@ -4,8 +4,36 @@
     "+@type": "manga",
     "+@name": "Gal-kun Will Definitely Fall in Love!",
     "+@precision": "manga",
-    "+@generated-on": "2026-03-27T09:08:42Z",
+    "+@generated-on": "2026-04-26T17:03:44Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "20821"
+    },
     "info": [
+        {
+            "+@gid": "3385350197",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34636-3385350197.1776038437.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34636-3385350197.1776038437.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34636-3385350197.1776038437.jpg",
+                    "+@width": "422",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34636-3385350197.1776038437.jpg",
+                    "+@width": "1054",
+                    "+@height": "1500"
+                }
+            ]
+        },
         {
             "+content": "Gal-kun Will Definitely Fall in Love!",
             "+@gid": "754854526",
@@ -28,6 +56,11 @@
             "+content": "romance",
             "+@gid": "2081038739",
             "+@type": "Genres"
+        },
+        {
+            "+content": "2021-12-30 (serialized on pixiv)",
+            "+@gid": "963169698",
+            "+@type": "Vintage"
         }
     ],
     "news": {
@@ -44,5 +77,6 @@
         }
     },
     "+@date-added": "2025-02-09T13:17:24Z",
-    "+@date-last-updated-at": "2026-03-27T09:08:44Z"
+    "+@date-last-modified-at": "2026-04-26T17:03:45Z",
+    "+@date-last-updated-at": "2026-04-26T17:03:45Z"
 }

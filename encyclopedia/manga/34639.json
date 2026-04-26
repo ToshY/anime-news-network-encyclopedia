@@ -4,8 +4,36 @@
     "+@type": "manga",
     "+@name": "Melting Strawberry Kiss",
     "+@precision": "manga",
-    "+@generated-on": "2026-03-27T09:08:42Z",
+    "+@generated-on": "2026-04-26T17:03:43Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "39015"
+    },
     "info": [
+        {
+            "+@gid": "3199835367",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34639-3199835367.1776105845.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34639-3199835367.1776105845.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34639-3199835367.1776105845.jpg",
+                    "+@width": "422",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34639-3199835367.1776105845.jpg",
+                    "+@width": "1054",
+                    "+@height": "1500"
+                }
+            ]
+        },
         {
             "+content": "Melting Strawberry Kiss",
             "+@gid": "2194982168",
@@ -28,6 +56,11 @@
             "+content": "romance",
             "+@gid": "1427403683",
             "+@type": "Genres"
+        },
+        {
+            "+content": "2022-12-22 (serialized in Daria, Feb 2023)",
+            "+@gid": "2838600730",
+            "+@type": "Vintage"
         }
     ],
     "news": {
@@ -44,5 +77,6 @@
         }
     },
     "+@date-added": "2025-02-09T13:33:43Z",
-    "+@date-last-updated-at": "2026-03-27T09:08:44Z"
+    "+@date-last-modified-at": "2026-04-26T17:03:45Z",
+    "+@date-last-updated-at": "2026-04-26T17:03:45Z"
 }

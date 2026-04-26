@@ -4,8 +4,36 @@
     "+@type": "manga",
     "+@name": "Kabukicho Bad Trip",
     "+@precision": "manga",
-    "+@generated-on": "2026-03-27T05:51:25Z",
+    "+@generated-on": "2026-04-26T17:03:43Z",
+    "related-next": {
+        "+@id": "34637",
+        "+@rel": "spinoff"
+    },
     "info": [
+        {
+            "+@gid": "2386591687",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34642-2386591687.1776051656.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34642-2386591687.1776051656.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34642-2386591687.1776051656.jpg",
+                    "+@width": "422",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34642-2386591687.1776051656.jpg",
+                    "+@width": "1054",
+                    "+@height": "1500"
+                }
+            ]
+        },
         {
             "+content": "Kabukicho Bad Trip",
             "+@gid": "2723298958",
@@ -17,13 +45,44 @@
             "+@gid": "3023186978",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "1950995088",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "2020-06-25 to 2020-07-16 (vol. 1 in Byō de Wakaru BL: Kokoro ga Yomeru, vols. 1-6)",
+            "+@gid": "1925381313",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2021-01-28 to 2021-11-25 (vol. 2 distributed digitally)",
+            "+@gid": "1834766596",
+            "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "animate International Reveals 8 Digital Boys-Love Manga Licenses, 3 Print Licenses",
-        "+@datetime": "2024-09-30T03:30:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-09-29/animate-international-reveals-8-digital-boys-love-manga-licenses-3-print-licenses/.216138"
+    "news": [
+        {
+            "+content": "North American Anime, Manga Releases, December 19-25",
+            "+@datetime": "2021-12-21T22:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2021-12-21/north-american-anime-manga-releases-december-19-25/.180876"
+        },
+        {
+            "+content": "animate International Reveals 8 Digital Boys-Love Manga Licenses, 3 Print Licenses",
+            "+@datetime": "2024-09-30T03:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-09-29/animate-international-reveals-8-digital-boys-love-manga-licenses-3-print-licenses/.216138"
+        }
+    ],
+    "staff": {
+        "+@gid": "2277024837",
+        "task": "Story & Art",
+        "person": {
+            "+content": "Eiji Nagisa",
+            "+@id": "295896"
+        }
     },
     "+@date-added": "2025-02-09T13:46:25Z",
-    "+@date-last-updated-at": "2026-03-27T05:51:26Z"
+    "+@date-last-modified-at": "2026-04-26T17:03:45Z",
+    "+@date-last-updated-at": "2026-04-26T17:03:45Z"
 }

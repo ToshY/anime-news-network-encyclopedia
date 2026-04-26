@@ -4,13 +4,47 @@
     "+@type": "manga",
     "+@name": "Kimi no Sumire: Your Spring Flower",
     "+@precision": "manga",
-    "+@generated-on": "2026-03-27T09:08:42Z",
+    "+@generated-on": "2026-04-26T17:03:43Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "39015"
+    },
     "info": [
+        {
+            "+@gid": "2033829418",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34638-2033829418.1776054051.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34638-2033829418.1776054051.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34638-2033829418.1776054051.jpg",
+                    "+@width": "422",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34638-2033829418.1776054051.jpg",
+                    "+@width": "1055",
+                    "+@height": "1500"
+                }
+            ]
+        },
         {
             "+content": "Kimi no Sumire: Your Spring Flower",
             "+@gid": "3059386022",
             "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Kimi no Sumire",
+            "+@gid": "3202947862",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
         },
         {
             "+content": "きみの春花",
@@ -22,6 +56,21 @@
             "+content": "romance",
             "+@gid": "2083010608",
             "+@type": "Genres"
+        },
+        {
+            "+content": "2019-08-22 to 2020-08-21 (vol. 1 in Daria, Oct 2019 - Oct 2020)",
+            "+@gid": "2058342998",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2021-12-22 to 2023-02-22 (vol. 2 in Daria, Feb 2022 - Apr 2023)",
+            "+@gid": "2976367978",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-02-21 to 2025-12-22 (vol. 3 in Daria, Apr 2025 - Feb 2026)",
+            "+@gid": "2379255095",
+            "+@type": "Vintage"
         }
     ],
     "news": {
@@ -38,5 +87,6 @@
         }
     },
     "+@date-added": "2025-02-09T13:30:00Z",
-    "+@date-last-updated-at": "2026-03-27T09:08:44Z"
+    "+@date-last-modified-at": "2026-04-26T17:03:45Z",
+    "+@date-last-updated-at": "2026-04-26T17:03:45Z"
 }
