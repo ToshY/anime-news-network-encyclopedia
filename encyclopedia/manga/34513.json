@@ -4,17 +4,53 @@
     "+@type": "manga",
     "+@name": "Cupid ni Rakurai Tsuigeki",
     "+@precision": "manga",
-    "+@generated-on": "2026-03-27T17:11:41Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "34512"
-    },
+    "+@generated-on": "2026-04-27T04:00:54Z",
+    "related-prev": [
+        {
+            "+@rel": "sequel of",
+            "+@id": "34512"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "39007"
+        }
+    ],
     "info": [
+        {
+            "+@gid": "2209259265",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34513-2209259265.1776000452.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34513-2209259265.1776000452.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34513-2209259265.1776000452.jpg",
+                    "+@width": "423",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34513-2209259265.1776000452.jpg",
+                    "+@width": "1058",
+                    "+@height": "1500"
+                }
+            ]
+        },
         {
             "+content": "Cupid ni Rakurai Tsuigeki",
             "+@gid": "1611127813",
             "+@type": "Main title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "Cupid Is Struck by Lightning Vol. 2",
+            "+@gid": "1445469919",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
         },
         {
             "+content": "キューピッドに落雷 追撃",
@@ -42,5 +78,6 @@
         }
     },
     "+@date-added": "2025-01-31T15:20:51Z",
-    "+@date-last-updated-at": "2026-03-27T17:11:43Z"
+    "+@date-last-modified-at": "2026-04-27T04:00:55Z",
+    "+@date-last-updated-at": "2026-04-27T04:00:55Z"
 }
