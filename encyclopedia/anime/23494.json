@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Umayon",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-29T03:38:01Z",
+    "+@generated-on": "2026-04-28T17:57:09Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "23495"
@@ -72,17 +72,17 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "#1: \"Pyoitto♪ Hallelujah!\" (ぴょいっと♪はれるや!) by Azumi Waki, Akari Kitō, Iori Saeki, Minami Takahashi, and Rena Maeda (eps 1-4)",
+            "+content": "#1: \"Pyoitto♪ Hareruya!\" (ぴょいっと♪はれるや!; Hoppity Sunny Days!) by Azumi Waki, Akari Kitō, Iori Saeki, Minami Takahashi, and Rena Maeda (eps 1-4, 13-16)",
             "+@gid": "1826510428",
             "+@type": "Ending Theme"
         },
         {
-            "+content": "#2: \"Ring Ring Diary\" (Ring Ring ダイアリー) by Machico, Azusa Tadokoro, Ruriko Aoki, Eriko Matsui, and Yuko Tatsumi (eps 5-8)",
+            "+content": "#2: \"Ring Ring Diary\" (Ring Ring ダイアリー) by Machico, Azusa Tadokoro, Ruriko Aoki, Eriko Matsui, and Yuko Tatsumi (eps 5-8, 17-20)",
             "+@gid": "932379393",
             "+@type": "Ending Theme"
         },
         {
-            "+content": "#3: \"Nigekiri! Fallin' Love\" (逃げ切りっ! Fallin' Love; Getaway! Fallin' Love) by Marika Kōno, Hitomi Ohwada, Ikumi Hasegawa, Lynn, and Tomomi Mineuchi (eps 9-10, 12)",
+            "+content": "#3: \"Nigekiri! Fallin' Love\" (逃げ切りっ! Fallin' Love; Getaway! Fallin' Love) by Marika Kōno, Hitomi Ohwada, Ikumi Hasegawa, Lynn, and Tomomi Mineuchi (eps 9-10, 12, 21-24)",
             "+@gid": "1285412126",
             "+@type": "Ending Theme"
         },
@@ -96,8 +96,8 @@
     ],
     "ratings": {
         "+@nb_votes": "20",
-        "+@weighted_score": "6.3712",
-        "+@bayesian_score": "6.80461"
+        "+@weighted_score": "6.3714",
+        "+@bayesian_score": "6.78371"
     },
     "episode": [
         {
@@ -391,12 +391,75 @@
             }
         },
         {
+            "+@gid": "3402712990",
+            "+@lang": "JA",
+            "role": "Manhattan Cafe",
+            "person": {
+                "+content": "Yui Ogura",
+                "+@id": "84095"
+            }
+        },
+        {
+            "+@gid": "4098065444",
+            "+@lang": "JA",
+            "role": "T. M. Opera O",
+            "person": {
+                "+content": "Sora Tokui",
+                "+@id": "94469"
+            }
+        },
+        {
+            "+@gid": "1862141003",
+            "+@lang": "JA",
+            "role": "Winning Ticket",
+            "person": {
+                "+content": "Yui Watanabe",
+                "+@id": "97897"
+            }
+        },
+        {
+            "+@gid": "1953751124",
+            "+@lang": "JA",
+            "role": "Biwa Hayahide",
+            "person": {
+                "+content": "Yui Kondō",
+                "+@id": "99742"
+            }
+        },
+        {
+            "+@gid": "1569267800",
+            "+@lang": "JA",
+            "role": "Agnes Tachyon",
+            "person": {
+                "+content": "Sumire Uesaka",
+                "+@id": "106108"
+            }
+        },
+        {
+            "+@gid": "2156643257",
+            "+@lang": "JA",
+            "role": "El Condor Pasa",
+            "person": {
+                "+content": "Minami Takahashi",
+                "+@id": "112346"
+            }
+        },
+        {
             "+@gid": "1135580868",
             "+@lang": "JA",
             "role": "Symboli Rudolf",
             "person": {
                 "+content": "Azusa Tadokoro",
                 "+@id": "112367"
+            }
+        },
+        {
+            "+@gid": "321791610",
+            "+@lang": "JA",
+            "role": "Mejiro McQueen",
+            "person": {
+                "+content": "Saori Ōnishi",
+                "+@id": "112494"
             }
         },
         {
@@ -418,6 +481,15 @@
             }
         },
         {
+            "+@gid": "2994465521",
+            "+@lang": "JA",
+            "role": "Tamamo Cross",
+            "person": {
+                "+content": "Naomi Ōzora",
+                "+@id": "120825"
+            }
+        },
+        {
             "+@gid": "2684087509",
             "+@lang": "JA",
             "role": "Smart Falcon",
@@ -433,6 +505,15 @@
             "person": {
                 "+content": "Chinami Hashimoto",
                 "+@id": "125189"
+            }
+        },
+        {
+            "+@gid": "1391492110",
+            "+@lang": "JA",
+            "role": "Super Creek",
+            "person": {
+                "+content": "Kana Yūki",
+                "+@id": "127401"
             }
         },
         {
@@ -472,6 +553,24 @@
             }
         },
         {
+            "+@gid": "1443010991",
+            "+@lang": "JA",
+            "role": "Narita Taishin",
+            "person": {
+                "+content": "Keiko Watanabe",
+                "+@id": "135636"
+            }
+        },
+        {
+            "+@gid": "2087219089",
+            "+@lang": "JA",
+            "role": "Oguri Cap",
+            "person": {
+                "+content": "Tomoyo Takayanagi",
+                "+@id": "140021"
+            }
+        },
+        {
             "+@gid": "854425757",
             "+@lang": "JA",
             "role": "Gold Ship",
@@ -481,12 +580,39 @@
             }
         },
         {
+            "+@gid": "3043668666",
+            "+@lang": "JA",
+            "role": "Mayano Top Gun",
+            "person": {
+                "+content": "Mio Hoshitani",
+                "+@id": "152124"
+            }
+        },
+        {
             "+@gid": "1936325359",
             "+@lang": "JA",
             "role": "Ines Fujin",
             "person": {
                 "+content": "Tomomi Mineuchi",
                 "+@id": "156588"
+            }
+        },
+        {
+            "+@gid": "4034423033",
+            "+@lang": "JA",
+            "role": "Haru Urara",
+            "person": {
+                "+content": "Yukina Shutō",
+                "+@id": "168678"
+            }
+        },
+        {
+            "+@gid": "1458351348",
+            "+@lang": "JA",
+            "role": "Eishin Flash",
+            "person": {
+                "+content": "Ayami Fujino",
+                "+@id": "177661"
             }
         }
     ],
@@ -517,6 +643,6 @@
         }
     ],
     "+@date-added": "2020-07-07T18:52:52Z",
-    "+@date-last-modified-at": "2026-03-29T03:38:02Z",
-    "+@date-last-updated-at": "2026-03-29T03:38:02Z"
+    "+@date-last-modified-at": "2026-04-28T17:57:11Z",
+    "+@date-last-updated-at": "2026-04-28T17:57:11Z"
 }
