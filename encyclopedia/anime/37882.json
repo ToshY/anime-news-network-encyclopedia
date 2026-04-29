@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "MARRIAGETOXIN",
     "+@precision": "TV",
-    "+@generated-on": "2026-03-30T09:33:09Z",
+    "+@generated-on": "2026-04-29T10:19:34Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25739"
@@ -58,9 +58,44 @@
             "+@type": "Genres"
         },
         {
+            "+content": "comedy",
+            "+@gid": "2027321561",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "797014839",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "3435250060",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "thriller",
+            "+@gid": "2052128180",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "assassins",
+            "+@gid": "2244744270",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "2843822937",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "For centuries, the deadly arts have been perfected by Masters, and Five Great Families hold the greatest power and influence. Hikaru Gero, an heir to the Gero family, lives in the underworld as an elite assassin. When his sister is pressured to produce an heir, Hikaru asks Mei Kinosaki, a brilliant marriage swindler, to find him a bride.",
             "+@gid": "1850796998",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "2574913547",
+            "+@type": "Running time"
         },
         {
             "+content": "2026-04-07",
@@ -90,6 +125,52 @@
             "+@type": "Official website",
             "+@lang": "EN",
             "+@href": "https://www.marriagetoxin-anime.com/en/index.html"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "4.1841"
+    },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "The Poison Master's Search for a Bride",
+                "+@gid": "2919692070",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "What Is \"Charm,\" Anyway?",
+                "+@gid": "2231197629",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "My First",
+                "+@gid": "1888013200",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "The Sound Master",
+                "+@gid": "1075474886",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "Kuradoni-sama",
+                "+@gid": "3374489267",
+                "+@lang": "JA"
+            }
         }
     ],
     "news": [
@@ -132,6 +213,11 @@
             "+content": "Crunchyroll Simulcasts <cite>Agents of the Four Seasons</cite>, <cite>The Food Diary of Miss Maid</cite>, More Anime in India",
             "+@datetime": "2026-03-29T09:47:58Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-03-29/crunchyroll-simulcasts-agents-of-the-four-seasons-the-food-diary-of-miss-maid-more-anime-in-india/.235819"
+        },
+        {
+            "+content": "<cite>Marriage Toxin</cite> Anime Reveals English Dub Cast",
+            "+@datetime": "2026-04-21T20:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-21/marriage-toxin-anime-reveals-english-dub-cast/.236646"
         }
     ],
     "staff": [
@@ -200,6 +286,14 @@
             }
         },
         {
+            "+@gid": "2398388878",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yūki Yokoyama",
+                "+@id": "225384"
+            }
+        },
+        {
             "+@gid": "1813050896",
             "task": "Chief Animation Director",
             "person": {
@@ -241,6 +335,60 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "810351511",
+            "+@lang": "EN",
+            "role": "Mei Kinosaki",
+            "person": {
+                "+content": "Brittney Karbowski",
+                "+@id": "44595"
+            }
+        },
+        {
+            "+@gid": "2789174404",
+            "+@lang": "EN",
+            "role": "Hikaru Gero",
+            "person": {
+                "+content": "Ethan Gallardo",
+                "+@id": "147405"
+            }
+        },
+        {
+            "+@gid": "1374780511",
+            "+@lang": "EN",
+            "role": "Akari Gero",
+            "person": {
+                "+content": "Taylor Murphy",
+                "+@id": "246277"
+            }
+        },
+        {
+            "+@gid": "2799786774",
+            "+@lang": "ES",
+            "role": "Mei Kinosaki",
+            "person": {
+                "+content": "Nycolle González",
+                "+@id": "121463"
+            }
+        },
+        {
+            "+@gid": "1167753430",
+            "+@lang": "ES",
+            "role": "Hikaru Gero",
+            "person": {
+                "+content": "Dave Ramos",
+                "+@id": "161967"
+            }
+        },
+        {
+            "+@gid": "3221539551",
+            "+@lang": "ES",
+            "role": "Akari Gero",
+            "person": {
+                "+content": "Polly Huerta",
+                "+@id": "208905"
+            }
+        },
         {
             "+@gid": "1217037356",
             "+@lang": "JA",
@@ -341,6 +489,6 @@
         }
     },
     "+@date-added": "2025-09-30T18:29:02Z",
-    "+@date-last-modified-at": "2026-03-30T09:48:53Z",
-    "+@date-last-updated-at": "2026-03-30T09:48:53Z"
+    "+@date-last-modified-at": "2026-04-29T10:19:36Z",
+    "+@date-last-updated-at": "2026-04-29T10:19:36Z"
 }
