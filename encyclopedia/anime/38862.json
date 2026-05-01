@@ -3,8 +3,8 @@
     "+@gid": "2282032393",
     "+@type": "ONA",
     "+@name": "Midori no Makibao x Uma Musume",
-    "+@precision": "ONA",
-    "+@generated-on": "2026-04-01T03:45:49Z",
+    "+@precision": "ONA promo",
+    "+@generated-on": "2026-05-01T04:19:09Z",
     "related-prev": [
         {
             "+@rel": "related to",
@@ -53,6 +53,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "slice of life",
+            "+@gid": "1851222155",
+            "+@type": "Genres"
+        },
+        {
             "+content": "tournament",
             "+@gid": "2872302788",
             "+@type": "Genres"
@@ -68,9 +73,19 @@
             "+@type": "Themes"
         },
         {
-            "+content": "OC",
+            "+content": "AA",
             "+@gid": "2568514303",
             "+@type": "Objectionable content"
+        },
+        {
+            "+content": "Midori Makibao visits Tracen Academy and meets Tokai Teio before proposing to do a collaboration project with the <i>Uma Musume</i> franchise to celebrate the 30th anniversary of his anime series and the fifth anniversary of the <i>Uma Musume Pretty Derby</i> video game.",
+            "+@gid": "2155305191",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "6",
+            "+@gid": "1541599937",
+            "+@type": "Running time"
         },
         {
             "+content": "2026-04-01",
@@ -78,7 +93,7 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "\"Hashire xxo\" (走れOOオー; Run, xxo\") by Inuko Inuyama, Machico, Ruriko Noguchi, Sora Tokui, Riko Akechi, Sachika Misawa, and Yumiko Mochizuki",
+            "+content": "\"Hashire xxo\" (走れOOオー; Run, xxo\") by Inuko Inuyama, Machico, Sora Tokui, Ruriko Noguchi, Riko Akechi, Sachika Misawa, and Yumiko Mochizuki",
             "+@gid": "1873502502",
             "+@type": "Opening Theme"
         },
@@ -88,6 +103,11 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "\"Hachimi no Uta\" (はちみーのうた; Honey Song) by Machico",
+            "+@gid": "772029648",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "『みどりのマキバオー』×『ウマ娘』特設サイト",
             "+@gid": "2253476272",
             "+@type": "Official website",
@@ -95,48 +115,110 @@
             "+@href": "https://makibao.umamusume.jp/"
         }
     ],
-    "staff": {
-        "+@gid": "3283415341",
-        "task": "Original creator",
-        "person": {
-            "+content": "Tsunomaru",
-            "+@id": "9671"
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "7"
+    },
+    "episode": {
+        "+@num": "0",
+        "title": {
+            "+content": "The Encounter of the \"O\"s",
+            "+@gid": "2041941300",
+            "+@lang": "EN"
         }
     },
-    "credit": [
+    "staff": [
         {
-            "+@gid": "3157763302",
-            "task": "Production",
-            "company": {
-                "+content": "Studio Pierrot",
-                "+@id": "118"
+            "+@gid": "2083354310",
+            "task": "Music",
+            "person": {
+                "+content": "Kengo Osada",
+                "+@id": "295685"
             }
         },
         {
-            "+@gid": "2071617512",
-            "task": "Production",
-            "company": {
-                "+content": "Shueisha",
-                "+@id": "909"
-            }
-        },
-        {
-            "+@gid": "1782396143",
-            "task": "Production",
-            "company": {
-                "+content": "Cygames",
-                "+@id": "12590"
-            }
-        },
-        {
-            "+@gid": "1903605690",
-            "task": "Production",
-            "company": {
-                "+content": "Studio Shogun",
-                "+@id": "27622"
+            "+@gid": "3283415341",
+            "task": "Original creator",
+            "person": {
+                "+content": "Tsunomaru",
+                "+@id": "9671"
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "1188459423",
+            "+@lang": "JA",
+            "role": "Midori Makibao",
+            "person": {
+                "+content": "Inuko Inuyama",
+                "+@id": "3900"
+            }
+        },
+        {
+            "+@gid": "1883787828",
+            "+@lang": "JA",
+            "role": "Sakura Bakushin O",
+            "person": {
+                "+content": "Sachika Misawa",
+                "+@id": "75719"
+            }
+        },
+        {
+            "+@gid": "1133300224",
+            "+@lang": "JA",
+            "role": "T. M. Opera O",
+            "person": {
+                "+content": "Sora Tokui",
+                "+@id": "94469"
+            }
+        },
+        {
+            "+@gid": "1580971465",
+            "+@lang": "JA",
+            "role": "Tokai Teio",
+            "person": {
+                "+content": "Machico",
+                "+@id": "130409"
+            }
+        },
+        {
+            "+@gid": "2561041309",
+            "+@lang": "JA",
+            "role": "Sakura Chiyono O",
+            "person": {
+                "+content": "Ruriko Noguchi",
+                "+@id": "138051"
+            }
+        },
+        {
+            "+@gid": "2212131913",
+            "+@lang": "JA",
+            "role": "Sakura Chitose O",
+            "person": {
+                "+content": "Riko Akechi",
+                "+@id": "270655"
+            }
+        },
+        {
+            "+@gid": "2647903048",
+            "+@lang": "JA",
+            "role": "Calstone Light O",
+            "person": {
+                "+content": "Yumiko Mochizuki",
+                "+@id": "282434"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "1782396143",
+        "task": "Production",
+        "company": {
+            "+content": "Cygames",
+            "+@id": "12590"
+        }
+    },
     "+@date-added": "2026-03-31T11:38:16Z",
-    "+@date-last-updated-at": "2026-04-01T03:45:50Z"
+    "+@date-last-modified-at": "2026-05-01T04:19:12Z",
+    "+@date-last-updated-at": "2026-05-01T04:19:12Z"
 }
