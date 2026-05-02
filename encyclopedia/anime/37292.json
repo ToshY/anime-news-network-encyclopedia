@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Akane-banashi",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-02T09:16:07Z",
+    "+@generated-on": "2026-05-02T09:34:08Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25523"
@@ -42,6 +42,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "drama",
+            "+@gid": "2355209428",
+            "+@type": "Genres"
+        },
+        {
             "+content": "Shinta and his daughter Akane have been seduced by the wonderful storytelling of Rakugo, where everything is expressed with just your body and words. Having observed her father strive to pass the shin'uchi rakugo test, Akane takes her own steps into this unique artform.",
             "+@gid": "2414989460",
             "+@type": "Plot Summary"
@@ -52,9 +57,19 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "\"Hitotarashi\" (人誑し) by Keisuke Kuwata",
+            "+content": "2026-05-17 (Netflix; English dub)",
+            "+@gid": "1874333175",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Hitotarashi\" (人誑し / ひとたらし) by Keisuke Kuwata",
             "+@gid": "1007512176",
             "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"AKANE On My Mind ~ Manjū Kowai\" (AKANE On My Mind〜饅頭こわい) by Keisuke Kuwata",
+            "+@gid": "4058546405",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ『あかね噺』公式サイト",
@@ -62,6 +77,44 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://akane-banashi.com/"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "5",
+        "+@weighted_score": "5.9784"
+    },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "That Day",
+                "+@gid": "2973649991",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "First Performance",
+                "+@gid": "1689940449",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "Senior Apprentices",
+                "+@gid": "3680758959",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "Beyond Joy",
+                "+@gid": "1397984790",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -94,6 +147,26 @@
             "+content": "<cite>Akane-banashi</cite> Anime to Stream Worldwide on Netflix, on 18 Other Regional Streaming Services",
             "+@datetime": "2026-03-27T11:30:45Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-03-27/akane-banashi-anime-to-stream-worldwide-on-netflix-on-18-other-regional-streaming-services/.235805"
+        },
+        {
+            "+content": "<cite>Akane-banashi</cite> Anime Announces 5 More Cast Members",
+            "+@datetime": "2026-04-04T16:05:51Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-04/akane-banashi-anime-announces-5-more-cast-members/.236097"
+        },
+        {
+            "+content": "Ani-One Asia Streams <cite>Akane-banashi</cite>, <cite>Monster Eater</cite>, <cite>Mao</cite>, More Anime in India",
+            "+@datetime": "2026-04-10T14:30:27Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-10/ani-one-asia-streams-akane-banashi-monster-eater-mao-more-anime-in-india/.236269"
+        },
+        {
+            "+content": "Keisuke Kuwata Also Performs <cite>Akane-banashi</cite> Anime's Ending Song",
+            "+@datetime": "2026-04-11T16:06:35Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-11/keisuke-kuwata-also-performs-akane-banashi-anime-ending-song/.236301"
+        },
+        {
+            "+content": "Netflix Streams <cite>Akane-banashi</cite> Anime With English Dub/Sub on May 17",
+            "+@datetime": "2026-04-21T17:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-21/netflix-streams-akane-banashi-anime-with-english-dub-sub-on-may-17/.236637"
         }
     ],
     "staff": [
@@ -192,9 +265,199 @@
                 "+content": "Yūta Nakamura",
                 "+@id": "210906"
             }
+        },
+        {
+            "+@gid": "495843804",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Shōki Niwa",
+                "+@id": "116014"
+            }
+        },
+        {
+            "+@gid": "2678886766",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Kei Mizutani",
+                "+@id": "116691"
+            }
+        },
+        {
+            "+@gid": "1913734351",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Tatsuro Hayashi",
+                "+@id": "120298"
+            }
+        },
+        {
+            "+@gid": "2124856979",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Hiroshi Yanai",
+                "+@id": "134307"
+            }
+        },
+        {
+            "+@gid": "3277418151",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Yūko Matsui",
+                "+@id": "230344"
+            }
+        },
+        {
+            "+@gid": "2131855729",
+            "task": "Producer",
+            "person": {
+                "+content": "Gō Wakabayashi",
+                "+@id": "80323"
+            }
+        },
+        {
+            "+@gid": "2956764386",
+            "task": "Producer",
+            "person": {
+                "+content": "Kazuki Endo",
+                "+@id": "153855"
+            }
+        },
+        {
+            "+@gid": "2768352999",
+            "task": "Producer",
+            "person": {
+                "+content": "Hiroki Okagawa",
+                "+@id": "198206"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "919947037",
+            "+@lang": "ES",
+            "role": "Tohru Osaki/Shinta Arakawa",
+            "person": {
+                "+content": "Ricardo Tejedo",
+                "+@id": "3760"
+            }
+        },
+        {
+            "+@gid": "2189341497",
+            "+@lang": "ES",
+            "role": "Akane Osaki",
+            "person": {
+                "+content": "Nycolle González",
+                "+@id": "121463"
+            }
+        },
+        {
+            "+@gid": "804146552",
+            "+@lang": "IT",
+            "role": "Issho Arakawa",
+            "person": {
+                "+content": "Mario Zucca",
+                "+@id": "26261"
+            }
+        },
+        {
+            "+@gid": "1461554427",
+            "+@lang": "IT",
+            "role": "Saki Yoshino",
+            "person": {
+                "+content": "Lorella De Luca",
+                "+@id": "26522"
+            }
+        },
+        {
+            "+@gid": "2877304218",
+            "+@lang": "IT",
+            "role": "Masaki Osaki",
+            "person": {
+                "+content": "Jolanda Granato",
+                "+@id": "44876"
+            }
+        },
+        {
+            "+@gid": "1225412106",
+            "+@lang": "IT",
+            "role": "Shinta Arakawa",
+            "person": {
+                "+content": "Paolo De Santis",
+                "+@id": "51099"
+            }
+        },
+        {
+            "+@gid": "2296463055",
+            "+@lang": "IT",
+            "role": "Ikken Arakawa",
+            "person": {
+                "+content": "Francesco Mei",
+                "+@id": "53300"
+            }
+        },
+        {
+            "+@gid": "3038113303",
+            "+@lang": "IT",
+            "role": "Zensho Arakawa",
+            "person": {
+                "+content": "Francesco Rizzi",
+                "+@id": "150404"
+            }
+        },
+        {
+            "+@gid": "2141312872",
+            "+@lang": "IT",
+            "role": "Kaisei Arakawa",
+            "person": {
+                "+content": "Matteo De Mojana",
+                "+@id": "153661"
+            }
+        },
+        {
+            "+@gid": "3558519203",
+            "+@lang": "IT",
+            "role": "Shiguma Arakawa",
+            "person": {
+                "+content": "Andrea Failla",
+                "+@id": "174959"
+            }
+        },
+        {
+            "+@gid": "846050045",
+            "+@lang": "IT",
+            "role": "Guriko Arakawa",
+            "person": {
+                "+content": "Marco Briglione",
+                "+@id": "179694"
+            }
+        },
+        {
+            "+@gid": "645792999",
+            "+@lang": "IT",
+            "role": "Akane Osaki",
+            "person": {
+                "+content": "Federica Simonelli",
+                "+@id": "191771"
+            }
+        },
+        {
+            "+@gid": "3322323256",
+            "+@lang": "IT",
+            "role": "Kyoji Arakawa",
+            "person": {
+                "+content": "Alessandro Fattori",
+                "+@id": "191772"
+            }
+        },
+        {
+            "+@gid": "2328185952",
+            "+@lang": "IT",
+            "role": "Koguma Arakawa",
+            "person": {
+                "+content": "Lorenzo Briganti",
+                "+@id": "228490"
+            }
+        },
         {
             "+@gid": "3220566847",
             "+@lang": "JA",
@@ -211,6 +474,24 @@
             "person": {
                 "+content": "Akio Ōtsuka",
                 "+@id": "459"
+            }
+        },
+        {
+            "+@gid": "607938157",
+            "+@lang": "JA",
+            "role": "Ikken Arakawa",
+            "person": {
+                "+content": "Hiroaki Hirata",
+                "+@id": "917"
+            }
+        },
+        {
+            "+@gid": "888759324",
+            "+@lang": "JA",
+            "role": "Zenshō Arakawa",
+            "person": {
+                "+content": "Fumihiko Tachiki",
+                "+@id": "1465"
             }
         },
         {
@@ -250,6 +531,15 @@
             }
         },
         {
+            "+@gid": "277477792",
+            "+@lang": "JA",
+            "role": "Hirohisa Kashio",
+            "person": {
+                "+content": "Ryōta Iwasaki",
+                "+@id": "116478"
+            }
+        },
+        {
             "+@gid": "2097833094",
             "+@lang": "JA",
             "role": "Guriko Arakawa",
@@ -277,12 +567,30 @@
             }
         },
         {
+            "+@gid": "2909606872",
+            "+@lang": "JA",
+            "role": "Saki Yoshino",
+            "person": {
+                "+content": "Yumiko Konatsu",
+                "+@id": "192179"
+            }
+        },
+        {
             "+@gid": "2625797634",
             "+@lang": "JA",
             "role": "Akane Ōsaki",
             "person": {
                 "+content": "Anna Nagase",
                 "+@id": "196760"
+            }
+        },
+        {
+            "+@gid": "2414931114",
+            "+@lang": "JA",
+            "role": "Masaki Ōsaki",
+            "person": {
+                "+content": "Shizuka Itō",
+                "+@id": "249200"
             }
         },
         {
@@ -295,15 +603,73 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "1818461961",
-        "task": "Animation Production",
-        "company": {
-            "+content": "ZEXCS",
-            "+@id": "1215"
+    "credit": [
+        {
+            "+@gid": "1818461961",
+            "task": "Animation Production",
+            "company": {
+                "+content": "ZEXCS",
+                "+@id": "1215"
+            }
+        },
+        {
+            "+@gid": "890234217",
+            "task": "Production",
+            "company": {
+                "+content": "TV Asahi",
+                "+@id": "160"
+            }
+        },
+        {
+            "+@gid": "2694484930",
+            "task": "Production",
+            "company": {
+                "+content": "Shueisha",
+                "+@id": "909"
+            }
+        },
+        {
+            "+@gid": "734263776",
+            "task": "Production",
+            "company": {
+                "+content": "ZEXCS",
+                "+@id": "1215"
+            }
+        },
+        {
+            "+@gid": "1947265889",
+            "task": "Production",
+            "company": {
+                "+content": "Aniplex",
+                "+@id": "1257"
+            }
+        },
+        {
+            "+@gid": "2835495717",
+            "task": "Production",
+            "company": {
+                "+content": "TV Asahi Music",
+                "+@id": "2025"
+            }
+        },
+        {
+            "+@gid": "3515022888",
+            "task": "Production",
+            "company": {
+                "+content": "BS Asahi",
+                "+@id": "4696"
+            }
+        },
+        {
+            "+@gid": "1210089987",
+            "task": "Production",
+            "company": {
+                "+content": "AbemaTV",
+                "+@id": "14850"
+            }
         }
-    },
+    ],
     "+@date-added": "2025-08-04T20:24:21Z",
-    "+@date-last-modified-at": "2026-04-02T09:16:13Z",
-    "+@date-last-updated-at": "2026-04-02T09:16:13Z"
+    "+@date-last-modified-at": "2026-05-02T09:34:15Z",
+    "+@date-last-updated-at": "2026-05-02T09:34:15Z"
 }

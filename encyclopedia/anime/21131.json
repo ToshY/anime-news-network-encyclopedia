@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "JoJo's Bizarre Adventure: Golden Wind",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-01T17:12:11Z",
+    "+@generated-on": "2026-05-02T09:34:10Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "17832"
@@ -74,9 +74,99 @@
             "+@type": "Genres"
         },
         {
+            "+content": "comedy",
+            "+@gid": "3076204312",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "3333196005",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "horror",
+            "+@gid": "959685932",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "mystery",
+            "+@gid": "3451508220",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "psychological",
+            "+@gid": "529029554",
+            "+@type": "Genres"
+        },
+        {
             "+content": "supernatural",
             "+@gid": "3665752907",
             "+@type": "Genres"
+        },
+        {
+            "+content": "thriller",
+            "+@gid": "2630773764",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "conspiracy",
+            "+@gid": "1471952527",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "crime",
+            "+@gid": "3214377360",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "dark comedy",
+            "+@gid": "2019337374",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "fighting",
+            "+@gid": "2133269771",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "gangs",
+            "+@gid": "1800667835",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "gore",
+            "+@gid": "2704706256",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "mafia",
+            "+@gid": "2363265285",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "martial arts",
+            "+@gid": "433056266",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "revenge",
+            "+@gid": "3487760023",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superhumans",
+            "+@gid": "1190431933",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "814364300",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "tragedy",
+            "+@gid": "2523839236",
+            "+@type": "Themes"
         },
         {
             "+content": "MA",
@@ -134,7 +224,7 @@
     "ratings": {
         "+@nb_votes": "251",
         "+@weighted_score": "7.5694",
-        "+@bayesian_score": "7.56457"
+        "+@bayesian_score": "7.56491"
     },
     "episode": [
         {
@@ -1785,6 +1875,105 @@
             }
         },
         {
+            "+@gid": "2119359223",
+            "+@lang": "IT",
+            "role": "Diavolo",
+            "person": {
+                "+content": "Roberto Pedicini",
+                "+@id": "28465"
+            }
+        },
+        {
+            "+@gid": "1950237132",
+            "+@lang": "IT",
+            "role": "Jeanne-Pierre Polnareff",
+            "person": {
+                "+content": "Paolo De Santis",
+                "+@id": "51099"
+            }
+        },
+        {
+            "+@gid": "1934405410",
+            "+@lang": "IT",
+            "role": "Narancia Ghirga",
+            "person": {
+                "+content": "Simone Lupinacci",
+                "+@id": "95303"
+            }
+        },
+        {
+            "+@gid": "2091525714",
+            "+@lang": "IT",
+            "role": "Bruno Bucciarati",
+            "person": {
+                "+content": "Andrea Oldani",
+                "+@id": "107215"
+            }
+        },
+        {
+            "+@gid": "1030263852",
+            "+@lang": "IT",
+            "role": "Vinegar Doppio",
+            "person": {
+                "+content": "Tommaso Zalone",
+                "+@id": "145000"
+            }
+        },
+        {
+            "+@gid": "2593800359",
+            "+@lang": "IT",
+            "role": "Guido Mista",
+            "person": {
+                "+content": "Marco Briglione",
+                "+@id": "179694"
+            }
+        },
+        {
+            "+@gid": "2079196120",
+            "+@lang": "IT",
+            "role": "Giorno Giovanna",
+            "person": {
+                "+content": "Matteo Garofalo",
+                "+@id": "179696"
+            }
+        },
+        {
+            "+@gid": "3171852215",
+            "+@lang": "IT",
+            "role": "Pannacotta Fugo",
+            "person": {
+                "+content": "Ezio Vivolo",
+                "+@id": "184736"
+            }
+        },
+        {
+            "+@gid": "1842360687",
+            "+@lang": "IT",
+            "role": "Trish Una",
+            "person": {
+                "+content": "Chiara Leoncini",
+                "+@id": "200055"
+            }
+        },
+        {
+            "+@gid": "2249927844",
+            "+@lang": "IT",
+            "role": "Leone Abbacchio",
+            "person": {
+                "+content": "Riccardo D'aquino",
+                "+@id": "216163"
+            }
+        },
+        {
+            "+@gid": "2278630273",
+            "+@lang": "IT",
+            "role": "Koichi Hirose",
+            "person": {
+                "+content": "Lorenzo Del Romano",
+                "+@id": "245616"
+            }
+        },
+        {
             "+@gid": "1268883304",
             "+@lang": "JA",
             "role": "Diavolo",
@@ -1974,6 +2163,6 @@
         }
     },
     "+@date-added": "2018-06-23T03:28:15Z",
-    "+@date-last-modified-at": "2026-04-01T17:12:14Z",
-    "+@date-last-updated-at": "2026-04-01T17:12:14Z"
+    "+@date-last-modified-at": "2026-05-02T09:34:15Z",
+    "+@date-last-updated-at": "2026-05-02T09:34:15Z"
 }
