@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Rich Girl Caretaker",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-03T05:50:45Z",
+    "+@generated-on": "2026-05-03T06:42:39Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "37950"
@@ -13,19 +13,24 @@
         {
             "+@gid": "2024540016",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37952-2024540016.1769767872.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37952-2024540016.1777283792.jpg",
             "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37952-2024540016.1769767872.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37952-2024540016.1777283792.jpg",
                     "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37952-2024540016.1769767872.jpg",
-                    "+@width": "425",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37952-2024540016.1777283792.jpg",
+                    "+@width": "426",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37952-2024540016.1777283792.jpg",
+                    "+@width": "1164",
+                    "+@height": "1638"
                 }
             ]
         },
@@ -65,11 +70,23 @@
             "+@href": "https://saijonoosewa-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Rich Girl Caretaker</cite> Anime Confirms TV Format, July Debut in Promo Video",
-        "+@datetime": "2026-01-30T09:26:22Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-01-30/rich-girl-caretaker-anime-confirms-tv-format-july-debut-in-promo-video/.233649"
-    },
+    "news": [
+        {
+            "+content": "<cite>Rich Girl Caretaker</cite> Anime Confirms TV Format, July Debut in Promo Video",
+            "+@datetime": "2026-01-30T09:26:22Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-30/rich-girl-caretaker-anime-confirms-tv-format-july-debut-in-promo-video/.233649"
+        },
+        {
+            "+content": "<cite>Rich Girl Caretaker</cite> Anime Casts Saori Ōnishi, Rio Tsuchiya",
+            "+@datetime": "2026-04-27T10:26:45Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-27/rich-girl-caretaker-anime-casts-saori-onishi-rio-tsuchiya/.236839"
+        },
+        {
+            "+content": "<cite>Hanaori-san Still Wants to Fight in the Next Life</cite>, <cite>Rich Girl Caretaker</cite>, More Anime to Stream in India",
+            "+@datetime": "2026-04-27T11:02:58Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-27/hanaori-san-still-wants-to-fight-in-the-next-life-rich-girl-caretaker-more-anime-to-stream-in-india/.236841"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3115924342",
@@ -163,12 +180,30 @@
             }
         },
         {
+            "+@gid": "3403534986",
+            "+@lang": "JA",
+            "role": "Mirei Tennōji",
+            "person": {
+                "+content": "Saori Ōnishi",
+                "+@id": "112494"
+            }
+        },
+        {
             "+@gid": "2056761243",
             "+@lang": "JA",
             "role": "Hinako Konohana",
             "person": {
                 "+content": "Konomi Kohara",
                 "+@id": "153781"
+            }
+        },
+        {
+            "+@gid": "2806921002",
+            "+@lang": "JA",
+            "role": "Narika Miyakojima",
+            "person": {
+                "+content": "Rio Tsuchiya",
+                "+@id": "190688"
             }
         }
     ],
@@ -181,5 +216,6 @@
         }
     },
     "+@date-added": "2025-10-30T08:15:02Z",
-    "+@date-last-updated-at": "2026-04-03T05:50:49Z"
+    "+@date-last-modified-at": "2026-05-03T06:42:45Z",
+    "+@date-last-updated-at": "2026-05-03T06:42:45Z"
 }

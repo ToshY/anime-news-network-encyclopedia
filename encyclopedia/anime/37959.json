@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Always a Catch!",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-03T05:50:45Z",
+    "+@generated-on": "2026-05-03T06:42:39Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26938"
@@ -68,6 +68,11 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "12",
+            "+@gid": "3228592824",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-04-01",
             "+@gid": "1130137516",
             "+@type": "Vintage"
@@ -94,14 +99,56 @@
         "+@nb_votes": "1",
         "+@weighted_score": "3"
     },
-    "episode": {
-        "+@num": "1",
-        "title": {
-            "+content": "How I Searched For A Promising Catch",
-            "+@gid": "2365333563",
-            "+@lang": "EN"
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "How I Searched For A Promising Catch",
+                "+@gid": "2365333563",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "How I Caught the One That Got Away",
+                "+@gid": "2657663787",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "How I Trained to Become a Lady",
+                "+@gid": "2329620510",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "How the One That Got Away Was Troubled",
+                "+@gid": "1336318826",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "How the One That Got Away Visited Home",
+                "+@gid": "745412192",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "Nigashita Sakana to Tatakau Chichi",
+                "+@gid": "2822525944",
+                "+@lang": "JA"
+            }
         }
-    },
+    ],
     "news": [
         {
             "+content": "<cite>Always a Catch!</cite> Anime's Main Video Reveals More Staff, Opening Song Artists, April Debut",
@@ -122,6 +169,21 @@
             "+content": "<cite>Always a Catch!</cite> Anime Casts Tetsu Inada",
             "+@datetime": "2026-04-01T18:05:08Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-01/always-a-catch-anime-casts-tetsu-inada/.236029"
+        },
+        {
+            "+content": "Muse Asia Streams <cite>'Always a Catch!'</cite>, <cite>Candy Caries</cite>, More Anime in India",
+            "+@datetime": "2026-04-03T10:22:17Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-03/muse-asia-streams-always-a-catch-candy-caries-more-anime-in-india/.236069"
+        },
+        {
+            "+content": "<cite>Always a Catch!</cite> Anime Casts Yūko Kaida",
+            "+@datetime": "2026-04-16T01:18:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-15/always-a-catch-anime-casts-yuko-kaida/.236423"
+        },
+        {
+            "+content": "<cite>Always a Catch!</cite> Anime Casts Daiki Hamano, Wataru Komada",
+            "+@datetime": "2026-04-30T00:11:43Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-29/always-a-catch-anime-casts-daiki-hamano-wataru-komada/.236936"
         }
     ],
     "staff": [
@@ -233,6 +295,15 @@
             }
         },
         {
+            "+@gid": "2968243687",
+            "+@lang": "JA",
+            "role": "Queen Rubini",
+            "person": {
+                "+content": "Yūko Kaida",
+                "+@id": "9194"
+            }
+        },
+        {
             "+@gid": "976591241",
             "+@lang": "JA",
             "role": "Aida Amethis",
@@ -271,7 +342,7 @@
         {
             "+@gid": "2169242603",
             "+@lang": "JA",
-            "role": "Ireneo",
+            "role": "Ireneo Marchei",
             "person": {
                 "+content": "Natsuki Hanae",
                 "+@id": "106773"
@@ -314,6 +385,6 @@
         }
     },
     "+@date-added": "2025-11-03T06:35:21Z",
-    "+@date-last-modified-at": "2026-04-03T05:50:49Z",
-    "+@date-last-updated-at": "2026-04-03T05:50:49Z"
+    "+@date-last-modified-at": "2026-05-03T06:42:45Z",
+    "+@date-last-updated-at": "2026-05-03T06:42:45Z"
 }
