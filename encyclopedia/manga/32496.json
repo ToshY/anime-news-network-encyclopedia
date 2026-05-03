@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Musho Boke",
     "+@precision": "manga",
-    "+@generated-on": "2026-04-02T09:16:10Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "32612"
-    },
+    "+@generated-on": "2026-05-03T09:40:16Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "26388"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "32612"
+        }
+    ],
     "info": [
         {
             "+@gid": "2310061546",
@@ -63,8 +69,18 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2023-10-24 (serialized on YanChan web)",
+            "+content": "6",
+            "+@gid": "3049779749",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2023-10-24 to 2026-03-10 (serialized on YanChan web)",
             "+@gid": "1678148867",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2023-11-28 (serialized in Dokodemo Young Champion, Dec 2023)",
+            "+@gid": "685540181",
             "+@type": "Vintage"
         },
         {
@@ -94,5 +110,6 @@
         }
     ],
     "+@date-added": "2024-03-18T09:18:24Z",
-    "+@date-last-updated-at": "2026-04-02T09:16:11Z"
+    "+@date-last-modified-at": "2026-05-03T09:40:17Z",
+    "+@date-last-updated-at": "2026-05-03T09:40:17Z"
 }
