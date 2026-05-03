@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Hate Me, but Let Me Stay",
     "+@precision": "manga",
-    "+@generated-on": "2026-04-02T20:55:20Z",
-    "related-next": {
-        "+@id": "32372",
-        "+@rel": "spinoff"
-    },
+    "+@generated-on": "2026-05-03T17:09:53Z",
+    "related-next": [
+        {
+            "+@id": "32372",
+            "+@rel": "spinoff"
+        },
+        {
+            "+@id": "39065",
+            "+@rel": "spinoff"
+        }
+    ],
     "info": [
         {
             "+@gid": "2104226918",
@@ -130,5 +136,6 @@
         }
     },
     "+@date-added": "2024-03-07T09:00:54Z",
-    "+@date-last-updated-at": "2026-04-02T20:55:22Z"
+    "+@date-last-modified-at": "2026-05-03T17:09:54Z",
+    "+@date-last-updated-at": "2026-05-03T17:09:54Z"
 }

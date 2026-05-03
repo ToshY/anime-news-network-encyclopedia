@@ -2,18 +2,30 @@
     "+@id": "32372",
     "+@gid": "1027407244",
     "+@type": "manga",
-    "+@name": "Kiraide Isasete: Asanaga-sensei to Yanagi-sensei",
+    "+@name": "Hate Me, but Let Me Stay - Mr. Asanaga and Mr. Yanagi",
     "+@precision": "manga",
-    "+@generated-on": "2026-04-02T20:55:20Z",
-    "related-prev": {
-        "+@rel": "spinoff of",
-        "+@id": "32370"
-    },
+    "+@generated-on": "2026-05-03T17:09:53Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "2988"
+        },
+        {
+            "+@rel": "spinoff of",
+            "+@id": "32370"
+        }
+    ],
     "info": [
+        {
+            "+content": "Hate Me, but Let Me Stay - Mr. Asanaga and Mr. Yanagi",
+            "+@gid": "2504501092",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
         {
             "+content": "Kiraide Isasete: Asanaga-sensei to Yanagi-sensei",
             "+@gid": "2623948792",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -23,10 +35,21 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2024-01-10",
+            "+content": "romance",
+            "+@gid": "3360258365",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "2023-05-06 (serialized in Magazine BE×BOY, Jun 2023)",
+            "+@gid": "3474953910",
             "+@type": "Vintage"
         }
     ],
+    "news": {
+        "+content": "Seven Seas Licenses <cite>The Berserker NPC Unknowingly Destroys the World</cite>, 4 More Titles",
+        "+@datetime": "2026-04-16T01:34:46Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-04-15/seven-seas-licenses-the-berserker-npc-unknowingly-destroys-the-world-4-more-titles/.236429"
+    },
     "staff": {
         "+@gid": "2397814632",
         "task": "Story & Art",
@@ -36,5 +59,6 @@
         }
     },
     "+@date-added": "2024-03-07T09:36:08Z",
-    "+@date-last-updated-at": "2026-04-02T20:55:22Z"
+    "+@date-last-modified-at": "2026-05-03T17:09:54Z",
+    "+@date-last-updated-at": "2026-05-03T17:09:54Z"
 }
