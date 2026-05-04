@@ -4,10 +4,14 @@
     "+@type": "manga",
     "+@name": "Seiheki Yabamena Otoko ni Nerawaremashita",
     "+@precision": "manga",
-    "+@generated-on": "2026-04-02T20:55:21Z",
+    "+@generated-on": "2026-05-04T07:25:48Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "32969"
+    },
+    "related-next": {
+        "+@id": "39110",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -53,6 +57,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "romance",
+            "+@gid": "996610429",
+            "+@type": "Genres"
+        },
+        {
             "+content": "9",
             "+@gid": "3310854053",
             "+@type": "Number of tankoubon"
@@ -72,5 +81,6 @@
         }
     },
     "+@date-added": "2024-03-05T09:36:04Z",
-    "+@date-last-updated-at": "2026-04-02T20:55:23Z"
+    "+@date-last-modified-at": "2026-05-04T07:25:49Z",
+    "+@date-last-updated-at": "2026-05-04T07:25:49Z"
 }
