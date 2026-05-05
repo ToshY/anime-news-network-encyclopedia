@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Pigtails",
     "+@precision": "movie",
-    "+@generated-on": "2026-04-04T16:54:13Z",
+    "+@generated-on": "2026-05-05T10:13:03Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "18713"
@@ -19,6 +19,12 @@
         {
             "+content": "Mitsuami no Kami-sama",
             "+@gid": "1784586351",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "みつあみの神様",
+            "+@gid": "1219971830",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
@@ -54,7 +60,7 @@
     ],
     "ratings": {
         "+@nb_votes": "9",
-        "+@weighted_score": "6.5847"
+        "+@weighted_score": "6.5848"
     },
     "release": [
         {
@@ -123,6 +129,14 @@
             }
         },
         {
+            "+@gid": "2934862228",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yoshimi Itazu",
+                "+@id": "84450"
+            }
+        },
+        {
             "+@gid": "2231632734",
             "task": "Music",
             "person": {
@@ -136,6 +150,38 @@
             "person": {
                 "+content": "Machiko Kyō",
                 "+@id": "111200"
+            }
+        },
+        {
+            "+@gid": "2680296832",
+            "task": "Character Design",
+            "person": {
+                "+content": "Yoshimi Itazu",
+                "+@id": "84450"
+            }
+        },
+        {
+            "+@gid": "2815888139",
+            "task": "Art Director",
+            "person": {
+                "+content": "Hiroshi Ōno",
+                "+@id": "150849"
+            }
+        },
+        {
+            "+@gid": "2048943655",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yoshimi Itazu",
+                "+@id": "84450"
+            }
+        },
+        {
+            "+@gid": "1030462823",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Hiroshi Tanaka",
+                "+@id": "5725"
             }
         },
         {
@@ -156,6 +202,6 @@
         }
     },
     "+@date-added": "2016-08-27T09:51:07Z",
-    "+@date-last-modified-at": "2026-04-04T16:54:18Z",
-    "+@date-last-updated-at": "2026-04-04T16:54:18Z"
+    "+@date-last-modified-at": "2026-05-05T10:13:09Z",
+    "+@date-last-updated-at": "2026-05-05T10:13:09Z"
 }
