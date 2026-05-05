@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Kikai-jikake no Ai",
     "+@precision": "manga",
-    "+@generated-on": "2026-04-04T08:59:32Z",
+    "+@generated-on": "2026-05-05T21:15:40Z",
     "related-next": {
         "+@id": "35969",
         "+@rel": "spinoff"
@@ -41,6 +41,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Kikai Jikake no Ai",
+            "+@gid": "2385404345",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
             "+content": "機械仕掛けの愛",
             "+@gid": "3819794976",
             "+@type": "Alternative title",
@@ -67,11 +73,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "<cite>Kingdom</cite> Wins 17th Tezuka Osamu Prizes' Top Award",
-        "+@datetime": "2013-04-28T21:10:00Z",
-        "+@href": "https://www.animenewsnetwork.com/news/2013-04-28/kingdom-wins-17th-tezuka-osamu-prizes-top-award"
-    },
+    "news": [
+        {
+            "+content": "<cite>Kingdom</cite> Wins 17th Tezuka Osamu Prizes' Top Award",
+            "+@datetime": "2013-04-28T21:10:00Z",
+            "+@href": "https://www.animenewsnetwork.com/news/2013-04-28/kingdom-wins-17th-tezuka-osamu-prizes-top-award"
+        },
+        {
+            "+content": "Akiko Higashimura's <cite>Kakukaku Shikajika</cite> Manga Wins Media Arts Award",
+            "+@datetime": "2015-11-27T09:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2015-11-27/akiko-higashimura-kakukaku-shikajika-manga-wins-media-arts-award/.95848"
+        }
+    ],
     "staff": {
         "+@gid": "1598380654",
         "task": "Story & Art",
@@ -81,5 +94,6 @@
         }
     },
     "+@date-added": "2024-01-28T23:44:27Z",
-    "+@date-last-updated-at": "2026-04-04T08:59:33Z"
+    "+@date-last-modified-at": "2026-05-05T21:15:41Z",
+    "+@date-last-updated-at": "2026-05-05T21:15:41Z"
 }
