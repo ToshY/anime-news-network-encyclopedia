@@ -4,15 +4,21 @@
     "+@type": "TV",
     "+@name": "Danganronpa 3: The End of Hope's Peak High School: Future Arc",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-05T05:54:19Z",
+    "+@generated-on": "2026-05-06T04:06:59Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "14960"
     },
-    "related-next": {
-        "+@id": "18272",
-        "+@rel": "related"
-    },
+    "related-next": [
+        {
+            "+@id": "18272",
+            "+@rel": "related"
+        },
+        {
+            "+@id": "39331",
+            "+@rel": "prequel"
+        }
+    ],
     "info": [
         {
             "+@gid": "1579229932",
@@ -126,8 +132,8 @@
     ],
     "ratings": {
         "+@nb_votes": "137",
-        "+@weighted_score": "6.8605",
-        "+@bayesian_score": "6.91343"
+        "+@weighted_score": "6.8606",
+        "+@bayesian_score": "6.90975"
     },
     "episode": [
         {
@@ -1188,6 +1194,6 @@
         }
     },
     "+@date-added": "2016-03-22T12:40:50Z",
-    "+@date-last-modified-at": "2026-04-05T05:54:22Z",
-    "+@date-last-updated-at": "2026-04-05T05:54:22Z"
+    "+@date-last-modified-at": "2026-05-06T04:07:05Z",
+    "+@date-last-updated-at": "2026-05-06T04:07:05Z"
 }
