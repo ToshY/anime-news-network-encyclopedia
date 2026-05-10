@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "One Piece",
     "+@precision": "TV 2026",
-    "+@generated-on": "2026-04-10T03:42:18Z",
+    "+@generated-on": "2026-05-10T04:16:33Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "836"
@@ -63,6 +63,75 @@
         {
             "+content": "2026-04-05",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Luminous\" (ルミナス) by AiNA THE END (eps 1157-)",
+            "+@gid": "2902040471",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "#1: \"Luminous\" (ルミナス) by AiNA THE END (ep 1156)",
+            "+@gid": "1893520614",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#2: \"Sono Mirai\" (その未来; That Future) by 36km/h (eps 1157-)",
+            "+@gid": "2997517639",
+            "+@type": "Ending Theme"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "4"
+    },
+    "episode": [
+        {
+            "+@num": "1156",
+            "title": {
+                "+content": "The Long-sought Elbaph! The Big Reunion Banquet!",
+                "+@gid": "1810410790",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "1157",
+            "title": {
+                "+content": "Nami in a Fix! An Adventure in Block Kingdom",
+                "+@gid": "615751045",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "1158",
+            "title": {
+                "+content": "A Quest in the Land of Mystery! The Secret of the Sun God",
+                "+@gid": "1035453689",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "1159",
+            "title": {
+                "+content": "Destroy the Miniature Garden - Escape Block Kingdom!",
+                "+@gid": "3671475449",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "1160",
+            "title": {
+                "+content": "An Encounter on a Snowfield - Loki, the Accursed Prince",
+                "+@gid": "485004168",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "1161",
+            "title": {
+                "+content": "A Dangerous Deal! Loki and Luffy in the Underworld",
+                "+@gid": "3898781563",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -75,6 +144,16 @@
             "+content": "Crunchyroll Announces Release Schedule for Spring 2026 Season",
             "+@datetime": "2026-03-24T18:28:06Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-03-24/crunchyroll-announces-release-schedule-for-spring-2026-season/.235686"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, March 30-April 5",
+            "+@datetime": "2026-04-11T14:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-11/japanese-animation-tv-ranking-march-30-april-5/.236268"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, April 6-12",
+            "+@datetime": "2026-04-19T10:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-19/japanese-animation-tv-ranking-april-6-12/.236556"
         }
     ],
     "staff": [
@@ -197,6 +276,22 @@
                 "+content": "Takeshi Ishizu",
                 "+@id": "196015"
             }
+        },
+        {
+            "+@gid": "2296755797",
+            "task": "Producer",
+            "person": {
+                "+content": "Shintarō Hashimoto",
+                "+@id": "81594"
+            }
+        },
+        {
+            "+@gid": "3130465465",
+            "task": "Producer",
+            "person": {
+                "+content": "Miki Kobayashi",
+                "+@id": "208847"
+            }
         }
     ],
     "cast": [
@@ -279,6 +374,15 @@
             "person": {
                 "+content": "Tetsu Inada",
                 "+@id": "7015"
+            }
+        },
+        {
+            "+@gid": "2511233852",
+            "+@lang": "JA",
+            "role": "Goldberg",
+            "person": {
+                "+content": "Masaya Takatsuka",
+                "+@id": "7968"
             }
         },
         {
@@ -372,15 +476,33 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "883161839",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Toei Animation",
-            "+@id": "145"
+    "credit": [
+        {
+            "+@gid": "883161839",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Toei Animation",
+                "+@id": "145"
+            }
+        },
+        {
+            "+@gid": "1440548292",
+            "task": "Production",
+            "company": {
+                "+content": "Toei Animation",
+                "+@id": "145"
+            }
+        },
+        {
+            "+@gid": "2205621089",
+            "task": "Production",
+            "company": {
+                "+content": "Fuji Television Network",
+                "+@id": "162"
+            }
         }
-    },
+    ],
     "+@date-added": "2026-03-10T08:16:14Z",
-    "+@date-last-modified-at": "2026-04-10T03:42:27Z",
-    "+@date-last-updated-at": "2026-04-10T03:42:27Z"
+    "+@date-last-modified-at": "2026-05-10T04:16:38Z",
+    "+@date-last-updated-at": "2026-05-10T04:16:38Z"
 }
