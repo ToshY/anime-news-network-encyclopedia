@@ -4,7 +4,11 @@
     "+@type": "manga",
     "+@name": "Tokyo Salad Bowl",
     "+@precision": "manga",
-    "+@generated-on": "2026-04-10T20:57:03Z",
+    "+@generated-on": "2026-05-12T18:18:15Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "29413"
+    },
     "info": [
         {
             "+@gid": "2608947361",
@@ -49,7 +53,12 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2021-06-20 (serialized on Palcy)",
+            "+content": "5",
+            "+@gid": "1614649034",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2021-06-20 to 2024-02-25 (serialized on Palcy)",
             "+@gid": "2676675815",
             "+@type": "Vintage"
         },
@@ -61,6 +70,11 @@
             "+@href": "https://palcy.kodansha.co.jp/c/1210.html"
         }
     ],
+    "news": {
+        "+content": "Kuromaru's <cite>Tokyo Salad Bowl</cite> Manga Gets Sequel",
+        "+@datetime": "2026-04-23T00:00:00Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-04-22/kuromaru-tokyo-salad-bowl-manga-gets-sequel/.236665"
+    },
     "staff": {
         "+@gid": "1963519862",
         "task": "Story & Art",
@@ -70,5 +84,6 @@
         }
     },
     "+@date-added": "2023-09-23T04:29:50Z",
-    "+@date-last-updated-at": "2026-04-10T20:57:04Z"
+    "+@date-last-modified-at": "2026-05-12T18:18:16Z",
+    "+@date-last-updated-at": "2026-05-12T18:18:16Z"
 }
