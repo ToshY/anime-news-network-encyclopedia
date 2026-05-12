@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Cardfight!! Vanguard Divinez Unmei Seisen-hen",
     "+@precision": "movie",
-    "+@generated-on": "2026-04-12T03:46:53Z",
+    "+@generated-on": "2026-05-12T04:06:51Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "37897"
@@ -27,6 +27,11 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "2026-11-07 to 2026-11-21 (TV broadcast)",
+            "+@gid": "1548711329",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "2026-10-02 (Japan)",
             "+@gid": "3664379274",
             "+@type": "Premiere date"
@@ -37,22 +42,59 @@
         "+@datetime": "2026-04-11T03:27:20Z",
         "+@href": "https://www.animenewsnetwork.com:/news/2026-04-10/cardfight-vanguard-announces-new-tv-anime-for-2027-new-theatrical-anime-to-end-divinez-saga/.236288"
     },
-    "staff": {
-        "+@gid": "3833102421",
-        "task": "Original Character Design",
-        "person": {
-            "+content": "CLAMP",
-            "+@id": "5765"
+    "staff": [
+        {
+            "+@gid": "1070933867",
+            "task": "Original Concept",
+            "person": {
+                "+content": "Takaaki Kidani",
+                "+@id": "41628"
+            }
+        },
+        {
+            "+@gid": "2217478114",
+            "task": "Original creator",
+            "person": {
+                "+content": "Akira Itō",
+                "+@id": "79078"
+            }
+        },
+        {
+            "+@gid": "3833102421",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "CLAMP",
+                "+@id": "5765"
+            }
         }
-    },
-    "credit": {
-        "+@gid": "1780667671",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Kinema Citrus",
-            "+@id": "7744"
+    ],
+    "credit": [
+        {
+            "+@gid": "1780667671",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Kinema Citrus",
+                "+@id": "7744"
+            }
+        },
+        {
+            "+@gid": "3462821513",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Gift-o’-Animation",
+                "+@id": "16607"
+            }
+        },
+        {
+            "+@gid": "901249643",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Studio Jemi",
+                "+@id": "20548"
+            }
         }
-    },
+    ],
     "+@date-added": "2026-04-10T23:32:06Z",
-    "+@date-last-updated-at": "2026-04-12T03:46:53Z"
+    "+@date-last-modified-at": "2026-05-12T04:07:01Z",
+    "+@date-last-updated-at": "2026-05-12T04:07:01Z"
 }
