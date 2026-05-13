@@ -2,13 +2,19 @@
     "+@id": "29777",
     "+@gid": "2666604808",
     "+@type": "manga",
-    "+@name": "Sekai Saikyō no Majo, Hajimemashita",
+    "+@name": "World's Strongest Witch",
     "+@precision": "manga",
-    "+@generated-on": "2026-04-11T20:51:37Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "22882"
-    },
+    "+@generated-on": "2026-05-13T15:15:05Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "22882"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "39354"
+        }
+    ],
     "info": [
         {
             "+@gid": "2373464076",
@@ -35,14 +41,20 @@
             ]
         },
         {
-            "+content": "Sekai Saikyō no Majo, Hajimemashita",
-            "+@gid": "1140837358",
+            "+content": "The World's Strongest Witch",
+            "+@gid": "2917434374",
             "+@type": "Main title",
-            "+@lang": "JA"
+            "+@lang": "EN"
         },
         {
             "+content": "Sekai Saikyō no Majo, Hajimemashita: Watashi dake \"Kōryaku Site\" o Mireru Sekai de Jiyū ni Ikimasu",
             "+@gid": "2279503414",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "The World's Strongest Witch: I'm Starting My Free Life in a World Where Only I Can See the Online Strategy Guide",
+            "+@gid": "1826691603",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
@@ -70,6 +82,15 @@
             "+@href": "https://comic-days.com/episode/4856001361157619447"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "3"
+    },
+    "news": {
+        "+content": "<cite>The World's Strongest Witch</cite> Fantasy Novels Get TV Anime in October",
+        "+@datetime": "2026-05-01T04:37:45Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-05-01/the-world-strongest-witch-fantasy-novels-get-tv-anime-in-october/.236987"
+    },
     "staff": [
         {
             "+@gid": "2747450475",
@@ -97,5 +118,6 @@
         }
     ],
     "+@date-added": "2023-09-08T02:31:38Z",
-    "+@date-last-updated-at": "2026-04-11T20:51:38Z"
+    "+@date-last-modified-at": "2026-05-13T15:15:06Z",
+    "+@date-last-updated-at": "2026-05-13T15:15:06Z"
 }

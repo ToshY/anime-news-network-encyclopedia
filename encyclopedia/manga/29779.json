@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Uguisudani Dead Zone",
     "+@precision": "manga",
-    "+@generated-on": "2026-04-11T20:51:37Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "26566"
-    },
+    "+@generated-on": "2026-05-13T15:15:05Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "26566"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "37514"
+        }
+    ],
     "info": [
         {
             "+@gid": "2113973235",
@@ -57,9 +63,21 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2023-04-28 (serialized in Manga Goraku, 2023 5/12 iss)",
+            "+content": "2023-04-28 to 2025-03-07 (Manga Goraku, 2023 5/12 iss - 2025 3/21 iss)",
             "+@gid": "3032790133",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2025-03-28 (serialized on Goraku Web!)",
+            "+@gid": "2650275214",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "鶯谷デッドゾーン | 第1話 ダブルムーン | ゴラクうぇぶ!",
+            "+@gid": "2850198366",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://gorakuweb.com/episode/1424681132628405015/6197510681221754882"
         }
     ],
     "staff": [
@@ -81,5 +99,6 @@
         }
     ],
     "+@date-added": "2023-09-08T03:19:50Z",
-    "+@date-last-updated-at": "2026-04-11T20:51:38Z"
+    "+@date-last-modified-at": "2026-05-13T15:15:06Z",
+    "+@date-last-updated-at": "2026-05-13T15:15:06Z"
 }
