@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Star and Hedgehog",
     "+@precision": "manga",
-    "+@generated-on": "2026-04-13T03:53:39Z",
+    "+@generated-on": "2026-05-13T04:13:38Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "39007"
@@ -72,11 +72,18 @@
             "+@type": "Vintage"
         }
     ],
-    "release": {
-        "+content": "Star and Hedgehog (GN)",
-        "+@date": "2025-10-21",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57697"
-    },
+    "release": [
+        {
+            "+content": "Star and Hedgehog (eBook)",
+            "+@date": "2025-09-30",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57708"
+        },
+        {
+            "+content": "Star and Hedgehog (GN)",
+            "+@date": "2025-10-21",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57697"
+        }
+    ],
     "news": [
         {
             "+content": "Tokyopop Licenses <cite>My Beautiful Man: Interlude</cite>, <cite>Fox and Puppy</cite>, <cite>The Love We Share</cite>, 3 More Titles",
@@ -98,5 +105,6 @@
         }
     },
     "+@date-added": "2026-04-12T08:48:39Z",
-    "+@date-last-updated-at": "2026-04-13T03:53:39Z"
+    "+@date-last-modified-at": "2026-05-13T04:13:40Z",
+    "+@date-last-updated-at": "2026-05-13T04:13:40Z"
 }

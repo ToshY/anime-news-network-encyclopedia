@@ -4,7 +4,7 @@
     "+@type": "magazine",
     "+@name": "Cab",
     "+@precision": "anthology",
-    "+@generated-on": "2026-04-13T03:53:39Z",
+    "+@generated-on": "2026-05-13T04:13:37Z",
     "related-next": [
         {
             "+@id": "38060",
@@ -33,14 +33,36 @@
         {
             "+@id": "39005",
             "+@rel": "serialized"
+        },
+        {
+            "+@id": "13757",
+            "+@rel": "serialized"
+        },
+        {
+            "+@id": "39021",
+            "+@rel": "serialized"
+        },
+        {
+            "+@id": "39103",
+            "+@rel": "serialized"
         }
     ],
-    "info": {
-        "+content": "Cab",
-        "+@gid": "3603778665",
-        "+@type": "Main title",
-        "+@lang": "EN"
-    },
+    "info": [
+        {
+            "+content": "Cab",
+            "+@gid": "3603778665",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
+            "+content": "Cab - 東京漫画社",
+            "+@gid": "1676515216",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://www.tokyomangasha.com/cab/"
+        }
+    ],
     "+@date-added": "2026-04-12T09:18:51Z",
-    "+@date-last-updated-at": "2026-04-13T03:53:39Z"
+    "+@date-last-modified-at": "2026-05-13T04:13:40Z",
+    "+@date-last-updated-at": "2026-05-13T04:13:40Z"
 }
