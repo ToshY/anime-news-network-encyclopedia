@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "Snowball Earth",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-14T17:35:29Z",
+    "+@generated-on": "2026-05-14T18:08:43Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28569"
     },
     "info": [
         {
-            "+@gid": "2479889160",
+            "+@gid": "352435441",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37061-2479889160.1773335774.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37061-352435441.1776260860.jpg",
+            "+@width": "124",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37061-2479889160.1773335774.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37061-352435441.1776260860.jpg",
+                    "+@width": "124",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37061-2479889160.1773335774.jpg",
-                    "+@width": "423",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37061-352435441.1776260860.jpg",
+                    "+@width": "373",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37061-352435441.1776260860.jpg",
+                    "+@width": "1029",
+                    "+@height": "1657"
                 }
             ]
         },
@@ -52,6 +57,16 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "23",
+            "+@gid": "3323642198",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "13",
+            "+@gid": "2819412592",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-04-03",
             "+@gid": "2387307993",
             "+@type": "Vintage"
@@ -75,8 +90,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "4.4458"
+        "+@nb_votes": "4",
+        "+@weighted_score": "5.1814"
     },
     "news": [
         {
@@ -133,6 +148,11 @@
             "+content": "<cite>Dr. Stone: Science Future</cite>, <cite>Mao</cite>, More Spring Anime Titles Stream in India on Anime Times",
             "+@datetime": "2026-04-10T11:43:22Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-10/dr-stone-science-future-mao-more-spring-anime-titles-stream-in-india-on-anime-times/.236266"
+        },
+        {
+            "+content": "Indian Language Dubs for <cite>Observation Records of My Fiancée</cite>, <cite>Snowball Earth</cite> Anime Stream on Crunchyroll",
+            "+@datetime": "2026-04-26T10:04:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-26/indian-language-dubs-for-observation-records-of-my-fiancee-snowball-earth-anime-stream-on-/.236805"
         }
     ],
     "staff": [
@@ -243,6 +263,15 @@
     ],
     "cast": [
         {
+            "+@gid": "2409281501",
+            "+@lang": "EN",
+            "role": "Nayuta Izumi",
+            "person": {
+                "+content": "Kyle McCarley",
+                "+@id": "135130"
+            }
+        },
+        {
             "+@gid": "2547556264",
             "+@lang": "EN",
             "role": "Ao Nogi",
@@ -288,12 +317,84 @@
             }
         },
         {
+            "+@gid": "2258066072",
+            "+@lang": "EN",
+            "role": "Makoto Saionji",
+            "person": {
+                "+content": "Anne Yatco",
+                "+@id": "152297"
+            }
+        },
+        {
+            "+@gid": "2667900411",
+            "+@lang": "EN",
+            "role": "Otoichi Kinoe",
+            "person": {
+                "+content": "Laura Stahl",
+                "+@id": "158750"
+            }
+        },
+        {
+            "+@gid": "1581253428",
+            "+@lang": "EN",
+            "role": "Isseki Sagami",
+            "person": {
+                "+content": "Kellen Goff",
+                "+@id": "163020"
+            }
+        },
+        {
             "+@gid": "1354061598",
             "+@lang": "EN",
             "role": "Tadashi Furumachi",
             "person": {
                 "+content": "Bill Butts",
                 "+@id": "167532"
+            }
+        },
+        {
+            "+@gid": "780698191",
+            "+@lang": "EN",
+            "role": "Hagane Takimura",
+            "person": {
+                "+content": "Madeline Dorroh",
+                "+@id": "203714"
+            }
+        },
+        {
+            "+@gid": "2029905524",
+            "+@lang": "EN",
+            "role": "Tamiya Sakurai",
+            "person": {
+                "+content": "Darius Marquis Johnson",
+                "+@id": "213769"
+            }
+        },
+        {
+            "+@gid": "1204054004",
+            "+@lang": "EN",
+            "role": "Riko Akagi",
+            "person": {
+                "+content": "Jennifer Sun Bell",
+                "+@id": "229690"
+            }
+        },
+        {
+            "+@gid": "2747912347",
+            "+@lang": "EN",
+            "role": "Yuma Uzuki",
+            "person": {
+                "+content": "Aria Saltini",
+                "+@id": "291418"
+            }
+        },
+        {
+            "+@gid": "1366728358",
+            "+@lang": "ES",
+            "role": "Korezo Takimura",
+            "person": {
+                "+content": "Javier Gómez",
+                "+@id": "115961"
             }
         },
         {
@@ -306,12 +407,84 @@
             }
         },
         {
+            "+@gid": "2507040627",
+            "+@lang": "ES",
+            "role": "Tierra de hombres",
+            "person": {
+                "+content": "Ignacio de Anca",
+                "+@id": "121069"
+            }
+        },
+        {
+            "+@gid": "2647919344",
+            "+@lang": "ES",
+            "role": "Ao Nogi",
+            "person": {
+                "+content": "Constanza Faraggi",
+                "+@id": "150428"
+            }
+        },
+        {
+            "+@gid": "3372047953",
+            "+@lang": "ES",
+            "role": "Tamiya Sakurai",
+            "person": {
+                "+content": "Alejandro Bono",
+                "+@id": "154163"
+            }
+        },
+        {
             "+@gid": "2384131257",
             "+@lang": "ES",
             "role": "Tetsuo Yabusame",
             "person": {
                 "+content": "Diego Becerril",
                 "+@id": "171065"
+            }
+        },
+        {
+            "+@gid": "3224070110",
+            "+@lang": "ES",
+            "role": "Otoichi Kinoe",
+            "person": {
+                "+content": "Luciana Mauri",
+                "+@id": "173583"
+            }
+        },
+        {
+            "+@gid": "2001194332",
+            "+@lang": "ES",
+            "role": "Hagane Takimura",
+            "person": {
+                "+content": "Lucía Suárez",
+                "+@id": "175656"
+            }
+        },
+        {
+            "+@gid": "1683616052",
+            "+@lang": "ES",
+            "role": "Riko Akagi",
+            "person": {
+                "+content": "Ximena Viver",
+                "+@id": "176231"
+            }
+        },
+        {
+            "+@gid": "2788303901",
+            "+@lang": "ES",
+            "role": "Yuma Useki",
+            "person": {
+                "+content": "Julia Bilous",
+                "+@id": "229045"
+            }
+        },
+        {
+            "+@gid": "2897355615",
+            "+@lang": "ES",
+            "role": "Isseki Sagami",
+            "person": {
+                "+content": "Olin Garcés",
+                "+@id": "269571"
             }
         },
         {
@@ -450,6 +623,6 @@
         }
     },
     "+@date-added": "2025-07-17T09:06:40Z",
-    "+@date-last-modified-at": "2026-04-14T17:35:36Z",
-    "+@date-last-updated-at": "2026-04-14T17:35:36Z"
+    "+@date-last-modified-at": "2026-05-14T18:08:50Z",
+    "+@date-last-updated-at": "2026-05-14T18:08:50Z"
 }
