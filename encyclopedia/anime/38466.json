@@ -2,9 +2,9 @@
     "+@id": "38466",
     "+@gid": "2518013733",
     "+@type": "TV",
-    "+@name": "Ushiro no Shōmen Kamui-san",
+    "+@name": "KAMUI: He's Behind You",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-14T03:43:22Z",
+    "+@generated-on": "2026-05-14T04:13:48Z",
     "related-prev": [
         {
             "+@rel": "adapted from",
@@ -19,31 +19,37 @@
         {
             "+@gid": "2266828036",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38466-2266828036.1770940526.jpg",
-            "+@width": "200",
-            "+@height": "134",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38466-2266828036.1777356654.jpg",
+            "+@width": "142",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38466-2266828036.1770940526.jpg",
-                    "+@width": "200",
-                    "+@height": "134"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38466-2266828036.1777356654.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38466-2266828036.1770940526.jpg",
-                    "+@width": "500",
-                    "+@height": "334"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38466-2266828036.1777356654.jpg",
+                    "+@width": "425",
+                    "+@height": "600"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38466-2266828036.1770940526.jpg",
-                    "+@width": "600",
-                    "+@height": "401"
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38466-2266828036.1777356654.jpg",
+                    "+@width": "1016",
+                    "+@height": "1433"
                 }
             ]
         },
         {
+            "+content": "KAMUI: He's Behind You",
+            "+@gid": "1297582630",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Ushiro no Shōmen Kamui-san",
             "+@gid": "2870498012",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -61,9 +67,52 @@
             "+content": "2026-07",
             "+@gid": "993203117",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ「うしろの正面カムイさん」公式サイト",
+            "+@gid": "2462816881",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://kamuisan.deregula.com/"
+        },
+        {
+            "+content": "KAMUI ---He's behind you : Official Anime Website",
+            "+@gid": "1014066901",
+            "+@type": "Official website",
+            "+@lang": "EN",
+            "+@href": "https://kamuisan.deregula.com/en/"
         }
     ],
+    "news": {
+        "+content": "<cite>Ushiro no Shōmen Kamui-san</cite> TV Anime's Teaser Unveils Main Cast & Staff, July Debut",
+        "+@datetime": "2026-04-28T09:15:18Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-04-28/ushiro-no-shomen-kamui-san-tv-anime-teaser-unveils-main-cast-and-staff-july-debut/.236874"
+    },
     "staff": [
+        {
+            "+@gid": "3252339830",
+            "task": "Director",
+            "person": {
+                "+content": "Takumi Tsukumo",
+                "+@id": "12735"
+            }
+        },
+        {
+            "+@gid": "2932359914",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Motoshi Chūjō",
+                "+@id": "296831"
+            }
+        },
+        {
+            "+@gid": "3283558754",
+            "task": "Music",
+            "person": {
+                "+content": "Chihiro Endō",
+                "+@id": "274738"
+            }
+        },
         {
             "+@gid": "3281836602",
             "task": "Original creator",
@@ -79,9 +128,128 @@
                 "+content": "Eroki",
                 "+@id": "260576"
             }
+        },
+        {
+            "+@gid": "2475068023",
+            "task": "Character Design",
+            "person": {
+                "+content": "Toshinari Yamashita",
+                "+@id": "989"
+            }
+        },
+        {
+            "+@gid": "1665696770",
+            "task": "Art Director",
+            "person": {
+                "+content": "Shinji Katahira",
+                "+@id": "1226"
+            }
+        },
+        {
+            "+@gid": "3294645452",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Tomoyuki Abe",
+                "+@id": "34030"
+            }
+        },
+        {
+            "+@gid": "4111434303",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Takayuki Noguchi",
+                "+@id": "44545"
+            }
+        },
+        {
+            "+@gid": "2580536821",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Shūhei Abe",
+                "+@id": "77559"
+            }
+        },
+        {
+            "+@gid": "3243108054",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Nankai Teiō",
+                "+@id": "296830"
+            }
+        },
+        {
+            "+@gid": "4033673533",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Tatsuya Yanagihara",
+                "+@id": "199634"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3849783761",
+            "+@lang": "JA",
+            "role": "Kamui",
+            "person": {
+                "+content": "Tomokazu Sugita",
+                "+@id": "910"
+            }
+        },
+        {
+            "+@gid": "1917820005",
+            "+@lang": "JA",
+            "role": "Inagawa",
+            "person": {
+                "+content": "Shiori Izawa",
+                "+@id": "74850"
+            }
+        },
+        {
+            "+@gid": "2381941636",
+            "+@lang": "JA",
+            "role": "Oichi",
+            "person": {
+                "+content": "M.A.O",
+                "+@id": "123756"
+            }
+        },
+        {
+            "+@gid": "2035190689",
+            "+@lang": "JA",
+            "role": "Kyōko",
+            "person": {
+                "+content": "Yuka Aisaka",
+                "+@id": "124966"
+            }
+        },
+        {
+            "+@gid": "2242647473",
+            "+@lang": "JA",
+            "role": "Shizuka Mimizuka",
+            "person": {
+                "+content": "Riko Aono",
+                "+@id": "273411"
+            }
         }
     ],
     "credit": [
+        {
+            "+@gid": "1745937443",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Zero-G",
+                "+@id": "12033"
+            }
+        },
+        {
+            "+@gid": "2190957664",
+            "task": "Animation Production",
+            "company": {
+                "+content": "ZG-R",
+                "+@id": "27686"
+            }
+        },
         {
             "+@gid": "1577850958",
             "task": "Production",
@@ -100,5 +268,6 @@
         }
     ],
     "+@date-added": "2026-02-12T18:54:33Z",
-    "+@date-last-updated-at": "2026-04-14T03:43:28Z"
+    "+@date-last-modified-at": "2026-05-14T04:13:51Z",
+    "+@date-last-updated-at": "2026-05-14T04:13:51Z"
 }
