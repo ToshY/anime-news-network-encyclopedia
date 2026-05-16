@@ -1,10 +1,10 @@
 {
     "+@id": "38295",
     "+@gid": "1676091505",
-    "+@type": "TV",
+    "+@type": "movie",
     "+@name": "Armored Trooper Votoms: Die Graue Hexe",
-    "+@precision": "TV",
-    "+@generated-on": "2026-04-16T06:14:09Z",
+    "+@precision": "movies",
+    "+@generated-on": "2026-05-16T06:35:40Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "94"
@@ -13,24 +13,19 @@
         {
             "+@gid": "3469141555",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38295-3469141555.1768456930.jpg",
-            "+@width": "200",
-            "+@height": "113",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38295-3469141555.1778564926.jpg",
+            "+@width": "141",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38295-3469141555.1768456930.jpg",
-                    "+@width": "200",
-                    "+@height": "113"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38295-3469141555.1778564926.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38295-3469141555.1768456930.jpg",
-                    "+@width": "500",
-                    "+@height": "282"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38295-3469141555.1768456930.jpg",
-                    "+@width": "600",
-                    "+@height": "338"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38295-3469141555.1778564926.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
                 }
             ]
         },
@@ -58,9 +53,13 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026",
-            "+@gid": "2673637209",
+            "+content": "2026-11-20",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2026-11-20 (Japan, Part 1)",
+            "+@gid": "3009271448",
+            "+@type": "Premiere date"
         },
         {
             "+content": "『装甲騎兵ボトムズ 灰色の魔女』",
@@ -70,11 +69,18 @@
             "+@href": "https://www.votoms-gh.com/"
         }
     ],
-    "news": {
-        "+content": "Mamoru Oshii Directs New <cite>Armored Trooper Votoms</cite> Anime",
-        "+@datetime": "2026-01-15T03:35:40Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-01-14/mamoru-oshii-directs-new-armored-trooper-votoms-anime/.233069"
-    },
+    "news": [
+        {
+            "+content": "Mamoru Oshii Directs New <cite>Armored Trooper Votoms</cite> Anime",
+            "+@datetime": "2026-01-15T03:35:40Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-14/mamoru-oshii-directs-new-armored-trooper-votoms-anime/.233069"
+        },
+        {
+            "+content": "New <cite>Votoms</cite> Anime Unveils Main Staff, 2-Film Rollout With 1st Opening on November 20",
+            "+@datetime": "2026-05-12T03:02:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-11/new-votoms-anime-unveils-main-staff-2-film-rollout-with-1st-opening-on-november-20/.237256"
+        }
+    ],
     "staff": [
         {
             "+@gid": "553512557",
@@ -82,6 +88,14 @@
             "person": {
                 "+content": "Mamoru Oshii",
                 "+@id": "52"
+            }
+        },
+        {
+            "+@gid": "1304284596",
+            "task": "Music",
+            "person": {
+                "+content": "Kenji Kawai",
+                "+@id": "140"
             }
         },
         {
@@ -99,6 +113,22 @@
                 "+content": "Ryōsuke Takahashi",
                 "+@id": "3073"
             }
+        },
+        {
+            "+@gid": "2687965543",
+            "task": "Mechanical design",
+            "person": {
+                "+content": "Shinobu Tsuneki",
+                "+@id": "5830"
+            }
+        },
+        {
+            "+@gid": "3063491242",
+            "task": "Mechanical design",
+            "person": {
+                "+content": "Yoshihiro Sono",
+                "+@id": "56495"
+            }
         }
     ],
     "credit": {
@@ -110,5 +140,6 @@
         }
     },
     "+@date-added": "2026-01-15T00:59:41Z",
-    "+@date-last-updated-at": "2026-04-16T06:14:12Z"
+    "+@date-last-modified-at": "2026-05-16T06:35:46Z",
+    "+@date-last-updated-at": "2026-05-16T06:35:46Z"
 }
