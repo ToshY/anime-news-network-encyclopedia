@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-18T05:51:01Z",
+    "+@generated-on": "2026-05-18T11:53:54Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "36120"
@@ -75,6 +75,11 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "1849031257",
+            "+@type": "Running time"
+        },
+        {
             "+content": "12",
             "+@gid": "1525130958",
             "+@type": "Number of episodes"
@@ -85,7 +90,7 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "\"Rafflea\" (ラフレア) by Airi Miyakawa",
+            "+content": "\"La Fleur\" (ラフレア) by Airi Miyakawa",
             "+@gid": "3258465782",
             "+@type": "Opening Theme"
         },
@@ -93,6 +98,11 @@
             "+content": "\"Magic\" by RLOEVO",
             "+@gid": "3230894998",
             "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Chiru made wa\" (散るまでは) by Bertia [Miyu Tomita] (ep 6)",
+            "+@gid": "3246545761",
+            "+@type": "Insert song"
         },
         {
             "+content": "自称悪役令嬢な婚約者の観察記録",
@@ -103,8 +113,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "5.6626"
+        "+@nb_votes": "4",
+        "+@weighted_score": "5.8935"
     },
     "episode": [
         {
@@ -126,9 +136,41 @@
         {
             "+@num": "3",
             "title": {
-                "+content": "Jishou Akuyaku Reijou to Nyuugaku no Kansatsu Kiroku.",
-                "+@gid": "1398366206",
-                "+@lang": "JA"
+                "+content": "An Observation Log of a Self-Proclaimed Villainess and Entering School.",
+                "+@gid": "1902075351",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "An Observation Log of a Self-Proclaimed Villainess and Love's Cupid.",
+                "+@gid": "812112060",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "An Observation Log of a Self-Proclaimed Villainess and First Feelings.",
+                "+@gid": "3419389415",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "An Observation Log of a Self-Proclaimed Villainess and the Resolution of the Matter.",
+                "+@gid": "1889985344",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "Observation Log of a Self-Proclaimed Villainess and Hatred.",
+                "+@gid": "2284841453",
+                "+@lang": "EN"
             }
         }
     ],
@@ -187,6 +229,11 @@
             "+content": "<cite>Observation Records of My Fiancée</cite> Anime Reveals English Dub Cast",
             "+@datetime": "2026-04-17T22:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-17/observation-records-of-my-fiancee-anime-reveals-english-dub-cast/.236497"
+        },
+        {
+            "+content": "Indian Language Dubs for <cite>Observation Records of My Fiancée</cite>, <cite>Snowball Earth</cite> Anime Stream on Crunchyroll",
+            "+@datetime": "2026-04-26T10:04:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-26/indian-language-dubs-for-observation-records-of-my-fiancee-snowball-earth-anime-stream-on-/.236805"
         }
     ],
     "staff": [
@@ -215,11 +262,35 @@
             }
         },
         {
+            "+@gid": "2366656792",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Romanov Higa",
+                "+@id": "14801"
+            }
+        },
+        {
+            "+@gid": "654137999",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Mitsuko Ohya",
+                "+@id": "23879"
+            }
+        },
+        {
             "+@gid": "1874169254",
             "task": "Storyboard",
             "person": {
                 "+content": "Fumikazu Sato",
                 "+@id": "62473"
+            }
+        },
+        {
+            "+@gid": "3228792410",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tomoya Takashima",
+                "+@id": "122018"
             }
         },
         {
@@ -239,6 +310,22 @@
             }
         },
         {
+            "+@gid": "1568705687",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Fukurō Kuma",
+                "+@id": "296583"
+            }
+        },
+        {
+            "+@gid": "2124579368",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Taiki Nishimura",
+                "+@id": "143650"
+            }
+        },
+        {
             "+@gid": "863203452",
             "task": "Episode Director",
             "person": {
@@ -252,6 +339,22 @@
             "person": {
                 "+content": "Junichi Yamamoto",
                 "+@id": "156249"
+            }
+        },
+        {
+            "+@gid": "2035301298",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ryōta Komatsu",
+                "+@id": "243655"
+            }
+        },
+        {
+            "+@gid": "2250682855",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kenya Ueno",
+                "+@id": "267236"
             }
         },
         {
@@ -335,6 +438,22 @@
             }
         },
         {
+            "+@gid": "2406752537",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Sang Min Lee",
+                "+@id": "45686"
+            }
+        },
+        {
+            "+@gid": "1531072535",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Eri Ogawa",
+                "+@id": "49689"
+            }
+        },
+        {
             "+@gid": "492288058",
             "task": "Chief Animation Director",
             "person": {
@@ -351,11 +470,27 @@
             }
         },
         {
+            "+@gid": "2439854374",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Keiko Sasaki",
+                "+@id": "1861"
+            }
+        },
+        {
             "+@gid": "1892288599",
             "task": "Animation Director",
             "person": {
                 "+content": "Takahiro Gotō",
                 "+@id": "8061"
+            }
+        },
+        {
+            "+@gid": "2737847907",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazuyuki Ikai",
+                "+@id": "35484"
             }
         },
         {
@@ -367,11 +502,27 @@
             }
         },
         {
+            "+@gid": "1869739585",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ye He",
+                "+@id": "89289"
+            }
+        },
+        {
             "+@gid": "3380947629",
             "task": "Animation Director",
             "person": {
                 "+content": "Li Wang",
                 "+@id": "93307"
+            }
+        },
+        {
+            "+@gid": "1785776080",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takurō Sakurai",
+                "+@id": "95031"
             }
         },
         {
@@ -383,11 +534,51 @@
             }
         },
         {
+            "+@gid": "3858226216",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Rina Kitahara",
+                "+@id": "98179"
+            }
+        },
+        {
+            "+@gid": "2234420847",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yi Liu",
+                "+@id": "99080"
+            }
+        },
+        {
             "+@gid": "2254766419",
             "task": "Animation Director",
             "person": {
                 "+content": "Haruna Hashimoto",
                 "+@id": "106202"
+            }
+        },
+        {
+            "+@gid": "2452079506",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yue Chen",
+                "+@id": "114583"
+            }
+        },
+        {
+            "+@gid": "2967183667",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yue Wang",
+                "+@id": "114608"
+            }
+        },
+        {
+            "+@gid": "3120765716",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Liang Chen",
+                "+@id": "114624"
             }
         },
         {
@@ -399,6 +590,86 @@
             }
         },
         {
+            "+@gid": "3050291959",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Si Jia Bian",
+                "+@id": "144906"
+            }
+        },
+        {
+            "+@gid": "1410908866",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūya Yoneda",
+                "+@id": "148400"
+            }
+        },
+        {
+            "+@gid": "3218937626",
+            "task": "Animation Director",
+            "person": {
+                "+content": "LAN",
+                "+@id": "152149"
+            }
+        },
+        {
+            "+@gid": "2949973286",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kang Wu",
+                "+@id": "175973"
+            }
+        },
+        {
+            "+@gid": "2408727538",
+            "task": "Animation Director",
+            "person": {
+                "+content": "mono",
+                "+@id": "179072"
+            }
+        },
+        {
+            "+@gid": "2103636185",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Xiao Lin Zhu",
+                "+@id": "182320"
+            }
+        },
+        {
+            "+@gid": "2896303577",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yi Qin",
+                "+@id": "204189"
+            }
+        },
+        {
+            "+@gid": "3256699260",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Rui Luo",
+                "+@id": "205945"
+            }
+        },
+        {
+            "+@gid": "2159303302",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūichirō Numazawa",
+                "+@id": "206086"
+            }
+        },
+        {
+            "+@gid": "3630641994",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kengo",
+                "+@id": "210725"
+            }
+        },
+        {
             "+@gid": "3739538666",
             "task": "Animation Director",
             "person": {
@@ -407,11 +678,27 @@
             }
         },
         {
+            "+@gid": "2986664870",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yang Zhao",
+                "+@id": "212331"
+            }
+        },
+        {
             "+@gid": "1511801347",
             "task": "Animation Director",
             "person": {
                 "+content": "Shu Qiang Tang",
                 "+@id": "215997"
+            }
+        },
+        {
+            "+@gid": "2174559700",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Riko Fujimaki",
+                "+@id": "224054"
             }
         },
         {
@@ -439,11 +726,35 @@
             }
         },
         {
+            "+@gid": "2116760235",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kiria Takashiro",
+                "+@id": "241240"
+            }
+        },
+        {
             "+@gid": "1935459232",
             "task": "Animation Director",
             "person": {
                 "+content": "Abe",
                 "+@id": "245777"
+            }
+        },
+        {
+            "+@gid": "3611174276",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Li Ze Dong",
+                "+@id": "257795"
+            }
+        },
+        {
+            "+@gid": "1712993557",
+            "task": "Animation Director",
+            "person": {
+                "+content": "M. Ali Mukhtar",
+                "+@id": "259492"
             }
         },
         {
@@ -460,6 +771,110 @@
             "person": {
                 "+content": "Si A",
                 "+@id": "261383"
+            }
+        },
+        {
+            "+@gid": "1871366494",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ke Jian Yang",
+                "+@id": "269621"
+            }
+        },
+        {
+            "+@gid": "2312520343",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Miyu Kikuchi",
+                "+@id": "271658"
+            }
+        },
+        {
+            "+@gid": "1576274371",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tao Yi Chen",
+                "+@id": "275820"
+            }
+        },
+        {
+            "+@gid": "2074093123",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hui Yun Yu",
+                "+@id": "276257"
+            }
+        },
+        {
+            "+@gid": "2782536769",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Qian Ru Zhang",
+                "+@id": "277953"
+            }
+        },
+        {
+            "+@gid": "896767246",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Meroma",
+                "+@id": "281919"
+            }
+        },
+        {
+            "+@gid": "1286202136",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Xia Zhou Lin",
+                "+@id": "285509"
+            }
+        },
+        {
+            "+@gid": "2506189819",
+            "task": "Animation Director",
+            "person": {
+                "+content": "eeqa",
+                "+@id": "290827"
+            }
+        },
+        {
+            "+@gid": "1399989427",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zi Qi Rao",
+                "+@id": "292077"
+            }
+        },
+        {
+            "+@gid": "1813666330",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Da Ren Sun",
+                "+@id": "292085"
+            }
+        },
+        {
+            "+@gid": "2315619594",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jing Guo Wang",
+                "+@id": "293351"
+            }
+        },
+        {
+            "+@gid": "2544600831",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Heng Yi Qian",
+                "+@id": "294190"
+            }
+        },
+        {
+            "+@gid": "2394011115",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Guo Jun Zhong",
+                "+@id": "295799"
             }
         },
         {
@@ -511,6 +926,30 @@
             }
         },
         {
+            "+@gid": "1458242141",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jing Yu Qian",
+                "+@id": "296584"
+            }
+        },
+        {
+            "+@gid": "511703855",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yin Ru Chen",
+                "+@id": "296585"
+            }
+        },
+        {
+            "+@gid": "777019624",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yu Jie Xu",
+                "+@id": "296586"
+            }
+        },
+        {
             "+@gid": "2709468916",
             "task": "Sound Director",
             "person": {
@@ -546,6 +985,15 @@
             }
         },
         {
+            "+@gid": "1318066014",
+            "+@lang": "EN",
+            "role": "Nelt Krum",
+            "person": {
+                "+content": "Drew Breedlove",
+                "+@id": "155446"
+            }
+        },
+        {
             "+@gid": "3625994048",
             "+@lang": "EN",
             "role": "Bertia",
@@ -573,6 +1021,87 @@
             }
         },
         {
+            "+@gid": "2320019147",
+            "+@lang": "EN",
+            "role": "Joanna Curtswarren",
+            "person": {
+                "+content": "Katie Wetch",
+                "+@id": "237851"
+            }
+        },
+        {
+            "+@gid": "1831207630",
+            "+@lang": "EN",
+            "role": "Silica Lunea",
+            "person": {
+                "+content": "Uku Leili",
+                "+@id": "242359"
+            }
+        },
+        {
+            "+@gid": "3046969792",
+            "+@lang": "EN",
+            "role": "Cynthia Sornellis",
+            "person": {
+                "+content": "Lexa Childress",
+                "+@id": "253909"
+            }
+        },
+        {
+            "+@gid": "3196834265",
+            "+@lang": "EN",
+            "role": "Kuro",
+            "person": {
+                "+content": "Gillian Lange",
+                "+@id": "262643"
+            }
+        },
+        {
+            "+@gid": "1598446550",
+            "+@lang": "EN",
+            "role": "Charles Laonel",
+            "person": {
+                "+content": "Dustin Parsons",
+                "+@id": "279060"
+            }
+        },
+        {
+            "+@gid": "2664950069",
+            "+@lang": "EN",
+            "role": "Shawn Turqoin Alphasta",
+            "person": {
+                "+content": "Dayeanne Hutton",
+                "+@id": "289678"
+            }
+        },
+        {
+            "+@gid": "2731245918",
+            "+@lang": "EN",
+            "role": "Vald Norgins",
+            "person": {
+                "+content": "Tony Noto",
+                "+@id": "290504"
+            }
+        },
+        {
+            "+@gid": "1603358676",
+            "+@lang": "EN",
+            "role": "Courtgain Deres Mardan",
+            "person": {
+                "+content": "Joshua Hires",
+                "+@id": "292376"
+            }
+        },
+        {
+            "+@gid": "3415853881",
+            "+@lang": "EN",
+            "role": "Anne Cogareth",
+            "person": {
+                "+content": "Cheyenne Haynes",
+                "+@id": "292542"
+            }
+        },
+        {
             "+@gid": "787346523",
             "+@lang": "JA",
             "role": "Heronia Inderon",
@@ -582,12 +1111,39 @@
             }
         },
         {
+            "+@gid": "2293124683",
+            "+@lang": "JA",
+            "role": "Anne Cogareth",
+            "person": {
+                "+content": "Aya Uchida",
+                "+@id": "71069"
+            }
+        },
+        {
+            "+@gid": "1578548658",
+            "+@lang": "JA",
+            "role": "Vald Nohkins",
+            "person": {
+                "+content": "Hidenori Takahashi",
+                "+@id": "71634"
+            }
+        },
+        {
             "+@gid": "1319267558",
             "+@lang": "JA",
             "role": "Zeno",
             "person": {
                 "+content": "Atsushi Tamaru",
                 "+@id": "96013"
+            }
+        },
+        {
+            "+@gid": "2930722754",
+            "+@lang": "JA",
+            "role": "Charles Laonel",
+            "person": {
+                "+content": "Yusuke Shirai",
+                "+@id": "105873"
             }
         },
         {
@@ -624,6 +1180,15 @@
             "person": {
                 "+content": "Yūsuke Kobayashi",
                 "+@id": "123728"
+            }
+        },
+        {
+            "+@gid": "2294497454",
+            "+@lang": "JA",
+            "role": "Cynthia Sornellis",
+            "person": {
+                "+content": "M.A.O",
+                "+@id": "123756"
             }
         },
         {
@@ -672,6 +1237,6 @@
         }
     },
     "+@date-added": "2025-05-12T21:56:41Z",
-    "+@date-last-modified-at": "2026-04-18T05:51:03Z",
-    "+@date-last-updated-at": "2026-04-18T05:51:03Z"
+    "+@date-last-modified-at": "2026-05-18T11:53:58Z",
+    "+@date-last-updated-at": "2026-05-18T11:53:58Z"
 }

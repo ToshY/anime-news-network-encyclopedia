@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Beginning After The End",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-04-18T02:51:22Z",
+    "+@generated-on": "2026-05-18T11:53:52Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "33779"
@@ -58,6 +58,16 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "23",
+            "+@gid": "3584059357",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "12",
+            "+@gid": "2469033550",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-04-01",
             "+@gid": "2356996548",
             "+@type": "Vintage"
@@ -89,7 +99,7 @@
     ],
     "ratings": {
         "+@nb_votes": "3",
-        "+@weighted_score": "3.7366"
+        "+@weighted_score": "3.7375"
     },
     "news": [
         {
@@ -136,6 +146,11 @@
             "+content": "<cite>The Beginning After the End</cite> Season 2 Unveils English Dub's Cast, April 15 Launch",
             "+@datetime": "2026-04-14T03:31:42Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-13/the-beginning-after-the-end-season-2-unveils-english-dub-cast-april-15-launch/.236359"
+        },
+        {
+            "+content": "Hindi Dubs for <cite>The Beginning After the End</cite> Season 2, <cite>Reborn as a Vending Machine</cite> Season 3 Stream on Crunchyroll",
+            "+@datetime": "2026-04-24T11:34:14Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-24/hindi-dubs-for-the-beginning-after-the-end-season-2-reborn-as-a-vending-machine-season-3-stream-on-/.236748"
         }
     ],
     "staff": [
@@ -156,6 +171,22 @@
             }
         },
         {
+            "+@gid": "1308256034",
+            "task": "Script",
+            "person": {
+                "+content": "Tōko Machida",
+                "+@id": "75184"
+            }
+        },
+        {
+            "+@gid": "3083570768",
+            "task": "Script",
+            "person": {
+                "+content": "Kyōko Katsuya",
+                "+@id": "162043"
+            }
+        },
+        {
             "+@gid": "2270089910",
             "task": "Script",
             "person": {
@@ -169,6 +200,14 @@
             "person": {
                 "+content": "Keitarō Motonaga",
                 "+@id": "603"
+            }
+        },
+        {
+            "+@gid": "3453669936",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Bob Shirohata",
+                "+@id": "11408"
             }
         },
         {
@@ -201,6 +240,14 @@
             "person": {
                 "+content": "Shunji Yoshida",
                 "+@id": "3895"
+            }
+        },
+        {
+            "+@gid": "2066132757",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Norihiko Nagahama",
+                "+@id": "30971"
             }
         },
         {
@@ -268,11 +315,83 @@
             }
         },
         {
+            "+@gid": "2460220609",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hajime Yoshida",
+                "+@id": "2247"
+            }
+        },
+        {
+            "+@gid": "1616185394",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Toshiya Washida",
+                "+@id": "9253"
+            }
+        },
+        {
             "+@gid": "3019181509",
             "task": "Animation Director",
             "person": {
                 "+content": "Takayuki Chiba",
                 "+@id": "15795"
+            }
+        },
+        {
+            "+@gid": "1631374836",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yasushi Fujiki",
+                "+@id": "93866"
+            }
+        },
+        {
+            "+@gid": "3171273625",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Miwako Masuki",
+                "+@id": "156651"
+            }
+        },
+        {
+            "+@gid": "1219654496",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Rio Ishizuka",
+                "+@id": "166658"
+            }
+        },
+        {
+            "+@gid": "1591194375",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Moe Takayose",
+                "+@id": "187473"
+            }
+        },
+        {
+            "+@gid": "3898878074",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hibiki Takazoe",
+                "+@id": "210320"
+            }
+        },
+        {
+            "+@gid": "2694419579",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Akira Mizuki",
+                "+@id": "244912"
+            }
+        },
+        {
+            "+@gid": "2720399939",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Toku Toyooka",
+                "+@id": "280402"
             }
         },
         {
@@ -320,6 +439,15 @@
             }
         },
         {
+            "+@gid": "1980846825",
+            "+@lang": "EN",
+            "role": "Vio",
+            "person": {
+                "+content": "Laura Faverty",
+                "+@id": "143641"
+            }
+        },
+        {
             "+@gid": "3169401927",
             "+@lang": "EN",
             "role": "Lucas",
@@ -356,12 +484,165 @@
             }
         },
         {
+            "+@gid": "3236687638",
+            "+@lang": "EN",
+            "role": "Samantha Tempest",
+            "person": {
+                "+content": "Rebecca Danae",
+                "+@id": "249604"
+            }
+        },
+        {
             "+@gid": "3942663326",
             "+@lang": "EN",
             "role": "Sylvie",
             "person": {
                 "+content": "Kayla Temshiv",
                 "+@id": "262637"
+            }
+        },
+        {
+            "+@gid": "1138165027",
+            "+@lang": "ES",
+            "role": "Reynolds Leywin",
+            "person": {
+                "+content": "Daniel Lacy",
+                "+@id": "56822"
+            }
+        },
+        {
+            "+@gid": "3076969141",
+            "+@lang": "ES",
+            "role": "Tessia Eralith",
+            "person": {
+                "+content": "Nycolle González",
+                "+@id": "121463"
+            }
+        },
+        {
+            "+@gid": "2299958149",
+            "+@lang": "ES",
+            "role": "Gray",
+            "person": {
+                "+content": "Geno Sanchez",
+                "+@id": "140368"
+            }
+        },
+        {
+            "+@gid": "2349456553",
+            "+@lang": "ES",
+            "role": "Jasmine FlameWorth",
+            "person": {
+                "+content": "Leslie Gil",
+                "+@id": "154877"
+            }
+        },
+        {
+            "+@gid": "2419516009",
+            "+@lang": "ES",
+            "role": "Alice Leywin",
+            "person": {
+                "+content": "Carla Cerda",
+                "+@id": "179951"
+            }
+        },
+        {
+            "+@gid": "2073018107",
+            "+@lang": "ES",
+            "role": "Siylvie",
+            "person": {
+                "+content": "Ariana Blas",
+                "+@id": "223467"
+            }
+        },
+        {
+            "+@gid": "1335514844",
+            "+@lang": "ES",
+            "role": "Arthur Leywin/Note",
+            "person": {
+                "+content": "Jorge Rafael",
+                "+@id": "234702"
+            }
+        },
+        {
+            "+@gid": "870867644",
+            "+@lang": "FR",
+            "role": "Brald Landon",
+            "person": {
+                "+content": "Gregory Praet",
+                "+@id": "59626"
+            }
+        },
+        {
+            "+@gid": "265440759",
+            "+@lang": "FR",
+            "role": "Jasmine Flamesworth",
+            "person": {
+                "+content": "Célia Torrens",
+                "+@id": "59628"
+            }
+        },
+        {
+            "+@gid": "2295205193",
+            "+@lang": "FR",
+            "role": "Sylvia",
+            "person": {
+                "+content": "Laetitia Liénart",
+                "+@id": "68740"
+            }
+        },
+        {
+            "+@gid": "1950976304",
+            "+@lang": "FR",
+            "role": "Feyrith Ivsaar II",
+            "person": {
+                "+content": "Emilie Guillaume",
+                "+@id": "120794"
+            }
+        },
+        {
+            "+@gid": "1830733002",
+            "+@lang": "FR",
+            "role": "Lucas Wykes",
+            "person": {
+                "+content": "Damien Locqueneux",
+                "+@id": "134761"
+            }
+        },
+        {
+            "+@gid": "388821843",
+            "+@lang": "FR",
+            "role": "Arthur Leywin",
+            "person": {
+                "+content": "Ludivine Deworst",
+                "+@id": "152463"
+            }
+        },
+        {
+            "+@gid": "2855531304",
+            "+@lang": "FR",
+            "role": "Grey",
+            "person": {
+                "+content": "Maxime Van Stantfoort",
+                "+@id": "152792"
+            }
+        },
+        {
+            "+@gid": "866830148",
+            "+@lang": "FR",
+            "role": "Shiun",
+            "person": {
+                "+content": "Stéphane Pirard",
+                "+@id": "166384"
+            }
+        },
+        {
+            "+@gid": "2221157354",
+            "+@lang": "FR",
+            "role": "Tessia Eralith",
+            "person": {
+                "+content": "Catherine Hanotiau",
+                "+@id": "189972"
             }
         },
         {
@@ -462,6 +743,87 @@
                 "+content": "Ryōta Ōsaka",
                 "+@id": "269021"
             }
+        },
+        {
+            "+@gid": "979624550",
+            "+@lang": "PT",
+            "role": "Rei Grey",
+            "person": {
+                "+content": "Raphael Ferreira",
+                "+@id": "64731"
+            }
+        },
+        {
+            "+@gid": "1592063561",
+            "+@lang": "PT",
+            "role": "Alice Leywin",
+            "person": {
+                "+content": "Priscila Franco",
+                "+@id": "67633"
+            }
+        },
+        {
+            "+@gid": "2337413633",
+            "+@lang": "PT",
+            "role": "Reynolds Leywin",
+            "person": {
+                "+content": "Fabrício Vila Verde",
+                "+@id": "86149"
+            }
+        },
+        {
+            "+@gid": "2825814213",
+            "+@lang": "PT",
+            "role": "Eleanor Leywin",
+            "person": {
+                "+content": "Sicilia Vidal",
+                "+@id": "125064"
+            }
+        },
+        {
+            "+@gid": "1316083098",
+            "+@lang": "PT",
+            "role": "Lukas Wykes",
+            "person": {
+                "+content": "Vitor Mello",
+                "+@id": "163249"
+            }
+        },
+        {
+            "+@gid": "795483533",
+            "+@lang": "PT",
+            "role": "Arthur Leywin/Note",
+            "person": {
+                "+content": "Lorenzo Tarantelli",
+                "+@id": "168692"
+            }
+        },
+        {
+            "+@gid": "2107920589",
+            "+@lang": "PT",
+            "role": "Tessia Eralith",
+            "person": {
+                "+content": "Beatriz Singer",
+                "+@id": "192976"
+            }
+        },
+        {
+            "+@gid": "2278684222",
+            "+@lang": "PT",
+            "role": "Jasmine Flamesworth",
+            "person": {
+                "+content": "Stephany Custodi",
+                "+@id": "199952"
+            }
+        },
+        {
+            "+@gid": "1742881620",
+            "+@lang": "PT",
+            "role": "Elijah Knight",
+            "person": {
+                "+content": "Vyni Takahashi",
+                "+@id": "207001"
+            }
         }
     ],
     "credit": [
@@ -483,6 +845,6 @@
         }
     ],
     "+@date-added": "2025-06-11T20:02:35Z",
-    "+@date-last-modified-at": "2026-04-18T03:31:06Z",
-    "+@date-last-updated-at": "2026-04-18T03:31:06Z"
+    "+@date-last-modified-at": "2026-05-18T11:53:58Z",
+    "+@date-last-updated-at": "2026-05-18T11:53:58Z"
 }
