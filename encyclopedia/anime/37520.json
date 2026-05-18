@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Livid Lady's Guide to Getting Even",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-18T03:31:04Z",
+    "+@generated-on": "2026-05-18T04:43:07Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "30713"
@@ -13,18 +13,18 @@
         {
             "+@gid": "561990877",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37520-561990877.1766740127.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37520-561990877.1777628086.jpg",
+            "+@width": "143",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37520-561990877.1766740127.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37520-561990877.1777628086.jpg",
+                    "+@width": "143",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37520-561990877.1766740127.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37520-561990877.1777628086.jpg",
+                    "+@width": "428",
                     "+@height": "600"
                 }
             ]
@@ -64,6 +64,16 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "\"Q.E.D.\" by Yui Ogura",
+            "+@gid": "1534161870",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Goodbye Lullaby\" (グッバイ・ララバイ) by Aguri Ōnishi",
+            "+@gid": "692433800",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "TVアニメ『ブチ切れ令嬢は報復を誓いました。 ～魔導書の力で祖国を叩き潰します～』",
             "+@gid": "1665258499",
             "+@type": "Official website",
@@ -71,11 +81,18 @@
             "+@href": "https://buchigire-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>A Livid Lady's Guide to Getting Even</cite> TV Anime Reveals July 2026 Debut, Main Staff in Video",
-        "+@datetime": "2025-12-26T08:10:24Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-12-26/a-livid-lady-guide-to-getting-even-tv-anime-reveals-july-2026-debut-main-staff-in-video/.232523"
-    },
+    "news": [
+        {
+            "+content": "<cite>A Livid Lady's Guide to Getting Even</cite> TV Anime Reveals July 2026 Debut, Main Staff in Video",
+            "+@datetime": "2025-12-26T08:10:24Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-26/a-livid-lady-guide-to-getting-even-tv-anime-reveals-july-2026-debut-main-staff-in-video/.232523"
+        },
+        {
+            "+content": "<cite>A Livid Lady's Guide to Getting Even</cite> Anime Announces More Cast, Song Info, AX Preview",
+            "+@datetime": "2026-05-01T09:02:29Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-01/a-livid-lady-guide-to-getting-even-anime-announces-more-cast-song-info-ax-preview/.236991"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3658132256",
@@ -142,15 +159,44 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "1740639051",
-        "+@lang": "JA",
-        "role": "Elizabeth Leiston / Ellie Leis",
-        "person": {
-            "+content": "Saori Ōnishi",
-            "+@id": "112494"
+    "cast": [
+        {
+            "+@gid": "2115494226",
+            "+@lang": "JA",
+            "role": "Lunoa Carlton",
+            "person": {
+                "+content": "Yui Ogura",
+                "+@id": "84095"
+            }
+        },
+        {
+            "+@gid": "1740639051",
+            "+@lang": "JA",
+            "role": "Elizabeth Leiston / Ellie Leis",
+            "person": {
+                "+content": "Saori Ōnishi",
+                "+@id": "112494"
+            }
+        },
+        {
+            "+@gid": "1783350679",
+            "+@lang": "JA",
+            "role": "Mireille Katarina",
+            "person": {
+                "+content": "Ikumi Hasegawa",
+                "+@id": "151984"
+            }
+        },
+        {
+            "+@gid": "1347191797",
+            "+@lang": "JA",
+            "role": "Misha Tail",
+            "person": {
+                "+content": "Ayumi Uehara",
+                "+@id": "296887"
+            }
         }
-    },
+    ],
     "credit": {
         "+@gid": "3221982992",
         "task": "Animation Production",
@@ -160,5 +206,6 @@
         }
     },
     "+@date-added": "2025-08-18T16:33:30Z",
-    "+@date-last-updated-at": "2026-04-18T03:31:06Z"
+    "+@date-last-modified-at": "2026-05-18T04:43:10Z",
+    "+@date-last-updated-at": "2026-05-18T04:43:10Z"
 }

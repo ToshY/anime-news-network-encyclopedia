@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "I Want to End This Love Game",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-18T03:31:05Z",
+    "+@generated-on": "2026-05-18T04:43:08Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28565"
@@ -63,6 +63,11 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "3073250592",
+            "+@type": "Running time"
+        },
+        {
             "+content": "12",
             "+@gid": "975121775",
             "+@type": "Number of episodes"
@@ -91,17 +96,59 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "4.8584"
+        "+@nb_votes": "6",
+        "+@weighted_score": "4.2253"
     },
-    "episode": {
-        "+@num": "1",
-        "title": {
-            "+content": "My Childhood Friend Refuses to Accept Defeat",
-            "+@gid": "3562629285",
-            "+@lang": "EN"
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "My Childhood Friend Refuses to Accept Defeat",
+                "+@gid": "3562629285",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "My Childhood Friend Cooks",
+                "+@gid": "1701975466",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "Childhood Friend Seduction",
+                "+@gid": "1837981531",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "My Childhood Friend Will Do Anything",
+                "+@gid": "1662112981",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "Osananajimi wa Asa ni Kuru",
+                "+@gid": "1908111335",
+                "+@lang": "JA"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "Osananajimi wa Tomaritai",
+                "+@gid": "1867743193",
+                "+@lang": "JA"
+            }
         }
-    },
+    ],
     "news": [
         {
             "+content": "<cite>I Want to End This Love Game</cite> TV Anime Reveals Main Cast, Staff, April 2026 Debut",
@@ -218,6 +265,78 @@
     ],
     "cast": [
         {
+            "+@gid": "1927143018",
+            "+@lang": "EN",
+            "role": "Masaru Shinonome",
+            "person": {
+                "+content": "Ian Sinclair",
+                "+@id": "42612"
+            }
+        },
+        {
+            "+@gid": "2887637216",
+            "+@lang": "EN",
+            "role": "Hinako Hanaba",
+            "person": {
+                "+content": "Sara Ragsdale",
+                "+@id": "126054"
+            }
+        },
+        {
+            "+@gid": "2831827080",
+            "+@lang": "EN",
+            "role": "Miku Sakura",
+            "person": {
+                "+content": "Giovannie Cruz",
+                "+@id": "129925"
+            }
+        },
+        {
+            "+@gid": "2132426137",
+            "+@lang": "EN",
+            "role": "Yukiya Asagi",
+            "person": {
+                "+content": "Nicholas Markgraf",
+                "+@id": "219358"
+            }
+        },
+        {
+            "+@gid": "1097312875",
+            "+@lang": "EN",
+            "role": "Wakana Asagi",
+            "person": {
+                "+content": "Rebecca Danae",
+                "+@id": "249604"
+            }
+        },
+        {
+            "+@gid": "3167502394",
+            "+@lang": "ES",
+            "role": "Hinako Hanaba",
+            "person": {
+                "+content": "Alicia Vélez",
+                "+@id": "163564"
+            }
+        },
+        {
+            "+@gid": "2636653311",
+            "+@lang": "ES",
+            "role": "Yukiya Asagi",
+            "person": {
+                "+content": "Óscar López",
+                "+@id": "179981"
+            }
+        },
+        {
+            "+@gid": "2030330650",
+            "+@lang": "ES",
+            "role": "Miku Sakura",
+            "person": {
+                "+content": "Marisol Hamed",
+                "+@id": "208770"
+            }
+        },
+        {
             "+@gid": "2963888576",
             "+@lang": "JA",
             "role": "Masaru Shinonome",
@@ -281,6 +400,6 @@
         }
     },
     "+@date-added": "2025-06-12T06:46:24Z",
-    "+@date-last-modified-at": "2026-04-18T03:31:06Z",
-    "+@date-last-updated-at": "2026-04-18T03:31:06Z"
+    "+@date-last-modified-at": "2026-05-18T04:43:10Z",
+    "+@date-last-updated-at": "2026-05-18T04:43:10Z"
 }

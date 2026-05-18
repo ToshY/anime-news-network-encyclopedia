@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Iron Wok Jan!",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-18T03:31:00Z",
+    "+@generated-on": "2026-05-18T04:43:03Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "1594"
@@ -62,7 +62,7 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026",
+            "+content": "2026-07-05",
             "+@gid": "2028405852",
             "+@type": "Vintage"
         },
@@ -74,11 +74,18 @@
             "+@href": "https://tetsujan.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Iron Wok Jan!</cite> Anime's Teaser Video Unveils Main Cast, More Staff",
-        "+@datetime": "2026-02-15T10:03:21Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-02-15/iron-wok-jan-anime-teaser-video-unveils-main-cast-more-staff/.234213"
-    },
+    "news": [
+        {
+            "+content": "<cite>Iron Wok Jan!</cite> Anime's Teaser Video Unveils Main Cast, More Staff",
+            "+@datetime": "2026-02-15T10:03:21Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-15/iron-wok-jan-anime-teaser-video-unveils-main-cast-more-staff/.234213"
+        },
+        {
+            "+content": "<cite>Iron Wok Jan!</cite> Anime Reveals More Cast, July 5 Debut in Main Promo Video",
+            "+@datetime": "2026-05-15T09:04:51Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-15/iron-wok-jan-anime-reveals-more-cast-july-5-debut-in-main-promo-video/.237389"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3671139035",
@@ -163,6 +170,51 @@
     ],
     "cast": [
         {
+            "+@gid": "2967597203",
+            "+@lang": "JA",
+            "role": "Kei Sawada",
+            "person": {
+                "+content": "Takahiro Sakurai",
+                "+@id": "5039"
+            }
+        },
+        {
+            "+@gid": "1734049548",
+            "+@lang": "JA",
+            "role": "Nichido Ōtani",
+            "person": {
+                "+content": "Masuo Amada",
+                "+@id": "9591"
+            }
+        },
+        {
+            "+@gid": "3690614526",
+            "+@lang": "JA",
+            "role": "Tomohide Jun",
+            "person": {
+                "+content": "Taishi Murata",
+                "+@id": "89772"
+            }
+        },
+        {
+            "+@gid": "2677202638",
+            "+@lang": "JA",
+            "role": "Yūji Kawahara",
+            "person": {
+                "+content": "Yūsuke Kobayashi",
+                "+@id": "123728"
+            }
+        },
+        {
+            "+@gid": "2219935867",
+            "+@lang": "JA",
+            "role": "Celene Yang",
+            "person": {
+                "+content": "M.A.O",
+                "+@id": "123756"
+            }
+        },
+        {
             "+@gid": "1156332812",
             "+@lang": "JA",
             "role": "Takao Okonogi",
@@ -209,5 +261,6 @@
         }
     ],
     "+@date-added": "2025-12-15T04:33:41Z",
-    "+@date-last-updated-at": "2026-04-18T03:31:06Z"
+    "+@date-last-modified-at": "2026-05-18T04:43:10Z",
+    "+@date-last-updated-at": "2026-05-18T04:43:10Z"
 }
