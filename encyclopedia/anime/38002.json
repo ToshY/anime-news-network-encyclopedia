@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Love Unseen Beneath the Clear Night Sky",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-19T09:07:37Z",
+    "+@generated-on": "2026-05-19T11:33:29Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "37427"
@@ -58,9 +58,14 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026-07",
-            "+@gid": "1205000848",
+            "+content": "2026-07-06",
+            "+@gid": "3270563889",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Hikari\" (光) by Yui Sakurai",
+            "+@gid": "387711930",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ『透明な夜にかける君と目に見えない恋をした』",
@@ -77,11 +82,18 @@
             "+@href": "https://sh-anime.shochiku.co.jp/kakekoi/en/"
         }
     ],
-    "news": {
-        "+content": "<cite>Love Unseen Beneath the Clear Night Sky</cite> TV Anime's Teaser Unveils Cast, Staff, July Debut",
-        "+@datetime": "2026-01-04T13:42:21Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-01-04/love-unseen-beneath-the-clear-night-sky-tv-anime-teaser-unveils-cast-staff-july-debut/.232753"
-    },
+    "news": [
+        {
+            "+content": "<cite>Love Unseen Beneath the Clear Night Sky</cite> TV Anime's Teaser Unveils Cast, Staff, July Debut",
+            "+@datetime": "2026-01-04T13:42:21Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-04/love-unseen-beneath-the-clear-night-sky-tv-anime-teaser-unveils-cast-staff-july-debut/.232753"
+        },
+        {
+            "+content": "<cite>Love Unseen Beneath the Clear Night Sky</cite> Anime's 2nd Video Reveals Musical Composer, Ending Song, July 6 Debut",
+            "+@datetime": "2026-04-22T10:32:46Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-22/love-unseen-beneath-the-clear-night-sky-anime-2nd-video-reveals-musical-composer-ending-song-july-6-/.236668"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1221209917",
@@ -97,6 +109,14 @@
             "person": {
                 "+content": "Yūko Kakihara",
                 "+@id": "260892"
+            }
+        },
+        {
+            "+@gid": "2203768124",
+            "task": "Music",
+            "person": {
+                "+content": "Harumi Fuuki",
+                "+@id": "134991"
             }
         },
         {
@@ -129,6 +149,14 @@
             "person": {
                 "+content": "Yūzuki Ishii",
                 "+@id": "248649"
+            }
+        },
+        {
+            "+@gid": "879385949",
+            "task": "Art Director",
+            "person": {
+                "+content": "Miyuki Kawashima",
+                "+@id": "146281"
             }
         },
         {
@@ -211,5 +239,6 @@
         }
     },
     "+@date-added": "2025-11-14T01:02:58Z",
-    "+@date-last-updated-at": "2026-04-19T09:07:42Z"
+    "+@date-last-modified-at": "2026-05-19T11:33:35Z",
+    "+@date-last-updated-at": "2026-05-19T11:33:35Z"
 }
