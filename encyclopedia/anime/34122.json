@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Yowayowa Sensei",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-19T20:55:16Z",
+    "+@generated-on": "2026-05-19T21:47:12Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29471"
@@ -57,6 +57,16 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "2253404375",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "12",
+            "+@gid": "2093010248",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-04-11",
             "+@gid": "1777100248",
             "+@type": "Vintage"
@@ -80,17 +90,51 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
+        "+@nb_votes": "3",
         "+@weighted_score": "2"
     },
-    "episode": {
-        "+@num": "1",
-        "title": {
-            "+content": "Spooky Scary Sensei",
-            "+@gid": "3984927198",
-            "+@lang": "EN"
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "Spooky Scary Sensei",
+                "+@gid": "3984927198",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "Weak and Wimpy After School",
+                "+@gid": "2285842000",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "Communicating By Touch",
+                "+@gid": "2062998103",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "A Weak and Wimpy School Camp",
+                "+@gid": "716247479",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "A Weak and Wimpy Date",
+                "+@gid": "1329989219",
+                "+@lang": "EN"
+            }
         }
-    },
+    ],
     "news": [
         {
             "+content": "<cite>Yowayowa Sensei</cite> TV Anime Reveals Main Cast, Staff, April 2026 Debut (Updated)",
@@ -121,6 +165,11 @@
             "+content": "Ani-One India Streams <cite>Yowayowa Sensei</cite> Anime on April 11",
             "+@datetime": "2026-04-11T08:24:41Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-11/ani-one-india-streams-yowayowa-sensei-anime-on-april-11/.236294"
+        },
+        {
+            "+content": "HIDIVE to Stream English Dubs for <cite>Petals of Reincarnation</cite>, <cite>The Most Heretical Last Boss Queen Season 2</cite>, 2 More Titles",
+            "+@datetime": "2026-05-03T04:27:01Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-03/hidive-to-stream-english-dubs-for-petals-of-reincarnation-the-most-heretical-last-boss-queen-season-/.237023"
         }
     ],
     "staff": [
@@ -376,6 +425,6 @@
         }
     ],
     "+@date-added": "2024-12-03T21:41:37Z",
-    "+@date-last-modified-at": "2026-04-19T20:55:23Z",
-    "+@date-last-updated-at": "2026-04-19T20:55:23Z"
+    "+@date-last-modified-at": "2026-05-19T21:47:20Z",
+    "+@date-last-updated-at": "2026-05-19T21:47:20Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "My Stepmother and Stepsisters Aren't Wicked",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-19T20:55:15Z",
+    "+@generated-on": "2026-05-19T21:47:10Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26422"
@@ -13,18 +13,18 @@
         {
             "+@gid": "1227283332",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37123-1227283332.1753181417.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37123-1227283332.1777281444.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37123-1227283332.1753181417.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37123-1227283332.1777281444.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37123-1227283332.1753181417.jpg",
-                    "+@width": "423",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37123-1227283332.1777281444.jpg",
+                    "+@width": "424",
                     "+@height": "600"
                 }
             ]
@@ -53,7 +53,7 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026",
+            "+content": "2026-07",
             "+@gid": "2232073544",
             "+@type": "Vintage"
         },
@@ -65,11 +65,18 @@
             "+@href": "https://ibikona-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>My Stepmother and Stepsisters Aren't Wicked</cite> TV Anime Reveals 3 More Cast Members",
-        "+@datetime": "2026-02-20T10:15:47Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-02-20/my-stepmother-and-stepsisters-arent-wicked-tv-anime-reveals-3-more-cast-members/.234376"
-    },
+    "news": [
+        {
+            "+content": "<cite>My Stepmother and Stepsisters Aren't Wicked</cite> TV Anime Reveals 3 More Cast Members",
+            "+@datetime": "2026-02-20T10:15:47Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-20/my-stepmother-and-stepsisters-arent-wicked-tv-anime-reveals-3-more-cast-members/.234376"
+        },
+        {
+            "+content": "<cite>My Stepmother and Stepsisters Aren't Wicked</cite> TV Anime's Teaser Unveils New Cast, Staff Members, July Debut",
+            "+@datetime": "2026-04-27T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-27/my-stepmother-and-stepsisters-arent-wicked-tv-anime-teaser-unveils-new-cast-staff-members-july-debut/.236829"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1362416833",
@@ -88,6 +95,14 @@
             }
         },
         {
+            "+@gid": "125366349",
+            "task": "Music",
+            "person": {
+                "+content": "Rina Tayama",
+                "+@id": "263090"
+            }
+        },
+        {
             "+@gid": "3159813791",
             "task": "Original creator",
             "person": {
@@ -101,6 +116,30 @@
             "person": {
                 "+content": "Mutsumi Sasaki",
                 "+@id": "101215"
+            }
+        },
+        {
+            "+@gid": "1707574361",
+            "task": "Art Director",
+            "person": {
+                "+content": "Hideto Nakahara",
+                "+@id": "4377"
+            }
+        },
+        {
+            "+@gid": "1983371828",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Toshiki Kameyama",
+                "+@id": "2582"
+            }
+        },
+        {
+            "+@gid": "3199562476",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yūko Shintani",
+                "+@id": "83802"
             }
         }
     ],
@@ -124,6 +163,15 @@
             }
         },
         {
+            "+@gid": "1167033496",
+            "+@lang": "JA",
+            "role": "Gungnir",
+            "person": {
+                "+content": "Anna Mugiho",
+                "+@id": "132072"
+            }
+        },
+        {
             "+@gid": "3583170735",
             "+@lang": "JA",
             "role": "Arisa Kōnokura",
@@ -142,14 +190,25 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "3682814367",
-        "task": "Animation Production",
-        "company": {
-            "+content": "NEWON",
-            "+@id": "27025"
+    "credit": [
+        {
+            "+@gid": "3682814367",
+            "task": "Animation Production",
+            "company": {
+                "+content": "NEWON",
+                "+@id": "27025"
+            }
+        },
+        {
+            "+@gid": "2568495604",
+            "task": "Production",
+            "company": {
+                "+content": "NBCUniversal Entertainment Japan",
+                "+@id": "12727"
+            }
         }
-    },
+    ],
     "+@date-added": "2025-07-22T06:49:28Z",
-    "+@date-last-updated-at": "2026-04-19T20:55:23Z"
+    "+@date-last-modified-at": "2026-05-19T21:47:20Z",
+    "+@date-last-updated-at": "2026-05-19T21:47:20Z"
 }
