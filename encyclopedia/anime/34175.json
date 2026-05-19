@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Skeleton Knight in Another World",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-04-19T13:35:41Z",
+    "+@generated-on": "2026-05-19T15:50:34Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24313"
@@ -13,17 +13,17 @@
         {
             "+@gid": "1773120008",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34175-1773120008.1768161582.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34175-1773120008.1777164912.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34175-1773120008.1768161582.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34175-1773120008.1777164912.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34175-1773120008.1768161582.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34175-1773120008.1777164912.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
@@ -58,6 +58,11 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "\"Kiseki wa Okinai\" (奇跡は起きない) by DIALOGUE＋",
+            "+@gid": "1311678859",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "TVアニメ「骸骨騎士様、只今異世界へお出掛け中」",
             "+@gid": "1096161048",
             "+@type": "Official website",
@@ -65,11 +70,23 @@
             "+@href": "https://skeleton-knight.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Skeleton Knight in Another World</cite> Season 2's New Video Reveals New, Returning Staff & July Debut",
-        "+@datetime": "2026-01-11T11:51:15Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-01-11/skeleton-knight-in-another-world-season-2-new-video-reveals-new-returning-staff-and-july-debut/.232953"
-    },
+    "news": [
+        {
+            "+content": "<cite>Skeleton Knight in Another World</cite> Season 2's New Video Reveals New, Returning Staff & July Debut",
+            "+@datetime": "2026-01-11T11:51:15Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-11/skeleton-knight-in-another-world-season-2-new-video-reveals-new-returning-staff-and-july-debut/.232953"
+        },
+        {
+            "+content": "<cite>Skeleton Knight in Another World</cite> Season 2 Unveils New Video, More Cast, Ending Song",
+            "+@datetime": "2026-04-26T00:17:21Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-25/skeleton-knight-in-another-world-season-2-unveils-new-video-more-cast-ending-song/.236790"
+        },
+        {
+            "+content": "Crunchyroll to Stream <cite>Smoking Behind the Supermarket With You</cite>, 4 More 2026 Anime; Reveals English Dub Cast for <cite>Wistoria</cite> Season 2",
+            "+@datetime": "2026-04-27T07:45:37Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-27/crunchyroll-to-stream-smoking-behind-the-supermarket-with-you-4-more-2026-anime-reveals-english-dub-/.236806"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1967115210",
@@ -83,7 +100,7 @@
             "+@gid": "2457463997",
             "task": "Series Composition",
             "person": {
-                "+content": "Toshizo Nemoto",
+                "+content": "Toshizō Nemoto",
                 "+@id": "11608"
             }
         },
@@ -172,6 +189,15 @@
             }
         },
         {
+            "+@gid": "2165481260",
+            "+@lang": "JA",
+            "role": "Villiers Fim",
+            "person": {
+                "+content": "Toshihiko Seki",
+                "+@id": "693"
+            }
+        },
+        {
             "+@gid": "2342165102",
             "+@lang": "JA",
             "role": "Dillan",
@@ -190,12 +216,39 @@
             }
         },
         {
+            "+@gid": "2373073938",
+            "+@lang": "JA",
+            "role": "Sasuke",
+            "person": {
+                "+content": "Kenshō Ono",
+                "+@id": "33692"
+            }
+        },
+        {
             "+@gid": "1563215670",
             "+@lang": "JA",
             "role": "Arc",
             "person": {
                 "+content": "Tomoaki Maeno",
                 "+@id": "46653"
+            }
+        },
+        {
+            "+@gid": "3053129230",
+            "+@lang": "JA",
+            "role": "Thanatos",
+            "person": {
+                "+content": "Junichi Suwabe",
+                "+@id": "48696"
+            }
+        },
+        {
+            "+@gid": "330237515",
+            "+@lang": "JA",
+            "role": "Bartod",
+            "person": {
+                "+content": "Gō Shinomiya",
+                "+@id": "49569"
             }
         },
         {
@@ -214,6 +267,15 @@
             "person": {
                 "+content": "Ryōta Takeuchi",
                 "+@id": "69834"
+            }
+        },
+        {
+            "+@gid": "747677769",
+            "+@lang": "JA",
+            "role": "Palurumo",
+            "person": {
+                "+content": "Kenji Akabane",
+                "+@id": "74588"
             }
         },
         {
@@ -241,6 +303,15 @@
             "person": {
                 "+content": "Saori Ōnishi",
                 "+@id": "112494"
+            }
+        },
+        {
+            "+@gid": "2705399496",
+            "+@lang": "JA",
+            "role": "Tsubone",
+            "person": {
+                "+content": "Hitomi Ueda",
+                "+@id": "142425"
             }
         },
         {
@@ -298,5 +369,6 @@
         }
     },
     "+@date-added": "2024-12-15T16:59:32Z",
-    "+@date-last-updated-at": "2026-04-19T13:35:42Z"
+    "+@date-last-modified-at": "2026-05-19T15:50:43Z",
+    "+@date-last-updated-at": "2026-05-19T15:50:43Z"
 }
