@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Holy Grail of Eris",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-20T03:53:11Z",
+    "+@generated-on": "2026-05-20T04:37:42Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25390"
@@ -68,6 +68,16 @@
             "+@type": "Genres"
         },
         {
+            "+content": "romance",
+            "+@gid": "1123690151",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "thriller",
+            "+@gid": "1801189471",
+            "+@type": "Genres"
+        },
+        {
             "+content": "conspiracy",
             "+@gid": "1126184505",
             "+@type": "Themes"
@@ -85,6 +95,11 @@
         {
             "+content": "ghosts",
             "+@gid": "3312994975",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "politics",
+            "+@gid": "1919227561",
             "+@type": "Themes"
         },
         {
@@ -113,6 +128,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "3381882575",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-01-08",
             "+@gid": "2043343714",
             "+@type": "Vintage"
@@ -136,9 +156,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "48",
-        "+@weighted_score": "7.1506",
-        "+@bayesian_score": "7.21468"
+        "+@nb_votes": "50",
+        "+@weighted_score": "7.1567",
+        "+@bayesian_score": "7.21747"
     },
     "episode": [
         {
@@ -529,6 +549,6 @@
         }
     ],
     "+@date-added": "2024-10-20T18:51:27Z",
-    "+@date-last-modified-at": "2026-04-20T03:53:16Z",
-    "+@date-last-updated-at": "2026-04-20T03:53:16Z"
+    "+@date-last-modified-at": "2026-05-20T04:37:47Z",
+    "+@date-last-updated-at": "2026-05-20T04:37:47Z"
 }

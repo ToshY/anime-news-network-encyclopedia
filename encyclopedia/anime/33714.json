@@ -4,15 +4,21 @@
     "+@type": "TV",
     "+@name": "My Hero Academia FINAL SEASON",
     "+@precision": "TV 8",
-    "+@generated-on": "2026-04-20T03:53:12Z",
+    "+@generated-on": "2026-05-20T04:37:44Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "27621"
     },
-    "related-next": {
-        "+@id": "38146",
-        "+@rel": "sequel"
-    },
+    "related-next": [
+        {
+            "+@id": "38146",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "39364",
+            "+@rel": "sequel"
+        }
+    ],
     "info": [
         {
             "+@gid": "2896839979",
@@ -141,9 +147,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "99",
-        "+@weighted_score": "8.2497",
-        "+@bayesian_score": "8.16552"
+        "+@nb_votes": "103",
+        "+@weighted_score": "8.2597",
+        "+@bayesian_score": "8.17737"
     },
     "episode": [
         {
@@ -340,6 +346,11 @@
             "+content": "Japanese Animation TV Ranking, December 8-14",
             "+@datetime": "2025-12-27T11:15:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-12-27/japanese-animation-tv-ranking-december-8-14/.232524"
+        },
+        {
+            "+content": "<cite>My Hero Academia</cite> Anime's Bonus Episode 'More' Previewed in Trailer",
+            "+@datetime": "2026-04-25T09:00:50Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-25/my-hero-academia-anime-bonus-episode-more-previewed-in-trailer/.236784"
         }
     ],
     "staff": [
@@ -1343,6 +1354,33 @@
                 "+content": "Kōsuke Kuwano",
                 "+@id": "146538"
             }
+        },
+        {
+            "+@gid": "2932561417",
+            "+@lang": "TL",
+            "role": "All Might",
+            "person": {
+                "+content": "Pocholo Gonzales",
+                "+@id": "46212"
+            }
+        },
+        {
+            "+@gid": "574899778",
+            "+@lang": "TL",
+            "role": "All For One",
+            "person": {
+                "+content": "Mac Florendo",
+                "+@id": "289435"
+            }
+        },
+        {
+            "+@gid": "3228979217",
+            "+@lang": "TL",
+            "role": "Izuku Midoriya",
+            "person": {
+                "+content": "Kirnsten Hans Tolentino",
+                "+@id": "297464"
+            }
         }
     ],
     "credit": {
@@ -1354,6 +1392,6 @@
         }
     },
     "+@date-added": "2024-10-12T08:14:13Z",
-    "+@date-last-modified-at": "2026-04-20T03:53:16Z",
-    "+@date-last-updated-at": "2026-04-20T03:53:16Z"
+    "+@date-last-modified-at": "2026-05-20T04:37:47Z",
+    "+@date-last-updated-at": "2026-05-20T04:37:47Z"
 }
