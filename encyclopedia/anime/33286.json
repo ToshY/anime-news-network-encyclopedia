@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Go For It, Nakamura-kun!!",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-20T10:10:04Z",
+    "+@generated-on": "2026-05-20T15:24:40Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "20227"
@@ -69,6 +69,11 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "3310366488",
+            "+@type": "Running time"
+        },
+        {
             "+content": "13",
             "+@gid": "2102302855",
             "+@type": "Number of episodes"
@@ -99,8 +104,28 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "#4: \"Makeru Monka\" by BARBEE BOYS (ep 4)",
+            "+content": "#4: \"Makeru Monka\" (負けるもんか) by BARBEE BOYS (ep 4)",
             "+@gid": "1023164308",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#5: \"Fly-day Chinatown\" (フライディ・チャイナタウン) by Yasuha (ep 5)",
+            "+@gid": "3083285522",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#6: \"Sekai de Ichiban Atsui Natsu (Heisei Recording)\" (世界でいちばん熱い夏 [平成レコーディング]) by PRINCESS PRINCESS (ep 6)",
+            "+@gid": "857229229",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#7: \"Rōningyō no Yakata\" (蝋人形の館) by Seikima-II (ep 7)",
+            "+@gid": "2493923692",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#8: \"Runner\" by Bakufu Slump (ep 8)",
+            "+@gid": "2330326631",
             "+@type": "Ending Theme"
         },
         {
@@ -112,8 +137,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "4.878"
+        "+@nb_votes": "4",
+        "+@weighted_score": "7.5271"
     },
     "news": [
         {
@@ -180,6 +205,16 @@
             "+content": "<cite>'Go for It, Nakamura!'</cite> Anime Casts Yō Taichi",
             "+@datetime": "2026-04-20T03:01:51Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-19/go-for-it-nakamura-anime-casts-yo-taichi/.236558"
+        },
+        {
+            "+content": "<cite>'Go for It, Nakamura!'</cite> Anime Reveals New Cast Member",
+            "+@datetime": "2026-05-11T07:35:28Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-11/go-for-it-nakamura-anime-reveals-new-cast-member/.237246"
+        },
+        {
+            "+content": "<cite>'Go for It, Nakamura!'</cite> Anime Casts Kenshō Ono, Kenta Miyake",
+            "+@datetime": "2026-05-18T03:46:55Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-17/go-for-it-nakamura-anime-casts-kensho-ono-kenta-miyake/.237468"
         }
     ],
     "staff": [
@@ -266,6 +301,15 @@
     ],
     "cast": [
         {
+            "+@gid": "3775596495",
+            "+@lang": "EN",
+            "role": "Arandō Tamura",
+            "person": {
+                "+content": "Kyle Igneczi",
+                "+@id": "148012"
+            }
+        },
+        {
             "+@gid": "3143099802",
             "+@lang": "EN",
             "role": "Kota Takeuchi",
@@ -275,12 +319,30 @@
             }
         },
         {
+            "+@gid": "2925658088",
+            "+@lang": "EN",
+            "role": "Reiko Aokiyama",
+            "person": {
+                "+content": "Morgan Lauré",
+                "+@id": "157958"
+            }
+        },
+        {
             "+@gid": "2222032863",
             "+@lang": "EN",
             "role": "Yuka Hamaoka",
             "person": {
                 "+content": "Emi Lo",
                 "+@id": "174014"
+            }
+        },
+        {
+            "+@gid": "2849075779",
+            "+@lang": "EN",
+            "role": "Ko Matsumara",
+            "person": {
+                "+content": "Joshua Waters",
+                "+@id": "196328"
             }
         },
         {
@@ -356,9 +418,90 @@
             }
         },
         {
+            "+@gid": "1847452050",
+            "+@lang": "ES",
+            "role": "Kota Takeuchi",
+            "person": {
+                "+content": "Eduardo Curiel",
+                "+@id": "71667"
+            }
+        },
+        {
+            "+@gid": "3631287683",
+            "+@lang": "ES",
+            "role": "Sra. Nakamura",
+            "person": {
+                "+content": "Irene Jiménez",
+                "+@id": "89344"
+            }
+        },
+        {
+            "+@gid": "2704496787",
+            "+@lang": "ES",
+            "role": "Reiko Aokiyama",
+            "person": {
+                "+content": "Nayeli Mendoza",
+                "+@id": "98220"
+            }
+        },
+        {
+            "+@gid": "2157446634",
+            "+@lang": "ES",
+            "role": "Kana Nakamura",
+            "person": {
+                "+content": "Montserrat Aguilar",
+                "+@id": "150279"
+            }
+        },
+        {
+            "+@gid": "2097723572",
+            "+@lang": "ES",
+            "role": "Tsukasa Omori",
+            "person": {
+                "+content": "Sebastian Garcia",
+                "+@id": "203486"
+            }
+        },
+        {
+            "+@gid": "3010219272",
+            "+@lang": "ES",
+            "role": "Yuka Hamaoka",
+            "person": {
+                "+content": "Melissa Hernández",
+                "+@id": "208960"
+            }
+        },
+        {
+            "+@gid": "3400490172",
+            "+@lang": "ES",
+            "role": "So Otogiri",
+            "person": {
+                "+content": "Javi Sanchez",
+                "+@id": "214465"
+            }
+        },
+        {
+            "+@gid": "120662384",
+            "+@lang": "ES",
+            "role": "Masako Okuda",
+            "person": {
+                "+content": "Yetzary Olcort",
+                "+@id": "220089"
+            }
+        },
+        {
+            "+@gid": "1070499321",
+            "+@lang": "ES",
+            "role": "Ryo Mukai",
+            "person": {
+                "+content": "Sergio Maya",
+                "+@id": "220156"
+            }
+        },
+        {
             "+@gid": "1641581094",
             "+@lang": "ES",
-            "role": "Hifumi",
+            "role": "Hifumi Kawamura",
             "person": {
                 "+content": "Stefanie Izquierdo",
                 "+@id": "224515"
@@ -371,6 +514,15 @@
             "person": {
                 "+content": "Manuel Carmona",
                 "+@id": "295409"
+            }
+        },
+        {
+            "+@gid": "2519787740",
+            "+@lang": "FR",
+            "role": "Tsukasa Omori",
+            "person": {
+                "+content": "Alexandre Coadour",
+                "+@id": "38387"
             }
         },
         {
@@ -398,6 +550,15 @@
             "person": {
                 "+content": "Jean-François Chaulange",
                 "+@id": "198661"
+            }
+        },
+        {
+            "+@gid": "2768010880",
+            "+@lang": "FR",
+            "role": "Arandō Tamura",
+            "person": {
+                "+content": "Romain Pichon",
+                "+@id": "220008"
             }
         },
         {
@@ -455,6 +616,15 @@
             }
         },
         {
+            "+@gid": "3271767580",
+            "+@lang": "FR",
+            "role": "Reiko Aokiyama",
+            "person": {
+                "+content": "Fanny Gatibelza",
+                "+@id": "295552"
+            }
+        },
+        {
             "+@gid": "2369890082",
             "+@lang": "JA",
             "role": "Makunouchi",
@@ -473,6 +643,15 @@
             }
         },
         {
+            "+@gid": "2896606965",
+            "+@lang": "JA",
+            "role": "Kōsei \"Kō-chan\" Matsumura",
+            "person": {
+                "+content": "Kenshō Ono",
+                "+@id": "33692"
+            }
+        },
+        {
             "+@gid": "1740443013",
             "+@lang": "JA",
             "role": "Sou Otogiri",
@@ -488,6 +667,15 @@
             "person": {
                 "+content": "Atsushi Tamaru",
                 "+@id": "96013"
+            }
+        },
+        {
+            "+@gid": "3554304038",
+            "+@lang": "JA",
+            "role": "Arandō Tamura",
+            "person": {
+                "+content": "Shōya Chiba",
+                "+@id": "97379"
             }
         },
         {
@@ -581,6 +769,6 @@
         }
     },
     "+@date-added": "2024-08-16T03:36:49Z",
-    "+@date-last-modified-at": "2026-04-20T10:10:05Z",
-    "+@date-last-updated-at": "2026-04-20T10:10:05Z"
+    "+@date-last-modified-at": "2026-05-20T15:56:54Z",
+    "+@date-last-updated-at": "2026-05-20T15:56:54Z"
 }
