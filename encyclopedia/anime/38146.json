@@ -4,7 +4,7 @@
     "+@type": "special",
     "+@name": "My Hero Academia: More",
     "+@precision": "special",
-    "+@generated-on": "2026-04-20T10:10:00Z",
+    "+@generated-on": "2026-05-20T11:20:45Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "33714"
@@ -58,9 +58,24 @@
             "+@type": "Genres"
         },
         {
+            "+content": "superhero",
+            "+@gid": "1966624035",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "OC",
+            "+@gid": "3071410753",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "Eight years later, Deku and his friends are on their adult hero journeys.",
             "+@gid": "2725154527",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "1183521834",
+            "+@type": "Running time"
         },
         {
             "+content": "2026-05-02",
@@ -68,15 +83,377 @@
             "+@type": "Vintage"
         }
     ],
-    "staff": {
-        "+@gid": "2411941069",
-        "task": "Original creator",
-        "person": {
-            "+content": "Kōhei Horikoshi",
-            "+@id": "101020"
+    "ratings": {
+        "+@nb_votes": "19",
+        "+@weighted_score": "7.5454",
+        "+@bayesian_score": "7.51648"
+    },
+    "news": {
+        "+content": "Japanese Animation TV Ranking, April 27-May 3",
+        "+@datetime": "2026-05-16T23:15:00Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-05-16/japanese-animation-tv-ranking-april-27-may-3/.237353"
+    },
+    "staff": [
+        {
+            "+@gid": "2052177671",
+            "task": "Chief Director",
+            "person": {
+                "+content": "Kenji Nagasaki",
+                "+@id": "23846"
+            }
+        },
+        {
+            "+@gid": "3191734733",
+            "task": "Director",
+            "person": {
+                "+content": "Naomi Nakayama",
+                "+@id": "58492"
+            }
+        },
+        {
+            "+@gid": "2488762767",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Yōsuke Kuroda",
+                "+@id": "1365"
+            }
+        },
+        {
+            "+@gid": "2293190542",
+            "task": "Music",
+            "person": {
+                "+content": "Yūki Hayashi",
+                "+@id": "118529"
+            }
+        },
+        {
+            "+@gid": "2411941069",
+            "task": "Original creator",
+            "person": {
+                "+content": "Kōhei Horikoshi",
+                "+@id": "101020"
+            }
+        },
+        {
+            "+@gid": "2419841779",
+            "task": "Character Design",
+            "person": {
+                "+content": "Yoshihiko Umakoshi",
+                "+@id": "64"
+            }
+        },
+        {
+            "+@gid": "2709622694",
+            "task": "Character Design",
+            "person": {
+                "+content": "Hitomi Odashima",
+                "+@id": "91590"
+            }
+        },
+        {
+            "+@gid": "3086216597",
+            "task": "Art Director",
+            "person": {
+                "+content": "Shigemi Ikeda",
+                "+@id": "18"
+            }
+        },
+        {
+            "+@gid": "1600821771",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yukiko Maruyama",
+                "+@id": "11859"
+            }
+        },
+        {
+            "+@gid": "2188297869",
+            "task": "3D Director",
+            "person": {
+                "+content": "Yōta Andō",
+                "+@id": "100834"
+            }
+        },
+        {
+            "+@gid": "871911846",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Masafumi Mima",
+                "+@id": "317"
+            }
+        },
+        {
+            "+@gid": "2489535805",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Takashi Sawa",
+                "+@id": "216930"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "956526507",
+            "+@lang": "EN",
+            "role": "Tsuyu Asui",
+            "person": {
+                "+content": "Monica Rial",
+                "+@id": "2074"
+            }
+        },
+        {
+            "+@gid": "2550590188",
+            "+@lang": "EN",
+            "role": "Shoto Todoroki",
+            "person": {
+                "+content": "David Matranga",
+                "+@id": "9293"
+            }
+        },
+        {
+            "+@gid": "2217384244",
+            "+@lang": "EN",
+            "role": "Hanta Sero",
+            "person": {
+                "+content": "Christopher Bevins",
+                "+@id": "10793"
+            }
+        },
+        {
+            "+@gid": "1348384180",
+            "+@lang": "EN",
+            "role": "Ochaco Uraraka",
+            "person": {
+                "+content": "Luci Christian",
+                "+@id": "12493"
+            }
+        },
+        {
+            "+@gid": "2304213580",
+            "+@lang": "EN",
+            "role": "Momo Yaoyorozu",
+            "person": {
+                "+content": "Colleen Clinkenbeard",
+                "+@id": "20342"
+            }
+        },
+        {
+            "+@gid": "2122313611",
+            "+@lang": "EN",
+            "role": "Mina Ashido",
+            "person": {
+                "+content": "Caitlin Glass",
+                "+@id": "29271"
+            }
+        },
+        {
+            "+@gid": "2946233933",
+            "+@lang": "EN",
+            "role": "Himiko Toga",
+            "person": {
+                "+content": "Leah Clark",
+                "+@id": "31217"
+            }
+        },
+        {
+            "+@gid": "1358589465",
+            "+@lang": "EN",
+            "role": "Denki Kaminari",
+            "person": {
+                "+content": "Kyle Phillips",
+                "+@id": "72635"
+            }
+        },
+        {
+            "+@gid": "1757840451",
+            "+@lang": "EN",
+            "role": "Mirio Togata",
+            "person": {
+                "+content": "Ricco Fajardo",
+                "+@id": "107339"
+            }
+        },
+        {
+            "+@gid": "3674885276",
+            "+@lang": "EN",
+            "role": "Katsuki Bakugo",
+            "person": {
+                "+content": "Clifford Chapin",
+                "+@id": "122114"
+            }
+        },
+        {
+            "+@gid": "3259777937",
+            "+@lang": "EN",
+            "role": "Izuku Midoriya",
+            "person": {
+                "+content": "Justin Briner",
+                "+@id": "130749"
+            }
+        },
+        {
+            "+@gid": "949235922",
+            "+@lang": "IT",
+            "role": "Izuku Midoriya",
+            "person": {
+                "+content": "Simone Lupinacci",
+                "+@id": "95303"
+            }
+        },
+        {
+            "+@gid": "795909186",
+            "+@lang": "JA",
+            "role": "Toru Hagakure",
+            "person": {
+                "+content": "Kaori Nazuka",
+                "+@id": "439"
+            }
+        },
+        {
+            "+@gid": "4111690468",
+            "+@lang": "JA",
+            "role": "Himiko Toga",
+            "person": {
+                "+content": "Misato Fukuen",
+                "+@id": "5916"
+            }
+        },
+        {
+            "+@gid": "2112627922",
+            "+@lang": "JA",
+            "role": "Mirio Togata",
+            "person": {
+                "+content": "Tarusuke Shingaki",
+                "+@id": "12355"
+            }
+        },
+        {
+            "+@gid": "2281696467",
+            "+@lang": "JA",
+            "role": "Mina Ashido",
+            "person": {
+                "+content": "Eri Kitamura",
+                "+@id": "13838"
+            }
+        },
+        {
+            "+@gid": "2172947414",
+            "+@lang": "JA",
+            "role": "Momo Yaoyorozu",
+            "person": {
+                "+content": "Marina Inoue",
+                "+@id": "20999"
+            }
+        },
+        {
+            "+@gid": "3750346661",
+            "+@lang": "JA",
+            "role": "Hanta Sero",
+            "person": {
+                "+content": "Kiyotaka Furushima",
+                "+@id": "23816"
+            }
+        },
+        {
+            "+@gid": "4192033557",
+            "+@lang": "JA",
+            "role": "Kyoka Jiro",
+            "person": {
+                "+content": "Kei Shindō",
+                "+@id": "51932"
+            }
+        },
+        {
+            "+@gid": "845306496",
+            "+@lang": "JA",
+            "role": "Fumikage Tokoyami",
+            "person": {
+                "+content": "Yoshimasa Hosoya",
+                "+@id": "53773"
+            }
+        },
+        {
+            "+@gid": "2140623655",
+            "+@lang": "JA",
+            "role": "Shoto Todoroki",
+            "person": {
+                "+content": "Yūki Kaji",
+                "+@id": "58051"
+            }
+        },
+        {
+            "+@gid": "2264637439",
+            "+@lang": "JA",
+            "role": "Katsuki Bakugo",
+            "person": {
+                "+content": "Nobuhiko Okamoto",
+                "+@id": "59411"
+            }
+        },
+        {
+            "+@gid": "2503144958",
+            "+@lang": "JA",
+            "role": "Tsuyu Asui",
+            "person": {
+                "+content": "Aoi Yūki",
+                "+@id": "68107"
+            }
+        },
+        {
+            "+@gid": "2013534135",
+            "+@lang": "JA",
+            "role": "Ochaco Uraraka",
+            "person": {
+                "+content": "Ayane Sakura",
+                "+@id": "94383"
+            }
+        },
+        {
+            "+@gid": "1933803394",
+            "+@lang": "JA",
+            "role": "Denki Kaminari",
+            "person": {
+                "+content": "Tasuku Hatanaka",
+                "+@id": "99622"
+            }
+        },
+        {
+            "+@gid": "1548409062",
+            "+@lang": "JA",
+            "role": "Eijiro Kirishima",
+            "person": {
+                "+content": "Toshiki Masuda",
+                "+@id": "99623"
+            }
+        },
+        {
+            "+@gid": "1470582131",
+            "+@lang": "JA",
+            "role": "Tenya Iida",
+            "person": {
+                "+content": "Kaito Ishikawa",
+                "+@id": "114052"
+            }
+        },
+        {
+            "+@gid": "1578345001",
+            "+@lang": "JA",
+            "role": "Izuku Midoriya",
+            "person": {
+                "+content": "Daiki Yamashita",
+                "+@id": "119386"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2509195855",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Bones Film",
+            "+@id": "26060"
         }
     },
     "+@date-added": "2025-12-19T22:40:01Z",
-    "+@date-last-modified-at": "2026-04-20T10:10:05Z",
-    "+@date-last-updated-at": "2026-04-20T10:10:05Z"
+    "+@date-last-modified-at": "2026-05-20T11:20:51Z",
+    "+@date-last-updated-at": "2026-05-20T11:20:51Z"
 }

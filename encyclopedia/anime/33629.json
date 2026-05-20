@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Wistoria: Wand and Sword",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-04-20T06:27:43Z",
+    "+@generated-on": "2026-05-20T11:20:45Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32011"
@@ -108,6 +108,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "2026704132",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-04-12",
             "+@gid": "1942826580",
             "+@type": "Vintage"
@@ -131,8 +136,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "4"
+        "+@nb_votes": "2",
+        "+@weighted_score": "3.1016"
     },
     "episode": [
         {
@@ -146,8 +151,48 @@
         {
             "+@num": "14",
             "title": {
-                "+content": "Jigoku no Kaien",
-                "+@gid": "445021116",
+                "+content": "The Party from Hell Begins",
+                "+@gid": "2759408485",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "15",
+            "title": {
+                "+content": "One Single Magic Spell",
+                "+@gid": "3412687004",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "16",
+            "title": {
+                "+content": "And the Story Begins",
+                "+@gid": "3065428295",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "17",
+            "title": {
+                "+content": "The Day of Departure",
+                "+@gid": "2719670272",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "18",
+            "title": {
+                "+content": "Faasuto Buruumu",
+                "+@gid": "1858681332",
+                "+@lang": "JA"
+            }
+        },
+        {
+            "+@num": "19",
+            "title": {
+                "+content": "Mou Shita o Mukanai to Kare wa Itta",
+                "+@gid": "513835610",
                 "+@lang": "JA"
             }
         }
@@ -187,6 +232,16 @@
             "+content": "<cite>I Want to End This Love Game</cite>, <cite>The Classroom of a Black Cat and a Witch</cite>, More Anime Stream in India on Crunchyroll",
             "+@datetime": "2026-04-17T12:33:25Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-17/i-want-to-end-this-love-game-the-classroom-of-a-black-cat-and-a-witch-more-anime-stream-in-india-on-/.236492"
+        },
+        {
+            "+content": "Crunchyroll to Stream <cite>Smoking Behind the Supermarket With You</cite>, 4 More 2026 Anime; Reveals English Dub Cast for <cite>Wistoria</cite> Season 2",
+            "+@datetime": "2026-04-27T07:45:37Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-27/crunchyroll-to-stream-smoking-behind-the-supermarket-with-you-4-more-2026-anime-reveals-english-dub-/.236806"
+        },
+        {
+            "+content": "<cite>Wistoria: Wand and Sword</cite> Season 2's New Promo Video Teases Next Arc",
+            "+@datetime": "2026-05-10T09:41:29Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-10/wistoria-wand-and-sword-season-2-new-promo-video-teases-next-arc/.237222"
         }
     ],
     "staff": [
@@ -289,6 +344,420 @@
     ],
     "cast": [
         {
+            "+@gid": "1314091147",
+            "+@lang": "EN",
+            "role": "Iris Churchill",
+            "person": {
+                "+content": "Monica Rial",
+                "+@id": "2074"
+            }
+        },
+        {
+            "+@gid": "857409884",
+            "+@lang": "EN",
+            "role": "Edward Serfence",
+            "person": {
+                "+content": "Phil Parsons",
+                "+@id": "10794"
+            }
+        },
+        {
+            "+@gid": "2234791868",
+            "+@lang": "EN",
+            "role": "Workner Norgram",
+            "person": {
+                "+content": "Jim Foronda",
+                "+@id": "29224"
+            }
+        },
+        {
+            "+@gid": "543901345",
+            "+@lang": "EN",
+            "role": "Finn",
+            "person": {
+                "+content": "Shannon Emerick",
+                "+@id": "46544"
+            }
+        },
+        {
+            "+@gid": "3635075729",
+            "+@lang": "EN",
+            "role": "Aron Masterias Oldking",
+            "person": {
+                "+content": "Greg Dulcie",
+                "+@id": "53345"
+            }
+        },
+        {
+            "+@gid": "1522199242",
+            "+@lang": "EN",
+            "role": "Caldron Anouve",
+            "person": {
+                "+content": "Linda Leonard",
+                "+@id": "64274"
+            }
+        },
+        {
+            "+@gid": "1397240534",
+            "+@lang": "EN",
+            "role": "Marze",
+            "person": {
+                "+content": "Ben Bryant",
+                "+@id": "91795"
+            }
+        },
+        {
+            "+@gid": "2874728557",
+            "+@lang": "EN",
+            "role": "Ellenor Ljos Alf",
+            "person": {
+                "+content": "Molly Searcy",
+                "+@id": "121492"
+            }
+        },
+        {
+            "+@gid": "2725884222",
+            "+@lang": "EN",
+            "role": "Zeo Thorzeus Reinbolt",
+            "person": {
+                "+content": "Marcus D. Stimac",
+                "+@id": "125457"
+            }
+        },
+        {
+            "+@gid": "1281580642",
+            "+@lang": "EN",
+            "role": "Kiki",
+            "person": {
+                "+content": "Lynsey Hale",
+                "+@id": "127906"
+            }
+        },
+        {
+            "+@gid": "4176109113",
+            "+@lang": "EN",
+            "role": "Cariot Incindia Wiseman",
+            "person": {
+                "+content": "Xan Cramer",
+                "+@id": "147412"
+            }
+        },
+        {
+            "+@gid": "2559485094",
+            "+@lang": "EN",
+            "role": "Wignall Lindor",
+            "person": {
+                "+content": "Blake McNamara",
+                "+@id": "153166"
+            }
+        },
+        {
+            "+@gid": "2727451524",
+            "+@lang": "EN",
+            "role": "Gordon Baret",
+            "person": {
+                "+content": "Michael Stimac",
+                "+@id": "155854"
+            }
+        },
+        {
+            "+@gid": "2246353878",
+            "+@lang": "EN",
+            "role": "Julius Reinberg",
+            "person": {
+                "+content": "Aaron Michael",
+                "+@id": "164998"
+            }
+        },
+        {
+            "+@gid": "938913251",
+            "+@lang": "EN",
+            "role": "Mike Maius",
+            "person": {
+                "+content": "Joe Cucinotti",
+                "+@id": "168251"
+            }
+        },
+        {
+            "+@gid": "1771660214",
+            "+@lang": "EN",
+            "role": "Mercedes",
+            "person": {
+                "+content": "Brianna Roberts",
+                "+@id": "175302"
+            }
+        },
+        {
+            "+@gid": "2776188866",
+            "+@lang": "EN",
+            "role": "Colette Loire",
+            "person": {
+                "+content": "Corey Pettit",
+                "+@id": "184803"
+            }
+        },
+        {
+            "+@gid": "1716043735",
+            "+@lang": "EN",
+            "role": "Lyril Marze",
+            "person": {
+                "+content": "Tristan Bonner",
+                "+@id": "220305"
+            }
+        },
+        {
+            "+@gid": "1257047347",
+            "+@lang": "EN",
+            "role": "Emma Klever",
+            "person": {
+                "+content": "Hannah Alyea",
+                "+@id": "223713"
+            }
+        },
+        {
+            "+@gid": "3289593294",
+            "+@lang": "EN",
+            "role": "Sion Ulster",
+            "person": {
+                "+content": "Brandon Acosta",
+                "+@id": "232202"
+            }
+        },
+        {
+            "+@gid": "1934963877",
+            "+@lang": "EN",
+            "role": "Lihanna Owenzaus",
+            "person": {
+                "+content": "Erin Kelly Noble",
+                "+@id": "234005"
+            }
+        },
+        {
+            "+@gid": "2026966496",
+            "+@lang": "EN",
+            "role": "Will Serfort",
+            "person": {
+                "+content": "Corey Wilder",
+                "+@id": "235777"
+            }
+        },
+        {
+            "+@gid": "1951027601",
+            "+@lang": "EN",
+            "role": "Clairie Serah",
+            "person": {
+                "+content": "Monica Flatley",
+                "+@id": "240600"
+            }
+        },
+        {
+            "+@gid": "478203063",
+            "+@lang": "EN",
+            "role": "Logwell",
+            "person": {
+                "+content": "Nick Huber",
+                "+@id": "253890"
+            }
+        },
+        {
+            "+@gid": "432230863",
+            "+@lang": "EN",
+            "role": "Elfaria Albis Serfort",
+            "person": {
+                "+content": "Kelsey Cruz",
+                "+@id": "258957"
+            }
+        },
+        {
+            "+@gid": "1276981573",
+            "+@lang": "EN",
+            "role": "Sarissa Alfeld",
+            "person": {
+                "+content": "Elisa Danielle James",
+                "+@id": "280284"
+            }
+        },
+        {
+            "+@gid": "3026696528",
+            "+@lang": "FR",
+            "role": "Julius Reinberg",
+            "person": {
+                "+content": "Benjamin Thomas",
+                "+@id": "19359"
+            }
+        },
+        {
+            "+@gid": "2146617149",
+            "+@lang": "FR",
+            "role": "Aaron Masterias Oldking",
+            "person": {
+                "+content": "Jean-Marc Delhausse",
+                "+@id": "29173"
+            }
+        },
+        {
+            "+@gid": "725598963",
+            "+@lang": "FR",
+            "role": "Sans-Tête",
+            "person": {
+                "+content": "Marie-Line Landerwijn",
+                "+@id": "52873"
+            }
+        },
+        {
+            "+@gid": "2191837875",
+            "+@lang": "FR",
+            "role": "Workner Norgram",
+            "person": {
+                "+content": "Alexandre Crépet",
+                "+@id": "52982"
+            }
+        },
+        {
+            "+@gid": "2502643153",
+            "+@lang": "FR",
+            "role": "Marzé",
+            "person": {
+                "+content": "Sébastien Hebrant",
+                "+@id": "68470"
+            }
+        },
+        {
+            "+@gid": "1340392900",
+            "+@lang": "FR",
+            "role": "Carioth Instia Wiseman",
+            "person": {
+                "+content": "Alessandro Bevilacqua",
+                "+@id": "68534"
+            }
+        },
+        {
+            "+@gid": "1275930630",
+            "+@lang": "FR",
+            "role": "Elfalia Albis Selfort",
+            "person": {
+                "+content": "Laetitia Liénart",
+                "+@id": "68740"
+            }
+        },
+        {
+            "+@gid": "978731211",
+            "+@lang": "FR",
+            "role": "Anouve Cauldron",
+            "person": {
+                "+content": "Nathalie Stas",
+                "+@id": "69333"
+            }
+        },
+        {
+            "+@gid": "3205230623",
+            "+@lang": "FR",
+            "role": "Edward Serfence",
+            "person": {
+                "+content": "Nicolas Matthys",
+                "+@id": "114851"
+            }
+        },
+        {
+            "+@gid": "3236371808",
+            "+@lang": "FR",
+            "role": "Will Selfort",
+            "person": {
+                "+content": "Thibaut Delmotte",
+                "+@id": "120792"
+            }
+        },
+        {
+            "+@gid": "1758510345",
+            "+@lang": "FR",
+            "role": "Rosty Nauman",
+            "person": {
+                "+content": "Damien Locqueneux",
+                "+@id": "134761"
+            }
+        },
+        {
+            "+@gid": "1646523499",
+            "+@lang": "FR",
+            "role": "Kiki",
+            "person": {
+                "+content": "Marie-Ange Teuwen",
+                "+@id": "149623"
+            }
+        },
+        {
+            "+@gid": "2095199980",
+            "+@lang": "FR",
+            "role": "Lianna Owenzaus",
+            "person": {
+                "+content": "Sophie Pyronnet",
+                "+@id": "152789"
+            }
+        },
+        {
+            "+@gid": "2145342882",
+            "+@lang": "FR",
+            "role": "Shion Alstar",
+            "person": {
+                "+content": "Brieuc Lemaire",
+                "+@id": "163757"
+            }
+        },
+        {
+            "+@gid": "2374104791",
+            "+@lang": "FR",
+            "role": "Elnore Ljos Alf",
+            "person": {
+                "+content": "Marie Braam",
+                "+@id": "164178"
+            }
+        },
+        {
+            "+@gid": "2185624130",
+            "+@lang": "FR",
+            "role": "Colette Loire",
+            "person": {
+                "+content": "Aurélie Castin",
+                "+@id": "172711"
+            }
+        },
+        {
+            "+@gid": "598311378",
+            "+@lang": "FR",
+            "role": "Ingnoll Lindor",
+            "person": {
+                "+content": "Matteo Marchese",
+                "+@id": "214002"
+            }
+        },
+        {
+            "+@gid": "3790142728",
+            "+@lang": "FR",
+            "role": "Clerwie Sera",
+            "person": {
+                "+content": "Julie Dieu",
+                "+@id": "217020"
+            }
+        },
+        {
+            "+@gid": "2646488988",
+            "+@lang": "FR",
+            "role": "Iris X. Stella Maris",
+            "person": {
+                "+content": "Julie Dieu",
+                "+@id": "217020"
+            }
+        },
+        {
+            "+@gid": "3653236931",
+            "+@lang": "FR",
+            "role": "Zeo Torzeus Reinbolt",
+            "person": {
+                "+content": "Valentin Vanstechelman",
+                "+@id": "273368"
+            }
+        },
+        {
             "+@gid": "3302711917",
             "+@lang": "JA",
             "role": "Cariot Instia Wiseman",
@@ -331,6 +800,15 @@
             "person": {
                 "+content": "Reiko Suzuki",
                 "+@id": "1576"
+            }
+        },
+        {
+            "+@gid": "2614078150",
+            "+@lang": "JA",
+            "role": "Eliza Nosferat",
+            "person": {
+                "+content": "Ami Koshimizu",
+                "+@id": "17254"
             }
         },
         {
@@ -587,6 +1065,6 @@
         }
     ],
     "+@date-added": "2024-09-29T04:56:46Z",
-    "+@date-last-modified-at": "2026-04-20T06:27:48Z",
-    "+@date-last-updated-at": "2026-04-20T06:27:48Z"
+    "+@date-last-modified-at": "2026-05-20T11:20:51Z",
+    "+@date-last-updated-at": "2026-05-20T11:20:51Z"
 }
