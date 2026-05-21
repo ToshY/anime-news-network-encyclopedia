@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Red River",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-21T06:14:21Z",
+    "+@generated-on": "2026-05-21T15:51:36Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "3438"
@@ -13,17 +13,17 @@
         {
             "+@gid": "2300136692",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38471-2300136692.1771138376.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38471-2300136692.1779336659.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38471-2300136692.1771138376.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38471-2300136692.1779336659.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38471-2300136692.1771138376.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38471-2300136692.1779336659.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
@@ -72,7 +72,7 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026-07",
+            "+content": "2026-07-07",
             "+@gid": "1175522417",
             "+@type": "Vintage"
         },
@@ -84,11 +84,23 @@
             "+@href": "https://www.vap.co.jp/sorahaakaikawanohotori/"
         }
     ],
-    "news": {
-        "+content": "<cite>Red River</cite> Anime's Teaser Reveals Cast, More Staff, Opening Song Artist, July TV Debut",
-        "+@datetime": "2026-03-10T03:33:41Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-09/red-river-anime-teaser-reveals-cast-more-staff-opening-song-artist-july-tv-debut/.235114"
-    },
+    "news": [
+        {
+            "+content": "<cite>Red River</cite> Anime's Teaser Reveals Cast, More Staff, Opening Song Artist, July TV Debut",
+            "+@datetime": "2026-03-10T03:33:41Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-09/red-river-anime-teaser-reveals-cast-more-staff-opening-song-artist-july-tv-debut/.235114"
+        },
+        {
+            "+content": "<cite>Red River</cite> Anime Announces 5 Cast Members",
+            "+@datetime": "2026-04-23T03:44:24Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-22/red-river-anime-announces-5-cast-members/.236698"
+        },
+        {
+            "+content": "<cite>Red River</cite> Anime Unveils 7 Cast Members, July 7 TV Premiere",
+            "+@datetime": "2026-05-21T03:54:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-20/red-river-anime-unveils-7-cast-members-july-7-tv-premiere/.237589"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3368228904",
@@ -131,15 +143,103 @@
             }
         },
         {
+            "+@gid": "2951581090",
+            "task": "Art Director",
+            "person": {
+                "+content": "Katsuki Sarutani",
+                "+@id": "101772"
+            }
+        },
+        {
             "+@gid": "2046890013",
             "task": "Sound Director",
             "person": {
                 "+content": "Hiroto Morishita",
                 "+@id": "107159"
             }
+        },
+        {
+            "+@gid": "2478691587",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Masashi Kamiki",
+                "+@id": "22436"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "2232874933",
+            "+@lang": "JA",
+            "role": "Prince Mattiwaza",
+            "person": {
+                "+content": "Kōsuke Toriumi",
+                "+@id": "3445"
+            }
+        },
+        {
+            "+@gid": "1625064373",
+            "+@lang": "JA",
+            "role": "Ilbani",
+            "person": {
+                "+content": "Tomoaki Maeno",
+                "+@id": "46653"
+            }
+        },
+        {
+            "+@gid": "2219552124",
+            "+@lang": "JA",
+            "role": "Urhi",
+            "person": {
+                "+content": "Kōji Yusa",
+                "+@id": "51073"
+            }
+        },
+        {
+            "+@gid": "2139426840",
+            "+@lang": "JA",
+            "role": "Shala",
+            "person": {
+                "+content": "Misato Matsuoka",
+                "+@id": "53103"
+            }
+        },
+        {
+            "+@gid": "2916591989",
+            "+@lang": "JA",
+            "role": "Queen Nakia",
+            "person": {
+                "+content": "Aya Uchida",
+                "+@id": "71069"
+            }
+        },
+        {
+            "+@gid": "2155181757",
+            "+@lang": "JA",
+            "role": "Zannanza Hattušili",
+            "person": {
+                "+content": "Shōya Chiba",
+                "+@id": "97379"
+            }
+        },
+        {
+            "+@gid": "293459991",
+            "+@lang": "JA",
+            "role": "Rusafa",
+            "person": {
+                "+content": "Junya Enoki",
+                "+@id": "109167"
+            }
+        },
+        {
+            "+@gid": "2742910010",
+            "+@lang": "JA",
+            "role": "Kash",
+            "person": {
+                "+content": "Haruki Ishiya",
+                "+@id": "124503"
+            }
+        },
         {
             "+@gid": "2718551556",
             "+@lang": "JA",
@@ -147,6 +247,24 @@
             "person": {
                 "+content": "Hiroki Nanami",
                 "+@id": "127203"
+            }
+        },
+        {
+            "+@gid": "2857027475",
+            "+@lang": "JA",
+            "role": "Mittannamuwa",
+            "person": {
+                "+content": "Shinichirō Kamio",
+                "+@id": "143925"
+            }
+        },
+        {
+            "+@gid": "2203667271",
+            "+@lang": "JA",
+            "role": "Hadi",
+            "person": {
+                "+content": "Shiki Aoki",
+                "+@id": "144761"
             }
         },
         {
@@ -159,12 +277,30 @@
             }
         },
         {
+            "+@gid": "1153882987",
+            "+@lang": "JA",
+            "role": "Ryui",
+            "person": {
+                "+content": "Natsumi Kawaida",
+                "+@id": "155490"
+            }
+        },
+        {
             "+@gid": "1757484555",
             "+@lang": "JA",
             "role": "Yuri Suzuki",
             "person": {
                 "+content": "Mirai Tachibana",
                 "+@id": "191605"
+            }
+        },
+        {
+            "+@gid": "2974834905",
+            "+@lang": "JA",
+            "role": "Kikkuri",
+            "person": {
+                "+content": "Tomohiro Ōno",
+                "+@id": "197487"
             }
         }
     ],
@@ -177,5 +313,6 @@
         }
     },
     "+@date-added": "2026-02-15T01:51:18Z",
-    "+@date-last-updated-at": "2026-04-21T06:14:26Z"
+    "+@date-last-modified-at": "2026-05-21T15:51:43Z",
+    "+@date-last-updated-at": "2026-05-21T15:51:43Z"
 }

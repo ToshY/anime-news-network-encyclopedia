@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Butt Detective",
     "+@precision": "TV 10",
-    "+@generated-on": "2026-04-21T06:14:21Z",
+    "+@generated-on": "2026-05-21T15:51:36Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "34887"
@@ -70,6 +70,21 @@
             "+content": "Japanese Animation TV Ranking, April 6-12",
             "+@datetime": "2026-04-19T10:15:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-19/japanese-animation-tv-ranking-april-6-12/.236556"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, April 13-19",
+            "+@datetime": "2026-04-25T16:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-25/japanese-animation-tv-ranking-april-13-19/.236750"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, April 20-26",
+            "+@datetime": "2026-05-03T16:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-03/japanese-animation-tv-ranking-april-20-26/.237014"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, April 27-May 3",
+            "+@datetime": "2026-05-16T23:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-16/japanese-animation-tv-ranking-april-27-may-3/.237353"
         }
     ],
     "staff": [
@@ -122,15 +137,26 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "1942787091",
-        "+@lang": "JA",
-        "role": "Oshiri Tantei",
-        "person": {
-            "+content": "Yūko Sanpei",
-            "+@id": "22150"
+    "cast": [
+        {
+            "+@gid": "2609464103",
+            "+@lang": "JA",
+            "role": "Brown",
+            "person": {
+                "+content": "Ayaka Saitō",
+                "+@id": "3183"
+            }
+        },
+        {
+            "+@gid": "1942787091",
+            "+@lang": "JA",
+            "role": "Oshiri Tantei",
+            "person": {
+                "+content": "Yūko Sanpei",
+                "+@id": "22150"
+            }
         }
-    },
+    ],
     "credit": {
         "+@gid": "2546234109",
         "task": "Animation Production",
@@ -140,6 +166,6 @@
         }
     },
     "+@date-added": "2026-03-20T00:24:37Z",
-    "+@date-last-modified-at": "2026-04-21T06:14:26Z",
-    "+@date-last-updated-at": "2026-04-21T06:14:26Z"
+    "+@date-last-modified-at": "2026-05-21T15:51:43Z",
+    "+@date-last-updated-at": "2026-05-21T15:51:43Z"
 }

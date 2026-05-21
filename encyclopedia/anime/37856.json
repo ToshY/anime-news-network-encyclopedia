@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Rent-A-Girlfriend",
     "+@precision": "TV 5",
-    "+@generated-on": "2026-04-21T06:14:24Z",
+    "+@generated-on": "2026-05-21T15:51:38Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32921"
@@ -68,6 +68,11 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "350679232",
+            "+@type": "Running time"
+        },
+        {
             "+content": "12",
             "+@gid": "3299583767",
             "+@type": "Number of episodes"
@@ -96,8 +101,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "2"
+        "+@nb_votes": "2",
+        "+@weighted_score": "8.1523"
     },
     "news": [
         {
@@ -119,6 +124,11 @@
             "+content": "Crunchyroll Announces Release Schedule for Spring 2026 Season",
             "+@datetime": "2026-03-24T18:28:06Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-03-24/crunchyroll-announces-release-schedule-for-spring-2026-season/.235686"
+        },
+        {
+            "+content": "<cite>The Warrior Princess and the Barbaric King</cite>, <cite>Rent-A-Girlfriend</cite> Season 5 Anime Reveal English Dub Casts",
+            "+@datetime": "2026-04-23T16:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-23/the-warrior-princess-and-the-barbaric-king-rent-a-girlfriend-season-5-anime-reveal-english-dub-casts/.236725"
         }
     ],
     "staff": [
@@ -147,6 +157,14 @@
             }
         },
         {
+            "+@gid": "2915670919",
+            "task": "Script",
+            "person": {
+                "+content": "Rie Uehara",
+                "+@id": "190737"
+            }
+        },
+        {
             "+@gid": "2190846022",
             "task": "Storyboard",
             "person": {
@@ -171,6 +189,14 @@
             }
         },
         {
+            "+@gid": "2416594347",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Daigo Kinoshita",
+                "+@id": "202081"
+            }
+        },
+        {
             "+@gid": "2480295096",
             "task": "Storyboard",
             "person": {
@@ -187,11 +213,27 @@
             }
         },
         {
+            "+@gid": "4124866326",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Akiko Nakano",
+                "+@id": "25765"
+            }
+        },
+        {
             "+@gid": "3794532033",
             "task": "Episode Director",
             "person": {
                 "+content": "Akira Mano",
                 "+@id": "32181"
+            }
+        },
+        {
+            "+@gid": "1326973209",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Marie Koizumi",
+                "+@id": "44956"
             }
         },
         {
@@ -251,11 +293,67 @@
             }
         },
         {
+            "+@gid": "1167839898",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Toshiya Washida",
+                "+@id": "9253"
+            }
+        },
+        {
+            "+@gid": "1785093961",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Hanako Kikuchi",
+                "+@id": "109791"
+            }
+        },
+        {
+            "+@gid": "2910614760",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Ayako Nagasaka",
+                "+@id": "115499"
+            }
+        },
+        {
+            "+@gid": "708449600",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Zhi Peng Wu",
+                "+@id": "115616"
+            }
+        },
+        {
             "+@gid": "2659966625",
             "task": "Chief Animation Director",
             "person": {
                 "+content": "Kanna Hirayama",
                 "+@id": "130869"
+            }
+        },
+        {
+            "+@gid": "2886773052",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kazu Uzaki",
+                "+@id": "240170"
+            }
+        },
+        {
+            "+@gid": "2307483437",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Soemy Yuka",
+                "+@id": "276805"
+            }
+        },
+        {
+            "+@gid": "3071586661",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Igor Oleynikov",
+                "+@id": "285598"
             }
         },
         {
@@ -283,11 +381,35 @@
             }
         },
         {
+            "+@gid": "3189961167",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takuya Wada",
+                "+@id": "13056"
+            }
+        },
+        {
+            "+@gid": "1660128284",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kenji Takeguchi",
+                "+@id": "56216"
+            }
+        },
+        {
             "+@gid": "1200831532",
             "task": "Animation Director",
             "person": {
                 "+content": "Yasutaka Hanabusa",
                 "+@id": "63801"
+            }
+        },
+        {
+            "+@gid": "3276877885",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chihiro Saitō",
+                "+@id": "77777"
             }
         },
         {
@@ -307,6 +429,14 @@
             }
         },
         {
+            "+@gid": "1631534805",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zhi Peng Wu",
+                "+@id": "115616"
+            }
+        },
+        {
             "+@gid": "2212644889",
             "task": "Animation Director",
             "person": {
@@ -320,6 +450,14 @@
             "person": {
                 "+content": "Masashi Hioki",
                 "+@id": "136324"
+            }
+        },
+        {
+            "+@gid": "1389708803",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kayoko Kumagai",
+                "+@id": "186517"
             }
         },
         {
@@ -363,11 +501,27 @@
             }
         },
         {
+            "+@gid": "1744813071",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ra Ra Shin",
+                "+@id": "281368"
+            }
+        },
+        {
             "+@gid": "2523160049",
             "task": "Animation Director",
             "person": {
                 "+content": "Igor Oleynikov",
                 "+@id": "285598"
+            }
+        },
+        {
+            "+@gid": "2540473650",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Akari Hiraga",
+                "+@id": "286966"
             }
         },
         {
@@ -420,6 +574,123 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "3447592557",
+            "+@lang": "EN",
+            "role": "Ruka Sarashina",
+            "person": {
+                "+content": "Sarah Anne Williams",
+                "+@id": "135491"
+            }
+        },
+        {
+            "+@gid": "1113230544",
+            "+@lang": "EN",
+            "role": "Mami Nanami",
+            "person": {
+                "+content": "Laura Stahl",
+                "+@id": "158750"
+            }
+        },
+        {
+            "+@gid": "2135149910",
+            "+@lang": "EN",
+            "role": "Kazuya Kinoshita",
+            "person": {
+                "+content": "Alex Mai",
+                "+@id": "164246"
+            }
+        },
+        {
+            "+@gid": "2479981817",
+            "+@lang": "EN",
+            "role": "Chizuru Mizuhara",
+            "person": {
+                "+content": "Celeste Perez",
+                "+@id": "203685"
+            }
+        },
+        {
+            "+@gid": "1183745662",
+            "+@lang": "ES",
+            "role": "Chizuru Mizuhara",
+            "person": {
+                "+content": "Valentina Souza",
+                "+@id": "130966"
+            }
+        },
+        {
+            "+@gid": "1970587221",
+            "+@lang": "ES",
+            "role": "Kazuya Kinoshita",
+            "person": {
+                "+content": "Luis Navarro",
+                "+@id": "133270"
+            }
+        },
+        {
+            "+@gid": "735652397",
+            "+@lang": "ES",
+            "role": "Ruka Sarashina",
+            "person": {
+                "+content": "Amanda Hinojosa",
+                "+@id": "166040"
+            }
+        },
+        {
+            "+@gid": "2156390711",
+            "+@lang": "ES",
+            "role": "Sumi Sakurasawa",
+            "person": {
+                "+content": "Polly Huerta",
+                "+@id": "208905"
+            }
+        },
+        {
+            "+@gid": "697644430",
+            "+@lang": "FR",
+            "role": "Kazuya Kinoshita",
+            "person": {
+                "+content": "Arthur Pestel",
+                "+@id": "38726"
+            }
+        },
+        {
+            "+@gid": "574407264",
+            "+@lang": "FR",
+            "role": "Mami Nanami",
+            "person": {
+                "+content": "Alice Orsat",
+                "+@id": "109045"
+            }
+        },
+        {
+            "+@gid": "2243515999",
+            "+@lang": "FR",
+            "role": "Chizuru Mizuhara",
+            "person": {
+                "+content": "Anna Lauzeray-Gishi",
+                "+@id": "188419"
+            }
+        },
+        {
+            "+@gid": "1306471392",
+            "+@lang": "FR",
+            "role": "Ruka Sarashina",
+            "person": {
+                "+content": "Lauryanne Philippe",
+                "+@id": "212074"
+            }
+        },
+        {
+            "+@gid": "2013835047",
+            "+@lang": "FR",
+            "role": "Sumi Sakurasawa",
+            "person": {
+                "+content": "Manon Adolphe",
+                "+@id": "226362"
+            }
+        },
         {
             "+@gid": "3492283880",
             "+@lang": "JA",
@@ -484,6 +755,6 @@
         }
     },
     "+@date-added": "2025-09-20T04:25:34Z",
-    "+@date-last-modified-at": "2026-04-21T06:14:26Z",
-    "+@date-last-updated-at": "2026-04-21T06:14:26Z"
+    "+@date-last-modified-at": "2026-05-21T15:51:43Z",
+    "+@date-last-updated-at": "2026-05-21T15:51:43Z"
 }
