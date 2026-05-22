@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Angel Next Door Spoils Me Rotten",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-04-21T21:06:37Z",
+    "+@generated-on": "2026-05-22T18:05:30Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "25110"
@@ -63,6 +63,11 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "2501177858",
+            "+@type": "Running time"
+        },
+        {
             "+content": "12",
             "+@gid": "1334100339",
             "+@type": "Number of episodes"
@@ -78,8 +83,13 @@
             "+@type": "Opening Theme"
         },
         {
-            "+content": "#1: \"Ureshii! Tanoshii! Daisuki!\" (うれしい！たのしい！大好き！) by Mahiru Shiina (CV: Manaka Iwami) (eps 1-)",
+            "+content": "#1: \"Ureshii! Tanoshii! Daisuki!\" (うれしい！たのしい！大好き！) by Mahiru Shiina (CV: Manaka Iwami) (eps 1-4, 6-)",
             "+@gid": "2070914572",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#2: \"Natsumatsuri\" (夏祭り) by Mahiru Shiina (CV: Manaka Iwami) (ep 5)",
+            "+@gid": "3385651698",
             "+@type": "Ending Theme"
         },
         {
@@ -91,8 +101,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "8.0406"
+        "+@nb_votes": "4",
+        "+@weighted_score": "6.142"
     },
     "episode": [
         {
@@ -116,6 +126,38 @@
             "title": {
                 "+content": "Homecoming, and Revealing the Relationship",
                 "+@gid": "1020277611",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "A Stay-at-Home Date with the Angel",
+                "+@gid": "2903139611",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "A Summer Festival with the Angel",
+                "+@gid": "1616755291",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "A Once-Desired, Now Undesired Meeting, and a Resolution",
+                "+@gid": "1277746298",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "The Angel's Pleas",
+                "+@gid": "2554152227",
                 "+@lang": "EN"
             }
         }
@@ -298,6 +340,6 @@
         }
     },
     "+@date-added": "2023-10-08T06:35:07Z",
-    "+@date-last-modified-at": "2026-04-21T21:06:42Z",
-    "+@date-last-updated-at": "2026-04-21T21:06:42Z"
+    "+@date-last-modified-at": "2026-05-22T18:05:32Z",
+    "+@date-last-updated-at": "2026-05-22T18:05:32Z"
 }
