@@ -4,27 +4,33 @@
     "+@type": "TV",
     "+@name": "Perfect Addiction",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-22T03:43:31Z",
-    "related-prev": {
-        "+@rel": "adapted from",
-        "+@id": "36419"
-    },
+    "+@generated-on": "2026-05-22T11:18:32Z",
+    "related-prev": [
+        {
+            "+@rel": "adapted from",
+            "+@id": "36419"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "37945"
+        }
+    ],
     "info": [
         {
             "+@gid": "2228455864",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38513-2228455864.1771590420.jpg",
-            "+@width": "160",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38513-2228455864.1779281861.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38513-2228455864.1771590420.jpg",
-                    "+@width": "160",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38513-2228455864.1779281861.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38513-2228455864.1771590420.jpg",
-                    "+@width": "480",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38513-2228455864.1779281861.jpg",
+                    "+@width": "425",
                     "+@height": "600"
                 }
             ]
@@ -45,16 +51,118 @@
             "+content": "romance",
             "+@gid": "1887524198",
             "+@type": "Genres"
+        },
+        {
+            "+content": "Akihito is a college student obsessed with good looks and carnal pleasure, but he can't stand the handsome-yet-aloof Sae. Things come to a head when Akihito is shot down at a singles mixer by a girl who has set her romantic sights on Sae. Furious, he follows Sae to the hotel district, where he learns Sae's secret: he's gay, and he's having trouble enjoying himself in the bedroom. Breaking through Sae's mental barriers is exactly the sexy challenge Akihito needed. <em class=de-emphasized>(from manga)</em>",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2026-07",
+            "+@gid": "3552336253",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ「パーフェクトアディクション」公式サイト",
+            "+@gid": "2069282573",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://animationid.com/perfectaddiction/"
         }
     ],
-    "staff": {
-        "+@gid": "3927934156",
-        "task": "Original creator",
-        "person": {
-            "+content": "Kaoruko Miyama",
-            "+@id": "223294"
-        }
+    "news": {
+        "+content": "<cite>Perfect Addiction</cite> 'Light Anime' Unveils Main Cast & Staff, July Debut",
+        "+@datetime": "2026-05-20T09:36:07Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-05-20/perfect-addiction-light-anime-unveils-main-cast-and-staff-july-debut/.237554"
     },
+    "staff": [
+        {
+            "+@gid": "1833395270",
+            "task": "Director",
+            "person": {
+                "+content": "Akashi Uozumi",
+                "+@id": "297592"
+            }
+        },
+        {
+            "+@gid": "701731051",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Izumi Tezuka",
+                "+@id": "241033"
+            }
+        },
+        {
+            "+@gid": "2240475070",
+            "task": "Music",
+            "person": {
+                "+content": "Midori Narikiyo",
+                "+@id": "279809"
+            }
+        },
+        {
+            "+@gid": "3927934156",
+            "task": "Original creator",
+            "person": {
+                "+content": "Kaoruko Miyama",
+                "+@id": "223294"
+            }
+        },
+        {
+            "+@gid": "2490962468",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Yayoi Tateishi",
+                "+@id": "54248"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1594364250",
+            "+@lang": "JA",
+            "role": "Sae Takatsuki",
+            "person": {
+                "+content": "Sōma Saitō",
+                "+@id": "104960"
+            }
+        },
+        {
+            "+@gid": "3247047941",
+            "+@lang": "JA",
+            "role": "Akihito Kuji",
+            "person": {
+                "+content": "Yōhei Azakami",
+                "+@id": "108274"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "2047337958",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Imageworks Studio",
+                "+@id": "23023"
+            }
+        },
+        {
+            "+@gid": "534526580",
+            "task": "Animation Production",
+            "company": {
+                "+content": "IMAGICA Infos",
+                "+@id": "24988"
+            }
+        },
+        {
+            "+@gid": "2379754469",
+            "task": "Production",
+            "company": {
+                "+content": "AnimationID",
+                "+@id": "25617"
+            }
+        }
+    ],
     "+@date-added": "2026-02-20T07:25:47Z",
-    "+@date-last-updated-at": "2026-04-22T03:43:34Z"
+    "+@date-last-modified-at": "2026-05-22T11:18:41Z",
+    "+@date-last-updated-at": "2026-05-22T11:18:41Z"
 }
