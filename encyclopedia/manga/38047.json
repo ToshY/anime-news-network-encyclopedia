@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Shinjuku 69 Heaven",
     "+@precision": "manga",
-    "+@generated-on": "2026-04-23T09:57:52Z",
+    "+@generated-on": "2026-05-23T10:04:49Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "36895"
@@ -67,16 +67,35 @@
             "+@type": "Vintage"
         }
     ],
-    "release": {
-        "+content": "Shinjuku 69 Heaven (GN 1)",
-        "+@date": "2026-05-19",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=56690"
-    },
-    "news": {
-        "+content": "Tokyopop Reveals 11 New Manga Licenses",
-        "+@datetime": "2025-11-22T07:15:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-11-22/tokyopop-reveals-11-new-manga-licenses/.231292"
-    },
+    "release": [
+        {
+            "+content": "Shinjuku 69 Heaven (eBook 1)",
+            "+@date": "2026-05-19",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=58472"
+        },
+        {
+            "+content": "Shinjuku 69 Heaven (GN 1)",
+            "+@date": "2026-05-19",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=56690"
+        },
+        {
+            "+content": "Shinjuku 69 Heaven (GN 2)",
+            "+@date": "2026-11-17",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=58446"
+        }
+    ],
+    "news": [
+        {
+            "+content": "Tokyopop Reveals 11 New Manga Licenses",
+            "+@datetime": "2025-11-22T07:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-22/tokyopop-reveals-11-new-manga-licenses/.231292"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, May 17-23",
+            "+@datetime": "2026-05-21T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-21/north-american-anime-manga-releases-may-17-23/.237507"
+        }
+    ],
     "staff": {
         "+@gid": "2999945295",
         "task": "Story & Art",
@@ -86,5 +105,6 @@
         }
     },
     "+@date-added": "2025-11-23T08:33:23Z",
-    "+@date-last-updated-at": "2026-04-23T09:57:55Z"
+    "+@date-last-modified-at": "2026-05-23T10:04:51Z",
+    "+@date-last-updated-at": "2026-05-23T10:04:51Z"
 }

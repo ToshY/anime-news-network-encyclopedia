@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Ghost Concert: missing Songs",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-23T09:57:52Z",
+    "+@generated-on": "2026-05-23T10:04:51Z",
     "info": [
         {
             "+@gid": "1079985311",
@@ -48,6 +48,11 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "3245303938",
+            "+@type": "Running time"
+        },
+        {
             "+content": "12",
             "+@gid": "1957823773",
             "+@type": "Number of episodes"
@@ -78,6 +83,26 @@
             "+@type": "Insert song"
         },
         {
+            "+content": "\"Jinsei Byōsha\" (人生描写) by Seria Aiba (CV: Minori Fujidera) & Rembrandt (CV: Reiō Tsuchida) (ep 7)",
+            "+@gid": "1870666404",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Nursing Angel\" by Seria Aiba (CV: Minori Fujidera) & Nightingale (CV: Ami Koshimizu) (ep 5)",
+            "+@gid": "316359236",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Pride\" by Minori Fujidera and Ayahi Takagaki (ep 6)",
+            "+@gid": "2420683997",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"RES∞NALIST\" by Seria Aiba (CV: Minori Fujidera) & Cleopatra (CV: Rina Hidaka) (ep 1)",
+            "+@gid": "2085944135",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "『ゴーストコンサート ; missing Songs』公式サイト",
             "+@gid": "3546206839",
             "+@type": "Official website",
@@ -86,8 +111,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "1.9628"
+        "+@nb_votes": "3",
+        "+@weighted_score": "3.6891"
     },
     "news": [
         {
@@ -229,12 +254,30 @@
             }
         },
         {
+            "+@gid": "1797424004",
+            "+@lang": "JA",
+            "role": "Nightingale",
+            "person": {
+                "+content": "Ami Koshimizu",
+                "+@id": "17254"
+            }
+        },
+        {
             "+@gid": "820289172",
             "+@lang": "JA",
             "role": "Nikola Tesla",
             "person": {
                 "+content": "Takashi Sasaki",
                 "+@id": "32652"
+            }
+        },
+        {
+            "+@gid": "2788845897",
+            "+@lang": "JA",
+            "role": "Bai Lakshmi",
+            "person": {
+                "+content": "Ayahi Takagaki",
+                "+@id": "56455"
             }
         },
         {
@@ -253,6 +296,24 @@
             "person": {
                 "+content": "Rina Hidaka",
                 "+@id": "70503"
+            }
+        },
+        {
+            "+@gid": "2957450961",
+            "+@lang": "JA",
+            "role": "Joan",
+            "person": {
+                "+content": "Akira Sekine",
+                "+@id": "127847"
+            }
+        },
+        {
+            "+@gid": "1408429900",
+            "+@lang": "JA",
+            "role": "Rembrandt",
+            "person": {
+                "+content": "Reiō Tsuchida",
+                "+@id": "134949"
             }
         },
         {
@@ -289,6 +350,15 @@
             "person": {
                 "+content": "Minori Fujidera",
                 "+@id": "214095"
+            }
+        },
+        {
+            "+@gid": "1997476734",
+            "+@lang": "JA",
+            "role": "Akari Murayama",
+            "person": {
+                "+content": "Miyuki Sakurai",
+                "+@id": "244261"
             }
         },
         {
@@ -394,6 +464,6 @@
         }
     ],
     "+@date-added": "2025-10-24T07:18:10Z",
-    "+@date-last-modified-at": "2026-04-23T09:57:58Z",
-    "+@date-last-updated-at": "2026-04-23T09:57:58Z"
+    "+@date-last-modified-at": "2026-05-23T10:04:59Z",
+    "+@date-last-updated-at": "2026-05-23T10:04:59Z"
 }
