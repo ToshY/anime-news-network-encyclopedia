@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Eiga Chiikawa: Ningyo no Shima no Himitsu",
     "+@precision": "movie",
-    "+@generated-on": "2026-04-24T09:55:21Z",
+    "+@generated-on": "2026-05-24T10:12:29Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "24912"
@@ -13,24 +13,24 @@
         {
             "+@gid": "3356845103",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38049-3356845103.1763985510.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38049-3356845103.1777353040.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38049-3356845103.1763985510.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38049-3356845103.1777353040.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38049-3356845103.1763985510.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38049-3356845103.1777353040.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38049-3356845103.1763985510.jpg",
-                    "+@width": "868",
-                    "+@height": "1228"
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38049-3356845103.1777353040.jpg",
+                    "+@width": "848",
+                    "+@height": "1200"
                 }
             ]
         },
@@ -41,10 +41,31 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Chiikawa the Movie: The Secret of the Mermaid Island",
+            "+@gid": "1917054134",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "映画ちいかわ 人魚の島のひみつ",
             "+@gid": "791422130",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "2303611120",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "slice of life",
+            "+@gid": "1905456181",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "AA",
+            "+@gid": "1107391198",
+            "+@type": "Objectionable content"
         },
         {
             "+content": "2026-07-24",
@@ -160,9 +181,51 @@
                 "+content": "Masaharu Okazaki",
                 "+@id": "85175"
             }
+        },
+        {
+            "+@gid": "1367582377",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Yōko Matsuzaki",
+                "+@id": "147324"
+            }
+        },
+        {
+            "+@gid": "2295632675",
+            "task": "Producer",
+            "person": {
+                "+content": "Naoto Shōji",
+                "+@id": "219650"
+            }
+        },
+        {
+            "+@gid": "2148327073",
+            "task": "Producer",
+            "person": {
+                "+content": "Masataka Komine",
+                "+@id": "296829"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "2038970712",
+            "+@lang": "JA",
+            "role": "Momonga",
+            "person": {
+                "+content": "Yuka Iguchi",
+                "+@id": "28316"
+            }
+        },
+        {
+            "+@gid": "2611899000",
+            "+@lang": "JA",
+            "role": "Rakko",
+            "person": {
+                "+content": "Yūma Uchida",
+                "+@id": "124918"
+            }
+        },
         {
             "+@gid": "2767273091",
             "+@lang": "JA",
@@ -170,6 +233,24 @@
             "person": {
                 "+content": "Ari Ozawa",
                 "+@id": "126415"
+            }
+        },
+        {
+            "+@gid": "1928153154",
+            "+@lang": "JA",
+            "role": "Kuri Manjū",
+            "person": {
+                "+content": "Takayuki Asai",
+                "+@id": "135332"
+            }
+        },
+        {
+            "+@gid": "1765207905",
+            "+@lang": "JA",
+            "role": "Shiisaa",
+            "person": {
+                "+content": "Miyuri Shimabukuro",
+                "+@id": "162965"
             }
         },
         {
@@ -189,17 +270,18 @@
                 "+content": "Haruka Aoki",
                 "+@id": "259753"
             }
+        },
+        {
+            "+@gid": "1044121566",
+            "+@lang": "JA",
+            "role": "Secondhand Book Store Owner",
+            "person": {
+                "+content": "Momo Harumi",
+                "+@id": "273663"
+            }
         }
     ],
     "credit": [
-        {
-            "+@gid": "2253992058",
-            "task": "Animation Production",
-            "company": {
-                "+content": "CygamesPictures",
-                "+@id": "16136"
-            }
-        },
         {
             "+@gid": "2802762568",
             "task": "Animation Production",
@@ -218,6 +300,6 @@
         }
     ],
     "+@date-added": "2025-11-24T06:56:46Z",
-    "+@date-last-modified-at": "2026-04-24T09:55:26Z",
-    "+@date-last-updated-at": "2026-04-24T09:55:26Z"
+    "+@date-last-modified-at": "2026-05-24T10:12:35Z",
+    "+@date-last-updated-at": "2026-05-24T10:12:35Z"
 }
