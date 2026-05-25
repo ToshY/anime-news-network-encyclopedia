@@ -2,9 +2,9 @@
     "+@id": "37180",
     "+@gid": "1902451044",
     "+@type": "manga",
-    "+@name": "Takara Shimai",
+    "+@name": "Jackpot Sisters",
     "+@precision": "manga",
-    "+@generated-on": "2026-04-25T03:32:58Z",
+    "+@generated-on": "2026-05-25T17:59:15Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "3089"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "Jackpot Sisters",
+            "+@gid": "3372682555",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Takara Shimai",
             "+@gid": "2135095577",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -52,16 +58,28 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2025-01-04 (serialized in Young Gangan, 2025 #2)",
+            "+content": "3",
+            "+@gid": "3376681103",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2025-01-04 to 2026-05-15 (Young Gangan, 2025 #2 - 2026 #11)",
             "+@gid": "2492561067",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "<cite>Young Gangan</cite> Magazine to Launch 4 New Manga Including <cite>My Dress-Up Darling</cite> Spinoff",
-        "+@datetime": "2024-11-18T08:05:43Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-11-18/young-gangan-magazine-to-launch-4-new-manga-including-my-dress-up-darling-spinoff/.217967"
-    },
+    "news": [
+        {
+            "+content": "<cite>Young Gangan</cite> Magazine to Launch 4 New Manga Including <cite>My Dress-Up Darling</cite> Spinoff",
+            "+@datetime": "2024-11-18T08:05:43Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-11-18/young-gangan-magazine-to-launch-4-new-manga-including-my-dress-up-darling-spinoff/.217967"
+        },
+        {
+            "+content": "Haru Hisakawa's <cite>Takara Shimai</cite> Manga Ends, Gets English Release on Manga UP!",
+            "+@datetime": "2026-05-16T15:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-16/haru-hisakawa-takara-shimai-manga-ends-gets-english-release-on-manga-up/.237421"
+        }
+    ],
     "staff": {
         "+@gid": "819881707",
         "task": "Story & Art",
@@ -71,5 +89,6 @@
         }
     },
     "+@date-added": "2025-07-26T01:18:52Z",
-    "+@date-last-updated-at": "2026-04-25T03:32:59Z"
+    "+@date-last-modified-at": "2026-05-25T17:59:17Z",
+    "+@date-last-updated-at": "2026-05-25T17:59:17Z"
 }
