@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Witch Hat Atelier",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-24T09:55:24Z",
+    "+@generated-on": "2026-05-25T21:35:14Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "21181"
@@ -36,6 +36,12 @@
             "+@lang": "EN"
         },
         {
+            "+content": "L'Atelier des Sorciers",
+            "+@gid": "1972849128",
+            "+@type": "Alternative title",
+            "+@lang": "FR"
+        },
+        {
             "+content": "Tongari Bōshi no Atelier",
             "+@gid": "3281382135",
             "+@type": "Alternative title",
@@ -63,6 +69,11 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "3074721123",
+            "+@type": "Running time"
+        },
+        {
             "+content": "13",
             "+@gid": "3315688282",
             "+@type": "Number of episodes"
@@ -83,8 +94,13 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "#2: \"Yoru ni Ukabu\" (夜に浮かぶ) by Nakamura Hak (ep 3)",
+            "+content": "#2: \"Yoru ni Ukabu\" (夜に浮かぶ) by Nakamura Hak (eps 3, 5)",
             "+@gid": "3503379287",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#3: \"Hikari\" (光り; Light) by Nakamura Hak",
+            "+@gid": "2650373727",
             "+@type": "Ending Theme"
         },
         {
@@ -103,8 +119,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "7.5348"
+        "+@nb_votes": "9",
+        "+@weighted_score": "8.1691"
     },
     "episode": [
         {
@@ -136,6 +152,46 @@
             "title": {
                 "+content": "Meetings in Kalhn",
                 "+@gid": "2103702067",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "The Dragon's Labyrinth",
+                "+@gid": "2201347466",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "A Light on a Rainy Day",
+                "+@gid": "3260371352",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "Who Is Magic For?",
+                "+@gid": "1129670008",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "The Misgivings of the Knights Moralis",
+                "+@gid": "2519637605",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "A Nightmare Stained in Black",
+                "+@gid": "1205555410",
                 "+@lang": "EN"
             }
         }
@@ -185,6 +241,21 @@
             "+content": "<cite>Witch Hat Atelier</cite> Anime Gets 2-Episode Premiere With Same-Day English Dub (Updated With Trailer)",
             "+@datetime": "2026-03-26T16:46:30Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-03-26/witch-hat-atelier-anime-gets-2-episode-premiere-with-same-day-english-dub/.235773"
+        },
+        {
+            "+content": "<cite>Witch Hat Atelier</cite> Anime Gets Hindi Dub",
+            "+@datetime": "2026-05-04T07:58:40Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-04/witch-hat-atelier-anime-gets-hindi-dub/.237059"
+        },
+        {
+            "+content": "<cite>Witch Hat Atelier</cite> Anime Reveals More Cast",
+            "+@datetime": "2026-05-04T22:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-04/witch-hat-atelier-anime-reveals-more-cast/.237081"
+        },
+        {
+            "+content": "<cite>Witch Hat Atelier</cite> Anime Reveals 3rd Ending Theme Song",
+            "+@datetime": "2026-05-06T02:56:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-05/witch-hat-atelier-anime-reveals-3rd-ending-theme-song/.237109"
         }
     ],
     "staff": [
@@ -263,6 +334,96 @@
     ],
     "cast": [
         {
+            "+@gid": "2607700406",
+            "+@lang": "DE",
+            "role": "Qifrey",
+            "person": {
+                "+content": "Tammo Kaulbarsch",
+                "+@id": "48347"
+            }
+        },
+        {
+            "+@gid": "1590816223",
+            "+@lang": "DE",
+            "role": "Coco",
+            "person": {
+                "+content": "Julia Fölster",
+                "+@id": "48349"
+            }
+        },
+        {
+            "+@gid": "1974437509",
+            "+@lang": "DE",
+            "role": "Iguin",
+            "person": {
+                "+content": "Nils Rieke",
+                "+@id": "67409"
+            }
+        },
+        {
+            "+@gid": "3794938997",
+            "+@lang": "DE",
+            "role": "Riche",
+            "person": {
+                "+content": "Jana Dunja Gries",
+                "+@id": "130831"
+            }
+        },
+        {
+            "+@gid": "1950781573",
+            "+@lang": "DE",
+            "role": "Alaira",
+            "person": {
+                "+content": "Nina-Mercedés Rühl",
+                "+@id": "180216"
+            }
+        },
+        {
+            "+@gid": "976110106",
+            "+@lang": "DE",
+            "role": "Eas'heas/Easthies",
+            "person": {
+                "+content": "Vincent Fallow",
+                "+@id": "186693"
+            }
+        },
+        {
+            "+@gid": "1478001155",
+            "+@lang": "DE",
+            "role": "Brushbuddy",
+            "person": {
+                "+content": "Toni Michael Sattler",
+                "+@id": "197509"
+            }
+        },
+        {
+            "+@gid": "1806827229",
+            "+@lang": "DE",
+            "role": "Agathe/Agott",
+            "person": {
+                "+content": "Kaya Malin Kröger",
+                "+@id": "211516"
+            }
+        },
+        {
+            "+@gid": "3815920670",
+            "+@lang": "DE",
+            "role": "Olruggio",
+            "person": {
+                "+content": "Tim Niebuhr",
+                "+@id": "269193"
+            }
+        },
+        {
+            "+@gid": "2909175280",
+            "+@lang": "DE",
+            "role": "Tetia",
+            "person": {
+                "+content": "Elisa Pioch",
+                "+@id": "275730"
+            }
+        },
+        {
             "+@gid": "1620157897",
             "+@lang": "EN",
             "role": "Brushbuddy",
@@ -278,6 +439,24 @@
             "person": {
                 "+content": "Sarah Wiedenheft",
                 "+@id": "128620"
+            }
+        },
+        {
+            "+@gid": "2782850928",
+            "+@lang": "EN",
+            "role": "Galga",
+            "person": {
+                "+content": "Major Attaway",
+                "+@id": "130212"
+            }
+        },
+        {
+            "+@gid": "1345349948",
+            "+@lang": "EN",
+            "role": "Luluci",
+            "person": {
+                "+content": "Natalie Van Sistine",
+                "+@id": "148111"
             }
         },
         {
@@ -308,6 +487,15 @@
             }
         },
         {
+            "+@gid": "2523633848",
+            "+@lang": "EN",
+            "role": "Utowin",
+            "person": {
+                "+content": "Gary Furlong",
+                "+@id": "191670"
+            }
+        },
+        {
             "+@gid": "4141038821",
             "+@lang": "EN",
             "role": "Qifrey",
@@ -323,6 +511,15 @@
             "person": {
                 "+content": "Anjali Kunapaneni",
                 "+@id": "207814"
+            }
+        },
+        {
+            "+@gid": "2195105505",
+            "+@lang": "EN",
+            "role": "Easthies",
+            "person": {
+                "+content": "Sean Letourneau",
+                "+@id": "232187"
             }
         },
         {
@@ -524,6 +721,15 @@
             }
         },
         {
+            "+@gid": "576842975",
+            "+@lang": "FR",
+            "role": "Ysheath",
+            "person": {
+                "+content": "Simon Duprez",
+                "+@id": "151712"
+            }
+        },
+        {
             "+@gid": "3409459227",
             "+@lang": "FR",
             "role": "Kieffrey",
@@ -553,7 +759,7 @@
         {
             "+@gid": "2349214606",
             "+@lang": "FR",
-            "role": "Agathe",
+            "role": "Agathe Achrome",
             "person": {
                 "+content": "Catherine Hanotiau",
                 "+@id": "189972"
@@ -578,6 +784,24 @@
             }
         },
         {
+            "+@gid": "1882145356",
+            "+@lang": "IT",
+            "role": "Dagda",
+            "person": {
+                "+content": "David Chevalier",
+                "+@id": "35847"
+            }
+        },
+        {
+            "+@gid": "3204070996",
+            "+@lang": "IT",
+            "role": "Utowin",
+            "person": {
+                "+content": "Davide Perino",
+                "+@id": "38012"
+            }
+        },
+        {
             "+@gid": "1480474749",
             "+@lang": "IT",
             "role": "Iguin",
@@ -593,6 +817,15 @@
             "person": {
                 "+content": "Gaia Bolognesi",
                 "+@id": "51111"
+            }
+        },
+        {
+            "+@gid": "3099374052",
+            "+@lang": "IT",
+            "role": "Luluci",
+            "person": {
+                "+content": "Joy Saltarelli",
+                "+@id": "70851"
             }
         },
         {
@@ -623,6 +856,15 @@
             }
         },
         {
+            "+@gid": "1596904831",
+            "+@lang": "IT",
+            "role": "Easthies",
+            "person": {
+                "+content": "Emanuele Ruzza",
+                "+@id": "144488"
+            }
+        },
+        {
             "+@gid": "1647366325",
             "+@lang": "IT",
             "role": "Agate",
@@ -641,12 +883,39 @@
             }
         },
         {
+            "+@gid": "2129447201",
+            "+@lang": "IT",
+            "role": "Galga",
+            "person": {
+                "+content": "Gabriele Vender",
+                "+@id": "174805"
+            }
+        },
+        {
             "+@gid": "624301938",
             "+@lang": "IT",
             "role": "Orugio",
             "person": {
                 "+content": "Alessandro Parise",
                 "+@id": "216162"
+            }
+        },
+        {
+            "+@gid": "2002572176",
+            "+@lang": "IT",
+            "role": "Insetto pennello",
+            "person": {
+                "+content": "Paola Moscelli",
+                "+@id": "246191"
+            }
+        },
+        {
+            "+@gid": "1309440636",
+            "+@lang": "IT",
+            "role": "Custas",
+            "person": {
+                "+content": "Davide Doviziani",
+                "+@id": "253632"
             }
         },
         {
@@ -677,12 +946,57 @@
             }
         },
         {
+            "+@gid": "2702570650",
+            "+@lang": "JA",
+            "role": "Nolnoa",
+            "person": {
+                "+content": "Yoshito Yasuhara",
+                "+@id": "2109"
+            }
+        },
+        {
             "+@gid": "1507361738",
             "+@lang": "JA",
             "role": "Olruggio",
             "person": {
                 "+content": "Yūichi Nakamura",
                 "+@id": "15878"
+            }
+        },
+        {
+            "+@gid": "2670676870",
+            "+@lang": "JA",
+            "role": "Galga",
+            "person": {
+                "+content": "Hiroki Yasumoto",
+                "+@id": "30785"
+            }
+        },
+        {
+            "+@gid": "1346639344",
+            "+@lang": "JA",
+            "role": "Easthies",
+            "person": {
+                "+content": "Junichi Suwabe",
+                "+@id": "48696"
+            }
+        },
+        {
+            "+@gid": "1163696755",
+            "+@lang": "JA",
+            "role": "Luluci",
+            "person": {
+                "+content": "Yui Ishikawa",
+                "+@id": "63509"
+            }
+        },
+        {
+            "+@gid": "3183821249",
+            "+@lang": "JA",
+            "role": "Tartah",
+            "person": {
+                "+content": "Mutsumi Tamura",
+                "+@id": "70817"
             }
         },
         {
@@ -710,6 +1024,15 @@
             "person": {
                 "+content": "Natsuki Hanae",
                 "+@id": "106773"
+            }
+        },
+        {
+            "+@gid": "1948548514",
+            "+@lang": "JA",
+            "role": "Utowin",
+            "person": {
+                "+content": "Jun Kasama",
+                "+@id": "125180"
             }
         },
         {
@@ -803,6 +1126,6 @@
         }
     },
     "+@date-added": "2022-04-05T22:10:24Z",
-    "+@date-last-modified-at": "2026-04-24T09:55:26Z",
-    "+@date-last-updated-at": "2026-04-24T09:55:26Z"
+    "+@date-last-modified-at": "2026-05-25T21:35:16Z",
+    "+@date-last-updated-at": "2026-05-25T21:35:16Z"
 }
