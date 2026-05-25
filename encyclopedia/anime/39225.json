@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Ribbon Hero",
     "+@precision": "movie",
-    "+@generated-on": "2026-04-25T03:32:54Z",
+    "+@generated-on": "2026-05-25T15:28:52Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "1340"
@@ -54,11 +54,18 @@
             "+@href": "https://www.theribbonhero.com/"
         }
     ],
-    "news": {
-        "+content": "Netflix, Twin Engine Produce <cite>The Ribbon Hero</cite> Anime Film Based on Tezuka's <cite>Princess Knight</cite>",
-        "+@datetime": "2026-04-23T12:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-04-23/netflix-twin-engine-produce-the-ribbon-hero-anime-film-based-on-tezuka-princess-knight/.236695"
-    },
+    "news": [
+        {
+            "+content": "Netflix, Twin Engine Produce <cite>The Ribbon Hero</cite> Anime Film Based on Tezuka's <cite>Princess Knight</cite>",
+            "+@datetime": "2026-04-23T12:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-23/netflix-twin-engine-produce-the-ribbon-hero-anime-film-based-on-tezuka-princess-knight/.236695"
+        },
+        {
+            "+content": "<cite>A New Dawn</cite>, <cite>The Obsessed</cite>, <cite>Peleliu, We Are Aliens</cite>,  More Films to Play at Annecy",
+            "+@datetime": "2026-04-29T12:37:06Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-29/a-new-dawn-the-obsessed-peleliu-we-are-aliens-more-films-to-play-at-annecy/.236906"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2132744073",
@@ -120,5 +127,6 @@
         }
     ],
     "+@date-added": "2026-04-23T08:27:52Z",
-    "+@date-last-updated-at": "2026-04-25T03:32:54Z"
+    "+@date-last-modified-at": "2026-05-25T15:29:00Z",
+    "+@date-last-updated-at": "2026-05-25T15:29:00Z"
 }

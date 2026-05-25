@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Silent Hill f",
     "+@precision": "manga",
-    "+@generated-on": "2026-04-25T03:32:57Z",
+    "+@generated-on": "2026-05-25T15:28:55Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "19913"
@@ -36,13 +36,35 @@
             "+@lang": "EN"
         },
         {
+            "+content": "サイレントヒルf",
+            "+@gid": "738639637",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
             "+content": "horror",
             "+@gid": "1574003117",
             "+@type": "Genres"
+        },
+        {
+            "+content": "2026-04-22 (serialized on Young Ace Up)",
+            "+@gid": "2748359519",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "サイレントヒルf｜カドコミ (コミックウォーカー)",
+            "+@gid": "2456487117",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://comic-walker.com/detail/KC_008641_S"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "6"
+    },
     "news": {
-        "+content": "<cite>Silent Hill f</cite> Game Gets Manga Adaptation",
+        "+content": "<cite>Silent Hill f</cite> Game Gets Manga Adaptation (Updated)",
         "+@datetime": "2026-03-25T12:52:01Z",
         "+@href": "https://www.animenewsnetwork.com:/news/2026-03-25/silent-hill-f-game-gets-manga-adaptation/.235715"
     },
@@ -56,6 +78,14 @@
             }
         },
         {
+            "+@gid": "2990554552",
+            "task": "Original Concept",
+            "person": {
+                "+content": "Keiichirō Toyama",
+                "+@id": "153078"
+            }
+        },
+        {
             "+@gid": "1865512217",
             "task": "Art",
             "person": {
@@ -65,5 +95,6 @@
         }
     ],
     "+@date-added": "2026-03-25T20:14:52Z",
-    "+@date-last-updated-at": "2026-04-25T03:32:58Z"
+    "+@date-last-modified-at": "2026-05-25T15:28:56Z",
+    "+@date-last-updated-at": "2026-05-25T15:28:56Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "World Is Dancing",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-25T03:33:03Z",
+    "+@generated-on": "2026-05-25T15:28:53Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29007"
@@ -13,21 +13,10 @@
         {
             "+@gid": "1635380049",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38337-1635380049.1769031763.jpg",
-            "+@width": "141",
-            "+@height": "200",
-            "img": [
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38337-1635380049.1769031763.jpg",
-                    "+@width": "141",
-                    "+@height": "200"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38337-1635380049.1769031763.jpg",
-                    "+@width": "424",
-                    "+@height": "600"
-                }
-            ]
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38337-1635380049.1778150781.jpg",
+            "img": {
+                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38337-1635380049.1778150781.jpg"
+            }
         },
         {
             "+content": "The World Is Dancing",
@@ -47,7 +36,11 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2026-07",
+            "+content": "In 1374, amid the turmoil of the Northern and Southern Courts' long-running conflict, a boy named Oniyasha was born into a family of sarugaku theater performers. He spends his days in a kind of quiet gloom, wondering why people dance. Then, one day, he witnesses a dance that he feels to be \"good\"—and everything begins to change. This is the story of the beautiful young boy who would one day shape the art of Noh and be remembered as Zeami. <em class=de-emphasized>(from manga)</em>",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2026-07-02",
             "+@gid": "2022217105",
             "+@type": "Vintage"
         },
@@ -66,11 +59,18 @@
             "+@href": "https://sh-anime.shochiku.co.jp/worldisdancing-anime/en/"
         }
     ],
-    "news": {
-        "+content": "<cite>The World Is Dancing</cite> Anime's Teaser Reveals More Cast & Staff, July Debut",
-        "+@datetime": "2026-03-17T10:10:32Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-17/the-world-is-dancing-anime-teaser-reveals-more-cast-and-staff-july-debut/.235403"
-    },
+    "news": [
+        {
+            "+content": "<cite>The World Is Dancing</cite> Anime's Teaser Reveals More Cast & Staff, July Debut",
+            "+@datetime": "2026-03-17T10:10:32Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-17/the-world-is-dancing-anime-teaser-reveals-more-cast-and-staff-july-debut/.235403"
+        },
+        {
+            "+content": "<cite>The World Is Dancing</cite> Anime's Main Trailer Reveals More Cast, Opening Song, July 2 Debut",
+            "+@datetime": "2026-05-07T09:10:03Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-07/the-world-is-dancing-anime-main-trailer-reveals-more-cast-opening-song-july-2-debut/.237156"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2845281840",
@@ -163,12 +163,39 @@
     ],
     "cast": [
         {
+            "+@gid": "1888907162",
+            "+@lang": "JA",
+            "role": "Nijo Yoshimoto",
+            "person": {
+                "+content": "Nobuo Tobita",
+                "+@id": "666"
+            }
+        },
+        {
             "+@gid": "1870333198",
             "+@lang": "JA",
             "role": "Kan'ami",
             "person": {
                 "+content": "Katsuyuki Konishi",
                 "+@id": "780"
+            }
+        },
+        {
+            "+@gid": "1107277565",
+            "+@lang": "JA",
+            "role": "Nariko",
+            "person": {
+                "+content": "Mamiko Noto",
+                "+@id": "3166"
+            }
+        },
+        {
+            "+@gid": "1883176800",
+            "+@lang": "JA",
+            "role": "Ashikaga Yoshimitsu",
+            "person": {
+                "+content": "Takahiro Sakurai",
+                "+@id": "5039"
             }
         },
         {
@@ -187,6 +214,15 @@
             "person": {
                 "+content": "Maaya Uchida",
                 "+@id": "94314"
+            }
+        },
+        {
+            "+@gid": "1838785145",
+            "+@lang": "JA",
+            "role": "Chiharu",
+            "person": {
+                "+content": "Inori Minase",
+                "+@id": "95027"
             }
         },
         {
@@ -215,6 +251,15 @@
                 "+content": "Haruki Ishiya",
                 "+@id": "124503"
             }
+        },
+        {
+            "+@gid": "2016745015",
+            "+@lang": "JA",
+            "role": "Satsuki",
+            "person": {
+                "+content": "Hazuki Seto",
+                "+@id": "297141"
+            }
         }
     ],
     "credit": {
@@ -226,6 +271,6 @@
         }
     },
     "+@date-added": "2026-01-21T16:41:43Z",
-    "+@date-last-modified-at": "2026-04-25T03:33:07Z",
-    "+@date-last-updated-at": "2026-04-25T03:33:07Z"
+    "+@date-last-modified-at": "2026-05-25T15:29:00Z",
+    "+@date-last-updated-at": "2026-05-25T15:29:00Z"
 }

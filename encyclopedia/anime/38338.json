@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Onegai AiPri",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-25T03:33:03Z",
+    "+@generated-on": "2026-05-25T15:28:53Z",
     "related-prev": [
         {
             "+@rel": "related to",
@@ -68,6 +68,11 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "2200536053",
+            "+@type": "Running time"
+        },
+        {
             "+content": "2026-04-05",
             "+@gid": "1860792235",
             "+@type": "Vintage"
@@ -83,12 +88,22 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "\"Dream Colored Believer\" by Rika Kanaya (eps 1,2,3)",
+            "+content": "\"Dream Colored Believer\" by Rika Kanaya (eps 1,2,3,4,5,8)",
             "+@gid": "2875422776",
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Tokimeki Jump\" By Hanaka Ogawa (eps 1,2,3)",
+            "+content": "\"Fure Fure Best Friends\" By Wakana Maruoka (eps 4,5,6,7,8)",
+            "+@gid": "1499643773",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Tokimeki Jump (Duo Version)\" by Hanaka Ogawa and Rika Kanaya (eps 6,7)",
+            "+@gid": "4115974867",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Tokimeki Jump (Solo Version)\" By Hanaka Ogawa (eps 1,2,3,4,5)",
             "+@gid": "3625700166",
             "+@type": "Insert song"
         },
@@ -280,6 +295,15 @@
             }
         },
         {
+            "+@gid": "525636072",
+            "+@lang": "JA",
+            "role": "Shioki Noriko",
+            "person": {
+                "+content": "Nao Kouyama",
+                "+@id": "50254"
+            }
+        },
+        {
             "+@gid": "3117628929",
             "+@lang": "JA",
             "role": "Principal",
@@ -298,12 +322,66 @@
             }
         },
         {
+            "+@gid": "2101227912",
+            "+@lang": "JA",
+            "role": "Professor Serizawa",
+            "person": {
+                "+content": "Chika Anzai",
+                "+@id": "78724"
+            }
+        },
+        {
+            "+@gid": "3995483417",
+            "+@lang": "JA",
+            "role": "Choco Tomosaka",
+            "person": {
+                "+content": "Yumiri Hanamori",
+                "+@id": "118609"
+            }
+        },
+        {
+            "+@gid": "1242676790",
+            "+@lang": "JA",
+            "role": "Gamuto Tomosaka",
+            "person": {
+                "+content": "Yumiri Hanamori",
+                "+@id": "118609"
+            }
+        },
+        {
             "+@gid": "2646535239",
             "+@lang": "JA",
             "role": "Forchu",
             "person": {
                 "+content": "Yō Taichi",
                 "+@id": "119677"
+            }
+        },
+        {
+            "+@gid": "1517579383",
+            "+@lang": "JA",
+            "role": "Ryosuke Kooriyama",
+            "person": {
+                "+content": "Seiichirō Yamashita",
+                "+@id": "121187"
+            }
+        },
+        {
+            "+@gid": "2032387983",
+            "+@lang": "JA",
+            "role": "Satsuki Kobayakawa",
+            "person": {
+                "+content": "Akari Kageyama",
+                "+@id": "136053"
+            }
+        },
+        {
+            "+@gid": "615102692",
+            "+@lang": "JA",
+            "role": "Michael Ishino",
+            "person": {
+                "+content": "Hinata Tadokoro",
+                "+@id": "143942"
             }
         },
         {
@@ -343,6 +421,15 @@
             }
         },
         {
+            "+@gid": "2461573630",
+            "+@lang": "JA",
+            "role": "Sango Atami",
+            "person": {
+                "+content": "Fumiya Imai",
+                "+@id": "183125"
+            }
+        },
+        {
             "+@gid": "1634292367",
             "+@lang": "JA",
             "role": "Gumi Tomosaka",
@@ -358,6 +445,24 @@
             "person": {
                 "+content": "Marika Suzuki",
                 "+@id": "188585"
+            }
+        },
+        {
+            "+@gid": "3530169012",
+            "+@lang": "JA",
+            "role": "Koike Kanpeki",
+            "person": {
+                "+content": "Kōhei Yanagi",
+                "+@id": "192927"
+            }
+        },
+        {
+            "+@gid": "992300094",
+            "+@lang": "JA",
+            "role": "Wakaba Yumemiya",
+            "person": {
+                "+content": "Mayuko Kazama",
+                "+@id": "195565"
             }
         },
         {
@@ -461,6 +566,6 @@
         }
     ],
     "+@date-added": "2026-01-21T16:48:59Z",
-    "+@date-last-modified-at": "2026-04-25T03:33:07Z",
-    "+@date-last-updated-at": "2026-04-25T03:33:07Z"
+    "+@date-last-modified-at": "2026-05-25T15:29:00Z",
+    "+@date-last-updated-at": "2026-05-25T15:29:00Z"
 }
