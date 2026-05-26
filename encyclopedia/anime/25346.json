@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Jujutsu Kaisen",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-04-24T21:07:17Z",
+    "+@generated-on": "2026-05-26T16:10:15Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "22944"
@@ -101,6 +101,11 @@
             "+@type": "Themes"
         },
         {
+            "+content": "fighting",
+            "+@gid": "931332657",
+            "+@type": "Themes"
+        },
+        {
             "+content": "gore",
             "+@gid": "1826882280",
             "+@type": "Themes"
@@ -146,6 +151,16 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "23",
+            "+@gid": "3545871889",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "23",
+            "+@gid": "2828238724",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2023-07-06",
             "+@gid": "1830225516",
             "+@type": "Vintage"
@@ -184,9 +199,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "402",
-        "+@weighted_score": "7.413",
-        "+@bayesian_score": "7.41468"
+        "+@nb_votes": "405",
+        "+@weighted_score": "7.4177",
+        "+@bayesian_score": "7.41922"
     },
     "episode": [
         {
@@ -3184,6 +3199,33 @@
                 "+content": "Anna Nagase",
                 "+@id": "196760"
             }
+        },
+        {
+            "+@gid": "2037427845",
+            "+@lang": "TL",
+            "role": "Nobara Kugisaki",
+            "person": {
+                "+content": "Charmaine Cordoviz",
+                "+@id": "15925"
+            }
+        },
+        {
+            "+@gid": "2706184284",
+            "+@lang": "TL",
+            "role": "Sukuna",
+            "person": {
+                "+content": "Jefferson Utanes",
+                "+@id": "38936"
+            }
+        },
+        {
+            "+@gid": "1493661500",
+            "+@lang": "TL",
+            "role": "Yuji Itadori, Suguru Getō",
+            "person": {
+                "+content": "Mark Ivan Uy",
+                "+@id": "107893"
+            }
         }
     ],
     "credit": [
@@ -3213,6 +3255,6 @@
         }
     ],
     "+@date-added": "2022-02-12T06:16:57Z",
-    "+@date-last-modified-at": "2026-04-24T21:07:19Z",
-    "+@date-last-updated-at": "2026-04-24T21:07:19Z"
+    "+@date-last-modified-at": "2026-05-26T16:10:17Z",
+    "+@date-last-updated-at": "2026-05-26T16:10:17Z"
 }
