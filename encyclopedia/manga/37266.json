@@ -2,12 +2,22 @@
     "+@id": "37266",
     "+@gid": "2620049619",
     "+@type": "manga",
-    "+@name": "Remnant: Beastmen Omegaverse",
+    "+@name": "Remnant: The Beastmen Omegaverse Saga",
     "+@precision": "manga",
-    "+@generated-on": "2026-04-29T10:19:31Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "38870"
+    "+@generated-on": "2026-05-29T11:41:35Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "38870"
+        },
+        {
+            "+@rel": "spinoff of",
+            "+@id": "39562"
+        }
+    ],
+    "related-next": {
+        "+@id": "39563",
+        "+@rel": "spinoff"
     },
     "info": [
         {
@@ -35,9 +45,15 @@
             ]
         },
         {
+            "+content": "Remnant: The Beastmen Omegaverse Saga",
+            "+@gid": "945700573",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Remnant: Beastmen Omegaverse",
             "+@gid": "1483274406",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "EN"
         },
         {
@@ -45,6 +61,12 @@
             "+@gid": "2946394134",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "Remnant: Therianthrope Omegaverse",
+            "+@gid": "2501281972",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
         },
         {
             "+content": "レムナント -獣人オメガバース-",
@@ -68,11 +90,28 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Seven Seas Licenses <cite>Everything for Demon King Evelogia</cite>, <cite>Laughter in the Sunshine</cite>, 2 More Titles",
-        "+@datetime": "2025-07-31T07:07:53Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-07-31/seven-seas-licenses-everything-for-demon-king-evelogia-laughter-in-the-sunshine-2-more-titles/.227184"
-    },
+    "news": [
+        {
+            "+content": "Japanese Comic Ranking, April 23-29",
+            "+@datetime": "2018-05-02T22:56:07Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2018-05-02/japanese-comic-ranking-april-23-29/.131120"
+        },
+        {
+            "+content": "Japanese Comic Ranking, February 18-24",
+            "+@datetime": "2019-03-05T07:02:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2019-03-05/japanese-comic-ranking-february-18-24/.143992"
+        },
+        {
+            "+content": "Japanese Comic Ranking, February 25-March 3",
+            "+@datetime": "2019-03-10T10:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2019-03-10/japanese-comic-ranking-february-25-march-3/.144258"
+        },
+        {
+            "+content": "Seven Seas Licenses <cite>Everything for Demon King Evelogia</cite>, <cite>Laughter in the Sunshine</cite>, 2 More Titles",
+            "+@datetime": "2025-07-31T07:07:53Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-31/seven-seas-licenses-everything-for-demon-king-evelogia-laughter-in-the-sunshine-2-more-titles/.227184"
+        }
+    ],
     "staff": {
         "+@gid": "1672254895",
         "task": "Story & Art",
@@ -82,6 +121,6 @@
         }
     },
     "+@date-added": "2025-08-01T05:46:17Z",
-    "+@date-last-modified-at": "2026-04-29T10:19:33Z",
-    "+@date-last-updated-at": "2026-04-29T10:19:33Z"
+    "+@date-last-modified-at": "2026-05-29T11:41:36Z",
+    "+@date-last-updated-at": "2026-05-29T11:41:36Z"
 }
