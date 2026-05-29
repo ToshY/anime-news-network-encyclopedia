@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Jujutsu Kaisen 0",
     "+@precision": "movie",
-    "+@generated-on": "2026-04-27T04:01:11Z",
+    "+@generated-on": "2026-05-29T16:08:58Z",
     "related-prev": [
         {
             "+@rel": "prequel of",
@@ -91,13 +91,28 @@
             "+@type": "Genres"
         },
         {
+            "+content": "psychological",
+            "+@gid": "3504180130",
+            "+@type": "Genres"
+        },
+        {
             "+content": "supernatural",
             "+@gid": "1805602755",
             "+@type": "Genres"
         },
         {
+            "+content": "thriller",
+            "+@gid": "2389606998",
+            "+@type": "Genres"
+        },
+        {
             "+content": "demons",
             "+@gid": "2231566139",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "fighting",
+            "+@gid": "1609373687",
             "+@type": "Themes"
         },
         {
@@ -138,6 +153,11 @@
         {
             "+content": "Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won't leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "105",
+            "+@gid": "2633020977",
+            "+@type": "Running time"
         },
         {
             "+content": "2021-12-24",
@@ -244,8 +264,8 @@
     ],
     "ratings": {
         "+@nb_votes": "211",
-        "+@weighted_score": "7.9173",
-        "+@bayesian_score": "7.89328"
+        "+@weighted_score": "7.9172",
+        "+@bayesian_score": "7.89317"
     },
     "review": {
         "+content": "Jujutsu Kaisen 0",
@@ -1762,6 +1782,33 @@
                 "+content": "Carolina Iecker",
                 "+@id": "193252"
             }
+        },
+        {
+            "+@gid": "799505841",
+            "+@lang": "TL",
+            "role": "Yūta Okkotsu",
+            "person": {
+                "+content": "Nica Rojo",
+                "+@id": "66518"
+            }
+        },
+        {
+            "+@gid": "1843439256",
+            "+@lang": "TL",
+            "role": "Rika Orimoto",
+            "person": {
+                "+content": "Nelieza Magauay",
+                "+@id": "95901"
+            }
+        },
+        {
+            "+@gid": "409822545",
+            "+@lang": "TL",
+            "role": "Suguru Getō",
+            "person": {
+                "+content": "Mark Ivan Uy",
+                "+@id": "107893"
+            }
         }
     ],
     "credit": [
@@ -1815,6 +1862,6 @@
         }
     ],
     "+@date-added": "2021-03-28T00:06:18Z",
-    "+@date-last-modified-at": "2026-04-27T04:01:16Z",
-    "+@date-last-updated-at": "2026-04-27T04:01:16Z"
+    "+@date-last-modified-at": "2026-05-29T16:09:03Z",
+    "+@date-last-updated-at": "2026-05-29T16:09:03Z"
 }
