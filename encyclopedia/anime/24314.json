@@ -4,15 +4,21 @@
     "+@type": "movie",
     "+@name": "Quintessential Quintuplets the Movie",
     "+@precision": "movie",
-    "+@generated-on": "2026-04-26T20:58:23Z",
+    "+@generated-on": "2026-05-29T04:44:03Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "22925"
     },
-    "related-next": {
-        "+@id": "32701",
-        "+@rel": "sequel"
-    },
+    "related-next": [
+        {
+            "+@id": "32701",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "39369",
+            "+@rel": "adaptation"
+        }
+    ],
     "info": [
         {
             "+@gid": "2763212933",
@@ -129,9 +135,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "74",
-        "+@weighted_score": "7.3048",
-        "+@bayesian_score": "7.32799"
+        "+@nb_votes": "77",
+        "+@weighted_score": "7.2544",
+        "+@bayesian_score": "7.28356"
     },
     "review": {
         "+content": "Quintessential Quintuplets the Movie",
@@ -1330,6 +1336,6 @@
         }
     ],
     "+@date-added": "2021-04-18T15:53:58Z",
-    "+@date-last-modified-at": "2026-04-26T20:58:28Z",
-    "+@date-last-updated-at": "2026-04-26T20:58:28Z"
+    "+@date-last-modified-at": "2026-05-29T04:44:06Z",
+    "+@date-last-updated-at": "2026-05-29T04:44:06Z"
 }

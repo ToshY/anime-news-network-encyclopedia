@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Mebius Dust",
     "+@precision": "TV",
-    "+@generated-on": "2026-04-29T04:03:53Z",
+    "+@generated-on": "2026-05-29T04:44:02Z",
     "info": [
         {
             "+@gid": "2577701345",
@@ -38,7 +38,12 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2026",
+            "+content": "Araki, Stella, and Olga are high school students living in a cozy downtown neighborhood. Playing games, visiting the bathhouse, and heading home - this is the story of their everyday lives, unless…",
+            "+@gid": "1503731142",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2026-07",
             "+@gid": "3052274161",
             "+@type": "Vintage"
         },
@@ -50,11 +55,18 @@
             "+@href": "https://mebiusdust.asmik-ace.co.jp/"
         }
     ],
-    "news": {
-        "+content": "Doga Kobo Reveals <cite>Mebius Dust</cite> Original TV Anime",
-        "+@datetime": "2026-03-26T09:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-26/doga-kobo-reveals-mebius-dust-original-tv-anime/.235674"
-    },
+    "news": [
+        {
+            "+content": "Doga Kobo Reveals <cite>Mebius Dust</cite> Original TV Anime",
+            "+@datetime": "2026-03-26T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-26/doga-kobo-reveals-mebius-dust-original-tv-anime/.235674"
+        },
+        {
+            "+content": "<cite>Mebius Dust</cite> TV Anime Unveils 1st Episode Preview, Main Cast Members, Opening Song Artist, July Debut",
+            "+@datetime": "2026-05-14T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-14/mebius-dust-tv-anime-unveils-1st-episode-preview-main-cast-members-opening-song-artist-july-debut/.237315"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3148354726",
@@ -89,6 +101,35 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "1912739309",
+            "+@lang": "JA",
+            "role": "Stella",
+            "person": {
+                "+content": "Nene Hieda",
+                "+@id": "167202"
+            }
+        },
+        {
+            "+@gid": "2814594660",
+            "+@lang": "JA",
+            "role": "Araki",
+            "person": {
+                "+content": "Yuto Takenaka",
+                "+@id": "262636"
+            }
+        },
+        {
+            "+@gid": "3586402814",
+            "+@lang": "JA",
+            "role": "Olga",
+            "person": {
+                "+content": "Haruka Satō",
+                "+@id": "270883"
+            }
+        }
+    ],
     "credit": {
         "+@gid": "732166268",
         "task": "Animation Production",
@@ -98,5 +139,6 @@
         }
     },
     "+@date-added": "2026-03-26T10:08:09Z",
-    "+@date-last-updated-at": "2026-04-29T04:03:54Z"
+    "+@date-last-modified-at": "2026-05-29T04:44:06Z",
+    "+@date-last-updated-at": "2026-05-29T04:44:06Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Hell Mode",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-04-29T04:03:52Z",
+    "+@generated-on": "2026-05-29T04:44:01Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "34132"
@@ -14,20 +14,9 @@
             "+@gid": "1412034330",
             "+@type": "Picture",
             "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38839-1412034330.1774679533.jpg",
-            "+@width": "143",
-            "+@height": "200",
-            "img": [
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38839-1412034330.1774679533.jpg",
-                    "+@width": "143",
-                    "+@height": "200"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38839-1412034330.1774679533.jpg",
-                    "+@width": "429",
-                    "+@height": "600"
-                }
-            ]
+            "img": {
+                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38839-1412034330.1774679533.jpg"
+            }
         },
         {
             "+content": "Hell Mode",
@@ -54,9 +43,64 @@
             "+@lang": "JA"
         },
         {
+            "+content": "adventure",
+            "+@gid": "2276562739",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "1361195016",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "942306537",
+            "+@type": "Genres"
+        },
+        {
             "+content": "fantasy",
             "+@gid": "3251108483",
             "+@type": "Genres"
+        },
+        {
+            "+content": "conspiracy",
+            "+@gid": "1524326001",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "gore",
+            "+@gid": "2384312774",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "monsters",
+            "+@gid": "1677700767",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "politics",
+            "+@gid": "1336857774",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "2985230103",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "swordplay",
+            "+@gid": "2914887836",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "tragedy",
+            "+@gid": "2233283845",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "1783298389",
+            "+@type": "Objectionable content"
         },
         {
             "+content": "2026-07",
@@ -71,6 +115,11 @@
             "+@href": "https://hellmode-anime.com/"
         }
     ],
+    "news": {
+        "+content": "<cite>Hell Mode</cite> Anime Season 2 Announces 4 More Cast Members",
+        "+@datetime": "2026-05-20T10:25:29Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-05-20/hell-mode-anime-season-2-announces-4-more-cast-members/.237556"
+    },
     "staff": [
         {
             "+@gid": "1236799732",
@@ -105,6 +154,15 @@
             "person": {
                 "+content": "Akio Ōtsuka",
                 "+@id": "459"
+            }
+        },
+        {
+            "+@gid": "2604849893",
+            "+@lang": "JA",
+            "role": "Volmaar",
+            "person": {
+                "+content": "Hikaru Midorikawa",
+                "+@id": "546"
             }
         },
         {
@@ -180,6 +238,15 @@
             }
         },
         {
+            "+@gid": "3441524402",
+            "+@lang": "JA",
+            "role": "Sophialohne",
+            "person": {
+                "+content": "Kiyono Yasuno",
+                "+@id": "99806"
+            }
+        },
+        {
             "+@gid": "1469970536",
             "+@lang": "JA",
             "role": "Carnell",
@@ -214,8 +281,27 @@
                 "+content": "Makoto Koichi",
                 "+@id": "143804"
             }
+        },
+        {
+            "+@gid": "1745706106",
+            "+@lang": "JA",
+            "role": "Meruru",
+            "person": {
+                "+content": "Miyu Tomita",
+                "+@id": "145048"
+            }
+        },
+        {
+            "+@gid": "3457806123",
+            "+@lang": "JA",
+            "role": "Keel",
+            "person": {
+                "+content": "Reiji Kawashima",
+                "+@id": "196349"
+            }
         }
     ],
     "+@date-added": "2026-03-28T02:30:33Z",
-    "+@date-last-updated-at": "2026-04-29T04:03:54Z"
+    "+@date-last-modified-at": "2026-05-29T04:44:06Z",
+    "+@date-last-updated-at": "2026-05-29T04:44:06Z"
 }
