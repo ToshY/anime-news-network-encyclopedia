@@ -4,7 +4,11 @@
     "+@type": "manga",
     "+@name": "Hanayome ni Haizoku Saremashita",
     "+@precision": "manga",
-    "+@generated-on": "2026-04-25T13:40:07Z",
+    "+@generated-on": "2026-05-29T18:43:39Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "39612"
+    },
     "info": [
         {
             "+@gid": "2475709410",
@@ -37,6 +41,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Assignment to the Bride",
+            "+@gid": "709899214",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "花嫁に配属されました",
             "+@gid": "1353363018",
             "+@type": "Alternative title",
@@ -48,7 +58,7 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2015-08-10 (serialized in Mobile Flowers, 2015 #30)",
+            "+content": "2015-08-10 (serialized in Mobile Flower, 2015 #30)",
             "+@gid": "1899674417",
             "+@type": "Vintage"
         }
@@ -62,5 +72,6 @@
         }
     },
     "+@date-added": "2025-03-02T18:27:11Z",
-    "+@date-last-updated-at": "2026-04-25T13:40:09Z"
+    "+@date-last-modified-at": "2026-05-29T18:43:41Z",
+    "+@date-last-updated-at": "2026-05-29T18:43:41Z"
 }
