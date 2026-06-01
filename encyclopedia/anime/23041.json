@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Sakura Internet Rebirth",
     "+@precision": "ONA",
-    "+@generated-on": "2026-04-29T21:19:26Z",
+    "+@generated-on": "2026-06-01T20:35:31Z",
     "info": [
         {
             "+@gid": "1777319682",
@@ -38,6 +38,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "さくらインターネット新生",
+            "+@gid": "925402222",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
             "+content": "Freelancer Kōhei Tōno, office lady Saori Hamada, and graphic designer Ginji Ōtomo realize that they're not content in their current jobs, and break free to pursue their dreams - as a musician, a photographer, and an artist, respectively.",
             "+@gid": "2410210578",
             "+@type": "Plot Summary"
@@ -46,6 +52,11 @@
             "+content": "3",
             "+@gid": "1628852430",
             "+@type": "Running time"
+        },
+        {
+            "+content": "4",
+            "+@gid": "2243030624",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2017-01-26",
@@ -60,15 +71,31 @@
     ],
     "ratings": {
         "+@nb_votes": "2",
-        "+@weighted_score": "3.3684"
+        "+@weighted_score": "3.3644"
     },
     "staff": [
+        {
+            "+@gid": "3554203356",
+            "task": "Chief Director",
+            "person": {
+                "+content": "Kenta Nakamura",
+                "+@id": "297989"
+            }
+        },
         {
             "+@gid": "2794403769",
             "task": "Director",
             "person": {
                 "+content": "Atsushi Ikariya",
                 "+@id": "98262"
+            }
+        },
+        {
+            "+@gid": "1042275910",
+            "task": "Scenario",
+            "person": {
+                "+content": "Yūichirō Momose",
+                "+@id": "105972"
             }
         },
         {
@@ -88,19 +115,27 @@
             }
         },
         {
-            "+@gid": "2879885442",
-            "task": "Chief Animation Director",
+            "+@gid": "2587465964",
+            "task": "Animation Director",
             "person": {
                 "+content": "Atsushi Ikariya",
                 "+@id": "98262"
             }
         },
         {
-            "+@gid": "3506897921",
+            "+@gid": "2380980856",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Hiroki Urakari",
+                "+@id": "62513"
+            }
+        },
+        {
+            "+@gid": "1562649736",
             "task": "Producer",
             "person": {
-                "+content": "Gaku Iwasa",
-                "+@id": "14164"
+                "+content": "Tadashi Nagatani",
+                "+@id": "297988"
             }
         }
     ],
@@ -133,15 +168,33 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "1897667696",
-        "task": "Animation Production",
-        "company": {
-            "+content": "WHITE FOX",
-            "+@id": "6989"
+    "credit": [
+        {
+            "+@gid": "1897667696",
+            "task": "Animation Production",
+            "company": {
+                "+content": "WHITE FOX",
+                "+@id": "6989"
+            }
+        },
+        {
+            "+@gid": "1394675489",
+            "task": "Production",
+            "company": {
+                "+content": "ANIMATE Lab",
+                "+@id": "16601"
+            }
+        },
+        {
+            "+@gid": "1814165266",
+            "task": "Production",
+            "company": {
+                "+content": "SAKURA Internet Inc.",
+                "+@id": "27810"
+            }
         }
-    },
+    ],
     "+@date-added": "2020-02-23T22:50:27Z",
-    "+@date-last-modified-at": "2026-04-29T21:19:32Z",
-    "+@date-last-updated-at": "2026-04-29T21:19:32Z"
+    "+@date-last-modified-at": "2026-06-01T20:35:34Z",
+    "+@date-last-updated-at": "2026-06-01T20:35:34Z"
 }
