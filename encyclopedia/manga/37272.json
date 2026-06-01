@@ -4,7 +4,11 @@
     "+@type": "manga",
     "+@name": "Dai Shimin",
     "+@precision": "manga",
-    "+@generated-on": "2026-05-02T09:34:07Z",
+    "+@generated-on": "2026-06-01T13:47:16Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "14634"
+    },
     "related-next": {
         "+@id": "37273",
         "+@rel": "sequel"
@@ -55,6 +59,11 @@
             "+content": "10",
             "+@gid": "2968709723",
             "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "1991-09 (serialized in Action Pizazz, 10/2 1991 iss)",
+            "+@gid": "3415099385",
+            "+@type": "Vintage"
         }
     ],
     "staff": {
@@ -66,5 +75,6 @@
         }
     },
     "+@date-added": "2025-08-03T07:19:26Z",
-    "+@date-last-updated-at": "2026-05-02T09:34:08Z"
+    "+@date-last-modified-at": "2026-06-01T13:47:16Z",
+    "+@date-last-updated-at": "2026-06-01T13:47:16Z"
 }
