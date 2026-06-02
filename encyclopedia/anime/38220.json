@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Poppin-Play Kitchen",
     "+@precision": "ONA",
-    "+@generated-on": "2026-05-03T06:42:39Z",
+    "+@generated-on": "2026-06-02T12:15:14Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "38224"
@@ -51,11 +51,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Japanese Streaming Service ABEMA Launches Project for Indie Animators",
-        "+@datetime": "2025-12-30T18:47:02Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-12-30/japanese-streaming-service-abema-launches-project-for-indie-animators/.232657"
-    },
+    "news": [
+        {
+            "+content": "Japanese Streaming Service ABEMA Launches Project for Indie Animators",
+            "+@datetime": "2025-12-30T18:47:02Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-30/japanese-streaming-service-abema-launches-project-for-indie-animators/.232657"
+        },
+        {
+            "+content": "ABEMA Announces Sequel of 'Poppin-Play Kitchen' Original Anime Pilot Film",
+            "+@datetime": "2026-05-21T10:11:17Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-21/abema-announces-sequel-of-poppin-play-kitchen-original-anime-pilot-film/.237606"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1942833527",
@@ -74,6 +81,14 @@
             }
         },
         {
+            "+@gid": "2115160158",
+            "task": "Music",
+            "person": {
+                "+content": "Rina Tayama",
+                "+@id": "263090"
+            }
+        },
+        {
             "+@gid": "1389979815",
             "task": "Original Concept",
             "person": {
@@ -82,6 +97,36 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "1426467401",
+            "+@lang": "JA",
+            "role": "P-chan",
+            "person": {
+                "+content": "Kazutomi Yamamoto",
+                "+@id": "90129"
+            }
+        },
+        {
+            "+@gid": "2746477876",
+            "+@lang": "JA",
+            "role": "U-chan",
+            "person": {
+                "+content": "Yūko Natsuyoshi",
+                "+@id": "187604"
+            }
+        },
+        {
+            "+@gid": "3772914254",
+            "+@lang": "JA",
+            "role": "C-chan",
+            "person": {
+                "+content": "Kako Ikura",
+                "+@id": "281158"
+            }
+        }
+    ],
     "+@date-added": "2025-12-30T20:43:54Z",
-    "+@date-last-updated-at": "2026-05-03T06:42:45Z"
+    "+@date-last-modified-at": "2026-06-02T12:15:21Z",
+    "+@date-last-updated-at": "2026-06-02T12:15:21Z"
 }

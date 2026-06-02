@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Always a Catch!",
     "+@precision": "TV",
-    "+@generated-on": "2026-05-03T06:42:39Z",
+    "+@generated-on": "2026-06-02T12:15:15Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26938"
@@ -68,6 +68,11 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "713334327",
+            "+@type": "Running time"
+        },
+        {
             "+content": "12",
             "+@gid": "3228592824",
             "+@type": "Number of episodes"
@@ -96,8 +101,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "3"
+        "+@nb_votes": "3",
+        "+@weighted_score": "5.5183"
     },
     "episode": [
         {
@@ -143,9 +148,33 @@
         {
             "+@num": "6",
             "title": {
-                "+content": "Nigashita Sakana to Tatakau Chichi",
-                "+@gid": "2822525944",
-                "+@lang": "JA"
+                "+content": "How the One That Got Away Fought With Her Father",
+                "+@gid": "932986165",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "The Fists of the One That Got Away",
+                "+@gid": "3706983620",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "The Secret Date of the One That Got Away",
+                "+@gid": "2355284486",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "The One Who Got Away Plays Cupid",
+                "+@gid": "1251324974",
+                "+@lang": "EN"
             }
         }
     ],
@@ -184,6 +213,11 @@
             "+content": "<cite>Always a Catch!</cite> Anime Casts Daiki Hamano, Wataru Komada",
             "+@datetime": "2026-04-30T00:11:43Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-29/always-a-catch-anime-casts-daiki-hamano-wataru-komada/.236936"
+        },
+        {
+            "+content": "<cite>Always a Catch!</cite> Anime Casts Asaki Yuikawa",
+            "+@datetime": "2026-05-07T01:03:34Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-06/always-a-catch-anime-casts-asaki-yuikawa/.237129"
         }
     ],
     "staff": [
@@ -257,6 +291,14 @@
             "person": {
                 "+content": "Xiao Miao Li",
                 "+@id": "180589"
+            }
+        },
+        {
+            "+@gid": "1713332746",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mayumi Ogawa",
+                "+@id": "62428"
             }
         },
         {
@@ -374,6 +416,15 @@
                 "+content": "Shūichirō Umeda",
                 "+@id": "187553"
             }
+        },
+        {
+            "+@gid": "2608533877",
+            "+@lang": "JA",
+            "role": "Teodorico Annovazzi",
+            "person": {
+                "+content": "Asaki Yuikawa",
+                "+@id": "237718"
+            }
         }
     ],
     "credit": {
@@ -385,6 +436,6 @@
         }
     },
     "+@date-added": "2025-11-03T06:35:21Z",
-    "+@date-last-modified-at": "2026-05-03T06:42:45Z",
-    "+@date-last-updated-at": "2026-05-03T06:42:45Z"
+    "+@date-last-modified-at": "2026-06-02T12:15:21Z",
+    "+@date-last-updated-at": "2026-06-02T12:15:21Z"
 }

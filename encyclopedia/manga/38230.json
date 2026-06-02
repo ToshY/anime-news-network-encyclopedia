@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Star Wars Visions: Tsukumo",
     "+@precision": "manga",
-    "+@generated-on": "2026-05-03T06:42:43Z",
+    "+@generated-on": "2026-06-02T12:15:15Z",
     "related-prev": [
         {
             "+@rel": "spinoff of",
@@ -16,6 +16,25 @@
         }
     ],
     "info": [
+        {
+            "+@gid": "810881902",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38230-810881902.1778028454.jpg",
+            "+@width": "140",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38230-810881902.1778028454.jpg",
+                    "+@width": "140",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38230-810881902.1778028454.jpg",
+                    "+@width": "300",
+                    "+@height": "430"
+                }
+            ]
+        },
         {
             "+content": "Star Wars Visions: Tsukumo",
             "+@gid": "2096340606",
@@ -32,6 +51,11 @@
             "+content": "science fiction",
             "+@gid": "2077377133",
             "+@type": "Genres"
+        },
+        {
+            "+content": "2026-07 (San Diego Comic-Con)",
+            "+@gid": "1763582423",
+            "+@type": "Vintage"
         }
     ],
     "release": {
@@ -39,11 +63,18 @@
         "+@date": "2026-07-14",
         "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=56270"
     },
-    "news": {
-        "+content": "Viz Announces Releases for <cite>Taika's Reason</cite>, <cite>I'm No Angel</cite>, <cite>cocoon</cite>, <cite>Daydream Darling</cite>, <cite>The Marshal King</cite> Manga, More",
-        "+@datetime": "2025-10-17T18:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-10-17/viz-announces-releases-for-taika-reason-im-no-angel-cocoon-daydream-darling-the-marshal-king-manga-/.230045"
-    },
+    "news": [
+        {
+            "+content": "Viz Announces Releases for <cite>Taika's Reason</cite>, <cite>I'm No Angel</cite>, <cite>cocoon</cite>, <cite>Daydream Darling</cite>, <cite>The Marshal King</cite> Manga, More",
+            "+@datetime": "2025-10-17T18:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-17/viz-announces-releases-for-taika-reason-im-no-angel-cocoon-daydream-darling-the-marshal-king-manga-/.230045"
+        },
+        {
+            "+content": "<cite>Star Wars Visions: Tsukumo</cite> Manga Debuts at San Diego Comic-Con in July",
+            "+@datetime": "2026-05-05T17:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-05/star-wars-visions-tsukumo-manga-debuts-at-san-diego-comic-con-in-july/.237082"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1489997973",
@@ -63,5 +94,6 @@
         }
     ],
     "+@date-added": "2025-12-31T17:09:05Z",
-    "+@date-last-updated-at": "2026-05-03T06:42:45Z"
+    "+@date-last-modified-at": "2026-06-02T12:15:17Z",
+    "+@date-last-updated-at": "2026-06-02T12:15:17Z"
 }
