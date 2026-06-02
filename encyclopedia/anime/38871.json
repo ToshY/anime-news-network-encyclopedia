@@ -4,35 +4,25 @@
     "+@type": "TV",
     "+@name": "Saved by the Ice Cold Prince's Embrace",
     "+@precision": "TV",
-    "+@generated-on": "2026-05-03T04:12:27Z",
-    "related-prev": {
-        "+@rel": "adapted from",
-        "+@id": "38868"
-    },
+    "+@generated-on": "2026-06-02T05:01:04Z",
+    "related-prev": [
+        {
+            "+@rel": "part of",
+            "+@id": "37945"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "38868"
+        }
+    ],
     "info": [
         {
             "+@gid": "1427046069",
             "+@type": "Picture",
             "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38871-1427046069.1775039807.jpg",
-            "+@width": "141",
-            "+@height": "200",
-            "img": [
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38871-1427046069.1775039807.jpg",
-                    "+@width": "141",
-                    "+@height": "200"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38871-1427046069.1775039807.jpg",
-                    "+@width": "424",
-                    "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38871-1427046069.1775039807.jpg",
-                    "+@width": "848",
-                    "+@height": "1200"
-                }
-            ]
+            "img": {
+                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38871-1427046069.1775039807.jpg"
+            }
         },
         {
             "+content": "Saved by the Ice Cold Prince's Embrace",
@@ -57,17 +47,43 @@
             "+@type": "Genres"
         },
         {
+            "+content": "As the illegitimate daughter of a count and his maid, Katrina was born into miserable circumstances. And now that she's lost her mother, the treatment from her stepsister and stepmother, the countess, has only grown worse. One day, her stepsister receives a royal order to relocate to the northern outskirts for her unseemly behavior at a recent party. There, she is to learn proper conduct under the tutelage of the resident prince, rumored to be a cruel man. Not wanting to subject her daughter to such punishment, the countess decides to send Katrina instead. Katrina arrives in the north, shaking in fear. But contrary to the stories, the \"merciless and cold-hearted\" prince is kinder than she believed. <em class=de-emphasized>(from manga)</em>",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "2026-07",
             "+@gid": "4080607285",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ「身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした」",
+            "+@gid": "1884679438",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://animationid.com/migawari/"
         }
     ],
-    "news": {
-        "+content": "<i>Saved by the Ice Cold Prince's Embrace</i> Manga Gets Light Anime in July",
-        "+@datetime": "2026-04-01T09:41:46Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-04-01/saved-by-the-ice-cold-prince-embrace-manga-gets-light-anime-in-july/.236022"
-    },
+    "news": [
+        {
+            "+content": "<i>Saved by the Ice Cold Prince's Embrace</i> Manga Gets Light Anime in July",
+            "+@datetime": "2026-04-01T09:41:46Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-01/saved-by-the-ice-cold-prince-embrace-manga-gets-light-anime-in-july/.236022"
+        },
+        {
+            "+content": "<i>Saved by the Ice Cold Prince's Embrace</i> Light Anime's Teaser Unveils Cast, Staff",
+            "+@datetime": "2026-05-14T12:14:44Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-14/saved-by-the-ice-cold-prince-embrace-light-anime-teaser-unveils-cast-staff/.237358"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "1493899102",
+            "task": "Director",
+            "person": {
+                "+content": "Yūsuke Morishita",
+                "+@id": "117781"
+            }
+        },
         {
             "+@gid": "3294778203",
             "task": "Original creator",
@@ -83,8 +99,63 @@
                 "+content": "Kusabi Kurokawa",
                 "+@id": "295396"
             }
+        },
+        {
+            "+@gid": "3332079365",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Yoshiyuki Oguri",
+                "+@id": "205757"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2629890367",
+            "+@lang": "JA",
+            "role": "Clarence",
+            "person": {
+                "+content": "Yōhei Azakami",
+                "+@id": "108274"
+            }
+        },
+        {
+            "+@gid": "1937452074",
+            "+@lang": "JA",
+            "role": "Katrina",
+            "person": {
+                "+content": "Miku Itō",
+                "+@id": "119924"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "1693930656",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Imageworks Studio",
+                "+@id": "23023"
+            }
+        },
+        {
+            "+@gid": "2896715069",
+            "task": "Animation Production",
+            "company": {
+                "+content": "IMAGICA Infos",
+                "+@id": "24988"
+            }
+        },
+        {
+            "+@gid": "2249362013",
+            "task": "Production",
+            "company": {
+                "+content": "AnimationID",
+                "+@id": "25617"
+            }
         }
     ],
     "+@date-added": "2026-04-01T06:35:54Z",
-    "+@date-last-updated-at": "2026-05-03T04:12:31Z"
+    "+@date-last-modified-at": "2026-06-02T05:01:12Z",
+    "+@date-last-updated-at": "2026-06-02T05:01:12Z"
 }

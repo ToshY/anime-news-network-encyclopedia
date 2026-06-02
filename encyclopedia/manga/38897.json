@@ -2,9 +2,9 @@
     "+@id": "38897",
     "+@gid": "2448308069",
     "+@type": "manga",
-    "+@name": "After Märchen",
+    "+@name": "Ever After",
     "+@precision": "manga",
-    "+@generated-on": "2026-05-03T04:12:22Z",
+    "+@generated-on": "2026-06-02T05:01:01Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "35494"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "Ever After",
+            "+@gid": "1485921198",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "After Märchen",
             "+@gid": "3905346419",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "EN"
         },
         {
@@ -62,11 +68,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "<cite>Kono Manga ga Sugoi!</cite> Editors Unveil Full List of Top 2025 Manga",
-        "+@datetime": "2024-12-12T15:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-12-12/kono-manga-ga-sugoi-editors-unveil-full-list-of-top-2025-manga/.218909"
-    },
+    "news": [
+        {
+            "+content": "<cite>Kono Manga ga Sugoi!</cite> Editors Unveil Full List of Top 2025 Manga",
+            "+@datetime": "2024-12-12T15:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-12-12/kono-manga-ga-sugoi-editors-unveil-full-list-of-top-2025-manga/.218909"
+        },
+        {
+            "+content": "Aloha Comics Adds Ikuno Tajima's <cite>Ever After</cite> Manga in English",
+            "+@datetime": "2026-05-27T20:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-27/aloha-comics-adds-ikuno-tajima-ever-after-manga-in-english/.237799"
+        }
+    ],
     "staff": {
         "+@gid": "2177498778",
         "task": "Story & Art",
@@ -76,5 +89,6 @@
         }
     },
     "+@date-added": "2026-04-02T17:09:52Z",
-    "+@date-last-updated-at": "2026-05-03T04:12:25Z"
+    "+@date-last-modified-at": "2026-06-02T05:01:04Z",
+    "+@date-last-updated-at": "2026-06-02T05:01:04Z"
 }
