@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Uchi no Otōto-domo ga Sumimasen",
     "+@precision": "TV",
-    "+@generated-on": "2026-05-06T10:27:39Z",
+    "+@generated-on": "2026-06-05T11:36:18Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29177"
@@ -14,20 +14,9 @@
             "+@gid": "3378927419",
             "+@type": "Picture",
             "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38115-3378927419.1774690604.jpg",
-            "+@width": "142",
-            "+@height": "200",
-            "img": [
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38115-3378927419.1774690604.jpg",
-                    "+@width": "142",
-                    "+@height": "200"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38115-3378927419.1774690604.jpg",
-                    "+@width": "425",
-                    "+@height": "600"
-                }
-            ]
+            "img": {
+                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38115-3378927419.1774690604.jpg"
+            }
         },
         {
             "+content": "Uchi no Otōto-domo ga Sumimasen",
@@ -61,6 +50,16 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "\"Aikotoba\" (アイコトバ) by DISH//",
+            "+@gid": "2403784734",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Clover\" by Reira Ushio",
+            "+@gid": "1772956246",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "TVアニメ「うちの弟どもがすみません」",
             "+@gid": "2941441299",
             "+@type": "Official website",
@@ -68,11 +67,18 @@
             "+@href": "https://uchioto-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Uchi no Otōto-domo ga Sumimasen</cite> Anime's 1st Promo Video Reveals More Cast Members, 2-Part Run, July 3 Debut",
-        "+@datetime": "2026-03-28T09:26:15Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-28/uchi-no-ototo-domo-ga-sumimasen-anime-1st-promo-video-reveals-more-cast-members-2-part-run-july-3-/.235860"
-    },
+    "news": [
+        {
+            "+content": "<cite>Uchi no Otōto-domo ga Sumimasen</cite> Anime's 1st Promo Video Reveals More Cast Members, 2-Part Run, July 3 Debut",
+            "+@datetime": "2026-03-28T09:26:15Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-28/uchi-no-ototo-domo-ga-sumimasen-anime-1st-promo-video-reveals-more-cast-members-2-part-run-july-3-/.235860"
+        },
+        {
+            "+content": "<cite>Uchi no Otōto-domo ga Sumimasen</cite> Anime Reveals Theme Songs, More Cast in 2nd Promo Video",
+            "+@datetime": "2026-05-24T05:45:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-24/uchi-no-ototo-domo-ga-sumimasen-anime-reveals-theme-songs-more-cast-in-2nd-promo-video/.237744"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1502950790",
@@ -149,6 +155,24 @@
     ],
     "cast": [
         {
+            "+@gid": "2848205688",
+            "+@lang": "JA",
+            "role": "Isao Narita",
+            "person": {
+                "+content": "Daisuke Ono",
+                "+@id": "14929"
+            }
+        },
+        {
+            "+@gid": "1792238983",
+            "+@lang": "JA",
+            "role": "Saho Narita",
+            "person": {
+                "+content": "Aya Endō",
+                "+@id": "27752"
+            }
+        },
+        {
             "+@gid": "2061571574",
             "+@lang": "JA",
             "role": "Shū Narita",
@@ -203,5 +227,6 @@
         }
     },
     "+@date-added": "2025-12-05T21:03:38Z",
-    "+@date-last-updated-at": "2026-05-06T10:27:48Z"
+    "+@date-last-modified-at": "2026-06-05T11:36:25Z",
+    "+@date-last-updated-at": "2026-06-05T11:36:25Z"
 }
