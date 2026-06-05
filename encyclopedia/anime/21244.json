@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Yu Yu Hakusho",
     "+@precision": "OAV 2018",
-    "+@generated-on": "2026-05-02T06:20:48Z",
+    "+@generated-on": "2026-06-05T04:48:22Z",
     "related-prev": {
         "+@rel": "spinoff of",
         "+@id": "311"
@@ -69,8 +69,8 @@
     ],
     "ratings": {
         "+@nb_votes": "31",
-        "+@weighted_score": "6.9969",
-        "+@bayesian_score": "7.12918"
+        "+@weighted_score": "6.9965",
+        "+@bayesian_score": "7.12881"
     },
     "episode": {
         "+@num": "1",
@@ -89,11 +89,18 @@
             }
         ]
     },
-    "release": {
-        "+content": "Yu Yu Hakusho: Ghost Files - 30th Anniversary Box Set (Blu-ray)",
-        "+@date": "2023-01-31",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=44998"
-    },
+    "release": [
+        {
+            "+content": "Yu Yu Hakusho: Ghost Files - 30th Anniversary Box Set (Blu-ray)",
+            "+@date": "2023-01-31",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=44998"
+        },
+        {
+            "+content": "Yu Yu Hakusho: Ghost Files - 30th Anniversary Box Set [UK] (Blu-ray)",
+            "+@date": "2023-04-17",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=58271"
+        }
+    ],
     "news": [
         {
             "+content": "Funimation to Release New <cite>Yu Yu Hakusho</cite> OVA With Subtitles, English Dub",
@@ -145,19 +152,19 @@
             }
         },
         {
-            "+@gid": "1890156209",
-            "task": "Character Design",
-            "person": {
-                "+content": "Keisuke Watanabe",
-                "+@id": "10627"
-            }
-        },
-        {
             "+@gid": "2144153539",
             "task": "Character Design",
             "person": {
                 "+content": "Mari Kitayama",
                 "+@id": "17281"
+            }
+        },
+        {
+            "+@gid": "1890156209",
+            "task": "Character Design",
+            "person": {
+                "+content": "Keisuke Watanabe",
+                "+@id": "297095"
             }
         },
         {
@@ -541,6 +548,6 @@
         }
     ],
     "+@date-added": "2018-07-30T12:44:18Z",
-    "+@date-last-modified-at": "2026-05-02T06:20:54Z",
-    "+@date-last-updated-at": "2026-05-02T06:20:54Z"
+    "+@date-last-modified-at": "2026-06-05T04:48:25Z",
+    "+@date-last-updated-at": "2026-06-05T04:48:25Z"
 }
