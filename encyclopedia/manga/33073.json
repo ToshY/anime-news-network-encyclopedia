@@ -4,7 +4,11 @@
     "+@type": "manga",
     "+@name": "Good Morning, Good Night, and See You Tomorrow.",
     "+@precision": "manga",
-    "+@generated-on": "2026-05-01T21:09:02Z",
+    "+@generated-on": "2026-06-07T17:41:08Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "39767"
+    },
     "info": [
         {
             "+@gid": "3340191489",
@@ -54,6 +58,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "4",
+            "+@gid": "2603552108",
+            "+@type": "Number of tankoubon"
+        },
+        {
             "+content": "2023-06-19 (serialized on Souffle website)",
             "+@gid": "2801047260",
             "+@type": "Vintage"
@@ -66,11 +75,18 @@
             "+@href": "https://souffle.life/author/ohayou-oyasumi-mata-ashita/"
         }
     ],
-    "news": {
-        "+content": "Seven Seas Licenses <cite>'Good Morning, Good Night, and See You Tomorrow'</cite>, <cite>'Are You a Landmine, Chihara-san?'</cite>, 5 More Titles",
-        "+@datetime": "2026-01-22T02:31:01Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-01-21/seven-seas-licenses-good-morning-good-night-and-see-you-tomorrow-are-you-a-landmine-chihara-san-5-/.233328"
-    },
+    "news": [
+        {
+            "+content": "Seven Seas Licenses <cite>'Good Morning, Good Night, and See You Tomorrow'</cite>, <cite>'Are You a Landmine, Chihara-san?'</cite>, 5 More Titles",
+            "+@datetime": "2026-01-22T02:31:01Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-21/seven-seas-licenses-good-morning-good-night-and-see-you-tomorrow-are-you-a-landmine-chihara-san-5-/.233328"
+        },
+        {
+            "+content": "Moka Onmae's <cite>'Good Morning, Good Night, and See You Tomorrow.'</cite> Manga Ends in Next Chapter",
+            "+@datetime": "2026-05-11T15:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-11/moka-onmae-good-morning-good-night-and-see-you-tomorrow-manga-ends-in-next-chapter/.237247"
+        }
+    ],
     "staff": {
         "+@gid": "1950588858",
         "task": "Story & Art",
@@ -80,5 +96,6 @@
         }
     },
     "+@date-added": "2024-08-02T11:05:54Z",
-    "+@date-last-updated-at": "2026-05-01T21:09:03Z"
+    "+@date-last-modified-at": "2026-06-07T17:41:10Z",
+    "+@date-last-updated-at": "2026-06-07T17:41:10Z"
 }
