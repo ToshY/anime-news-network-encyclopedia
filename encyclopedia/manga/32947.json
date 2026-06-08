@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "I Have a Crush at Work",
     "+@precision": "manga",
-    "+@generated-on": "2026-05-02T13:49:56Z",
+    "+@generated-on": "2026-06-08T05:02:27Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "2017"
@@ -87,11 +87,18 @@
         "+@nb_votes": "1",
         "+@weighted_score": "4"
     },
-    "release": {
-        "+content": "I Have a Crush at Work  (GN 1)",
-        "+@date": "2026-03-24",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57597"
-    },
+    "release": [
+        {
+            "+content": "I Have a Crush at Work  (GN 1)",
+            "+@date": "2026-03-24",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57597"
+        },
+        {
+            "+content": "I Have a Crush at Work  (GN 2)",
+            "+@date": "2026-04-28",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=58044"
+        }
+    ],
     "news": [
         {
             "+content": "North American Anime, Manga Releases, February 11-17",
@@ -188,6 +195,6 @@
         }
     },
     "+@date-added": "2024-07-23T08:19:30Z",
-    "+@date-last-modified-at": "2026-05-02T13:49:58Z",
-    "+@date-last-updated-at": "2026-05-02T13:49:58Z"
+    "+@date-last-modified-at": "2026-06-08T05:02:28Z",
+    "+@date-last-updated-at": "2026-06-08T05:02:28Z"
 }

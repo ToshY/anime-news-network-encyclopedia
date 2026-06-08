@@ -2,9 +2,9 @@
     "+@id": "32949",
     "+@gid": "2189606134",
     "+@type": "manga",
-    "+@name": "Antengai Gensō Kiroku",
+    "+@name": "Antengai: Twilight Metropolis",
     "+@precision": "manga",
-    "+@generated-on": "2026-05-02T13:49:56Z",
+    "+@generated-on": "2026-06-08T05:02:27Z",
     "related-next": {
         "+@id": "32950",
         "+@rel": "related"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "Antengai: Twilight Metropolis",
+            "+@gid": "1972496644",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Antengai Gensō Kiroku",
             "+@gid": "3652989593",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -45,6 +51,11 @@
             "+@gid": "2716276658",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "2897024102",
+            "+@type": "Genres"
         },
         {
             "+content": "1",
@@ -56,6 +67,11 @@
             "+@type": "Vintage"
         }
     ],
+    "news": {
+        "+content": "Abrams ComicArts' Kana Licenses Tsubonari's <cite>Antengai: Twilight Metropolis</cite> Manga",
+        "+@datetime": "2026-05-19T18:00:00Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-05-19/abrams-comicarts-kana-licenses-tsubonari-antengai-twilight-metropolis-manga/.237512"
+    },
     "staff": {
         "+@gid": "3036575526",
         "task": "Story & Art",
@@ -65,5 +81,6 @@
         }
     },
     "+@date-added": "2024-07-23T09:57:09Z",
-    "+@date-last-updated-at": "2026-05-02T13:49:58Z"
+    "+@date-last-modified-at": "2026-06-08T05:02:28Z",
+    "+@date-last-updated-at": "2026-06-08T05:02:28Z"
 }
