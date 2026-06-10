@@ -4,12 +4,31 @@
     "+@type": "manga",
     "+@name": "Alien Headbutt",
     "+@precision": "manga",
-    "+@generated-on": "2026-05-11T11:36:44Z",
+    "+@generated-on": "2026-06-10T11:47:59Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "1363"
     },
     "info": [
+        {
+            "+@gid": "2097610428",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38460-2097610428.1778534698.jpg",
+            "+@width": "200",
+            "+@height": "160",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38460-2097610428.1778534698.jpg",
+                    "+@width": "200",
+                    "+@height": "160"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38460-2097610428.1778534698.jpg",
+                    "+@width": "400",
+                    "+@height": "320"
+                }
+            ]
+        },
         {
             "+content": "Alien Headbutt",
             "+@gid": "1589435389",
@@ -38,16 +57,32 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2026-02-09 (serialized in Weekly Shonen Jump, 2026 #11)",
+            "+content": "2",
+            "+@gid": "2676020233",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2026-02-09 to 2026-06-01 (Weekly Shonen Jump, 2026 #11 - 27)",
             "+@gid": "2508209172",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "<cite>Otr of the Flame</cite> Manga Ends, <cite>Weekly Shonen Jump</cite> Magazine Launches 3 New Manga",
-        "+@datetime": "2026-01-18T15:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-01-18/otr-of-the-flame-manga-ends-weekly-shonen-jump-magazine-launches-3-new-manga/.233200"
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "7"
     },
+    "news": [
+        {
+            "+content": "<cite>Otr of the Flame</cite> Manga Ends, <cite>Weekly Shonen Jump</cite> Magazine Launches 3 New Manga",
+            "+@datetime": "2026-01-18T15:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-18/otr-of-the-flame-manga-ends-weekly-shonen-jump-magazine-launches-3-new-manga/.233200"
+        },
+        {
+            "+content": "<cite>'Tis Time for \"Torture,\" Princess'</cite> Manga's Robinson Haruhara, <cite>We Never Learn's</cite> Taishi Tsutsui Launch New Manga",
+            "+@datetime": "2026-05-31T15:09:08Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-31/tis-time-for-torture-princess-manga-robinson-haruhara-we-never-learn-taishi-tsutsui-launch-new-manga/.237991"
+        }
+    ],
     "staff": {
         "+@gid": "2311154429",
         "task": "Story & Art",
@@ -57,5 +92,6 @@
         }
     },
     "+@date-added": "2026-02-08T19:31:53Z",
-    "+@date-last-updated-at": "2026-05-11T11:36:46Z"
+    "+@date-last-modified-at": "2026-06-10T11:48:02Z",
+    "+@date-last-updated-at": "2026-06-10T11:48:02Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Laid-Off Cheat-Granting Mage Enjoys a New Life",
     "+@precision": "TV",
-    "+@generated-on": "2026-05-11T11:36:41Z",
+    "+@generated-on": "2026-06-10T11:48:16Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "38442"
@@ -13,19 +13,24 @@
         {
             "+@gid": "2427146524",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38443-2427146524.1770351269.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38443-2427146524.1781064821.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38443-2427146524.1770351269.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38443-2427146524.1781064821.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38443-2427146524.1770351269.jpg",
-                    "+@width": "423",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38443-2427146524.1781064821.jpg",
+                    "+@width": "424",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38443-2427146524.1781064821.jpg",
+                    "+@width": "512",
+                    "+@height": "725"
                 }
             ]
         },
@@ -64,19 +69,54 @@
             "+@type": "Genres"
         },
         {
+            "+content": "2026-10",
+            "+@gid": "2856397688",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "アニメ『追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～』",
             "+@gid": "1631551974",
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://sh-anime.shochiku.co.jp/chiifuyo-anime/"
+        },
+        {
+            "+content": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+            "+@gid": "2758556515",
+            "+@type": "Official website",
+            "+@lang": "EN",
+            "+@href": "https://sh-anime.shochiku.co.jp/chiifuyo-anime/en"
         }
     ],
-    "news": {
-        "+content": "<cite>The Laid-Off Cheat-Granting Mage Enjoys a New Life</cite> Manga Gets TV Anime",
-        "+@datetime": "2026-02-06T03:36:50Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-02-05/the-laid-off-cheat-granting-mage-enjoys-a-new-life-manga-gets-tv-anime/.233874"
-    },
+    "news": [
+        {
+            "+content": "<cite>The Laid-Off Cheat-Granting Mage Enjoys a New Life</cite> Manga Gets TV Anime",
+            "+@datetime": "2026-02-06T03:36:50Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-05/the-laid-off-cheat-granting-mage-enjoys-a-new-life-manga-gets-tv-anime/.233874"
+        },
+        {
+            "+content": "<cite>The Laid-Off Cheat-Granting Mage Enjoys a New Life</cite> Anime's Teaser Unveils Cast, Staff, October Debut",
+            "+@datetime": "2026-06-10T03:53:53Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-09/the-laid-off-cheat-granting-mage-enjoys-a-new-life-anime-teaser-unveils-cast-staff-october-debut/.238363"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "2314026824",
+            "task": "Director",
+            "person": {
+                "+content": "Shū Honma",
+                "+@id": "223828"
+            }
+        },
+        {
+            "+@gid": "1280436635",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Yōko Yonaiyama",
+                "+@id": "171082"
+            }
+        },
         {
             "+@gid": "1392162508",
             "task": "Original creator",
@@ -86,11 +126,126 @@
             }
         },
         {
+            "+@gid": "864919326",
+            "task": "Original creator",
+            "person": {
+                "+content": "Gyōmuyōmochi",
+                "+@id": "248024"
+            }
+        },
+        {
             "+@gid": "3209905859",
             "task": "Original Character Design",
             "person": {
                 "+content": "kisui",
                 "+@id": "219689"
+            }
+        },
+        {
+            "+@gid": "2914057801",
+            "task": "Character Design",
+            "person": {
+                "+content": "Yuito Kiyosawa",
+                "+@id": "249229"
+            }
+        },
+        {
+            "+@gid": "1648577798",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Masami Gohda",
+                "+@id": "124265"
+            }
+        },
+        {
+            "+@gid": "1369601167",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yuito Kiyosawa",
+                "+@id": "249229"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2738980426",
+            "+@lang": "JA",
+            "role": "Mother of Assassins",
+            "person": {
+                "+content": "Rie Shibata",
+                "+@id": "27323"
+            }
+        },
+        {
+            "+@gid": "1777416303",
+            "+@lang": "JA",
+            "role": "Half",
+            "person": {
+                "+content": "Nobuhiko Okamoto",
+                "+@id": "59411"
+            }
+        },
+        {
+            "+@gid": "179414018",
+            "+@lang": "JA",
+            "role": "Elsie Zra",
+            "person": {
+                "+content": "Megumi Han",
+                "+@id": "104148"
+            }
+        },
+        {
+            "+@gid": "3062878580",
+            "+@lang": "JA",
+            "role": "Lily Flambert",
+            "person": {
+                "+content": "Lynn",
+                "+@id": "115769"
+            }
+        },
+        {
+            "+@gid": "2668036583",
+            "+@lang": "JA",
+            "role": "Rein Garland",
+            "person": {
+                "+content": "Daiki Yamashita",
+                "+@id": "119386"
+            }
+        },
+        {
+            "+@gid": "2802381056",
+            "+@lang": "JA",
+            "role": "Margaret Ells",
+            "person": {
+                "+content": "Yoshino Aoyama",
+                "+@id": "123095"
+            }
+        },
+        {
+            "+@gid": "1592647944",
+            "+@lang": "JA",
+            "role": "Cornelius",
+            "person": {
+                "+content": "Makoto Furukawa",
+                "+@id": "123459"
+            }
+        },
+        {
+            "+@gid": "1949301632",
+            "+@lang": "JA",
+            "role": "Mirabelle",
+            "person": {
+                "+content": "Miyu Tomita",
+                "+@id": "145048"
+            }
+        },
+        {
+            "+@gid": "1533390063",
+            "+@lang": "JA",
+            "role": "Nina",
+            "person": {
+                "+content": "Konomi Kohara",
+                "+@id": "153781"
             }
         }
     ],
@@ -103,5 +258,6 @@
         }
     },
     "+@date-added": "2026-02-05T23:13:35Z",
-    "+@date-last-updated-at": "2026-05-11T11:36:48Z"
+    "+@date-last-modified-at": "2026-06-10T11:48:21Z",
+    "+@date-last-updated-at": "2026-06-10T11:48:21Z"
 }
