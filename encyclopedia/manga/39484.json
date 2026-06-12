@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Yotsuya Ghost Knight",
     "+@precision": "manga",
-    "+@generated-on": "2026-05-13T04:13:40Z",
+    "+@generated-on": "2026-06-12T05:04:42Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "36895"
@@ -67,11 +67,18 @@
             "+@type": "Vintage"
         }
     ],
-    "release": {
-        "+content": "Yotsuya Ghost Knight (GN)",
-        "+@date": "2025-10-28",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=58128"
-    },
+    "release": [
+        {
+            "+content": "Yotsuya Ghost Knight (eBook)",
+            "+@date": "2025-10-28",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=58131"
+        },
+        {
+            "+content": "Yotsuya Ghost Knight (GN)",
+            "+@date": "2025-10-28",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=58128"
+        }
+    ],
     "news": {
         "+content": "North American Anime, Manga Releases, October 26-November 1",
         "+@datetime": "2025-10-30T21:00:00Z",
@@ -86,5 +93,6 @@
         }
     },
     "+@date-added": "2026-05-12T19:11:44Z",
-    "+@date-last-updated-at": "2026-05-13T04:13:41Z"
+    "+@date-last-modified-at": "2026-06-12T05:04:45Z",
+    "+@date-last-updated-at": "2026-06-12T05:04:45Z"
 }
