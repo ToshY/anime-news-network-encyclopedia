@@ -4,15 +4,21 @@
     "+@type": "TV",
     "+@name": "Little Busters! Refrain",
     "+@precision": "TV",
-    "+@generated-on": "2026-05-09T09:44:16Z",
+    "+@generated-on": "2026-06-14T14:29:40Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "14231"
     },
-    "related-next": {
-        "+@id": "15732",
-        "+@rel": "related"
-    },
+    "related-next": [
+        {
+            "+@id": "15732",
+            "+@rel": "related"
+        },
+        {
+            "+@id": "39588",
+            "+@rel": "adaptation"
+        }
+    ],
     "info": [
         {
             "+@gid": "2307679518",
@@ -141,7 +147,7 @@
     "ratings": {
         "+@nb_votes": "312",
         "+@weighted_score": "7.4885",
-        "+@bayesian_score": "7.48784"
+        "+@bayesian_score": "7.48783"
     },
     "episode": [
         {
@@ -1085,6 +1091,6 @@
         }
     ],
     "+@date-added": "2013-07-31T03:43:39Z",
-    "+@date-last-modified-at": "2026-05-09T09:44:18Z",
-    "+@date-last-updated-at": "2026-05-09T09:44:18Z"
+    "+@date-last-modified-at": "2026-06-14T14:29:44Z",
+    "+@date-last-updated-at": "2026-06-14T14:29:44Z"
 }
