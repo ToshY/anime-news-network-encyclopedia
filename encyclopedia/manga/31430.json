@@ -4,7 +4,11 @@
     "+@type": "manga",
     "+@name": "Hajimete no Kedamono",
     "+@precision": "manga",
-    "+@generated-on": "2026-05-07T21:14:56Z",
+    "+@generated-on": "2026-06-15T14:35:05Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "39612"
+    },
     "related-next": {
         "+@id": "31431",
         "+@rel": "side story"
@@ -53,12 +57,17 @@
             "+@lang": "JA"
         },
         {
+            "+content": "romance",
+            "+@gid": "2933186349",
+            "+@type": "Genres"
+        },
+        {
             "+content": "10",
             "+@gid": "2046608174",
             "+@type": "Number of tankoubon"
         },
         {
-            "+content": "2013-04-25 to 2017-11-05 (serialized in Mobile Flowers)",
+            "+content": "2013-04-25 to 2017-11-05 (serialized in Mobile Flower)",
             "+@gid": "3166549498",
             "+@type": "Vintage"
         }
@@ -72,5 +81,6 @@
         }
     },
     "+@date-added": "2024-01-09T23:18:12Z",
-    "+@date-last-updated-at": "2026-05-07T21:14:58Z"
+    "+@date-last-modified-at": "2026-06-15T14:35:06Z",
+    "+@date-last-updated-at": "2026-06-15T14:35:06Z"
 }

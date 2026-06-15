@@ -4,10 +4,14 @@
     "+@type": "manga",
     "+@name": "Koisuru Yajū",
     "+@precision": "manga",
-    "+@generated-on": "2026-05-07T21:14:56Z",
+    "+@generated-on": "2026-06-15T14:35:04Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "36176"
+    },
+    "related-next": {
+        "+@id": "39696",
+        "+@rel": "spinoff"
     },
     "info": [
         {
@@ -53,6 +57,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "romance",
+            "+@gid": "1465413812",
+            "+@type": "Genres"
+        },
+        {
             "+content": "3",
             "+@gid": "887388530",
             "+@type": "Number of tankoubon"
@@ -72,5 +81,6 @@
         }
     },
     "+@date-added": "2024-01-10T12:00:02Z",
-    "+@date-last-updated-at": "2026-05-07T21:14:58Z"
+    "+@date-last-modified-at": "2026-06-15T14:35:06Z",
+    "+@date-last-updated-at": "2026-06-15T14:35:06Z"
 }

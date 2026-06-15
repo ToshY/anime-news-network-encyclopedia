@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Hajimete no Kedamono: Los Angeles Jikenbo",
     "+@precision": "manga",
-    "+@generated-on": "2026-05-07T21:14:56Z",
-    "related-prev": {
-        "+@rel": "side story of",
-        "+@id": "31430"
-    },
+    "+@generated-on": "2026-06-15T14:35:04Z",
+    "related-prev": [
+        {
+            "+@rel": "side story of",
+            "+@id": "31430"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "39612"
+        }
+    ],
     "info": [
         {
             "+@gid": "2217191352",
@@ -53,7 +59,12 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2022-12-05 (serialized in Mobile Flowers)",
+            "+content": "romance",
+            "+@gid": "1666157053",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "2022-12-05 (serialized in Mobile Flower)",
             "+@gid": "930402275",
             "+@type": "Vintage"
         }
@@ -67,5 +78,6 @@
         }
     },
     "+@date-added": "2024-01-09T23:27:45Z",
-    "+@date-last-updated-at": "2026-05-07T21:14:58Z"
+    "+@date-last-modified-at": "2026-06-15T14:35:06Z",
+    "+@date-last-updated-at": "2026-06-15T14:35:06Z"
 }
