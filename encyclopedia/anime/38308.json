@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Recommendation from Mr. Iwamoto",
     "+@precision": "TV",
-    "+@generated-on": "2026-05-17T04:33:08Z",
+    "+@generated-on": "2026-06-16T04:51:04Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27496"
@@ -13,24 +13,19 @@
         {
             "+@gid": "2087272860",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38308-2087272860.1774767823.jpg",
-            "+@width": "200",
-            "+@height": "132",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38308-2087272860.1781257351.jpg",
+            "+@width": "141",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38308-2087272860.1774767823.jpg",
-                    "+@width": "200",
-                    "+@height": "132"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38308-2087272860.1781257351.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38308-2087272860.1774767823.jpg",
-                    "+@width": "500",
-                    "+@height": "329"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38308-2087272860.1774767823.jpg",
-                    "+@width": "600",
-                    "+@height": "395"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38308-2087272860.1781257351.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
                 }
             ]
         },
@@ -63,9 +58,24 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2026-07",
+            "+content": "In the 1910s, Kodō Iwamoto is a third-year student at Seihō Middle School, which is directly controlled by the military and dedicated to collecting and researching supernatural phenomena to harness that power for military use. Under military orders, Kodō travels across the country to investigate supernatural phenomena. In one town where it is rumored that \"black snow\" falls, he meets a boy who thinks his mysterious powers are an illness. Kodō shows the boy how to use his powers and offers him a letter of recommendation to Seihō Middle School. As he travels to other areas, Kodō encounters many other mysterious events.",
+            "+@gid": "2510733916",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2026-07-04",
             "+@gid": "2383253003",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"BUDDING\" by THE JET BOY BANGERZ",
+            "+@gid": "2309886280",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Koko ni Iru\" (ココニイル) by WOLF HOWL HARMONY",
+            "+@gid": "2707944015",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ「岩元先輩ノ推薦」公式サイト",
@@ -75,11 +85,23 @@
             "+@href": "https://iwamoto-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Recommendation from Mr. Iwamoto</cite> Anime's 2nd Promo Video Unveils More Cast Members, July Debut",
-        "+@datetime": "2026-03-29T07:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-29/recommendation-from-mr-iwamoto-anime-2nd-promo-video-unveils-more-cast-members-july-debut/.235882"
-    },
+    "news": [
+        {
+            "+content": "<cite>Recommendation from Mr. Iwamoto</cite> Anime's 2nd Promo Video Unveils More Cast Members, July Debut",
+            "+@datetime": "2026-03-29T07:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-29/recommendation-from-mr-iwamoto-anime-2nd-promo-video-unveils-more-cast-members-july-debut/.235882"
+        },
+        {
+            "+content": "<cite>Recommendation from Mr. Iwamoto</cite> Anime Reveals More Cast, Theme Song Artists, July 4 Debut",
+            "+@datetime": "2026-05-29T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-29/recommendation-from-mr-iwamoto-anime-reveals-more-cast-theme-song-artists-july-4-debut/.237910"
+        },
+        {
+            "+content": "<cite>Recommendation from Mr. Iwamoto</cite> TV Anime Previews Opening Theme in 3rd Promo Video",
+            "+@datetime": "2026-06-12T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-12/recommendation-from-mr-iwamoto-tv-anime-previews-opening-theme-in-3rd-promo-video/.238445"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3507340213",
@@ -130,11 +152,35 @@
             }
         },
         {
+            "+@gid": "497992599",
+            "task": "Art Director",
+            "person": {
+                "+content": "Teru Sekiguchi",
+                "+@id": "183581"
+            }
+        },
+        {
             "+@gid": "2783619478",
             "task": "Sound Director",
             "person": {
                 "+content": "Takuya Hiramitsu",
                 "+@id": "10616"
+            }
+        },
+        {
+            "+@gid": "3509450973",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Shinsuke Ōshima",
+                "+@id": "86213"
+            }
+        },
+        {
+            "+@gid": "2909890918",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Ken Azetsubo",
+                "+@id": "269979"
             }
         }
     ],
@@ -185,6 +231,24 @@
             }
         },
         {
+            "+@gid": "2430978389",
+            "+@lang": "JA",
+            "role": "Ryū Sazame",
+            "person": {
+                "+content": "Gen Sato",
+                "+@id": "174504"
+            }
+        },
+        {
+            "+@gid": "2399694585",
+            "+@lang": "JA",
+            "role": "Mizuhi Awadama",
+            "person": {
+                "+content": "Shinnosuke Tokudome",
+                "+@id": "175801"
+            }
+        },
+        {
             "+@gid": "1816070258",
             "+@lang": "JA",
             "role": "Kai Haramachi",
@@ -203,5 +267,6 @@
         }
     },
     "+@date-added": "2026-01-16T17:20:12Z",
-    "+@date-last-updated-at": "2026-05-17T04:33:14Z"
+    "+@date-last-modified-at": "2026-06-16T05:35:09Z",
+    "+@date-last-updated-at": "2026-06-16T05:35:09Z"
 }
