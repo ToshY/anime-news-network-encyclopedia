@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Ultraman M78 Gekijō Love & Peace",
     "+@precision": "movie",
-    "+@generated-on": "2026-05-11T04:37:42Z",
+    "+@generated-on": "2026-06-16T13:04:03Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "3900"
@@ -58,6 +58,11 @@
             "+content": "\"Ultramambo Woo!\" (ウルトラマンボ ウッ!) by Pa-Pee-boo",
             "+@gid": "3419059662",
             "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Mainichi ga Paradise\" (毎日がパラダイス) by Pa-Pee-boo",
+            "+@gid": "1388877516",
+            "+@type": "Ending Theme"
         }
     ],
     "staff": [
@@ -246,6 +251,14 @@
             }
         },
         {
+            "+@gid": "2099637037",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Hajime Sachi",
+                "+@id": "122929"
+            }
+        },
+        {
             "+@gid": "1629800385",
             "task": "Producer",
             "person": {
@@ -278,11 +291,43 @@
             }
         },
         {
+            "+@gid": "1988102161",
+            "task": "Producer",
+            "person": {
+                "+content": "Kazumi Kawashiro",
+                "+@id": "4563"
+            }
+        },
+        {
+            "+@gid": "1499910794",
+            "task": "Producer",
+            "person": {
+                "+content": "Yoshihiko Marutani",
+                "+@id": "8470"
+            }
+        },
+        {
+            "+@gid": "1037090876",
+            "task": "Producer",
+            "person": {
+                "+content": "Kiyoshi Suzuki",
+                "+@id": "9436"
+            }
+        },
+        {
             "+@gid": "1785527852",
             "task": "Producer",
             "person": {
                 "+content": "Kiyoshi Ishikawa",
                 "+@id": "21215"
+            }
+        },
+        {
+            "+@gid": "2694407450",
+            "task": "Producer",
+            "person": {
+                "+content": "Takashi Hirano",
+                "+@id": "27115"
             }
         },
         {
@@ -361,5 +406,6 @@
         }
     ],
     "+@date-added": "2012-08-21T19:21:03Z",
-    "+@date-last-updated-at": "2026-05-11T04:37:46Z"
+    "+@date-last-modified-at": "2026-06-16T13:04:04Z",
+    "+@date-last-updated-at": "2026-06-16T13:04:04Z"
 }
