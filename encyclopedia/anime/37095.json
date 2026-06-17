@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Frontier Lord Begins with Zero Subjects",
     "+@precision": "TV",
-    "+@generated-on": "2026-05-18T04:43:07Z",
+    "+@generated-on": "2026-06-17T05:17:30Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28875"
@@ -53,9 +53,24 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026-07",
-            "+@gid": "3040841890",
+            "+content": "Dias finally returns home after decades of war. He's hailed as a hero and promptly rewarded with his own domain...which turns out to be little more than empty plains. Population: zero. Dias, who has only ever known battle, finds himself at a loss. Fortunately for Dias, a horned girl by the name of Alna is about to show him there's more to the plains than meets the eye.",
+            "+@gid": "3587232416",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2026-07-10",
+            "+@gid": "1653797716",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Wonder\" by CROWN HEAD",
+            "+@gid": "661798791",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Hoshi Furu Yoru no Yakusoku\" (星降る夜の約束) by Kaya",
+            "+@gid": "1299879406",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ『領民０人スタートの辺境領主様』公式サイト",
@@ -75,6 +90,11 @@
             "+content": "<cite>The Frontier Lord Begins with Zero Subjects</cite> Anime's New Video Reveals More Cast Members, July Debut",
             "+@datetime": "2026-03-17T11:10:35Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-03-17/the-frontier-lord-begins-with-zero-subjects-anime-new-video-reveals-more-cast-members-july-debut/.235405"
+        },
+        {
+            "+content": "<cite>The Frontier Lord Begins with Zero Subjects</cite> Anime Reveals Theme Songs, July 10 Debut in Video",
+            "+@datetime": "2026-05-29T11:02:51Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-29/the-frontier-lord-begins-with-zero-subjects-anime-reveals-theme-songs-july-10-debut-in-video/.237940"
         }
     ],
     "staff": [
@@ -92,6 +112,14 @@
             "person": {
                 "+content": "Kunihiko Okada",
                 "+@id": "84718"
+            }
+        },
+        {
+            "+@gid": "1082771701",
+            "task": "Music",
+            "person": {
+                "+content": "Sakiko Sakuragi",
+                "+@id": "297902"
             }
         },
         {
@@ -125,6 +153,22 @@
                 "+content": "Keiichi Tsuboyama",
                 "+@id": "141320"
             }
+        },
+        {
+            "+@gid": "4048129643",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Masanori Tsuchiya",
+                "+@id": "15158"
+            }
+        },
+        {
+            "+@gid": "3019951719",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Kōji Tanaka",
+                "+@id": "315"
+            }
         }
     ],
     "cast": [
@@ -138,6 +182,15 @@
             }
         },
         {
+            "+@gid": "3414513089",
+            "+@lang": "JA",
+            "role": "Mole",
+            "person": {
+                "+content": "Kujira",
+                "+@id": "3581"
+            }
+        },
+        {
             "+@gid": "2233098861",
             "+@lang": "JA",
             "role": "Alna",
@@ -147,12 +200,30 @@
             }
         },
         {
+            "+@gid": "1356000116",
+            "+@lang": "JA",
+            "role": "Diane",
+            "person": {
+                "+content": "Yōko Hikasa",
+                "+@id": "67797"
+            }
+        },
+        {
             "+@gid": "593305103",
             "+@lang": "JA",
             "role": "Dias",
             "person": {
                 "+content": "Kenichirō Matsuda",
                 "+@id": "71825"
+            }
+        },
+        {
+            "+@gid": "2856468552",
+            "+@lang": "JA",
+            "role": "Eima",
+            "person": {
+                "+content": "Nao Tōyama",
+                "+@id": "95316"
             }
         },
         {
@@ -174,6 +245,15 @@
             }
         },
         {
+            "+@gid": "823952368",
+            "+@lang": "JA",
+            "role": "Francis",
+            "person": {
+                "+content": "Rikuya Yasuda",
+                "+@id": "167211"
+            }
+        },
+        {
             "+@gid": "1245048680",
             "+@lang": "JA",
             "role": "Klaus",
@@ -181,16 +261,36 @@
                 "+content": "Taito Ban",
                 "+@id": "167294"
             }
+        },
+        {
+            "+@gid": "414189329",
+            "+@lang": "JA",
+            "role": "François",
+            "person": {
+                "+content": "Maria Abo",
+                "+@id": "209889"
+            }
         }
     ],
-    "credit": {
-        "+@gid": "2079649514",
-        "task": "Animation Production",
-        "company": {
-            "+content": "animation studio42",
-            "+@id": "26520"
+    "credit": [
+        {
+            "+@gid": "2079649514",
+            "task": "Animation Production",
+            "company": {
+                "+content": "animation studio42",
+                "+@id": "26520"
+            }
+        },
+        {
+            "+@gid": "2672148536",
+            "task": "Production",
+            "company": {
+                "+content": "NBCUniversal Entertainment Japan",
+                "+@id": "12727"
+            }
         }
-    },
+    ],
     "+@date-added": "2025-07-19T03:12:30Z",
-    "+@date-last-updated-at": "2026-05-18T04:43:10Z"
+    "+@date-last-modified-at": "2026-06-17T05:17:32Z",
+    "+@date-last-updated-at": "2026-06-17T05:17:32Z"
 }
