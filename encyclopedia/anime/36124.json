@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
     "+@precision": "TV",
-    "+@generated-on": "2026-05-18T11:53:54Z",
+    "+@generated-on": "2026-06-17T12:30:40Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "36120"
@@ -100,8 +100,13 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "\"Chiru made wa\" (散るまでは) by Bertia [Miyu Tomita] (ep 6)",
+            "+content": "\"Chiru made wa\" (散るまでは) by Bertia [Miyu Tomita] (eps 6,10)",
             "+@gid": "3246545761",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Niji-iro no Hibi\" (虹色の日々) by Cecil [Yūsuke Kobayashi] (ep 11)",
+            "+@gid": "2556801288",
             "+@type": "Insert song"
         },
         {
@@ -114,7 +119,7 @@
     ],
     "ratings": {
         "+@nb_votes": "4",
-        "+@weighted_score": "5.8935"
+        "+@weighted_score": "5.893"
     },
     "episode": [
         {
@@ -171,6 +176,46 @@
                 "+content": "Observation Log of a Self-Proclaimed Villainess and Hatred.",
                 "+@gid": "2284841453",
                 "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "Observation Log of a Self-Proclaimed Villainess and Being Struck Speechless.",
+                "+@gid": "1570282503",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "Observation Log of a Self-Proclaimed Villainess and a Doll.",
+                "+@gid": "2309216163",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "An Observation Log of a Self-Proclaimed Villainess and Cecil Glo Alphasta.",
+                "+@gid": "1578359990",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "Jishou Akuyaku Reijou to Ouke no Kansatsu Kiroku.",
+                "+@gid": "3006650073",
+                "+@lang": "JA"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Jishou Akuyaku Reijou de Tsuma no Kansatsu Kiroku.",
+                "+@gid": "1539839471",
+                "+@lang": "JA"
             }
         }
     ],
@@ -318,6 +363,14 @@
             }
         },
         {
+            "+@gid": "2086845203",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Harume Kosaka",
+                "+@id": "31137"
+            }
+        },
+        {
             "+@gid": "2124579368",
             "task": "Episode Director",
             "person": {
@@ -454,6 +507,14 @@
             }
         },
         {
+            "+@gid": "1008985632",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yi Liu",
+                "+@id": "99080"
+            }
+        },
+        {
             "+@gid": "492288058",
             "task": "Chief Animation Director",
             "person": {
@@ -486,11 +547,27 @@
             }
         },
         {
+            "+@gid": "4008223619",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takeshi Miyamoto",
+                "+@id": "17692"
+            }
+        },
+        {
             "+@gid": "2737847907",
             "task": "Animation Director",
             "person": {
                 "+content": "Kazuyuki Ikai",
                 "+@id": "35484"
+            }
+        },
+        {
+            "+@gid": "2050728199",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazuo Noguchi",
+                "+@id": "61629"
             }
         },
         {
@@ -507,6 +584,14 @@
             "person": {
                 "+content": "Ye He",
                 "+@id": "89289"
+            }
+        },
+        {
+            "+@gid": "3531074215",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takeshi Hirayama",
+                "+@id": "89682"
             }
         },
         {
@@ -614,6 +699,14 @@
             }
         },
         {
+            "+@gid": "2282312484",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Xiao Liu",
+                "+@id": "160042"
+            }
+        },
+        {
             "+@gid": "2949973286",
             "task": "Animation Director",
             "person": {
@@ -718,6 +811,14 @@
             }
         },
         {
+            "+@gid": "4024542341",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Min Hui Liao",
+                "+@id": "230247"
+            }
+        },
+        {
             "+@gid": "1856529797",
             "task": "Animation Director",
             "person": {
@@ -731,6 +832,14 @@
             "person": {
                 "+content": "Kiria Takashiro",
                 "+@id": "241240"
+            }
+        },
+        {
+            "+@gid": "2595039105",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yang Li",
+                "+@id": "245548"
             }
         },
         {
@@ -830,6 +939,22 @@
             }
         },
         {
+            "+@gid": "3009309422",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hang Zhang",
+                "+@id": "285873"
+            }
+        },
+        {
+            "+@gid": "1334514979",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Lei Li",
+                "+@id": "290173"
+            }
+        },
+        {
             "+@gid": "2506189819",
             "task": "Animation Director",
             "person": {
@@ -854,6 +979,14 @@
             }
         },
         {
+            "+@gid": "1819795683",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Xiao Yi Luo",
+                "+@id": "292703"
+            }
+        },
+        {
             "+@gid": "2315619594",
             "task": "Animation Director",
             "person": {
@@ -867,6 +1000,14 @@
             "person": {
                 "+content": "Heng Yi Qian",
                 "+@id": "294190"
+            }
+        },
+        {
+            "+@gid": "3223953898",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wei Ling Chen",
+                "+@id": "295730"
             }
         },
         {
@@ -947,6 +1088,14 @@
             "person": {
                 "+content": "Yu Jie Xu",
                 "+@id": "296586"
+            }
+        },
+        {
+            "+@gid": "3437253410",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Meng Zhu",
+                "+@id": "297904"
             }
         },
         {
@@ -1237,6 +1386,6 @@
         }
     },
     "+@date-added": "2025-05-12T21:56:41Z",
-    "+@date-last-modified-at": "2026-05-18T11:53:58Z",
-    "+@date-last-updated-at": "2026-05-18T11:53:58Z"
+    "+@date-last-modified-at": "2026-06-17T12:30:45Z",
+    "+@date-last-updated-at": "2026-06-17T12:30:45Z"
 }
