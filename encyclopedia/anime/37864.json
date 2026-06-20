@@ -4,19 +4,30 @@
     "+@type": "TV",
     "+@name": "Grand Blue Dreaming",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-05-21T15:51:38Z",
+    "+@generated-on": "2026-06-20T17:48:43Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "33631"
     },
     "info": [
         {
-            "+@gid": "4111655939",
+            "+@gid": "1963805803",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37864-4111655939.1773839124.jpg",
-            "img": {
-                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37864-4111655939.1773839124.jpg"
-            }
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37864-1963805803.1781706151.jpg",
+            "+@width": "140",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37864-1963805803.1781706151.jpg",
+                    "+@width": "140",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37864-1963805803.1781706151.jpg",
+                    "+@width": "350",
+                    "+@height": "500"
+                }
+            ]
         },
         {
             "+content": "Grand Blue Dreaming",
@@ -42,9 +53,24 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026-07",
+            "+content": "After moving out on his own to a seaside town, Iori Kitahara makes a college debut he never anticipated. A new chapter of his life unfolds, full of diving with beautiful girls and shenanigans with a gaggle of lovable bastards. Idiot-expert Kenji Inoue and au naturel authority Kimitake Yoshioka bring you a glorious college tale filled with booze-fueled antics",
+            "+@gid": "2276300791",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2026-07-06",
             "+@gid": "2489868831",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Natsuko\" (夏子) by FUNKY MONKEY BΛBY'S",
+            "+@gid": "2614528542",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Hadaka no Mermaid\" (裸のマーメード) by MAMESHiBA NO TAiGUN",
+            "+@gid": "1578194609",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ「ぐらんぶる」公式サイト",
@@ -54,11 +80,28 @@
             "+@href": "https://grandblue-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Grand Blue Dreaming</cite> Season 3 Announces More Cast, July Premiere",
-        "+@datetime": "2026-03-18T12:51:23Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-18/grand-blue-dreaming-season-3-announces-more-cast-july-premiere/.235450"
-    },
+    "news": [
+        {
+            "+content": "<cite>Grand Blue Dreaming</cite> Season 3 Announces More Cast, July Premiere",
+            "+@datetime": "2026-03-18T12:51:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-18/grand-blue-dreaming-season-3-announces-more-cast-july-premiere/.235450"
+        },
+        {
+            "+content": "<cite>Grand Blue Dreaming</cite> Season 3's Teaser Reveals New Cast Member M.A.O",
+            "+@datetime": "2026-03-27T03:20:30Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-26/grand-blue-dreaming-season-3-teaser-reveals-new-cast-member-m.a.o/.235795"
+        },
+        {
+            "+content": "<cite>Grand Blue Dreaming</cite> Anime Season 3 Announces Opening Song Artists",
+            "+@datetime": "2026-05-24T12:13:47Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-24/grand-blue-dreaming-anime-season-3-announces-opening-song-artists/.237759"
+        },
+        {
+            "+content": "<cite>Grand Blue Dreaming</cite> Anime Season 3's New Video Reveals Ending Song, July 6 Debut",
+            "+@datetime": "2026-06-11T08:25:21Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-11/grand-blue-dreaming-anime-season-3-new-video-reveals-ending-song-july-6-debut/.238400"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2209937204",
@@ -74,6 +117,14 @@
             "person": {
                 "+content": "Shinji Takamatsu",
                 "+@id": "6593"
+            }
+        },
+        {
+            "+@gid": "1591377867",
+            "task": "Music",
+            "person": {
+                "+content": "Yukari Hashimoto",
+                "+@id": "17541"
             }
         },
         {
@@ -93,11 +144,35 @@
             }
         },
         {
+            "+@gid": "1039486194",
+            "task": "Art Director",
+            "person": {
+                "+content": "Minoru Akiba",
+                "+@id": "28066"
+            }
+        },
+        {
             "+@gid": "2407870146",
             "task": "Sound Director",
             "person": {
                 "+content": "Shinji Takamatsu",
                 "+@id": "6593"
+            }
+        },
+        {
+            "+@gid": "1395361639",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Tomomi Saitō",
+                "+@id": "106655"
+            }
+        },
+        {
+            "+@gid": "2065264092",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Naoyuki Katō",
+                "+@id": "225255"
             }
         }
     ],
@@ -311,6 +386,6 @@
         }
     ],
     "+@date-added": "2025-09-22T17:43:39Z",
-    "+@date-last-modified-at": "2026-05-21T15:51:43Z",
-    "+@date-last-updated-at": "2026-05-21T15:51:43Z"
+    "+@date-last-modified-at": "2026-06-20T17:48:47Z",
+    "+@date-last-updated-at": "2026-06-20T17:48:47Z"
 }
