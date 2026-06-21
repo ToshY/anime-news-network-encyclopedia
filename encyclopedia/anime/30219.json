@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Angel Next Door Spoils Me Rotten",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-05-22T18:05:30Z",
+    "+@generated-on": "2026-06-21T21:42:49Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "25110"
@@ -83,13 +83,23 @@
             "+@type": "Opening Theme"
         },
         {
-            "+content": "#1: \"Ureshii! Tanoshii! Daisuki!\" (うれしい！たのしい！大好き！) by Mahiru Shiina (CV: Manaka Iwami) (eps 1-4, 6-)",
+            "+content": "#1: \"Ureshii! Tanoshii! Daisuki!\" (うれしい！たのしい！大好き！) by Mahiru Shiina (CV: Manaka Iwami) (eps 1-4, 6-8, 10-11)",
             "+@gid": "2070914572",
             "+@type": "Ending Theme"
         },
         {
             "+content": "#2: \"Natsumatsuri\" (夏祭り) by Mahiru Shiina (CV: Manaka Iwami) (ep 5)",
             "+@gid": "3385651698",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#3: \"Heavy Rotation\" (ヘビーローテーション) by Mahiru Shiina (CV: Manaka Iwami), Chitose Shirakawa (CV: Haruka Shiraishi), Amane Fujimiya (CV: Taito Ban), Itsuki Akazawa (CV: Taku Yashiro), Yūta Kadowaki (CV: Kenshō Ono) (ep 9)",
+            "+@gid": "1943213877",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#4: \"Asu e no Tobira\" (明日への扉) by Mahiru Shiina (CV: Manaka Iwami) (ep 12)",
+            "+@gid": "2309514061",
             "+@type": "Ending Theme"
         },
         {
@@ -101,8 +111,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "6.142"
+        "+@nb_votes": "14",
+        "+@weighted_score": "7.1868",
+        "+@bayesian_score": "7.31769"
     },
     "episode": [
         {
@@ -158,6 +169,46 @@
             "title": {
                 "+content": "The Angel's Pleas",
                 "+@gid": "2554152227",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "Culture Festival, Day One",
+                "+@gid": "3511656026",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "The Angel's Request",
+                "+@gid": "1885619954",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "An Important Promise with the Angel",
+                "+@gid": "2972984109",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "First Part-Time Job",
+                "+@gid": "3992095224",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "The Angel's Big Day Arrives",
+                "+@gid": "1613411980",
                 "+@lang": "EN"
             }
         }
@@ -224,6 +275,78 @@
             "person": {
                 "+content": "Keiichirō Ōchi",
                 "+@id": "100904"
+            }
+        },
+        {
+            "+@gid": "2465339901",
+            "task": "Script",
+            "person": {
+                "+content": "Keiichirō Ōchi",
+                "+@id": "100904"
+            }
+        },
+        {
+            "+@gid": "2284328823",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Chihiro Kumano",
+                "+@id": "192061"
+            }
+        },
+        {
+            "+@gid": "1850573597",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ryo Ishimaru",
+                "+@id": "111721"
+            }
+        },
+        {
+            "+@gid": "1424078459",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Mio Nishimura",
+                "+@id": "156931"
+            }
+        },
+        {
+            "+@gid": "1593715631",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Teru Ishii",
+                "+@id": "185336"
+            }
+        },
+        {
+            "+@gid": "2728274341",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Chihiro Kumano",
+                "+@id": "192061"
+            }
+        },
+        {
+            "+@gid": "3160580215",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yurina Utsugi",
+                "+@id": "299132"
+            }
+        },
+        {
+            "+@gid": "811860066",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Jun Hira",
+                "+@id": "299133"
+            }
+        },
+        {
+            "+@gid": "1142144420",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kazusumi Taniyasu",
+                "+@id": "299134"
             }
         },
         {
@@ -340,6 +463,6 @@
         }
     },
     "+@date-added": "2023-10-08T06:35:07Z",
-    "+@date-last-modified-at": "2026-05-22T18:05:32Z",
-    "+@date-last-updated-at": "2026-05-22T18:05:32Z"
+    "+@date-last-modified-at": "2026-06-21T21:42:51Z",
+    "+@date-last-updated-at": "2026-06-21T21:42:51Z"
 }
