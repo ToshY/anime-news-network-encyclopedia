@@ -4,7 +4,11 @@
     "+@type": "TV",
     "+@name": "Sirotan",
     "+@precision": "TV",
-    "+@generated-on": "2026-05-22T11:18:30Z",
+    "+@generated-on": "2026-06-21T11:25:08Z",
+    "related-prev": {
+        "+@rel": "part of",
+        "+@id": "39995"
+    },
     "info": [
         {
             "+@gid": "1864254082",
@@ -50,11 +54,18 @@
             "+@href": "https://www.tv-asahi.co.jp/sirotan/"
         }
     ],
-    "news": {
-        "+content": "Sirotan Seal Mascot Gets TV Anime",
-        "+@datetime": "2026-03-23T01:12:52Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-22/sirotan-seal-mascot-gets-tv-anime/.235610"
-    },
+    "news": [
+        {
+            "+content": "Sirotan Seal Mascot Gets TV Anime",
+            "+@datetime": "2026-03-23T01:12:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-22/sirotan-seal-mascot-gets-tv-anime/.235610"
+        },
+        {
+            "+content": "TV Asahi Announces New Short Anime Programming Block 'PicoAni'",
+            "+@datetime": "2026-06-15T20:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-15/tv-asahi-announces-new-short-anime-programming-block-picoani/.238537"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1149514136",
@@ -99,5 +110,6 @@
         }
     },
     "+@date-added": "2026-03-22T21:22:44Z",
-    "+@date-last-updated-at": "2026-05-22T11:18:41Z"
+    "+@date-last-modified-at": "2026-06-21T11:25:17Z",
+    "+@date-last-updated-at": "2026-06-21T11:25:17Z"
 }

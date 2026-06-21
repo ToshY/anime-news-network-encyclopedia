@@ -4,7 +4,11 @@
     "+@type": "movie",
     "+@name": "Wasted Chef",
     "+@precision": "movie",
-    "+@generated-on": "2026-05-22T11:18:23Z",
+    "+@generated-on": "2026-06-21T11:25:08Z",
+    "related-next": {
+        "+@id": "39750",
+        "+@rel": "adaptation"
+    },
     "info": [
         {
             "+@gid": "2114866465",
@@ -39,6 +43,13 @@
             "+content": "2026-05-17 (screened as work in progress at Annecy Animation Showcase)",
             "+@gid": "3093473830",
             "+@type": "Premiere date"
+        },
+        {
+            "+content": "プロジェクト『WASTED CHEF』公式サイト",
+            "+@gid": "1258445103",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://kadokawa-animation.jp/wasted-chef/"
         }
     ],
     "news": [
@@ -61,12 +72,25 @@
             "+content": "<cite>Wasted Chef</cite> Anime Film Unveils Teaser Visual",
             "+@datetime": "2026-05-18T10:14:49Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-05-18/wasted-chef-anime-film-unveils-teaser-visual/.237488"
+        },
+        {
+            "+content": "<cite>Wasted Chef</cite> Anime Film Reveals Teaser Trailer, Manga Adaptation",
+            "+@datetime": "2026-05-31T06:35:44Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-31/wasted-chef-anime-film-reveals-teaser-trailer-manga-adaptation/.237983"
         }
     ],
     "staff": [
         {
             "+@gid": "2777206283",
             "task": "Director",
+            "person": {
+                "+content": "Takayuki Hirao",
+                "+@id": "22576"
+            }
+        },
+        {
+            "+@gid": "2488632198",
+            "task": "Screenplay",
             "person": {
                 "+content": "Takayuki Hirao",
                 "+@id": "22576"
@@ -81,11 +105,11 @@
             }
         },
         {
-            "+@gid": "3139880404",
-            "task": "Character Design",
+            "+@gid": "1851094007",
+            "task": "Original creator",
             "person": {
-                "+content": "Shingo Adachi",
-                "+@id": "37502"
+                "+content": "Takayuki Hirao",
+                "+@id": "22576"
             }
         },
         {
@@ -122,5 +146,6 @@
         }
     },
     "+@date-added": "2026-05-18T07:00:46Z",
-    "+@date-last-updated-at": "2026-05-22T11:18:24Z"
+    "+@date-last-modified-at": "2026-06-21T11:25:17Z",
+    "+@date-last-updated-at": "2026-06-21T11:25:17Z"
 }
