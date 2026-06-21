@@ -1,13 +1,17 @@
 {
     "+@id": "31414",
     "+@gid": "2929474758",
-    "+@type": "ONA",
+    "+@type": "TV",
     "+@name": "Dorohedoro",
-    "+@precision": "ONA",
-    "+@generated-on": "2026-05-21T21:49:51Z",
+    "+@precision": "TV 2",
+    "+@generated-on": "2026-06-21T05:19:21Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "22562"
+    },
+    "related-next": {
+        "+@id": "39704",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -41,7 +45,13 @@
             "+@lang": "EN"
         },
         {
-            "+content": "ドロヘドロ",
+            "+content": "Dorohedoro Season 2",
+            "+@gid": "376937263",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "ドロヘドロ Season2",
             "+@gid": "2452418300",
             "+@type": "Alternative title",
             "+@lang": "JA"
@@ -195,8 +205,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "7",
-        "+@weighted_score": "6.7375"
+        "+@nb_votes": "36",
+        "+@weighted_score": "7.8016",
+        "+@bayesian_score": "7.7188"
     },
     "news": [
         {
@@ -238,6 +249,11 @@
             "+content": "<cite>Dr. Stone: Science Future</cite>, <cite>Mao</cite>, More Spring Anime Titles Stream in India on Anime Times",
             "+@datetime": "2026-04-10T11:43:22Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-10/dr-stone-science-future-mao-more-spring-anime-titles-stream-in-india-on-anime-times/.236266"
+        },
+        {
+            "+content": "<cite>Dorohedoro</cite> Anime Gets 3rd Season",
+            "+@datetime": "2026-05-27T15:32:32Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-27/dorohedoro-anime-gets-3rd-season/.237866"
         }
     ],
     "staff": [
@@ -255,6 +271,78 @@
             "person": {
                 "+content": "Hiroshi Seko",
                 "+@id": "78744"
+            }
+        },
+        {
+            "+@gid": "3485171198",
+            "task": "Script",
+            "person": {
+                "+content": "Hiroshi Seko",
+                "+@id": "78744"
+            }
+        },
+        {
+            "+@gid": "1452040982",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yuichiro Hayashi",
+                "+@id": "30027"
+            }
+        },
+        {
+            "+@gid": "825339283",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Atsushi Nakagawa",
+                "+@id": "41261"
+            }
+        },
+        {
+            "+@gid": "1717225722",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kazuo Miyake",
+                "+@id": "45782"
+            }
+        },
+        {
+            "+@gid": "3136347210",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shingo Uchida",
+                "+@id": "57979"
+            }
+        },
+        {
+            "+@gid": "2030355506",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Taro Kubo",
+                "+@id": "75408"
+            }
+        },
+        {
+            "+@gid": "2091082447",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yukie Yamamoto",
+                "+@id": "94793"
+            }
+        },
+        {
+            "+@gid": "2993682403",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yusuke Kurinishi",
+                "+@id": "129044"
+            }
+        },
+        {
+            "+@gid": "537731542",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hiroko Komatsu",
+                "+@id": "134083"
             }
         },
         {
@@ -553,6 +641,186 @@
             "person": {
                 "+content": "Kieran Regan",
                 "+@id": "215010"
+            }
+        },
+        {
+            "+@gid": "2439559204",
+            "+@lang": "FR",
+            "role": "Shin",
+            "person": {
+                "+content": "Anatole de Bodinat",
+                "+@id": "45002"
+            }
+        },
+        {
+            "+@gid": "604471939",
+            "+@lang": "FR",
+            "role": "Noi",
+            "person": {
+                "+content": "Catherine Desplaces",
+                "+@id": "45055"
+            }
+        },
+        {
+            "+@gid": "3900759445",
+            "+@lang": "FR",
+            "role": "Ushishimada",
+            "person": {
+                "+content": "Frantz Confiac",
+                "+@id": "45714"
+            }
+        },
+        {
+            "+@gid": "2949992418",
+            "+@lang": "FR",
+            "role": "En",
+            "person": {
+                "+content": "Constantin Pappas",
+                "+@id": "47653"
+            }
+        },
+        {
+            "+@gid": "225842564",
+            "+@lang": "FR",
+            "role": "Tetsujo",
+            "person": {
+                "+content": "Yoann Sover",
+                "+@id": "53258"
+            }
+        },
+        {
+            "+@gid": "3681723791",
+            "+@lang": "FR",
+            "role": "Fujita",
+            "person": {
+                "+content": "Tony Marot",
+                "+@id": "57018"
+            }
+        },
+        {
+            "+@gid": "2390876094",
+            "+@lang": "FR",
+            "role": "Dokuga",
+            "person": {
+                "+content": "Jimmy Redler",
+                "+@id": "64941"
+            }
+        },
+        {
+            "+@gid": "2185841453",
+            "+@lang": "FR",
+            "role": "Chota",
+            "person": {
+                "+content": "Arnaud Laurent",
+                "+@id": "66320"
+            }
+        },
+        {
+            "+@gid": "1359984662",
+            "+@lang": "FR",
+            "role": "Saji",
+            "person": {
+                "+content": "Boris Rehlinger",
+                "+@id": "70324"
+            }
+        },
+        {
+            "+@gid": "1852074429",
+            "+@lang": "FR",
+            "role": "Turkey",
+            "person": {
+                "+content": "Jérôme Wiggins",
+                "+@id": "71582"
+            }
+        },
+        {
+            "+@gid": "3102707949",
+            "+@lang": "FR",
+            "role": "Ebisu",
+            "person": {
+                "+content": "Gwenaëlle Jegou",
+                "+@id": "82932"
+            }
+        },
+        {
+            "+@gid": "2608836755",
+            "+@lang": "FR",
+            "role": "Ton",
+            "person": {
+                "+content": "Thomas Sagols",
+                "+@id": "85935"
+            }
+        },
+        {
+            "+@gid": "3370024680",
+            "+@lang": "FR",
+            "role": "Kasukabe",
+            "person": {
+                "+content": "Alan Aubert",
+                "+@id": "134719"
+            }
+        },
+        {
+            "+@gid": "1729074942",
+            "+@lang": "FR",
+            "role": "Haru",
+            "person": {
+                "+content": "Lisa Caruso",
+                "+@id": "149126"
+            }
+        },
+        {
+            "+@gid": "2929155328",
+            "+@lang": "FR",
+            "role": "Nikaido",
+            "person": {
+                "+content": "Zina Khakhoulia",
+                "+@id": "168696"
+            }
+        },
+        {
+            "+@gid": "2993729482",
+            "+@lang": "FR",
+            "role": "Vaux",
+            "person": {
+                "+content": "Nicolas Justamon",
+                "+@id": "180976"
+            }
+        },
+        {
+            "+@gid": "4037088145",
+            "+@lang": "FR",
+            "role": "Caiman",
+            "person": {
+                "+content": "Jérémie Bedrune",
+                "+@id": "182436"
+            }
+        },
+        {
+            "+@gid": "1648296478",
+            "+@lang": "FR",
+            "role": "Thirteen",
+            "person": {
+                "+content": "Erwan Zamor",
+                "+@id": "184969"
+            }
+        },
+        {
+            "+@gid": "1240101840",
+            "+@lang": "FR",
+            "role": "Natsuki",
+            "person": {
+                "+content": "Valerie Bescht",
+                "+@id": "189369"
+            }
+        },
+        {
+            "+@gid": "1660713733",
+            "+@lang": "FR",
+            "role": "Asu",
+            "person": {
+                "+content": "Martin Faliu",
+                "+@id": "190385"
             }
         },
         {
@@ -1015,6 +1283,6 @@
         }
     },
     "+@date-added": "2024-01-09T07:17:28Z",
-    "+@date-last-modified-at": "2026-05-21T21:49:53Z",
-    "+@date-last-updated-at": "2026-05-21T21:49:53Z"
+    "+@date-last-modified-at": "2026-06-21T05:19:24Z",
+    "+@date-last-updated-at": "2026-06-21T05:19:24Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Jeremy no Ki",
     "+@precision": "movie",
-    "+@generated-on": "2026-05-21T21:49:49Z",
+    "+@generated-on": "2026-06-21T05:19:19Z",
     "info": [
         {
             "+content": "Jeremy no Ki",
@@ -24,7 +24,7 @@
             "+@type": "Genres"
         },
         {
-            "+content": "20",
+            "+content": "21",
             "+@gid": "3345475469",
             "+@type": "Running time"
         },
@@ -48,11 +48,27 @@
             }
         },
         {
+            "+@gid": "1935686659",
+            "task": "Script",
+            "person": {
+                "+content": "Yoshitake Suzuki",
+                "+@id": "13386"
+            }
+        },
+        {
             "+@gid": "3052120750",
             "task": "Music",
             "person": {
                 "+content": "Iruka",
                 "+@id": "8568"
+            }
+        },
+        {
+            "+@gid": "2836336817",
+            "task": "Music",
+            "person": {
+                "+content": "Masahiko Satoh",
+                "+@id": "68804"
             }
         },
         {
@@ -64,11 +80,73 @@
             }
         },
         {
-            "+@gid": "2316044297",
-            "task": "Animation Director",
+            "+@gid": "1015473996",
+            "task": "Art Director",
             "person": {
-                "+content": "Tsuneo Maeda",
-                "+@id": "203"
+                "+content": "Kōji Abe",
+                "+@id": "19246"
+            }
+        },
+        {
+            "+@gid": "2556926740",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Atsumi Tashiro",
+                "+@id": "206"
+            }
+        },
+        {
+            "+@gid": "727773163",
+            "task": "Producer",
+            "person": {
+                "+content": "Shigeji Tsuiki",
+                "+@id": "25658"
+            }
+        },
+        {
+            "+@gid": "4189992616",
+            "task": "Producer",
+            "person": {
+                "+content": "Kazuo Kanbe",
+                "+@id": "94462"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2133203692",
+            "+@lang": "JA",
+            "role": "Santa Claus",
+            "person": {
+                "+content": "Hitoshi Takagi",
+                "+@id": "3107"
+            }
+        },
+        {
+            "+@gid": "2137304442",
+            "+@lang": "JA",
+            "role": "Narrator",
+            "person": {
+                "+content": "Iruka",
+                "+@id": "8568"
+            }
+        },
+        {
+            "+@gid": "3327880065",
+            "+@lang": "JA",
+            "role": "Bird",
+            "person": {
+                "+content": "Kumiko Ohba",
+                "+@id": "31248"
+            }
+        },
+        {
+            "+@gid": "2648098606",
+            "+@lang": "JA",
+            "role": "Jeremy",
+            "person": {
+                "+content": "Kiyofumi Ōkuri",
+                "+@id": "259461"
             }
         }
     ],
@@ -91,5 +169,6 @@
         }
     ],
     "+@date-added": "2024-01-26T14:25:46Z",
-    "+@date-last-updated-at": "2026-05-21T21:49:53Z"
+    "+@date-last-modified-at": "2026-06-21T05:19:24Z",
+    "+@date-last-updated-at": "2026-06-21T05:19:24Z"
 }
