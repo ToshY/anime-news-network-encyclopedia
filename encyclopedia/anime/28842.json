@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Hell's Paradise",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-05-23T06:46:26Z",
+    "+@generated-on": "2026-06-22T19:48:25Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "23963"
@@ -202,9 +202,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "81",
-        "+@weighted_score": "7.432",
-        "+@bayesian_score": "7.43699"
+        "+@nb_votes": "89",
+        "+@weighted_score": "7.453",
+        "+@bayesian_score": "7.45507"
     },
     "episode": [
         {
@@ -542,6 +542,22 @@
             }
         },
         {
+            "+@gid": "1668945735",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Iho Ishikawa",
+                "+@id": "222308"
+            }
+        },
+        {
+            "+@gid": "1265851487",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Hajime Ōtani",
+                "+@id": "267080"
+            }
+        },
+        {
             "+@gid": "2581614016",
             "task": "Music",
             "person": {
@@ -590,11 +606,35 @@
             }
         },
         {
+            "+@gid": "2561331062",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Hiroyuki Saita",
+                "+@id": "91599"
+            }
+        },
+        {
             "+@gid": "2986394355",
             "task": "Chief Animation Director",
             "person": {
                 "+content": "Kuniyuki Itō",
                 "+@id": "95618"
+            }
+        },
+        {
+            "+@gid": "2024942230",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Hinae Saotome",
+                "+@id": "231025"
+            }
+        },
+        {
+            "+@gid": "2292314203",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yuriky",
+                "+@id": "296898"
             }
         },
         {
@@ -947,6 +987,14 @@
             "person": {
                 "+content": "Chika Toda",
                 "+@id": "196561"
+            }
+        },
+        {
+            "+@gid": "2730140477",
+            "task": "Producer",
+            "person": {
+                "+content": "Kenta Oda",
+                "+@id": "196629"
             }
         }
     ],
@@ -1798,6 +1846,6 @@
         }
     },
     "+@date-added": "2023-07-01T17:04:59Z",
-    "+@date-last-modified-at": "2026-05-23T06:46:31Z",
-    "+@date-last-updated-at": "2026-05-23T06:46:31Z"
+    "+@date-last-modified-at": "2026-06-22T19:48:29Z",
+    "+@date-last-updated-at": "2026-06-22T19:48:29Z"
 }
