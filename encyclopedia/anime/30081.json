@@ -2,9 +2,9 @@
     "+@id": "30081",
     "+@gid": "3473841273",
     "+@type": "TV",
-    "+@name": "Tenkō-saki no Seiso Karen na Bishōjo ga, Mukashi Danshi to Omotte",
+    "+@name": "Oh Boy, Was I Wrong About Her",
     "+@precision": "TV",
-    "+@generated-on": "2026-05-22T21:36:33Z",
+    "+@generated-on": "2026-06-22T05:31:48Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "30046"
@@ -13,16 +13,27 @@
         {
             "+@gid": "2352026216",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A30081-2352026216.1774129119.jpg",
-            "img": {
-                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A30081-2352026216.1774129119.jpg"
-            }
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A30081-2352026216.1781867834.jpg",
+            "+@width": "142",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A30081-2352026216.1781867834.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A30081-2352026216.1781867834.jpg",
+                    "+@width": "427",
+                    "+@height": "600"
+                }
+            ]
         },
         {
-            "+content": "Tenkō-saki no Seiso Karen na Bishōjo ga, Mukashi Danshi to Omotte",
-            "+@gid": "1295669998",
+            "+content": "Oh Boy, Was I Wrong About Her",
+            "+@gid": "2480839367",
             "+@type": "Main title",
-            "+@lang": "JA"
+            "+@lang": "EN"
         },
         {
             "+content": "Tenkō-saki no Seiso Karen na Bishōjo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
@@ -47,11 +58,12 @@
             "+@type": "Genres"
         },
         {
-            "+content": "Hayato transfers to a high school in the city. There, he is reunited with Haruki, whom Hayato remembers as a boy he used to play with seven years ago. Only, Hayato now realizes that Haruki is actually a girl. <em class=de-emphasized>(from manga)</em>",
+            "+content": "Hayato transfers to a high school in the city. There, he is reunited with Haruki, whom Hayato remembers as a boy he used to play with seven years ago. Only, Hayato now realizes that Haruki is actually a girl.",
+            "+@gid": "3101239921",
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026-07",
+            "+content": "2026-07-06",
             "+@gid": "1352570974",
             "+@type": "Vintage"
         },
@@ -59,6 +71,11 @@
             "+content": "\"Natsu ni Kasanete\" (夏に重ねて) by DIALOGUE＋",
             "+@gid": "2768229683",
             "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Tilt\" by harmoe",
+            "+@gid": "1018083319",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "『転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件』アニメ公式サイト",
@@ -93,6 +110,21 @@
             "+content": "<cite>Tenbin</cite> Romantic Comedy Anime Presents Spring-Themed Teaser",
             "+@datetime": "2026-04-08T09:58:46Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-08/tenbin-romantic-comedy-anime-presents-spring-themed-teaser/.236221"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Summer 2026 Season",
+            "+@datetime": "2026-06-17T17:45:10Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-17/crunchyroll-announces-release-schedule-for-summer-2026-season/.238615"
+        },
+        {
+            "+content": "'<cite>Oh Boy, Was I Wrong About Her</cite>' TV Anime's 2nd Promo Video Reveals July 6 Debut",
+            "+@datetime": "2026-06-19T11:03:20Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-19/oh-boy-was-i-wrong-about-her-tv-anime-2nd-promo-video-reveals-july-6-debut/.238699"
+        },
+        {
+            "+content": "Crunchyroll India to Stream <cite>Black Torch</cite>, <cite>Dara-san of Reiwa</cite>, <cite>Kaiju Girl Caramelise</cite>, More Anime in Summer 2026",
+            "+@datetime": "2026-06-21T07:50:07Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-21/crunchyroll-india-to-stream-black-torch-dara-san-of-reiwa-kaiju-girl-caramelise-more-anime-in-/.238716"
         }
     ],
     "staff": [
@@ -161,11 +193,35 @@
             }
         },
         {
+            "+@gid": "1944941884",
+            "task": "Art Director",
+            "person": {
+                "+content": "Miu Miyamoto",
+                "+@id": "101935"
+            }
+        },
+        {
             "+@gid": "3188098587",
             "task": "Sound Director",
             "person": {
                 "+content": "Daiki Hachimaki",
                 "+@id": "111550"
+            }
+        },
+        {
+            "+@gid": "2596765979",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Toshirō Hamamura",
+                "+@id": "80332"
+            }
+        },
+        {
+            "+@gid": "743751907",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Kōichi Gonda",
+                "+@id": "34385"
             }
         }
     ],
@@ -225,6 +281,6 @@
         }
     },
     "+@date-added": "2023-09-26T18:22:23Z",
-    "+@date-last-modified-at": "2026-05-22T21:36:38Z",
-    "+@date-last-updated-at": "2026-05-22T21:36:38Z"
+    "+@date-last-modified-at": "2026-06-22T05:31:53Z",
+    "+@date-last-updated-at": "2026-06-22T05:31:53Z"
 }
