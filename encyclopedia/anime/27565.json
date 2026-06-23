@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Given",
     "+@precision": "movies 2024",
-    "+@generated-on": "2026-05-23T17:18:20Z",
+    "+@generated-on": "2026-06-23T11:31:32Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "23072"
@@ -82,9 +82,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "12",
-        "+@weighted_score": "7.2152",
-        "+@bayesian_score": "7.34295"
+        "+@nb_votes": "13",
+        "+@weighted_score": "7.2017",
+        "+@bayesian_score": "7.33068"
     },
     "news": [
         {
@@ -166,6 +166,11 @@
             "+content": "<cite>Given The Movie: To the Sea</cite> Anime Streams on Crunchyroll",
             "+@datetime": "2025-06-30T07:07:01Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-06-30/given-the-movie-to-the-sea-anime-streams-on-crunchyroll/.226134"
+        },
+        {
+            "+content": "Crunchyroll Adds <cite>Jujutsu Kaisen</cite> Compilation Film, English Dubs for <cite>Given</cite> Movies",
+            "+@datetime": "2026-06-05T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-05/crunchyroll-adds-jujutsu-kaisen-compilation-film-english-dubs-for-given-movies/.238184"
         }
     ],
     "staff": [
@@ -284,12 +289,111 @@
     ],
     "cast": [
         {
+            "+@gid": "2479029822",
+            "+@lang": "EN",
+            "role": "Ugetsu Murata",
+            "person": {
+                "+content": "J. Michael Tatum",
+                "+@id": "65527"
+            }
+        },
+        {
+            "+@gid": "2466877562",
+            "+@lang": "EN",
+            "role": "Mafuyu Sato",
+            "person": {
+                "+content": "Brandon McInnis",
+                "+@id": "106469"
+            }
+        },
+        {
+            "+@gid": "1976243501",
+            "+@lang": "EN",
+            "role": "Haruki Nakayama",
+            "person": {
+                "+content": "Y. Chang",
+                "+@id": "140650"
+            }
+        },
+        {
+            "+@gid": "2168508193",
+            "+@lang": "EN",
+            "role": "Hiiragi Kashima",
+            "person": {
+                "+content": "Howard Wang",
+                "+@id": "148110"
+            }
+        },
+        {
+            "+@gid": "2112061661",
+            "+@lang": "EN",
+            "role": "Koji Yatake",
+            "person": {
+                "+content": "Kellen Goff",
+                "+@id": "163020"
+            }
+        },
+        {
+            "+@gid": "2182136013",
+            "+@lang": "EN",
+            "role": "Akihiro Kaji",
+            "person": {
+                "+content": "Jonah Scott",
+                "+@id": "184821"
+            }
+        },
+        {
+            "+@gid": "439089142",
+            "+@lang": "EN",
+            "role": "Yagi Shizusumi",
+            "person": {
+                "+content": "Joshua Waters",
+                "+@id": "196328"
+            }
+        },
+        {
+            "+@gid": "2783816315",
+            "+@lang": "JA",
+            "role": "Yayoi Uenoyama",
+            "person": {
+                "+content": "Yū Shimamura",
+                "+@id": "49621"
+            }
+        },
+        {
+            "+@gid": "2620345185",
+            "+@lang": "JA",
+            "role": "Ugetsu Murata",
+            "person": {
+                "+content": "Shintarō Asanuma",
+                "+@id": "53740"
+            }
+        },
+        {
+            "+@gid": "3737600834",
+            "+@lang": "JA",
+            "role": "Koji Yatake",
+            "person": {
+                "+content": "Ryōta Takeuchi",
+                "+@id": "69834"
+            }
+        },
+        {
             "+@gid": "1111539613",
             "+@lang": "JA",
             "role": "Akihiko Kaji",
             "person": {
                 "+content": "Takuya Eguchi",
                 "+@id": "76338"
+            }
+        },
+        {
+            "+@gid": "1359480955",
+            "+@lang": "JA",
+            "role": "Shogo Itaya",
+            "person": {
+                "+content": "Kengo Takanashi",
+                "+@id": "96015"
             }
         },
         {
@@ -320,6 +424,15 @@
             }
         },
         {
+            "+@gid": "270176753",
+            "+@lang": "JA",
+            "role": "Ryo Ueki",
+            "person": {
+                "+content": "Hirosato Amano",
+                "+@id": "145681"
+            }
+        },
+        {
             "+@gid": "3581916911",
             "+@lang": "JA",
             "role": "Shizusumi Yagi",
@@ -347,6 +460,6 @@
         }
     },
     "+@date-added": "2023-03-23T13:20:02Z",
-    "+@date-last-modified-at": "2026-05-23T17:18:24Z",
-    "+@date-last-updated-at": "2026-05-23T17:18:24Z"
+    "+@date-last-modified-at": "2026-06-23T11:31:36Z",
+    "+@date-last-updated-at": "2026-06-23T11:31:36Z"
 }
