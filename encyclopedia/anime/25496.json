@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Witch Hat Atelier",
     "+@precision": "TV",
-    "+@generated-on": "2026-05-25T21:35:14Z",
+    "+@generated-on": "2026-06-25T04:35:11Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "21181"
@@ -34,6 +34,12 @@
             "+@gid": "3963718348",
             "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Atelier szpiczastych kapeluszy",
+            "+@gid": "2713725498",
+            "+@type": "Alternative title",
+            "+@lang": "PL"
         },
         {
             "+content": "L'Atelier des Sorciers",
@@ -119,8 +125,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "9",
-        "+@weighted_score": "8.1691"
+        "+@nb_votes": "48",
+        "+@weighted_score": "8.2789",
+        "+@bayesian_score": "8.10658"
     },
     "episode": [
         {
@@ -194,6 +201,30 @@
                 "+@gid": "1205555410",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "A Promise in Silver",
+                "+@gid": "964892891",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "The Test in Serpentback Cave",
+                "+@gid": "1133058127",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Romonoon no Kage",
+                "+@gid": "440773939",
+                "+@lang": "JA"
+            }
         }
     ],
     "news": [
@@ -256,6 +287,16 @@
             "+content": "<cite>Witch Hat Atelier</cite> Anime Reveals 3rd Ending Theme Song",
             "+@datetime": "2026-05-06T02:56:16Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-05-05/witch-hat-atelier-anime-reveals-3rd-ending-theme-song/.237109"
+        },
+        {
+            "+content": "Astra Awards Nominate <cite>Witch Hat Atelier</cite>, <cite>Dandelion</cite>, <cite>Sakamoto Days</cite>, <cite>JoJo Part 7</cite>, <cite>MAO</cite>, <cite>Rooster Fighter</cite> for Best Anime",
+            "+@datetime": "2026-05-28T09:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-28/astra-awards-nominate-witch-hat-atelier-dandelion-sakamoto-days-jojo-part-7-mao-rooster-fighter-for-/.237895"
+        },
+        {
+            "+content": "<cite>Witch Hat Atelier</cite> Anime Reveals 2 More Cast Members",
+            "+@datetime": "2026-06-01T17:13:19Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-01/witch-hat-atelier-anime-reveals-2-more-cast-members/.238024"
         }
     ],
     "staff": [
@@ -281,6 +322,182 @@
             "person": {
                 "+content": "Hiroshi Seko",
                 "+@id": "78744"
+            }
+        },
+        {
+            "+@gid": "3258077598",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ayumu Watanabe",
+                "+@id": "63950"
+            }
+        },
+        {
+            "+@gid": "2409679756",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ayano Yagi",
+                "+@id": "75201"
+            }
+        },
+        {
+            "+@gid": "2001991392",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takumi Dōyama",
+                "+@id": "79541"
+            }
+        },
+        {
+            "+@gid": "3020289661",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Toshihiro Maeya",
+                "+@id": "94643"
+            }
+        },
+        {
+            "+@gid": "444780817",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yuki Kamiya",
+                "+@id": "117038"
+            }
+        },
+        {
+            "+@gid": "1383515854",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Katsuya Oshima",
+                "+@id": "120582"
+            }
+        },
+        {
+            "+@gid": "1232493014",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Akira Yamada",
+                "+@id": "155984"
+            }
+        },
+        {
+            "+@gid": "2187777726",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kazuki Kawagoe",
+                "+@id": "157953"
+            }
+        },
+        {
+            "+@gid": "2166400246",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Masamitsu Abe",
+                "+@id": "172291"
+            }
+        },
+        {
+            "+@gid": "1490374242",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shiyo Hatsumida",
+                "+@id": "216315"
+            }
+        },
+        {
+            "+@gid": "1597071940",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Jun Shinohara",
+                "+@id": "244807"
+            }
+        },
+        {
+            "+@gid": "1960416962",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ayano Yagi",
+                "+@id": "75201"
+            }
+        },
+        {
+            "+@gid": "2512695319",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takumi Dōyama",
+                "+@id": "79541"
+            }
+        },
+        {
+            "+@gid": "2308724191",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Toshihiro Maeya",
+                "+@id": "94643"
+            }
+        },
+        {
+            "+@gid": "687271612",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Katsuya Oshima",
+                "+@id": "120582"
+            }
+        },
+        {
+            "+@gid": "3924792465",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Claire Barbou des Courières",
+                "+@id": "150142"
+            }
+        },
+        {
+            "+@gid": "1671676094",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kazuki Kawagoe",
+                "+@id": "157953"
+            }
+        },
+        {
+            "+@gid": "1921727029",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Koyo Ogata",
+                "+@id": "170684"
+            }
+        },
+        {
+            "+@gid": "3035419296",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Masamitsu Abe",
+                "+@id": "172291"
+            }
+        },
+        {
+            "+@gid": "3420503343",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yu Harima",
+                "+@id": "198874"
+            }
+        },
+        {
+            "+@gid": "2088777058",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Morihito Abe",
+                "+@id": "217381"
+            }
+        },
+        {
+            "+@gid": "1881888563",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Yuki Kamiya",
+                "+@id": "117038"
             }
         },
         {
@@ -316,6 +533,30 @@
             }
         },
         {
+            "+@gid": "3019708413",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kairi Unabara",
+                "+@id": "217061"
+            }
+        },
+        {
+            "+@gid": "2310490702",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Akane Ogawa",
+                "+@id": "101879"
+            }
+        },
+        {
+            "+@gid": "1598214340",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Maiko Katsuki",
+                "+@id": "205440"
+            }
+        },
+        {
             "+@gid": "1648405798",
             "task": "Sound Director",
             "person": {
@@ -333,6 +574,78 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "2525135552",
+            "+@lang": "AR",
+            "role": "Qifrey",
+            "person": {
+                "+content": "Nour Al-Haggar",
+                "+@id": "299247"
+            }
+        },
+        {
+            "+@gid": "2560454071",
+            "+@lang": "AR",
+            "role": "Tetia",
+            "person": {
+                "+content": "Lana Ezz Al-Arab",
+                "+@id": "299249"
+            }
+        },
+        {
+            "+@gid": "1644061163",
+            "+@lang": "AR",
+            "role": "Orugio",
+            "person": {
+                "+content": "Youssef Essam",
+                "+@id": "299373"
+            }
+        },
+        {
+            "+@gid": "1851737550",
+            "+@lang": "AR",
+            "role": "Coco",
+            "person": {
+                "+content": "Lobna Shahin",
+                "+@id": "299376"
+            }
+        },
+        {
+            "+@gid": "2707913703",
+            "+@lang": "AR",
+            "role": "Agate",
+            "person": {
+                "+content": "Rawda Ezz Al-Arab",
+                "+@id": "299377"
+            }
+        },
+        {
+            "+@gid": "707185094",
+            "+@lang": "AR",
+            "role": "Richie",
+            "person": {
+                "+content": "Darin Hani",
+                "+@id": "299379"
+            }
+        },
+        {
+            "+@gid": "3284119668",
+            "+@lang": "AR",
+            "role": "Brushbuddy",
+            "person": {
+                "+content": "Mostafa Hammouda",
+                "+@id": "299380"
+            }
+        },
+        {
+            "+@gid": "3700567358",
+            "+@lang": "DE",
+            "role": "Sasaran",
+            "person": {
+                "+content": "Robin Brosch",
+                "+@id": "28943"
+            }
+        },
         {
             "+@gid": "2607700406",
             "+@lang": "DE",
@@ -367,6 +680,15 @@
             "person": {
                 "+content": "Jana Dunja Gries",
                 "+@id": "130831"
+            }
+        },
+        {
+            "+@gid": "2198933415",
+            "+@lang": "DE",
+            "role": "Luluci",
+            "person": {
+                "+content": "Daniela Molina",
+                "+@id": "135919"
             }
         },
         {
@@ -424,6 +746,15 @@
             }
         },
         {
+            "+@gid": "1502523657",
+            "+@lang": "DE",
+            "role": "Galga",
+            "person": {
+                "+content": "Maurice Sarnacki",
+                "+@id": "275735"
+            }
+        },
+        {
             "+@gid": "1620157897",
             "+@lang": "EN",
             "role": "Brushbuddy",
@@ -466,6 +797,15 @@
             "person": {
                 "+content": "Madeleine Morris",
                 "+@id": "150924"
+            }
+        },
+        {
+            "+@gid": "3947251095",
+            "+@lang": "EN",
+            "role": "Sasaran",
+            "person": {
+                "+content": "Kellen Goff",
+                "+@id": "163020"
             }
         },
         {
@@ -703,30 +1043,12 @@
             }
         },
         {
-            "+@gid": "2500813791",
-            "+@lang": "FR",
-            "role": "Aleira",
-            "person": {
-                "+content": "Delphine Moriau",
-                "+@id": "59336"
-            }
-        },
-        {
             "+@gid": "1162031974",
             "+@lang": "FR",
             "role": "Tettia",
             "person": {
                 "+content": "Alayin Dubois",
                 "+@id": "134762"
-            }
-        },
-        {
-            "+@gid": "576842975",
-            "+@lang": "FR",
-            "role": "Ysheath",
-            "person": {
-                "+content": "Simon Duprez",
-                "+@id": "151712"
             }
         },
         {
@@ -820,6 +1142,15 @@
             }
         },
         {
+            "+@gid": "2061194137",
+            "+@lang": "IT",
+            "role": "Sasaran",
+            "person": {
+                "+content": "Gianluca Crisafi",
+                "+@id": "53698"
+            }
+        },
+        {
             "+@gid": "3099374052",
             "+@lang": "IT",
             "role": "Luluci",
@@ -910,6 +1241,15 @@
             }
         },
         {
+            "+@gid": "2844595346",
+            "+@lang": "IT",
+            "role": "Euini",
+            "person": {
+                "+content": "Gabriele Piancatelli",
+                "+@id": "249591"
+            }
+        },
+        {
             "+@gid": "1309440636",
             "+@lang": "IT",
             "role": "Custas",
@@ -946,12 +1286,12 @@
             }
         },
         {
-            "+@gid": "2702570650",
+            "+@gid": "2325930648",
             "+@lang": "JA",
-            "role": "Nolnoa",
+            "role": "Sasaran",
             "person": {
-                "+content": "Yoshito Yasuhara",
-                "+@id": "2109"
+                "+content": "Ryūsei Nakao",
+                "+@id": "4668"
             }
         },
         {
@@ -988,15 +1328,6 @@
             "person": {
                 "+content": "Yui Ishikawa",
                 "+@id": "63509"
-            }
-        },
-        {
-            "+@gid": "3183821249",
-            "+@lang": "JA",
-            "role": "Tartah",
-            "person": {
-                "+content": "Mutsumi Tamura",
-                "+@id": "70817"
             }
         },
         {
@@ -1126,6 +1457,6 @@
         }
     },
     "+@date-added": "2022-04-05T22:10:24Z",
-    "+@date-last-modified-at": "2026-05-25T21:35:16Z",
-    "+@date-last-updated-at": "2026-05-25T21:35:16Z"
+    "+@date-last-modified-at": "2026-06-25T04:35:13Z",
+    "+@date-last-updated-at": "2026-06-25T04:35:13Z"
 }
