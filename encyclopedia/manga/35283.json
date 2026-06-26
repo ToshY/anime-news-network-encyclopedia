@@ -2,13 +2,19 @@
     "+@id": "35283",
     "+@gid": "2255800463",
     "+@type": "manga",
-    "+@name": "12-gatsu no Akeboshi",
+    "+@name": "Venus in December",
     "+@precision": "manga",
-    "+@generated-on": "2026-05-27T04:50:01Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "20744"
-    },
+    "+@generated-on": "2026-06-26T14:48:11Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "20744"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "38870"
+        }
+    ],
     "info": [
         {
             "+@gid": "2291237025",
@@ -35,10 +41,10 @@
             ]
         },
         {
-            "+content": "12-gatsu no Akeboshi",
-            "+@gid": "2536848099",
+            "+content": "Venus in December",
+            "+@gid": "2846380354",
             "+@type": "Main title",
-            "+@lang": "JA"
+            "+@lang": "EN"
         },
         {
             "+content": "Hoshifuru Yoru ni Kikaseteyo",
@@ -59,6 +65,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "12-gatsu no Akeboshi",
+            "+@gid": "2536848099",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
             "+content": "12月の明星",
             "+@gid": "2710976747",
             "+@type": "Alternative title",
@@ -70,16 +82,26 @@
             "+@type": "Genres"
         },
         {
+            "+content": "2",
+            "+@gid": "4026845349",
+            "+@type": "Number of tankoubon"
+        },
+        {
             "+content": "2024-03-20 (serialized on Manga UP! as \"Hoshifuru Yoru ni Kikaseteyo\")",
             "+@gid": "1465799758",
             "+@type": "Vintage"
         },
         {
-            "+content": "2024-07-01 (serialized on CMOA)",
+            "+content": "2024-07-01 to 2026-03-01 (serialized on CMOA)",
             "+@gid": "3553156839",
             "+@type": "Vintage"
         }
     ],
+    "news": {
+        "+content": "Manga Up! Global Adds <cite>Venus in December</cite>, <cite>Paranormal Agent Adashino</cite> Manga",
+        "+@datetime": "2026-06-14T12:05:00Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-06-14/manga-up-global-adds-venus-in-december-paranormal-agent-adashino-manga/.238476"
+    },
     "staff": {
         "+@gid": "2868046886",
         "task": "Story & Art",
@@ -89,5 +111,6 @@
         }
     },
     "+@date-added": "2025-03-22T16:53:11Z",
-    "+@date-last-updated-at": "2026-05-27T04:50:02Z"
+    "+@date-last-modified-at": "2026-06-26T14:48:12Z",
+    "+@date-last-updated-at": "2026-06-26T14:48:12Z"
 }
