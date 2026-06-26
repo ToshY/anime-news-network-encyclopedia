@@ -2,9 +2,9 @@
     "+@id": "37235",
     "+@gid": "2595259582",
     "+@type": "manga",
-    "+@name": "Sen-nen no Hanayome",
+    "+@name": "Thousand Years Behind the Veil",
     "+@precision": "manga",
-    "+@generated-on": "2026-05-27T18:35:13Z",
+    "+@generated-on": "2026-06-26T21:40:56Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "37771"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "A Thousand Years Behind the Veil",
+            "+@gid": "1700291562",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Sen-nen no Hanayome",
             "+@gid": "1271839666",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -45,6 +51,11 @@
             "+@gid": "382977023",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "3447833786",
+            "+@type": "Genres"
         },
         {
             "+content": "romance",
@@ -57,11 +68,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "<cite>Shonen Sirius</cite> Magazine Launches Digital Manga Magazine Aimed at Women on May 29",
-        "+@datetime": "2025-04-28T03:33:22Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-04-27/shonen-sirius-magazine-launches-digital-manga-magazine-aimed-at-women-on-may-29/.223958"
-    },
+    "news": [
+        {
+            "+content": "<cite>Shonen Sirius</cite> Magazine Launches Digital Manga Magazine Aimed at Women on May 29",
+            "+@datetime": "2025-04-28T03:33:22Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-27/shonen-sirius-magazine-launches-digital-manga-magazine-aimed-at-women-on-may-29/.223958"
+        },
+        {
+            "+content": "K Manga Adds Ema Toyama's <cite>A Thousand Years Behind the Veil</cite> Manga",
+            "+@datetime": "2026-05-29T13:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-29/k-manga-adds-ema-toyama-a-thousand-years-behind-the-veil-manga/.237926"
+        }
+    ],
     "staff": {
         "+@gid": "1651062069",
         "task": "Story & Art",
@@ -71,5 +89,6 @@
         }
     },
     "+@date-added": "2025-07-29T23:10:39Z",
-    "+@date-last-updated-at": "2026-05-27T18:35:15Z"
+    "+@date-last-modified-at": "2026-06-26T21:40:58Z",
+    "+@date-last-updated-at": "2026-06-26T21:40:58Z"
 }
