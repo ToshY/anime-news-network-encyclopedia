@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "BAKI-DOU: The Invincible Samurai",
     "+@precision": "ONA 2",
-    "+@generated-on": "2026-05-29T04:43:58Z",
+    "+@generated-on": "2026-06-28T04:52:26Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32626"
@@ -65,11 +65,22 @@
             "+@href": "https://baki-anime.jp/"
         }
     ],
-    "news": {
-        "+content": "<cite>BAKI-DOU: The Invincible Samurai</cite> Anime Debuts Part 2 on Netflix on June 18",
-        "+@datetime": "2026-05-28T00:22:49Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-05-27/baki-dou-the-invincible-samurai-anime-debuts-part-2-on-netflix-on-june-18/.237881"
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "6"
     },
+    "news": [
+        {
+            "+content": "<cite>BAKI-DOU: The Invincible Samurai</cite> Anime Debuts Part 2 on Netflix on June 18",
+            "+@datetime": "2026-05-28T00:22:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-27/baki-dou-the-invincible-samurai-anime-debuts-part-2-on-netflix-on-june-18/.237881"
+        },
+        {
+            "+content": "<cite>BAKI-DOU: The Invincible Samurai</cite> Anime's Part 2 Trailer Reveals New Theme Songs",
+            "+@datetime": "2026-06-04T00:39:50Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-03/baki-dou-the-invincible-samurai-anime-part-2-trailer-reveals-new-theme-songs/.238113"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2467712266",
@@ -146,6 +157,159 @@
     ],
     "cast": [
         {
+            "+@gid": "3379052073",
+            "+@lang": "EN",
+            "role": "Doppo Orochi",
+            "person": {
+                "+content": "Steven Jay Blum",
+                "+@id": "2265"
+            }
+        },
+        {
+            "+@gid": "2158969560",
+            "+@lang": "EN",
+            "role": "Narrator",
+            "person": {
+                "+content": "Kirk Thornton",
+                "+@id": "3032"
+            }
+        },
+        {
+            "+@gid": "2470136716",
+            "+@lang": "EN",
+            "role": "Yujiro Hanma",
+            "person": {
+                "+content": "Kirk Thornton",
+                "+@id": "3032"
+            }
+        },
+        {
+            "+@gid": "2245252533",
+            "+@lang": "EN",
+            "role": "Baki Hanma",
+            "person": {
+                "+content": "Troy Baker",
+                "+@id": "29218"
+            }
+        },
+        {
+            "+@gid": "1759853810",
+            "+@lang": "EN",
+            "role": "Kaio Retsu",
+            "person": {
+                "+content": "Kaiji Tang",
+                "+@id": "70445"
+            }
+        },
+        {
+            "+@gid": "356639560",
+            "+@lang": "EN",
+            "role": "Katsumi Orochi",
+            "person": {
+                "+content": "Ray Chase",
+                "+@id": "126711"
+            }
+        },
+        {
+            "+@gid": "404718730",
+            "+@lang": "EN",
+            "role": "Chiharu Shiba",
+            "person": {
+                "+content": "Robbie Daymond",
+                "+@id": "127931"
+            }
+        },
+        {
+            "+@gid": "498830376",
+            "+@lang": "EN",
+            "role": "Goki Shibukawa",
+            "person": {
+                "+content": "Kyle McCarley",
+                "+@id": "135130"
+            }
+        },
+        {
+            "+@gid": "1706398907",
+            "+@lang": "EN",
+            "role": "Mitsunari Tokugawa",
+            "person": {
+                "+content": "Matthew Yang King",
+                "+@id": "148765"
+            }
+        },
+        {
+            "+@gid": "1567017720",
+            "+@lang": "EN",
+            "role": "Kaoru Hanayama",
+            "person": {
+                "+content": "Greg Chun",
+                "+@id": "154429"
+            }
+        },
+        {
+            "+@gid": "2033476777",
+            "+@lang": "EN",
+            "role": "Izo Motobe",
+            "person": {
+                "+content": "Christopher Swindle",
+                "+@id": "163292"
+            }
+        },
+        {
+            "+@gid": "2869386673",
+            "+@lang": "EN",
+            "role": "Jack Hanma",
+            "person": {
+                "+content": "Christopher Swindle",
+                "+@id": "163292"
+            }
+        },
+        {
+            "+@gid": "551998178",
+            "+@lang": "EN",
+            "role": "Miyamoto Mushashi",
+            "person": {
+                "+content": "SungWon Cho",
+                "+@id": "164450"
+            }
+        },
+        {
+            "+@gid": "1012678079",
+            "+@lang": "EN",
+            "role": "Kaio Kaku",
+            "person": {
+                "+content": "Mick Wingert",
+                "+@id": "172212"
+            }
+        },
+        {
+            "+@gid": "1383621040",
+            "+@lang": "EN",
+            "role": "John Honer",
+            "person": {
+                "+content": "Andrew Russell",
+                "+@id": "173873"
+            }
+        },
+        {
+            "+@gid": "3732577451",
+            "+@lang": "EN",
+            "role": "Gaia",
+            "person": {
+                "+content": "John Omohundro",
+                "+@id": "207978"
+            }
+        },
+        {
+            "+@gid": "2822241566",
+            "+@lang": "EN",
+            "role": "Sabuko Tokugawa",
+            "person": {
+                "+content": "Anzu Lawson",
+                "+@id": "226231"
+            }
+        },
+        {
             "+@gid": "1200097834",
             "+@lang": "JA",
             "role": "Kaku Kaiō",
@@ -209,12 +373,30 @@
             }
         },
         {
+            "+@gid": "891619907",
+            "+@lang": "JA",
+            "role": "Kōshō Shinogi",
+            "person": {
+                "+content": "Takumi Yamazaki",
+                "+@id": "1243"
+            }
+        },
+        {
             "+@gid": "1077081618",
             "+@lang": "JA",
             "role": "Gōki Shibukawa",
             "person": {
                 "+content": "Bin Shimada",
                 "+@id": "1501"
+            }
+        },
+        {
+            "+@gid": "1863674323",
+            "+@lang": "JA",
+            "role": "Narrator",
+            "person": {
+                "+content": "Tōru Furuya",
+                "+@id": "3076"
             }
         },
         {
@@ -245,15 +427,6 @@
             }
         },
         {
-            "+@gid": "3323600893",
-            "+@lang": "JA",
-            "role": "Retsu Kaiō",
-            "person": {
-                "+content": "Rikiya Koyama",
-                "+@id": "8136"
-            }
-        },
-        {
             "+@gid": "1373039222",
             "+@lang": "JA",
             "role": "Jack Hammer",
@@ -281,12 +454,30 @@
             }
         },
         {
+            "+@gid": "1652419677",
+            "+@lang": "JA",
+            "role": "Jaku Kaiō",
+            "person": {
+                "+content": "Yutaka Aoyama",
+                "+@id": "18713"
+            }
+        },
+        {
             "+@gid": "2332172968",
             "+@lang": "JA",
             "role": "Katsumi Orochi",
             "person": {
                 "+content": "Yoshihisa Kawahara",
                 "+@id": "18802"
+            }
+        },
+        {
+            "+@gid": "2688119412",
+            "+@lang": "JA",
+            "role": "Kiyosumi Katō",
+            "person": {
+                "+content": "Anri Katsu",
+                "+@id": "27068"
             }
         },
         {
@@ -326,6 +517,6 @@
         }
     },
     "+@date-added": "2026-03-29T02:34:35Z",
-    "+@date-last-modified-at": "2026-05-29T04:44:06Z",
-    "+@date-last-updated-at": "2026-05-29T04:44:06Z"
+    "+@date-last-modified-at": "2026-06-28T04:52:33Z",
+    "+@date-last-updated-at": "2026-06-28T04:52:33Z"
 }

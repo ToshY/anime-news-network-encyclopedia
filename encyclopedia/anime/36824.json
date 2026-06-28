@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Haibara's Teenage New Game+",
     "+@precision": "TV",
-    "+@generated-on": "2026-05-28T22:11:23Z",
+    "+@generated-on": "2026-06-28T04:52:30Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26444"
@@ -88,6 +88,26 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "\"black witch\" by mishmash leftovers (ep 12)",
+            "+@gid": "2336351599",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Hoshi e\" (星へ) by mishmash leftovers (ep 12)",
+            "+@gid": "809209067",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Monochrome\" (モノクロ) by mishmash leftovers (ep 12)",
+            "+@gid": "2370576012",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Taisetsu na Mono\" (大切なもの) by Natsuki Haibara [Yūto Uemura] (ep 10)",
+            "+@gid": "2258322002",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "TVアニメ『灰原くんの強くて青春ニューゲーム』",
             "+@gid": "1003527753",
             "+@type": "Official website",
@@ -96,8 +116,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "7",
-        "+@weighted_score": "3.5209"
+        "+@nb_votes": "23",
+        "+@weighted_score": "5.9831",
+        "+@bayesian_score": "6.52011"
     },
     "episode": [
         {
@@ -159,8 +180,40 @@
         {
             "+@num": "8",
             "title": {
-                "+content": "Kimi no Yume to Himitsu no Kankei",
-                "+@gid": "476865524",
+                "+content": "Your Dream and the Secret Relationship",
+                "+@gid": "2115479407",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "Kiseki no You na Natsu no Owari",
+                "+@gid": "2073325333",
+                "+@lang": "JA"
+            }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "Facade",
+                "+@gid": "1287803114",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "Monokuro",
+                "+@gid": "1305877020",
+                "+@lang": "JA"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Hoshi e",
+                "+@gid": "1431016378",
                 "+@lang": "JA"
             }
         }
@@ -276,7 +329,7 @@
             "+@gid": "1318656423",
             "task": "Director of Photography",
             "person": {
-                "+content": "Shintaro Sakai",
+                "+content": "Shintarō Sakai",
                 "+@id": "124517"
             }
         }
@@ -364,6 +417,6 @@
         }
     },
     "+@date-added": "2025-07-01T00:13:40Z",
-    "+@date-last-modified-at": "2026-05-28T22:11:26Z",
-    "+@date-last-updated-at": "2026-05-28T22:11:26Z"
+    "+@date-last-modified-at": "2026-06-28T04:52:33Z",
+    "+@date-last-updated-at": "2026-06-28T04:52:33Z"
 }

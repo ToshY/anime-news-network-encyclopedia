@@ -4,19 +4,30 @@
     "+@type": "TV",
     "+@name": "Hell Mode",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-05-29T04:44:01Z",
+    "+@generated-on": "2026-06-28T04:52:29Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "34132"
     },
     "info": [
         {
-            "+@gid": "1412034330",
+            "+@gid": "2890476995",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38839-1412034330.1774679533.jpg",
-            "img": {
-                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38839-1412034330.1774679533.jpg"
-            }
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38839-2890476995.1781707096.jpg",
+            "+@width": "140",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38839-2890476995.1781707096.jpg",
+                    "+@width": "140",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38839-2890476995.1781707096.jpg",
+                    "+@width": "350",
+                    "+@height": "500"
+                }
+            ]
         },
         {
             "+content": "Hell Mode",
@@ -103,9 +114,24 @@
             "+@type": "Objectionable content"
         },
         {
-            "+content": "2026-07",
+            "+content": "Allen, a former hardcore gamer, is reincarnated into the nameless world of an online game on the greatest difficulty level, \"Hell Mode.\" No strategy guides. No message boards. Even leveling up is a life-or-death situation. Even in the face of this desperate environment, his gamer instincts rejoice.",
+            "+@gid": "1888308615",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2026-07-03",
             "+@gid": "1466057702",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"○✕△□\" by Romanha Marshmallow",
+            "+@gid": "1039824444",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Firetail\" by ChoQMay",
+            "+@gid": "3181681951",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ『ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～』",
@@ -115,12 +141,133 @@
             "+@href": "https://hellmode-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Hell Mode</cite> Anime Season 2 Announces 4 More Cast Members",
-        "+@datetime": "2026-05-20T10:25:29Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-05-20/hell-mode-anime-season-2-announces-4-more-cast-members/.237556"
-    },
+    "news": [
+        {
+            "+content": "<cite>Hell Mode</cite> Anime Season 2 Announces 4 More Cast Members",
+            "+@datetime": "2026-05-20T10:25:29Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-20/hell-mode-anime-season-2-announces-4-more-cast-members/.237556"
+        },
+        {
+            "+content": "<cite>Hell Mode</cite> Anime Season 2 Reveals, Promo Video, More Cast, Opening Theme Song, July 3 Premiere",
+            "+@datetime": "2026-06-05T16:32:02Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-05/hell-mode-anime-season-2-reveals-promo-video-more-cast-opening-theme-song-july-3-premiere/.238180"
+        },
+        {
+            "+content": "<cite>Hell Mode</cite> Anime Season 2 Announces Another Cast Member, Ending Song Artists",
+            "+@datetime": "2026-06-19T13:38:54Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-19/hell-mode-anime-season-2-announces-another-cast-member-ending-song-artists/.238708"
+        },
+        {
+            "+content": "HIDIVE Premieres <cite>Hell Mode</cite> Season 2, <cite>The Forsaken Saintess and Her Foodie Road Trip</cite> Anime at Anime Expo",
+            "+@datetime": "2026-06-22T20:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-22/hidive-premieres-hell-mode-season-2-the-forsaken-saintess-and-her-foodie-road-trip-anime-at-anime-/.238812"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "2801381168",
+            "task": "Director",
+            "person": {
+                "+content": "Masato Tamagawa",
+                "+@id": "30804"
+            }
+        },
+        {
+            "+@gid": "2024370336",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Daishirō Tanimura",
+                "+@id": "77471"
+            }
+        },
+        {
+            "+@gid": "2615548038",
+            "task": "Music",
+            "person": {
+                "+content": "Shūichirō Fukuhiro",
+                "+@id": "121001"
+            }
+        },
+        {
+            "+@gid": "851882432",
+            "task": "Music",
+            "person": {
+                "+content": "Kanade Sakuma",
+                "+@id": "207919"
+            }
+        },
+        {
+            "+@gid": "3474488555",
+            "task": "Music",
+            "person": {
+                "+content": "Junko Nakajima",
+                "+@id": "207920"
+            }
+        },
+        {
+            "+@gid": "981686248",
+            "task": "Music",
+            "person": {
+                "+content": "Misaki Tsuchida",
+                "+@id": "254485"
+            }
+        },
+        {
+            "+@gid": "1632491988",
+            "task": "Music",
+            "person": {
+                "+content": "Tsugumi Tanaka",
+                "+@id": "254486"
+            }
+        },
+        {
+            "+@gid": "1082530199",
+            "task": "Music",
+            "person": {
+                "+content": "Kaho Sawada",
+                "+@id": "260854"
+            }
+        },
+        {
+            "+@gid": "58272757",
+            "task": "Music",
+            "person": {
+                "+content": "BeauDamian",
+                "+@id": "265809"
+            }
+        },
+        {
+            "+@gid": "2000062473",
+            "task": "Music",
+            "person": {
+                "+content": "Reiko Abe",
+                "+@id": "268650"
+            }
+        },
+        {
+            "+@gid": "2079296894",
+            "task": "Music",
+            "person": {
+                "+content": "Moyu Kanazaki",
+                "+@id": "289466"
+            }
+        },
+        {
+            "+@gid": "2525398053",
+            "task": "Music",
+            "person": {
+                "+content": "Mayo Kurihara",
+                "+@id": "291451"
+            }
+        },
+        {
+            "+@gid": "3575370677",
+            "task": "Music",
+            "person": {
+                "+content": "Shin Miki",
+                "+@id": "291452"
+            }
+        },
         {
             "+@gid": "1236799732",
             "task": "Original creator",
@@ -144,9 +291,66 @@
                 "+content": "Mo",
                 "+@id": "190701"
             }
+        },
+        {
+            "+@gid": "1797263623",
+            "task": "Character Design",
+            "person": {
+                "+content": "Kei Tsushima",
+                "+@id": "72379"
+            }
+        },
+        {
+            "+@gid": "3733166807",
+            "task": "Art Director",
+            "person": {
+                "+content": "Hirotsugu Kakoi",
+                "+@id": "69336"
+            }
+        },
+        {
+            "+@gid": "657293561",
+            "task": "3D Director",
+            "person": {
+                "+content": "Yoshihiro Tsukashita",
+                "+@id": "119190"
+            }
+        },
+        {
+            "+@gid": "2051167823",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Teruaki Sugawara",
+                "+@id": "124738"
+            }
+        },
+        {
+            "+@gid": "972778145",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Natsumi Uchida",
+                "+@id": "79169"
+            }
+        },
+        {
+            "+@gid": "1128181296",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Takahiro Kita",
+                "+@id": "83604"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "1634818639",
+            "+@lang": "JA",
+            "role": "Maria",
+            "person": {
+                "+content": "Yui Horie",
+                "+@id": "386"
+            }
+        },
         {
             "+@gid": "365723604",
             "+@lang": "JA",
@@ -163,6 +367,15 @@
             "person": {
                 "+content": "Hikaru Midorikawa",
                 "+@id": "546"
+            }
+        },
+        {
+            "+@gid": "3185221672",
+            "+@lang": "JA",
+            "role": "Theodojiil",
+            "person": {
+                "+content": "Shinichirō Miki",
+                "+@id": "659"
             }
         },
         {
@@ -199,6 +412,15 @@
             "person": {
                 "+content": "Takahiro Sakurai",
                 "+@id": "5039"
+            }
+        },
+        {
+            "+@gid": "472500910",
+            "+@lang": "JA",
+            "role": "Dverg",
+            "person": {
+                "+content": "Taketora",
+                "+@id": "46837"
             }
         },
         {
@@ -265,6 +487,15 @@
             }
         },
         {
+            "+@gid": "2491798657",
+            "+@lang": "JA",
+            "role": "Myura",
+            "person": {
+                "+content": "Miho Wataya",
+                "+@id": "132360"
+            }
+        },
+        {
             "+@gid": "173758095",
             "+@lang": "JA",
             "role": "Cecil",
@@ -301,7 +532,15 @@
             }
         }
     ],
+    "credit": {
+        "+@gid": "2953113515",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Yokohama Animation Lab",
+            "+@id": "17061"
+        }
+    },
     "+@date-added": "2026-03-28T02:30:33Z",
-    "+@date-last-modified-at": "2026-05-29T04:44:06Z",
-    "+@date-last-updated-at": "2026-05-29T04:44:06Z"
+    "+@date-last-modified-at": "2026-06-28T04:52:33Z",
+    "+@date-last-updated-at": "2026-06-28T04:52:33Z"
 }
