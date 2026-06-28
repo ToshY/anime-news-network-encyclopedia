@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Nippon Sangoku The Three Nations of the Crimson Sun",
     "+@precision": "TV",
-    "+@generated-on": "2026-05-29T11:41:34Z",
+    "+@generated-on": "2026-06-28T14:16:57Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27007"
@@ -52,6 +52,12 @@
             "+@gid": "2174099226",
             "+@type": "Alternative title",
             "+@lang": "IT"
+        },
+        {
+            "+content": "Nippon Sangoku: Las tres naciones del sol carmesí",
+            "+@gid": "1531438144",
+            "+@type": "Alternative title",
+            "+@lang": "ES"
         },
         {
             "+content": "Nippon Sangoku: Trzy Narody Wschodzącego Słońca",
@@ -146,6 +152,16 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "\"Hidane\" (火種) by Tatsuya Kitani",
+            "+@gid": "3566529558",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Chikai\" (誓い) by Leina",
+            "+@gid": "1959848883",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "TVアニメ『日本三國』公式",
             "+@gid": "2525215596",
             "+@type": "Official website",
@@ -154,8 +170,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "7.0968"
+        "+@nb_votes": "20",
+        "+@weighted_score": "7.4109",
+        "+@bayesian_score": "7.43422"
     },
     "news": [
         {
@@ -380,6 +397,132 @@
             }
         },
         {
+            "+@gid": "2646502876",
+            "+@lang": "ES",
+            "role": "Ōga Wajima",
+            "person": {
+                "+content": "Georgina Sanchez",
+                "+@id": "23448"
+            }
+        },
+        {
+            "+@gid": "2168525882",
+            "+@lang": "ES",
+            "role": "Mitsuhide Ryūmon",
+            "person": {
+                "+content": "Oscar Gomez",
+                "+@id": "24153"
+            }
+        },
+        {
+            "+@gid": "3597332004",
+            "+@lang": "ES",
+            "role": "Denki Taira",
+            "person": {
+                "+content": "Oscar Flores",
+                "+@id": "30902"
+            }
+        },
+        {
+            "+@gid": "2883475090",
+            "+@lang": "ES",
+            "role": "Shiryō Nagamine",
+            "person": {
+                "+content": "Igor Cruz",
+                "+@id": "40617"
+            }
+        },
+        {
+            "+@gid": "2660007542",
+            "+@lang": "ES",
+            "role": "Fuji III",
+            "person": {
+                "+content": "Javier Olguín",
+                "+@id": "50673"
+            }
+        },
+        {
+            "+@gid": "1054469634",
+            "+@lang": "ES",
+            "role": "Gō Sugō",
+            "person": {
+                "+content": "Esteban Desco",
+                "+@id": "52829"
+            }
+        },
+        {
+            "+@gid": "3770557243",
+            "+@lang": "ES",
+            "role": "Aoteru Misumi",
+            "person": {
+                "+content": "Alan Fernando Velázquez",
+                "+@id": "59821"
+            }
+        },
+        {
+            "+@gid": "3274212960",
+            "+@lang": "ES",
+            "role": "Yayakichi Hei",
+            "person": {
+                "+content": "Hugo Navarrete",
+                "+@id": "76741"
+            }
+        },
+        {
+            "+@gid": "1466262029",
+            "+@lang": "ES",
+            "role": "Aterui Kura",
+            "person": {
+                "+content": "Dafnis Fernández",
+                "+@id": "84253"
+            }
+        },
+        {
+            "+@gid": "2496690849",
+            "+@lang": "ES",
+            "role": "Mūton Nagao",
+            "person": {
+                "+content": "José Luis Piedra",
+                "+@id": "150280"
+            }
+        },
+        {
+            "+@gid": "2482196758",
+            "+@lang": "ES",
+            "role": "Saki Higashimachi",
+            "person": {
+                "+content": "Danann Huicochea",
+                "+@id": "156392"
+            }
+        },
+        {
+            "+@gid": "2754313599",
+            "+@lang": "ES",
+            "role": "Yoshitsune Asama",
+            "person": {
+                "+content": "Diego Becerril",
+                "+@id": "171065"
+            }
+        },
+        {
+            "+@gid": "2244672242",
+            "+@lang": "ES",
+            "role": "Yasuaki Kaku",
+            "person": {
+                "+content": "Fernando Moctezuma",
+                "+@id": "224080"
+            }
+        },
+        {
+            "+@gid": "1948691860",
+            "+@lang": "ES",
+            "role": "Tonotsugu Taira",
+            "person": {
+                "+content": "Jorge Rafael",
+                "+@id": "234702"
+            }
+        },
+        {
             "+@gid": "2622481250",
             "+@lang": "FR",
             "role": "Gō Sugō",
@@ -452,12 +595,30 @@
             }
         },
         {
+            "+@gid": "1198134441",
+            "+@lang": "FR",
+            "role": "Shiryō Nagamine",
+            "person": {
+                "+content": "Laurent Blanpain",
+                "+@id": "184059"
+            }
+        },
+        {
             "+@gid": "3535699102",
             "+@lang": "FR",
             "role": "Tonotsugu Taira",
             "person": {
                 "+content": "Vanessa Van-Geneugden",
                 "+@id": "210154"
+            }
+        },
+        {
+            "+@gid": "3041917960",
+            "+@lang": "FR",
+            "role": "Yayakichi Hei",
+            "person": {
+                "+content": "Patrick Bonnel",
+                "+@id": "245682"
             }
         },
         {
@@ -521,6 +682,15 @@
             "person": {
                 "+content": "Riccardo Scarafoni",
                 "+@id": "146902"
+            }
+        },
+        {
+            "+@gid": "2562252817",
+            "+@lang": "IT",
+            "role": "Yasuke Hei",
+            "person": {
+                "+content": "Giulio Bartolomei",
+                "+@id": "147364"
             }
         },
         {
@@ -713,6 +883,6 @@
         }
     },
     "+@date-added": "2026-01-27T21:37:18Z",
-    "+@date-last-modified-at": "2026-05-29T11:41:39Z",
-    "+@date-last-updated-at": "2026-05-29T11:41:39Z"
+    "+@date-last-modified-at": "2026-06-28T14:17:02Z",
+    "+@date-last-updated-at": "2026-06-28T14:17:02Z"
 }
