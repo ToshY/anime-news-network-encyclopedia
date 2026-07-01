@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Ryōki Densetsu Alucard: Shikkoku no Shinjitsu-hen",
     "+@precision": "manga",
-    "+@generated-on": "2026-06-01T05:17:06Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "19219"
-    },
+    "+@generated-on": "2026-07-01T11:33:01Z",
+    "related-prev": [
+        {
+            "+@rel": "sequel of",
+            "+@id": "19219"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "40037"
+        }
+    ],
     "related-next": {
         "+@id": "39740",
         "+@rel": "sequel"
@@ -51,5 +57,6 @@
         }
     },
     "+@date-added": "2026-05-30T06:10:19Z",
-    "+@date-last-updated-at": "2026-06-01T05:17:07Z"
+    "+@date-last-modified-at": "2026-07-01T11:33:03Z",
+    "+@date-last-updated-at": "2026-07-01T11:33:03Z"
 }
