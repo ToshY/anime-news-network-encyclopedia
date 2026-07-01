@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Cyberpunk: Edgerunners 2",
     "+@precision": "ONA",
-    "+@generated-on": "2026-06-01T13:47:19Z",
+    "+@generated-on": "2026-07-01T15:12:37Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "25775"
@@ -13,19 +13,24 @@
         {
             "+@gid": "1155568778",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36864-1155568778.1751680518.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36864-1155568778.1782685587.jpg",
             "+@width": "160",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36864-1155568778.1751680518.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36864-1155568778.1782685587.jpg",
                     "+@width": "160",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36864-1155568778.1751680518.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36864-1155568778.1782685587.jpg",
                     "+@width": "480",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A36864-1155568778.1782685587.jpg",
+                    "+@width": "1080",
+                    "+@height": "1350"
                 }
             ]
         },
@@ -140,12 +145,13 @@
             "+content": "10",
             "+@gid": "2489023487",
             "+@type": "Number of episodes"
+        },
+        {
+            "+content": "2026 (fall)",
+            "+@gid": "1220899098",
+            "+@type": "Vintage"
         }
     ],
-    "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "9"
-    },
     "news": [
         {
             "+content": "<cite>Cyberpunk: Edgerunners</cite> Gets New 10-Episode Anime Series on Netflix",
@@ -166,6 +172,21 @@
             "+content": "Anime Expo Hosts World Premieres of <cite>Black Torch</cite>,  <cite>Magic Knight Rayearth</cite> Anime",
             "+@datetime": "2026-05-31T15:15:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-05-31/anime-expo-hosts-world-premieres-of-black-torch-magic-knight-rayearth-anime/.237962"
+        },
+        {
+            "+content": "<cite>Cyberpunk: Edgerunners 2</cite> Anime's New Visual Announces Fall Debut",
+            "+@datetime": "2026-06-29T00:39:17Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-28/cyberpunk-edgerunners-2-anime-new-visual-announces-fall-debut/.239075"
+        },
+        {
+            "+content": "<cite>Cyberpunk: Edgerunners 2</cite> Anime Streams 2nd Teaser Trailer",
+            "+@datetime": "2026-06-29T15:50:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-29/cyberpunk-edgerunners-2-anime-streams-2nd-teaser-trailer/.239103"
+        },
+        {
+            "+content": "<cite>Cyberpunk: Edgerunners 2</cite> Anime Reveals Japanese/English Casts",
+            "+@datetime": "2026-06-30T17:09:24Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-30/cyberpunk-edgerunners-2-anime-reveals-japanese-english-casts/.239137"
         }
     ],
     "staff": [
@@ -194,6 +215,80 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "1086278460",
+            "+@lang": "EN",
+            "role": "Weak Kingsley",
+            "person": {
+                "+content": "Clancy Brown",
+                "+@id": "21530"
+            }
+        },
+        {
+            "+@gid": "2696852408",
+            "+@lang": "EN",
+            "role": "D",
+            "person": {
+                "+content": "Nazeeh Tarsha",
+                "+@id": "158692"
+            }
+        },
+        {
+            "+@gid": "1933946662",
+            "+@lang": "EN",
+            "role": "Roman Carax",
+            "person": {
+                "+content": "Valeria Rodriguez",
+                "+@id": "200260"
+            }
+        },
+        {
+            "+@gid": "2289208100",
+            "+@lang": "EN",
+            "role": "Talia Yang",
+            "person": {
+                "+content": "Kimoy Lee",
+                "+@id": "284650"
+            }
+        },
+        {
+            "+@gid": "3685483056",
+            "+@lang": "JA",
+            "role": "D",
+            "person": {
+                "+content": "Kōki Uchiyama",
+                "+@id": "56091"
+            }
+        },
+        {
+            "+@gid": "1759235562",
+            "+@lang": "JA",
+            "role": "Weak Kingsley",
+            "person": {
+                "+content": "Kentarō Tone",
+                "+@id": "57088"
+            }
+        },
+        {
+            "+@gid": "1742354854",
+            "+@lang": "JA",
+            "role": "Talia Yang",
+            "person": {
+                "+content": "Akari Kitō",
+                "+@id": "130728"
+            }
+        },
+        {
+            "+@gid": "1591170280",
+            "+@lang": "JA",
+            "role": "Roman Carax",
+            "person": {
+                "+content": "Momoka Terasawa",
+                "+@id": "231450"
+            }
+        }
+    ],
     "credit": {
         "+@gid": "2994470005",
         "task": "Animation Production",
@@ -203,6 +298,6 @@
         }
     },
     "+@date-added": "2025-07-04T21:54:52Z",
-    "+@date-last-modified-at": "2026-06-01T13:47:22Z",
-    "+@date-last-updated-at": "2026-06-01T13:47:22Z"
+    "+@date-last-modified-at": "2026-07-01T15:12:39Z",
+    "+@date-last-updated-at": "2026-07-01T15:12:39Z"
 }

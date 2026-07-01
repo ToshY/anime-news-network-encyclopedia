@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Akane-banashi",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-01T13:47:17Z",
+    "+@generated-on": "2026-07-01T15:12:36Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25523"
+    },
+    "related-next": {
+        "+@id": "40070",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -90,8 +94,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "8",
-        "+@weighted_score": "6.9775"
+        "+@nb_votes": "47",
+        "+@weighted_score": "7.9181",
+        "+@bayesian_score": "7.82103"
     },
     "episode": [
         {
@@ -123,6 +128,70 @@
             "title": {
                 "+content": "Beyond Joy",
                 "+@gid": "1397984790",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "Her Path Forward",
+                "+@gid": "1902353026",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "Terakoya",
+                "+@gid": "2507552581",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "Karaku Cup",
+                "+@gid": "1123834387",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "What They Want",
+                "+@gid": "1244004843",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "Expressionist",
+                "+@gid": "2326540431",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "Jugemu",
+                "+@gid": "3151633849",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "Answer",
+                "+@gid": "2379921664",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Graduation",
+                "+@gid": "1877247356",
                 "+@lang": "EN"
             }
         }
@@ -197,6 +266,11 @@
             "+content": "<cite>Akane-banashi</cite> Anime Reveals Additional English Dub Cast",
             "+@datetime": "2026-05-22T19:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-05-22/akane-banashi-anime-reveals-additional-english-dub-cast/.237705"
+        },
+        {
+            "+content": "<cite>Akane-banashi</cite> Anime Gets 2nd Season in January 2027",
+            "+@datetime": "2026-06-20T15:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-20/akane-banashi-anime-gets-2nd-season-in-january-2027/.238723"
         }
     ],
     "staff": [
@@ -614,6 +688,15 @@
             }
         },
         {
+            "+@gid": "3554353761",
+            "+@lang": "IT",
+            "role": "Ryujaku Sakaki",
+            "person": {
+                "+content": "Patrizio Prata",
+                "+@id": "25932"
+            }
+        },
+        {
             "+@gid": "804146552",
             "+@lang": "IT",
             "role": "Issho Arakawa",
@@ -659,6 +742,15 @@
             }
         },
         {
+            "+@gid": "1402397335",
+            "+@lang": "IT",
+            "role": "Kimihisa Kashio",
+            "person": {
+                "+content": "Omar Maestroni",
+                "+@id": "95297"
+            }
+        },
+        {
             "+@gid": "3038113303",
             "+@lang": "IT",
             "role": "Zensho Arakawa",
@@ -674,6 +766,24 @@
             "person": {
                 "+content": "Matteo De Mojana",
                 "+@id": "153661"
+            }
+        },
+        {
+            "+@gid": "2528892028",
+            "+@lang": "IT",
+            "role": "Jumbo Ozaki",
+            "person": {
+                "+content": "Davide Farronato",
+                "+@id": "154587"
+            }
+        },
+        {
+            "+@gid": "3043183742",
+            "+@lang": "IT",
+            "role": "Sae Komi",
+            "person": {
+                "+content": "Martina Tamburello",
+                "+@id": "155039"
             }
         },
         {
@@ -710,6 +820,33 @@
             "person": {
                 "+content": "Alessandro Fattori",
                 "+@id": "191772"
+            }
+        },
+        {
+            "+@gid": "2692151844",
+            "+@lang": "IT",
+            "role": "Hikaru Koragi",
+            "person": {
+                "+content": "Chiara Leoncini",
+                "+@id": "200055"
+            }
+        },
+        {
+            "+@gid": "1224945171",
+            "+@lang": "IT",
+            "role": "Karashi Nerimaya",
+            "person": {
+                "+content": "Edoardo Lomazzi",
+                "+@id": "207391"
+            }
+        },
+        {
+            "+@gid": "2018057469",
+            "+@lang": "IT",
+            "role": "Machiko Iwashimizu",
+            "person": {
+                "+content": "Valentina Pollani",
+                "+@id": "213812"
             }
         },
         {
@@ -933,6 +1070,6 @@
         }
     ],
     "+@date-added": "2025-08-04T20:24:21Z",
-    "+@date-last-modified-at": "2026-06-01T13:47:22Z",
-    "+@date-last-updated-at": "2026-06-01T13:47:22Z"
+    "+@date-last-modified-at": "2026-07-01T15:12:39Z",
+    "+@date-last-updated-at": "2026-07-01T15:12:39Z"
 }
