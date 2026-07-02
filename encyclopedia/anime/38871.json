@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Saved by the Ice Cold Prince's Embrace",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-02T05:01:04Z",
+    "+@generated-on": "2026-07-02T11:01:38Z",
     "related-prev": [
         {
             "+@rel": "part of",
@@ -20,9 +20,25 @@
             "+@gid": "1427046069",
             "+@type": "Picture",
             "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38871-1427046069.1775039807.jpg",
-            "img": {
-                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38871-1427046069.1775039807.jpg"
-            }
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38871-1427046069.1775039807.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38871-1427046069.1775039807.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38871-1427046069.1775039807.jpg",
+                    "+@width": "848",
+                    "+@height": "1200"
+                }
+            ]
         },
         {
             "+content": "Saved by the Ice Cold Prince's Embrace",
@@ -47,11 +63,12 @@
             "+@type": "Genres"
         },
         {
-            "+content": "As the illegitimate daughter of a count and his maid, Katrina was born into miserable circumstances. And now that she's lost her mother, the treatment from her stepsister and stepmother, the countess, has only grown worse. One day, her stepsister receives a royal order to relocate to the northern outskirts for her unseemly behavior at a recent party. There, she is to learn proper conduct under the tutelage of the resident prince, rumored to be a cruel man. Not wanting to subject her daughter to such punishment, the countess decides to send Katrina instead. Katrina arrives in the north, shaking in fear. But contrary to the stories, the \"merciless and cold-hearted\" prince is kinder than she believed. <em class=de-emphasized>(from manga)</em>",
+            "+content": "As the illegitimate daughter of a count and his maid, Katrina was born into miserable circumstances. And now that she's lost her mother, the treatment from her stepsister and stepmother, the countess, has only grown worse. One day, her stepsister receives a royal order to relocate to the northern outskirts for her unseemly behavior at a recent party. There, she is to learn proper conduct under the tutelage of the resident prince, rumored to be a cruel man. Not wanting to subject her daughter to such punishment, the countess decides to send Katrina instead. Katrina arrives in the north, shaking in fear. But contrary to the stories, the \"merciless and cold-hearted\" prince is kinder than she believed.",
+            "+@gid": "2683577568",
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026-07",
+            "+content": "2026-07-07",
             "+@gid": "4080607285",
             "+@type": "Vintage"
         },
@@ -73,6 +90,11 @@
             "+content": "<i>Saved by the Ice Cold Prince's Embrace</i> Light Anime's Teaser Unveils Cast, Staff",
             "+@datetime": "2026-05-14T12:14:44Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-05-14/saved-by-the-ice-cold-prince-embrace-light-anime-teaser-unveils-cast-staff/.237358"
+        },
+        {
+            "+content": "<cite>Saved by the Ice Cold Prince's Embrace</cite> Light Anime's 2nd Teaser Unveils Ending Song, More Cast Members, July 7 Debut",
+            "+@datetime": "2026-06-22T11:49:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-22/saved-by-the-ice-cold-prince-embrace-light-anime-2nd-teaser-unveils-ending-song-more-cast-members-/.238791"
         }
     ],
     "staff": [
@@ -82,6 +104,22 @@
             "person": {
                 "+content": "Yūsuke Morishita",
                 "+@id": "117781"
+            }
+        },
+        {
+            "+@gid": "2279275351",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Rikako Machida",
+                "+@id": "299228"
+            }
+        },
+        {
+            "+@gid": "2669845688",
+            "task": "Music",
+            "person": {
+                "+content": "Morrigan",
+                "+@id": "115150"
             }
         },
         {
@@ -111,6 +149,33 @@
     ],
     "cast": [
         {
+            "+@gid": "1767823368",
+            "+@lang": "JA",
+            "role": "Count Sashebal",
+            "person": {
+                "+content": "Yutaka Aoyama",
+                "+@id": "18713"
+            }
+        },
+        {
+            "+@gid": "1809920989",
+            "+@lang": "JA",
+            "role": "Countess Sashebal",
+            "person": {
+                "+content": "Yōko Hikasa",
+                "+@id": "67797"
+            }
+        },
+        {
+            "+@gid": "2497323511",
+            "+@lang": "JA",
+            "role": "Tomas",
+            "person": {
+                "+content": "Shōya Chiba",
+                "+@id": "97379"
+            }
+        },
+        {
             "+@gid": "2629890367",
             "+@lang": "JA",
             "role": "Clarence",
@@ -120,12 +185,75 @@
             }
         },
         {
+            "+@gid": "1185877949",
+            "+@lang": "JA",
+            "role": "Cheryl Sashebal",
+            "person": {
+                "+content": "Ruriko Aoki",
+                "+@id": "116217"
+            }
+        },
+        {
             "+@gid": "1937452074",
             "+@lang": "JA",
             "role": "Katrina",
             "person": {
                 "+content": "Miku Itō",
                 "+@id": "119924"
+            }
+        },
+        {
+            "+@gid": "1151397722",
+            "+@lang": "JA",
+            "role": "Queen",
+            "person": {
+                "+content": "Karin Nanami",
+                "+@id": "127206"
+            }
+        },
+        {
+            "+@gid": "3557345212",
+            "+@lang": "JA",
+            "role": "Katrina's Mother",
+            "person": {
+                "+content": "Ryōko Maekawa",
+                "+@id": "134966"
+            }
+        },
+        {
+            "+@gid": "2249446066",
+            "+@lang": "JA",
+            "role": "Nina",
+            "person": {
+                "+content": "Kana Ichinose",
+                "+@id": "164051"
+            }
+        },
+        {
+            "+@gid": "1787519389",
+            "+@lang": "JA",
+            "role": "Gon",
+            "person": {
+                "+content": "Fumitake Ishiguro",
+                "+@id": "178416"
+            }
+        },
+        {
+            "+@gid": "2160380908",
+            "+@lang": "JA",
+            "role": "Oliver",
+            "person": {
+                "+content": "Yukihiro Yoshikawa",
+                "+@id": "286016"
+            }
+        },
+        {
+            "+@gid": "2648343674",
+            "+@lang": "JA",
+            "role": "King",
+            "person": {
+                "+content": "Masaru Yoshimura",
+                "+@id": "286093"
             }
         }
     ],
@@ -156,6 +284,6 @@
         }
     ],
     "+@date-added": "2026-04-01T06:35:54Z",
-    "+@date-last-modified-at": "2026-06-02T05:01:12Z",
-    "+@date-last-updated-at": "2026-06-02T05:01:12Z"
+    "+@date-last-modified-at": "2026-07-02T11:01:43Z",
+    "+@date-last-updated-at": "2026-07-02T11:01:43Z"
 }

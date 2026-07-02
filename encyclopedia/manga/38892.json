@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Leteitenite",
     "+@precision": "manga",
-    "+@generated-on": "2026-06-02T05:01:01Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "31723"
-    },
+    "+@generated-on": "2026-07-02T11:01:38Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "31723"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "39848"
+        }
+    ],
     "info": [
         {
             "+@gid": "2453453722",
@@ -57,7 +63,7 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2023-04-26 to 2025-04-30 (serialized on Michikusa Comics site)",
+            "+content": "2023-04-26 to 2025-04-30 (serialized on Michikusa)",
             "+@gid": "1517553413",
             "+@type": "Vintage"
         },
@@ -88,5 +94,6 @@
         }
     },
     "+@date-added": "2026-04-02T10:42:00Z",
-    "+@date-last-updated-at": "2026-06-02T05:01:04Z"
+    "+@date-last-modified-at": "2026-07-02T11:01:41Z",
+    "+@date-last-updated-at": "2026-07-02T11:01:41Z"
 }
