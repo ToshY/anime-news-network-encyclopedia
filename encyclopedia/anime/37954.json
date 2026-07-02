@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Bungo Stray Dogs Wan! 2",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-02T11:21:33Z",
+    "+@generated-on": "2026-07-02T14:29:47Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "23753"
@@ -14,9 +14,20 @@
             "+@gid": "869686014",
             "+@type": "Picture",
             "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37954-869686014.1777198527.jpg",
-            "img": {
-                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37954-869686014.1777198527.jpg"
-            }
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37954-869686014.1777198527.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37954-869686014.1777198527.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
+                }
+            ]
         },
         {
             "+content": "Bungo Stray Dogs Wan! 2",
@@ -42,7 +53,12 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026-07",
+            "+content": "The series centers on the peaceful everyday lives and the cute adventures of Atsushi and crew.",
+            "+@gid": "2294376182",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2026-07-02",
             "+@gid": "2768263897",
             "+@type": "Vintage"
         },
@@ -74,6 +90,16 @@
             "+content": "<cite>Bungo Stray Dogs Wan! 2</cite> TV Anime Airs in July",
             "+@datetime": "2026-04-26T08:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-26/bungo-stray-dogs-wan-2-tv-anime-airs-in-july/.236801"
+        },
+        {
+            "+content": "<i>Bungo Stray Dogs Wan! 2</i> Anime's Main Promo Video Unveils Ending Song, July 2 Debut",
+            "+@datetime": "2026-06-12T03:02:19Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-11/bungo-stray-dogs-wan-2-anime-main-promo-video-unveils-ending-song-july-2-debut/.238437"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Summer 2026 Season",
+            "+@datetime": "2026-06-17T17:45:10Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-17/crunchyroll-announces-release-schedule-for-summer-2026-season/.238615"
         }
     ],
     "staff": [
@@ -152,6 +178,69 @@
     ],
     "cast": [
         {
+            "+@gid": "833728361",
+            "+@lang": "JA",
+            "role": "Ango Sakaguchi",
+            "person": {
+                "+content": "Jun Fukuyama",
+                "+@id": "337"
+            }
+        },
+        {
+            "+@gid": "2611108026",
+            "+@lang": "JA",
+            "role": "Fyodor Dostoevsky",
+            "person": {
+                "+content": "Akira Ishida",
+                "+@id": "443"
+            }
+        },
+        {
+            "+@gid": "2875924507",
+            "+@lang": "JA",
+            "role": "Ōchi Fukuchi",
+            "person": {
+                "+content": "Akio Ōtsuka",
+                "+@id": "459"
+            }
+        },
+        {
+            "+@gid": "1762987595",
+            "+@lang": "JA",
+            "role": "Nikolai Gogol",
+            "person": {
+                "+content": "Takehito Koyasu",
+                "+@id": "662"
+            }
+        },
+        {
+            "+@gid": "1482425804",
+            "+@lang": "JA",
+            "role": "Edgar Allan Poe",
+            "person": {
+                "+content": "Toshiyuki Morikawa",
+                "+@id": "692"
+            }
+        },
+        {
+            "+@gid": "816941919",
+            "+@lang": "JA",
+            "role": "Mushitarō Oguri",
+            "person": {
+                "+content": "Takeshi Kusao",
+                "+@id": "1103"
+            }
+        },
+        {
+            "+@gid": "1853299120",
+            "+@lang": "JA",
+            "role": "Francis Scott Key Fitzgerald",
+            "person": {
+                "+content": "Takahiro Sakurai",
+                "+@id": "5039"
+            }
+        },
+        {
             "+@gid": "3749923318",
             "+@lang": "JA",
             "role": "Chūya Nakahara",
@@ -170,6 +259,15 @@
             }
         },
         {
+            "+@gid": "1447822154",
+            "+@lang": "JA",
+            "role": "Michizō Tachihara",
+            "person": {
+                "+content": "Yuu Hayashi",
+                "+@id": "30876"
+            }
+        },
+        {
             "+@gid": "1342757254",
             "+@lang": "JA",
             "role": "Ryūnosuke Akutagawa",
@@ -179,12 +277,30 @@
             }
         },
         {
+            "+@gid": "2091861620",
+            "+@lang": "JA",
+            "role": "Lucy Maud Montgomery",
+            "person": {
+                "+content": "Kana Hanazawa",
+                "+@id": "53741"
+            }
+        },
+        {
             "+@gid": "449153203",
             "+@lang": "JA",
             "role": "Doppo Kunikida",
             "person": {
                 "+content": "Yoshimasa Hosoya",
                 "+@id": "53773"
+            }
+        },
+        {
+            "+@gid": "850911350",
+            "+@lang": "JA",
+            "role": "Saigiku Jōno",
+            "person": {
+                "+content": "Yūki Kaji",
+                "+@id": "58051"
             }
         },
         {
@@ -203,6 +319,42 @@
             "person": {
                 "+content": "Yūto Uemura",
                 "+@id": "91688"
+            }
+        },
+        {
+            "+@gid": "3194232221",
+            "+@lang": "JA",
+            "role": "Sigma",
+            "person": {
+                "+content": "Shōya Chiba",
+                "+@id": "97379"
+            }
+        },
+        {
+            "+@gid": "848219703",
+            "+@lang": "JA",
+            "role": "Tecchō Suehiro",
+            "person": {
+                "+content": "Yōhei Azakami",
+                "+@id": "108274"
+            }
+        },
+        {
+            "+@gid": "2695117004",
+            "+@lang": "JA",
+            "role": "Louisa May Alcott",
+            "person": {
+                "+content": "Hikaru Ueda",
+                "+@id": "131725"
+            }
+        },
+        {
+            "+@gid": "2232008444",
+            "+@lang": "JA",
+            "role": "Teruko Ōkura",
+            "person": {
+                "+content": "Makoto Koichi",
+                "+@id": "143804"
             }
         }
     ],
@@ -225,6 +377,6 @@
         }
     ],
     "+@date-added": "2025-11-01T04:44:46Z",
-    "+@date-last-modified-at": "2026-06-02T12:15:21Z",
-    "+@date-last-updated-at": "2026-06-02T12:15:21Z"
+    "+@date-last-modified-at": "2026-07-02T14:29:54Z",
+    "+@date-last-updated-at": "2026-07-02T14:29:54Z"
 }
