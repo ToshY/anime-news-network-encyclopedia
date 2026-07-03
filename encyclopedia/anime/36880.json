@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Black Clover",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-06-03T05:18:12Z",
+    "+@generated-on": "2026-07-03T07:39:22Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "19743"
@@ -13,19 +13,24 @@
         {
             "+@gid": "1321379261",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36880-1321379261.1766301083.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36880-1321379261.1782970620.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36880-1321379261.1766301083.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36880-1321379261.1782970620.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36880-1321379261.1766301083.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36880-1321379261.1782970620.jpg",
+                    "+@width": "425",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A36880-1321379261.1782970620.jpg",
+                    "+@width": "849",
+                    "+@height": "1200"
                 }
             ]
         },
@@ -52,7 +57,7 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026",
+            "+content": "2026-10",
             "+@gid": "3686270377",
             "+@type": "Vintage"
         },
@@ -64,19 +69,60 @@
             "+@href": "https://bclover.jp/"
         }
     ],
-    "news": {
-        "+content": "<cite>Black Clover</cite> Anime's 2nd Season Reveals 2026 Debut in Video (Updated)",
-        "+@datetime": "2025-12-21T07:06:58Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-12-21/black-clover-anime-2nd-season-reveals-2026-debut-in-video/.232340"
-    },
-    "staff": {
-        "+@gid": "804591573",
-        "task": "Original creator",
-        "person": {
-            "+content": "Yūki Tabata",
-            "+@id": "126506"
+    "news": [
+        {
+            "+content": "<cite>Black Clover</cite> Anime's 2nd Season Reveals 2026 Debut in Video (Updated)",
+            "+@datetime": "2025-12-21T07:06:58Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-21/black-clover-anime-2nd-season-reveals-2026-debut-in-video/.232340"
+        },
+        {
+            "+content": "<cite>Black Clover</cite> Anime Season 2 Unveils Director, October TV Debut",
+            "+@datetime": "2026-06-15T03:58:39Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-14/black-clover-anime-season-2-unveils-director-october-tv-debut/.238515"
         }
-    },
+    ],
+    "staff": [
+        {
+            "+@gid": "2656562353",
+            "task": "Director",
+            "person": {
+                "+content": "Ayataka Tanemura",
+                "+@id": "101674"
+            }
+        },
+        {
+            "+@gid": "1654702027",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Keiichirō Ōchi",
+                "+@id": "100904"
+            }
+        },
+        {
+            "+@gid": "3232949379",
+            "task": "Music",
+            "person": {
+                "+content": "Minako Seki",
+                "+@id": "120105"
+            }
+        },
+        {
+            "+@gid": "804591573",
+            "task": "Original creator",
+            "person": {
+                "+content": "Yūki Tabata",
+                "+@id": "126506"
+            }
+        },
+        {
+            "+@gid": "2748638229",
+            "task": "Character Design",
+            "person": {
+                "+content": "Itsuko Takeda",
+                "+@id": "4664"
+            }
+        }
+    ],
     "cast": [
         {
             "+@gid": "2309353554",
@@ -133,5 +179,6 @@
         }
     },
     "+@date-added": "2025-07-05T22:50:18Z",
-    "+@date-last-updated-at": "2026-06-03T05:18:15Z"
+    "+@date-last-modified-at": "2026-07-03T07:39:25Z",
+    "+@date-last-updated-at": "2026-07-03T07:39:25Z"
 }

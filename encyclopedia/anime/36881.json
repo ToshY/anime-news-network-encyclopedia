@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Daemons of the Shadow Realm",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-03T05:18:11Z",
+    "+@generated-on": "2026-07-03T07:39:21Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25181"
@@ -40,6 +40,12 @@
             "+@gid": "3318986771",
             "+@type": "Alternative title",
             "+@lang": "ES"
+        },
+        {
+            "+content": "Kontraduety z zaświatów",
+            "+@gid": "2275173294",
+            "+@type": "Alternative title",
+            "+@lang": "PL"
         },
         {
             "+content": "Yomi no Tsugai",
@@ -155,8 +161,18 @@
             "+@type": "Opening Theme"
         },
         {
+            "+content": "#2: \"back shot\" by Masanori Otoda",
+            "+@gid": "1668347865",
+            "+@type": "Opening Theme"
+        },
+        {
             "+content": "\"Tobō yo\" (Let's Fly) by yama",
             "+@gid": "1135243426",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#2: \"Kujaku\" (孔雀) by Kei Sugawara",
+            "+@gid": "2257046315",
             "+@type": "Ending Theme"
         },
         {
@@ -168,8 +184,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "7",
-        "+@weighted_score": "7.1905"
+        "+@nb_votes": "14",
+        "+@weighted_score": "6.5101",
+        "+@bayesian_score": "6.97232"
     },
     "episode": [
         {
@@ -243,6 +260,30 @@
                 "+@gid": "2601360995",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "Long-Arm and Long-Leg",
+                "+@gid": "1172600900",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "Big Brother and Little Brother",
+                "+@gid": "702791458",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Retainer and Shaman",
+                "+@gid": "366374901",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -310,6 +351,21 @@
             "+content": "<cite>Daemons of the Shadow Realm</cite> Anime Unveils Additional Cast Members",
             "+@datetime": "2026-05-31T09:02:50Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-05-31/daemons-of-the-shadow-realm-anime-unveils-additional-cast-members/.237987"
+        },
+        {
+            "+content": "Netflix India Adds <cite>Daemons of the Shadow Realm</cite> Anime",
+            "+@datetime": "2026-06-15T06:16:32Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-15/netflix-india-adds-daemons-of-the-shadow-realm-anime/.238490"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Summer 2026 Season",
+            "+@datetime": "2026-06-17T17:45:10Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-17/crunchyroll-announces-release-schedule-for-summer-2026-season/.238615"
+        },
+        {
+            "+content": "<cite>Daemons of the Shadow Realm</cite> Anime's New Video Announces Next Theme Songs",
+            "+@datetime": "2026-06-27T16:21:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-27/daemons-of-the-shadow-realm-anime-new-video-announces-next-theme-songs/.239028"
         }
     ],
     "staff": [
@@ -459,6 +515,15 @@
             }
         },
         {
+            "+@gid": "2375789751",
+            "+@lang": "EN",
+            "role": "Akio Kuroya",
+            "person": {
+                "+content": "Zac Loera",
+                "+@id": "165002"
+            }
+        },
+        {
             "+@gid": "2147039462",
             "+@lang": "EN",
             "role": "Right",
@@ -474,6 +539,15 @@
             "person": {
                 "+content": "Aaron Campbell",
                 "+@id": "170330"
+            }
+        },
+        {
+            "+@gid": "1969069660",
+            "+@lang": "EN",
+            "role": "Ken Tadera",
+            "person": {
+                "+content": "Cassie Ewulu",
+                "+@id": "178360"
             }
         },
         {
@@ -504,6 +578,15 @@
             }
         },
         {
+            "+@gid": "978294961",
+            "+@lang": "EN",
+            "role": "Natsuki Kuroya",
+            "person": {
+                "+content": "Kelsey Cruz",
+                "+@id": "258957"
+            }
+        },
+        {
             "+@gid": "2771619106",
             "+@lang": "EN",
             "role": "Gabriel",
@@ -528,6 +611,15 @@
             "person": {
                 "+content": "Meggie-Elise",
                 "+@id": "269465"
+            }
+        },
+        {
+            "+@gid": "1135369934",
+            "+@lang": "EN",
+            "role": "Fuyuki Kuroya",
+            "person": {
+                "+content": "Peyton Howard",
+                "+@id": "289679"
             }
         },
         {
@@ -573,6 +665,15 @@
             "person": {
                 "+content": "Guillermo Genovés",
                 "+@id": "145502"
+            }
+        },
+        {
+            "+@gid": "2567648202",
+            "+@lang": "ES",
+            "role": "Dera",
+            "person": {
+                "+content": "Aram Delhom",
+                "+@id": "163122"
             }
         },
         {
@@ -729,6 +830,24 @@
             }
         },
         {
+            "+@gid": "2232603260",
+            "+@lang": "FR",
+            "role": "Hikaru Kagemori",
+            "person": {
+                "+content": "Yves Letzelter",
+                "+@id": "216361"
+            }
+        },
+        {
+            "+@gid": "1315589712",
+            "+@lang": "IT",
+            "role": "Hikaru Kagemori",
+            "person": {
+                "+content": "Paolo Vivio",
+                "+@id": "26370"
+            }
+        },
+        {
             "+@gid": "4086079100",
             "+@lang": "IT",
             "role": "Iva Yosano",
@@ -825,6 +944,15 @@
             "person": {
                 "+content": "Stefano Starna",
                 "+@id": "168269"
+            }
+        },
+        {
+            "+@gid": "4088709200",
+            "+@lang": "IT",
+            "role": "Gonzo Kagemori",
+            "person": {
+                "+content": "Stefano Bianchini",
+                "+@id": "198060"
             }
         },
         {
@@ -954,6 +1082,15 @@
             }
         },
         {
+            "+@gid": "3143917904",
+            "+@lang": "JA",
+            "role": "Ken Tadera",
+            "person": {
+                "+content": "Natsumi Fujiwara",
+                "+@id": "109744"
+            }
+        },
+        {
             "+@gid": "1778648795",
             "+@lang": "JA",
             "role": "Gabriel",
@@ -1008,6 +1145,6 @@
         }
     },
     "+@date-added": "2025-07-05T23:01:09Z",
-    "+@date-last-modified-at": "2026-06-03T05:18:15Z",
-    "+@date-last-updated-at": "2026-06-03T05:18:15Z"
+    "+@date-last-modified-at": "2026-07-03T07:39:25Z",
+    "+@date-last-updated-at": "2026-07-03T07:39:25Z"
 }
