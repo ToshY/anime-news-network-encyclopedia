@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Lycoris Recoil",
     "+@precision": "manga",
-    "+@generated-on": "2026-06-03T19:58:08Z",
+    "+@generated-on": "2026-07-03T21:32:54Z",
     "related-prev": [
         {
             "+@rel": "serialized in",
@@ -15,10 +15,16 @@
             "+@id": "25104"
         }
     ],
-    "related-next": {
-        "+@id": "34616",
-        "+@rel": "spinoff"
-    },
+    "related-next": [
+        {
+            "+@id": "34616",
+            "+@rel": "spinoff"
+        },
+        {
+            "+@id": "39975",
+            "+@rel": "spinoff"
+        }
+    ],
     "info": [
         {
             "+@gid": "1815662369",
@@ -129,6 +135,11 @@
             "+content": "North American Anime, Manga Releases, October 26-November 1",
             "+@datetime": "2025-10-30T21:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-10-30/north-american-anime-manga-releases-october-26-november-1/.230379"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, June 21-27",
+            "+@datetime": "2026-06-26T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-26/north-american-anime-manga-releases-june-21-27/.238814"
         }
     ],
     "staff": {
@@ -140,5 +151,6 @@
         }
     },
     "+@date-added": "2024-10-29T14:59:46Z",
-    "+@date-last-updated-at": "2026-06-03T19:58:09Z"
+    "+@date-last-modified-at": "2026-07-03T21:32:55Z",
+    "+@date-last-updated-at": "2026-07-03T21:32:55Z"
 }
