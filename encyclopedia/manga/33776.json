@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Kamudo",
     "+@precision": "manga",
-    "+@generated-on": "2026-06-04T11:25:46Z",
+    "+@generated-on": "2026-07-04T13:59:33Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "31108"
@@ -69,11 +69,18 @@
         "+@nb_votes": "1",
         "+@weighted_score": "5"
     },
-    "release": {
-        "+content": "Kamudo (GN 1)",
-        "+@date": "2025-10-07",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=55192"
-    },
+    "release": [
+        {
+            "+content": "Kamudo (GN 1)",
+            "+@date": "2025-10-07",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=55192"
+        },
+        {
+            "+content": "Kamudo (GN 2)",
+            "+@date": "2026-06-09",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=58969"
+        }
+    ],
     "news": [
         {
             "+content": "<i>Zelda's</i> Akira Himekawa Reveal <i>Kamdo</i> Fantasy Manga Set in Ancient Japan",
@@ -99,6 +106,11 @@
             "+content": "New York Comic Con Hosts <cite>Kamudo</cite>, <cite>Legend of Zelda</cite> Manga Authors Akira Himekawa",
             "+@datetime": "2025-10-09T18:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-10-09/new-york-comic-con-hosts-kamudo-legend-of-zelda-manga-authors-akira-himekawa/.229784"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, June 7-13",
+            "+@datetime": "2026-06-12T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-12/north-american-anime-manga-releases-june-7-13/.238295"
         }
     ],
     "staff": {
@@ -110,5 +122,6 @@
         }
     },
     "+@date-added": "2024-10-19T16:29:08Z",
-    "+@date-last-updated-at": "2026-06-04T11:25:49Z"
+    "+@date-last-modified-at": "2026-07-04T13:59:35Z",
+    "+@date-last-updated-at": "2026-07-04T13:59:35Z"
 }

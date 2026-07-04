@@ -2,9 +2,13 @@
     "+@id": "33712",
     "+@gid": "2314684535",
     "+@type": "manga",
-    "+@name": "Nihon no Kyoudai",
+    "+@name": "Brothers of Japan",
     "+@precision": "manga",
-    "+@generated-on": "2026-06-04T11:25:48Z",
+    "+@generated-on": "2026-07-04T13:59:34Z",
+    "related-prev": {
+        "+@rel": "related to",
+        "+@id": "5434"
+    },
     "info": [
         {
             "+@gid": "1280974393",
@@ -31,16 +35,22 @@
             ]
         },
         {
-            "+content": "Nihon no Kyoudai",
-            "+@gid": "2643974645",
+            "+content": "Brothers of Japan",
+            "+@gid": "358263855",
             "+@type": "Main title",
-            "+@lang": "JA"
+            "+@lang": "EN"
         },
         {
             "+content": "Frères du Japon",
             "+@gid": "1254202279",
             "+@type": "Alternative title",
             "+@lang": "FR"
+        },
+        {
+            "+content": "Nihon no Kyoudai",
+            "+@gid": "2643974645",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
         },
         {
             "+content": "日本の兄弟",
@@ -52,6 +62,11 @@
             "+content": "drama",
             "+@gid": "2541435107",
             "+@type": "Genres"
+        },
+        {
+            "+content": "1994-06 to 1995-08 (serialized in Comic Are!, Jul 1994 - Sep 1995)",
+            "+@gid": "1137002906",
+            "+@type": "Vintage"
         }
     ],
     "news": {
@@ -68,6 +83,6 @@
         }
     },
     "+@date-added": "2024-10-12T00:55:47Z",
-    "+@date-last-modified-at": "2026-06-04T11:25:49Z",
-    "+@date-last-updated-at": "2026-06-04T11:25:49Z"
+    "+@date-last-modified-at": "2026-07-04T13:59:35Z",
+    "+@date-last-updated-at": "2026-07-04T13:59:35Z"
 }
