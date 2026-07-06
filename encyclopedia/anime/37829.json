@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "BanG Dream! Yume∞Mita",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-06T17:35:21Z",
+    "+@generated-on": "2026-07-06T17:39:45Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "18693"
@@ -14,9 +14,25 @@
             "+@gid": "2596928076",
             "+@type": "Picture",
             "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37829-2596928076.1777875332.jpg",
-            "img": {
-                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37829-2596928076.1777875332.jpg"
-            }
+            "+@width": "149",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37829-2596928076.1777875332.jpg",
+                    "+@width": "149",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37829-2596928076.1777875332.jpg",
+                    "+@width": "448",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37829-2596928076.1777875332.jpg",
+                    "+@width": "637",
+                    "+@height": "853"
+                }
+            ]
         },
         {
             "+content": "BanG Dream! Yume∞Mita",
@@ -31,9 +47,24 @@
             "+@lang": "JA"
         },
         {
+            "+content": "music",
+            "+@gid": "2688140509",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "The series focuses on the all-girl virtual band Mugendai Mewtype, aka \"Yumemita\", a group whose common destiny transcends virtual dreams and concrete reality.",
+            "+@gid": "3470643580",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "2026-07-02",
             "+@gid": "1222239365",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Kore wa Boku-tachi no Seizon no Arasuji\" (これはぼくたちの生存のあらすじ; Our Survival) by Mugendai Mewtype",
+            "+@gid": "1427564446",
+            "+@type": "Opening Theme"
         },
         {
             "+content": "TVアニメ「バンドリ！ ゆめ∞みた」公式サイト",
@@ -58,6 +89,16 @@
             "+content": "<cite>BanG Dream! Yume∞Mita</cite> Anime Reveals July 2 Debut",
             "+@datetime": "2026-05-04T08:51:24Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-05-04/bang-dream-yume-mita-anime-reveals-july-2-debut/.237060"
+        },
+        {
+            "+content": "<cite>BanG Dream! Yume∞Mita</cite> Anime's 2nd Promo Video Unveils Opening Song",
+            "+@datetime": "2026-06-21T13:55:40Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-21/bang-dream-yume-mita-anime-2nd-promo-video-unveils-opening-song/.238766"
+        },
+        {
+            "+content": "Crunchyroll to Stream <cite>One Piece Heroines</cite>, <cite>BanG Dream! Yume∞Mita</cite>, <cite>The Frontier Lord Begins with Zero Subjects</cite>, More Anime",
+            "+@datetime": "2026-06-30T16:03:25Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-30/crunchyroll-to-stream-one-piece-heroines-bang-dream-yume-mita-the-frontier-lord-begins-with-zero-/.239144"
         }
     ],
     "staff": [
@@ -174,6 +215,35 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "2779130099",
+            "+@lang": "JA",
+            "role": "Viola",
+            "person": {
+                "+content": "Kaede Hondo",
+                "+@id": "140600"
+            }
+        },
+        {
+            "+@gid": "3954928781",
+            "+@lang": "JA",
+            "role": "Bell",
+            "person": {
+                "+content": "Wakana Maruoka",
+                "+@id": "183784"
+            }
+        },
+        {
+            "+@gid": "2478834835",
+            "+@lang": "JA",
+            "role": "Popo",
+            "person": {
+                "+content": "Yui Tsukada",
+                "+@id": "192424"
+            }
+        }
+    ],
     "credit": [
         {
             "+@gid": "1870894350",
@@ -225,6 +295,6 @@
         }
     ],
     "+@date-added": "2025-09-07T20:26:48Z",
-    "+@date-last-modified-at": "2026-06-06T17:35:30Z",
-    "+@date-last-updated-at": "2026-06-06T17:35:30Z"
+    "+@date-last-modified-at": "2026-07-06T18:21:16Z",
+    "+@date-last-updated-at": "2026-07-06T18:21:16Z"
 }

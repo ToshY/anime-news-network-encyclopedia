@@ -2,9 +2,9 @@
     "+@id": "36957",
     "+@gid": "1755828831",
     "+@type": "TV",
-    "+@name": "Unmei no Makimodo Shi - Fate Rewinder",
+    "+@name": "Fate Rewinder",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-06T17:35:22Z",
+    "+@generated-on": "2026-07-06T17:41:43Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25222"
@@ -30,9 +30,15 @@
             ]
         },
         {
+            "+content": "Fate Rewinder",
+            "+@gid": "2077983741",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Unmei no Makimodo Shi - Fate Rewinder",
             "+@gid": "1256038730",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -47,6 +53,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "2027-04",
+            "+@gid": "1538582735",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ『運命の巻戻士』公式サイト",
             "+@gid": "1568348222",
             "+@type": "Official website",
@@ -54,11 +65,23 @@
             "+@href": "https://makimodosi.com/"
         }
     ],
-    "news": {
-        "+content": "Fūta Kimura's <cite>Unmei no Makimodo Shi - All Great Achievements Require Time</cite> Manga Gets TV Anime",
-        "+@datetime": "2025-07-10T10:14:59Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-07-10/futa-kimura-unmei-no-makimodo-shi-all-great-achievements-require-time-manga-gets-tv-anime/.226519"
-    },
+    "news": [
+        {
+            "+content": "Fūta Kimura's <cite>Unmei no Makimodo Shi - All Great Achievements Require Time</cite> Manga Gets TV Anime",
+            "+@datetime": "2025-07-10T10:14:59Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-10/futa-kimura-unmei-no-makimodo-shi-all-great-achievements-require-time-manga-gets-tv-anime/.226519"
+        },
+        {
+            "+content": "Crunchyroll to Stream <cite>Fate Rewinder</cite>, <cite>Overgeared</cite>, <cite>The Guy She Was Interested In Wasn't a Guy at All</cite>, More Anime (Updated)",
+            "+@datetime": "2026-07-03T21:59:21Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-03/crunchyroll-to-stream-fate-rewinder-overgeared-the-guy-she-was-interested-in-wasnt-a-guy-at-all-/.239266"
+        },
+        {
+            "+content": "<cite>Fate Rewinder</cite> Anime's Teaser Reveals Cast, Staff, April 2027 Debut",
+            "+@datetime": "2026-07-04T02:30:43Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-03/fate-rewinder-anime-teaser-reveals-cast-staff-april-2027-debut/.239274"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3043157077",
@@ -69,11 +92,73 @@
             }
         },
         {
+            "+@gid": "3183607907",
+            "task": "Script",
+            "person": {
+                "+content": "Kimiko Ueno",
+                "+@id": "83183"
+            }
+        },
+        {
+            "+@gid": "1606338907",
+            "task": "Music",
+            "person": {
+                "+content": "Satoshi Murai",
+                "+@id": "207052"
+            }
+        },
+        {
             "+@gid": "2783216396",
             "task": "Original creator",
             "person": {
                 "+content": "Fūta Kimura",
                 "+@id": "219839"
+            }
+        },
+        {
+            "+@gid": "1110907240",
+            "task": "Character Design",
+            "person": {
+                "+content": "Toshihiro Kawamoto",
+                "+@id": "96"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2017497494",
+            "+@lang": "JA",
+            "role": "Shirai",
+            "person": {
+                "+content": "Kōki Uchiyama",
+                "+@id": "56091"
+            }
+        },
+        {
+            "+@gid": "1788370974",
+            "+@lang": "JA",
+            "role": "Lemon",
+            "person": {
+                "+content": "Reina Ueda",
+                "+@id": "116390"
+            }
+        },
+        {
+            "+@gid": "2889344575",
+            "+@lang": "JA",
+            "role": "Akaba",
+            "person": {
+                "+content": "Kōhei Amasaki",
+                "+@id": "131781"
+            }
+        },
+        {
+            "+@gid": "1482375406",
+            "+@lang": "JA",
+            "role": "Chrono",
+            "person": {
+                "+content": "Shō Komura",
+                "+@id": "270069"
             }
         }
     ],
@@ -96,5 +181,6 @@
         }
     ],
     "+@date-added": "2025-07-10T09:08:52Z",
-    "+@date-last-updated-at": "2026-06-06T17:35:30Z"
+    "+@date-last-modified-at": "2026-07-06T18:21:16Z",
+    "+@date-last-updated-at": "2026-07-06T18:21:16Z"
 }
