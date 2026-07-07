@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "One Piece Heroines",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-07T10:19:00Z",
+    "+@generated-on": "2026-07-07T11:19:12Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "33747"
@@ -14,9 +14,25 @@
             "+@gid": "2731475633",
             "+@type": "Picture",
             "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37416-2731475633.1770334763.jpg",
-            "img": {
-                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37416-2731475633.1770334763.jpg"
-            }
+            "+@width": "200",
+            "+@height": "141",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37416-2731475633.1770334763.jpg",
+                    "+@width": "200",
+                    "+@height": "141"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37416-2731475633.1770334763.jpg",
+                    "+@width": "500",
+                    "+@height": "353"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37416-2731475633.1770334763.jpg",
+                    "+@width": "600",
+                    "+@height": "424"
+                }
+            ]
         },
         {
             "+content": "One Piece Heroines",
@@ -25,7 +41,8 @@
             "+@lang": "EN"
         },
         {
-            "+content": "All hail the heroines. The girls of One Piece take the helm in this collection of prose short stories. Join Nami, Robin, Vivi and Perona as they each star in exciting adventures of their own. Nami proves that the shoe must fit for the show to go on, Robin decodes a stone tablet to help Koala and the Revolutionary Army, Vivi gets to the bottom of a mysterious love letter setting the kingdom abuzz, and Perona fights Mihawk for the right to turn a barrel of booze into a sweet treat. <em class=de-emphasized>(from manga)</em>",
+            "+content": "All hail the heroines. The girls of One Piece take the helm in this collection of prose short stories. Join Nami, Robin, Vivi and Perona as they each star in exciting adventures of their own. Nami proves that the shoe must fit for the show to go on, Robin decodes a stone tablet to help Koala and the Revolutionary Army, Vivi gets to the bottom of a mysterious love letter setting the kingdom abuzz, and Perona fights Mihawk for the right to turn a barrel of booze into a sweet treat.",
+            "+@gid": "2544181628",
             "+@type": "Plot Summary"
         },
         {
@@ -34,6 +51,10 @@
             "+@type": "Vintage"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "6"
+    },
     "news": [
         {
             "+content": "<cite>One Piece: Heroines</cite> Anime Debuts on July 5",
@@ -44,6 +65,21 @@
             "+content": "<cite>One Piece Heroines</cite> Anime Reveals Promo Video, More Cast",
             "+@datetime": "2026-03-28T10:52:57Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-03-28/one-piece-heroines-anime-reveals-promo-video-more-cast/.235868"
+        },
+        {
+            "+content": "<cite>One Piece Heroines</cite> Anime's Trailer Unveils Aina the End's Theme Song",
+            "+@datetime": "2026-06-23T01:00:45Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-22/one-piece-heroines-anime-trailer-unveils-aina-the-end-theme-song/.238820"
+        },
+        {
+            "+content": "Crunchyroll to Stream <cite>One Piece Heroines</cite>, <cite>BanG Dream! Yume∞Mita</cite>, <cite>The Frontier Lord Begins with Zero Subjects</cite>, More Anime",
+            "+@datetime": "2026-06-30T16:03:25Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-30/crunchyroll-to-stream-one-piece-heroines-bang-dream-yume-mita-the-frontier-lord-begins-with-zero-/.239144"
+        },
+        {
+            "+content": "Crunchyroll India Streams <cite>'Draw This, Then Die!'</cite>, <cite>Recommendation from Mr. Iwamoto</cite>, More Anime",
+            "+@datetime": "2026-07-04T05:54:30Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-04/crunchyroll-india-streams-draw-this-then-die-recommendation-from-mr-iwamoto-more-anime/.239257"
         }
     ],
     "staff": [
@@ -114,9 +150,27 @@
                 "+content": "Takehito Koyasu",
                 "+@id": "662"
             }
+        },
+        {
+            "+@gid": "3381366521",
+            "+@lang": "JA",
+            "role": "Robin",
+            "person": {
+                "+content": "Yuriko Yamaguchi",
+                "+@id": "1072"
+            }
+        },
+        {
+            "+@gid": "2151687873",
+            "+@lang": "JA",
+            "role": "Nami",
+            "person": {
+                "+content": "Akemi Okamura",
+                "+@id": "1676"
+            }
         }
     ],
     "+@date-added": "2025-08-10T05:28:30Z",
-    "+@date-last-modified-at": "2026-06-07T10:36:25Z",
-    "+@date-last-updated-at": "2026-06-07T10:36:25Z"
+    "+@date-last-modified-at": "2026-07-07T11:19:16Z",
+    "+@date-last-updated-at": "2026-07-07T11:19:16Z"
 }
