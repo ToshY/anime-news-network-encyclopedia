@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Hell Girl: Fourth Twilight",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-07T17:41:11Z",
+    "+@generated-on": "2026-07-07T21:42:05Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "9678"
@@ -132,8 +132,8 @@
     ],
     "ratings": {
         "+@nb_votes": "74",
-        "+@weighted_score": "5.8869",
-        "+@bayesian_score": "6.10788"
+        "+@weighted_score": "5.8867",
+        "+@bayesian_score": "6.1076"
     },
     "episode": [
         {
@@ -429,6 +429,14 @@
             }
         },
         {
+            "+@gid": "2663302678",
+            "task": "Original Concept",
+            "person": {
+                "+content": "Hiroshi Watanabe",
+                "+@id": "257"
+            }
+        },
+        {
             "+@gid": "2259306259",
             "task": "Character Design",
             "person": {
@@ -571,6 +579,30 @@
                 "+content": "Sachi Itō",
                 "+@id": "162122"
             }
+        },
+        {
+            "+@gid": "1771726313",
+            "task": "Producer",
+            "person": {
+                "+content": "Kazuki Adachi",
+                "+@id": "111174"
+            }
+        },
+        {
+            "+@gid": "1950412411",
+            "task": "Producer",
+            "person": {
+                "+content": "Takanori Yamayoshi",
+                "+@id": "299085"
+            }
+        },
+        {
+            "+@gid": "1682573551",
+            "task": "Producer",
+            "person": {
+                "+content": "Yoshihisa Shiotani",
+                "+@id": "299120"
+            }
         }
     ],
     "cast": [
@@ -647,15 +679,41 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "3604868692",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Studio DEEN",
-            "+@id": "35"
+    "credit": [
+        {
+            "+@gid": "3604868692",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Studio DEEN",
+                "+@id": "35"
+            }
+        },
+        {
+            "+@gid": "3033950105",
+            "task": "Production",
+            "company": {
+                "+content": "Aniplex",
+                "+@id": "1257"
+            }
+        },
+        {
+            "+@gid": "2280907504",
+            "task": "Production",
+            "company": {
+                "+content": "Tokyo MX",
+                "+@id": "13028"
+            }
+        },
+        {
+            "+@gid": "2101435424",
+            "task": "Production",
+            "company": {
+                "+content": "Fujishoji",
+                "+@id": "26654"
+            }
         }
-    },
+    ],
     "+@date-added": "2017-03-31T23:18:19Z",
-    "+@date-last-modified-at": "2026-06-07T17:41:17Z",
-    "+@date-last-updated-at": "2026-06-07T17:41:17Z"
+    "+@date-last-modified-at": "2026-07-07T21:42:11Z",
+    "+@date-last-updated-at": "2026-07-07T21:42:11Z"
 }
