@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Mr. Osomatsu",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-06-07T14:21:03Z",
+    "+@generated-on": "2026-07-07T18:21:05Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "17323"
@@ -138,7 +138,7 @@
     "ratings": {
         "+@nb_votes": "51",
         "+@weighted_score": "7.384",
-        "+@bayesian_score": "7.4005"
+        "+@bayesian_score": "7.40034"
     },
     "episode": [
         {
@@ -1156,12 +1156,39 @@
     ],
     "cast": [
         {
+            "+@gid": "2424264298",
+            "+@lang": "EN",
+            "role": "Jyushimatsu Matsuno",
+            "person": {
+                "+content": "Michael Sinterniklaas",
+                "+@id": "2555"
+            }
+        },
+        {
+            "+@gid": "2308320585",
+            "+@lang": "EN",
+            "role": "Choromatsu Matsuno",
+            "person": {
+                "+content": "Sean Chiplock",
+                "+@id": "119800"
+            }
+        },
+        {
             "+@gid": "1416420555",
             "+@lang": "EN",
             "role": "Karamatsu Matsuno",
             "person": {
                 "+content": "Ray Chase",
                 "+@id": "126711"
+            }
+        },
+        {
+            "+@gid": "958911992",
+            "+@lang": "EN",
+            "role": "Todomatsu Matsuno",
+            "person": {
+                "+content": "Max Mittelman",
+                "+@id": "131942"
             }
         },
         {
@@ -1328,6 +1355,6 @@
         }
     ],
     "+@date-added": "2017-06-07T01:08:31Z",
-    "+@date-last-modified-at": "2026-06-07T14:21:11Z",
-    "+@date-last-updated-at": "2026-06-07T14:21:11Z"
+    "+@date-last-modified-at": "2026-07-07T18:21:11Z",
+    "+@date-last-updated-at": "2026-07-07T18:21:11Z"
 }
