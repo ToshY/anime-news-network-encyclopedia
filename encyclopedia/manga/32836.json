@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "OMORI",
     "+@precision": "manga",
-    "+@generated-on": "2026-06-08T12:41:59Z",
+    "+@generated-on": "2026-07-08T14:41:41Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "4665"
@@ -60,11 +60,18 @@
         "+@nb_votes": "1",
         "+@weighted_score": "4"
     },
-    "release": {
-        "+content": "OMORI  (GN 1)",
-        "+@date": "2026-03-17",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57447"
-    },
+    "release": [
+        {
+            "+content": "OMORI  (GN 1)",
+            "+@date": "2026-03-17",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57447"
+        },
+        {
+            "+content": "OMORI  (GN 2)",
+            "+@date": "2026-06-09",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=58910"
+        }
+    ],
     "news": [
         {
             "+content": "Omocat's <cite>Omori</cite> RPG Gets Manga Adaptation",
@@ -80,6 +87,16 @@
             "+content": "North American Anime, Manga Releases, March 15-21",
             "+@datetime": "2026-03-20T21:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-03-20/north-american-anime-manga-releases-march-15-21/.235374"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, June 7-13",
+            "+@datetime": "2026-06-12T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-12/north-american-anime-manga-releases-june-7-13/.238295"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, June 21-27",
+            "+@datetime": "2026-06-26T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-26/north-american-anime-manga-releases-june-21-27/.238814"
         }
     ],
     "staff": [
@@ -101,5 +118,6 @@
         }
     ],
     "+@date-added": "2024-06-24T18:15:55Z",
-    "+@date-last-updated-at": "2026-06-08T12:42:01Z"
+    "+@date-last-modified-at": "2026-07-08T14:41:43Z",
+    "+@date-last-updated-at": "2026-07-08T14:41:43Z"
 }
