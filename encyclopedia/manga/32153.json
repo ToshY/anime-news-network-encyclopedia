@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "My Darling Devilish Daughter",
     "+@precision": "manga",
-    "+@generated-on": "2026-06-11T04:59:42Z",
+    "+@generated-on": "2026-07-11T09:49:10Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "1364"
@@ -67,11 +67,18 @@
         "+@nb_votes": "1",
         "+@weighted_score": "4"
     },
-    "release": {
-        "+content": "My Darling Devilish Daughter (GN 1)",
-        "+@date": "2026-04-21",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57967"
-    },
+    "release": [
+        {
+            "+content": "My Darling Devilish Daughter (GN 1)",
+            "+@date": "2026-04-21",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57967"
+        },
+        {
+            "+content": "My Darling Devilish Daughter (GN 2)",
+            "+@date": "2026-06-23",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=59234"
+        }
+    ],
     "news": [
         {
             "+content": "Makoto Ojiro, Sankaku Head Each Launch New Manga in February",
@@ -87,6 +94,11 @@
             "+content": "North American Anime, Manga Releases, April 19-25",
             "+@datetime": "2026-04-24T21:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-24/north-american-anime-manga-releases-april-19-25/.236602"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, June 21-27",
+            "+@datetime": "2026-06-26T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-26/north-american-anime-manga-releases-june-21-27/.238814"
         }
     ],
     "staff": {
@@ -98,5 +110,6 @@
         }
     },
     "+@date-added": "2024-02-19T15:52:49Z",
-    "+@date-last-updated-at": "2026-06-11T04:59:44Z"
+    "+@date-last-modified-at": "2026-07-11T09:49:12Z",
+    "+@date-last-updated-at": "2026-07-11T09:49:12Z"
 }
