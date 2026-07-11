@@ -4,7 +4,11 @@
     "+@type": "manga",
     "+@name": "Twilight Blade",
     "+@precision": "manga",
-    "+@generated-on": "2026-06-11T04:59:39Z",
+    "+@generated-on": "2026-07-11T06:27:28Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "20219"
+    },
     "info": [
         {
             "+content": "Twilight Blade",
@@ -19,6 +23,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "あわいの焔刃",
+            "+@gid": "1220572985",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
             "+content": "action",
             "+@gid": "3780734405",
             "+@type": "Genres"
@@ -27,6 +37,18 @@
             "+content": "supernatural",
             "+@gid": "599862245",
             "+@type": "Genres"
+        },
+        {
+            "+content": "2026-06-10 (serialized on Shonen Jump+)",
+            "+@gid": "1682391790",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "[第1話]あわいの焔刃 - 丸梅千代子/溶五郎 | 少年ジャンプ＋",
+            "+@gid": "275439006",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://shonenjumpplus.com/episode/9253191254350319417"
         }
     ],
     "news": {
@@ -53,5 +75,6 @@
         }
     ],
     "+@date-added": "2026-06-10T11:09:43Z",
-    "+@date-last-updated-at": "2026-06-11T04:59:41Z"
+    "+@date-last-modified-at": "2026-07-11T06:27:30Z",
+    "+@date-last-updated-at": "2026-07-11T06:27:30Z"
 }

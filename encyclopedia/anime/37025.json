@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "MAO",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-11T04:59:38Z",
+    "+@generated-on": "2026-07-11T06:10:44Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24598"
@@ -116,13 +116,23 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "\"HEARTLOUD\" by Kis-My-Ft2",
+            "+content": "#1: \"HEARTLOUD\" by Kis-My-Ft2",
             "+@gid": "2127497694",
             "+@type": "Opening Theme"
         },
         {
-            "+content": "\"Juai\" (呪愛) by TRUE",
+            "+content": "#2: \"Bokura ga Uwagaki suru Sekai\" (僕らが上書きする世界) by 20th Century",
+            "+@gid": "2573312526",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "#1: \"Juai\" (呪愛) by TRUE",
             "+@gid": "969983367",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#2: \"Tayutau\" (揺蕩う) by Reina Ueda",
+            "+@gid": "1596257564",
             "+@type": "Ending Theme"
         },
         {
@@ -134,8 +144,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "6.6356"
+        "+@nb_votes": "8",
+        "+@weighted_score": "5.734"
     },
     "news": [
         {
@@ -162,6 +172,26 @@
             "+content": "Astra Awards Nominate <cite>Witch Hat Atelier</cite>, <cite>Dandelion</cite>, <cite>Sakamoto Days</cite>, <cite>JoJo Part 7</cite>, <cite>MAO</cite>, <cite>Rooster Fighter</cite> for Best Anime",
             "+@datetime": "2026-05-28T09:30:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-05-28/astra-awards-nominate-witch-hat-atelier-dandelion-sakamoto-days-jojo-part-7-mao-rooster-fighter-for-/.237895"
+        },
+        {
+            "+content": "<cite>MAO</cite> Anime Announces 2nd Part Opening Song by Boy Group 20th Century",
+            "+@datetime": "2026-06-18T12:29:22Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-18/mao-anime-announces-2nd-part-opening-song-by-boy-group-20th-century/.238666"
+        },
+        {
+            "+content": "<cite>MAO</cite> Anime Announces More Cast for 2nd Part",
+            "+@datetime": "2026-06-26T03:39:40Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-25/mao-anime-announces-more-cast-for-2nd-part/.238961"
+        },
+        {
+            "+content": "<cite>MAO</cite> Anime Previews 2nd Part, New Theme Songs in Video",
+            "+@datetime": "2026-06-27T16:45:30Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-27/mao-anime-previews-2nd-part-new-theme-songs-in-video/.239029"
+        },
+        {
+            "+content": "<cite>MAO</cite> Anime's English Dub Debuts on August 24",
+            "+@datetime": "2026-07-05T00:43:35Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-04/mao-anime-english-dub-debuts-on-august-24/.239305"
         }
     ],
     "staff": [
@@ -337,6 +367,24 @@
             }
         },
         {
+            "+@gid": "1652257231",
+            "+@lang": "JA",
+            "role": "Daigo",
+            "person": {
+                "+content": "Katsuyuki Konishi",
+                "+@id": "780"
+            }
+        },
+        {
+            "+@gid": "752479697",
+            "+@lang": "JA",
+            "role": "Natsuno",
+            "person": {
+                "+content": "Rie Kugimiya",
+                "+@id": "808"
+            }
+        },
+        {
             "+@gid": "592694670",
             "+@lang": "JA",
             "role": "Byōki",
@@ -400,6 +448,15 @@
             }
         },
         {
+            "+@gid": "3676109632",
+            "+@lang": "JA",
+            "role": "Hakubi",
+            "person": {
+                "+content": "Takuya Satō",
+                "+@id": "70856"
+            }
+        },
+        {
             "+@gid": "2013981485",
             "+@lang": "JA",
             "role": "Yurako",
@@ -409,12 +466,30 @@
             }
         },
         {
+            "+@gid": "1571134078",
+            "+@lang": "JA",
+            "role": "Kagari Hosho",
+            "person": {
+                "+content": "Shino Shimoji",
+                "+@id": "123672"
+            }
+        },
+        {
             "+@gid": "3006081441",
             "+@lang": "JA",
             "role": "Nanoka Kiba",
             "person": {
                 "+content": "Natsumi Kawaida",
                 "+@id": "155490"
+            }
+        },
+        {
+            "+@gid": "607733899",
+            "+@lang": "JA",
+            "role": "Soma Kagami",
+            "person": {
+                "+content": "Tasuku Kaito",
+                "+@id": "211447"
             }
         },
         {
@@ -478,6 +553,6 @@
         }
     ],
     "+@date-added": "2025-07-14T18:54:33Z",
-    "+@date-last-modified-at": "2026-06-11T04:59:45Z",
-    "+@date-last-updated-at": "2026-06-11T04:59:45Z"
+    "+@date-last-modified-at": "2026-07-11T06:27:17Z",
+    "+@date-last-updated-at": "2026-07-11T06:27:17Z"
 }
