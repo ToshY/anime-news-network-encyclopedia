@@ -4,7 +4,11 @@
     "+@type": "manga",
     "+@name": "Scabiosa",
     "+@precision": "manga",
-    "+@generated-on": "2026-05-10T17:14:08Z",
+    "+@generated-on": "2026-07-12T10:03:07Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "38870"
+    },
     "info": [
         {
             "+@gid": "2666082753",
@@ -59,11 +63,18 @@
         "+@nb_votes": "1",
         "+@weighted_score": "4"
     },
-    "news": {
-        "+content": "Kurumi Mizuki's <cite>Scabiosa</cite> Manga Ends",
-        "+@datetime": "2023-11-03T04:24:29Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2023-11-03/kurumi-mizuki-scabiosa-manga-ends/.203946"
-    },
+    "news": [
+        {
+            "+content": "Manga Planet Licenses <cite>Inside God's Arms - A Room Filled With Love</cite>, More Manga",
+            "+@datetime": "2023-04-02T11:05:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2023-04-02/manga-planet-licenses-inside-god-arms-a-room-filled-with-love-more-manga/.196679"
+        },
+        {
+            "+content": "Kurumi Mizuki's <cite>Scabiosa</cite> Manga Ends",
+            "+@datetime": "2023-11-03T04:24:29Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2023-11-03/kurumi-mizuki-scabiosa-manga-ends/.203946"
+        }
+    ],
     "staff": {
         "+@gid": "1285592448",
         "task": "Story & Art",
@@ -73,5 +84,6 @@
         }
     },
     "+@date-added": "2023-10-31T09:10:20Z",
-    "+@date-last-updated-at": "2026-05-10T17:14:09Z"
+    "+@date-last-modified-at": "2026-07-12T10:03:08Z",
+    "+@date-last-updated-at": "2026-07-12T10:03:08Z"
 }
