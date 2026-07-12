@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Needy Girl Overdose",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-12T15:41:51Z",
+    "+@generated-on": "2026-07-12T17:18:53Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "29738"
@@ -108,8 +108,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "1.0824"
+        "+@nb_votes": "21",
+        "+@weighted_score": "5.8781",
+        "+@bayesian_score": "6.45686"
     },
     "news": [
         {
@@ -308,12 +309,30 @@
             }
         },
         {
+            "+@gid": "1990130142",
+            "+@lang": "EN",
+            "role": "OMGkawaiiAngel/Ame",
+            "person": {
+                "+content": "Sally Amaki",
+                "+@id": "178713"
+            }
+        },
+        {
             "+@gid": "1310989289",
             "+@lang": "EN",
             "role": "Michica Gokubara",
             "person": {
                 "+content": "Allison Hill",
                 "+@id": "296191"
+            }
+        },
+        {
+            "+@gid": "1340615303",
+            "+@lang": "JA",
+            "role": "OMGkawaiiAngel/Ame",
+            "person": {
+                "+content": "Sally Amaki",
+                "+@id": "178713"
             }
         },
         {
@@ -362,6 +381,6 @@
         }
     },
     "+@date-added": "2025-11-10T08:19:13Z",
-    "+@date-last-modified-at": "2026-06-12T15:42:00Z",
-    "+@date-last-updated-at": "2026-06-12T15:42:00Z"
+    "+@date-last-modified-at": "2026-07-12T17:19:02Z",
+    "+@date-last-updated-at": "2026-07-12T17:19:02Z"
 }

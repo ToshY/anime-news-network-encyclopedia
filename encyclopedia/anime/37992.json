@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Magic Repo Man",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-12T15:41:51Z",
+    "+@generated-on": "2026-07-12T17:18:53Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "37990"
@@ -59,11 +59,23 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026",
+            "+content": "2026-10",
             "+@gid": "1873713498",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ『貸した魔力は【リボ払い】で強制徴収』公式サイト",
+            "+@gid": "2276775525",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://revo-anime.com"
         }
     ],
+    "news": {
+        "+content": "<cite>Magic Repo Man</cite> Anime's Video Unveils Cast, More Staff, October TV Debut",
+        "+@datetime": "2026-06-17T03:04:35Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-06-16/magic-repo-man-anime-video-unveils-cast-more-staff-october-tv-debut/.238596"
+    },
     "staff": [
         {
             "+@gid": "2783626586",
@@ -79,6 +91,14 @@
             "person": {
                 "+content": "Ryūsuke Mori",
                 "+@id": "290720"
+            }
+        },
+        {
+            "+@gid": "1726194179",
+            "task": "Music",
+            "person": {
+                "+content": "Kō Ōtani",
+                "+@id": "3401"
             }
         },
         {
@@ -104,6 +124,77 @@
                 "+content": "Kazue Mori",
                 "+@id": "221879"
             }
+        },
+        {
+            "+@gid": "2578534599",
+            "task": "Art Director",
+            "person": {
+                "+content": "Kazuhiro Arai",
+                "+@id": "998"
+            }
+        },
+        {
+            "+@gid": "3347121556",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Keiko Urakami",
+                "+@id": "73910"
+            }
+        },
+        {
+            "+@gid": "1864678477",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yōhei Konishi",
+                "+@id": "52747"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2184125291",
+            "+@lang": "JA",
+            "role": "Elle",
+            "person": {
+                "+content": "Yū Kobayashi",
+                "+@id": "16095"
+            }
+        },
+        {
+            "+@gid": "2336971892",
+            "+@lang": "JA",
+            "role": "Empee",
+            "person": {
+                "+content": "Emiri Katō",
+                "+@id": "28606"
+            }
+        },
+        {
+            "+@gid": "1891798070",
+            "+@lang": "JA",
+            "role": "Misa",
+            "person": {
+                "+content": "Akira Sekine",
+                "+@id": "127847"
+            }
+        },
+        {
+            "+@gid": "864369328",
+            "+@lang": "JA",
+            "role": "Guy",
+            "person": {
+                "+content": "Daiki Hamano",
+                "+@id": "128453"
+            }
+        },
+        {
+            "+@gid": "1582625004",
+            "+@lang": "JA",
+            "role": "Lent",
+            "person": {
+                "+content": "Reiji Kawashima",
+                "+@id": "196349"
+            }
         }
     ],
     "credit": {
@@ -115,5 +206,6 @@
         }
     },
     "+@date-added": "2025-11-12T02:08:26Z",
-    "+@date-last-updated-at": "2026-06-12T15:42:00Z"
+    "+@date-last-modified-at": "2026-07-12T17:19:02Z",
+    "+@date-last-updated-at": "2026-07-12T17:19:02Z"
 }
