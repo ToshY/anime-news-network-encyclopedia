@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Snowball Earth",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-13T21:38:51Z",
+    "+@generated-on": "2026-07-14T03:35:46Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28569"
+    },
+    "related-next": {
+        "+@id": "40165",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -87,11 +91,19 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://snowballearth.net/"
+        },
+        {
+            "+content": "SNOWBALL EARTH Official English Site",
+            "+@gid": "2058734922",
+            "+@type": "Official website",
+            "+@lang": "EN",
+            "+@href": "https://snowballearth.net/en/"
         }
     ],
     "ratings": {
-        "+@nb_votes": "6",
-        "+@weighted_score": "4.8482"
+        "+@nb_votes": "28",
+        "+@weighted_score": "6.2859",
+        "+@bayesian_score": "6.64104"
     },
     "news": [
         {
@@ -163,6 +175,11 @@
             "+content": "Japanese Animation TV Ranking, May 4-10",
             "+@datetime": "2026-05-23T16:15:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-05-23/japanese-animation-tv-ranking-may-4-10/.237601"
+        },
+        {
+            "+content": "<cite>Snowball Earth</cite> Anime Gets 2nd Season",
+            "+@datetime": "2026-06-26T16:09:26Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-26/snowball-earth-anime-gets-2nd-season/.238992"
         }
     ],
     "staff": [
@@ -272,15 +289,6 @@
         }
     ],
     "cast": [
-        {
-            "+@gid": "1151800542",
-            "+@lang": "EN",
-            "role": "Boss",
-            "person": {
-                "+content": "Barbara Goodson",
-                "+@id": "530"
-            }
-        },
         {
             "+@gid": "2409281501",
             "+@lang": "EN",
@@ -588,6 +596,6 @@
         }
     },
     "+@date-added": "2025-07-17T09:06:40Z",
-    "+@date-last-modified-at": "2026-06-13T21:38:59Z",
-    "+@date-last-updated-at": "2026-06-13T21:38:59Z"
+    "+@date-last-modified-at": "2026-07-14T03:35:54Z",
+    "+@date-last-updated-at": "2026-07-14T03:35:54Z"
 }
