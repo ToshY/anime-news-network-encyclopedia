@@ -4,8 +4,36 @@
     "+@type": "manga",
     "+@name": "Kimi no Tonari de Nemuritai",
     "+@precision": "manga",
-    "+@generated-on": "2026-06-14T21:40:44Z",
+    "+@generated-on": "2026-07-15T03:37:12Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "19620"
+    },
     "info": [
+        {
+            "+@gid": "2386931428",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A31558-2386931428.1782397915.jpg",
+            "+@width": "130",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A31558-2386931428.1782397915.jpg",
+                    "+@width": "130",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A31558-2386931428.1782397915.jpg",
+                    "+@width": "391",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A31558-2386931428.1782397915.jpg",
+                    "+@width": "640",
+                    "+@height": "983"
+                }
+            ]
+        },
         {
             "+content": "Kimi no Tonari de Nemuritai",
             "+@gid": "2085024402",
@@ -19,12 +47,18 @@
             "+@lang": "JA"
         },
         {
+            "+content": "romance",
+            "+@gid": "725732614",
+            "+@type": "Genres"
+        },
+        {
             "+content": "1",
             "+@gid": "1722645684",
             "+@type": "Number of tankoubon"
         },
         {
-            "+content": "1998-09-09",
+            "+content": "1998-02 to 1998-06 (serialized in Dessert, Apr - Aug 1998)",
+            "+@gid": "2581448971",
             "+@type": "Vintage"
         }
     ],
@@ -37,5 +71,6 @@
         }
     },
     "+@date-added": "2024-01-15T09:22:48Z",
-    "+@date-last-updated-at": "2026-06-14T21:40:46Z"
+    "+@date-last-modified-at": "2026-07-15T03:37:14Z",
+    "+@date-last-updated-at": "2026-07-15T03:37:14Z"
 }
