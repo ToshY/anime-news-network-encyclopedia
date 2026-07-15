@@ -4,11 +4,21 @@
     "+@type": "TV",
     "+@name": "Girl Who Leapt Through Space",
     "+@precision": "TV",
-    "+@generated-on": "2026-05-15T21:19:25Z",
-    "related-next": {
-        "+@id": "26324",
-        "+@rel": "related"
-    },
+    "+@generated-on": "2026-07-15T14:11:25Z",
+    "related-next": [
+        {
+            "+@id": "26324",
+            "+@rel": "related"
+        },
+        {
+            "+@id": "40190",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "40191",
+            "+@rel": "adaptation"
+        }
+    ],
     "info": [
         {
             "+@gid": "3382300836",
@@ -142,7 +152,7 @@
     "ratings": {
         "+@nb_votes": "231",
         "+@weighted_score": "6.6319",
-        "+@bayesian_score": "6.67332"
+        "+@bayesian_score": "6.67327"
     },
     "episode": [
         {
@@ -1072,6 +1082,6 @@
         }
     ],
     "+@date-added": "2008-10-10T03:18:44Z",
-    "+@date-last-modified-at": "2026-05-15T21:19:35Z",
-    "+@date-last-updated-at": "2026-05-15T21:19:35Z"
+    "+@date-last-modified-at": "2026-07-15T14:11:32Z",
+    "+@date-last-updated-at": "2026-07-15T14:11:32Z"
 }
