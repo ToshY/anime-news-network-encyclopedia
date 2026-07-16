@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Haganai NEXT",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-16T13:03:59Z",
+    "+@generated-on": "2026-07-16T14:24:23Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "12983"
@@ -132,8 +132,8 @@
     ],
     "ratings": {
         "+@nb_votes": "1108",
-        "+@weighted_score": "7.4061",
-        "+@bayesian_score": "7.40679"
+        "+@weighted_score": "7.4063",
+        "+@bayesian_score": "7.40698"
     },
     "episode": [
         {
@@ -773,14 +773,6 @@
             }
         },
         {
-            "+@gid": "3060663240",
-            "task": "Producer",
-            "person": {
-                "+content": "Satoshi Tanaka",
-                "+@id": "36537"
-            }
-        },
-        {
             "+@gid": "1476706790",
             "task": "Producer",
             "person": {
@@ -802,6 +794,14 @@
             "person": {
                 "+content": "Takeya Kinbara",
                 "+@id": "106823"
+            }
+        },
+        {
+            "+@gid": "3060663240",
+            "task": "Producer",
+            "person": {
+                "+content": "Satoshi Tanaka",
+                "+@id": "299966"
             }
         }
     ],
@@ -1054,5 +1054,6 @@
         }
     ],
     "+@date-added": "2012-09-27T13:42:14Z",
-    "+@date-last-updated-at": "2026-06-16T13:04:04Z"
+    "+@date-last-modified-at": "2026-07-16T14:24:28Z",
+    "+@date-last-updated-at": "2026-07-16T14:24:28Z"
 }
