@@ -2,46 +2,80 @@
     "+@id": "36458",
     "+@gid": "2556375457",
     "+@type": "movie",
-    "+@name": "ghost",
+    "+@name": "ghost – end of night",
     "+@precision": "movie",
-    "+@generated-on": "2026-06-17T12:30:38Z",
+    "+@generated-on": "2026-07-17T14:04:17Z",
+    "related-next": {
+        "+@id": "40240",
+        "+@rel": "adaptation"
+    },
     "info": [
         {
             "+@gid": "2883886290",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36458-2883886290.1749456818.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36458-2883886290.1782905513.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36458-2883886290.1749456818.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36458-2883886290.1782905513.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36458-2883886290.1749456818.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36458-2883886290.1782905513.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
             ]
         },
         {
-            "+content": "ghost",
-            "+@gid": "3335163454",
+            "+content": "ghost – end of night",
+            "+@gid": "3908364732",
             "+@type": "Main title",
             "+@lang": "EN"
         },
         {
-            "+content": "2027",
-            "+@gid": "2273404100",
+            "+content": "ghost/yoru no hate",
+            "+@gid": "3180593827",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "ghost／夜の果て",
+            "+@gid": "3228340645",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "2027-02-11",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2027-02-11 (Japan)",
+            "+@gid": "2517303586",
+            "+@type": "Premiere date"
+        },
+        {
+            "+content": "映画『ghost／夜の果て』公式サイト",
+            "+@gid": "809760529",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://www.ghost-yoruhate.com/"
         }
     ],
-    "news": {
-        "+content": "Shingo Natsume, Natsume Ono, Madhouse Team Up for Original Theatrical Anime <cite>'ghost'</cite>",
-        "+@datetime": "2025-06-09T08:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-06-09/shingo-natsume-natsume-ono-madhouse-team-up-for-original-theatrical-anime-ghost/.225338"
-    },
+    "news": [
+        {
+            "+content": "Shingo Natsume, Natsume Ono, Madhouse Team Up for Original Theatrical Anime <cite>'ghost'</cite>",
+            "+@datetime": "2025-06-09T08:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-09/shingo-natsume-natsume-ono-madhouse-team-up-for-original-theatrical-anime-ghost/.225338"
+        },
+        {
+            "+content": "Madhouse Reveals <cite>'ghost'</cite> Original Anime Film's Teaser, Full Title, February 11, 2027 Debut",
+            "+@datetime": "2026-07-01T11:27:31Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-01/madhouse-reveals-ghost-original-anime-film-teaser-full-title-february-11-2027-debut/.239177"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1290074398",
@@ -57,6 +91,14 @@
             "person": {
                 "+content": "Shingo Natsume",
                 "+@id": "41262"
+            }
+        },
+        {
+            "+@gid": "2171372684",
+            "task": "Music",
+            "person": {
+                "+content": "Ōzora Kimishima",
+                "+@id": "299640"
             }
         },
         {
@@ -101,5 +143,6 @@
         }
     },
     "+@date-added": "2025-06-09T04:12:31Z",
-    "+@date-last-updated-at": "2026-06-17T12:30:45Z"
+    "+@date-last-modified-at": "2026-07-17T14:04:23Z",
+    "+@date-last-updated-at": "2026-07-17T14:04:23Z"
 }

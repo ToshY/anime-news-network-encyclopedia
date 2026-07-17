@@ -4,12 +4,31 @@
     "+@type": "TV",
     "+@name": "Gacha Girls Corps",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-17T12:30:39Z",
+    "+@generated-on": "2026-07-17T14:04:18Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "36319"
     },
     "info": [
+        {
+            "+@gid": "3662151506",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36321-3662151506.1782384724.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36321-3662151506.1782384724.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36321-3662151506.1782384724.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Gacha Girls Corps",
             "+@gid": "2031504022",
@@ -27,9 +46,73 @@
             "+@gid": "1704484459",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "2027-01",
+            "+@gid": "1745475527",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ『ガチャを回して仲間を増やす 最強の美少女軍団を作り上げろ』公式サイト",
+            "+@gid": "2095357084",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://gachanime.jp/"
+        }
+    ],
+    "news": [
+        {
+            "+content": "<cite>Gacha Girls Corps</cite> Light Novel Series Gets TV Anime in January 2027",
+            "+@datetime": "2026-06-25T10:02:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-25/gacha-girls-corps-light-novel-series-gets-tv-anime-in-january-2027/.238935"
+        },
+        {
+            "+content": "Crunchyroll to Stream <cite>Fate Rewinder</cite>, <cite>Overgeared</cite>, <cite>The Guy She Was Interested In Wasn't a Guy at All</cite>, More Anime (Updated)",
+            "+@datetime": "2026-07-03T21:59:21Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-03/crunchyroll-to-stream-fate-rewinder-overgeared-the-guy-she-was-interested-in-wasnt-a-guy-at-all-/.239266"
         }
     ],
     "staff": [
+        {
+            "+@gid": "2636059952",
+            "task": "Chief Director",
+            "person": {
+                "+content": "Masahiro Takata",
+                "+@id": "35803"
+            }
+        },
+        {
+            "+@gid": "3400321170",
+            "task": "Director",
+            "person": {
+                "+content": "Takashi Asami",
+                "+@id": "13628"
+            }
+        },
+        {
+            "+@gid": "2687928074",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Deko Akao",
+                "+@id": "51810"
+            }
+        },
+        {
+            "+@gid": "2610100759",
+            "task": "Music",
+            "person": {
+                "+content": "Hiroaki Tsutsumi",
+                "+@id": "120845"
+            }
+        },
+        {
+            "+@gid": "3538508604",
+            "task": "Music",
+            "person": {
+                "+content": "George King",
+                "+@id": "299459"
+            }
+        },
         {
             "+@gid": "3979651003",
             "task": "Original creator",
@@ -39,14 +122,118 @@
             }
         },
         {
+            "+@gid": "2993432392",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Syū Haruno",
+                "+@id": "220561"
+            }
+        },
+        {
             "+@gid": "2840326377",
             "task": "Original Character Design",
             "person": {
                 "+content": "Yasutaka Isegawa",
                 "+@id": "220562"
             }
+        },
+        {
+            "+@gid": "2474924735",
+            "task": "Character Design",
+            "person": {
+                "+content": "Miori Suzuki",
+                "+@id": "95822"
+            }
+        },
+        {
+            "+@gid": "1390690392",
+            "task": "Art Director",
+            "person": {
+                "+content": "Kenta Tsuboi",
+                "+@id": "146034"
+            }
+        },
+        {
+            "+@gid": "3948872342",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Miori Suzuki",
+                "+@id": "95822"
+            }
+        },
+        {
+            "+@gid": "2105453650",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Nobuyuki Abe",
+                "+@id": "46537"
+            }
+        },
+        {
+            "+@gid": "2760964347",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Kōsuke Tanaka",
+                "+@id": "59850"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1811576564",
+            "+@lang": "JA",
+            "role": "Heihachi Ōkura",
+            "person": {
+                "+content": "Daisuke Sakaguchi",
+                "+@id": "4271"
+            }
+        },
+        {
+            "+@gid": "2984214662",
+            "+@lang": "JA",
+            "role": "Norl Fanya",
+            "person": {
+                "+content": "Miyu Tomita",
+                "+@id": "145048"
+            }
+        },
+        {
+            "+@gid": "4084799449",
+            "+@lang": "JA",
+            "role": "Estel",
+            "person": {
+                "+content": "Iori Noguchi",
+                "+@id": "173307"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "2011700551",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Zero-G",
+                "+@id": "12033"
+            }
+        },
+        {
+            "+@gid": "1247875888",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Saber Works",
+                "+@id": "25627"
+            }
+        },
+        {
+            "+@gid": "3475636229",
+            "task": "Production",
+            "company": {
+                "+content": "Starry Cube",
+                "+@id": "18910"
+            }
         }
     ],
     "+@date-added": "2025-05-29T19:56:42Z",
-    "+@date-last-updated-at": "2026-06-17T12:30:45Z"
+    "+@date-last-modified-at": "2026-07-17T14:04:23Z",
+    "+@date-last-updated-at": "2026-07-17T14:04:23Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "FOXING: Kitsuné-tsuki",
     "+@precision": "movie",
-    "+@generated-on": "2026-06-17T12:30:41Z",
+    "+@generated-on": "2026-07-17T14:04:20Z",
     "info": [
         {
             "+@gid": "2985442722",
@@ -49,20 +49,75 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2026",
-            "+@gid": "2408296800",
+            "+content": "2026-07-18",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2026-07-18 (Fantasia International Film Festival)",
+            "+@gid": "2581256606",
+            "+@type": "Premiere date"
+        },
+        {
+            "+content": "2026-07-22 (Indy Shorts Film Festival)",
+            "+@gid": "950412997",
+            "+@type": "Premiere date"
+        },
+        {
+            "+content": "2026-08-12 (Regina International Film Festival and Awards)",
+            "+@gid": "650659666",
+            "+@type": "Premiere date"
         }
     ],
-    "news": {
-        "+content": "Toei Animation Reveals <cite>Foxing: Kitsuné-tsuki</cite> Anime as 1st Work in New 'Eterna Animation' Brand",
-        "+@datetime": "2025-06-05T08:31:26Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-06-05/toei-animation-reveals-foxing-kitsune-tsuki-anime-as-1st-work-in-new-eterna-animation-brand/.225165"
-    },
+    "news": [
+        {
+            "+content": "Toei Animation Reveals <cite>Foxing: Kitsuné-tsuki</cite> Anime as 1st Work in New 'Eterna Animation' Brand",
+            "+@datetime": "2025-06-05T08:31:26Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-06-05/toei-animation-reveals-foxing-kitsune-tsuki-anime-as-1st-work-in-new-eterna-animation-brand/.225165"
+        },
+        {
+            "+content": "Toei's Eterna Animation Brand Streams Trailer for <cite>Foxing: Kitsuné-tsuki</cite> Anime",
+            "+@datetime": "2026-06-26T11:41:32Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-26/toei-eterna-animation-brand-streams-trailer-for-foxing-kitsune-tsuki-anime/.238981"
+        },
+        {
+            "+content": "Fantasia Int'l Film Fest Screens <cite>Grotesqqque</cite>, <cite>A New Dawn</cite>, <cite>cocoon</cite> Anime",
+            "+@datetime": "2026-07-10T00:00:39Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-09/fantasia-intl-film-fest-screens-grotesqqque-a-new-dawn-cocoon-anime/.239327"
+        },
+        {
+            "+content": "Toei Animation's <cite>Foxing: Kitsuné-tsuki</cite> Anime Screens in Festivals",
+            "+@datetime": "2026-07-09T08:04:17Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-09/toei-animation-foxing-kitsune-tsuki-anime-screens-in-festivals/.239447"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2189754424",
             "task": "Director",
+            "person": {
+                "+content": "Takeru Shinozuka",
+                "+@id": "272534"
+            }
+        },
+        {
+            "+@gid": "2725881600",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Takeru Shinozuka",
+                "+@id": "272534"
+            }
+        },
+        {
+            "+@gid": "674343744",
+            "task": "Music",
+            "person": {
+                "+content": "Daisuke Sakaguchi",
+                "+@id": "299512"
+            }
+        },
+        {
+            "+@gid": "1772679957",
+            "task": "Character Design",
             "person": {
                 "+content": "Takeru Shinozuka",
                 "+@id": "272534"
@@ -77,6 +132,15 @@
             }
         }
     ],
+    "cast": {
+        "+@gid": "2314891693",
+        "+@lang": "JA",
+        "role": "Shinano",
+        "person": {
+            "+content": "Miho Wataya",
+            "+@id": "132360"
+        }
+    },
     "credit": [
         {
             "+@gid": "1332166913",
@@ -96,5 +160,6 @@
         }
     ],
     "+@date-added": "2025-05-01T20:57:28Z",
-    "+@date-last-updated-at": "2026-06-17T12:30:45Z"
+    "+@date-last-modified-at": "2026-07-17T14:04:23Z",
+    "+@date-last-updated-at": "2026-07-17T14:04:23Z"
 }

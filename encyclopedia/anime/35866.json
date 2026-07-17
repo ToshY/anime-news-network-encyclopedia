@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Seitokai ni mo Ana wa Aru!",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-17T12:30:42Z",
+    "+@generated-on": "2026-07-17T14:04:20Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27197"
@@ -41,6 +41,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Even the Student Council Has Its Holes!",
+            "+@gid": "2661046417",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "There is also a hole in the student organization!",
             "+@gid": "2429490757",
             "+@type": "Alternative title",
@@ -63,6 +69,11 @@
             "+@type": "Themes"
         },
         {
+            "+content": "2026-10",
+            "+@gid": "1312331532",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ『生徒会にも穴はある！』公式サイト",
             "+@gid": "3158658722",
             "+@type": "Official website",
@@ -70,11 +81,18 @@
             "+@href": "https://nama-anaru.com/"
         }
     ],
-    "news": {
-        "+content": "Muchimaro's <cite>There is also a hole in the student organization!</cite> Manga Gets TV Anime",
-        "+@datetime": "2025-04-27T10:13:48Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-04-27/muchimaro-there-is-also-a-hole-in-the-student-organization-manga-gets-tv-anime/.223962"
-    },
+    "news": [
+        {
+            "+content": "Muchimaro's <cite>There is also a hole in the student organization!</cite> Manga Gets TV Anime",
+            "+@datetime": "2025-04-27T10:13:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-27/muchimaro-there-is-also-a-hole-in-the-student-organization-manga-gets-tv-anime/.223962"
+        },
+        {
+            "+content": "'<cite>Even the Student Council Has Its Holes!</cite>' Anime Unveils Cast, October Debut",
+            "+@datetime": "2026-07-04T17:31:47Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-04/even-the-student-council-has-its-holes-anime-unveils-cast-october-debut/.239291"
+        }
+    ],
     "staff": [
         {
             "+@gid": "855745860",
@@ -117,6 +135,15 @@
             }
         }
     ],
+    "cast": {
+        "+@gid": "3390099514",
+        "+@lang": "JA",
+        "role": "Ume Mizunoe",
+        "person": {
+            "+content": "Shōgo Sakata",
+            "+@id": "177307"
+        }
+    },
     "credit": {
         "+@gid": "2745697084",
         "task": "Animation Production",
@@ -126,5 +153,6 @@
         }
     },
     "+@date-added": "2025-04-27T07:35:20Z",
-    "+@date-last-updated-at": "2026-06-17T12:30:45Z"
+    "+@date-last-modified-at": "2026-07-17T14:04:23Z",
+    "+@date-last-updated-at": "2026-07-17T14:04:23Z"
 }

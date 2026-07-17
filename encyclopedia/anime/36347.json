@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Chibi Godzilla Raids Again",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-06-17T12:30:39Z",
+    "+@generated-on": "2026-07-17T14:04:18Z",
     "related-prev": [
         {
             "+@rel": "part of",
@@ -15,6 +15,10 @@
             "+@id": "32381"
         }
     ],
+    "related-next": {
+        "+@id": "40221",
+        "+@rel": "sequel"
+    },
     "info": [
         {
             "+@gid": "2940007692",
@@ -54,7 +58,12 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2025-07-02",
+            "+content": "39",
+            "+@gid": "1463618090",
+            "+@type": "Number of episodes"
+        },
+        {
+            "+content": "2025-07-02 to 2026-03-25",
             "+@gid": "1886329420",
             "+@type": "Vintage"
         },
@@ -66,11 +75,6 @@
             "+@href": "https://chibigodzilla.jp/"
         }
     ],
-    "news": {
-        "+content": "<cite>Chibi Godzilla Raids Again</cite> Anime's Trailer Reveals New Cast, OKAMOTO'S Theme Song",
-        "+@datetime": "2026-03-23T15:56:15Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-23/chibi-godzilla-raids-again-anime-trailer-reveals-new-cast-okamoto-theme-song/.235647"
-    },
     "staff": [
         {
             "+@gid": "3008664681",
@@ -190,15 +194,6 @@
             }
         },
         {
-            "+@gid": "2251307865",
-            "+@lang": "JA",
-            "role": "Chibi Battra",
-            "person": {
-                "+content": "Inori Minase",
-                "+@id": "95027"
-            }
-        },
-        {
             "+@gid": "3106611509",
             "+@lang": "JA",
             "role": "Shōbijin Older Sister",
@@ -245,5 +240,6 @@
         }
     ],
     "+@date-added": "2025-05-31T20:41:04Z",
-    "+@date-last-updated-at": "2026-06-17T12:30:45Z"
+    "+@date-last-modified-at": "2026-07-17T14:04:23Z",
+    "+@date-last-updated-at": "2026-07-17T14:04:23Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-17T12:30:40Z",
+    "+@generated-on": "2026-07-17T14:04:19Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "36120"
@@ -105,6 +105,11 @@
             "+@type": "Insert song"
         },
         {
+            "+content": "\"Niji-iro no Hibi Duet ver\" (虹色の日々 Duet ver) by Cecil [Yūsuke Kobayashi], Bertia [Miyu Tomita] (ep 12)",
+            "+@gid": "1692285158",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "\"Niji-iro no Hibi\" (虹色の日々) by Cecil [Yūsuke Kobayashi] (ep 11)",
             "+@gid": "2556801288",
             "+@type": "Insert song"
@@ -118,8 +123,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "5.893"
+        "+@nb_votes": "47",
+        "+@weighted_score": "7.1848",
+        "+@bayesian_score": "7.24275"
     },
     "episode": [
         {
@@ -205,20 +211,24 @@
         {
             "+@num": "11",
             "title": {
-                "+content": "Jishou Akuyaku Reijou to Ouke no Kansatsu Kiroku.",
-                "+@gid": "3006650073",
-                "+@lang": "JA"
+                "+content": "An Observation Log of a Self-Proclaimed Villainess and the Royal Family.",
+                "+@gid": "2307471900",
+                "+@lang": "EN"
             }
         },
         {
             "+@num": "12",
             "title": {
-                "+content": "Jishou Akuyaku Reijou de Tsuma no Kansatsu Kiroku.",
-                "+@gid": "1539839471",
-                "+@lang": "JA"
+                "+content": "An Observation Log of a Self-Proclaimed Villainess as a Wife.",
+                "+@gid": "2411611466",
+                "+@lang": "EN"
             }
         }
     ],
+    "review": {
+        "+content": "<cite>An Observation Log of My Fiancée Who Calls Herself a Villainess</cite> Anime Series Review",
+        "+@href": "https://www.animenewsnetwork.com/review/an-observation-log-of-my-fiancee-who-calls-herself-a-villainess-anime-series/.238750"
+    },
     "news": [
         {
             "+content": "<cite>Observation Records of My Fiancée</cite> Light Novels Get TV Anime",
@@ -715,6 +725,14 @@
             }
         },
         {
+            "+@gid": "2948352649",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Lan Xu",
+                "+@id": "176149"
+            }
+        },
+        {
             "+@gid": "2408727538",
             "task": "Animation Director",
             "person": {
@@ -832,6 +850,14 @@
             "person": {
                 "+content": "Kiria Takashiro",
                 "+@id": "241240"
+            }
+        },
+        {
+            "+@gid": "4200748535",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yu Dong Ge",
+                "+@id": "244437"
             }
         },
         {
@@ -1386,6 +1412,6 @@
         }
     },
     "+@date-added": "2025-05-12T21:56:41Z",
-    "+@date-last-modified-at": "2026-06-17T12:30:45Z",
-    "+@date-last-updated-at": "2026-06-17T12:30:45Z"
+    "+@date-last-modified-at": "2026-07-17T14:04:23Z",
+    "+@date-last-updated-at": "2026-07-17T14:04:23Z"
 }
