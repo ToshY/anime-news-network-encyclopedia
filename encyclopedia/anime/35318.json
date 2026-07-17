@@ -2,9 +2,9 @@
     "+@id": "35318",
     "+@gid": "1895467952",
     "+@type": "TV",
-    "+@name": "Ma no Mono-tachi wa Kuwadateru",
+    "+@name": "Demons Are Planning Something Good",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-17T18:35:26Z",
+    "+@generated-on": "2026-07-17T21:08:19Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "35317"
@@ -35,16 +35,22 @@
             ]
         },
         {
-            "+content": "Ma no Mono-tachi wa Kuwadateru",
-            "+@gid": "1846129166",
+            "+content": "The Demons Are Planning Something Good",
+            "+@gid": "120179980",
             "+@type": "Main title",
-            "+@lang": "JA"
+            "+@lang": "EN"
         },
         {
             "+content": "Demons Plan Something Good!",
             "+@gid": "3236037677",
             "+@type": "Alternative title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Ma no Mono-tachi wa Kuwadateru",
+            "+@gid": "1846129166",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
         },
         {
             "+content": "魔のものたちは企てる",
@@ -61,13 +67,32 @@
             "+content": "demons",
             "+@gid": "1740921783",
             "+@type": "Themes"
+        },
+        {
+            "+content": "2027",
+            "+@gid": "3351721668",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ『魔のものたちは企てる』公式サイト",
+            "+@gid": "455115929",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://manomono-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<i>The Demons Are Planning Something Good</i> Comedy Manga Gets Anime",
-        "+@datetime": "2025-03-24T10:00:23Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-03-24/the-demons-are-planning-something-good-comedy-manga-gets-anime/.222815"
-    },
+    "news": [
+        {
+            "+content": "<i>The Demons Are Planning Something Good</i> Comedy Manga Gets Anime",
+            "+@datetime": "2025-03-24T10:00:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-24/the-demons-are-planning-something-good-comedy-manga-gets-anime/.222815"
+        },
+        {
+            "+content": "<cite>The Demons Are Planning Something Good</cite> Anime Reveals Cast, More Staff, 2027 TV Debut",
+            "+@datetime": "2026-07-07T06:54:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-07/the-demons-are-planning-something-good-anime-reveals-cast-more-staff-2027-tv-debut/.239371"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2109154666",
@@ -75,6 +100,14 @@
             "person": {
                 "+content": "Takuya Asaoka",
                 "+@id": "112263"
+            }
+        },
+        {
+            "+@gid": "1155898582",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Kazuyuki Fudeyasu",
+                "+@id": "16992"
             }
         },
         {
@@ -92,6 +125,43 @@
                 "+content": "Gashigashi",
                 "+@id": "198045"
             }
+        },
+        {
+            "+@gid": "2147520641",
+            "task": "Character Design",
+            "person": {
+                "+content": "Hiraku Kaneko",
+                "+@id": "44598"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3704101665",
+            "+@lang": "JA",
+            "role": "Lord Mercysnare",
+            "person": {
+                "+content": "Junichi Suwabe",
+                "+@id": "48696"
+            }
+        },
+        {
+            "+@gid": "2652285052",
+            "+@lang": "JA",
+            "role": "Merisha",
+            "person": {
+                "+content": "Haruka Shiraishi",
+                "+@id": "104544"
+            }
+        },
+        {
+            "+@gid": "2344968078",
+            "+@lang": "JA",
+            "role": "Letze",
+            "person": {
+                "+content": "Wakana Kuramochi",
+                "+@id": "202140"
+            }
         }
     ],
     "credit": {
@@ -103,5 +173,6 @@
         }
     },
     "+@date-added": "2025-03-24T07:36:36Z",
-    "+@date-last-updated-at": "2026-06-17T18:35:27Z"
+    "+@date-last-modified-at": "2026-07-17T21:08:20Z",
+    "+@date-last-updated-at": "2026-07-17T21:08:20Z"
 }

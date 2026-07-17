@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Shangri-La Frontier",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-06-17T18:35:24Z",
+    "+@generated-on": "2026-07-17T21:08:16Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32624"
@@ -47,24 +47,14 @@
             "+@type": "Genres"
         },
         {
-            "+content": "comedy",
-            "+@gid": "1157607615",
-            "+@type": "Genres"
-        },
-        {
-            "+content": "drama",
-            "+@gid": "2295606062",
-            "+@type": "Genres"
-        },
-        {
             "+content": "fantasy",
             "+@gid": "1149580201",
             "+@type": "Genres"
         },
         {
-            "+content": "romance",
-            "+@gid": "2865714481",
-            "+@type": "Genres"
+            "+content": "fighting",
+            "+@gid": "3450978536",
+            "+@type": "Themes"
         },
         {
             "+content": "magical creatures",
@@ -127,12 +117,75 @@
             "+@href": "https://anime.shangrilafrontier.com/tc/"
         }
     ],
-    "news": {
-        "+content": "<cite>Shangri-La Frontier</cite> Anime Reveals Season 3's January 2027 Debut, 1st Game's 2026 Launch",
-        "+@datetime": "2026-03-19T09:02:16Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-19/shangri-la-frontier-anime-reveals-season-3-january-2027-debut-1st-game-2026-launch/.235485"
-    },
+    "news": [
+        {
+            "+content": "<cite>Shangri-La Frontier</cite> Anime Reveals Season 3's January 2027 Debut, 1st Game's 2026 Launch",
+            "+@datetime": "2026-03-19T09:02:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-19/shangri-la-frontier-anime-reveals-season-3-january-2027-debut-1st-game-2026-launch/.235485"
+        },
+        {
+            "+content": "<cite>Shangri-La Frontier</cite> Anime Season 3 Streams New Teaser",
+            "+@datetime": "2026-07-07T17:35:53Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-07/shangri-la-frontier-anime-season-3-streams-new-teaser/.239394"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "110078249",
+            "task": "Chief Director",
+            "person": {
+                "+content": "Toshiyuki Kubooka",
+                "+@id": "7732"
+            }
+        },
+        {
+            "+@gid": "3118740572",
+            "task": "Director",
+            "person": {
+                "+content": "Hiro Ōki",
+                "+@id": "109554"
+            }
+        },
+        {
+            "+@gid": "1438246565",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Kazuyuki Fudeyasu",
+                "+@id": "16992"
+            }
+        },
+        {
+            "+@gid": "2024462546",
+            "task": "Script",
+            "person": {
+                "+content": "Kazuyuki Fudeyasu",
+                "+@id": "16992"
+            }
+        },
+        {
+            "+@gid": "2427781227",
+            "task": "Music",
+            "person": {
+                "+content": "Keiichi Hirokawa",
+                "+@id": "146894"
+            }
+        },
+        {
+            "+@gid": "1040615383",
+            "task": "Music",
+            "person": {
+                "+content": "Kuniyuki Takahashi",
+                "+@id": "157680"
+            }
+        },
+        {
+            "+@gid": "1197575547",
+            "task": "Music",
+            "person": {
+                "+content": "Ryūichi Takada",
+                "+@id": "261619"
+            }
+        },
         {
             "+@gid": "2127787871",
             "task": "Original creator",
@@ -148,8 +201,255 @@
                 "+content": "Katarina",
                 "+@id": "201053"
             }
+        },
+        {
+            "+@gid": "515017164",
+            "task": "Character Design",
+            "person": {
+                "+content": "Ayumi Kurashima",
+                "+@id": "16428"
+            }
+        },
+        {
+            "+@gid": "1887901390",
+            "task": "Art Director",
+            "person": {
+                "+content": "Chiho Wada",
+                "+@id": "178545"
+            }
+        },
+        {
+            "+@gid": "670695646",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Ayumi Kurashima",
+                "+@id": "16428"
+            }
+        },
+        {
+            "+@gid": "2399827880",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Akiko Fujita",
+                "+@id": "75819"
+            }
+        },
+        {
+            "+@gid": "2661078469",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Hiroyuki Kimura",
+                "+@id": "214568"
+            }
+        },
+        {
+            "+@gid": "1174791834",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Hikaru Yamamoku",
+                "+@id": "147570"
+            }
+        },
+        {
+            "+@gid": "1434254419",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Misako Ōtsu",
+                "+@id": "184218"
+            }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "1843842551",
+            "+@lang": "JA",
+            "role": "Vysache",
+            "person": {
+                "+content": "Akio Ōtsuka",
+                "+@id": "459"
+            }
+        },
+        {
+            "+@gid": "524761995",
+            "+@lang": "JA",
+            "role": "Professor",
+            "person": {
+                "+content": "Jōji Nakata",
+                "+@id": "10486"
+            }
+        },
+        {
+            "+@gid": "878987699",
+            "+@lang": "JA",
+            "role": "Akane Akitsu",
+            "person": {
+                "+content": "Yuka Terasaki",
+                "+@id": "40048"
+            }
+        },
+        {
+            "+@gid": "2278870784",
+            "+@lang": "JA",
+            "role": "Towa Amane / Arthur Pencilgon",
+            "person": {
+                "+content": "Yōko Hikasa",
+                "+@id": "67797"
+            }
+        },
+        {
+            "+@gid": "3222925088",
+            "+@lang": "JA",
+            "role": "Stude",
+            "person": {
+                "+content": "Aki Kanada",
+                "+@id": "69527"
+            }
+        },
+        {
+            "+@gid": "2550760616",
+            "+@lang": "JA",
+            "role": "Emul",
+            "person": {
+                "+content": "Rina Hidaka",
+                "+@id": "70503"
+            }
+        },
+        {
+            "+@gid": "2883140606",
+            "+@lang": "JA",
+            "role": "Megumi Natsume",
+            "person": {
+                "+content": "Yumi Uchiyama",
+                "+@id": "96014"
+            }
+        },
+        {
+            "+@gid": "1739346878",
+            "+@lang": "JA",
+            "role": "Ceecrue",
+            "person": {
+                "+content": "Natsuki Hanae",
+                "+@id": "106773"
+            }
+        },
+        {
+            "+@gid": "1015653514",
+            "+@lang": "JA",
+            "role": "Johnson Shawn Underwood",
+            "person": {
+                "+content": "Ryōsuke Morita",
+                "+@id": "111625"
+            }
+        },
+        {
+            "+@gid": "2953150785",
+            "+@lang": "JA",
+            "role": "Sylvia Goldberg",
+            "person": {
+                "+content": "Minami Takahashi",
+                "+@id": "112346"
+            }
+        },
+        {
+            "+@gid": "2839529051",
+            "+@lang": "JA",
+            "role": "Mordo",
+            "person": {
+                "+content": "Kaito Ishikawa",
+                "+@id": "114052"
+            }
+        },
+        {
+            "+@gid": "2562983120",
+            "+@lang": "JA",
+            "role": "Momo Saiga / Psyger-100",
+            "person": {
+                "+content": "Yumiri Hanamori",
+                "+@id": "118609"
+            }
+        },
+        {
+            "+@gid": "864395400",
+            "+@lang": "JA",
+            "role": "Rakurō Hizutome / Sunraku",
+            "person": {
+                "+content": "Yūma Uchida",
+                "+@id": "124918"
+            }
+        },
+        {
+            "+@gid": "1937394785",
+            "+@lang": "JA",
+            "role": "Rust",
+            "person": {
+                "+content": "Rie Takahashi",
+                "+@id": "126148"
+            }
+        },
+        {
+            "+@gid": "3699280328",
+            "+@lang": "JA",
+            "role": "Lucas García",
+            "person": {
+                "+content": "Daiki Hamano",
+                "+@id": "128453"
+            }
+        },
+        {
+            "+@gid": "2144769094",
+            "+@lang": "JA",
+            "role": "Rei Saiga / Psyger-0",
+            "person": {
+                "+content": "Azumi Waki",
+                "+@id": "134798"
+            }
+        },
+        {
+            "+@gid": "821984636",
+            "+@lang": "JA",
+            "role": "Kei Uomi / OiKatzo",
+            "person": {
+                "+content": "Makoto Koichi",
+                "+@id": "143804"
+            }
+        },
+        {
+            "+@gid": "2637338428",
+            "+@lang": "JA",
+            "role": "Alex Taylor",
+            "person": {
+                "+content": "Kazumasa Fukagawa",
+                "+@id": "144167"
+            }
+        },
+        {
+            "+@gid": "3018972997",
+            "+@lang": "JA",
+            "role": "Bilac",
+            "person": {
+                "+content": "Miyu Tomita",
+                "+@id": "145048"
+            }
+        },
+        {
+            "+@gid": "882347327",
+            "+@lang": "JA",
+            "role": "Araba",
+            "person": {
+                "+content": "Tōru Sakurai",
+                "+@id": "269022"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "1589335415",
+        "task": "Animation Production",
+        "company": {
+            "+content": "C2C",
+            "+@id": "8078"
+        }
+    },
     "+@date-added": "2025-03-30T04:39:46Z",
-    "+@date-last-updated-at": "2026-06-17T18:35:27Z"
+    "+@date-last-modified-at": "2026-07-17T21:08:20Z",
+    "+@date-last-updated-at": "2026-07-17T21:08:20Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Sakamoto Days",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-06-17T18:35:26Z",
+    "+@generated-on": "2026-07-17T21:08:19Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32767"
@@ -58,6 +58,11 @@
         {
             "+content": "drama",
             "+@gid": "1469450252",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "thriller",
+            "+@gid": "3853371937",
             "+@type": "Genres"
         },
         {
@@ -134,9 +139,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "84",
-        "+@weighted_score": "7.3247",
-        "+@bayesian_score": "7.34291"
+        "+@nb_votes": "86",
+        "+@weighted_score": "7.3734",
+        "+@bayesian_score": "7.38519"
     },
     "episode": [
         {
@@ -899,6 +904,78 @@
     ],
     "cast": [
         {
+            "+@gid": "973497817",
+            "+@lang": "AR",
+            "role": "Heisuke Mashimo",
+            "person": {
+                "+content": "Moataz El Shazly",
+                "+@id": "241455"
+            }
+        },
+        {
+            "+@gid": "2105877629",
+            "+@lang": "AR",
+            "role": "Taro Sakamoto",
+            "person": {
+                "+content": "Tariq Obaid",
+                "+@id": "277183"
+            }
+        },
+        {
+            "+@gid": "2695066515",
+            "+@lang": "AR",
+            "role": "Shin Asakura",
+            "person": {
+                "+content": "Omar Ashraf",
+                "+@id": "277184"
+            }
+        },
+        {
+            "+@gid": "2155398723",
+            "+@lang": "AR",
+            "role": "Lu Shaotang",
+            "person": {
+                "+content": "Haidy Amir",
+                "+@id": "299252"
+            }
+        },
+        {
+            "+@gid": "1405482440",
+            "+@lang": "AR",
+            "role": "Aoi Sakamoto",
+            "person": {
+                "+content": "Habiba Bahaa",
+                "+@id": "299253"
+            }
+        },
+        {
+            "+@gid": "2603755194",
+            "+@lang": "AR",
+            "role": "Yoichi Nagumo",
+            "person": {
+                "+content": "Mohamed Tamer",
+                "+@id": "299254"
+            }
+        },
+        {
+            "+@gid": "2132556252",
+            "+@lang": "AR",
+            "role": "Shishiba",
+            "person": {
+                "+content": "Adel Raafat",
+                "+@id": "299255"
+            }
+        },
+        {
+            "+@gid": "910989868",
+            "+@lang": "AR",
+            "role": "Osaragi",
+            "person": {
+                "+content": "Fatima Zakaria",
+                "+@id": "299256"
+            }
+        },
+        {
             "+@gid": "3267392857",
             "+@lang": "EN",
             "role": "Kanaguri",
@@ -1536,6 +1613,24 @@
                 "+content": "Hōchū Ōtsuka",
                 "+@id": "274643"
             }
+        },
+        {
+            "+@gid": "1400756068",
+            "+@lang": "PT",
+            "role": "Taro Sakamoto",
+            "person": {
+                "+content": "Nestor Chiesse",
+                "+@id": "50144"
+            }
+        },
+        {
+            "+@gid": "2917986292",
+            "+@lang": "PT",
+            "role": "Shin Asakura",
+            "person": {
+                "+content": "Vini Estefanuto",
+                "+@id": "204962"
+            }
         }
     ],
     "credit": [
@@ -1573,6 +1668,6 @@
         }
     ],
     "+@date-added": "2025-03-22T20:15:47Z",
-    "+@date-last-modified-at": "2026-06-17T18:35:27Z",
-    "+@date-last-updated-at": "2026-06-17T18:35:27Z"
+    "+@date-last-modified-at": "2026-07-17T21:08:20Z",
+    "+@date-last-updated-at": "2026-07-17T21:08:20Z"
 }

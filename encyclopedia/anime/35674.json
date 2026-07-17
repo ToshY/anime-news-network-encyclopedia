@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Mistress Kanan is Devilishly Easy",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-17T18:35:22Z",
+    "+@generated-on": "2026-07-17T21:08:14Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28766"
+    },
+    "related-next": {
+        "+@id": "40071",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -86,8 +90,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "3.5368"
+        "+@nb_votes": "25",
+        "+@weighted_score": "6.6342",
+        "+@bayesian_score": "6.90517"
     },
     "news": [
         {
@@ -129,6 +134,11 @@
             "+content": "Crunchyroll Reveals English Dub Cast, Staff for <cite>Mistress Kanan is Devilishly Easy, Ascendance of a Bookworm Part 3</cite> Anime",
             "+@datetime": "2026-04-18T05:53:49Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-18/crunchyroll-reveals-english-dub-cast-staff-for-mistress-kanan-is-devilishly-easy-ascendance-of-a-/.236519"
+        },
+        {
+            "+content": "<cite>Mistress Kanan is Devilishly Easy</cite> Anime Gets 2nd Season",
+            "+@datetime": "2026-06-20T23:17:53Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-20/mistress-kanan-is-devilishly-easy-anime-gets-2nd-season/.238739"
         }
     ],
     "staff": [
@@ -270,30 +280,12 @@
             }
         },
         {
-            "+@gid": "1722567509",
-            "+@lang": "EN",
-            "role": "Ryoko Reizen",
-            "person": {
-                "+content": "Trisha Mellon",
-                "+@id": "221688"
-            }
-        },
-        {
             "+@gid": "2989940783",
             "+@lang": "EN",
             "role": "Yuriko Yurino",
             "person": {
                 "+content": "Izzi Raine",
                 "+@id": "235778"
-            }
-        },
-        {
-            "+@gid": "2181159164",
-            "+@lang": "EN",
-            "role": "Yui Rorikawa",
-            "person": {
-                "+content": "Gillian Lange",
-                "+@id": "262643"
             }
         },
         {
@@ -324,30 +316,12 @@
             }
         },
         {
-            "+@gid": "1517025910",
-            "+@lang": "JA",
-            "role": "Ryoko Reizen",
-            "person": {
-                "+content": "Yū Kobayashi",
-                "+@id": "16095"
-            }
-        },
-        {
             "+@gid": "1392983424",
             "+@lang": "JA",
             "role": "Lilim Zebul",
             "person": {
                 "+content": "Yoshino Nanjō",
                 "+@id": "55281"
-            }
-        },
-        {
-            "+@gid": "1621822016",
-            "+@lang": "JA",
-            "role": "Yui Rorikawa",
-            "person": {
-                "+content": "Ayana Taketatsu",
-                "+@id": "73497"
             }
         },
         {
@@ -466,6 +440,6 @@
         }
     ],
     "+@date-added": "2025-04-15T20:37:45Z",
-    "+@date-last-modified-at": "2026-06-17T18:35:27Z",
-    "+@date-last-updated-at": "2026-06-17T18:35:27Z"
+    "+@date-last-modified-at": "2026-07-17T21:08:20Z",
+    "+@date-last-updated-at": "2026-07-17T21:08:20Z"
 }
