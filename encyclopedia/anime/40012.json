@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Metafear",
     "+@precision": "movie",
-    "+@generated-on": "2026-06-17T05:17:31Z",
+    "+@generated-on": "2026-07-17T06:09:58Z",
     "info": [
         {
             "+@gid": "1936090797",
@@ -32,6 +32,11 @@
             "+@lang": "EN"
         },
         {
+            "+content": "horror",
+            "+@gid": "2146375553",
+            "+@type": "Genres"
+        },
+        {
             "+content": "『Metafear』公式サイト",
             "+@gid": "569784008",
             "+@type": "Official website",
@@ -40,7 +45,7 @@
         }
     ],
     "news": {
-        "+content": "Bandai Namco Filmworks Reveals 'Sunrise 50th Anniversary' Project Including 6 Short Film Projects",
+        "+content": "Bandai Namco Filmworks Reveals 'Sunrise 50th Anniversary' Project Including 6 Short Film Projects (Updated)",
         "+@datetime": "2026-06-17T01:00:00Z",
         "+@href": "https://www.animenewsnetwork.com:/news/2026-06-16/bandai-namco-filmworks-reveals-sunrise-50th-anniversary-project-including-6-short-film-projects/.238575"
     },
@@ -62,14 +67,33 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2243473017",
-        "task": "Animation Production",
-        "company": {
-            "+content": "YAMATOWORKS",
-            "+@id": "27362"
+    "credit": [
+        {
+            "+@gid": "2243473017",
+            "task": "Animation Production",
+            "company": {
+                "+content": "YAMATOWORKS",
+                "+@id": "27362"
+            }
+        },
+        {
+            "+@gid": "257516281",
+            "task": "Production",
+            "company": {
+                "+content": "Sunrise",
+                "+@id": "34"
+            }
+        },
+        {
+            "+@gid": "892194809",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Namco Filmworks",
+                "+@id": "22618"
+            }
         }
-    },
+    ],
     "+@date-added": "2026-06-16T21:25:47Z",
-    "+@date-last-updated-at": "2026-06-17T05:17:32Z"
+    "+@date-last-modified-at": "2026-07-17T06:28:19Z",
+    "+@date-last-updated-at": "2026-07-17T06:28:19Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "From Far Away",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-17T05:17:26Z",
+    "+@generated-on": "2026-07-17T06:18:38Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "3101"
@@ -62,7 +62,7 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026",
+            "+content": "2026-10-04",
             "+@gid": "1804431232",
             "+@type": "Vintage"
         },
@@ -74,6 +74,11 @@
             "+@href": "https://kanatakara-anime.com/"
         }
     ],
+    "news": {
+        "+content": "<cite>From Far Away</cite> TV Anime's Teaser Video Reveals Main Cast & Staff Members, October 4 Debut",
+        "+@datetime": "2026-07-14T09:20:36Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-07-14/from-far-away-tv-anime-teaser-video-reveals-main-cast-and-staff-members-october-4-debut/.239580"
+    },
     "staff": [
         {
             "+@gid": "2299288832",
@@ -84,22 +89,95 @@
             }
         },
         {
+            "+@gid": "1900866408",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Rika Takasugi",
+                "+@id": "237717"
+            }
+        },
+        {
+            "+@gid": "3485755573",
+            "task": "Music",
+            "person": {
+                "+content": "Takeshi Hama",
+                "+@id": "79688"
+            }
+        },
+        {
             "+@gid": "2493904696",
             "task": "Original creator",
             "person": {
                 "+content": "Kyouko Hikawa",
                 "+@id": "18694"
             }
+        },
+        {
+            "+@gid": "2649281233",
+            "task": "Character Design",
+            "person": {
+                "+content": "Eiji Abiko",
+                "+@id": "18278"
+            }
         }
     ],
-    "credit": {
-        "+@gid": "1493418841",
-        "task": "Production",
-        "company": {
-            "+content": "NBCUniversal Entertainment Japan",
-            "+@id": "12727"
+    "cast": [
+        {
+            "+@gid": "1525180706",
+            "+@lang": "JA",
+            "role": "Noriko Tachiki",
+            "person": {
+                "+content": "Tomoyo Kurosawa",
+                "+@id": "86495"
+            }
+        },
+        {
+            "+@gid": "2557075585",
+            "+@lang": "JA",
+            "role": "Kaemos Lee Goda",
+            "person": {
+                "+content": "Eiji Takeuchi",
+                "+@id": "114535"
+            }
+        },
+        {
+            "+@gid": "1693803102",
+            "+@lang": "JA",
+            "role": "Rachev",
+            "person": {
+                "+content": "Yūichirō Umehara",
+                "+@id": "127402"
+            }
+        },
+        {
+            "+@gid": "2199941977",
+            "+@lang": "JA",
+            "role": "Isaac Kia Taj",
+            "person": {
+                "+content": "Kentarō Kumagai",
+                "+@id": "142194"
+            }
         }
-    },
+    ],
+    "credit": [
+        {
+            "+@gid": "2767691811",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Studio DEEN",
+                "+@id": "35"
+            }
+        },
+        {
+            "+@gid": "1493418841",
+            "task": "Production",
+            "company": {
+                "+content": "NBCUniversal Entertainment Japan",
+                "+@id": "12727"
+            }
+        }
+    ],
     "+@date-added": "2026-03-18T07:26:47Z",
-    "+@date-last-updated-at": "2026-06-17T05:17:32Z"
+    "+@date-last-modified-at": "2026-07-17T06:28:19Z",
+    "+@date-last-updated-at": "2026-07-17T06:28:19Z"
 }

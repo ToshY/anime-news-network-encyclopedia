@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Kobayashi Shōnen to Futei no Kaijin",
     "+@precision": "manga",
-    "+@generated-on": "2026-06-17T05:17:30Z",
+    "+@generated-on": "2026-07-17T06:28:29Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "4043"
@@ -47,6 +47,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "mystery",
+            "+@gid": "2266134310",
+            "+@type": "Genres"
+        },
+        {
             "+content": "5",
             "+@gid": "2934060537",
             "+@type": "Number of tankoubon"
@@ -72,14 +77,25 @@
         "+@datetime": "2018-10-01T01:00:00Z",
         "+@href": "https://www.animenewsnetwork.com:/news/2018-09-30/akimine-kamijyo-ends-kobayashi-shonen-to-futei-no-kaijin-manga-on-october-6/.137496"
     },
-    "staff": {
-        "+@gid": "2700009261",
-        "task": "Story & Art",
-        "person": {
-            "+content": "Akimine Kamijyō",
-            "+@id": "65631"
+    "staff": [
+        {
+            "+@gid": "2700009261",
+            "task": "Story & Art",
+            "person": {
+                "+content": "Akimine Kamijyō",
+                "+@id": "65631"
+            }
+        },
+        {
+            "+@gid": "2965042268",
+            "task": "Original creator",
+            "person": {
+                "+content": "Rampo Edogawa",
+                "+@id": "43769"
+            }
         }
-    },
+    ],
     "+@date-added": "2026-06-16T23:43:48Z",
-    "+@date-last-updated-at": "2026-06-17T05:17:31Z"
+    "+@date-last-modified-at": "2026-07-17T06:28:33Z",
+    "+@date-last-updated-at": "2026-07-17T06:28:33Z"
 }

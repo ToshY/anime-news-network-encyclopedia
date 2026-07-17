@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Clevatess",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-06-17T05:17:29Z",
+    "+@generated-on": "2026-07-17T06:07:42Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32863"
@@ -88,6 +88,11 @@
             "+@type": "Themes"
         },
         {
+            "+content": "school",
+            "+@gid": "698287487",
+            "+@type": "Themes"
+        },
+        {
             "+content": "tragedy",
             "+@gid": "2852938716",
             "+@type": "Themes"
@@ -130,6 +135,10 @@
             "+@href": "https://clevatess.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "4",
+        "+@weighted_score": "7.4918"
+    },
     "news": [
         {
             "+content": "<cite>Clevatess</cite> Anime Gets 2nd Season (Updated)",
@@ -155,6 +164,16 @@
             "+content": "<cite>Clevatess II</cite> Anime Reveals 3rd Promo Video, 2 Cast Members, Ending Song, July 8 Debut",
             "+@datetime": "2026-06-09T10:01:09Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-09/clevatess-ii-anime-reveals-3rd-promo-video-2-cast-members-ending-song-july-8-debut/.238311"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Summer 2026 Season",
+            "+@datetime": "2026-06-17T17:45:10Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-17/crunchyroll-announces-release-schedule-for-summer-2026-season/.238615"
+        },
+        {
+            "+content": "Crunchyroll India to Stream <cite>Black Torch</cite>, <cite>Dara-san of Reiwa</cite>, <cite>Kaiju Girl Caramelise</cite>, More Anime in Summer 2026",
+            "+@datetime": "2026-06-21T07:50:07Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-21/crunchyroll-india-to-stream-black-torch-dara-san-of-reiwa-kaiju-girl-caramelise-more-anime-in-/.238716"
         }
     ],
     "staff": [
@@ -256,6 +275,330 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "2180976207",
+            "+@lang": "EN",
+            "role": "Romain",
+            "person": {
+                "+content": "Brian Mathis",
+                "+@id": "67879"
+            }
+        },
+        {
+            "+@gid": "1547583230",
+            "+@lang": "EN",
+            "role": "Luna",
+            "person": {
+                "+content": "Lara Woodhull",
+                "+@id": "106830"
+            }
+        },
+        {
+            "+@gid": "2365656988",
+            "+@lang": "EN",
+            "role": "Leon",
+            "person": {
+                "+content": "Ricco Fajardo",
+                "+@id": "107339"
+            }
+        },
+        {
+            "+@gid": "1973137010",
+            "+@lang": "EN",
+            "role": "Rhode",
+            "person": {
+                "+content": "Aaron Roberts",
+                "+@id": "115172"
+            }
+        },
+        {
+            "+@gid": "1098224750",
+            "+@lang": "EN",
+            "role": "Naie",
+            "person": {
+                "+content": "Mallorie Rodak",
+                "+@id": "130001"
+            }
+        },
+        {
+            "+@gid": "2244095438",
+            "+@lang": "EN",
+            "role": "Ray",
+            "person": {
+                "+content": "Justin Briner",
+                "+@id": "130749"
+            }
+        },
+        {
+            "+@gid": "1001488835",
+            "+@lang": "EN",
+            "role": "Klen",
+            "person": {
+                "+content": "Morgan Berry",
+                "+@id": "132751"
+            }
+        },
+        {
+            "+@gid": "2227716795",
+            "+@lang": "EN",
+            "role": "Milea",
+            "person": {
+                "+content": "Jill Harris",
+                "+@id": "138979"
+            }
+        },
+        {
+            "+@gid": "1417074783",
+            "+@lang": "EN",
+            "role": "Tygel",
+            "person": {
+                "+content": "Alejandro Saab",
+                "+@id": "144413"
+            }
+        },
+        {
+            "+@gid": "1744955802",
+            "+@lang": "EN",
+            "role": "Mary Mary",
+            "person": {
+                "+content": "Marisa Duran",
+                "+@id": "154417"
+            }
+        },
+        {
+            "+@gid": "1994193235",
+            "+@lang": "EN",
+            "role": "Andrew",
+            "person": {
+                "+content": "Ciarán Strange",
+                "+@id": "184715"
+            }
+        },
+        {
+            "+@gid": "1109574162",
+            "+@lang": "EN",
+            "role": "Nelluru",
+            "person": {
+                "+content": "Celeste Perez",
+                "+@id": "203685"
+            }
+        },
+        {
+            "+@gid": "3922022856",
+            "+@lang": "EN",
+            "role": "Edison",
+            "person": {
+                "+content": "Kevin D. Thelwell",
+                "+@id": "222444"
+            }
+        },
+        {
+            "+@gid": "2934012237",
+            "+@lang": "EN",
+            "role": "Alica",
+            "person": {
+                "+content": "Katie Wetch",
+                "+@id": "237851"
+            }
+        },
+        {
+            "+@gid": "3596289484",
+            "+@lang": "EN",
+            "role": "Sarasa",
+            "person": {
+                "+content": "Monica Flatley",
+                "+@id": "240600"
+            }
+        },
+        {
+            "+@gid": "1581251232",
+            "+@lang": "ES",
+            "role": "Alicia Glenfall",
+            "person": {
+                "+content": "Alondra Hidalgo",
+                "+@id": "31197"
+            }
+        },
+        {
+            "+@gid": "2175664714",
+            "+@lang": "ES",
+            "role": "Clevatess",
+            "person": {
+                "+content": "Erick Selim",
+                "+@id": "152901"
+            }
+        },
+        {
+            "+@gid": "2146681457",
+            "+@lang": "ES",
+            "role": "Clen",
+            "person": {
+                "+content": "Danann Huicochea",
+                "+@id": "156392"
+            }
+        },
+        {
+            "+@gid": "3497861143",
+            "+@lang": "ES",
+            "role": "Luna",
+            "person": {
+                "+content": "Lucía Suárez",
+                "+@id": "175656"
+            }
+        },
+        {
+            "+@gid": "3176489121",
+            "+@lang": "FR",
+            "role": "Tiger Blueye",
+            "person": {
+                "+content": "Benjamin Thomas",
+                "+@id": "19359"
+            }
+        },
+        {
+            "+@gid": "682232271",
+            "+@lang": "FR",
+            "role": "Rod Loyce",
+            "person": {
+                "+content": "Alexandre Crépet",
+                "+@id": "52982"
+            }
+        },
+        {
+            "+@gid": "799166944",
+            "+@lang": "FR",
+            "role": "Nayeh Chiffonritz",
+            "person": {
+                "+content": "Claire Tefnin",
+                "+@id": "53859"
+            }
+        },
+        {
+            "+@gid": "3123074543",
+            "+@lang": "FR",
+            "role": "Clenn",
+            "person": {
+                "+content": "Fabienne Loriaux",
+                "+@id": "58717"
+            }
+        },
+        {
+            "+@gid": "641330810",
+            "+@lang": "FR",
+            "role": "Edison Lewcraft",
+            "person": {
+                "+content": "Gregory Praet",
+                "+@id": "59626"
+            }
+        },
+        {
+            "+@gid": "3466810654",
+            "+@lang": "FR",
+            "role": "Mary Merryweather",
+            "person": {
+                "+content": "Laetitia Liénart",
+                "+@id": "68740"
+            }
+        },
+        {
+            "+@gid": "2060526699",
+            "+@lang": "FR",
+            "role": "Elrow Romaine",
+            "person": {
+                "+content": "Michel Hinderyckx",
+                "+@id": "71691"
+            }
+        },
+        {
+            "+@gid": "735527611",
+            "+@lang": "FR",
+            "role": "Alicia Glenfall",
+            "person": {
+                "+content": "Audrey D'Hulstere",
+                "+@id": "73097"
+            }
+        },
+        {
+            "+@gid": "2241804434",
+            "+@lang": "FR",
+            "role": "Milea Renault Wards",
+            "person": {
+                "+content": "Aaricia Dubois",
+                "+@id": "86544"
+            }
+        },
+        {
+            "+@gid": "2540874955",
+            "+@lang": "FR",
+            "role": "Clevatess",
+            "person": {
+                "+content": "Nicolas Matthys",
+                "+@id": "114851"
+            }
+        },
+        {
+            "+@gid": "2390494561",
+            "+@lang": "FR",
+            "role": "Ray Forester",
+            "person": {
+                "+content": "Damien Locqueneux",
+                "+@id": "134761"
+            }
+        },
+        {
+            "+@gid": "1463790623",
+            "+@lang": "FR",
+            "role": "Lang Face",
+            "person": {
+                "+content": "Simon Duprez",
+                "+@id": "151712"
+            }
+        },
+        {
+            "+@gid": "1436888059",
+            "+@lang": "FR",
+            "role": "Saraça Lu Eira Lafoca",
+            "person": {
+                "+content": "Marie Braam",
+                "+@id": "164178"
+            }
+        },
+        {
+            "+@gid": "1956024192",
+            "+@lang": "FR",
+            "role": "Voldin",
+            "person": {
+                "+content": "Jean-François Rossion",
+                "+@id": "171936"
+            }
+        },
+        {
+            "+@gid": "1487898908",
+            "+@lang": "FR",
+            "role": "Andrew Whip",
+            "person": {
+                "+content": "Arthur Dubois",
+                "+@id": "213181"
+            }
+        },
+        {
+            "+@gid": "1707700140",
+            "+@lang": "FR",
+            "role": "Lion Blueye",
+            "person": {
+                "+content": "Matteo Marchese",
+                "+@id": "214002"
+            }
+        },
+        {
+            "+@gid": "2449754757",
+            "+@lang": "FR",
+            "role": "Nathan Fran",
+            "person": {
+                "+content": "Estelle Strypstein",
+                "+@id": "241874"
+            }
+        },
         {
             "+@gid": "3642288745",
             "+@lang": "JA",
@@ -428,6 +771,6 @@
         }
     },
     "+@date-added": "2025-09-17T19:00:48Z",
-    "+@date-last-modified-at": "2026-06-17T05:17:32Z",
-    "+@date-last-updated-at": "2026-06-17T05:17:32Z"
+    "+@date-last-modified-at": "2026-07-17T06:28:20Z",
+    "+@date-last-updated-at": "2026-07-17T06:28:20Z"
 }

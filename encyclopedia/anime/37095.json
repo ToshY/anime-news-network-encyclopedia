@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Frontier Lord Begins with Zero Subjects",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-17T05:17:30Z",
+    "+@generated-on": "2026-07-17T06:22:26Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28875"
@@ -13,19 +13,24 @@
         {
             "+@gid": "4036040471",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37095-4036040471.1773749404.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37095-4036040471.1781867153.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37095-4036040471.1773749404.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37095-4036040471.1781867153.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37095-4036040471.1773749404.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37095-4036040471.1781867153.jpg",
+                    "+@width": "425",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37095-4036040471.1781867153.jpg",
+                    "+@width": "657",
+                    "+@height": "928"
                 }
             ]
         },
@@ -48,9 +53,24 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "1314055706",
+            "+@type": "Genres"
+        },
+        {
             "+content": "fantasy",
             "+@gid": "782824992",
             "+@type": "Genres"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "3169384239",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "1520433375",
+            "+@type": "Objectionable content"
         },
         {
             "+content": "Dias finally returns home after decades of war. He's hailed as a hero and promptly rewarded with his own domain...which turns out to be little more than empty plains. Population: zero. Dias, who has only ever known battle, finds himself at a loss. Fortunately for Dias, a horned girl by the name of Alna is about to show him there's more to the plains than meets the eye.",
@@ -58,7 +78,17 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026-07-10",
+            "+content": "23",
+            "+@gid": "2199723214",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "2026-07-03 (early streaming)",
+            "+@gid": "1586502097",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2026-07-10 (TV broadcast)",
             "+@gid": "1653797716",
             "+@type": "Vintage"
         },
@@ -80,6 +110,10 @@
             "+@href": "https://ryomin0-anime.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "4",
+        "+@weighted_score": "3.2261"
+    },
     "news": [
         {
             "+content": "<i>The Frontier Lord Begins with Zero Subjects</i> Novels Get TV Anime",
@@ -95,6 +129,21 @@
             "+content": "<cite>The Frontier Lord Begins with Zero Subjects</cite> Anime Reveals Theme Songs, July 10 Debut in Video",
             "+@datetime": "2026-05-29T11:02:51Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-05-29/the-frontier-lord-begins-with-zero-subjects-anime-reveals-theme-songs-july-10-debut-in-video/.237940"
+        },
+        {
+            "+content": "<cite>The Frontier Lord Begins with Zero Subjects</cite> Anime Reveals 3rd Promo Video, More Cast, Early Debut on Prime Video",
+            "+@datetime": "2026-06-19T10:22:54Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-19/the-frontier-lord-begins-with-zero-subjects-anime-reveals-3rd-promo-video-more-cast-early-debut-on-/.238696"
+        },
+        {
+            "+content": "Crunchyroll to Stream <cite>One Piece Heroines</cite>, <cite>BanG Dream! Yume∞Mita</cite>, <cite>The Frontier Lord Begins with Zero Subjects</cite>, More Anime",
+            "+@datetime": "2026-06-30T16:03:25Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-30/crunchyroll-to-stream-one-piece-heroines-bang-dream-yume-mita-the-frontier-lord-begins-with-zero-/.239144"
+        },
+        {
+            "+content": "Anime Times Streams <cite>Though I Am an Inept Villainess</cite>,  <cite>Grand Blue Dreaming</cite>, More Anime in India",
+            "+@datetime": "2026-07-09T14:20:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-09/anime-times-streams-though-i-am-an-inept-villainess-grand-blue-dreaming-more-anime-in-india/.239423"
         }
     ],
     "staff": [
@@ -191,6 +240,15 @@
             }
         },
         {
+            "+@gid": "2895090185",
+            "+@lang": "JA",
+            "role": "Richard",
+            "person": {
+                "+content": "Takuma Terashima",
+                "+@id": "55286"
+            }
+        },
+        {
             "+@gid": "2233098861",
             "+@lang": "JA",
             "role": "Alna",
@@ -218,12 +276,30 @@
             }
         },
         {
+            "+@gid": "2891344899",
+            "+@lang": "JA",
+            "role": "Canise",
+            "person": {
+                "+content": "Minami Tsuda",
+                "+@id": "94856"
+            }
+        },
+        {
             "+@gid": "2856468552",
             "+@lang": "JA",
             "role": "Eima",
             "person": {
                 "+content": "Nao Tōyama",
                 "+@id": "95316"
+            }
+        },
+        {
+            "+@gid": "1077685026",
+            "+@lang": "JA",
+            "role": "Meiser",
+            "person": {
+                "+content": "Shōya Chiba",
+                "+@id": "97379"
             }
         },
         {
@@ -242,6 +318,15 @@
             "person": {
                 "+content": "Miku Itō",
                 "+@id": "119924"
+            }
+        },
+        {
+            "+@gid": "1291047897",
+            "+@lang": "JA",
+            "role": "Zorg",
+            "person": {
+                "+content": "Kentarō Kumagai",
+                "+@id": "142194"
             }
         },
         {
@@ -291,6 +376,6 @@
         }
     ],
     "+@date-added": "2025-07-19T03:12:30Z",
-    "+@date-last-modified-at": "2026-06-17T05:17:32Z",
-    "+@date-last-updated-at": "2026-06-17T05:17:32Z"
+    "+@date-last-modified-at": "2026-07-17T06:28:20Z",
+    "+@date-last-updated-at": "2026-07-17T06:28:20Z"
 }

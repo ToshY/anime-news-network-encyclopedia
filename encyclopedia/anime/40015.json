@@ -4,7 +4,11 @@
     "+@type": "TV",
     "+@name": "Yuruyuru Zukan",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-17T05:17:31Z",
+    "+@generated-on": "2026-07-17T06:24:42Z",
+    "related-prev": {
+        "+@rel": "part of",
+        "+@id": "37945"
+    },
     "info": [
         {
             "+@gid": "2623379120",
@@ -43,6 +47,13 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "TVアニメ「ゆるゆる図鑑」公式サイト",
+            "+@gid": "1552420273",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://animationid.com/yuruyuruzukan/"
+        },
+        {
             "+content": "ゆるゆる図鑑 テレビ東京アニメ公式",
             "+@gid": "2570058052",
             "+@type": "Official website",
@@ -50,11 +61,80 @@
             "+@href": "https://www.tv-tokyo.co.jp/anime/yuruyuru/"
         }
     ],
-    "news": {
-        "+content": "<cite>Yuruyuru Zukan</cite> Children's Books Get TV Anime in October",
-        "+@datetime": "2026-06-17T02:39:48Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-06-16/yuruyuru-zukan-children-books-get-tv-anime-in-october/.238593"
+    "news": [
+        {
+            "+content": "<cite>Yuruyuru Zukan</cite> Children's Books Get TV Anime in October",
+            "+@datetime": "2026-06-17T02:39:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-16/yuruyuru-zukan-children-books-get-tv-anime-in-october/.238593"
+        },
+        {
+            "+content": "<cite>Yuruyuru Zukan</cite> Anime's Teaser Reveals Cast, Staff",
+            "+@datetime": "2026-07-15T04:52:38Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-15/yuruyuru-zukan-anime-teaser-reveals-cast-staff/.239613"
+        }
+    ],
+    "staff": [
+        {
+            "+@gid": "1930370473",
+            "task": "Director",
+            "person": {
+                "+content": "Keizō Abe",
+                "+@id": "273015"
+            }
+        },
+        {
+            "+@gid": "261475893",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Satoshi Mizuno",
+                "+@id": "241034"
+            }
+        },
+        {
+            "+@gid": "2270919712",
+            "task": "Music",
+            "person": {
+                "+content": "Yūta Tamura",
+                "+@id": "300238"
+            }
+        },
+        {
+            "+@gid": "802699210",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Taeko Miura",
+                "+@id": "190748"
+            }
+        }
+    ],
+    "cast": {
+        "+@gid": "2510346059",
+        "+@lang": "JA",
+        "role": "Hato (Pigeon)",
+        "person": {
+            "+content": "Emi Nitta",
+            "+@id": "96816"
+        }
     },
+    "credit": [
+        {
+            "+@gid": "443580517",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Imageworks Studio",
+                "+@id": "23023"
+            }
+        },
+        {
+            "+@gid": "1502400938",
+            "task": "Animation Production",
+            "company": {
+                "+content": "IMAGICA Infos",
+                "+@id": "24988"
+            }
+        }
+    ],
     "+@date-added": "2026-06-16T22:56:24Z",
-    "+@date-last-updated-at": "2026-06-17T05:17:32Z"
+    "+@date-last-modified-at": "2026-07-17T06:28:19Z",
+    "+@date-last-updated-at": "2026-07-17T06:28:19Z"
 }
