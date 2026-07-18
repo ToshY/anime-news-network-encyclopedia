@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Ramparts of Ice",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-18T11:57:51Z",
+    "+@generated-on": "2026-07-18T13:51:12Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26995"
+    },
+    "related-next": {
+        "+@id": "40257",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -102,8 +106,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "8",
-        "+@weighted_score": "6.1524"
+        "+@nb_votes": "48",
+        "+@weighted_score": "7.3344",
+        "+@bayesian_score": "7.36146"
     },
     "news": [
         {
@@ -140,6 +145,11 @@
             "+content": "<cite>The Ramparts of Ice</cite> Anime Reveals 3 More Cast Members",
             "+@datetime": "2026-03-26T14:30:51Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-03-26/the-ramparts-of-ice-anime-reveals-3-more-cast-members/.235767"
+        },
+        {
+            "+content": "<cite>The Ramparts of Ice</cite> Anime Gets 2nd Season in October",
+            "+@datetime": "2026-07-02T17:57:58Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-02/the-ramparts-of-ice-anime-gets-2nd-season-in-october/.239222"
         }
     ],
     "staff": [
@@ -361,6 +371,15 @@
             }
         },
         {
+            "+@gid": "2695771686",
+            "+@lang": "FR",
+            "role": "Momoka Kuriki",
+            "person": {
+                "+content": "Valérie Bachère",
+                "+@id": "136049"
+            }
+        },
+        {
             "+@gid": "2127644002",
             "+@lang": "FR",
             "role": "Koyuki Hikawa",
@@ -379,12 +398,30 @@
             }
         },
         {
+            "+@gid": "523761519",
+            "+@lang": "FR",
+            "role": "Akine Atagawa",
+            "person": {
+                "+content": "Kaïna Blada",
+                "+@id": "177876"
+            }
+        },
+        {
             "+@gid": "1235590088",
             "+@lang": "FR",
             "role": "Tsubasa Igarashi",
             "person": {
                 "+content": "Paul Bertin-Hugault",
                 "+@id": "206376"
+            }
+        },
+        {
+            "+@gid": "1847174438",
+            "+@lang": "FR",
+            "role": "Tsukiko Shimojima",
+            "person": {
+                "+content": "Elena Grillotti",
+                "+@id": "236182"
             }
         },
         {
@@ -685,6 +722,6 @@
         }
     },
     "+@date-added": "2025-01-31T06:58:44Z",
-    "+@date-last-modified-at": "2026-06-18T11:57:55Z",
-    "+@date-last-updated-at": "2026-06-18T11:57:55Z"
+    "+@date-last-modified-at": "2026-07-18T13:51:16Z",
+    "+@date-last-updated-at": "2026-07-18T13:51:16Z"
 }

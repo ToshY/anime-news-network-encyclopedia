@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "We Are Aliens",
     "+@precision": "movie",
-    "+@generated-on": "2026-06-18T11:57:50Z",
+    "+@generated-on": "2026-07-18T13:51:11Z",
     "info": [
         {
             "+@gid": "2300784404",
@@ -54,9 +54,13 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026",
-            "+@gid": "1758501217",
+            "+content": "2026-09-25",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2026-09-25 (Japan)",
+            "+@gid": "2670572584",
+            "+@type": "Premiere date"
         },
         {
             "+content": "我々は宇宙人 | NOTHING NEW",
@@ -66,6 +70,10 @@
             "+@href": "https://nothingnew.ltd/ja/films/wearealiens"
         }
     ],
+    "review": {
+        "+content": "<cite>We Are Aliens</cite> Anime Movie Review",
+        "+@href": "https://www.animenewsnetwork.com/review/we-are-aliens-anime-movie/.238373"
+    },
     "news": [
         {
             "+content": "Kohei Kadowaki, Film Label Nothing New Reveal <cite>We Are Aliens</cite> Anime Film in Video",
@@ -119,9 +127,9 @@
     ],
     "cast": [
         {
-            "+@gid": "1639893621",
+            "+@gid": "2138590778",
             "+@lang": "JA",
-            "role": "Akitarō",
+            "role": "Gyōtarō",
             "person": {
                 "+content": "Amane Okayama",
                 "+@id": "232351"
@@ -135,6 +143,24 @@
                 "+content": "Ryōta Bandō",
                 "+@id": "267613"
             }
+        },
+        {
+            "+@gid": "1660667811",
+            "+@lang": "JA",
+            "role": "Gyōtarō",
+            "person": {
+                "+content": "Tasuku Nakagome",
+                "+@id": "299516"
+            }
+        },
+        {
+            "+@gid": "2557098835",
+            "+@lang": "JA",
+            "role": "Tsubasa",
+            "person": {
+                "+content": "Yūto Maki",
+                "+@id": "299517"
+            }
         }
     ],
     "credit": {
@@ -146,5 +172,6 @@
         }
     },
     "+@date-added": "2025-11-17T07:37:06Z",
-    "+@date-last-updated-at": "2026-06-18T11:57:54Z"
+    "+@date-last-modified-at": "2026-07-18T13:51:16Z",
+    "+@date-last-updated-at": "2026-07-18T13:51:16Z"
 }
