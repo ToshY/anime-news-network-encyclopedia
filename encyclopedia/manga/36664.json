@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Myther",
     "+@precision": "manga",
-    "+@generated-on": "2026-06-17T22:14:34Z",
+    "+@generated-on": "2026-07-18T03:33:40Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "22882"
@@ -52,6 +52,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "thriller",
+            "+@gid": "885071492",
+            "+@type": "Genres"
+        },
+        {
             "+content": "2025-02-18 (serialized on Getsu Maga Kichi / Comic Days)",
             "+@gid": "1613907132",
             "+@type": "Vintage"
@@ -64,11 +69,18 @@
             "+@href": "https://comic-days.com/episode/2550912965053100625"
         }
     ],
-    "news": {
-        "+content": "<cite>The Yakuza's Bias</cite> Manga Artist Teki Yatsuda Announces New Series",
-        "+@datetime": "2025-01-21T22:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-01-21/the-yakuza-bias-manga-artist-teki-yatsuda-announces-new-series/.220267"
-    },
+    "news": [
+        {
+            "+content": "<cite>The Yakuza's Bias</cite> Manga Artist Teki Yatsuda Announces New Series",
+            "+@datetime": "2025-01-21T22:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-01-21/the-yakuza-bias-manga-artist-teki-yatsuda-announces-new-series/.220267"
+        },
+        {
+            "+content": "Kodansha USA Announces Print Releases for <cite>Phoenix</cite>, <cite>Witch Hat Atelier: Special Stories</cite>, <cite>Historié</cite>, <cite>Fatale Game</cite>, More Manga",
+            "+@datetime": "2026-07-03T01:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-02/kodansha-usa-announces-print-releases-for-phoenix-witch-hat-atelier-special-stories-historie-fatale-/.239224"
+        }
+    ],
     "staff": {
         "+@gid": "1831672549",
         "task": "Story & Art",
@@ -78,5 +90,6 @@
         }
     },
     "+@date-added": "2025-06-20T06:16:19Z",
-    "+@date-last-updated-at": "2026-06-17T22:14:35Z"
+    "+@date-last-modified-at": "2026-07-18T03:33:42Z",
+    "+@date-last-updated-at": "2026-07-18T03:33:42Z"
 }

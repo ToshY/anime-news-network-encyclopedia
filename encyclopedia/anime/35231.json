@@ -4,15 +4,21 @@
     "+@type": "ONA",
     "+@name": "Milky☆Subway: The Galactic Limited Express",
     "+@precision": "ONA",
-    "+@generated-on": "2026-06-17T22:14:32Z",
+    "+@generated-on": "2026-07-18T03:33:36Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "35230"
     },
-    "related-next": {
-        "+@id": "38105",
-        "+@rel": "compilation"
-    },
+    "related-next": [
+        {
+            "+@id": "38105",
+            "+@rel": "compilation"
+        },
+        {
+            "+@id": "40339",
+            "+@rel": "spinoff"
+        }
+    ],
     "info": [
         {
             "+@gid": "2537067694",
@@ -87,9 +93,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "22",
-        "+@weighted_score": "8.2289",
-        "+@bayesian_score": "7.96119"
+        "+@nb_votes": "23",
+        "+@weighted_score": "8.2663",
+        "+@bayesian_score": "7.99318"
     },
     "review": {
         "+content": "<cite>Milky☆Subway: The Galactic Limited Express</cite> Anime Series Review",
@@ -125,6 +131,11 @@
             "+content": "<cite>Gintama</cite> 'Yoshiwara in Flames' Compilation Film Drops to #3, <cite>Cosmic Princess Kaguya!</cite> Film Re-Opens at #5",
             "+@datetime": "2026-02-26T07:38:03Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-02-26/gintama-yoshiwara-in-flames-compilation-film-drops-to-no.3-cosmic-princess-kaguya-film-re-opens-at-/.234523"
+        },
+        {
+            "+content": "<cite>Milky☆Subway: The Galactic Limited Express</cite> Anime Gets New Short Anime",
+            "+@datetime": "2026-07-13T19:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-13/milky-subway-the-galactic-limited-express-anime-gets-new-short-anime/.239559"
         }
     ],
     "staff": [
@@ -531,24 +542,6 @@
             }
         },
         {
-            "+@gid": "2083152058",
-            "+@lang": "PT",
-            "role": "Makina Kurusu",
-            "person": {
-                "+content": "Marcella Almeida",
-                "+@id": "201380"
-            }
-        },
-        {
-            "+@gid": "1231976837",
-            "+@lang": "PT",
-            "role": "Kanata Iwao",
-            "person": {
-                "+content": "Emanuela Alves",
-                "+@id": "223401"
-            }
-        },
-        {
             "+@gid": "1798927082",
             "+@lang": "PT",
             "role": "Max MacCallister",
@@ -657,6 +650,6 @@
         }
     },
     "+@date-added": "2025-03-19T02:56:46Z",
-    "+@date-last-modified-at": "2026-06-17T22:14:36Z",
-    "+@date-last-updated-at": "2026-06-17T22:14:36Z"
+    "+@date-last-modified-at": "2026-07-18T03:33:39Z",
+    "+@date-last-updated-at": "2026-07-18T03:33:39Z"
 }

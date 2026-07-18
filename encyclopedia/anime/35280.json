@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Draw This, Then Die!",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-17T22:14:32Z",
+    "+@generated-on": "2026-07-18T03:33:35Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26719"
@@ -85,6 +85,28 @@
             "+@href": "https://www.vap.co.jp/korekaite-shine/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "3.1215"
+    },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "Magic House ~ What Would a Manga Protagonist Do Here?",
+                "+@gid": "3073702658",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "You Are Brilliant ~ Drawing Manga Is Hard",
+                "+@gid": "2980468454",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "<cite>'Draw this, then die!'</cite> TV Anime's Teaser  Announces Staff, 2026 Debut",
@@ -110,6 +132,21 @@
             "+content": "<cite>'Draw This, Then Die!'</cite> Anime's 2nd Promo Video Reveals Ending Song",
             "+@datetime": "2026-06-08T09:57:13Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-08/draw-this-then-die-anime-2nd-promo-video-reveals-ending-song/.238274"
+        },
+        {
+            "+content": "Crunchyroll to Stream <cite>One Piece Heroines</cite>, <cite>BanG Dream! Yume∞Mita</cite>, <cite>The Frontier Lord Begins with Zero Subjects</cite>, More Anime",
+            "+@datetime": "2026-06-30T16:03:25Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-30/crunchyroll-to-stream-one-piece-heroines-bang-dream-yume-mita-the-frontier-lord-begins-with-zero-/.239144"
+        },
+        {
+            "+content": "Crunchyroll India Streams <cite>'Draw This, Then Die!'</cite>, <cite>Recommendation from Mr. Iwamoto</cite>, More Anime",
+            "+@datetime": "2026-07-04T05:54:30Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-04/crunchyroll-india-streams-draw-this-then-die-recommendation-from-mr-iwamoto-more-anime/.239257"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, June 29-July 5",
+            "+@datetime": "2026-07-11T19:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-11/japanese-animation-tv-ranking-june-29-july-5/.239490"
         }
     ],
     "staff": [
@@ -204,6 +241,69 @@
     ],
     "cast": [
         {
+            "+@gid": "2467931004",
+            "+@lang": "EN",
+            "role": "Nana Teramura",
+            "person": {
+                "+content": "Amber Lee Connors",
+                "+@id": "134788"
+            }
+        },
+        {
+            "+@gid": "2544764735",
+            "+@lang": "EN",
+            "role": "Hikaru Sekiryu",
+            "person": {
+                "+content": "Justine Huxley",
+                "+@id": "191565"
+            }
+        },
+        {
+            "+@gid": "2687929780",
+            "+@lang": "EN",
+            "role": "Pokota",
+            "person": {
+                "+content": "Francesca Calo",
+                "+@id": "198232"
+            }
+        },
+        {
+            "+@gid": "1139267731",
+            "+@lang": "EN",
+            "role": "Kokoro Fujimori",
+            "person": {
+                "+content": "Madeline Dorroh",
+                "+@id": "203714"
+            }
+        },
+        {
+            "+@gid": "2749949580",
+            "+@lang": "EN",
+            "role": "Rei Teshima",
+            "person": {
+                "+content": "Crystal Lee",
+                "+@id": "215677"
+            }
+        },
+        {
+            "+@gid": "2161849165",
+            "+@lang": "EN",
+            "role": "Sachi Akafuku",
+            "person": {
+                "+content": "LilyPichu",
+                "+@id": "230146"
+            }
+        },
+        {
+            "+@gid": "1374251132",
+            "+@lang": "EN",
+            "role": "Ai Yasumi",
+            "person": {
+                "+content": "Audrey Hsieh",
+                "+@id": "278236"
+            }
+        },
+        {
             "+@gid": "3807886413",
             "+@lang": "JA",
             "role": "Pokota",
@@ -283,6 +383,69 @@
                 "+content": "Saya Hitomi",
                 "+@id": "242323"
             }
+        },
+        {
+            "+@gid": "2180726257",
+            "+@lang": "TL",
+            "role": "Ai Yasumi",
+            "person": {
+                "+content": "Nelieza Magauay",
+                "+@id": "95901"
+            }
+        },
+        {
+            "+@gid": "2366983697",
+            "+@lang": "TL",
+            "role": "Pokota",
+            "person": {
+                "+content": "Mitchiko Azarcon-Tiongson",
+                "+@id": "104688"
+            }
+        },
+        {
+            "+@gid": "432037438",
+            "+@lang": "TL",
+            "role": "Sachi Akafuku",
+            "person": {
+                "+content": "Elle Genovata",
+                "+@id": "126407"
+            }
+        },
+        {
+            "+@gid": "2932793358",
+            "+@lang": "TL",
+            "role": "Hana Kongouji",
+            "person": {
+                "+content": "Alexandra Aguirre",
+                "+@id": "249179"
+            }
+        },
+        {
+            "+@gid": "1667229206",
+            "+@lang": "TL",
+            "role": "Hikaru Sekiryu",
+            "person": {
+                "+content": "Alexandra Aguirre",
+                "+@id": "249179"
+            }
+        },
+        {
+            "+@gid": "2231731855",
+            "+@lang": "TL",
+            "role": "Kokoro Fujimori",
+            "person": {
+                "+content": "Andrea Belo-Caronan",
+                "+@id": "300029"
+            }
+        },
+        {
+            "+@gid": "3154491725",
+            "+@lang": "TL",
+            "role": "Nana Teramura",
+            "person": {
+                "+content": "Gia Peña",
+                "+@id": "300030"
+            }
         }
     ],
     "credit": {
@@ -294,6 +457,6 @@
         }
     },
     "+@date-added": "2025-03-22T04:01:29Z",
-    "+@date-last-modified-at": "2026-06-17T22:14:36Z",
-    "+@date-last-updated-at": "2026-06-17T22:14:36Z"
+    "+@date-last-modified-at": "2026-07-18T03:33:39Z",
+    "+@date-last-updated-at": "2026-07-18T03:33:39Z"
 }
