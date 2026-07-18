@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Red Cat Ramen",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-06-18T15:53:35Z",
+    "+@generated-on": "2026-07-18T17:15:29Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "30862"
@@ -13,24 +13,24 @@
         {
             "+@gid": "1859003065",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34221-1859003065.1734750866.jpg",
-            "+@width": "200",
-            "+@height": "113",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34221-1859003065.1781926886.jpg",
+            "+@width": "142",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34221-1859003065.1734750866.jpg",
-                    "+@width": "200",
-                    "+@height": "113"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34221-1859003065.1781926886.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34221-1859003065.1734750866.jpg",
-                    "+@width": "500",
-                    "+@height": "282"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34221-1859003065.1781926886.jpg",
+                    "+@width": "425",
+                    "+@height": "600"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34221-1859003065.1734750866.jpg",
-                    "+@width": "600",
-                    "+@height": "338"
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34221-1859003065.1781926886.jpg",
+                    "+@width": "438",
+                    "+@height": "619"
                 }
             ]
         },
@@ -63,21 +63,212 @@
             "+@type": "Themes"
         },
         {
+            "+content": "2027-01",
+            "+@gid": "1278163660",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "アニメ『ラーメン赤猫』公式サイト",
             "+@gid": "3925910214",
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://ramenakaneko.com/"
+        },
+        {
+            "+content": "TV anime \"Ramen Akaneko\" Official Website",
+            "+@gid": "3089109239",
+            "+@type": "Official website",
+            "+@lang": "EN",
+            "+@href": "https://ramenakaneko.com/en/"
         }
     ],
-    "staff": {
-        "+@gid": "2554549622",
-        "task": "Original creator",
-        "person": {
-            "+content": "ANGYAMAN",
-            "+@id": "222600"
-        }
+    "news": {
+        "+content": "<cite>Red Cat Ramen</cite> Anime's 2nd Season Reveals More Cast, January 2027 Debut",
+        "+@datetime": "2026-06-20T05:00:04Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-06-20/red-cat-ramen-anime-2nd-season-reveals-more-cast-january-2027-debut/.238720"
     },
+    "staff": [
+        {
+            "+@gid": "2991310815",
+            "task": "Director",
+            "person": {
+                "+content": "Hisatoshi Shimizu",
+                "+@id": "74492"
+            }
+        },
+        {
+            "+@gid": "1666854326",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Shigeru Murakoshi",
+                "+@id": "128991"
+            }
+        },
+        {
+            "+@gid": "2358442451",
+            "task": "Script",
+            "person": {
+                "+content": "Shigeru Murakoshi",
+                "+@id": "128991"
+            }
+        },
+        {
+            "+@gid": "2874759319",
+            "task": "Music",
+            "person": {
+                "+content": "Hirotaka Matsuoka",
+                "+@id": "263644"
+            }
+        },
+        {
+            "+@gid": "2554549622",
+            "task": "Original creator",
+            "person": {
+                "+content": "ANGYAMAN",
+                "+@id": "222600"
+            }
+        },
+        {
+            "+@gid": "1499277288",
+            "task": "Character Design",
+            "person": {
+                "+content": "Michinori Chiba",
+                "+@id": "8334"
+            }
+        },
+        {
+            "+@gid": "3629883158",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yann Le Gall",
+                "+@id": "92642"
+            }
+        },
+        {
+            "+@gid": "2754895661",
+            "task": "Art Director",
+            "person": {
+                "+content": "Julieta Colás",
+                "+@id": "244779"
+            }
+        },
+        {
+            "+@gid": "2947181579",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Michinori Chiba",
+                "+@id": "8334"
+            }
+        },
+        {
+            "+@gid": "1352662366",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Akane Maeda",
+                "+@id": "213497"
+            }
+        },
+        {
+            "+@gid": "2292845376",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Shinichi Igarashi",
+                "+@id": "26289"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3554720919",
+            "+@lang": "JA",
+            "role": "Hana",
+            "person": {
+                "+content": "Rie Kugimiya",
+                "+@id": "808"
+            }
+        },
+        {
+            "+@gid": "1878766068",
+            "+@lang": "JA",
+            "role": "Sasaki",
+            "person": {
+                "+content": "Noriaki Sugiyama",
+                "+@id": "3176"
+            }
+        },
+        {
+            "+@gid": "3325567183",
+            "+@lang": "JA",
+            "role": "Bunzō",
+            "person": {
+                "+content": "Kenjirō Tsuda",
+                "+@id": "39751"
+            }
+        },
+        {
+            "+@gid": "2806279426",
+            "+@lang": "JA",
+            "role": "Krishna",
+            "person": {
+                "+content": "Saori Hayami",
+                "+@id": "63462"
+            }
+        },
+        {
+            "+@gid": "421735197",
+            "+@lang": "JA",
+            "role": "Jewel",
+            "person": {
+                "+content": "Tasuku Hatanaka",
+                "+@id": "99622"
+            }
+        },
+        {
+            "+@gid": "3630910942",
+            "+@lang": "JA",
+            "role": "Sabu",
+            "person": {
+                "+content": "Michiyo Murase",
+                "+@id": "117540"
+            }
+        },
+        {
+            "+@gid": "1882029547",
+            "+@lang": "JA",
+            "role": "Tamako Yashiro",
+            "person": {
+                "+content": "Kurumi Orihara",
+                "+@id": "263632"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "3497380379",
+            "task": "Animation Production",
+            "company": {
+                "+content": "E&H production",
+                "+@id": "22587"
+            }
+        },
+        {
+            "+@gid": "1728918973",
+            "task": "Production",
+            "company": {
+                "+content": "Good Smile Company",
+                "+@id": "8413"
+            }
+        },
+        {
+            "+@gid": "2725483236",
+            "task": "Production",
+            "company": {
+                "+content": "E&H production",
+                "+@id": "22587"
+            }
+        }
+    ],
     "+@date-added": "2024-12-20T22:13:08Z",
-    "+@date-last-updated-at": "2026-06-18T15:53:39Z"
+    "+@date-last-modified-at": "2026-07-18T17:15:33Z",
+    "+@date-last-updated-at": "2026-07-18T17:15:33Z"
 }
