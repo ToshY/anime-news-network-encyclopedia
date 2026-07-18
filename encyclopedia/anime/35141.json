@@ -4,7 +4,11 @@
     "+@type": "TV",
     "+@name": "Magical Sisters Lulutto Lilly",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-18T05:03:32Z",
+    "+@generated-on": "2026-07-18T06:00:41Z",
+    "related-next": {
+        "+@id": "40079",
+        "+@rel": "sequel"
+    },
     "info": [
         {
             "+@gid": "2231609751",
@@ -90,13 +94,18 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "\"La Lu Sugarin\" By May Tachibana (ep 2)",
+            "+content": "\"La Lu Sugarin\" By May Tachibana (eps 2,12)",
             "+@gid": "3712560103",
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Little Singing Bird\" by Nao Ojika (ep 4)",
+            "+content": "\"Little Singing Bird\" by Nao Ojika (eps 4,12)",
             "+@gid": "1365321893",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Magical Rendezvous\" by May Tachibana and Nao Ojika (ep 12)",
+            "+@gid": "2444642250",
             "+@type": "Insert song"
         },
         {
@@ -108,8 +117,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "5.6023"
+        "+@nb_votes": "5",
+        "+@weighted_score": "6.0836"
     },
     "news": [
         {
@@ -156,6 +165,11 @@
             "+content": "Tubi Adds <cite>Magical Sisters LuluttoLilly</cite> Anime",
             "+@datetime": "2026-05-10T02:22:38Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-05-09/tubi-adds-magical-sisters-luluttolilly-anime/.237209"
+        },
+        {
+            "+content": "<cite>Magical Sisters Lulutto Lilly</cite> Anime Reveals 2nd Part's October Debut, New Cast Member",
+            "+@datetime": "2026-06-21T14:01:29Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-21/magical-sisters-lulutto-lilly-anime-reveals-2nd-part-october-debut-new-cast-member/.238752"
         }
     ],
     "staff": [
@@ -349,7 +363,7 @@
         {
             "+@gid": "2695084898",
             "+@lang": "JA",
-            "role": "Matsuri Hinoura",
+            "role": "Mari Hinoura",
             "person": {
                 "+content": "Aya Endō",
                 "+@id": "27752"
@@ -457,7 +471,7 @@
         {
             "+@gid": "1980276246",
             "+@lang": "JA",
-            "role": "Miitaa",
+            "role": "Meeter",
             "person": {
                 "+content": "Hikaru Yaotome",
                 "+@id": "292702"
@@ -473,6 +487,6 @@
         }
     },
     "+@date-added": "2025-03-14T03:07:54Z",
-    "+@date-last-modified-at": "2026-06-18T05:03:37Z",
-    "+@date-last-updated-at": "2026-06-18T05:03:37Z"
+    "+@date-last-modified-at": "2026-07-18T06:19:37Z",
+    "+@date-last-updated-at": "2026-07-18T06:19:37Z"
 }

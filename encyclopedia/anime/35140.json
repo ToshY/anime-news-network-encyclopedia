@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Record of Ragnarok III",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-06-18T05:03:32Z",
+    "+@generated-on": "2026-07-18T06:14:41Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24643"
+    },
+    "related-next": {
+        "+@id": "40166",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -87,8 +91,8 @@
     ],
     "ratings": {
         "+@nb_votes": "12",
-        "+@weighted_score": "6.4701",
-        "+@bayesian_score": "6.97025"
+        "+@weighted_score": "6.467",
+        "+@bayesian_score": "6.96835"
     },
     "news": [
         {
@@ -649,12 +653,30 @@
             }
         },
         {
+            "+@gid": "3490788206",
+            "+@lang": "JA",
+            "role": "Aphrodite",
+            "person": {
+                "+content": "Rie Tanaka",
+                "+@id": "697"
+            }
+        },
+        {
             "+@gid": "3012121180",
             "+@lang": "JA",
             "role": "Hades",
             "person": {
                 "+content": "Ryōtarō Okiayu",
                 "+@id": "718"
+            }
+        },
+        {
+            "+@gid": "2154851016",
+            "+@lang": "JA",
+            "role": "Jack the Ripper",
+            "person": {
+                "+content": "Tomokazu Sugita",
+                "+@id": "910"
             }
         },
         {
@@ -667,6 +689,15 @@
             }
         },
         {
+            "+@gid": "1316435614",
+            "+@lang": "JA",
+            "role": "Zeus",
+            "person": {
+                "+content": "Wataru Takagi",
+                "+@id": "1307"
+            }
+        },
+        {
             "+@gid": "2248561414",
             "+@lang": "JA",
             "role": "Siegfried",
@@ -676,12 +707,48 @@
             }
         },
         {
+            "+@gid": "2190374965",
+            "+@lang": "JA",
+            "role": "Odin",
+            "person": {
+                "+content": "Show Hayami",
+                "+@id": "4128"
+            }
+        },
+        {
+            "+@gid": "2183253562",
+            "+@lang": "JA",
+            "role": "Brunhilde",
+            "person": {
+                "+content": "Miyuki Sawashiro",
+                "+@id": "5735"
+            }
+        },
+        {
             "+@gid": "641830977",
             "+@lang": "JA",
             "role": "Apollo",
             "person": {
                 "+content": "Kenichi Suzumura",
                 "+@id": "5894"
+            }
+        },
+        {
+            "+@gid": "2783197687",
+            "+@lang": "JA",
+            "role": "Shiva",
+            "person": {
+                "+content": "Tatsuhisa Suzuki",
+                "+@id": "14071"
+            }
+        },
+        {
+            "+@gid": "1133780926",
+            "+@lang": "JA",
+            "role": "Buddha",
+            "person": {
+                "+content": "Yūichi Nakamura",
+                "+@id": "15878"
             }
         },
         {
@@ -703,6 +770,24 @@
             }
         },
         {
+            "+@gid": "958076406",
+            "+@lang": "JA",
+            "role": "Hermes",
+            "person": {
+                "+content": "Junichi Suwabe",
+                "+@id": "48696"
+            }
+        },
+        {
+            "+@gid": "1713315725",
+            "+@lang": "JA",
+            "role": "Okita Sōji",
+            "person": {
+                "+content": "Tsubasa Yonaga",
+                "+@id": "63638"
+            }
+        },
+        {
             "+@gid": "2782521063",
             "+@lang": "JA",
             "role": "Geirölul",
@@ -718,6 +803,24 @@
             "person": {
                 "+content": "Shiori Mikami",
                 "+@id": "74584"
+            }
+        },
+        {
+            "+@gid": "2624180112",
+            "+@lang": "JA",
+            "role": "Göll",
+            "person": {
+                "+content": "Tomoyo Kurosawa",
+                "+@id": "86495"
+            }
+        },
+        {
+            "+@gid": "227723807",
+            "+@lang": "JA",
+            "role": "Loki",
+            "person": {
+                "+content": "Yoshitsugu Matsuoka",
+                "+@id": "93780"
             }
         },
         {
@@ -763,6 +866,24 @@
             "person": {
                 "+content": "Shun Horie",
                 "+@id": "141454"
+            }
+        },
+        {
+            "+@gid": "2039885922",
+            "+@lang": "JA",
+            "role": "Ares",
+            "person": {
+                "+content": "Hinata Tadokoro",
+                "+@id": "143942"
+            }
+        },
+        {
+            "+@gid": "2604914198",
+            "+@lang": "JA",
+            "role": "Heimdall",
+            "person": {
+                "+content": "Yukihiro Nozuyama",
+                "+@id": "163775"
             }
         },
         {
@@ -969,6 +1090,6 @@
         }
     ],
     "+@date-added": "2025-03-14T02:56:06Z",
-    "+@date-last-modified-at": "2026-06-18T05:03:37Z",
-    "+@date-last-updated-at": "2026-06-18T05:03:37Z"
+    "+@date-last-modified-at": "2026-07-18T06:19:37Z",
+    "+@date-last-updated-at": "2026-07-18T06:19:37Z"
 }
