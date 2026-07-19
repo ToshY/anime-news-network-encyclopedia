@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Gogoat ni Notte",
     "+@precision": "ONA",
-    "+@generated-on": "2026-06-19T05:26:23Z",
+    "+@generated-on": "2026-07-19T06:08:35Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "29217"
@@ -41,6 +41,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "My Gogoat Journey",
+            "+@gid": "3614599723",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "ゴーゴートに乗って",
             "+@gid": "2706509211",
             "+@type": "Alternative title",
@@ -60,14 +66,21 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
+        "+@nb_votes": "2",
         "+@weighted_score": "7"
     },
-    "news": {
-        "+content": "Pokémon Company Streams New  9-Minute <cite>Pokétoon</cite> Short by Twin Engine, ZEXCS",
-        "+@datetime": "2024-10-09T11:18:09Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-10-09/pokemon-company-streams-new-9-minute-poketoon-short-by-twin-engine-zexcs/.216527"
-    },
+    "news": [
+        {
+            "+content": "Pokémon Company Streams New  9-Minute <cite>Pokétoon</cite> Short by Twin Engine, ZEXCS",
+            "+@datetime": "2024-10-09T11:18:09Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-10-09/pokemon-company-streams-new-9-minute-poketoon-short-by-twin-engine-zexcs/.216527"
+        },
+        {
+            "+content": "'My Gogoat Journey,' More <cite>Pokétoon</cite> Episodes Stream on YouTube in India",
+            "+@datetime": "2026-07-18T15:52:08Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-18/my-gogoat-journey-more-poketoon-episodes-stream-on-youtube-in-india/.239728"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2088230258",
@@ -160,6 +173,33 @@
     ],
     "cast": [
         {
+            "+@gid": "2911687713",
+            "+@lang": "EN",
+            "role": "Julian",
+            "person": {
+                "+content": "Ryan Bartley",
+                "+@id": "137736"
+            }
+        },
+        {
+            "+@gid": "1294961978",
+            "+@lang": "EN",
+            "role": "Lucas",
+            "person": {
+                "+content": "Jenny Yokobori",
+                "+@id": "198000"
+            }
+        },
+        {
+            "+@gid": "1956806997",
+            "+@lang": "IT",
+            "role": "Gioele",
+            "person": {
+                "+content": "Riccardo Suarez",
+                "+@id": "131046"
+            }
+        },
+        {
             "+@gid": "1296545911",
             "+@lang": "JA",
             "role": "Lucas",
@@ -176,6 +216,15 @@
                 "+content": "Mariya Ise",
                 "+@id": "46112"
             }
+        },
+        {
+            "+@gid": "3617603067",
+            "+@lang": "JA",
+            "role": "Julian's Father",
+            "person": {
+                "+content": "Tasuku Kida",
+                "+@id": "150243"
+            }
         }
     ],
     "credit": {
@@ -187,5 +236,6 @@
         }
     },
     "+@date-added": "2024-10-09T07:29:10Z",
-    "+@date-last-updated-at": "2026-06-19T05:26:26Z"
+    "+@date-last-modified-at": "2026-07-19T06:43:29Z",
+    "+@date-last-updated-at": "2026-07-19T06:43:29Z"
 }
