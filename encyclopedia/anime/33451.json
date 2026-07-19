@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Classroom of the Elite 4th Season: Second Year, First Semester",
     "+@precision": "TV 4",
-    "+@generated-on": "2026-06-19T18:07:45Z",
+    "+@generated-on": "2026-07-19T21:08:42Z",
     "related-prev": [
         {
             "+@rel": "sequel of",
@@ -15,6 +15,10 @@
             "+@id": "25931"
         }
     ],
+    "related-next": {
+        "+@id": "40131",
+        "+@rel": "sequel"
+    },
     "info": [
         {
             "+@gid": "3164816508",
@@ -114,8 +118,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "8.6571"
+        "+@nb_votes": "40",
+        "+@weighted_score": "7.5135",
+        "+@bayesian_score": "7.50339"
     },
     "episode": [
         {
@@ -229,6 +234,22 @@
                 "+@gid": "2850895513",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "15",
+            "title": {
+                "+content": "Power and Will",
+                "+@gid": "873378481",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "16",
+            "title": {
+                "+content": "For a Desired Future",
+                "+@gid": "2098405283",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -271,6 +292,11 @@
             "+content": "<cite>Classroom of the Elite</cite> Season 4 Anime's English Dub Streams 1st 4 Episodes on April 15",
             "+@datetime": "2026-04-14T17:00:11Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-14/classroom-of-the-elite-season-4-anime-english-dub-streams-1st-4-episodes-on-april-15/.236375"
+        },
+        {
+            "+content": "<cite>Classroom of the Elite</cite> TV Anime Gets 5th Season",
+            "+@datetime": "2026-06-24T14:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-24/classroom-of-the-elite-tv-anime-gets-5th-season/.238883"
         }
     ],
     "staff": [
@@ -731,6 +757,14 @@
             }
         },
         {
+            "+@gid": "2093950807",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kha Minh",
+                "+@id": "188151"
+            }
+        },
+        {
             "+@gid": "1409339251",
             "task": "Animation Director",
             "person": {
@@ -1116,6 +1150,15 @@
             }
         },
         {
+            "+@gid": "2334464497",
+            "+@lang": "ES",
+            "role": "Albert Yamada",
+            "person": {
+                "+content": "Héctor Estrada",
+                "+@id": "48599"
+            }
+        },
+        {
             "+@gid": "2018382593",
             "+@lang": "ES",
             "role": "Katsunori Shiba",
@@ -1176,6 +1219,15 @@
             "person": {
                 "+content": "Marc Winslow",
                 "+@id": "119690"
+            }
+        },
+        {
+            "+@gid": "907567525",
+            "+@lang": "ES",
+            "role": "Rokusuke Koenji",
+            "person": {
+                "+content": "Ferso Velázquez",
+                "+@id": "119952"
             }
         },
         {
@@ -1278,6 +1330,15 @@
             }
         },
         {
+            "+@gid": "2405225082",
+            "+@lang": "ES",
+            "role": "Chie Hoshinomiya",
+            "person": {
+                "+content": "Fernanda Robles",
+                "+@id": "156390"
+            }
+        },
+        {
             "+@gid": "2149174289",
             "+@lang": "ES",
             "role": "Kanji Ike",
@@ -1356,6 +1417,15 @@
             "person": {
                 "+content": "Yetzary Olcort",
                 "+@id": "220089"
+            }
+        },
+        {
+            "+@gid": "3050646504",
+            "+@lang": "ES",
+            "role": "Maya Sato",
+            "person": {
+                "+content": "Daniela Neach",
+                "+@id": "236055"
             }
         },
         {
@@ -1899,6 +1969,6 @@
         }
     },
     "+@date-added": "2024-09-01T04:11:50Z",
-    "+@date-last-modified-at": "2026-06-19T18:07:49Z",
-    "+@date-last-updated-at": "2026-06-19T18:07:49Z"
+    "+@date-last-modified-at": "2026-07-19T21:08:46Z",
+    "+@date-last-updated-at": "2026-07-19T21:08:46Z"
 }
