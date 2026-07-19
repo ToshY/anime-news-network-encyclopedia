@@ -2,9 +2,9 @@
     "+@id": "33613",
     "+@gid": "817428433",
     "+@type": "ONA",
-    "+@name": "Ikari no Okorizaru Kansatsu Nikki",
+    "+@name": "Diary of an Angry Primeape",
     "+@precision": "ONA",
-    "+@generated-on": "2026-06-19T12:17:58Z",
+    "+@generated-on": "2026-07-19T13:54:50Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "29217"
@@ -30,9 +30,15 @@
             ]
         },
         {
+            "+content": "Diary of an Angry Primeape",
+            "+@gid": "1121604762",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Ikari no Okorizaru Kansatsu Nikki",
             "+@gid": "2738126650",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -65,7 +71,7 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
+        "+@nb_votes": "2",
         "+@weighted_score": "7"
     },
     "staff": [
@@ -168,6 +174,42 @@
     ],
     "cast": [
         {
+            "+@gid": "1447241171",
+            "+@lang": "EN",
+            "role": "Annihilape",
+            "person": {
+                "+content": "Bill Rogers",
+                "+@id": "1439"
+            }
+        },
+        {
+            "+@gid": "1276358133",
+            "+@lang": "EN",
+            "role": "Primeape",
+            "person": {
+                "+content": "Bill Rogers",
+                "+@id": "1439"
+            }
+        },
+        {
+            "+@gid": "1272107452",
+            "+@lang": "EN",
+            "role": "Boy",
+            "person": {
+                "+content": "Brianna Knickerbocker",
+                "+@id": "135490"
+            }
+        },
+        {
+            "+@gid": "2564852357",
+            "+@lang": "EN",
+            "role": "Bully",
+            "person": {
+                "+content": "Kevin Andrew Rivera",
+                "+@id": "221037"
+            }
+        },
+        {
             "+@gid": "3041208983",
             "+@lang": "JA",
             "role": "Young Boy",
@@ -267,5 +309,6 @@
         }
     },
     "+@date-added": "2024-09-25T20:26:11Z",
-    "+@date-last-updated-at": "2026-06-19T12:18:02Z"
+    "+@date-last-modified-at": "2026-07-19T13:54:53Z",
+    "+@date-last-updated-at": "2026-07-19T13:54:53Z"
 }

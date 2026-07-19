@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Wistoria: Wand and Sword",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-06-19T12:17:57Z",
+    "+@generated-on": "2026-07-19T13:54:48Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32011"
+    },
+    "related-next": {
+        "+@id": "40189",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -136,8 +140,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "5.6735"
+        "+@nb_votes": "54",
+        "+@weighted_score": "7.6668",
+        "+@bayesian_score": "7.63096"
     },
     "episode": [
         {
@@ -215,9 +220,25 @@
         {
             "+@num": "22",
             "title": {
-                "+content": "Omoi, Hanahiraki, Todoroku",
-                "+@gid": "1672335248",
-                "+@lang": "JA"
+                "+content": "Hoping, Blooming, Thundering",
+                "+@gid": "2582990612",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "23",
+            "title": {
+                "+content": "A Roar of Ice and Lightning",
+                "+@gid": "1552742998",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "24",
+            "title": {
+                "+content": "A Story of a Dream with No End",
+                "+@gid": "386225777",
+                "+@lang": "EN"
             }
         }
     ],
@@ -266,6 +287,11 @@
             "+content": "<cite>Wistoria: Wand and Sword</cite> Season 2's New Promo Video Teases Next Arc",
             "+@datetime": "2026-05-10T09:41:29Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-05-10/wistoria-wand-and-sword-season-2-new-promo-video-teases-next-arc/.237222"
+        },
+        {
+            "+content": "<cite>Wistoria: Wand and Sword</cite> Anime Gets 3rd Season",
+            "+@datetime": "2026-06-28T09:53:01Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-28/wistoria-wand-and-sword-anime-gets-3rd-season/.239059"
         }
     ],
     "staff": [
@@ -291,6 +317,182 @@
             "person": {
                 "+content": "Noboru Kimura",
                 "+@id": "18594"
+            }
+        },
+        {
+            "+@gid": "2131144112",
+            "task": "Script",
+            "person": {
+                "+content": "Noboru Kimura",
+                "+@id": "18594"
+            }
+        },
+        {
+            "+@gid": "1259109511",
+            "task": "Script",
+            "person": {
+                "+content": "Shōgo Yasukawa",
+                "+@id": "68405"
+            }
+        },
+        {
+            "+@gid": "563871867",
+            "task": "Script",
+            "person": {
+                "+content": "Shingo Nagai",
+                "+@id": "80454"
+            }
+        },
+        {
+            "+@gid": "1444270869",
+            "task": "Script",
+            "person": {
+                "+content": "Kōji Miura",
+                "+@id": "212315"
+            }
+        },
+        {
+            "+@gid": "2213210151",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shigenori Kageyama",
+                "+@id": "5430"
+            }
+        },
+        {
+            "+@gid": "537343389",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hideaki Nakano",
+                "+@id": "49322"
+            }
+        },
+        {
+            "+@gid": "2291521228",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Mizuki Aoba",
+                "+@id": "114881"
+            }
+        },
+        {
+            "+@gid": "2297065273",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takahiko Usui",
+                "+@id": "186035"
+            }
+        },
+        {
+            "+@gid": "1436259454",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Akihiko Sano",
+                "+@id": "250353"
+            }
+        },
+        {
+            "+@gid": "2366207549",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yōhei Suzuki",
+                "+@id": "274125"
+            }
+        },
+        {
+            "+@gid": "576707015",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Rui Kurahashi",
+                "+@id": "299610"
+            }
+        },
+        {
+            "+@gid": "1680825936",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yoshiyuki Ukai",
+                "+@id": "299611"
+            }
+        },
+        {
+            "+@gid": "2329385147",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hiroaki Kudō",
+                "+@id": "23380"
+            }
+        },
+        {
+            "+@gid": "3016779843",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Masakazu Yoshimoto",
+                "+@id": "26681"
+            }
+        },
+        {
+            "+@gid": "2209780823",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kentaro Mizuno",
+                "+@id": "30768"
+            }
+        },
+        {
+            "+@gid": "1538902164",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Raita Sunaga",
+                "+@id": "47682"
+            }
+        },
+        {
+            "+@gid": "1450515466",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hideaki Nakano",
+                "+@id": "49322"
+            }
+        },
+        {
+            "+@gid": "2122075650",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shinji Sano",
+                "+@id": "88424"
+            }
+        },
+        {
+            "+@gid": "2589063601",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takahiko Usui",
+                "+@id": "186035"
+            }
+        },
+        {
+            "+@gid": "1793905024",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Akihiko Sano",
+                "+@id": "250353"
+            }
+        },
+        {
+            "+@gid": "3643778989",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tsukasa Endo",
+                "+@id": "290840"
+            }
+        },
+        {
+            "+@gid": "3218331975",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Zihao Jia",
+                "+@id": "299612"
             }
         },
         {
@@ -575,6 +777,15 @@
             }
         },
         {
+            "+@gid": "2552845518",
+            "+@lang": "EN",
+            "role": "Rose Prehnite",
+            "person": {
+                "+content": "Katie Wetch",
+                "+@id": "237851"
+            }
+        },
+        {
             "+@gid": "1951027601",
             "+@lang": "EN",
             "role": "Clairie Serah",
@@ -608,6 +819,33 @@
             "person": {
                 "+content": "Elisa Danielle James",
                 "+@id": "280284"
+            }
+        },
+        {
+            "+@gid": "2922430752",
+            "+@lang": "ES",
+            "role": "Will Selfort",
+            "person": {
+                "+content": "Gerardo Mendoza",
+                "+@id": "121758"
+            }
+        },
+        {
+            "+@gid": "1556133097",
+            "+@lang": "ES",
+            "role": "Elfaria Albis Selfort",
+            "person": {
+                "+content": "Polly Huerta",
+                "+@id": "208905"
+            }
+        },
+        {
+            "+@gid": "2343938990",
+            "+@lang": "ES",
+            "role": "Colette Loire",
+            "person": {
+                "+content": "Jean Bautista",
+                "+@id": "223262"
             }
         },
         {
@@ -800,12 +1038,30 @@
             }
         },
         {
+            "+@gid": "1926571475",
+            "+@lang": "FR",
+            "role": "Mike Maius",
+            "person": {
+                "+content": "Matthieu Meunier",
+                "+@id": "172708"
+            }
+        },
+        {
             "+@gid": "2185624130",
             "+@lang": "FR",
             "role": "Colette Loire",
             "person": {
                 "+content": "Aurélie Castin",
                 "+@id": "172711"
+            }
+        },
+        {
+            "+@gid": "3473768830",
+            "+@lang": "FR",
+            "role": "Emma Klever",
+            "person": {
+                "+content": "Catherine Hanotiau",
+                "+@id": "189972"
             }
         },
         {
@@ -887,15 +1143,6 @@
             "person": {
                 "+content": "Reiko Suzuki",
                 "+@id": "1576"
-            }
-        },
-        {
-            "+@gid": "2614078150",
-            "+@lang": "JA",
-            "role": "Eliza Nosferat",
-            "person": {
-                "+content": "Ami Koshimizu",
-                "+@id": "17254"
             }
         },
         {
@@ -1152,6 +1399,6 @@
         }
     ],
     "+@date-added": "2024-09-29T04:56:46Z",
-    "+@date-last-modified-at": "2026-06-19T12:18:02Z",
-    "+@date-last-updated-at": "2026-06-19T12:18:02Z"
+    "+@date-last-modified-at": "2026-07-19T13:54:53Z",
+    "+@date-last-updated-at": "2026-07-19T13:54:53Z"
 }

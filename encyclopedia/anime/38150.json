@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Kaiju No. 8",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-06-19T12:17:56Z",
+    "+@generated-on": "2026-07-19T13:54:47Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32854"
@@ -62,14 +62,74 @@
             "+@type": "Genres"
         },
         {
+            "+content": "comedy",
+            "+@gid": "1570399347",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "1861187379",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "psychological",
+            "+@gid": "2112064917",
+            "+@type": "Genres"
+        },
+        {
             "+content": "science fiction",
             "+@gid": "1588877875",
             "+@type": "Genres"
         },
         {
+            "+content": "apocalyptic",
+            "+@gid": "664523938",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "fighting",
+            "+@gid": "1931043161",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "gore",
+            "+@gid": "2440089248",
+            "+@type": "Themes"
+        },
+        {
             "+content": "military",
             "+@gid": "1905322000",
             "+@type": "Themes"
+        },
+        {
+            "+content": "monsters",
+            "+@gid": "2435302748",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "3129802591",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "swordplay",
+            "+@gid": "1692319268",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "technology",
+            "+@gid": "1019654242",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "tragedy",
+            "+@gid": "2041864526",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "3400916471",
+            "+@type": "Objectionable content"
         },
         {
             "+content": "アニメ『怪獣８号』公式サイト",
@@ -79,6 +139,10 @@
             "+@href": "https://kaiju-no8.net/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "10"
+    },
     "staff": {
         "+@gid": "2981091506",
         "task": "Original creator",
@@ -88,5 +152,6 @@
         }
     },
     "+@date-added": "2025-12-20T02:19:36Z",
-    "+@date-last-updated-at": "2026-06-19T12:18:02Z"
+    "+@date-last-modified-at": "2026-07-19T13:54:53Z",
+    "+@date-last-updated-at": "2026-07-19T13:54:53Z"
 }

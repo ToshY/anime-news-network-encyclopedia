@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Sakamoto Days",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-06-19T12:17:56Z",
+    "+@generated-on": "2026-07-19T13:54:46Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "35291"
@@ -13,18 +13,18 @@
         {
             "+@gid": "3746068000",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38152-3746068000.1766233097.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38152-3746068000.1782265901.jpg",
+            "+@width": "135",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38152-3746068000.1766233097.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38152-3746068000.1782265901.jpg",
+                    "+@width": "135",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38152-3746068000.1766233097.jpg",
-                    "+@width": "425",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38152-3746068000.1782265901.jpg",
+                    "+@width": "405",
                     "+@height": "600"
                 }
             ]
@@ -47,9 +47,59 @@
             "+@type": "Genres"
         },
         {
+            "+content": "comedy",
+            "+@gid": "2253807733",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "3851896054",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "thriller",
+            "+@gid": "2705528363",
+            "+@type": "Genres"
+        },
+        {
             "+content": "assassins",
             "+@gid": "1544244274",
             "+@type": "Themes"
+        },
+        {
+            "+content": "crime",
+            "+@gid": "2043445525",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "fighting",
+            "+@gid": "620607590",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "gore",
+            "+@gid": "1646625826",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "mafia",
+            "+@gid": "2175554071",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "3203126250",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "MA",
+            "+@gid": "2230873872",
+            "+@type": "Objectionable content"
+        },
+        {
+            "+content": "2027-01",
+            "+@gid": "2805035802",
+            "+@type": "Vintage"
         },
         {
             "+content": "TVアニメ『SAKAMOTO DAYS』公式サイト",
@@ -57,20 +107,288 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://sakamotodays.jp/"
+        },
+        {
+            "+content": "SAKAMOTODAYS Official Website",
+            "+@gid": "3482962049",
+            "+@type": "Official website",
+            "+@lang": "EN",
+            "+@href": "https://sakamotodays.jp/en/"
         }
     ],
-    "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "3"
+    "news": {
+        "+content": "<cite>Sakamoto Days</cite> Season 2's Teaser Reveals New Cast, Updated Staff, January 2027 Debut",
+        "+@datetime": "2026-06-24T01:42:20Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-06-23/sakamoto-days-season-2-teaser-reveals-new-cast-updated-staff-january-2027-debut/.238861"
     },
-    "staff": {
-        "+@gid": "2651825430",
-        "task": "Original creator",
-        "person": {
-            "+content": "Yūto Suzuki",
-            "+@id": "291997"
+    "staff": [
+        {
+            "+@gid": "2075813059",
+            "task": "Chief Director",
+            "person": {
+                "+content": "Masaki Watanabe",
+                "+@id": "43175"
+            }
+        },
+        {
+            "+@gid": "1192432635",
+            "task": "Director",
+            "person": {
+                "+content": "Daisuke Nakajima",
+                "+@id": "45026"
+            }
+        },
+        {
+            "+@gid": "3040825979",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Taku Kishimoto",
+                "+@id": "76253"
+            }
+        },
+        {
+            "+@gid": "254022670",
+            "task": "Music",
+            "person": {
+                "+content": "Yūki Hayashi",
+                "+@id": "118529"
+            }
+        },
+        {
+            "+@gid": "2651825430",
+            "task": "Original creator",
+            "person": {
+                "+content": "Yūto Suzuki",
+                "+@id": "291997"
+            }
+        },
+        {
+            "+@gid": "3196158824",
+            "task": "Character Design",
+            "person": {
+                "+content": "Yō Moriyama",
+                "+@id": "85240"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3261762903",
+            "+@lang": "JA",
+            "role": "Tarō Sakamoto",
+            "person": {
+                "+content": "Tomokazu Sugita",
+                "+@id": "910"
+            }
+        },
+        {
+            "+@gid": "2538540641",
+            "+@lang": "JA",
+            "role": "Etsuko Satōda",
+            "person": {
+                "+content": "Misa Watanabe",
+                "+@id": "1033"
+            }
+        },
+        {
+            "+@gid": "3157290773",
+            "+@lang": "JA",
+            "role": "X (Slur)",
+            "person": {
+                "+content": "Daisuke Namikawa",
+                "+@id": "1289"
+            }
+        },
+        {
+            "+@gid": "748269956",
+            "+@lang": "JA",
+            "role": "Rion Akao",
+            "person": {
+                "+content": "Mamiko Noto",
+                "+@id": "3166"
+            }
+        },
+        {
+            "+@gid": "3147328889",
+            "+@lang": "JA",
+            "role": "Kanaguri",
+            "person": {
+                "+content": "Satoshi Hino",
+                "+@id": "15417"
+            }
+        },
+        {
+            "+@gid": "1630740348",
+            "+@lang": "JA",
+            "role": "Hyo",
+            "person": {
+                "+content": "Hiroki Yasumoto",
+                "+@id": "30785"
+            }
+        },
+        {
+            "+@gid": "988275343",
+            "+@lang": "JA",
+            "role": "Gaku",
+            "person": {
+                "+content": "Kōki Uchiyama",
+                "+@id": "56091"
+            }
+        },
+        {
+            "+@gid": "1061099146",
+            "+@lang": "JA",
+            "role": "Natsuki Seba",
+            "person": {
+                "+content": "Nobuhiko Okamoto",
+                "+@id": "59411"
+            }
+        },
+        {
+            "+@gid": "3333276507",
+            "+@lang": "JA",
+            "role": "Ōsaragi",
+            "person": {
+                "+content": "Saori Hayami",
+                "+@id": "63462"
+            }
+        },
+        {
+            "+@gid": "417894561",
+            "+@lang": "JA",
+            "role": "Kashima",
+            "person": {
+                "+content": "Kazuyuki Okitsu",
+                "+@id": "67851"
+            }
+        },
+        {
+            "+@gid": "250681239",
+            "+@lang": "JA",
+            "role": "Nao Toramaru",
+            "person": {
+                "+content": "Hisako Kanemoto",
+                "+@id": "85826"
+            }
+        },
+        {
+            "+@gid": "1860059358",
+            "+@lang": "JA",
+            "role": "Shin Asakura",
+            "person": {
+                "+content": "Nobunaga Shimazaki",
+                "+@id": "86706"
+            }
+        },
+        {
+            "+@gid": "2444407470",
+            "+@lang": "JA",
+            "role": "Yotsumura",
+            "person": {
+                "+content": "Shinshū Fuji",
+                "+@id": "86878"
+            }
+        },
+        {
+            "+@gid": "1140393365",
+            "+@lang": "JA",
+            "role": "Lu Shaotang",
+            "person": {
+                "+content": "Ayane Sakura",
+                "+@id": "94383"
+            }
+        },
+        {
+            "+@gid": "2430504429",
+            "+@lang": "JA",
+            "role": "Aoi Sakamoto",
+            "person": {
+                "+content": "Nao Tōyama",
+                "+@id": "95316"
+            }
+        },
+        {
+            "+@gid": "1792751424",
+            "+@lang": "JA",
+            "role": "Nagumo",
+            "person": {
+                "+content": "Natsuki Hanae",
+                "+@id": "106773"
+            }
+        },
+        {
+            "+@gid": "2797932495",
+            "+@lang": "JA",
+            "role": "Mafuyu Seba",
+            "person": {
+                "+content": "Daiki Yamashita",
+                "+@id": "119386"
+            }
+        },
+        {
+            "+@gid": "985216258",
+            "+@lang": "JA",
+            "role": "Akira Akao",
+            "person": {
+                "+content": "M.A.O",
+                "+@id": "123756"
+            }
+        },
+        {
+            "+@gid": "2333571660",
+            "+@lang": "JA",
+            "role": "Shishiba",
+            "person": {
+                "+content": "Taku Yashiro",
+                "+@id": "130983"
+            }
+        },
+        {
+            "+@gid": "1188658042",
+            "+@lang": "JA",
+            "role": "Hana Sakamoto",
+            "person": {
+                "+content": "Hina Kino",
+                "+@id": "142069"
+            }
+        },
+        {
+            "+@gid": "1525960903",
+            "+@lang": "JA",
+            "role": "Heisuke Mashimo",
+            "person": {
+                "+content": "Ryōta Suzuki",
+                "+@id": "174131"
+            }
+        },
+        {
+            "+@gid": "2217296620",
+            "+@lang": "JA",
+            "role": "Amane",
+            "person": {
+                "+content": "Kikunosuke Toya",
+                "+@id": "222634"
+            }
+        },
+        {
+            "+@gid": "1677400958",
+            "+@lang": "JA",
+            "role": "Takamura",
+            "person": {
+                "+content": "Hōchū Ōtsuka",
+                "+@id": "274643"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2516644429",
+        "task": "Animation Production",
+        "company": {
+            "+content": "TMS Entertainment",
+            "+@id": "292"
         }
     },
     "+@date-added": "2025-12-20T07:17:36Z",
-    "+@date-last-updated-at": "2026-06-19T12:18:02Z"
+    "+@date-last-modified-at": "2026-07-19T13:54:53Z",
+    "+@date-last-updated-at": "2026-07-19T13:54:53Z"
 }
