@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Yowayowa Sensei",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-18T22:25:35Z",
+    "+@generated-on": "2026-07-19T03:56:07Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29471"
@@ -90,8 +90,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "1.6895"
+        "+@nb_votes": "14",
+        "+@weighted_score": "5.7368",
+        "+@bayesian_score": "6.5366"
     },
     "episode": [
         {
@@ -173,6 +174,22 @@
                 "+@gid": "1140299897",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "Strong and Sturdy Feelings",
+                "+@gid": "2233572175",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "A Weak and Wimpy Jump Rope Tournament",
+                "+@gid": "2658359948",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -215,6 +232,11 @@
             "+content": "HIDIVE Adds <cite>Urashiman</cite>, <cite>Ippatsuman</cite>, <cite>Heavy Metal L-Gaim</cite>, <cite>Judo Boy</cite>, More Anime",
             "+@datetime": "2026-06-02T15:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-02/hidive-adds-urashiman-ippatsuman-heavy-metal-l-gaim-judo-boy-more-anime/.238057"
+        },
+        {
+            "+content": "Ani-One India Streams Hindi Dub of <cite>Yowayowa Sensei</cite> Anime",
+            "+@datetime": "2026-06-30T07:33:10Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-30/ani-one-india-streams-hindi-dub-of-yowayowa-sensei-anime/.239088"
         }
     ],
     "staff": [
@@ -320,6 +342,22 @@
             "person": {
                 "+content": "Kaoru Kikuta",
                 "+@id": "172688"
+            }
+        },
+        {
+            "+@gid": "3415189063",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kenta Uenosono",
+                "+@id": "243019"
+            }
+        },
+        {
+            "+@gid": "4087455960",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūji Kashiwazaki",
+                "+@id": "261871"
             }
         },
         {
@@ -524,6 +562,6 @@
         }
     ],
     "+@date-added": "2024-12-03T21:41:37Z",
-    "+@date-last-modified-at": "2026-06-18T22:25:44Z",
-    "+@date-last-updated-at": "2026-06-18T22:25:44Z"
+    "+@date-last-modified-at": "2026-07-19T03:56:14Z",
+    "+@date-last-updated-at": "2026-07-19T03:56:14Z"
 }
