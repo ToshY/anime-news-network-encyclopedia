@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Sing! Dance! Altaria!",
     "+@precision": "ONA",
-    "+@generated-on": "2026-06-20T04:41:27Z",
+    "+@generated-on": "2026-07-20T07:30:47Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "29217"
@@ -63,6 +63,10 @@
             "+@type": "Vintage"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "7"
+    },
     "staff": [
         {
             "+@gid": "2119270417",
@@ -91,6 +95,38 @@
         {
             "+@gid": "2207870713",
             "task": "Director",
+            "person": {
+                "+content": "Ochanoko",
+                "+@id": "271222"
+            }
+        },
+        {
+            "+@gid": "3068934175",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Naoki Matsuura",
+                "+@id": "155442"
+            }
+        },
+        {
+            "+@gid": "2915522178",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Atsuto Masuda",
+                "+@id": "199088"
+            }
+        },
+        {
+            "+@gid": "2287923301",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tomotaka Wakumoto",
+                "+@id": "262392"
+            }
+        },
+        {
+            "+@gid": "325101052",
+            "task": "Storyboard",
             "person": {
                 "+content": "Ochanoko",
                 "+@id": "271222"
@@ -129,6 +165,14 @@
             }
         },
         {
+            "+@gid": "2987170434",
+            "task": "Character Conceptual Design",
+            "person": {
+                "+content": "Akiko Watanabe",
+                "+@id": "246579"
+            }
+        },
+        {
             "+@gid": "2360654941",
             "task": "Director of Photography",
             "person": {
@@ -146,6 +190,42 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "2447602097",
+            "+@lang": "EN",
+            "role": "Kamina",
+            "person": {
+                "+content": "Jeannie Tirado",
+                "+@id": "144674"
+            }
+        },
+        {
+            "+@gid": "2621522761",
+            "+@lang": "EN",
+            "role": "René",
+            "person": {
+                "+content": "Jenny Yokobori",
+                "+@id": "198000"
+            }
+        },
+        {
+            "+@gid": "2534035520",
+            "+@lang": "IT",
+            "role": "René",
+            "person": {
+                "+content": "Joy Saltarelli",
+                "+@id": "70851"
+            }
+        },
+        {
+            "+@gid": "2363688137",
+            "+@lang": "IT",
+            "role": "Irina",
+            "person": {
+                "+content": "Francesca Buttarazzi",
+                "+@id": "153231"
+            }
+        },
         {
             "+@gid": "1175234792",
             "+@lang": "JA",
@@ -210,5 +290,6 @@
         }
     },
     "+@date-added": "2026-06-19T22:08:13Z",
-    "+@date-last-updated-at": "2026-06-20T04:41:28Z"
+    "+@date-last-modified-at": "2026-07-20T07:30:57Z",
+    "+@date-last-updated-at": "2026-07-20T07:30:57Z"
 }

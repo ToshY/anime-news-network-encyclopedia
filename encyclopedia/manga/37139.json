@@ -2,9 +2,9 @@
     "+@id": "37139",
     "+@gid": "3033266967",
     "+@type": "manga",
-    "+@name": "Sora Tobu Violin",
+    "+@name": "Interstellar Violin",
     "+@precision": "manga",
-    "+@generated-on": "2026-06-20T04:41:27Z",
+    "+@generated-on": "2026-07-20T07:30:30Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "2017"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "Interstellar Violin",
+            "+@gid": "2788107484",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Sora Tobu Violin",
             "+@gid": "3527018362",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -62,11 +68,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "<cite>The World Is Dancing's</cite> Kazuto Mihara Launches New Manga",
-        "+@datetime": "2025-02-26T15:30:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-02-26/the-world-is-dancing-kazuto-mihara-launches-new-manga/.221629"
-    },
+    "news": [
+        {
+            "+content": "<cite>The World Is Dancing's</cite> Kazuto Mihara Launches New Manga",
+            "+@datetime": "2025-02-26T15:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-02-26/the-world-is-dancing-kazuto-mihara-launches-new-manga/.221629"
+        },
+        {
+            "+content": "Kodansha USA Announces Print Releases for <cite>Phoenix</cite>, <cite>Witch Hat Atelier: Special Stories</cite>, <cite>Historié</cite>, <cite>Fatale Game</cite>, More Manga",
+            "+@datetime": "2026-07-03T01:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-02/kodansha-usa-announces-print-releases-for-phoenix-witch-hat-atelier-special-stories-historie-fatale-/.239224"
+        }
+    ],
     "staff": {
         "+@gid": "3948074591",
         "task": "Story & Art",
@@ -76,5 +89,6 @@
         }
     },
     "+@date-added": "2025-07-23T07:21:02Z",
-    "+@date-last-updated-at": "2026-06-20T04:41:29Z"
+    "+@date-last-modified-at": "2026-07-20T07:30:31Z",
+    "+@date-last-updated-at": "2026-07-20T07:30:31Z"
 }
