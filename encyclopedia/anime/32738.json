@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Ace of Diamond Act II Second Season",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-06-20T10:41:18Z",
+    "+@generated-on": "2026-07-20T11:14:12Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "21598"
+    },
+    "related-next": {
+        "+@id": "40188",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -58,6 +62,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "baseball",
+            "+@gid": "1199987686",
+            "+@type": "Themes"
+        },
+        {
             "+content": "After a previous failure to reach nationals, the elite baseball team of Seidou High and its pitcher Eijun Sawamura decided to go all out at the fall tournament, give nationals a second shot, and in doing so convince their beloved coach not to retire. The Seidou team's determination saw them through to the fall tournament's finals where they faced Yakushi High and, after a tense match, ultimately claimed victory. With the nationals tournament on the horizon, Eijun and the team prepare for the biggest baseball games of their high school careers.",
             "+@gid": "2127383560",
             "+@type": "Plot Summary"
@@ -66,6 +75,11 @@
             "+content": "23",
             "+@gid": "3680447769",
             "+@type": "Running time"
+        },
+        {
+            "+content": "13",
+            "+@gid": "1103931978",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2026-04-05",
@@ -91,8 +105,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "4"
+        "+@nb_votes": "9",
+        "+@weighted_score": "8.2589"
     },
     "news": [
         {
@@ -119,6 +133,11 @@
             "+content": "Muse Asia Streams <cite>'Always a Catch!'</cite>, <cite>Candy Caries</cite>, More Anime in India",
             "+@datetime": "2026-04-03T10:22:17Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-03/muse-asia-streams-always-a-catch-candy-caries-more-anime-in-india/.236069"
+        },
+        {
+            "+content": "<cite>Ace of Diamond Act II Second Season</cite> Anime's 2nd Part Unveils October Premiere, Theme Song Artists, Key Visual",
+            "+@datetime": "2026-06-28T09:13:04Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-28/ace-of-diamond-act-ii-second-season-anime-2nd-part-unveils-october-premiere-theme-song-artists-key-/.239035"
         }
     ],
     "staff": [
@@ -610,5 +629,6 @@
         }
     },
     "+@date-added": "2024-05-18T17:29:27Z",
-    "+@date-last-updated-at": "2026-06-20T10:41:23Z"
+    "+@date-last-modified-at": "2026-07-20T11:14:16Z",
+    "+@date-last-updated-at": "2026-07-20T11:14:16Z"
 }

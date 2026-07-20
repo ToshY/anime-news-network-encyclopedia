@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Mashle: Magic and Muscles",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-06-20T10:41:15Z",
+    "+@generated-on": "2026-07-20T11:14:08Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28834"
@@ -38,6 +38,12 @@
             "+content": "Mashle: Magic and Muscles",
             "+@gid": "1241957273",
             "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
+            "+content": "Mashle: Magic and Muscles - Tri-Magicathalon Divine Visionary Final Exam Arc",
+            "+@gid": "1264773222",
+            "+@type": "Alternative title",
             "+@lang": "EN"
         },
         {
@@ -108,7 +114,7 @@
             "+@type": "Running time"
         },
         {
-            "+content": "2027",
+            "+content": "2027-01",
             "+@gid": "2805091708",
             "+@type": "Vintage"
         },
@@ -120,11 +126,18 @@
             "+@href": "https://mashle.pw/"
         }
     ],
-    "news": {
-        "+content": "<cite>Mashle: Magic and Muscles</cite> Anime's Sequel Confirmed as 3rd Season Airing in 2027",
-        "+@datetime": "2025-12-20T07:13:47Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-12-20/mashle-magic-and-muscles-anime-sequel-confirmed-as-3rd-season-airing-in-2027/.232302"
-    },
+    "news": [
+        {
+            "+content": "<cite>Mashle: Magic and Muscles</cite> Anime's Sequel Confirmed as 3rd Season Airing in 2027",
+            "+@datetime": "2025-12-20T07:13:47Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-20/mashle-magic-and-muscles-anime-sequel-confirmed-as-3rd-season-airing-in-2027/.232302"
+        },
+        {
+            "+content": "<i>Mashle: Magic and Muscles</i> Season 3 Anime's Trailer Unveils January 2027 Debut",
+            "+@datetime": "2026-07-02T23:09:27Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-02/mashle-magic-and-muscles-season-3-anime-trailer-unveils-january-2027-debut/.239227"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3616911477",
@@ -172,6 +185,38 @@
             "person": {
                 "+content": "Chiaki Furuzumi",
                 "+@id": "68544"
+            }
+        },
+        {
+            "+@gid": "2616649356",
+            "task": "Art Director",
+            "person": {
+                "+content": "Ayano Okamoto",
+                "+@id": "153066"
+            }
+        },
+        {
+            "+@gid": "2300557371",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Satoshi Motoyama",
+                "+@id": "8849"
+            }
+        },
+        {
+            "+@gid": "1246440283",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Manabu Asakawa",
+                "+@id": "270889"
+            }
+        },
+        {
+            "+@gid": "2062347767",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Akihito Suzuki",
+                "+@id": "76326"
             }
         }
     ],
@@ -231,5 +276,6 @@
         }
     },
     "+@date-added": "2024-05-26T19:17:47Z",
-    "+@date-last-updated-at": "2026-06-20T10:41:23Z"
+    "+@date-last-modified-at": "2026-07-20T11:14:16Z",
+    "+@date-last-updated-at": "2026-07-20T11:14:16Z"
 }
