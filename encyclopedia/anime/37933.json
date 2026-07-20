@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Apothecary Diaries",
     "+@precision": "movie",
-    "+@generated-on": "2026-06-20T17:48:43Z",
+    "+@generated-on": "2026-07-20T18:20:44Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "37931"
@@ -17,13 +17,13 @@
             "+@lang": "EN"
         },
         {
-            "+content": "Kusuriya no Hitorigoto",
+            "+content": "Kusuriya no Hitorigoto: Bо̄hi no Hihо̄",
             "+@gid": "1881499005",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
-            "+content": "薬屋のひとりごと",
+            "+content": "薬屋のひとりごと 亡妃の秘宝",
             "+@gid": "2525989635",
             "+@type": "Alternative title",
             "+@lang": "JA"
@@ -74,11 +74,27 @@
             "+@type": "Objectionable content"
         },
         {
-            "+content": "2026-12",
-            "+@gid": "1539553313",
+            "+content": "2026-12-11",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2026-12-11 (Japan)",
+            "+@gid": "1965671603",
+            "+@type": "Premiere date"
+        },
+        {
+            "+content": "『劇場版 薬屋のひとりごと 亡妃の秘宝』公式サイト",
+            "+@gid": "1140729235",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://kusuriyanohitorigoto.jp/movie/"
         }
     ],
+    "news": {
+        "+content": "<cite>The Apothecary Diaries</cite> Anime Film's Trailer Reveals Title, Cast, December 11 Opening",
+        "+@datetime": "2026-07-02T21:49:53Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-07-02/the-apothecary-diaries-anime-film-trailer-reveals-title-cast-december-11-opening/.239226"
+    },
     "staff": [
         {
             "+@gid": "2184046121",
@@ -89,8 +105,48 @@
             }
         },
         {
+            "+@gid": "1359627164",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Yūko Kakihara",
+                "+@id": "260892"
+            }
+        },
+        {
+            "+@gid": "2141213906",
+            "task": "Music",
+            "person": {
+                "+content": "Kevin Penkin",
+                "+@id": "137322"
+            }
+        },
+        {
+            "+@gid": "615765685",
+            "task": "Music",
+            "person": {
+                "+content": "Arisa Okehazama",
+                "+@id": "193972"
+            }
+        },
+        {
+            "+@gid": "2076338841",
+            "task": "Music",
+            "person": {
+                "+content": "Satoru Kōsaki",
+                "+@id": "261198"
+            }
+        },
+        {
             "+@gid": "754429535",
             "task": "Original creator",
+            "person": {
+                "+content": "Hyūganatsu",
+                "+@id": "199786"
+            }
+        },
+        {
+            "+@gid": "1718806490",
+            "task": "Original story",
             "person": {
                 "+content": "Hyūganatsu",
                 "+@id": "199786"
@@ -103,6 +159,83 @@
                 "+content": "Touko Shino",
                 "+@id": "199787"
             }
+        },
+        {
+            "+@gid": "628806137",
+            "task": "Character Design",
+            "person": {
+                "+content": "Yukiko Nakatani",
+                "+@id": "3301"
+            }
+        },
+        {
+            "+@gid": "2575776173",
+            "task": "Art Director",
+            "person": {
+                "+content": "Masakazu Miyake",
+                "+@id": "35699"
+            }
+        },
+        {
+            "+@gid": "3767360394",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yukiko Nakatani",
+                "+@id": "3301"
+            }
+        },
+        {
+            "+@gid": "1505563172",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Shōji Hata",
+                "+@id": "10427"
+            }
+        },
+        {
+            "+@gid": "1045698939",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Takumi Mukai",
+                "+@id": "181586"
+            }
+        },
+        {
+            "+@gid": "2038270969",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Atsushi Takeyama",
+                "+@id": "1572"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3317865688",
+            "+@lang": "JA",
+            "role": "Mu Qing",
+            "person": {
+                "+content": "Mariya Ise",
+                "+@id": "46112"
+            }
+        },
+        {
+            "+@gid": "2186863925",
+            "+@lang": "JA",
+            "role": "Maomao",
+            "person": {
+                "+content": "Aoi Yūki",
+                "+@id": "68107"
+            }
+        },
+        {
+            "+@gid": "1943799129",
+            "+@lang": "JA",
+            "role": "Jinshi",
+            "person": {
+                "+content": "Takeo Ōtsuka",
+                "+@id": "158555"
+            }
         }
     ],
     "credit": {
@@ -114,5 +247,6 @@
         }
     },
     "+@date-added": "2025-10-22T08:09:53Z",
-    "+@date-last-updated-at": "2026-06-20T17:48:47Z"
+    "+@date-last-modified-at": "2026-07-20T18:20:50Z",
+    "+@date-last-updated-at": "2026-07-20T18:20:50Z"
 }

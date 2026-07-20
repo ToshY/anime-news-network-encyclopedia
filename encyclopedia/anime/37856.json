@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Rent-A-Girlfriend",
     "+@precision": "TV 5",
-    "+@generated-on": "2026-06-20T17:48:43Z",
+    "+@generated-on": "2026-07-20T18:20:45Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32921"
+    },
+    "related-next": {
+        "+@id": "40169",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -101,8 +105,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "8.1503"
+        "+@nb_votes": "22",
+        "+@weighted_score": "5.8277",
+        "+@bayesian_score": "6.40719"
     },
     "news": [
         {
@@ -129,6 +134,11 @@
             "+content": "<cite>The Warrior Princess and the Barbaric King</cite>, <cite>Rent-A-Girlfriend</cite> Season 5 Anime Reveal English Dub Casts",
             "+@datetime": "2026-04-23T16:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-23/the-warrior-princess-and-the-barbaric-king-rent-a-girlfriend-season-5-anime-reveal-english-dub-casts/.236725"
+        },
+        {
+            "+content": "<cite>Rent-A-Girlfriend</cite> Anime Gets 6th Season",
+            "+@datetime": "2026-06-26T18:15:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-26/rent-a-girlfriend-anime-gets-6th-season/.238997"
         }
     ],
     "staff": [
@@ -655,12 +665,12 @@
             }
         },
         {
-            "+@gid": "2357838764",
+            "+@gid": "2641858872",
             "+@lang": "ES",
-            "role": "Mami Nanami",
+            "role": "Mini Yaemori",
             "person": {
-                "+content": "Mariana Castañeda",
-                "+@id": "197554"
+                "+content": "Erika Ugalde",
+                "+@id": "172885"
             }
         },
         {
@@ -670,6 +680,15 @@
             "person": {
                 "+content": "Polly Huerta",
                 "+@id": "208905"
+            }
+        },
+        {
+            "+@gid": "2956161464",
+            "+@lang": "ES",
+            "role": "Mami Nanami",
+            "person": {
+                "+content": "Paulina Garcia",
+                "+@id": "294063"
             }
         },
         {
@@ -790,6 +809,6 @@
         }
     },
     "+@date-added": "2025-09-20T04:25:34Z",
-    "+@date-last-modified-at": "2026-06-20T17:48:47Z",
-    "+@date-last-updated-at": "2026-06-20T17:48:47Z"
+    "+@date-last-modified-at": "2026-07-20T18:20:50Z",
+    "+@date-last-updated-at": "2026-07-20T18:20:50Z"
 }
