@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Liar Game",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-19T21:35:56Z",
+    "+@generated-on": "2026-07-20T04:06:06Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "8178"
@@ -92,13 +92,23 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "\"Abuku\" (あぶく; Bubble) by yorushika",
+            "+content": "#1: \"Abuku\" (あぶく; Bubble) by yorushika",
             "+@gid": "2340563537",
             "+@type": "Opening Theme"
         },
         {
-            "+content": "\"Asahi\" (朝日) by Lucky Kilimanjaro",
+            "+content": "#2: \"All in\" by Kroi",
+            "+@gid": "2988420237",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "#1: \"Asahi\" (朝日) by Lucky Kilimanjaro",
             "+@gid": "2722151819",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#2: \"Tarinai\" (たりない; Still Not Enough) by muque",
+            "+@gid": "2598064501",
             "+@type": "Ending Theme"
         },
         {
@@ -117,8 +127,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "10",
-        "+@weighted_score": "4.5334"
+        "+@nb_votes": "13",
+        "+@weighted_score": "5.2459",
+        "+@bayesian_score": "6.31332"
     },
     "episode": [
         {
@@ -208,6 +219,46 @@
                 "+@gid": "3459555320",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Yokoya",
+                "+@gid": "848861042",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "Fissures",
+                "+@gid": "3071528399",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "14",
+            "title": {
+                "+content": "Dictatorship",
+                "+@gid": "3673237604",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "15",
+            "title": {
+                "+content": "Secret Plan",
+                "+@gid": "2638039263",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "16",
+            "title": {
+                "+content": "Turbulence",
+                "+@gid": "2926031056",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -270,6 +321,11 @@
             "+content": "Crunchyroll Announces Release Schedule for Summer 2026 Season",
             "+@datetime": "2026-06-17T17:45:10Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-17/crunchyroll-announces-release-schedule-for-summer-2026-season/.238615"
+        },
+        {
+            "+content": "<cite>Liar Game</cite> Anime Reveals Trailer, Visual, Cast, Theme Song Artists for 2nd Part",
+            "+@datetime": "2026-06-22T15:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-22/liar-game-anime-reveals-trailer-visual-cast-theme-song-artists-for-2nd-part/.238796"
         }
     ],
     "staff": [
@@ -472,6 +528,24 @@
             }
         },
         {
+            "+@gid": "1900594651",
+            "+@lang": "EN",
+            "role": "Nearco",
+            "person": {
+                "+content": "Landon McDonald",
+                "+@id": "148198"
+            }
+        },
+        {
+            "+@gid": "1078199111",
+            "+@lang": "EN",
+            "role": "Teruyuki Eda",
+            "person": {
+                "+content": "Alex Mai",
+                "+@id": "164246"
+            }
+        },
+        {
             "+@gid": "989163151",
             "+@lang": "EN",
             "role": "Kazuo Fujisawa",
@@ -487,6 +561,15 @@
             "person": {
                 "+content": "Kayleigh McKee",
                 "+@id": "208764"
+            }
+        },
+        {
+            "+@gid": "3509484781",
+            "+@lang": "EN",
+            "role": "Hiroto Kitamura",
+            "person": {
+                "+content": "Monty Thompson",
+                "+@id": "212412"
             }
         },
         {
@@ -535,12 +618,30 @@
             }
         },
         {
+            "+@gid": "1921576674",
+            "+@lang": "EN",
+            "role": "Daisuke Danno",
+            "person": {
+                "+content": "Ethan C.",
+                "+@id": "253978"
+            }
+        },
+        {
             "+@gid": "2344645068",
             "+@lang": "EN",
             "role": "Shingo Fujita",
             "person": {
                 "+content": "Aiden Call",
                 "+@id": "265882"
+            }
+        },
+        {
+            "+@gid": "163014418",
+            "+@lang": "EN",
+            "role": "Kosuke Tsunoda",
+            "person": {
+                "+content": "Jack Broadbent",
+                "+@id": "272089"
             }
         },
         {
@@ -580,6 +681,24 @@
             }
         },
         {
+            "+@gid": "1906839360",
+            "+@lang": "JA",
+            "role": "Tatsuji Wada",
+            "person": {
+                "+content": "Shinya Takahashi",
+                "+@id": "74624"
+            }
+        },
+        {
+            "+@gid": "2147103736",
+            "+@lang": "JA",
+            "role": "Norihiko Yokoya",
+            "person": {
+                "+content": "Natsuki Hanae",
+                "+@id": "106773"
+            }
+        },
+        {
             "+@gid": "2196313955",
             "+@lang": "JA",
             "role": "Daisuke Danno",
@@ -607,6 +726,15 @@
             }
         },
         {
+            "+@gid": "706107883",
+            "+@lang": "JA",
+            "role": "Kenji Ikezoe",
+            "person": {
+                "+content": "Tomohiro Yamaguchi",
+                "+@id": "127192"
+            }
+        },
+        {
             "+@gid": "2444010931",
             "+@lang": "JA",
             "role": "Takayoshi Miura",
@@ -625,12 +753,30 @@
             }
         },
         {
+            "+@gid": "1432017889",
+            "+@lang": "JA",
+            "role": "Kota Akagi",
+            "person": {
+                "+content": "Junya Hirano",
+                "+@id": "133915"
+            }
+        },
+        {
             "+@gid": "2830679170",
             "+@lang": "JA",
             "role": "Tetsuzō Satō",
             "person": {
                 "+content": "Tarō Kiuchi",
                 "+@id": "141453"
+            }
+        },
+        {
+            "+@gid": "2675448260",
+            "+@lang": "JA",
+            "role": "Yusuke Shibayama",
+            "person": {
+                "+content": "Kengo Tsujii",
+                "+@id": "147259"
             }
         },
         {
@@ -652,6 +798,15 @@
             }
         },
         {
+            "+@gid": "2851881141",
+            "+@lang": "JA",
+            "role": "Akira Tsumura",
+            "person": {
+                "+content": "Tatsumaru Tachibana",
+                "+@id": "180195"
+            }
+        },
+        {
             "+@gid": "1299243048",
             "+@lang": "JA",
             "role": "Teruyuki Eda",
@@ -667,6 +822,24 @@
             "person": {
                 "+content": "Ryōsuke Asano",
                 "+@id": "185991"
+            }
+        },
+        {
+            "+@gid": "1248701730",
+            "+@lang": "JA",
+            "role": "Kakeru Tajima",
+            "person": {
+                "+content": "Reigo Yamaguchi",
+                "+@id": "189801"
+            }
+        },
+        {
+            "+@gid": "1232383092",
+            "+@lang": "JA",
+            "role": "Hiroshi Hasegawa",
+            "person": {
+                "+content": "Seiyū Fujiwara",
+                "+@id": "192255"
             }
         },
         {
@@ -703,6 +876,15 @@
             "person": {
                 "+content": "Misano Sakai",
                 "+@id": "203113"
+            }
+        },
+        {
+            "+@gid": "2743036958",
+            "+@lang": "JA",
+            "role": "Makoto Murata",
+            "person": {
+                "+content": "Kikunosuke Toya",
+                "+@id": "222634"
             }
         },
         {
@@ -825,6 +1007,6 @@
         }
     ],
     "+@date-added": "2025-08-22T19:55:12Z",
-    "+@date-last-modified-at": "2026-06-19T21:36:04Z",
-    "+@date-last-updated-at": "2026-06-19T21:36:04Z"
+    "+@date-last-modified-at": "2026-07-20T04:06:15Z",
+    "+@date-last-updated-at": "2026-07-20T04:06:15Z"
 }
