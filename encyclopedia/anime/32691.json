@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "New Dawn",
     "+@precision": "movie",
-    "+@generated-on": "2026-06-20T10:41:21Z",
+    "+@generated-on": "2026-07-20T14:33:51Z",
     "info": [
         {
             "+@gid": "3000525461",
@@ -54,13 +54,17 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2024-05-19 (preview screened at Cannes’ Marché du Film Animation Day)",
-            "+@gid": "2656424627",
+            "+content": "2026-03-06",
             "+@type": "Vintage"
         },
         {
             "+content": "2026-03-06 (Japan)",
             "+@gid": "2593078468",
+            "+@type": "Premiere date"
+        },
+        {
+            "+content": "2026-07-23 (Italy)",
+            "+@gid": "738655063",
             "+@type": "Premiere date"
         },
         {
@@ -74,6 +78,10 @@
     "ratings": {
         "+@nb_votes": "1",
         "+@weighted_score": "5"
+    },
+    "review": {
+        "+content": "A New Dawn Anime Film Review",
+        "+@href": "https://www.animenewsnetwork.com/review/a-new-dawn/anime-film/.238950"
     },
     "news": [
         {
@@ -120,6 +128,16 @@
             "+content": "<cite>A New Dawn</cite>, <cite>The Obsessed</cite>, <cite>Peleliu, We Are Aliens</cite>,  More Films to Play at Annecy",
             "+@datetime": "2026-04-29T12:37:06Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-29/a-new-dawn-the-obsessed-peleliu-we-are-aliens-more-films-to-play-at-annecy/.236906"
+        },
+        {
+            "+content": "<cite>A New Dawn</cite> Anime Film, <cite>Takopi's Original Sin</cite> TV Anime Win at Annecy",
+            "+@datetime": "2026-06-29T03:37:04Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-28/a-new-dawn-anime-film-takopi-original-sin-tv-anime-win-at-annecy/.239052"
+        },
+        {
+            "+content": "Fantasia Int'l Film Fest Screens <cite>Grotesqqque</cite>, <cite>A New Dawn</cite>, <cite>cocoon</cite> Anime",
+            "+@datetime": "2026-07-10T00:00:39Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-09/fantasia-intl-film-fest-screens-grotesqqque-a-new-dawn-cocoon-anime/.239327"
         }
     ],
     "staff": [
@@ -230,6 +248,42 @@
     ],
     "cast": [
         {
+            "+@gid": "1150973704",
+            "+@lang": "IT",
+            "role": "Sentarō \"Chicchi\" Tatewaki",
+            "person": {
+                "+content": "Federico Bebi",
+                "+@id": "74335"
+            }
+        },
+        {
+            "+@gid": "2594852252",
+            "+@lang": "IT",
+            "role": "Keitarō Tatewaki",
+            "person": {
+                "+content": "Matteo Liofredi",
+                "+@id": "177049"
+            }
+        },
+        {
+            "+@gid": "2233288367",
+            "+@lang": "IT",
+            "role": "Kaoru Shikimori",
+            "person": {
+                "+content": "Luisa D'Aprile",
+                "+@id": "183853"
+            }
+        },
+        {
+            "+@gid": "2670282940",
+            "+@lang": "IT",
+            "role": "Eitaro Tatewaki",
+            "person": {
+                "+content": "Alessandro Parise",
+                "+@id": "216162"
+            }
+        },
+        {
             "+@gid": "1147095192",
             "+@lang": "JA",
             "role": "Sentarō Obinata",
@@ -293,5 +347,6 @@
         }
     ],
     "+@date-added": "2024-04-24T05:47:02Z",
-    "+@date-last-updated-at": "2026-06-20T10:41:23Z"
+    "+@date-last-modified-at": "2026-07-20T14:33:58Z",
+    "+@date-last-updated-at": "2026-07-20T14:33:58Z"
 }
