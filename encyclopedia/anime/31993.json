@@ -2,9 +2,9 @@
     "+@id": "31993",
     "+@gid": "1798637220",
     "+@type": "movie",
-    "+@name": "Hypergalactic",
+    "+@name": "Monkey Quest",
     "+@precision": "movie",
-    "+@generated-on": "2026-06-21T05:19:19Z",
+    "+@generated-on": "2026-07-21T06:11:47Z",
     "info": [
         {
             "+@gid": "1856185575",
@@ -31,17 +31,29 @@
             ]
         },
         {
-            "+content": "Hypergalactic",
-            "+@gid": "1551862631",
+            "+content": "Monkey Quest",
+            "+@gid": "1335179089",
             "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "2027",
+            "+@gid": "1570365780",
+            "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Toei Animation, <cite>Sonic the Hedgehog</cite> Designer Naoto Oshima Announce <cite>Hypergalactic</cite> CG Animated Film",
-        "+@datetime": "2024-02-06T18:16:35Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-02-06/toei-animation-sonic-the-hedgehog-designer-naoto-oshima-announce-hypergalactic-cg-animated-film/.207300"
-    },
+    "news": [
+        {
+            "+content": "Toei Animation, <cite>Sonic the Hedgehog</cite> Designer Naoto Oshima Announce <cite>Hypergalactic</cite> CG Animated Film",
+            "+@datetime": "2024-02-06T18:16:35Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-02-06/toei-animation-sonic-the-hedgehog-designer-naoto-oshima-announce-hypergalactic-cg-animated-film/.207300"
+        },
+        {
+            "+content": "Toei Animation Details 2D/3D Hybrid Film <cite>Monkey Quest</cite> for 2027",
+            "+@datetime": "2026-06-27T16:13:35Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-27/toei-animation-details-2d-3d-hybrid-film-monkey-quest-for-2027/.239027"
+        }
+    ],
     "staff": [
         {
             "+@gid": "648996361",
@@ -84,6 +96,35 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "2235287772",
+            "+@lang": "EN",
+            "role": "Vex",
+            "person": {
+                "+content": "J.K. Simmons",
+                "+@id": "42569"
+            }
+        },
+        {
+            "+@gid": "1038074696",
+            "+@lang": "EN",
+            "role": "Okon",
+            "person": {
+                "+content": "Adam Devine",
+                "+@id": "53560"
+            }
+        },
+        {
+            "+@gid": "2474874827",
+            "+@lang": "EN",
+            "role": "Ellie",
+            "person": {
+                "+content": "Elsie Fisher",
+                "+@id": "260333"
+            }
+        }
+    ],
     "credit": {
         "+@gid": "3746849681",
         "task": "Animation Production",
@@ -93,5 +134,6 @@
         }
     },
     "+@date-added": "2024-02-06T21:54:17Z",
-    "+@date-last-updated-at": "2026-06-21T05:19:24Z"
+    "+@date-last-modified-at": "2026-07-21T06:42:24Z",
+    "+@date-last-updated-at": "2026-07-21T06:42:24Z"
 }

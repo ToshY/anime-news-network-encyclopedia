@@ -2,9 +2,9 @@
     "+@id": "36720",
     "+@gid": "1990247356",
     "+@type": "manga",
-    "+@name": "Tamagawa-san Detemashita?",
+    "+@name": "Tamagawa, Is That You?",
     "+@precision": "manga",
-    "+@generated-on": "2026-06-21T05:19:21Z",
+    "+@generated-on": "2026-07-21T06:42:14Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "3089"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "Tamagawa, Is That You?",
+            "+@gid": "2248457416",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Tamagawa-san Detemashita?",
             "+@gid": "2074639100",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -57,11 +63,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "<cite>Young Gangan</cite> Magazine to Launch 4 New Manga Including <cite>My Dress-Up Darling</cite> Spinoff",
-        "+@datetime": "2024-11-18T08:05:43Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-11-18/young-gangan-magazine-to-launch-4-new-manga-including-my-dress-up-darling-spinoff/.217967"
-    },
+    "news": [
+        {
+            "+content": "<cite>Young Gangan</cite> Magazine to Launch 4 New Manga Including <cite>My Dress-Up Darling</cite> Spinoff",
+            "+@datetime": "2024-11-18T08:05:43Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-11-18/young-gangan-magazine-to-launch-4-new-manga-including-my-dress-up-darling-spinoff/.217967"
+        },
+        {
+            "+content": "Exclusive: Square Enix Manga & Books Reveals 8 Manga, 2 <cite>Final Fantasy</cite> Book Releases",
+            "+@datetime": "2026-07-02T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-02/exclusive-square-enix-manga-and-books-reveals-8-manga-2-final-fantasy-book-releases/.239184"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2667777418",
@@ -81,5 +94,6 @@
         }
     ],
     "+@date-added": "2025-06-24T13:49:33Z",
-    "+@date-last-updated-at": "2026-06-21T05:19:22Z"
+    "+@date-last-modified-at": "2026-07-21T06:42:15Z",
+    "+@date-last-updated-at": "2026-07-21T06:42:15Z"
 }
