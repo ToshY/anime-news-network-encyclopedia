@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Sirotan",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-21T11:25:08Z",
+    "+@generated-on": "2026-07-21T14:23:58Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "39995"
@@ -64,6 +64,11 @@
             "+content": "TV Asahi Announces New Short Anime Programming Block 'PicoAni'",
             "+@datetime": "2026-06-15T20:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-15/tv-asahi-announces-new-short-anime-programming-block-picoani/.238537"
+        },
+        {
+            "+content": "<cite>Sirotan</cite> TV Anime Reveals Promo Video, Cast",
+            "+@datetime": "2026-06-29T15:25:10Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-29/sirotan-tv-anime-reveals-promo-video-cast/.239100"
         }
     ],
     "staff": [
@@ -92,15 +97,44 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "1994846848",
-        "+@lang": "JA",
-        "role": "Sirotan",
-        "person": {
-            "+content": "Aoi Yūki",
-            "+@id": "68107"
+    "cast": [
+        {
+            "+@gid": "1994846848",
+            "+@lang": "JA",
+            "role": "Sirotan",
+            "person": {
+                "+content": "Aoi Yūki",
+                "+@id": "68107"
+            }
+        },
+        {
+            "+@gid": "2222806616",
+            "+@lang": "JA",
+            "role": "Sheru",
+            "person": {
+                "+content": "Rina Hidaka",
+                "+@id": "70503"
+            }
+        },
+        {
+            "+@gid": "1354647343",
+            "+@lang": "JA",
+            "role": "Rakkoinu",
+            "person": {
+                "+content": "Miyu Hanasaki",
+                "+@id": "226394"
+            }
+        },
+        {
+            "+@gid": "1835017905",
+            "+@lang": "JA",
+            "role": "Ramune",
+            "person": {
+                "+content": "Riyo Iwai",
+                "+@id": "299598"
+            }
         }
-    },
+    ],
     "credit": {
         "+@gid": "1569191794",
         "task": "Animation Production",
@@ -110,6 +144,6 @@
         }
     },
     "+@date-added": "2026-03-22T21:22:44Z",
-    "+@date-last-modified-at": "2026-06-21T11:25:17Z",
-    "+@date-last-updated-at": "2026-06-21T11:25:17Z"
+    "+@date-last-modified-at": "2026-07-21T14:24:08Z",
+    "+@date-last-updated-at": "2026-07-21T14:24:08Z"
 }

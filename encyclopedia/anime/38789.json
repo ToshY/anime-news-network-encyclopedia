@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "Hana-Kimi",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-06-21T11:25:08Z",
+    "+@generated-on": "2026-07-21T14:23:58Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32734"
     },
     "info": [
         {
-            "+@gid": "3094657191",
+            "+@gid": "1172634661",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38789-3094657191.1781706730.jpg",
-            "+@width": "140",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38789-1172634661.1784613978.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38789-3094657191.1781706730.jpg",
-                    "+@width": "140",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38789-1172634661.1784613978.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38789-3094657191.1781706730.jpg",
-                    "+@width": "350",
-                    "+@height": "500"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38789-1172634661.1784613978.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38789-1172634661.1784613978.jpg",
+                    "+@width": "1000",
+                    "+@height": "1414"
                 }
             ]
         },
@@ -93,6 +98,11 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "23",
+            "+@gid": "2433423223",
+            "+@type": "Running time"
+        },
+        {
             "+content": "2026-07-01",
             "+@gid": "2109567442",
             "+@type": "Vintage"
@@ -115,6 +125,10 @@
             "+@href": "https://hanakimi-anime.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "3.1404"
+    },
     "news": [
         {
             "+content": "<i>Hana-Kimi</i> Anime Season 2's Promo Video Unveils Theme Songs, July 1 Debut",
@@ -130,6 +144,11 @@
             "+content": "Crunchyroll India to Stream <cite>Black Torch</cite>, <cite>Dara-san of Reiwa</cite>, <cite>Kaiju Girl Caramelise</cite>, More Anime in Summer 2026",
             "+@datetime": "2026-06-21T07:50:07Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-21/crunchyroll-india-to-stream-black-torch-dara-san-of-reiwa-kaiju-girl-caramelise-more-anime-in-/.238716"
+        },
+        {
+            "+content": "<cite>Kaiju Girl Caramelise</cite>, <cite>The Exiled Heavy Knight Knows How to Game the System</cite>, More Anime Reveal English Dub Casts, Debuts",
+            "+@datetime": "2026-07-16T18:00:46Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-16/kaiju-girl-caramelise-the-exiled-heavy-knight-knows-how-to-game-the-system-more-anime-reveal-/.239690"
         }
     ],
     "staff": [
@@ -147,6 +166,102 @@
             "person": {
                 "+content": "Takao Yoshioka",
                 "+@id": "11621"
+            }
+        },
+        {
+            "+@gid": "1809572713",
+            "task": "Script",
+            "person": {
+                "+content": "Takao Yoshioka",
+                "+@id": "11621"
+            }
+        },
+        {
+            "+@gid": "2277575869",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ichizō Kobayashi",
+                "+@id": "5834"
+            }
+        },
+        {
+            "+@gid": "774703618",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yuta Mikami",
+                "+@id": "138206"
+            }
+        },
+        {
+            "+@gid": "3206312708",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yumeko Iwaoka",
+                "+@id": "148378"
+            }
+        },
+        {
+            "+@gid": "1357596089",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Xiao Can Chen",
+                "+@id": "171433"
+            }
+        },
+        {
+            "+@gid": "3462594165",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tetsuya Takahashi",
+                "+@id": "210986"
+            }
+        },
+        {
+            "+@gid": "3268333890",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Nozomi Wakabayashi",
+                "+@id": "299647"
+            }
+        },
+        {
+            "+@gid": "439546478",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Pei Ni Hong",
+                "+@id": "112242"
+            }
+        },
+        {
+            "+@gid": "1148434014",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yuta Mikami",
+                "+@id": "138206"
+            }
+        },
+        {
+            "+@gid": "366754307",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Xiao Can Chen",
+                "+@id": "171433"
+            }
+        },
+        {
+            "+@gid": "1274479561",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yuuichi Satou",
+                "+@id": "243559"
+            }
+        },
+        {
+            "+@gid": "760428828",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Yumeko Iwaoka",
+                "+@id": "148378"
             }
         },
         {
@@ -182,6 +297,166 @@
             }
         },
         {
+            "+@gid": "1758414866",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Shiori Asaka",
+                "+@id": "130857"
+            }
+        },
+        {
+            "+@gid": "2148100234",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Shi Yi Su",
+                "+@id": "150011"
+            }
+        },
+        {
+            "+@gid": "2443640189",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Niina Morita",
+                "+@id": "176246"
+            }
+        },
+        {
+            "+@gid": "4070706467",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kumiko Aoki",
+                "+@id": "221915"
+            }
+        },
+        {
+            "+@gid": "1650195374",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazuchika Kise",
+                "+@id": "469"
+            }
+        },
+        {
+            "+@gid": "2101507986",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kyoko Taketani",
+                "+@id": "18828"
+            }
+        },
+        {
+            "+@gid": "174563094",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mari Kobayashi",
+                "+@id": "31466"
+            }
+        },
+        {
+            "+@gid": "660611909",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shuji Kawakami",
+                "+@id": "33116"
+            }
+        },
+        {
+            "+@gid": "2580783878",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chiho Mifune",
+                "+@id": "54173"
+            }
+        },
+        {
+            "+@gid": "1880433928",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shiori Asaka",
+                "+@id": "130857"
+            }
+        },
+        {
+            "+@gid": "3580480646",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shi Yi Su",
+                "+@id": "150011"
+            }
+        },
+        {
+            "+@gid": "3451722408",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūki Takenouchi",
+                "+@id": "192199"
+            }
+        },
+        {
+            "+@gid": "1828195640",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kai Qi Tan",
+                "+@id": "221909"
+            }
+        },
+        {
+            "+@gid": "1946054829",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Rika Masuko",
+                "+@id": "240580"
+            }
+        },
+        {
+            "+@gid": "2058774489",
+            "task": "Animation Director",
+            "person": {
+                "+content": "KKbattery",
+                "+@id": "245047"
+            }
+        },
+        {
+            "+@gid": "2797839349",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Bak",
+                "+@id": "245049"
+            }
+        },
+        {
+            "+@gid": "3252244872",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Lenore",
+                "+@id": "267131"
+            }
+        },
+        {
+            "+@gid": "1960766424",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zhu Qian",
+                "+@id": "276245"
+            }
+        },
+        {
+            "+@gid": "2045331589",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Bernese",
+                "+@id": "299644"
+            }
+        },
+        {
+            "+@gid": "2794789032",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zi Hui",
+                "+@id": "299645"
+            }
+        },
+        {
             "+@gid": "1763725820",
             "task": "Sound Director",
             "person": {
@@ -207,6 +482,96 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "3723057162",
+            "+@lang": "EN",
+            "role": "Itsuki Kujo",
+            "person": {
+                "+content": "Aaron Dismuke",
+                "+@id": "10246"
+            }
+        },
+        {
+            "+@gid": "2377124990",
+            "+@lang": "EN",
+            "role": "Shuichi Nakatsu",
+            "person": {
+                "+content": "Dallas Reid",
+                "+@id": "122344"
+            }
+        },
+        {
+            "+@gid": "1274059239",
+            "+@lang": "EN",
+            "role": "Senri Nakao",
+            "person": {
+                "+content": "Justin Briner",
+                "+@id": "130749"
+            }
+        },
+        {
+            "+@gid": "296807652",
+            "+@lang": "EN",
+            "role": "Mizuki Ashiya",
+            "person": {
+                "+content": "Katelyn Barr",
+                "+@id": "132390"
+            }
+        },
+        {
+            "+@gid": "1045851045",
+            "+@lang": "EN",
+            "role": "Hokuto Umeda",
+            "person": {
+                "+content": "Reagan Murdock",
+                "+@id": "176327"
+            }
+        },
+        {
+            "+@gid": "2173101965",
+            "+@lang": "EN",
+            "role": "Izumi Sano",
+            "person": {
+                "+content": "Wyatt Baker",
+                "+@id": "211397"
+            }
+        },
+        {
+            "+@gid": "2894359087",
+            "+@lang": "EN",
+            "role": "Shinji Noe",
+            "person": {
+                "+content": "Ben Stegmair",
+                "+@id": "226251"
+            }
+        },
+        {
+            "+@gid": "2105498082",
+            "+@lang": "EN",
+            "role": "Daiki Kayashima",
+            "person": {
+                "+content": "Ethan C.",
+                "+@id": "253978"
+            }
+        },
+        {
+            "+@gid": "1721245309",
+            "+@lang": "EN",
+            "role": "Kyougo Sekime",
+            "person": {
+                "+content": "Tom Henry",
+                "+@id": "262197"
+            }
+        },
+        {
+            "+@gid": "2120212946",
+            "+@lang": "EN",
+            "role": "Julia Maxwell",
+            "person": {
+                "+content": "Jaclyn Thomas",
+                "+@id": "263371"
+            }
+        },
         {
             "+@gid": "974321836",
             "+@lang": "JA",
@@ -334,6 +699,6 @@
         }
     },
     "+@date-added": "2026-03-22T17:10:09Z",
-    "+@date-last-modified-at": "2026-06-21T11:25:17Z",
-    "+@date-last-updated-at": "2026-06-21T11:25:17Z"
+    "+@date-last-modified-at": "2026-07-21T14:24:08Z",
+    "+@date-last-updated-at": "2026-07-21T14:24:08Z"
 }
