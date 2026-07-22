@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Wait, I Love You",
     "+@precision": "manga",
-    "+@generated-on": "2026-06-21T21:42:42Z",
+    "+@generated-on": "2026-07-22T03:48:35Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "38870"
@@ -68,11 +68,18 @@
             "+@type": "Vintage"
         }
     ],
-    "release": {
-        "+content": "Wait, I Love You (GN 1)",
-        "+@date": "2026-02-24",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57161"
-    },
+    "release": [
+        {
+            "+content": "Wait, I Love You (GN 1)",
+            "+@date": "2026-02-24",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57161"
+        },
+        {
+            "+content": "Wait, I Love You (GN 2)",
+            "+@date": "2026-06-23",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=59248"
+        }
+    ],
     "news": [
         {
             "+content": "Seven Seas Licenses <cite>Magic Maker: How to Create Magic in Another World</cite> Light Novels, 4 More Titles",
@@ -83,6 +90,11 @@
             "+content": "North American Anime, Manga Releases, February 22-28",
             "+@datetime": "2026-02-27T22:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-02-27/north-american-anime-manga-releases-february-22-28/.234541"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, June 21-27",
+            "+@datetime": "2026-06-26T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-26/north-american-anime-manga-releases-june-21-27/.238814"
         }
     ],
     "staff": {
@@ -94,5 +106,6 @@
         }
     },
     "+@date-added": "2025-05-15T07:24:18Z",
-    "+@date-last-updated-at": "2026-06-21T21:42:43Z"
+    "+@date-last-modified-at": "2026-07-22T03:48:36Z",
+    "+@date-last-updated-at": "2026-07-22T03:48:36Z"
 }
