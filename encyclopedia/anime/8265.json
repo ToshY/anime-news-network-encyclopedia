@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Blue Drop",
     "+@precision": "TV",
-    "+@generated-on": "2026-05-17T17:15:55Z",
+    "+@generated-on": "2026-07-22T10:34:31Z",
     "related-prev": {
         "+@rel": "prequel of",
         "+@id": "7903"
@@ -78,6 +78,11 @@
             "+@type": "Objectionable content"
         },
         {
+            "+content": "© Akihito Yoshitomi, MediaWorks, Akita Shoten / PROJECT BD",
+            "+@gid": "2220324645",
+            "+@type": "Copyright notice"
+        },
+        {
             "+content": "Mari Wakatake has been living with her Grandmother for the past 5 years after a tragedy caused the loss of her home, friends and family, as well as her memories. Fearing for her future, her Grandmother admits her into Kaihou Academy, for her to make friends, instead of home studying. Although reluctant to go, she does and meets Hagino Sekonji. At first appearance, this girl appears like a normal student but inside her lies a deep secret that relates to the tragedy of 5 years ago.",
             "+@gid": "1953274720",
             "+@type": "Plot Summary"
@@ -139,7 +144,7 @@
     "ratings": {
         "+@nb_votes": "595",
         "+@weighted_score": "6.8103",
-        "+@bayesian_score": "6.82336"
+        "+@bayesian_score": "6.82333"
     },
     "episode": [
         {
@@ -362,6 +367,14 @@
             }
         },
         {
+            "+@gid": "2364230812",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Hiroshi Shirai",
+                "+@id": "21521"
+            }
+        },
+        {
             "+@gid": "1682814686",
             "task": "Screenplay",
             "person": {
@@ -514,6 +527,14 @@
             }
         },
         {
+            "+@gid": "787646634",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kotomi Deai",
+                "+@id": "92079"
+            }
+        },
+        {
             "+@gid": "1482500873",
             "task": "Unit Director",
             "person": {
@@ -556,6 +577,14 @@
         {
             "+@gid": "3031598541",
             "task": "Original creator",
+            "person": {
+                "+content": "Akihito Yoshitomi",
+                "+@id": "120"
+            }
+        },
+        {
+            "+@gid": "425511586",
+            "task": "Original Character Design",
             "person": {
                 "+content": "Akihito Yoshitomi",
                 "+@id": "120"
@@ -754,11 +783,27 @@
             }
         },
         {
+            "+@gid": "2160513276",
+            "task": "Art design",
+            "person": {
+                "+content": "Tomoyasu Fujise",
+                "+@id": "47019"
+            }
+        },
+        {
             "+@gid": "1725255952",
             "task": "3D Director",
             "person": {
                 "+content": "Hiroshi Shirai",
                 "+@id": "19692"
+            }
+        },
+        {
+            "+@gid": "2440949058",
+            "task": "3D Director",
+            "person": {
+                "+content": "Hiroshi Shirai",
+                "+@id": "21521"
             }
         },
         {
@@ -1041,6 +1086,6 @@
         }
     ],
     "+@date-added": "2007-06-19T11:39:37Z",
-    "+@date-last-modified-at": "2026-05-17T17:15:59Z",
-    "+@date-last-updated-at": "2026-05-17T17:15:59Z"
+    "+@date-last-modified-at": "2026-07-22T10:34:33Z",
+    "+@date-last-updated-at": "2026-07-22T10:34:33Z"
 }
