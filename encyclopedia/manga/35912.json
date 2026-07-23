@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Bōkensha Sakaba no Ryōrinin",
     "+@precision": "manga",
-    "+@generated-on": "2026-06-23T11:31:29Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "24239"
-    },
+    "+@generated-on": "2026-07-23T14:33:32Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "24239"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "40252"
+        }
+    ],
     "info": [
         {
             "+@gid": "3324585347",
@@ -96,5 +102,6 @@
         }
     ],
     "+@date-added": "2025-04-29T19:13:53Z",
-    "+@date-last-updated-at": "2026-06-23T11:31:31Z"
+    "+@date-last-modified-at": "2026-07-23T14:33:34Z",
+    "+@date-last-updated-at": "2026-07-23T14:33:34Z"
 }
