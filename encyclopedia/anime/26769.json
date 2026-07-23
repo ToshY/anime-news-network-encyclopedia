@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-06-23T18:15:25Z",
+    "+@generated-on": "2026-07-23T21:29:25Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24993"
@@ -53,6 +53,16 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "2231702754",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "12",
+            "+@gid": "3597169419",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-08",
             "+@gid": "1969446909",
             "+@type": "Vintage"
@@ -68,11 +78,51 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "\"Silent Minority\" (サイレントマイノリティー) by Kashitarō Itō (ep 1)",
+            "+@gid": "2309885755",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Supreme LOVE STAR\" (シュプリーム LOVE STAR) by love interests (ep 1)",
+            "+@gid": "1441993052",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "TVアニメ「乙女ゲー世界はモブに厳しい世界です」公式サイト",
             "+@gid": "2267549327",
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://mobseka.com/"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "3",
+        "+@weighted_score": "4.8608"
+    },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "It's Always Love That Saves the World",
+                "+@gid": "2159851221",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "Do You Enjoy the Aesthetics of Destruction?",
+                "+@gid": "927001765",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "Oi, Kusogaki",
+                "+@gid": "2321978309",
+                "+@lang": "JA"
+            }
         }
     ],
     "news": [
@@ -105,6 +155,11 @@
             "+content": "Crunchyroll India to Stream <cite>Black Torch</cite>, <cite>Dara-san of Reiwa</cite>, <cite>Kaiju Girl Caramelise</cite>, More Anime in Summer 2026",
             "+@datetime": "2026-06-21T07:50:07Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-21/crunchyroll-india-to-stream-black-torch-dara-san-of-reiwa-kaiju-girl-caramelise-more-anime-in-/.238716"
+        },
+        {
+            "+content": "Crunchyroll Adds New <cite>Assassination Classroom</cite> Film",
+            "+@datetime": "2026-07-22T19:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-22/crunchyroll-adds-new-assassination-classroom-film/.239871"
         }
     ],
     "staff": [
@@ -122,6 +177,78 @@
             "person": {
                 "+content": "Kenta Ihara",
                 "+@id": "130920"
+            }
+        },
+        {
+            "+@gid": "2763017600",
+            "task": "Script",
+            "person": {
+                "+content": "Kenta Ihara",
+                "+@id": "130920"
+            }
+        },
+        {
+            "+@gid": "2161252500",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Toshihiko Masuda",
+                "+@id": "6641"
+            }
+        },
+        {
+            "+@gid": "2349378570",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kazuya Miura",
+                "+@id": "34672"
+            }
+        },
+        {
+            "+@gid": "1755863704",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yu Hyun Oh",
+                "+@id": "209041"
+            }
+        },
+        {
+            "+@gid": "2695779268",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hachigoumi",
+                "+@id": "300466"
+            }
+        },
+        {
+            "+@gid": "1924929332",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takashi Andō",
+                "+@id": "85045"
+            }
+        },
+        {
+            "+@gid": "808419115",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yu Hyun Oh",
+                "+@id": "209041"
+            }
+        },
+        {
+            "+@gid": "2603966968",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shinichi Fukumoto",
+                "+@id": "219254"
+            }
+        },
+        {
+            "+@gid": "2770446958",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Kazuya Miura",
+                "+@id": "34672"
             }
         },
         {
@@ -173,11 +300,195 @@
             }
         },
         {
+            "+@gid": "1819472309",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kazuya Morimae",
+                "+@id": "34796"
+            }
+        },
+        {
+            "+@gid": "2030105842",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Ayako Karatani",
+                "+@id": "37581"
+            }
+        },
+        {
+            "+@gid": "858675234",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Keita Hagio",
+                "+@id": "37962"
+            }
+        },
+        {
             "+@gid": "3278454882",
             "task": "Chief Animation Director",
             "person": {
                 "+content": "Masahiko Suzuki",
                 "+@id": "60131"
+            }
+        },
+        {
+            "+@gid": "3170823369",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiroya Iijima",
+                "+@id": "29243"
+            }
+        },
+        {
+            "+@gid": "1850762285",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masayuki Fujita",
+                "+@id": "39494"
+            }
+        },
+        {
+            "+@gid": "2247561048",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sung Jin Lee",
+                "+@id": "51465"
+            }
+        },
+        {
+            "+@gid": "1125918811",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūji Wada",
+                "+@id": "80237"
+            }
+        },
+        {
+            "+@gid": "1607237089",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wei Feng Li",
+                "+@id": "97132"
+            }
+        },
+        {
+            "+@gid": "3249386928",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hyun Kook Kang",
+                "+@id": "134730"
+            }
+        },
+        {
+            "+@gid": "3209607296",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wen Long Zhou",
+                "+@id": "170807"
+            }
+        },
+        {
+            "+@gid": "1789604536",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jin Gwang Park",
+                "+@id": "174216"
+            }
+        },
+        {
+            "+@gid": "1102441438",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Xiao Lin Zhu",
+                "+@id": "182320"
+            }
+        },
+        {
+            "+@gid": "2134777912",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yi Qin",
+                "+@id": "204189"
+            }
+        },
+        {
+            "+@gid": "1446163980",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ling Ling Chen",
+                "+@id": "210730"
+            }
+        },
+        {
+            "+@gid": "3090514830",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yang Zhao",
+                "+@id": "212331"
+            }
+        },
+        {
+            "+@gid": "3705422162",
+            "task": "Animation Director",
+            "person": {
+                "+content": "KntC",
+                "+@id": "213322"
+            }
+        },
+        {
+            "+@gid": "2692269017",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hai Hua Jiang",
+                "+@id": "226977"
+            }
+        },
+        {
+            "+@gid": "630766217",
+            "task": "Animation Director",
+            "person": {
+                "+content": "So Young Kim",
+                "+@id": "227930"
+            }
+        },
+        {
+            "+@gid": "1134068994",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kisa Fukuda",
+                "+@id": "233024"
+            }
+        },
+        {
+            "+@gid": "2802086819",
+            "task": "Animation Director",
+            "person": {
+                "+content": "So Yi Han",
+                "+@id": "258622"
+            }
+        },
+        {
+            "+@gid": "994260313",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Khiev Sothina",
+                "+@id": "267240"
+            }
+        },
+        {
+            "+@gid": "1546050878",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Seo Jung Park",
+                "+@id": "279907"
+            }
+        },
+        {
+            "+@gid": "1401291919",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Da Eun Ryu",
+                "+@id": "298305"
             }
         },
         {
@@ -206,6 +517,123 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "3246251777",
+            "+@lang": "EN",
+            "role": "Chris Fia Arclight",
+            "person": {
+                "+content": "Eric Vale",
+                "+@id": "1388"
+            }
+        },
+        {
+            "+@gid": "2738366143",
+            "+@lang": "EN",
+            "role": "Luxion",
+            "person": {
+                "+content": "Jim Foronda",
+                "+@id": "29224"
+            }
+        },
+        {
+            "+@gid": "3458861482",
+            "+@lang": "EN",
+            "role": "Jilk Fia Marmoria",
+            "person": {
+                "+content": "Ian Sinclair",
+                "+@id": "42612"
+            }
+        },
+        {
+            "+@gid": "2232013565",
+            "+@lang": "EN",
+            "role": "Olivia",
+            "person": {
+                "+content": "Jad Saxton",
+                "+@id": "71281"
+            }
+        },
+        {
+            "+@gid": "1279703823",
+            "+@lang": "EN",
+            "role": "Julius Rapha Holfort",
+            "person": {
+                "+content": "Ricco Fajardo",
+                "+@id": "107339"
+            }
+        },
+        {
+            "+@gid": "3455740987",
+            "+@lang": "EN",
+            "role": "Greg Fou Seberg",
+            "person": {
+                "+content": "Clifford Chapin",
+                "+@id": "122114"
+            }
+        },
+        {
+            "+@gid": "1657933928",
+            "+@lang": "EN",
+            "role": "Angelica Rapha Redgrave",
+            "person": {
+                "+content": "Kristen McGuire",
+                "+@id": "127814"
+            }
+        },
+        {
+            "+@gid": "2341265574",
+            "+@lang": "EN",
+            "role": "Marie Fou Lafan",
+            "person": {
+                "+content": "Sarah Wiedenheft",
+                "+@id": "128620"
+            }
+        },
+        {
+            "+@gid": "2551590690",
+            "+@lang": "EN",
+            "role": "Brad Fou Field",
+            "person": {
+                "+content": "Justin Briner",
+                "+@id": "130749"
+            }
+        },
+        {
+            "+@gid": "2931176489",
+            "+@lang": "EN",
+            "role": "Hertrude Sera Fanoss",
+            "person": {
+                "+content": "Jenny Ledel",
+                "+@id": "132763"
+            }
+        },
+        {
+            "+@gid": "2567446781",
+            "+@lang": "EN",
+            "role": "Leon",
+            "person": {
+                "+content": "Jordan Dash Cruz",
+                "+@id": "158695"
+            }
+        },
+        {
+            "+@gid": "2786903223",
+            "+@lang": "EN",
+            "role": "Kyle",
+            "person": {
+                "+content": "Jacob Eiseman",
+                "+@id": "196338"
+            }
+        },
+        {
+            "+@gid": "3309781498",
+            "+@lang": "EN",
+            "role": "Hertrauda Sera Fanoss",
+            "person": {
+                "+content": "Nia Celeste",
+                "+@id": "246014"
+            }
+        },
         {
             "+@gid": "2632499258",
             "+@lang": "JA",
@@ -351,6 +779,6 @@
         }
     },
     "+@date-added": "2022-12-27T02:59:18Z",
-    "+@date-last-modified-at": "2026-06-23T18:15:27Z",
-    "+@date-last-updated-at": "2026-06-23T18:15:27Z"
+    "+@date-last-modified-at": "2026-07-23T21:29:27Z",
+    "+@date-last-updated-at": "2026-07-23T21:29:27Z"
 }
