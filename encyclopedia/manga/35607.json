@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Prince of a Friend",
     "+@precision": "manga",
-    "+@generated-on": "2026-06-24T15:09:33Z",
+    "+@generated-on": "2026-07-24T17:52:56Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "24263"
@@ -80,11 +80,18 @@
             "+@href": "https://comic-walker.com/detail/KC_003301_S"
         }
     ],
-    "release": {
-        "+content": "A Prince of a Friend (GN 1)",
-        "+@date": "2026-02-24",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57157"
-    },
+    "release": [
+        {
+            "+content": "A Prince of a Friend (GN 1)",
+            "+@date": "2026-02-24",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57157"
+        },
+        {
+            "+content": "A Prince of a Friend (GN 2)",
+            "+@date": "2026-06-23",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=59239"
+        }
+    ],
     "news": [
         {
             "+content": "Seven Seas Licenses <cite>Girl Meets Rock!</cite>, <cite>Dungeon Elf</cite>, <cite>History of the Kingdom of the Orcsen</cite>, 8 More Titles",
@@ -95,6 +102,11 @@
             "+content": "North American Anime, Manga Releases, February 22-28",
             "+@datetime": "2026-02-27T22:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-02-27/north-american-anime-manga-releases-february-22-28/.234541"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, June 21-27",
+            "+@datetime": "2026-06-26T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-26/north-american-anime-manga-releases-june-21-27/.238814"
         }
     ],
     "staff": {
@@ -106,5 +118,6 @@
         }
     },
     "+@date-added": "2025-04-11T06:57:40Z",
-    "+@date-last-updated-at": "2026-06-24T15:09:36Z"
+    "+@date-last-modified-at": "2026-07-24T17:52:58Z",
+    "+@date-last-updated-at": "2026-07-24T17:52:58Z"
 }
