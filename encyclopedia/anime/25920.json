@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Spy×Family",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-06-24T18:11:20Z",
+    "+@generated-on": "2026-07-24T21:29:21Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24917"
@@ -55,7 +55,7 @@
             "+@type": "Genres"
         },
         {
-            "+content": "drama",
+            "+content": "slice of life",
             "+@gid": "2788100173",
             "+@type": "Genres"
         },
@@ -67,6 +67,11 @@
         {
             "+content": "family",
             "+@gid": "1802006269",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "parenting",
+            "+@gid": "800110634",
             "+@type": "Themes"
         },
         {
@@ -93,6 +98,11 @@
             "+content": "23",
             "+@gid": "2530630257",
             "+@type": "Running time"
+        },
+        {
+            "+content": "13",
+            "+@gid": "1784717755",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2022-10-01",
@@ -138,9 +148,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "639",
-        "+@weighted_score": "7.8625",
-        "+@bayesian_score": "7.85468"
+        "+@nb_votes": "641",
+        "+@weighted_score": "7.8616",
+        "+@bayesian_score": "7.8544"
     },
     "episode": [
         {
@@ -505,7 +515,7 @@
             "+@gid": "2114262985",
             "task": "Script",
             "person": {
-                "+content": "Rino Yamazaki",
+                "+content": "Rino Yamasaki",
                 "+@id": "89884"
             }
         },
@@ -1973,15 +1983,6 @@
             }
         },
         {
-            "+@gid": "908550570",
-            "+@lang": "TL",
-            "role": "Bond Forger",
-            "person": {
-                "+content": "Earl Palma",
-                "+@id": "8953"
-            }
-        },
-        {
             "+@gid": "2593159718",
             "+@lang": "TL",
             "role": "Henry Henderson",
@@ -2036,21 +2037,21 @@
             }
         },
         {
-            "+@gid": "3040835139",
-            "+@lang": "TL",
-            "role": "Anya Forger",
-            "person": {
-                "+content": "Geraldine Pena",
-                "+@id": "126406"
-            }
-        },
-        {
             "+@gid": "2502388560",
             "+@lang": "TL",
             "role": "Damian Desmond",
             "person": {
                 "+content": "Cha Gojo",
                 "+@id": "261022"
+            }
+        },
+        {
+            "+@gid": "2278842875",
+            "+@lang": "TL",
+            "role": "Anya Forger",
+            "person": {
+                "+content": "Gia Peña",
+                "+@id": "300030"
             }
         }
     ],
@@ -2081,6 +2082,6 @@
         }
     ],
     "+@date-added": "2022-06-25T21:15:44Z",
-    "+@date-last-modified-at": "2026-06-24T18:11:22Z",
-    "+@date-last-updated-at": "2026-06-24T18:11:22Z"
+    "+@date-last-modified-at": "2026-07-24T21:29:23Z",
+    "+@date-last-updated-at": "2026-07-24T21:29:23Z"
 }

@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Fist of the North Star: Hokuto no Ken",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-24T18:11:17Z",
+    "+@generated-on": "2026-07-24T21:29:18Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "1547"
+    },
+    "related-next": {
+        "+@id": "40168",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -135,8 +139,13 @@
             "+@type": "Running time"
         },
         {
-            "+content": "2026-04-10",
-            "+@gid": "1631426543",
+            "+content": "14",
+            "+@gid": "1447760270",
+            "+@type": "Number of episodes"
+        },
+        {
+            "+content": "2026-04-10 to 2026-06-26",
+            "+@gid": "2315357369",
             "+@type": "Vintage"
         },
         {
@@ -158,9 +167,123 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "3.7652"
+        "+@nb_votes": "10",
+        "+@weighted_score": "6.023"
     },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "A Cry from the Heart",
+                "+@gid": "2360527408",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "A Better Tomorrow",
+                "+@gid": "2185366837",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "Southern Cross",
+                "+@gid": "3363142404",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "Flames of Obsession",
+                "+@gid": "1691243885",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "Bloody Cross",
+                "+@gid": "1852574840",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "God's Land",
+                "+@gid": "2222064740",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "The Ultimate Assassin",
+                "+@gid": "1219323140",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "Messenger from the Homeland",
+                "+@gid": "1943032378",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "The Mad Dogs Must Die",
+                "+@gid": "2290732986",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "Devil Rebirth",
+                "+@gid": "1027825607",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "A Man of Nanto",
+                "+@gid": "1870396257",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Men Who Saw Her Tears",
+                "+@gid": "2767009816",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "A Bloody Trap",
+                "+@gid": "1228970237",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "14",
+            "title": {
+                "+content": "The One Who Laughs Last",
+                "+@gid": "1819353020",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "New <cite>Fist of the North Star</cite> Anime Reveals Title, 2026 Debut",
@@ -236,6 +359,11 @@
             "+content": "<cite>Fatal Fury City of the Wolves</cite> Game Reveals Trailer for Crossover DLC Character Kenshiro",
             "+@datetime": "2026-06-21T11:05:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-21/fatal-fury-city-of-the-wolves-game-reveals-trailer-for-crossover-dlc-character-kenshiro/.238729"
+        },
+        {
+            "+content": "New <cite>Hokuto no Ken -Fist of the North Star-</cite> Anime's 2nd Part Premieres in 2027",
+            "+@datetime": "2026-06-26T16:39:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-26/new-hokuto-no-ken-fist-of-the-north-star-anime-2nd-part-premieres-in-2027/.238994"
         }
     ],
     "staff": [
@@ -631,12 +759,75 @@
             }
         },
         {
+            "+@gid": "3303704280",
+            "+@lang": "FR",
+            "role": "Mad Sarge",
+            "person": {
+                "+content": "Brahim Bihi",
+                "+@id": "135614"
+            }
+        },
+        {
+            "+@gid": "2611163226",
+            "+@lang": "FR",
+            "role": "Misumi",
+            "person": {
+                "+content": "Brahim Bihi",
+                "+@id": "135614"
+            }
+        },
+        {
+            "+@gid": "1776774384",
+            "+@lang": "FR",
+            "role": "Club",
+            "person": {
+                "+content": "Guillaume Escaffre",
+                "+@id": "135621"
+            }
+        },
+        {
+            "+@gid": "1730422346",
+            "+@lang": "FR",
+            "role": "Airi",
+            "person": {
+                "+content": "Fatine Benkirane",
+                "+@id": "281200"
+            }
+        },
+        {
+            "+@gid": "1636223232",
+            "+@lang": "FR",
+            "role": "Mamiya",
+            "person": {
+                "+content": "Ghita Dahoune",
+                "+@id": "281202"
+            }
+        },
+        {
             "+@gid": "2134902721",
             "+@lang": "FR",
             "role": "Lin",
             "person": {
                 "+content": "Meriem Jalloun",
                 "+@id": "281203"
+            }
+        },
+        {
+            "+@gid": "1969242797",
+            "+@lang": "FR",
+            "role": "Jackal",
+            "person": {
+                "+content": "Olivier Mutelet-Lacour",
+                "+@id": "281204"
+            }
+        },
+        {
+            "+@gid": "689480533",
+            "+@lang": "FR",
+            "role": "Fox",
+            "person": {
+                "+content": "Alex Pinault",
+                "+@id": "281206"
             }
         },
         {
@@ -649,12 +840,48 @@
             }
         },
         {
+            "+@gid": "2730465295",
+            "+@lang": "FR",
+            "role": "Toyo",
+            "person": {
+                "+content": "Sophie Pastrana",
+                "+@id": "281640"
+            }
+        },
+        {
             "+@gid": "1794827055",
             "+@lang": "FR",
             "role": "Bat",
             "person": {
                 "+content": "Gabriel Delmas",
                 "+@id": "281641"
+            }
+        },
+        {
+            "+@gid": "3674873790",
+            "+@lang": "FR",
+            "role": "Diamond",
+            "person": {
+                "+content": "Thomas El Bouhati",
+                "+@id": "281643"
+            }
+        },
+        {
+            "+@gid": "969339489",
+            "+@lang": "FR",
+            "role": "Rei",
+            "person": {
+                "+content": "Martin Girard",
+                "+@id": "281644"
+            }
+        },
+        {
+            "+@gid": "2312732645",
+            "+@lang": "FR",
+            "role": "Taki",
+            "person": {
+                "+content": "Emna Zina Thabet",
+                "+@id": "285682"
             }
         },
         {
@@ -667,12 +894,57 @@
             }
         },
         {
+            "+@gid": "2448790178",
+            "+@lang": "FR",
+            "role": "Spade",
+            "person": {
+                "+content": "Mohamed Rachidi",
+                "+@id": "296083"
+            }
+        },
+        {
             "+@gid": "3007937699",
             "+@lang": "FR",
             "role": "Shin",
             "person": {
                 "+content": "David Benezra",
                 "+@id": "296084"
+            }
+        },
+        {
+            "+@gid": "1330347780",
+            "+@lang": "FR",
+            "role": "Devil Rebirth",
+            "person": {
+                "+content": "Rodolphe Abbassi",
+                "+@id": "296089"
+            }
+        },
+        {
+            "+@gid": "3769752894",
+            "+@lang": "FR",
+            "role": "Heart",
+            "person": {
+                "+content": "Rodolphe Abbassi",
+                "+@id": "296089"
+            }
+        },
+        {
+            "+@gid": "1691980786",
+            "+@lang": "FR",
+            "role": "Roi Fang/Kiba Daiō",
+            "person": {
+                "+content": "Rodolphe Abbassi",
+                "+@id": "296089"
+            }
+        },
+        {
+            "+@gid": "2497162241",
+            "+@lang": "IT",
+            "role": "Misumi",
+            "person": {
+                "+content": "Riccardo Rovatti",
+                "+@id": "27507"
             }
         },
         {
@@ -703,6 +975,15 @@
             }
         },
         {
+            "+@gid": "3024929766",
+            "+@lang": "IT",
+            "role": "Spade",
+            "person": {
+                "+content": "Davide Fazio",
+                "+@id": "211164"
+            }
+        },
+        {
             "+@gid": "2666317953",
             "+@lang": "IT",
             "role": "Bat",
@@ -718,15 +999,6 @@
             "person": {
                 "+content": "Luna Fogu",
                 "+@id": "232090"
-            }
-        },
-        {
-            "+@gid": "2186257329",
-            "+@lang": "JA",
-            "role": "Jagi",
-            "person": {
-                "+content": "Wataru Takagi",
-                "+@id": "1307"
             }
         },
         {
@@ -748,12 +1020,39 @@
             }
         },
         {
+            "+@gid": "3599655167",
+            "+@lang": "JA",
+            "role": "Heart",
+            "person": {
+                "+content": "Chafūrin",
+                "+@id": "4885"
+            }
+        },
+        {
             "+@gid": "3016725895",
             "+@lang": "JA",
             "role": "Narration",
             "person": {
                 "+content": "Kōichi Yamadera",
                 "+@id": "5728"
+            }
+        },
+        {
+            "+@gid": "4004139965",
+            "+@lang": "JA",
+            "role": "Fox",
+            "person": {
+                "+content": "Tetsu Inada",
+                "+@id": "7015"
+            }
+        },
+        {
+            "+@gid": "3470214313",
+            "+@lang": "JA",
+            "role": "Zeed",
+            "person": {
+                "+content": "Kenji Nomura",
+                "+@id": "7766"
             }
         },
         {
@@ -775,12 +1074,21 @@
             }
         },
         {
-            "+@gid": "3298401527",
+            "+@gid": "2534803902",
             "+@lang": "JA",
-            "role": "Raoh",
+            "role": "Bartender Johnny",
             "person": {
-                "+content": "Taiten Kusunoki",
-                "+@id": "18813"
+                "+content": "Eiji Hanawa",
+                "+@id": "19600"
+            }
+        },
+        {
+            "+@gid": "2915947255",
+            "+@lang": "JA",
+            "role": "Mad Sarge",
+            "person": {
+                "+content": "Jirō Saitō",
+                "+@id": "19882"
             }
         },
         {
@@ -793,12 +1101,21 @@
             }
         },
         {
-            "+@gid": "1919172170",
+            "+@gid": "2002980054",
             "+@lang": "JA",
-            "role": "Toki",
+            "role": "Misumi",
             "person": {
-                "+content": "Tsuguo Mogami",
-                "+@id": "31698"
+                "+content": "Jin Urayama",
+                "+@id": "25435"
+            }
+        },
+        {
+            "+@gid": "2279927829",
+            "+@lang": "JA",
+            "role": "Club",
+            "person": {
+                "+content": "Anri Katsu",
+                "+@id": "27068"
             }
         },
         {
@@ -808,6 +1125,15 @@
             "person": {
                 "+content": "Hiroshi Shirokuma",
                 "+@id": "39263"
+            }
+        },
+        {
+            "+@gid": "1212685451",
+            "+@lang": "JA",
+            "role": "Spade",
+            "person": {
+                "+content": "Taketora",
+                "+@id": "46837"
             }
         },
         {
@@ -826,6 +1152,24 @@
             "person": {
                 "+content": "Saori Hayami",
                 "+@id": "63462"
+            }
+        },
+        {
+            "+@gid": "198049233",
+            "+@lang": "JA",
+            "role": "Diamond",
+            "person": {
+                "+content": "Yasuhiro Mamiya",
+                "+@id": "68280"
+            }
+        },
+        {
+            "+@gid": "2711681470",
+            "+@lang": "JA",
+            "role": "Taki",
+            "person": {
+                "+content": "Kaori Ishihara",
+                "+@id": "86249"
             }
         },
         {
@@ -986,6 +1330,6 @@
         }
     ],
     "+@date-added": "2025-06-26T22:54:34Z",
-    "+@date-last-modified-at": "2026-06-24T18:11:22Z",
-    "+@date-last-updated-at": "2026-06-24T18:11:22Z"
+    "+@date-last-modified-at": "2026-07-24T21:29:23Z",
+    "+@date-last-updated-at": "2026-07-24T21:29:23Z"
 }

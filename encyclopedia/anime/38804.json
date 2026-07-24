@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Yoroi-Shinden Samurai Troopers",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-06-24T18:11:14Z",
+    "+@generated-on": "2026-07-24T21:29:15Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "36518"
@@ -30,6 +30,30 @@
             ]
         },
         {
+            "+@gid": "2538098315",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38804-2538098315.1783617968.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38804-2538098315.1783617968.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38804-2538098315.1783617968.jpg",
+                    "+@width": "423",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38804-2538098315.1783617968.jpg",
+                    "+@width": "761",
+                    "+@height": "1080"
+                }
+            ]
+        },
+        {
             "+content": "Yoroi-Shinden Samurai Troopers",
             "+@gid": "1595564014",
             "+@type": "Main title",
@@ -50,11 +74,6 @@
         {
             "+content": "action",
             "+@gid": "923688672",
-            "+@type": "Genres"
-        },
-        {
-            "+content": "comedy",
-            "+@gid": "3346050269",
             "+@type": "Genres"
         },
         {
@@ -163,6 +182,16 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "3272366258",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "12",
+            "+@gid": "1331349296",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-07",
             "+@gid": "636532562",
             "+@type": "Vintage"
@@ -178,11 +207,54 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "\"Ameagarino Yozorani\" (雨あがりの夜空に) by SERRA (ep 13)",
+            "+@gid": "3270136765",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "TVアニメ『鎧真伝サムライトルーパー』公式サイト",
             "+@gid": "3729759493",
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://www.samurai-trooper.net/"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "4"
+    },
+    "episode": [
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "A New Chapter",
+                "+@gid": "3092783513",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "14",
+            "title": {
+                "+content": "Miracle",
+                "+@gid": "3662953297",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "15",
+            "title": {
+                "+content": "In Concert",
+                "+@gid": "2424415393",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "16",
+            "title": {
+                "+content": "Offense and Defense",
+                "+@gid": "3690406243",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -205,6 +277,11 @@
             "+content": "Crunchyroll India to Stream <cite>Black Torch</cite>, <cite>Dara-san of Reiwa</cite>, <cite>Kaiju Girl Caramelise</cite>, More Anime in Summer 2026",
             "+@datetime": "2026-06-21T07:50:07Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-21/crunchyroll-india-to-stream-black-torch-dara-san-of-reiwa-kaiju-girl-caramelise-more-anime-in-/.238716"
+        },
+        {
+            "+content": "<cite>Yoroi-Shinden Samurai Troopers</cite> Anime's 2nd Part Casts Hina Suguta",
+            "+@datetime": "2026-07-08T00:36:10Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-07/yoroi-shinden-samurai-troopers-anime-2nd-part-casts-hina-suguta/.239406"
         }
     ],
     "staff": [
@@ -302,6 +379,94 @@
             "person": {
                 "+content": "Rumi Ishiguro",
                 "+@id": "24858"
+            }
+        },
+        {
+            "+@gid": "905298819",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Ryo Oyama",
+                "+@id": "8181"
+            }
+        },
+        {
+            "+@gid": "2977140810",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Kozue Kananiwa",
+                "+@id": "39394"
+            }
+        },
+        {
+            "+@gid": "767194143",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Noriaki Tanaka",
+                "+@id": "58501"
+            }
+        },
+        {
+            "+@gid": "2063633178",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Hirotaka Kaneko",
+                "+@id": "145118"
+            }
+        },
+        {
+            "+@gid": "2299275758",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Junko Sano",
+                "+@id": "230882"
+            }
+        },
+        {
+            "+@gid": "2104522377",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Tomoyuki Ōwada",
+                "+@id": "261280"
+            }
+        },
+        {
+            "+@gid": "221895097",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Hirohito Sakemi",
+                "+@id": "262915"
+            }
+        },
+        {
+            "+@gid": "1026919698",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Yukiko Komai",
+                "+@id": "292513"
+            }
+        },
+        {
+            "+@gid": "1554769419",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Yoshiro Tsuchiya",
+                "+@id": "292514"
+            }
+        },
+        {
+            "+@gid": "2516158246",
+            "task": "Producer",
+            "person": {
+                "+content": "Kiyoshi Tsukamoto",
+                "+@id": "85566"
+            }
+        },
+        {
+            "+@gid": "3141325940",
+            "task": "Producer",
+            "person": {
+                "+content": "Keita Takao",
+                "+@id": "219649"
             }
         }
     ],
@@ -559,6 +724,15 @@
             }
         },
         {
+            "+@gid": "2285015890",
+            "+@lang": "JA",
+            "role": "Kaede Narumi",
+            "person": {
+                "+content": "Hina Suguta",
+                "+@id": "172733"
+            }
+        },
+        {
             "+@gid": "2042076024",
             "+@lang": "JA",
             "role": "Gai",
@@ -577,15 +751,89 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2346429292",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Sunrise",
-            "+@id": "34"
+    "credit": [
+        {
+            "+@gid": "2346429292",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Sunrise",
+                "+@id": "34"
+            }
+        },
+        {
+            "+@gid": "1473222520",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon BS Broadcasting Corporation",
+                "+@id": "10651"
+            }
+        },
+        {
+            "+@gid": "2097988901",
+            "task": "Production",
+            "company": {
+                "+content": "Kansai Telecasting Corporation",
+                "+@id": "11907"
+            }
+        },
+        {
+            "+@gid": "1985174530",
+            "task": "Production",
+            "company": {
+                "+content": "Avex Pictures",
+                "+@id": "13014"
+            }
+        },
+        {
+            "+@gid": "2670647612",
+            "task": "Production",
+            "company": {
+                "+content": "Tokyo MX",
+                "+@id": "13028"
+            }
+        },
+        {
+            "+@gid": "3666835772",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Namco Entertainment",
+                "+@id": "13564"
+            }
+        },
+        {
+            "+@gid": "2692885458",
+            "task": "Production",
+            "company": {
+                "+content": "U-NEXT",
+                "+@id": "14626"
+            }
+        },
+        {
+            "+@gid": "1069830940",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Spirits",
+                "+@id": "18163"
+            }
+        },
+        {
+            "+@gid": "3046536829",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Namco Filmworks",
+                "+@id": "22618"
+            }
+        },
+        {
+            "+@gid": "980160016",
+            "task": "Production",
+            "company": {
+                "+content": "qooop",
+                "+@id": "23468"
+            }
         }
-    },
+    ],
     "+@date-added": "2026-03-24T22:57:50Z",
-    "+@date-last-modified-at": "2026-06-24T18:11:22Z",
-    "+@date-last-updated-at": "2026-06-24T18:11:22Z"
+    "+@date-last-modified-at": "2026-07-24T21:29:23Z",
+    "+@date-last-updated-at": "2026-07-24T21:29:23Z"
 }

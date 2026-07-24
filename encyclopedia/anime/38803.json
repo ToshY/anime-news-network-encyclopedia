@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Tune In to the Midnight Heart",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-06-24T18:11:15Z",
+    "+@generated-on": "2026-07-24T21:29:17Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "35149"
@@ -68,6 +68,11 @@
             "+@type": "Themes"
         },
         {
+            "+content": "2027",
+            "+@gid": "2213041699",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ『真夜中ハートチューン』公式サイト",
             "+@gid": "1458724033",
             "+@type": "Official website",
@@ -75,20 +80,119 @@
             "+@href": "https://mayochu-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Tune in to the Midnight Heart</cite> Anime's 2nd Season Video Unveils New Visual",
-        "+@datetime": "2026-03-29T07:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-29/tune-in-to-the-midnight-heart-anime-2nd-season-video-unveils-new-visual/.235886"
-    },
-    "staff": {
-        "+@gid": "1617655746",
-        "task": "Original creator",
-        "person": {
-            "+content": "Masakuni Igarashi",
-            "+@id": "176214"
+    "news": [
+        {
+            "+content": "<cite>Tune in to the Midnight Heart</cite> Anime's 2nd Season Video Unveils New Visual",
+            "+@datetime": "2026-03-29T07:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-29/tune-in-to-the-midnight-heart-anime-2nd-season-video-unveils-new-visual/.235886"
+        },
+        {
+            "+content": "<cite>Tune in to the Midnight Heart</cite> Anime's 2nd Season Reveals More Cast, 2027 Debut",
+            "+@datetime": "2026-07-18T11:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-18/tune-in-to-the-midnight-heart-anime-2nd-season-reveals-more-cast-2027-debut/.239746"
         }
-    },
+    ],
+    "staff": [
+        {
+            "+@gid": "2094058790",
+            "task": "Director",
+            "person": {
+                "+content": "Masayuki Takahashi",
+                "+@id": "76358"
+            }
+        },
+        {
+            "+@gid": "578082483",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Yukie Sugawara",
+                "+@id": "111723"
+            }
+        },
+        {
+            "+@gid": "2843197083",
+            "task": "Script",
+            "person": {
+                "+content": "Yukie Sugawara",
+                "+@id": "111723"
+            }
+        },
+        {
+            "+@gid": "2894806955",
+            "task": "Music",
+            "person": {
+                "+content": "Kuniyuki Takahashi",
+                "+@id": "157680"
+            }
+        },
+        {
+            "+@gid": "1617655746",
+            "task": "Original creator",
+            "person": {
+                "+content": "Masakuni Igarashi",
+                "+@id": "176214"
+            }
+        },
+        {
+            "+@gid": "1483641444",
+            "task": "Character Design",
+            "person": {
+                "+content": "Tomoyuki Shitaya",
+                "+@id": "41022"
+            }
+        },
+        {
+            "+@gid": "1605474892",
+            "task": "Art Director",
+            "person": {
+                "+content": "Masakazu Miyake",
+                "+@id": "35699"
+            }
+        },
+        {
+            "+@gid": "1781755804",
+            "task": "3D Director",
+            "person": {
+                "+content": "Chikara Nomoto",
+                "+@id": "31608"
+            }
+        },
+        {
+            "+@gid": "4047125726",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Yūichi Morita",
+                "+@id": "83255"
+            }
+        },
+        {
+            "+@gid": "3198837776",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Sōta Hiroshima",
+                "+@id": "267769"
+            }
+        }
+    ],
     "cast": [
+        {
+            "+@gid": "943118726",
+            "+@lang": "JA",
+            "role": "Riina Yamabuki",
+            "person": {
+                "+content": "Ami Koshimizu",
+                "+@id": "17254"
+            }
+        },
+        {
+            "+@gid": "1415631897",
+            "+@lang": "JA",
+            "role": "Lemon Ando",
+            "person": {
+                "+content": "Kana Hanazawa",
+                "+@id": "53741"
+            }
+        },
         {
             "+@gid": "938867942",
             "+@lang": "JA",
@@ -99,12 +203,39 @@
             }
         },
         {
+            "+@gid": "3298443892",
+            "+@lang": "JA",
+            "role": "Ao Momotose",
+            "person": {
+                "+content": "Nao Tōyama",
+                "+@id": "95316"
+            }
+        },
+        {
             "+@gid": "2568396737",
             "+@lang": "JA",
             "role": "Shinobu Uzuki",
             "person": {
                 "+content": "Miku Itō",
                 "+@id": "119924"
+            }
+        },
+        {
+            "+@gid": "3409803998",
+            "+@lang": "JA",
+            "role": "Aiko",
+            "person": {
+                "+content": "Yūki Wakai",
+                "+@id": "121836"
+            }
+        },
+        {
+            "+@gid": "2761612951",
+            "+@lang": "JA",
+            "role": "Mito Yamabuki",
+            "person": {
+                "+content": "Kaede Hondo",
+                "+@id": "140600"
             }
         },
         {
@@ -126,6 +257,15 @@
             }
         },
         {
+            "+@gid": "1526877108",
+            "+@lang": "JA",
+            "role": "Hizumi",
+            "person": {
+                "+content": "Wakana Kuramochi",
+                "+@id": "202140"
+            }
+        },
+        {
             "+@gid": "634583437",
             "+@lang": "JA",
             "role": "Rikka Inohana",
@@ -135,6 +275,15 @@
             }
         }
     ],
+    "credit": {
+        "+@gid": "2091273324",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Gekkō",
+            "+@id": "23004"
+        }
+    },
     "+@date-added": "2026-03-24T22:39:25Z",
-    "+@date-last-updated-at": "2026-06-24T18:11:22Z"
+    "+@date-last-modified-at": "2026-07-24T21:29:23Z",
+    "+@date-last-updated-at": "2026-07-24T21:29:23Z"
 }

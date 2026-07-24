@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Jirai nandesu ka? Chihara-san",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-24T18:11:16Z",
+    "+@generated-on": "2026-07-24T21:29:17Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29275"
@@ -13,19 +13,24 @@
         {
             "+@gid": "3731171598",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38183-3731171598.1766659066.jpg",
-            "+@width": "152",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38183-3731171598.1782387773.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38183-3731171598.1766659066.jpg",
-                    "+@width": "152",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38183-3731171598.1782387773.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38183-3731171598.1766659066.jpg",
-                    "+@width": "455",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38183-3731171598.1782387773.jpg",
+                    "+@width": "424",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38183-3731171598.1782387773.jpg",
+                    "+@width": "2000",
+                    "+@height": "2832"
                 }
             ]
         },
@@ -52,7 +57,7 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026",
+            "+content": "2027-01",
             "+@gid": "3725411037",
             "+@type": "Vintage"
         },
@@ -64,6 +69,11 @@
             "+@href": "https://chiharasan-anime.com/"
         }
     ],
+    "news": {
+        "+content": "<i>Are You a Landmine, Chihara-san?</i> Anime Unveils More Cast & Staff, January Delay, Music Project",
+        "+@datetime": "2026-06-25T11:29:15Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-06-25/are-you-a-landmine-chihara-san-anime-unveils-more-cast-and-staff-january-delay-music-project/.238939"
+    },
     "staff": [
         {
             "+@gid": "2535289441",
@@ -104,9 +114,60 @@
                 "+content": "Majiro",
                 "+@id": "84514"
             }
+        },
+        {
+            "+@gid": "779366537",
+            "task": "Art Director",
+            "person": {
+                "+content": "Hisae Arimoto",
+                "+@id": "166660"
+            }
+        },
+        {
+            "+@gid": "1615278571",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Daiki Hachimaki",
+                "+@id": "111550"
+            }
+        },
+        {
+            "+@gid": "1961570442",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Naotaka Watanabe",
+                "+@id": "174692"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "3170067707",
+            "+@lang": "JA",
+            "role": "Hibiya",
+            "person": {
+                "+content": "Tomokazu Sugita",
+                "+@id": "910"
+            }
+        },
+        {
+            "+@gid": "298090047",
+            "+@lang": "JA",
+            "role": "Kazami",
+            "person": {
+                "+content": "Daisuke Ono",
+                "+@id": "14929"
+            }
+        },
+        {
+            "+@gid": "1394684634",
+            "+@lang": "JA",
+            "role": "Chinatsu Iwakura",
+            "person": {
+                "+content": "Maaya Uchida",
+                "+@id": "94314"
+            }
+        },
         {
             "+@gid": "1425965468",
             "+@lang": "JA",
@@ -135,5 +196,6 @@
         }
     },
     "+@date-added": "2025-12-25T05:36:05Z",
-    "+@date-last-updated-at": "2026-06-24T18:11:22Z"
+    "+@date-last-modified-at": "2026-07-24T21:29:23Z",
+    "+@date-last-updated-at": "2026-07-24T21:29:23Z"
 }
