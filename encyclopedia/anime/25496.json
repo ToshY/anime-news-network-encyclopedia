@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Witch Hat Atelier",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-25T04:35:11Z",
+    "+@generated-on": "2026-07-25T10:00:31Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "21181"
+    },
+    "related-next": {
+        "+@id": "40217",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -125,9 +129,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "48",
-        "+@weighted_score": "8.2789",
-        "+@bayesian_score": "8.10658"
+        "+@nb_votes": "108",
+        "+@weighted_score": "8.2611",
+        "+@bayesian_score": "8.18195"
     },
     "episode": [
         {
@@ -221,9 +225,17 @@
         {
             "+@num": "12",
             "title": {
-                "+content": "Romonoon no Kage",
-                "+@gid": "440773939",
-                "+@lang": "JA"
+                "+content": "The Shadow of Romonon",
+                "+@gid": "1780669825",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "Forbidden Magic",
+                "+@gid": "1831706726",
+                "+@lang": "EN"
             }
         }
     ],
@@ -297,6 +309,11 @@
             "+content": "<cite>Witch Hat Atelier</cite> Anime Reveals 2 More Cast Members",
             "+@datetime": "2026-06-01T17:13:19Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-01/witch-hat-atelier-anime-reveals-2-more-cast-members/.238024"
+        },
+        {
+            "+content": "<cite>Witch Hat Atelier</cite> Anime Gets 2nd Season",
+            "+@datetime": "2026-06-29T14:47:04Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-29/witch-hat-atelier-anime-gets-2nd-season/.239101"
         }
     ],
     "staff": [
@@ -827,15 +844,6 @@
             }
         },
         {
-            "+@gid": "2523633848",
-            "+@lang": "EN",
-            "role": "Utowin",
-            "person": {
-                "+content": "Gary Furlong",
-                "+@id": "191670"
-            }
-        },
-        {
             "+@gid": "4141038821",
             "+@lang": "EN",
             "role": "Qifrey",
@@ -1082,6 +1090,15 @@
             "+@gid": "2349214606",
             "+@lang": "FR",
             "role": "Agathe Achrome",
+            "person": {
+                "+content": "Catherine Hanotiau",
+                "+@id": "189972"
+            }
+        },
+        {
+            "+@gid": "2416202164",
+            "+@lang": "FR",
+            "role": "Ver-pinceau",
             "person": {
                 "+content": "Catherine Hanotiau",
                 "+@id": "189972"
@@ -1358,15 +1375,6 @@
             }
         },
         {
-            "+@gid": "1948548514",
-            "+@lang": "JA",
-            "role": "Utowin",
-            "person": {
-                "+content": "Jun Kasama",
-                "+@id": "125180"
-            }
-        },
-        {
             "+@gid": "688238244",
             "+@lang": "JA",
             "role": "Richeh",
@@ -1457,6 +1465,6 @@
         }
     },
     "+@date-added": "2022-04-05T22:10:24Z",
-    "+@date-last-modified-at": "2026-06-25T04:35:13Z",
-    "+@date-last-updated-at": "2026-06-25T04:35:13Z"
+    "+@date-last-modified-at": "2026-07-25T10:00:39Z",
+    "+@date-last-updated-at": "2026-07-25T10:00:39Z"
 }
