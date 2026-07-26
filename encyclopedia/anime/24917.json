@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Spy×Family",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-26T17:23:30Z",
+    "+@generated-on": "2026-07-26T21:12:24Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "22366"
@@ -55,8 +55,8 @@
             "+@type": "Genres"
         },
         {
-            "+content": "drama",
-            "+@gid": "3201825282",
+            "+content": "slice of life",
+            "+@gid": "3329585197",
             "+@type": "Genres"
         },
         {
@@ -67,6 +67,11 @@
         {
             "+content": "family",
             "+@gid": "2128677954",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "parenting",
+            "+@gid": "1680064072",
             "+@type": "Themes"
         },
         {
@@ -97,6 +102,11 @@
             "+content": "23",
             "+@gid": "1639232052",
             "+@type": "Running time"
+        },
+        {
+            "+content": "25",
+            "+@gid": "2298002864",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2022-04-09",
@@ -147,9 +157,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "967",
-        "+@weighted_score": "8.1103",
-        "+@bayesian_score": "8.10181"
+        "+@nb_votes": "970",
+        "+@weighted_score": "8.1026",
+        "+@bayesian_score": "8.09486"
     },
     "episode": [
         {
@@ -625,7 +635,7 @@
             "+@gid": "2365855260",
             "task": "Script",
             "person": {
-                "+content": "Rino Yamazaki",
+                "+content": "Rino Yamasaki",
                 "+@id": "89884"
             }
         },
@@ -2154,15 +2164,6 @@
             }
         },
         {
-            "+@gid": "2980168854",
-            "+@lang": "TL",
-            "role": "Bond Forger",
-            "person": {
-                "+content": "Earl Palma",
-                "+@id": "8953"
-            }
-        },
-        {
             "+@gid": "352327396",
             "+@lang": "TL",
             "role": "Dominic",
@@ -2208,21 +2209,21 @@
             }
         },
         {
-            "+@gid": "2351495662",
-            "+@lang": "TL",
-            "role": "Anya Forger",
-            "person": {
-                "+content": "Geraldine Pena",
-                "+@id": "126406"
-            }
-        },
-        {
             "+@gid": "1218617480",
             "+@lang": "TL",
             "role": "Damian Desmond",
             "person": {
                 "+content": "Cha Gojo",
                 "+@id": "261022"
+            }
+        },
+        {
+            "+@gid": "2458690893",
+            "+@lang": "TL",
+            "role": "Anya Forger",
+            "person": {
+                "+content": "Gia Peña",
+                "+@id": "300030"
             }
         }
     ],
@@ -2261,6 +2262,6 @@
         }
     ],
     "+@date-added": "2021-10-31T13:08:53Z",
-    "+@date-last-modified-at": "2026-06-26T18:04:05Z",
-    "+@date-last-updated-at": "2026-06-26T18:04:05Z"
+    "+@date-last-modified-at": "2026-07-26T21:12:27Z",
+    "+@date-last-updated-at": "2026-07-26T21:12:27Z"
 }
