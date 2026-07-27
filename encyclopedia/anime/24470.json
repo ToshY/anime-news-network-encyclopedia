@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Saga of Tanya the Evil II",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-06-27T17:31:32Z",
+    "+@generated-on": "2026-07-27T17:56:13Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "20509"
@@ -134,6 +134,16 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "23",
+            "+@gid": "2650676680",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "12",
+            "+@gid": "2106478787",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-08",
             "+@gid": "1525017060",
             "+@type": "Vintage"
@@ -154,6 +164,44 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "http://youjo-senki.jp/"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "3",
+        "+@weighted_score": "7.3913"
+    },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "Salamander Combat Team",
+                "+@gid": "1728469287",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "A Strange Friendship",
+                "+@gid": "525345090",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "Well-Intentioned Mediator",
+                "+@gid": "3147146063",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "Tettsui Sakusen",
+                "+@gid": "1313453757",
+                "+@lang": "JA"
+            }
         }
     ],
     "news": [
@@ -186,6 +234,16 @@
             "+content": "Crunchyroll India to Stream <cite>Black Torch</cite>, <cite>Dara-san of Reiwa</cite>, <cite>Kaiju Girl Caramelise</cite>, More Anime in Summer 2026",
             "+@datetime": "2026-06-21T07:50:07Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-21/crunchyroll-india-to-stream-black-torch-dara-san-of-reiwa-kaiju-girl-caramelise-more-anime-in-/.238716"
+        },
+        {
+            "+content": "<cite>Saga of Tanya the Evil II</cite> Anime's 2nd Trailer Previews Theme Songs, Reveals New Cast Member",
+            "+@datetime": "2026-07-01T09:07:20Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-01/saga-of-tanya-the-evil-ii-anime-2nd-trailer-previews-theme-songs-reveals-new-cast-member/.239174"
+        },
+        {
+            "+content": "Anime Times Streams <cite>Though I Am an Inept Villainess</cite>,  <cite>Grand Blue Dreaming</cite>, More Anime in India",
+            "+@datetime": "2026-07-09T14:20:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-09/anime-times-streams-though-i-am-an-inept-villainess-grand-blue-dreaming-more-anime-in-india/.239423"
         }
     ],
     "staff": [
@@ -243,6 +301,14 @@
             "person": {
                 "+content": "Yūji Hosogoe",
                 "+@id": "2194"
+            }
+        },
+        {
+            "+@gid": "1299996957",
+            "task": "Art Director",
+            "person": {
+                "+content": "Shunichirō Yoshihara",
+                "+@id": "5940"
             }
         },
         {
@@ -324,6 +390,15 @@
             }
         },
         {
+            "+@gid": "2870437778",
+            "+@lang": "JA",
+            "role": "Virginio Calandro",
+            "person": {
+                "+content": "Eiji Hanawa",
+                "+@id": "19600"
+            }
+        },
+        {
             "+@gid": "2346953961",
             "+@lang": "JA",
             "role": "Mary Sue",
@@ -362,7 +437,7 @@
         {
             "+@gid": "1632342861",
             "+@lang": "JA",
-            "role": "Vooren Grantz",
+            "role": "Warren Grantz",
             "person": {
                 "+content": "Yūsuke Kobayashi",
                 "+@id": "123728"
@@ -414,6 +489,6 @@
         }
     },
     "+@date-added": "2021-06-19T15:50:26Z",
-    "+@date-last-modified-at": "2026-06-27T17:31:34Z",
-    "+@date-last-updated-at": "2026-06-27T17:31:34Z"
+    "+@date-last-modified-at": "2026-07-27T17:56:15Z",
+    "+@date-last-updated-at": "2026-07-27T17:56:15Z"
 }
