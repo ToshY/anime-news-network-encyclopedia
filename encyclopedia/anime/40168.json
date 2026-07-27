@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Fist of the North Star: Hokuto no Ken",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-06-27T04:17:03Z",
+    "+@generated-on": "2026-07-27T07:53:02Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "36755"
@@ -32,6 +32,61 @@
             "+content": "action",
             "+@gid": "888382383",
             "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "2124975319",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "science fiction",
+            "+@gid": "2186657155",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "crime",
+            "+@gid": "1979417399",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "fighting",
+            "+@gid": "1727300779",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "gangs",
+            "+@gid": "2751890434",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "gore",
+            "+@gid": "3004781004",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "martial arts",
+            "+@gid": "1107631378",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "post-apocalyptic",
+            "+@gid": "3276634433",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "revenge",
+            "+@gid": "2645039814",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "tragedy",
+            "+@gid": "2053684993",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "MA",
+            "+@gid": "3361441161",
+            "+@type": "Objectionable content"
         },
         {
             "+content": "2027",
@@ -64,6 +119,90 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "2473253055",
+            "+@lang": "JA",
+            "role": "Jagi",
+            "person": {
+                "+content": "Wataru Takagi",
+                "+@id": "1307"
+            }
+        },
+        {
+            "+@gid": "1066942546",
+            "+@lang": "JA",
+            "role": "Narration",
+            "person": {
+                "+content": "Kōichi Yamadera",
+                "+@id": "5728"
+            }
+        },
+        {
+            "+@gid": "3114838086",
+            "+@lang": "JA",
+            "role": "Rei",
+            "person": {
+                "+content": "Yūichi Nakamura",
+                "+@id": "15878"
+            }
+        },
+        {
+            "+@gid": "3349825184",
+            "+@lang": "JA",
+            "role": "Raoh",
+            "person": {
+                "+content": "Taiten Kusunoki",
+                "+@id": "18813"
+            }
+        },
+        {
+            "+@gid": "927393998",
+            "+@lang": "JA",
+            "role": "Toki",
+            "person": {
+                "+content": "Tsuguo Mogami",
+                "+@id": "31698"
+            }
+        },
+        {
+            "+@gid": "2175083713",
+            "+@lang": "JA",
+            "role": "Mamiya",
+            "person": {
+                "+content": "Ruriko Aoki",
+                "+@id": "116217"
+            }
+        },
+        {
+            "+@gid": "1708124274",
+            "+@lang": "JA",
+            "role": "Bat",
+            "person": {
+                "+content": "Daiki Yamashita",
+                "+@id": "119386"
+            }
+        },
+        {
+            "+@gid": "2120674788",
+            "+@lang": "JA",
+            "role": "Lin",
+            "person": {
+                "+content": "M.A.O",
+                "+@id": "123756"
+            }
+        },
+        {
+            "+@gid": "2478762469",
+            "+@lang": "JA",
+            "role": "Kenshirō",
+            "person": {
+                "+content": "Shunsuke Takeuchi",
+                "+@id": "132044"
+            }
+        }
+    ],
     "+@date-added": "2026-06-26T20:16:00Z",
-    "+@date-last-updated-at": "2026-06-27T04:17:03Z"
+    "+@date-last-modified-at": "2026-07-27T07:53:07Z",
+    "+@date-last-updated-at": "2026-07-27T07:53:07Z"
 }
