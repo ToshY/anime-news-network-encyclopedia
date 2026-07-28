@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "MARRIAGETOXIN",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-28T14:16:59Z",
+    "+@generated-on": "2026-07-28T14:39:11Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25739"
+    },
+    "related-next": {
+        "+@id": "40238",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -128,8 +132,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "9",
-        "+@weighted_score": "6.4699"
+        "+@nb_votes": "50",
+        "+@weighted_score": "6.85",
+        "+@bayesian_score": "6.96992"
     },
     "episode": [
         {
@@ -231,9 +236,9 @@
         {
             "+@num": "13",
             "title": {
-                "+content": "Senkyu na",
-                "+@gid": "3489467254",
-                "+@lang": "JA"
+                "+content": "Thanks, Man",
+                "+@gid": "2264802929",
+                "+@lang": "EN"
             }
         }
     ],
@@ -287,6 +292,11 @@
             "+content": "Indian Language Dubs for <cite>Liar Game</cite>, <cite>Marriage Toxin</cite>, More Anime Stream on Crunchyroll",
             "+@datetime": "2026-05-05T06:16:20Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-05-05/indian-language-dubs-for-liar-game-marriage-toxin-more-anime-stream-on-crunchyroll/.237034"
+        },
+        {
+            "+content": "<cite>Marriage Toxin</cite> TV Anime Gets 2nd Season in 2027",
+            "+@datetime": "2026-06-30T14:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-30/marriage-toxin-tv-anime-gets-2nd-season-in-2027/.239117"
         }
     ],
     "staff": [
@@ -315,11 +325,195 @@
             }
         },
         {
+            "+@gid": "1657018269",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Michio Fukuda",
+                "+@id": "4093"
+            }
+        },
+        {
+            "+@gid": "1097647345",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yutaka Kagawa",
+                "+@id": "5850"
+            }
+        },
+        {
+            "+@gid": "2924440625",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hiroshi Hara",
+                "+@id": "15643"
+            }
+        },
+        {
+            "+@gid": "1970243691",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Motonobu Hori",
+                "+@id": "24246"
+            }
+        },
+        {
+            "+@gid": "2942959606",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Satoshi Takafuji",
+                "+@id": "105240"
+            }
+        },
+        {
+            "+@gid": "944836713",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shin'ichirō Ushijima",
+                "+@id": "105591"
+            }
+        },
+        {
+            "+@gid": "2859402675",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hideyuki Satake",
+                "+@id": "134016"
+            }
+        },
+        {
+            "+@gid": "920601261",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yuzu Hori",
+                "+@id": "156211"
+            }
+        },
+        {
+            "+@gid": "816475831",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shunsuke Okubo",
+                "+@id": "158009"
+            }
+        },
+        {
+            "+@gid": "1532999851",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Jong Heo",
+                "+@id": "178586"
+            }
+        },
+        {
+            "+@gid": "3067972677",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Wazuka Komamiya",
+                "+@id": "242175"
+            }
+        },
+        {
+            "+@gid": "3303527151",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kanchi Miyata",
+                "+@id": "266230"
+            }
+        },
+        {
+            "+@gid": "424759719",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yutaka Kagawa",
+                "+@id": "5850"
+            }
+        },
+        {
+            "+@gid": "2517128336",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Motonobu Hori",
+                "+@id": "24246"
+            }
+        },
+        {
+            "+@gid": "2180904669",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yuujirou Moriyama",
+                "+@id": "49517"
+            }
+        },
+        {
+            "+@gid": "3826081838",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Daisuke Inoue",
+                "+@id": "95166"
+            }
+        },
+        {
+            "+@gid": "2203592964",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Satoshi Takafuji",
+                "+@id": "105240"
+            }
+        },
+        {
+            "+@gid": "2167512959",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shin'ichirō Ushijima",
+                "+@id": "105591"
+            }
+        },
+        {
+            "+@gid": "1420607143",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yuka Hashimoto",
+                "+@id": "132194"
+            }
+        },
+        {
+            "+@gid": "3601845719",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yuzu Hori",
+                "+@id": "156211"
+            }
+        },
+        {
+            "+@gid": "1750454341",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Himari Tamagawa",
+                "+@id": "220236"
+            }
+        },
+        {
             "+@gid": "727931572",
             "task": "Episode Director",
             "person": {
                 "+content": "Yūdai Ishikawa",
                 "+@id": "221958"
+            }
+        },
+        {
+            "+@gid": "2286891991",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Naomi Mikamiyama",
+                "+@id": "231658"
+            }
+        },
+        {
+            "+@gid": "3097909207",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Wazuka Komamiya",
+                "+@id": "242175"
             }
         },
         {
@@ -449,15 +643,6 @@
             }
         },
         {
-            "+@gid": "2795811479",
-            "+@lang": "EN",
-            "role": "Bug Master/Toshiki Hanamaki",
-            "person": {
-                "+content": "Marcus D. Stimac",
-                "+@id": "126787"
-            }
-        },
-        {
             "+@gid": "2312936317",
             "+@lang": "EN",
             "role": "Kimie Arashiyama",
@@ -521,6 +706,15 @@
             }
         },
         {
+            "+@gid": "2197162178",
+            "+@lang": "ES",
+            "role": "Genya Naruko",
+            "person": {
+                "+content": "Carlos Ramos",
+                "+@id": "52626"
+            }
+        },
+        {
             "+@gid": "2799786774",
             "+@lang": "ES",
             "role": "Mei Kinosaki",
@@ -539,12 +733,75 @@
             }
         },
         {
+            "+@gid": "1861329867",
+            "+@lang": "ES",
+            "role": "Kimie Arashiyama",
+            "person": {
+                "+content": "Rosa María Martínez",
+                "+@id": "164157"
+            }
+        },
+        {
+            "+@gid": "1979669753",
+            "+@lang": "ES",
+            "role": "Piichi Nakagawa",
+            "person": {
+                "+content": "Eduardo Martínez",
+                "+@id": "165086"
+            }
+        },
+        {
+            "+@gid": "992841112",
+            "+@lang": "ES",
+            "role": "Shizuku Ushio",
+            "person": {
+                "+content": "Doris Vargas",
+                "+@id": "166564"
+            }
+        },
+        {
             "+@gid": "3221539551",
             "+@lang": "ES",
             "role": "Akari Gero",
             "person": {
                 "+content": "Polly Huerta",
                 "+@id": "208905"
+            }
+        },
+        {
+            "+@gid": "3094035114",
+            "+@lang": "ES",
+            "role": "Hikaru Gero",
+            "person": {
+                "+content": "Lili Vela",
+                "+@id": "224074"
+            }
+        },
+        {
+            "+@gid": "1867557974",
+            "+@lang": "ES",
+            "role": "Shiori Ureshino",
+            "person": {
+                "+content": "Abril Ramos",
+                "+@id": "271856"
+            }
+        },
+        {
+            "+@gid": "403580648",
+            "+@lang": "ES",
+            "role": "Toshiro Dogo",
+            "person": {
+                "+content": "Camilo Beristain",
+                "+@id": "296838"
+            }
+        },
+        {
+            "+@gid": "1884873986",
+            "+@lang": "ES",
+            "role": "Byakko",
+            "person": {
+                "+content": "Lina Corolina",
+                "+@id": "299762"
             }
         },
         {
@@ -584,6 +841,15 @@
             }
         },
         {
+            "+@gid": "766520746",
+            "+@lang": "FR",
+            "role": "Tonako Dôgo",
+            "person": {
+                "+content": "Cindy Lemineur",
+                "+@id": "94651"
+            }
+        },
+        {
             "+@gid": "2977665075",
             "+@lang": "FR",
             "role": "Toshiki Hanamaki",
@@ -602,12 +868,12 @@
             }
         },
         {
-            "+@gid": "1542284244",
+            "+@gid": "978830664",
             "+@lang": "FR",
-            "role": "Piichi Nakagawa",
+            "role": "Tsunagi",
             "person": {
-                "+content": "Benoît Fort",
-                "+@id": "173636"
+                "+content": "Maxime Hoareau",
+                "+@id": "173844"
             }
         },
         {
@@ -617,6 +883,15 @@
             "person": {
                 "+content": "Simon Herlin",
                 "+@id": "197938"
+            }
+        },
+        {
+            "+@gid": "1757124278",
+            "+@lang": "FR",
+            "role": "Piichi Nakagawa",
+            "person": {
+                "+content": "Arthur Raynal",
+                "+@id": "201191"
             }
         },
         {
@@ -683,15 +958,6 @@
             }
         },
         {
-            "+@gid": "640909725",
-            "+@lang": "JA",
-            "role": "Toshiki Hanamaki",
-            "person": {
-                "+content": "Isamu Yūsen",
-                "+@id": "117729"
-            }
-        },
-        {
             "+@gid": "1646585772",
             "+@lang": "JA",
             "role": "Piichi Nakagawa",
@@ -746,6 +1012,6 @@
         }
     },
     "+@date-added": "2025-09-30T18:29:02Z",
-    "+@date-last-modified-at": "2026-06-28T14:17:02Z",
-    "+@date-last-updated-at": "2026-06-28T14:17:02Z"
+    "+@date-last-modified-at": "2026-07-28T14:39:15Z",
+    "+@date-last-updated-at": "2026-07-28T14:39:15Z"
 }
