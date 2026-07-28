@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Tengu Tōsen",
     "+@precision": "ONA",
-    "+@generated-on": "2026-06-28T04:52:30Z",
+    "+@generated-on": "2026-07-28T06:08:22Z",
     "info": [
         {
             "+@gid": "883653775",
@@ -41,21 +41,53 @@
             "+@gid": "1643414067",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "action",
+            "+@gid": "1582090266",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "2220863378",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "2026-07-24",
+            "+@gid": "2024295881",
+            "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "<i>Tengu Tōsen</i> Short Anime About Demon-Slaying Sword Fighters Launches",
-        "+@datetime": "2026-03-27T12:35:45Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-27/tengu-tosen-short-anime-about-demon-slaying-sword-fighters-launches/.235815"
-    },
-    "staff": {
-        "+@gid": "2582001251",
-        "task": "Original Character Design",
-        "person": {
-            "+content": "Sōno",
-            "+@id": "295174"
+    "news": [
+        {
+            "+content": "<i>Tengu Tōsen</i> Short Anime About Demon-Slaying Sword Fighters Launches",
+            "+@datetime": "2026-03-27T12:35:45Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-27/tengu-tosen-short-anime-about-demon-slaying-sword-fighters-launches/.235815"
+        },
+        {
+            "+content": "<cite>Tengu Tōsen</cite> Short Anime Streams on YouTube",
+            "+@datetime": "2026-07-27T20:25:43Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-27/tengu-tosen-short-anime-streams-on-youtube/.240023"
         }
-    },
+    ],
+    "staff": [
+        {
+            "+@gid": "2232900523",
+            "task": "Music",
+            "person": {
+                "+content": "Reai",
+                "+@id": "300741"
+            }
+        },
+        {
+            "+@gid": "2582001251",
+            "task": "Original Character Design",
+            "person": {
+                "+content": "Sōno",
+                "+@id": "295174"
+            }
+        }
+    ],
     "cast": [
         {
             "+@gid": "3505599313",
@@ -122,5 +154,6 @@
         }
     ],
     "+@date-added": "2026-03-27T08:58:50Z",
-    "+@date-last-updated-at": "2026-06-28T04:52:33Z"
+    "+@date-last-modified-at": "2026-07-28T06:41:31Z",
+    "+@date-last-updated-at": "2026-07-28T06:41:31Z"
 }

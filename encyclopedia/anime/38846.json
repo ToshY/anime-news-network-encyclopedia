@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "You and I Are Polar Opposites",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-06-28T04:52:26Z",
+    "+@generated-on": "2026-07-28T06:14:02Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "34083"
@@ -68,6 +68,16 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "2435875919",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "13",
+            "+@gid": "2148809457",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-05",
             "+@gid": "3925392596",
             "+@type": "Vintage"
@@ -90,6 +100,52 @@
             "+@href": "https://sh-anime.shochiku.co.jp/seihantai_anime/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "9.7418"
+    },
+    "episode": [
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "Christmas Eve",
+                "+@gid": "3652401855",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "14",
+            "title": {
+                "+content": "Dilemma of a Winter's Night",
+                "+@gid": "2421691031",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "15",
+            "title": {
+                "+content": "The Year That's Passed, and the Year to Come",
+                "+@gid": "2612747963",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "16",
+            "title": {
+                "+content": "New School Term",
+                "+@gid": "2435586207",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "17",
+            "title": {
+                "+content": "Barentain",
+                "+@gid": "1982219078",
+                "+@lang": "JA"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "<cite>You and I Are Polar Opposites</cite> 2nd Season Anime Unveils Theme Song Artist in New Promo Video",
@@ -110,6 +166,11 @@
             "+content": "Crunchyroll India to Stream <cite>Black Torch</cite>, <cite>Dara-san of Reiwa</cite>, <cite>Kaiju Girl Caramelise</cite>, More Anime in Summer 2026",
             "+@datetime": "2026-06-21T07:50:07Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-21/crunchyroll-india-to-stream-black-torch-dara-san-of-reiwa-kaiju-girl-caramelise-more-anime-in-/.238716"
+        },
+        {
+            "+content": "Crunchyroll Reveals English Dub Casts for New Seasons of <cite>Mushoku Tensei, 100 Girlfriends, You and I Are Polar Opposites</cite>",
+            "+@datetime": "2026-07-19T05:41:50Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-19/crunchyroll-reveals-english-dub-casts-for-new-seasons-of-mushoku-tensei-100-girlfriends-you-and-i-/.239751"
         }
     ],
     "staff": [
@@ -220,6 +281,168 @@
     ],
     "cast": [
         {
+            "+@gid": "1262895850",
+            "+@lang": "EN",
+            "role": "Aoi Sato",
+            "person": {
+                "+content": "Cassie Ewulu",
+                "+@id": "178360"
+            }
+        },
+        {
+            "+@gid": "3493726520",
+            "+@lang": "EN",
+            "role": "Shino Azuma",
+            "person": {
+                "+content": "Sarah Roach",
+                "+@id": "184047"
+            }
+        },
+        {
+            "+@gid": "1863594597",
+            "+@lang": "EN",
+            "role": "Miyu Suzuki",
+            "person": {
+                "+content": "Celeste Perez",
+                "+@id": "203685"
+            }
+        },
+        {
+            "+@gid": "2114780451",
+            "+@lang": "EN",
+            "role": "Kentaro Yamada",
+            "person": {
+                "+content": "Van Barr Jr.",
+                "+@id": "213292"
+            }
+        },
+        {
+            "+@gid": "2047209864",
+            "+@lang": "EN",
+            "role": "Manami Watanabe",
+            "person": {
+                "+content": "Hannah Alyea",
+                "+@id": "223713"
+            }
+        },
+        {
+            "+@gid": "2174644298",
+            "+@lang": "EN",
+            "role": "Yusuke Tani",
+            "person": {
+                "+content": "Brandon Acosta",
+                "+@id": "232202"
+            }
+        },
+        {
+            "+@gid": "2259047621",
+            "+@lang": "EN",
+            "role": "Shuji Taira",
+            "person": {
+                "+content": "Mauricio Ortiz-Segura",
+                "+@id": "244000"
+            }
+        },
+        {
+            "+@gid": "2522012198",
+            "+@lang": "EN",
+            "role": "Natsumi Nishi",
+            "person": {
+                "+content": "Rebecca Danae",
+                "+@id": "249604"
+            }
+        },
+        {
+            "+@gid": "2303139869",
+            "+@lang": "EN",
+            "role": "Rikako Honda",
+            "person": {
+                "+content": "Cheyenne Haynes",
+                "+@id": "292542"
+            }
+        },
+        {
+            "+@gid": "1034557328",
+            "+@lang": "FR",
+            "role": "Miyu Suzuki",
+            "person": {
+                "+content": "Beatrice Wegnez",
+                "+@id": "52988"
+            }
+        },
+        {
+            "+@gid": "1355796891",
+            "+@lang": "FR",
+            "role": "Manami Watanabe",
+            "person": {
+                "+content": "Aaricia Dubois",
+                "+@id": "86544"
+            }
+        },
+        {
+            "+@gid": "2365601049",
+            "+@lang": "FR",
+            "role": "Kentaro Yamada",
+            "person": {
+                "+content": "Alexis Flamant",
+                "+@id": "124896"
+            }
+        },
+        {
+            "+@gid": "4136723349",
+            "+@lang": "FR",
+            "role": "Shinji Taira",
+            "person": {
+                "+content": "Olivier premel",
+                "+@id": "126589"
+            }
+        },
+        {
+            "+@gid": "1528118533",
+            "+@lang": "FR",
+            "role": "Rikako Honda",
+            "person": {
+                "+content": "Mélissa Windal",
+                "+@id": "126807"
+            }
+        },
+        {
+            "+@gid": "2136862632",
+            "+@lang": "FR",
+            "role": "Shino Azuma",
+            "person": {
+                "+content": "Shérine Seyad",
+                "+@id": "135611"
+            }
+        },
+        {
+            "+@gid": "3410563546",
+            "+@lang": "FR",
+            "role": "Natsumi Nishi",
+            "person": {
+                "+content": "Marie Du Bled",
+                "+@id": "145504"
+            }
+        },
+        {
+            "+@gid": "1747546729",
+            "+@lang": "FR",
+            "role": "Yusuke Tani",
+            "person": {
+                "+content": "Arthur Dubois",
+                "+@id": "213181"
+            }
+        },
+        {
+            "+@gid": "2239974397",
+            "+@lang": "FR",
+            "role": "Aoi Satô",
+            "person": {
+                "+content": "Lucie Flamant",
+                "+@id": "215063"
+            }
+        },
+        {
             "+@gid": "2765602499",
             "+@lang": "JA",
             "role": "Manami Watanabe",
@@ -310,6 +533,6 @@
         }
     },
     "+@date-added": "2026-03-29T03:13:17Z",
-    "+@date-last-modified-at": "2026-06-28T04:52:33Z",
-    "+@date-last-updated-at": "2026-06-28T04:52:33Z"
+    "+@date-last-modified-at": "2026-07-28T06:41:31Z",
+    "+@date-last-updated-at": "2026-07-28T06:41:31Z"
 }

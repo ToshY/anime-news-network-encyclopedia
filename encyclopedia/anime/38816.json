@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Mebius Dust",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-28T04:52:30Z",
+    "+@generated-on": "2026-07-28T06:15:47Z",
     "info": [
         {
             "+@gid": "2577701345",
@@ -38,14 +38,39 @@
             "+@lang": "JA"
         },
         {
+            "+content": "action",
+            "+@gid": "2329371096",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "supernatural",
+            "+@gid": "3260133305",
+            "+@type": "Genres"
+        },
+        {
             "+content": "Araki, Stella, and Olga are high school students living in a cozy downtown neighborhood. Playing games, visiting the bathhouse, and heading home - this is the story of their everyday lives, unless…",
             "+@gid": "1503731142",
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "1958196316",
+            "+@type": "Running time"
+        },
+        {
             "+content": "2026-07-09",
             "+@gid": "3052274161",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Mebius\" (メビウス) by Leo Ieiri",
+            "+@gid": "1112618669",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Dilemma\" (ジレンマ) by Ai Tomioka",
+            "+@gid": "2391100921",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ「メビウス・ダスト」公式サイト",
@@ -55,6 +80,10 @@
             "+@href": "https://mebiusdust.asmik-ace.co.jp/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "3",
+        "+@weighted_score": "2.7245"
+    },
     "news": [
         {
             "+content": "Doga Kobo Reveals <cite>Mebius Dust</cite> Original TV Anime",
@@ -95,6 +124,11 @@
             "+content": "<cite>Mebius Dust</cite> Anime Announces 6 Cast Members of LAMPs Team",
             "+@datetime": "2026-06-25T03:47:52Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-24/mebius-dust-anime-announces-6-cast-members-of-lamps-team/.238915"
+        },
+        {
+            "+content": "<cite>Mebius Dust</cite> Anime Reveals 5 More Cast Members",
+            "+@datetime": "2026-07-02T07:21:54Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-02/mebius-dust-anime-reveals-5-more-cast-members/.239209"
         }
     ],
     "staff": [
@@ -392,6 +426,15 @@
             }
         },
         {
+            "+@gid": "2622250908",
+            "+@lang": "JA",
+            "role": "Himizu",
+            "person": {
+                "+content": "Genta Nakamura",
+                "+@id": "185927"
+            }
+        },
+        {
             "+@gid": "2872942385",
             "+@lang": "JA",
             "role": "Kei",
@@ -401,12 +444,30 @@
             }
         },
         {
+            "+@gid": "2950182055",
+            "+@lang": "JA",
+            "role": "Sora",
+            "person": {
+                "+content": "Kanon Amane",
+                "+@id": "203905"
+            }
+        },
+        {
             "+@gid": "2852784995",
             "+@lang": "JA",
             "role": "Taketsune",
             "person": {
                 "+content": "Ayato Morinaga",
                 "+@id": "204040"
+            }
+        },
+        {
+            "+@gid": "1598523586",
+            "+@lang": "JA",
+            "role": "Kōhei",
+            "person": {
+                "+content": "Kō Bonkobara",
+                "+@id": "220174"
             }
         },
         {
@@ -455,12 +516,30 @@
             }
         },
         {
+            "+@gid": "4013528537",
+            "+@lang": "JA",
+            "role": "Taiyō",
+            "person": {
+                "+content": "Shōta Hayama",
+                "+@id": "273024"
+            }
+        },
+        {
             "+@gid": "815407997",
             "+@lang": "JA",
             "role": "Ainojō",
             "person": {
                 "+content": "Kōki Nakamura",
                 "+@id": "273145"
+            }
+        },
+        {
+            "+@gid": "2261273069",
+            "+@lang": "JA",
+            "role": "Haoyū",
+            "person": {
+                "+content": "Kenshō Uesugi",
+                "+@id": "299655"
             }
         }
     ],
@@ -473,6 +552,6 @@
         }
     },
     "+@date-added": "2026-03-26T10:08:09Z",
-    "+@date-last-modified-at": "2026-06-28T04:52:33Z",
-    "+@date-last-updated-at": "2026-06-28T04:52:33Z"
+    "+@date-last-modified-at": "2026-07-28T06:41:31Z",
+    "+@date-last-updated-at": "2026-07-28T06:41:31Z"
 }

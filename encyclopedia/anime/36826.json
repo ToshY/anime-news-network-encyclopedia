@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "ELECEED",
     "+@precision": "TV",
-    "+@generated-on": "2026-06-28T04:52:30Z",
+    "+@generated-on": "2026-07-28T06:08:18Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "36825"
@@ -65,11 +65,18 @@
             "+@href": "https://eleceed-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Eleceed</cite> TV Anime Reveals Key Visual, Delayed 2027 Debut",
-        "+@datetime": "2026-06-26T17:20:42Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-06-26/eleceed-tv-anime-reveals-key-visual-delayed-2027-debut/.238996"
-    },
+    "news": [
+        {
+            "+content": "<cite>Eleceed</cite> TV Anime Reveals Key Visual, Delayed 2027 Debut",
+            "+@datetime": "2026-06-26T17:20:42Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-26/eleceed-tv-anime-reveals-key-visual-delayed-2027-debut/.238996"
+        },
+        {
+            "+content": "<cite>Eleceed</cite> TV Anime Reveals Main Cast in 1st Promo Video",
+            "+@datetime": "2026-07-03T01:02:58Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-02/eleceed-tv-anime-reveals-main-cast-in-1st-promo-video/.239232"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3012541775",
@@ -168,6 +175,53 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "584989216",
+            "+@lang": "JA",
+            "role": "Jin Tatsuoka / Wooin",
+            "person": {
+                "+content": "Tasuku Hatanaka",
+                "+@id": "99622"
+            }
+        },
+        {
+            "+@gid": "1939172718",
+            "+@lang": "JA",
+            "role": "Yū Kazahaya / Jiwoo Seo",
+            "person": {
+                "+content": "Junya Enoki",
+                "+@id": "109167"
+            }
+        },
+        {
+            "+@gid": "3505521538",
+            "+@lang": "JA",
+            "role": "Sōta Yanagi/ Jisuk Yoo",
+            "person": {
+                "+content": "Hayato Dōjima",
+                "+@id": "215660"
+            }
+        },
+        {
+            "+@gid": "2759612691",
+            "+@lang": "JA",
+            "role": "Amane Yanagi / Jiyoung Yoo",
+            "person": {
+                "+content": "Shizuka Itō",
+                "+@id": "249200"
+            }
+        },
+        {
+            "+@gid": "2454987018",
+            "+@lang": "JA",
+            "role": "Dr. Delein",
+            "person": {
+                "+content": "Setsuji Satō",
+                "+@id": "278004"
+            }
+        }
+    ],
     "credit": {
         "+@gid": "2049463087",
         "task": "Animation Production",
@@ -177,6 +231,6 @@
         }
     },
     "+@date-added": "2025-07-01T00:39:38Z",
-    "+@date-last-modified-at": "2026-06-28T04:52:33Z",
-    "+@date-last-updated-at": "2026-06-28T04:52:33Z"
+    "+@date-last-modified-at": "2026-07-28T06:41:31Z",
+    "+@date-last-updated-at": "2026-07-28T06:41:31Z"
 }

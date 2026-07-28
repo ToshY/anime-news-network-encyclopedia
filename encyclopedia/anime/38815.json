@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Ranma ½",
     "+@precision": "TV 2026",
-    "+@generated-on": "2026-06-28T04:52:30Z",
+    "+@generated-on": "2026-07-28T06:09:15Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "34225"
@@ -13,19 +13,24 @@
         {
             "+@gid": "3532315983",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38815-3532315983.1774532817.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38815-3532315983.1785033206.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38815-3532315983.1774532817.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38815-3532315983.1785033206.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38815-3532315983.1774532817.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38815-3532315983.1785033206.jpg",
                     "+@width": "424",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38815-3532315983.1785033206.jpg",
+                    "+@width": "459",
+                    "+@height": "650"
                 }
             ]
         },
@@ -63,7 +68,7 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2026-10",
+            "+content": "2026-10-03",
             "+@gid": "1582512994",
             "+@type": "Vintage"
         },
@@ -75,11 +80,18 @@
             "+@href": "https://ranma-pr.com/"
         }
     ],
-    "news": {
-        "+content": "New <cite>Ranma 1/2</cite> Anime's Season 3 Previewed in 2nd Trailer",
-        "+@datetime": "2026-06-19T12:41:28Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-06-19/new-ranma-1-2-anime-season-3-previewed-in-2nd-trailer/.238706"
-    },
+    "news": [
+        {
+            "+content": "New <cite>Ranma 1/2</cite> Anime's Season 3 Previewed in 2nd Trailer",
+            "+@datetime": "2026-06-19T12:41:28Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-19/new-ranma-1-2-anime-season-3-previewed-in-2nd-trailer/.238706"
+        },
+        {
+            "+content": "New <cite>Ranma 1/2</cite> Anime's Season 3 Reveals More Cast Members, October 3 Debut",
+            "+@datetime": "2026-07-26T08:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-26/new-ranma-1-2-anime-season-3-reveals-more-cast-members-october-3-debut/.239978"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2492031777",
@@ -146,6 +158,14 @@
             }
         },
         {
+            "+@gid": "3688028586",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Daisuke Niinuma",
+                "+@id": "48462"
+            }
+        },
+        {
             "+@gid": "806882564",
             "task": "Chief Animation Director",
             "person": {
@@ -159,6 +179,14 @@
             "person": {
                 "+content": "Kōsuke Kawamura",
                 "+@id": "78306"
+            }
+        },
+        {
+            "+@gid": "1927431784",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Midori Nakamura",
+                "+@id": "143583"
             }
         },
         {
@@ -206,6 +234,15 @@
             }
         },
         {
+            "+@gid": "900723968",
+            "+@lang": "JA",
+            "role": "Sentarō Daimonji",
+            "person": {
+                "+content": "Jun Fukuyama",
+                "+@id": "337"
+            }
+        },
+        {
             "+@gid": "1421314886",
             "+@lang": "JA",
             "role": "Ranma Saotome (Female)",
@@ -230,6 +267,24 @@
             "person": {
                 "+content": "Akira Ishida",
                 "+@id": "443"
+            }
+        },
+        {
+            "+@gid": "510675302",
+            "+@lang": "JA",
+            "role": "Sōun Tendō",
+            "person": {
+                "+content": "Akio Ōtsuka",
+                "+@id": "459"
+            }
+        },
+        {
+            "+@gid": "3029975103",
+            "+@lang": "JA",
+            "role": "Grand Master",
+            "person": {
+                "+content": "Masako Nozawa",
+                "+@id": "508"
             }
         },
         {
@@ -323,6 +378,15 @@
             }
         },
         {
+            "+@gid": "1398087815",
+            "+@lang": "JA",
+            "role": "Cologne",
+            "person": {
+                "+content": "Ako Mayama",
+                "+@id": "36901"
+            }
+        },
+        {
             "+@gid": "2463034841",
             "+@lang": "JA",
             "role": "Azusa Shiratori",
@@ -348,6 +412,15 @@
                 "+content": "Ayane Sakura",
                 "+@id": "94383"
             }
+        },
+        {
+            "+@gid": "1896151146",
+            "+@lang": "JA",
+            "role": "Tsubasa Kurenai",
+            "person": {
+                "+content": "Minami Tanaka",
+                "+@id": "118525"
+            }
         }
     ],
     "credit": {
@@ -359,6 +432,6 @@
         }
     },
     "+@date-added": "2026-03-26T09:46:04Z",
-    "+@date-last-modified-at": "2026-06-28T04:52:33Z",
-    "+@date-last-updated-at": "2026-06-28T04:52:33Z"
+    "+@date-last-modified-at": "2026-07-28T06:41:31Z",
+    "+@date-last-updated-at": "2026-07-28T06:41:31Z"
 }
