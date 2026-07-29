@@ -4,11 +4,17 @@
     "+@type": "movie",
     "+@name": "BELLE",
     "+@precision": "movie",
-    "+@generated-on": "2026-06-28T21:30:51Z",
-    "related-next": {
-        "+@id": "25800",
-        "+@rel": "adaptation"
-    },
+    "+@generated-on": "2026-07-29T03:42:27Z",
+    "related-next": [
+        {
+            "+@id": "25800",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "40383",
+            "+@rel": "spinoff"
+        }
+    ],
     "info": [
         {
             "+@gid": "3222340852",
@@ -281,9 +287,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "169",
-        "+@weighted_score": "7.5112",
-        "+@bayesian_score": "7.50826"
+        "+@nb_votes": "170",
+        "+@weighted_score": "7.507",
+        "+@bayesian_score": "7.50453"
     },
     "review": {
         "+content": "Belle",
@@ -661,6 +667,11 @@
             "+content": "Japanese Animation TV Ranking, November 17-23",
             "+@datetime": "2025-11-30T20:15:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-11-30/japanese-animation-tv-ranking-november-17-23/.231510"
+        },
+        {
+            "+content": "Immersive Musical Show to Tell Story Set 5 Years After Mamoru Hosoda's <cite>Belle</cite> Film",
+            "+@datetime": "2026-07-28T08:14:35Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-28/immersive-musical-show-to-tell-story-set-5-years-after-mamoru-hosoda-belle-film/.240038"
         }
     ],
     "staff": [
@@ -1652,6 +1663,6 @@
         }
     ],
     "+@date-added": "2021-02-17T21:24:08Z",
-    "+@date-last-modified-at": "2026-06-28T21:30:53Z",
-    "+@date-last-updated-at": "2026-06-28T21:30:53Z"
+    "+@date-last-modified-at": "2026-07-29T03:42:31Z",
+    "+@date-last-updated-at": "2026-07-29T03:42:31Z"
 }
