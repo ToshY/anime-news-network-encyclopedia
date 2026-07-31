@@ -4,11 +4,21 @@
     "+@type": "TV",
     "+@name": "Non-tan to Issho",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-01T11:33:01Z",
-    "related-next": {
-        "+@id": "23269",
-        "+@rel": "related"
-    },
+    "+@generated-on": "2026-07-31T14:37:01Z",
+    "related-next": [
+        {
+            "+@id": "23269",
+            "+@rel": "related"
+        },
+        {
+            "+@id": "40333",
+            "+@rel": "related"
+        },
+        {
+            "+@id": "40335",
+            "+@rel": "related"
+        }
+    ],
     "info": [
         {
             "+@gid": "1744524427",
@@ -240,5 +250,6 @@
         }
     ],
     "+@date-added": "2020-05-10T01:22:57Z",
-    "+@date-last-updated-at": "2026-07-01T11:33:03Z"
+    "+@date-last-modified-at": "2026-07-31T14:37:03Z",
+    "+@date-last-updated-at": "2026-07-31T14:37:03Z"
 }
