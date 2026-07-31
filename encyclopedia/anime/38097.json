@@ -2,9 +2,9 @@
     "+@id": "38097",
     "+@gid": "1678946284",
     "+@type": "TV",
-    "+@name": "Demons' Crest",
+    "+@name": "Devils' Crest",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-01T15:12:36Z",
+    "+@generated-on": "2026-07-31T17:53:22Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26292"
@@ -13,26 +13,32 @@
         {
             "+@gid": "1698277879",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38097-1698277879.1774260588.jpg",
-            "+@width": "154",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38097-1698277879.1785036601.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38097-1698277879.1774260588.jpg",
-                    "+@width": "154",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38097-1698277879.1785036601.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38097-1698277879.1774260588.jpg",
-                    "+@width": "461",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38097-1698277879.1785036601.jpg",
+                    "+@width": "424",
                     "+@height": "600"
                 }
             ]
         },
         {
+            "+content": "Devils' Crest",
+            "+@gid": "2020689982",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Demons' Crest",
             "+@gid": "3434292253",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "EN"
         },
         {
@@ -47,7 +53,7 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026",
+            "+content": "2026-11-06",
             "+@gid": "1139012808",
             "+@type": "Vintage"
         },
@@ -59,11 +65,18 @@
             "+@href": "https://demonscrest-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Demons' Crest</cite> Anime Reveals Main Staff, Cast, 2026 Debut in Video",
-        "+@datetime": "2026-03-23T09:48:54Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-23/demons-crest-anime-reveals-main-staff-cast-2026-debut-in-video/.235637"
-    },
+    "news": [
+        {
+            "+content": "<cite>Demons' Crest</cite> Anime Reveals Main Staff, Cast, 2026 Debut in Video",
+            "+@datetime": "2026-03-23T09:48:54Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-23/demons-crest-anime-reveals-main-staff-cast-2026-debut-in-video/.235637"
+        },
+        {
+            "+content": "<cite>Devils' Crest</cite> Anime Reveals 1st Promo Video, Theme Song Artist, November 6 Streaming Debut on Amazon Prime Video (Updated With English-Subbed Trailer)",
+            "+@datetime": "2026-07-04T22:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-04/devils-crest-anime-reveals-1st-promo-video-theme-song-artist-november-6-streaming-debut-on-amazon-/.239194"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1285170074",
@@ -128,6 +141,54 @@
                 "+content": "Yukiko Horiguchi",
                 "+@id": "37459"
             }
+        },
+        {
+            "+@gid": "2686516867",
+            "task": "Art Director",
+            "person": {
+                "+content": "Katsumi Takao",
+                "+@id": "8106"
+            }
+        },
+        {
+            "+@gid": "1788737693",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kazuchika Kise",
+                "+@id": "469"
+            }
+        },
+        {
+            "+@gid": "1132573676",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Shuji Kawakami",
+                "+@id": "33116"
+            }
+        },
+        {
+            "+@gid": "3297118113",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Jin Aketagawa",
+                "+@id": "8466"
+            }
+        },
+        {
+            "+@gid": "889085440",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Motohito Nasu",
+                "+@id": "128178"
+            }
+        },
+        {
+            "+@gid": "2285210627",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Keiichi Saitō",
+                "+@id": "134219"
+            }
         }
     ],
     "cast": [
@@ -138,6 +199,24 @@
             "person": {
                 "+content": "Haruka Shiraishi",
                 "+@id": "104544"
+            }
+        },
+        {
+            "+@gid": "1484169487",
+            "+@lang": "JA",
+            "role": "Kenji Kondō",
+            "person": {
+                "+content": "Yūya Hirose",
+                "+@id": "141455"
+            }
+        },
+        {
+            "+@gid": "1083527527",
+            "+@lang": "JA",
+            "role": "Minagi Sano",
+            "person": {
+                "+content": "Satomi Amano",
+                "+@id": "186176"
             }
         },
         {
@@ -159,5 +238,6 @@
         }
     },
     "+@date-added": "2025-12-02T01:42:24Z",
-    "+@date-last-updated-at": "2026-07-01T15:12:39Z"
+    "+@date-last-modified-at": "2026-07-31T17:53:26Z",
+    "+@date-last-updated-at": "2026-07-31T17:53:26Z"
 }
