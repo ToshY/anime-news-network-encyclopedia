@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Sparks of Tomorrow",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-02T14:29:48Z",
+    "+@generated-on": "2026-08-01T17:16:11Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "37940"
@@ -36,6 +36,12 @@
             "+@lang": "EN"
         },
         {
+            "+content": "Étincelles de Demain",
+            "+@gid": "3191903834",
+            "+@type": "Alternative title",
+            "+@lang": "FR"
+        },
+        {
             "+content": "二十世紀電氣目録-ユーレカ・エヴリカ-",
             "+@gid": "544359187",
             "+@type": "Alternative title",
@@ -48,14 +54,79 @@
             "+@lang": "JA"
         },
         {
+            "+content": "adventure",
+            "+@gid": "1317856507",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "1958021787",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "2419671684",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "science fiction",
+            "+@gid": "3235604834",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "alternate history",
+            "+@gid": "2602314765",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "historical",
+            "+@gid": "2250623393",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "steampunk",
+            "+@gid": "1466225012",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "technology",
+            "+@gid": "2286541405",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "OC",
+            "+@gid": "2265792790",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "In the summer of 1907, 15-year-old Inako Momokawa lives in the Fushimi area of Kyoto and is the second daughter of a sake brewer. Nothing she does ever comes out right, and she receives a scolding from her father every day. Her only relief is the trust she places in her prayers to the gods. One day, while at Fushimi Inari shrine, she meets a freewheeling young man named Kihachi Sakamoto. He rejects the gods and boasts of the incoming age of electricity. The topic of marriage suddenly comes up in Inako's household, and Inako is about to give up hope. It is then that Kihachi draws out Inako's true feelings of wanting to run away from her family. The only way to stop her marriage is to find an unusual book called the \"Electrical Catalog.\" The book is a prediction book about electricity that Kihachi wrote when he was a child, but his older brother Seiroku stole it, and its current whereabouts are unknown. Inako and Kihachi set out to find the book across Kyoto and Shiga prefectures.",
             "+@gid": "1044163542",
             "+@type": "Plot Summary"
         },
         {
+            "+content": "23",
+            "+@gid": "3958268727",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "13",
+            "+@gid": "1311225849",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-05",
             "+@gid": "538303095",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Eureka Evrika\" by Luna Goami",
+            "+@gid": "2338523056",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Soarin'\" by Ginger Root",
+            "+@gid": "3837372576",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "『二十世紀電氣目録-ユーレカ・エヴリカ-』公式サイト",
@@ -72,6 +143,10 @@
             "+@href": "https://denkimokuroku.jp/en/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "4",
+        "+@weighted_score": "4.1018"
+    },
     "news": [
         {
             "+content": "Kyoto Animation's <cite>Sparks of Tomorrow</cite> TV Anime to Debut in 2026",
@@ -137,6 +212,78 @@
             }
         },
         {
+            "+@gid": "3498064073",
+            "task": "Script",
+            "person": {
+                "+content": "Tatsuhiko Urahata",
+                "+@id": "7202"
+            }
+        },
+        {
+            "+@gid": "1420202872",
+            "task": "Script",
+            "person": {
+                "+content": "Takaaki Suzuki",
+                "+@id": "86830"
+            }
+        },
+        {
+            "+@gid": "2911023130",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Minoru Ōta",
+                "+@id": "76975"
+            }
+        },
+        {
+            "+@gid": "1774946737",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ayumu Yoshida",
+                "+@id": "111339"
+            }
+        },
+        {
+            "+@gid": "2550723796",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ryo Miyaki",
+                "+@id": "59044"
+            }
+        },
+        {
+            "+@gid": "1998815302",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takuya Yamamura",
+                "+@id": "76915"
+            }
+        },
+        {
+            "+@gid": "1323502674",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Minoru Ōta",
+                "+@id": "76975"
+            }
+        },
+        {
+            "+@gid": "2761723841",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ayumu Yoshida",
+                "+@id": "111339"
+            }
+        },
+        {
+            "+@gid": "2060117595",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Hiroki Ueda",
+                "+@id": "76972"
+            }
+        },
+        {
             "+@gid": "2409218614",
             "task": "Music",
             "person": {
@@ -177,6 +324,46 @@
             }
         },
         {
+            "+@gid": "2143524778",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kayo Hikiyama",
+                "+@id": "56340"
+            }
+        },
+        {
+            "+@gid": "2490680315",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nobuaki Maruki",
+                "+@id": "76920"
+            }
+        },
+        {
+            "+@gid": "2446115288",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kohei Okamura",
+                "+@id": "145823"
+            }
+        },
+        {
+            "+@gid": "2655025561",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tamami Tokuyama",
+                "+@id": "171980"
+            }
+        },
+        {
+            "+@gid": "3108028415",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kengo Narimatsu",
+                "+@id": "189721"
+            }
+        },
+        {
             "+@gid": "1366902212",
             "task": "3D Director",
             "person": {
@@ -203,12 +390,462 @@
     ],
     "cast": [
         {
+            "+@gid": "1541809865",
+            "+@lang": "DE",
+            "role": "Kihachi Sakamoto",
+            "person": {
+                "+content": "Konrad Bösherz",
+                "+@id": "22711"
+            }
+        },
+        {
+            "+@gid": "3306389209",
+            "+@lang": "DE",
+            "role": "Izo Masubuchi",
+            "person": {
+                "+content": "Julien Haggege",
+                "+@id": "22754"
+            }
+        },
+        {
+            "+@gid": "1597875494",
+            "+@lang": "DE",
+            "role": "Yosuke Mizoe",
+            "person": {
+                "+content": "Constantin von Jascheroff",
+                "+@id": "41114"
+            }
+        },
+        {
+            "+@gid": "2251910822",
+            "+@lang": "DE",
+            "role": "Kate Okura",
+            "person": {
+                "+content": "Peggy Pollow",
+                "+@id": "125133"
+            }
+        },
+        {
+            "+@gid": "3696855297",
+            "+@lang": "DE",
+            "role": "Suzu Harashima",
+            "person": {
+                "+content": "Nicolle Gonsior",
+                "+@id": "197369"
+            }
+        },
+        {
+            "+@gid": "1658582043",
+            "+@lang": "DE",
+            "role": "Inako Momokawa",
+            "person": {
+                "+content": "Jamie Lee Blank",
+                "+@id": "300683"
+            }
+        },
+        {
+            "+@gid": "1220439768",
+            "+@lang": "EN",
+            "role": "Inari",
+            "person": {
+                "+content": "Debi Derryberry",
+                "+@id": "1421"
+            }
+        },
+        {
+            "+@gid": "2021915024",
+            "+@lang": "EN",
+            "role": "Tome",
+            "person": {
+                "+content": "Debi Derryberry",
+                "+@id": "1421"
+            }
+        },
+        {
+            "+@gid": "1487348677",
+            "+@lang": "EN",
+            "role": "Izō Masubuchi",
+            "person": {
+                "+content": "Jason Griffith",
+                "+@id": "25281"
+            }
+        },
+        {
+            "+@gid": "2418353809",
+            "+@lang": "EN",
+            "role": "Suzu Harashima",
+            "person": {
+                "+content": "Cherami Leigh",
+                "+@id": "64331"
+            }
+        },
+        {
+            "+@gid": "2195538459",
+            "+@lang": "EN",
+            "role": "Kate Okura",
+            "person": {
+                "+content": "Cassandra Morris",
+                "+@id": "74741"
+            }
+        },
+        {
+            "+@gid": "2300340650",
+            "+@lang": "EN",
+            "role": "Yajiro Yagura",
+            "person": {
+                "+content": "Caleb Yen",
+                "+@id": "185783"
+            }
+        },
+        {
+            "+@gid": "2968560974",
+            "+@lang": "EN",
+            "role": "Bunshichi Yagura",
+            "person": {
+                "+content": "Brent Mukai",
+                "+@id": "192303"
+            }
+        },
+        {
+            "+@gid": "2631748363",
+            "+@lang": "EN",
+            "role": "Yōsuke Mizoe",
+            "person": {
+                "+content": "Paul Castro Jr.",
+                "+@id": "204899"
+            }
+        },
+        {
+            "+@gid": "1057433318",
+            "+@lang": "EN",
+            "role": "Jinemon Momokawa",
+            "person": {
+                "+content": "William Salyers",
+                "+@id": "207324"
+            }
+        },
+        {
+            "+@gid": "2531617684",
+            "+@lang": "EN",
+            "role": "Noriko Momokawa",
+            "person": {
+                "+content": "Courtney Lin",
+                "+@id": "213124"
+            }
+        },
+        {
+            "+@gid": "1089534599",
+            "+@lang": "EN",
+            "role": "Naeko Momokawa",
+            "person": {
+                "+content": "Crystal Lee",
+                "+@id": "215677"
+            }
+        },
+        {
+            "+@gid": "2669677740",
+            "+@lang": "EN",
+            "role": "Seiroku Sakamoto",
+            "person": {
+                "+content": "John Choi",
+                "+@id": "229686"
+            }
+        },
+        {
+            "+@gid": "3644093024",
+            "+@lang": "EN",
+            "role": "Kengo Kuga",
+            "person": {
+                "+content": "Jonathon Ha",
+                "+@id": "265391"
+            }
+        },
+        {
+            "+@gid": "378347781",
+            "+@lang": "EN",
+            "role": "Inako Momokawa",
+            "person": {
+                "+content": "Audrey Hsieh",
+                "+@id": "278236"
+            }
+        },
+        {
+            "+@gid": "1867540990",
+            "+@lang": "EN",
+            "role": "Kihachi Sakamoto",
+            "person": {
+                "+content": "Hunter Mccoy",
+                "+@id": "286760"
+            }
+        },
+        {
+            "+@gid": "2877318259",
+            "+@lang": "ES",
+            "role": "Kengo Kuga",
+            "person": {
+                "+content": "Marc Zanni",
+                "+@id": "32389"
+            }
+        },
+        {
+            "+@gid": "511767432",
+            "+@lang": "ES",
+            "role": "Jinemon Momokawa",
+            "person": {
+                "+content": "Santi Lorenz",
+                "+@id": "63186"
+            }
+        },
+        {
+            "+@gid": "3476093048",
+            "+@lang": "ES",
+            "role": "Seiroku Sakamoto",
+            "person": {
+                "+content": "David Brau",
+                "+@id": "69790"
+            }
+        },
+        {
+            "+@gid": "1137236790",
+            "+@lang": "ES",
+            "role": "Kate Okura",
+            "person": {
+                "+content": "Azul Valadez",
+                "+@id": "158099"
+            }
+        },
+        {
+            "+@gid": "2270605632",
+            "+@lang": "ES",
+            "role": "Suzu Harashima",
+            "person": {
+                "+content": "Andrea Soto",
+                "+@id": "166286"
+            }
+        },
+        {
+            "+@gid": "1967493996",
+            "+@lang": "ES",
+            "role": "Izo Masubuchi",
+            "person": {
+                "+content": "Lluís Nicolau",
+                "+@id": "168446"
+            }
+        },
+        {
+            "+@gid": "1795682252",
+            "+@lang": "ES",
+            "role": "Noriko Momokawa",
+            "person": {
+                "+content": "Sara Gómez",
+                "+@id": "183869"
+            }
+        },
+        {
+            "+@gid": "1845611237",
+            "+@lang": "ES",
+            "role": "Yosuke Mizoe",
+            "person": {
+                "+content": "Ditter Ruiz",
+                "+@id": "185617"
+            }
+        },
+        {
+            "+@gid": "1635502349",
+            "+@lang": "ES",
+            "role": "Yosuke Mizoe",
+            "person": {
+                "+content": "Gerry Núñez",
+                "+@id": "213437"
+            }
+        },
+        {
+            "+@gid": "1640025067",
+            "+@lang": "ES",
+            "role": "Inako Momokawa",
+            "person": {
+                "+content": "Lilian Rodas",
+                "+@id": "214376"
+            }
+        },
+        {
+            "+@gid": "1818830909",
+            "+@lang": "ES",
+            "role": "Kihachi Sakamoto",
+            "person": {
+                "+content": "Ferran Rull",
+                "+@id": "221229"
+            }
+        },
+        {
+            "+@gid": "1881806269",
+            "+@lang": "ES",
+            "role": "Kihachi Sakamoto",
+            "person": {
+                "+content": "Jeremy Herrera",
+                "+@id": "223272"
+            }
+        },
+        {
+            "+@gid": "1481728860",
+            "+@lang": "ES",
+            "role": "Izo Masubuchi",
+            "person": {
+                "+content": "Fernando Moctezuma",
+                "+@id": "224080"
+            }
+        },
+        {
+            "+@gid": "4025130603",
+            "+@lang": "ES",
+            "role": "Inako Momokawa",
+            "person": {
+                "+content": "Sofía Pimentel",
+                "+@id": "236377"
+            }
+        },
+        {
+            "+@gid": "968240289",
+            "+@lang": "ES",
+            "role": "Suzu Harashima",
+            "person": {
+                "+content": "Laura García",
+                "+@id": "266540"
+            }
+        },
+        {
+            "+@gid": "1406221390",
+            "+@lang": "ES",
+            "role": "Kate Okura",
+            "person": {
+                "+content": "Monica Serra",
+                "+@id": "294873"
+            }
+        },
+        {
+            "+@gid": "985197713",
+            "+@lang": "ES",
+            "role": "Yajiro Yagura",
+            "person": {
+                "+content": "Gerald de la Iglesia",
+                "+@id": "300688"
+            }
+        },
+        {
+            "+@gid": "2410107413",
+            "+@lang": "FR",
+            "role": "Yōsuke Mizoe",
+            "person": {
+                "+content": "Nessym Guetat",
+                "+@id": "29171"
+            }
+        },
+        {
+            "+@gid": "1528086835",
+            "+@lang": "FR",
+            "role": "Naeko Momokawa",
+            "person": {
+                "+content": "France Renard",
+                "+@id": "154107"
+            }
+        },
+        {
+            "+@gid": "3807689196",
+            "+@lang": "FR",
+            "role": "Seiroku Sakamoto",
+            "person": {
+                "+content": "Benoît Cauden",
+                "+@id": "208163"
+            }
+        },
+        {
+            "+@gid": "2331207674",
+            "+@lang": "FR",
+            "role": "Kihachi Sakamoto",
+            "person": {
+                "+content": "Jean-Stan Du Pac",
+                "+@id": "222672"
+            }
+        },
+        {
+            "+@gid": "2477362551",
+            "+@lang": "FR",
+            "role": "Jinemon Momokawa",
+            "person": {
+                "+content": "Jean-Philippe Desrousseaux",
+                "+@id": "224919"
+            }
+        },
+        {
+            "+@gid": "3598269499",
+            "+@lang": "FR",
+            "role": "Izō Masubuchi",
+            "person": {
+                "+content": "Antoine Levannier",
+                "+@id": "227765"
+            }
+        },
+        {
+            "+@gid": "2609711085",
+            "+@lang": "FR",
+            "role": "Inako Momokawa",
+            "person": {
+                "+content": "Lévanah Solomon",
+                "+@id": "237477"
+            }
+        },
+        {
+            "+@gid": "2279222287",
+            "+@lang": "FR",
+            "role": "Noriko Momokawa",
+            "person": {
+                "+content": "Anne-Sophie Nallino",
+                "+@id": "241213"
+            }
+        },
+        {
+            "+@gid": "3050159063",
+            "+@lang": "FR",
+            "role": "Yajirō Yagura",
+            "person": {
+                "+content": "Luca Garzo",
+                "+@id": "249397"
+            }
+        },
+        {
+            "+@gid": "1758981668",
+            "+@lang": "FR",
+            "role": "Jinemon Momokawa",
+            "person": {
+                "+content": "Jean-Phillipe Desrousseaux",
+                "+@id": "299821"
+            }
+        },
+        {
+            "+@gid": "2152446217",
+            "+@lang": "IT",
+            "role": "Kengo Kuga",
+            "person": {
+                "+content": "Daniele Raffaeli",
+                "+@id": "29555"
+            }
+        },
+        {
             "+@gid": "821347027",
             "+@lang": "IT",
             "role": "Seiroku Sakamoto",
             "person": {
                 "+content": "Lorenzo De Angelis",
                 "+@id": "58334"
+            }
+        },
+        {
+            "+@gid": "1544412730",
+            "+@lang": "IT",
+            "role": "Yōsuke Mizoe",
+            "person": {
+                "+content": "Alessandro Campaiola Ward",
+                "+@id": "103411"
             }
         },
         {
@@ -227,6 +864,33 @@
             "person": {
                 "+content": "Riccardo Suarez",
                 "+@id": "131046"
+            }
+        },
+        {
+            "+@gid": "1745226415",
+            "+@lang": "IT",
+            "role": "Yajirō Yagura",
+            "person": {
+                "+content": "Andrea Di Maggio",
+                "+@id": "144553"
+            }
+        },
+        {
+            "+@gid": "1248346133",
+            "+@lang": "IT",
+            "role": "Jinemon Momokawa",
+            "person": {
+                "+content": "Stefano Alessandroni",
+                "+@id": "147183"
+            }
+        },
+        {
+            "+@gid": "196198294",
+            "+@lang": "IT",
+            "role": "Tome",
+            "person": {
+                "+content": "Valentina De Marchi",
+                "+@id": "218106"
             }
         },
         {
@@ -363,6 +1027,69 @@
                 "+content": "Kazuki Ura",
                 "+@id": "172811"
             }
+        },
+        {
+            "+@gid": "1128807450",
+            "+@lang": "PL",
+            "role": "Kengo",
+            "person": {
+                "+content": "Jan Aleksandrowicz",
+                "+@id": "101229"
+            }
+        },
+        {
+            "+@gid": "1350620175",
+            "+@lang": "PL",
+            "role": "Seiroku",
+            "person": {
+                "+content": "Lukasz Talik",
+                "+@id": "113182"
+            }
+        },
+        {
+            "+@gid": "1102694635",
+            "+@lang": "PL",
+            "role": "Jinemon",
+            "person": {
+                "+content": "Tomasz Traczyński",
+                "+@id": "128536"
+            }
+        },
+        {
+            "+@gid": "2160064890",
+            "+@lang": "PL",
+            "role": "Inako",
+            "person": {
+                "+content": "Małgorzata Prochera",
+                "+@id": "168919"
+            }
+        },
+        {
+            "+@gid": "1174650001",
+            "+@lang": "PL",
+            "role": "Yosuke",
+            "person": {
+                "+content": "Ignacy Martusewicz",
+                "+@id": "234311"
+            }
+        },
+        {
+            "+@gid": "2588807969",
+            "+@lang": "PL",
+            "role": "Kihachi",
+            "person": {
+                "+content": "Michał Chełmiński",
+                "+@id": "255412"
+            }
+        },
+        {
+            "+@gid": "2761010952",
+            "+@lang": "PL",
+            "role": "Noriko",
+            "person": {
+                "+content": "Jagoda Jasnowska",
+                "+@id": "293065"
+            }
         }
     ],
     "credit": {
@@ -374,6 +1101,6 @@
         }
     },
     "+@date-added": "2025-10-25T02:54:24Z",
-    "+@date-last-modified-at": "2026-07-02T14:29:54Z",
-    "+@date-last-updated-at": "2026-07-02T14:29:54Z"
+    "+@date-last-modified-at": "2026-08-01T17:16:15Z",
+    "+@date-last-updated-at": "2026-08-01T17:16:15Z"
 }

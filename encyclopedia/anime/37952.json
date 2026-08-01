@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Rich Girl Caretaker",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-02T14:29:47Z",
+    "+@generated-on": "2026-08-01T17:16:10Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "37950"
@@ -69,6 +69,16 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "2366050746",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "12",
+            "+@gid": "2063721720",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-04",
             "+@gid": "1326325487",
             "+@type": "Vintage"
@@ -92,9 +102,43 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "2"
+        "+@nb_votes": "2",
+        "+@weighted_score": "4.6278"
     },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "Kanpeki na Ojou-sama",
+                "+@gid": "3512367653",
+                "+@lang": "JA"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "Caretaker Day 1",
+                "+@gid": "1910625996",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "Reunion",
+                "+@gid": "3310233197",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "Lies and Secrets",
+                "+@gid": "1237564327",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "<cite>Rich Girl Caretaker</cite> Anime Confirms TV Format, July Debut in Promo Video",
@@ -282,6 +326,15 @@
             }
         },
         {
+            "+@gid": "2082489317",
+            "+@lang": "JA",
+            "role": "Yuri Hirano",
+            "person": {
+                "+content": "Kaede Hondo",
+                "+@id": "140600"
+            }
+        },
+        {
             "+@gid": "2748326069",
             "+@lang": "JA",
             "role": "Katsuya Taishō",
@@ -318,6 +371,6 @@
         }
     },
     "+@date-added": "2025-10-30T08:15:02Z",
-    "+@date-last-modified-at": "2026-07-02T14:29:54Z",
-    "+@date-last-updated-at": "2026-07-02T14:29:54Z"
+    "+@date-last-modified-at": "2026-08-01T17:16:15Z",
+    "+@date-last-updated-at": "2026-08-01T17:16:15Z"
 }
