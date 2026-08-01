@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Overflow",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-02T18:02:23Z",
+    "+@generated-on": "2026-08-01T21:10:24Z",
     "related-prev": [
         {
             "+@rel": "adapted from",
@@ -97,8 +97,8 @@
     ],
     "ratings": {
         "+@nb_votes": "39",
-        "+@weighted_score": "7.267",
-        "+@bayesian_score": "7.31777"
+        "+@weighted_score": "7.2665",
+        "+@bayesian_score": "7.31427"
     },
     "episode": [
         {
@@ -166,11 +166,18 @@
             }
         }
     ],
-    "news": {
-        "+content": "Kaiduka's <cite>Overflow</cite> Adult Manga Gets TV Anime",
-        "+@datetime": "2019-11-20T16:20:48Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2019-11-20/kaiduka-overflow-adult-manga-gets-tv-anime/.153493"
-    },
+    "news": [
+        {
+            "+content": "Kaiduka's <cite>Overflow</cite> Adult Manga Gets TV Anime",
+            "+@datetime": "2019-11-20T16:20:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2019-11-20/kaiduka-overflow-adult-manga-gets-tv-anime/.153493"
+        },
+        {
+            "+content": "OceanVeil Streams English Dubs for <cite>Overflow</cite>, <cite>Love from Above</cite> Anime",
+            "+@datetime": "2026-07-27T15:01:16Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-27/oceanveil-streams-english-dubs-for-overflow-love-from-above-anime/.240016"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1241654042",
@@ -327,6 +334,33 @@
     ],
     "cast": [
         {
+            "+@gid": "1557716169",
+            "+@lang": "EN",
+            "role": "Kazushi Sudo",
+            "person": {
+                "+content": "Ryan Hoyle",
+                "+@id": "197822"
+            }
+        },
+        {
+            "+@gid": "1110262941",
+            "+@lang": "EN",
+            "role": "Ayane Shirakawa",
+            "person": {
+                "+content": "Elizabeth Ryan",
+                "+@id": "276049"
+            }
+        },
+        {
+            "+@gid": "1537449932",
+            "+@lang": "EN",
+            "role": "Kotone Shirakawa",
+            "person": {
+                "+content": "Mana T. Johnson",
+                "+@id": "281387"
+            }
+        },
+        {
             "+@gid": "1539599600",
             "+@lang": "ES",
             "role": "Kazushi Sudō",
@@ -417,6 +451,6 @@
         }
     },
     "+@date-added": "2019-12-10T19:05:44Z",
-    "+@date-last-modified-at": "2026-07-02T18:02:28Z",
-    "+@date-last-updated-at": "2026-07-02T18:02:28Z"
+    "+@date-last-modified-at": "2026-08-01T21:10:28Z",
+    "+@date-last-updated-at": "2026-08-01T21:10:28Z"
 }
