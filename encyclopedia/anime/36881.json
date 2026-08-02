@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Daemons of the Shadow Realm",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-03T07:39:21Z",
+    "+@generated-on": "2026-08-02T10:08:38Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25181"
@@ -71,18 +71,8 @@
             "+@type": "Genres"
         },
         {
-            "+content": "drama",
-            "+@gid": "2271979272",
-            "+@type": "Genres"
-        },
-        {
             "+content": "supernatural",
             "+@gid": "1510325866",
-            "+@type": "Genres"
-        },
-        {
-            "+content": "thriller",
-            "+@gid": "1830849958",
             "+@type": "Genres"
         },
         {
@@ -184,9 +174,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "14",
-        "+@weighted_score": "6.5101",
-        "+@bayesian_score": "6.97232"
+        "+@nb_votes": "19",
+        "+@weighted_score": "6.408",
+        "+@bayesian_score": "6.8189"
     },
     "episode": [
         {
@@ -282,6 +272,46 @@
             "title": {
                 "+content": "Retainer and Shaman",
                 "+@gid": "366374901",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "Daikyo and Shokyo",
+                "+@gid": "2668471203",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "14",
+            "title": {
+                "+content": "Family and Friends",
+                "+@gid": "3516318308",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "15",
+            "title": {
+                "+content": "Yuru and Danji",
+                "+@gid": "2251814242",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "16",
+            "title": {
+                "+content": "Kagemori and Shingo",
+                "+@gid": "2512782105",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "17",
+            "title": {
+                "+content": "Crybaby and Naughty Child",
+                "+@gid": "2656036872",
                 "+@lang": "EN"
             }
         }
@@ -490,7 +520,7 @@
         {
             "+@gid": "820217070",
             "+@lang": "EN",
-            "role": "Dera",
+            "role": "Ryu \"Dera\" Tadera",
             "person": {
                 "+content": "Jarrod Greene",
                 "+@id": "110389"
@@ -758,12 +788,39 @@
             }
         },
         {
+            "+@gid": "2241582847",
+            "+@lang": "FR",
+            "role": "Ivan Yosano",
+            "person": {
+                "+content": "Martial Leminoux",
+                "+@id": "38549"
+            }
+        },
+        {
             "+@gid": "2747294307",
             "+@lang": "FR",
             "role": "Ryū Tadera",
             "person": {
                 "+content": "Bruno Choël",
                 "+@id": "53714"
+            }
+        },
+        {
+            "+@gid": "1567190144",
+            "+@lang": "FR",
+            "role": "Hayato Shingō",
+            "person": {
+                "+content": "Patrice Melennec",
+                "+@id": "54688"
+            }
+        },
+        {
+            "+@gid": "3405765253",
+            "+@lang": "FR",
+            "role": "Yamaha",
+            "person": {
+                "+content": "Frédérique Cantrel",
+                "+@id": "62619"
             }
         },
         {
@@ -830,12 +887,48 @@
             }
         },
         {
+            "+@gid": "2769769462",
+            "+@lang": "FR",
+            "role": "Ken Tadera",
+            "person": {
+                "+content": "Diane Kristanek",
+                "+@id": "188303"
+            }
+        },
+        {
+            "+@gid": "1577207130",
+            "+@lang": "FR",
+            "role": "Asuma Kagemori",
+            "person": {
+                "+content": "Mario Bastelica",
+                "+@id": "210153"
+            }
+        },
+        {
             "+@gid": "2232603260",
             "+@lang": "FR",
             "role": "Hikaru Kagemori",
             "person": {
                 "+content": "Yves Letzelter",
                 "+@id": "216361"
+            }
+        },
+        {
+            "+@gid": "2079351659",
+            "+@lang": "FR",
+            "role": "Akio Kuroya",
+            "person": {
+                "+content": "Antoine Levannier",
+                "+@id": "227765"
+            }
+        },
+        {
+            "+@gid": "1244969997",
+            "+@lang": "IT",
+            "role": "Hayato Shingo",
+            "person": {
+                "+content": "Christian Iansante",
+                "+@id": "26062"
             }
         },
         {
@@ -850,10 +943,37 @@
         {
             "+@gid": "4086079100",
             "+@lang": "IT",
-            "role": "Iva Yosano",
+            "role": "Iwan Yosano",
             "person": {
                 "+content": "Marco Vivio",
                 "+@id": "27001"
+            }
+        },
+        {
+            "+@gid": "2237530925",
+            "+@lang": "IT",
+            "role": "Ken Tadera",
+            "person": {
+                "+content": "Tatiana Dessi",
+                "+@id": "27424"
+            }
+        },
+        {
+            "+@gid": "2780575875",
+            "+@lang": "IT",
+            "role": "Daikyo",
+            "person": {
+                "+content": "Alessio Nissolino",
+                "+@id": "51106"
+            }
+        },
+        {
+            "+@gid": "1595215414",
+            "+@lang": "IT",
+            "role": "Shokyo",
+            "person": {
+                "+content": "Alessio Nissolino",
+                "+@id": "51106"
             }
         },
         {
@@ -959,6 +1079,15 @@
             "+@gid": "2132420314",
             "+@lang": "IT",
             "role": "Lepre",
+            "person": {
+                "+content": "Anna Laviola",
+                "+@id": "220653"
+            }
+        },
+        {
+            "+@gid": "678061753",
+            "+@lang": "IT",
+            "role": "Natsuki Kuroya",
             "person": {
                 "+content": "Anna Laviola",
                 "+@id": "220653"
@@ -1109,6 +1238,15 @@
             }
         },
         {
+            "+@gid": "2883975792",
+            "+@lang": "JA",
+            "role": "Makoto Tachikawa",
+            "person": {
+                "+content": "Reina Kondo",
+                "+@id": "142173"
+            }
+        },
+        {
             "+@gid": "3384991151",
             "+@lang": "JA",
             "role": "Fuyuki Kuroya",
@@ -1145,6 +1283,6 @@
         }
     },
     "+@date-added": "2025-07-05T23:01:09Z",
-    "+@date-last-modified-at": "2026-07-03T07:39:25Z",
-    "+@date-last-updated-at": "2026-07-03T07:39:25Z"
+    "+@date-last-modified-at": "2026-08-02T10:08:44Z",
+    "+@date-last-updated-at": "2026-08-02T10:08:44Z"
 }
