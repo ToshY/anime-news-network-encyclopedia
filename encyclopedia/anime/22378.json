@@ -4,7 +4,11 @@
     "+@type": "OAV",
     "+@name": "Jigokudō Reikai Tsūshin",
     "+@precision": "OAV",
-    "+@generated-on": "2026-07-03T14:32:51Z",
+    "+@generated-on": "2026-08-02T17:16:40Z",
+    "related-next": {
+        "+@id": "30156",
+        "+@rel": "remake"
+    },
     "info": [
         {
             "+@gid": "1430320138",
@@ -52,7 +56,7 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "\"Chou Kowai!\" by Jigokudō'Z",
+            "+content": "\"Chō Kowai!\" by Jigokudō'Z",
             "+@gid": "2013406408",
             "+@type": "Ending Theme"
         }
@@ -198,6 +202,24 @@
             }
         },
         {
+            "+@gid": "358126061",
+            "+@lang": "JA",
+            "role": "Yōkai",
+            "person": {
+                "+content": "Masashi Ebara",
+                "+@id": "510"
+            }
+        },
+        {
+            "+@gid": "616020323",
+            "+@lang": "JA",
+            "role": "Yoshimoto",
+            "person": {
+                "+content": "Yumi Touma",
+                "+@id": "544"
+            }
+        },
+        {
             "+@gid": "1076599473",
             "+@lang": "JA",
             "role": "Yūsuke Shiina",
@@ -223,6 +245,15 @@
                 "+content": "Ikuo Nishikawa",
                 "+@id": "5178"
             }
+        },
+        {
+            "+@gid": "2668784198",
+            "+@lang": "JA",
+            "role": "Gō Mitamura",
+            "person": {
+                "+content": "Kōji Ishii",
+                "+@id": "5888"
+            }
         }
     ],
     "credit": [
@@ -244,5 +275,6 @@
         }
     ],
     "+@date-added": "2019-07-31T21:45:47Z",
-    "+@date-last-updated-at": "2026-07-03T14:32:54Z"
+    "+@date-last-modified-at": "2026-08-02T17:16:43Z",
+    "+@date-last-updated-at": "2026-08-02T17:16:43Z"
 }
