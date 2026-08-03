@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Eiga Meitantei Precure! Fushigi na Niwa to Futari no Himitsu",
     "+@precision": "movie",
-    "+@generated-on": "2026-07-04T07:15:45Z",
+    "+@generated-on": "2026-08-03T07:47:43Z",
     "related-prev": [
         {
             "+@rel": "part of",
@@ -67,6 +67,16 @@
             "+@type": "Premiere date"
         },
         {
+            "+content": "\"FIRST PRISM\" by Yūka Masui and Chihaya Yoshitake",
+            "+@gid": "2204431779",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"First Step\" by Ami Ishii",
+            "+@gid": "1840231242",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "『映画名探偵プリキュア！』",
             "+@gid": "2310763295",
             "+@type": "Official website",
@@ -74,11 +84,18 @@
             "+@href": "https://2026.precure-movie.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Star Detective Precure!</cite> Anime Gets Film Opening on September 18",
-        "+@datetime": "2026-04-05T04:00:30Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-04-05/star-detective-precure-anime-gets-film-opening-on-september-18/.236103"
-    },
+    "news": [
+        {
+            "+content": "<cite>Star Detective Precure!</cite> Anime Gets Film Opening on September 18",
+            "+@datetime": "2026-04-05T04:00:30Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-05/star-detective-precure-anime-gets-film-opening-on-september-18/.236103"
+        },
+        {
+            "+content": "<cite>Star Detective Precure!</cite> Anime Film Reveals Main Trailer, Staff Members, Ending Song",
+            "+@datetime": "2026-07-26T08:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-26/star-detective-precure-anime-film-reveals-main-trailer-staff-members-ending-song/.239977"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2143123190",
@@ -295,6 +312,24 @@
             }
         },
         {
+            "+@gid": "1980968409",
+            "+@lang": "JA",
+            "role": "Shushutan",
+            "person": {
+                "+content": "Carin Isobe",
+                "+@id": "151629"
+            }
+        },
+        {
+            "+@gid": "704494924",
+            "+@lang": "JA",
+            "role": "Kurea Howa / Cure Eclair",
+            "person": {
+                "+content": "Ikumi Hasegawa",
+                "+@id": "151984"
+            }
+        },
+        {
             "+@gid": "2665556712",
             "+@lang": "JA",
             "role": "Meroron / Meron Tanaka / Cure Kiss",
@@ -331,6 +366,6 @@
         }
     },
     "+@date-added": "2026-04-04T21:10:26Z",
-    "+@date-last-modified-at": "2026-07-04T07:15:50Z",
-    "+@date-last-updated-at": "2026-07-04T07:15:50Z"
+    "+@date-last-modified-at": "2026-08-03T07:47:46Z",
+    "+@date-last-updated-at": "2026-08-03T07:47:46Z"
 }
