@@ -4,7 +4,11 @@
     "+@type": "TV",
     "+@name": "Case File nº221: Kabukicho",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-04T21:14:32Z",
+    "+@generated-on": "2026-08-03T21:30:49Z",
+    "related-next": {
+        "+@id": "40313",
+        "+@rel": "spinoff"
+    },
     "info": [
         {
             "+@gid": "488812566",
@@ -89,7 +93,7 @@
     "ratings": {
         "+@nb_votes": "120",
         "+@weighted_score": "7.2635",
-        "+@bayesian_score": "7.28368"
+        "+@bayesian_score": "7.28223"
     },
     "episode": [
         {
@@ -679,6 +683,14 @@
             "person": {
                 "+content": "Takurō Iga",
                 "+@id": "139873"
+            }
+        },
+        {
+            "+@gid": "2009209200",
+            "task": "Original Work",
+            "person": {
+                "+content": "Arthur Conan Doyle",
+                "+@id": "1422"
             }
         },
         {
@@ -1551,7 +1563,7 @@
         {
             "+@gid": "2251493312",
             "+@lang": "JA",
-            "role": "Fuyuto Kyogoku",
+            "role": "Fuyuto Kyōgoku",
             "person": {
                 "+content": "Sōma Saitō",
                 "+@id": "104960"
@@ -1644,6 +1656,6 @@
         }
     ],
     "+@date-added": "2018-11-08T22:14:30Z",
-    "+@date-last-modified-at": "2026-07-04T21:14:34Z",
-    "+@date-last-updated-at": "2026-07-04T21:14:34Z"
+    "+@date-last-modified-at": "2026-08-03T21:30:51Z",
+    "+@date-last-updated-at": "2026-08-03T21:30:51Z"
 }

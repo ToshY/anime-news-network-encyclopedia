@@ -2,9 +2,9 @@
     "+@id": "33644",
     "+@gid": "491762989",
     "+@type": "manga",
-    "+@name": "Learning to Love My Cat-like Classmate",
+    "+@name": "Deskmate Cat and the Love Novice",
     "+@precision": "manga",
-    "+@generated-on": "2026-07-04T17:27:44Z",
+    "+@generated-on": "2026-08-03T21:30:46Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "19739"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "The Deskmate Cat and the Love Novice",
+            "+@gid": "1697052423",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Learning to Love My Cat-like Classmate",
             "+@gid": "2276106918",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "EN"
         },
         {
@@ -88,11 +94,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Manga Up! Adds <cite>Learning to Love My Cat-like Classmate</cite> Manga",
-        "+@datetime": "2024-10-03T15:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2024-10-03/manga-up-adds-learning-to-love-my-cat-like-classmate-manga/.216314"
-    },
+    "news": [
+        {
+            "+content": "Manga Up! Adds <cite>Learning to Love My Cat-like Classmate</cite> Manga",
+            "+@datetime": "2024-10-03T15:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2024-10-03/manga-up-adds-learning-to-love-my-cat-like-classmate-manga/.216314"
+        },
+        {
+            "+content": "Yen Press Licenses <cite>'Watching the Angel Sleep, Drowning in Bed Together'</cite> Yuri Light Novel; 9 Manga",
+            "+@datetime": "2026-07-24T23:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-24/yen-press-licenses-watching-the-angel-sleep-drowning-in-bed-together-yuri-light-novel-9-manga/.239921"
+        }
+    ],
     "staff": {
         "+@gid": "2442600446",
         "task": "Story & Art",
@@ -102,5 +115,6 @@
         }
     },
     "+@date-added": "2024-10-03T12:18:11Z",
-    "+@date-last-updated-at": "2026-07-04T17:27:45Z"
+    "+@date-last-modified-at": "2026-08-03T21:30:48Z",
+    "+@date-last-updated-at": "2026-08-03T21:30:48Z"
 }
