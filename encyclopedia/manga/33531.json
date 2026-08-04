@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Toshokan no Tensai Shōjo",
     "+@precision": "manga",
-    "+@generated-on": "2026-07-05T04:30:39Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "22381"
-    },
+    "+@generated-on": "2026-08-04T14:40:10Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "22381"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "40295"
+        }
+    ],
     "info": [
         {
             "+@gid": "503907921",
@@ -90,5 +96,6 @@
         }
     ],
     "+@date-added": "2024-09-14T18:01:21Z",
-    "+@date-last-updated-at": "2026-07-05T04:30:41Z"
+    "+@date-last-modified-at": "2026-08-04T14:40:12Z",
+    "+@date-last-updated-at": "2026-08-04T14:40:12Z"
 }
