@@ -1,10 +1,10 @@
 {
     "+@id": "40222",
     "+@gid": "253599577",
-    "+@type": "TV",
+    "+@type": "special",
     "+@name": "Bananya At Home Party",
-    "+@precision": "TV",
-    "+@generated-on": "2026-07-05T04:30:35Z",
+    "+@precision": "special",
+    "+@generated-on": "2026-08-04T06:08:09Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "33396"
@@ -59,6 +59,10 @@
             "+@href": "https://bananya.jp/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "6.914"
+    },
     "news": {
         "+content": "<cite>Bananya</cite> Franchise Confirms New 10th Anniversary Anime Debuting on July 10",
         "+@datetime": "2026-06-30T11:24:51Z",
@@ -79,6 +83,62 @@
             "person": {
                 "+content": "Masahiro Takata",
                 "+@id": "35803"
+            }
+        },
+        {
+            "+@gid": "1679759643",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kyō Yatate",
+                "+@id": "100968"
+            }
+        },
+        {
+            "+@gid": "1638729015",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Tomohiro Tsukimisato",
+                "+@id": "112481"
+            }
+        },
+        {
+            "+@gid": "2577224298",
+            "task": "Music",
+            "person": {
+                "+content": "Akiyuki Tateyama",
+                "+@id": "139125"
+            }
+        },
+        {
+            "+@gid": "3316360318",
+            "task": "Art Director",
+            "person": {
+                "+content": "Shizuka Gotō",
+                "+@id": "147182"
+            }
+        },
+        {
+            "+@gid": "1392180136",
+            "task": "Animation Character Design",
+            "person": {
+                "+content": "Kyō Yatate",
+                "+@id": "100968"
+            }
+        },
+        {
+            "+@gid": "2826607427",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Nobuyuki Abe",
+                "+@id": "46537"
+            }
+        },
+        {
+            "+@gid": "3661059044",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Hazumu Sakuta",
+                "+@id": "142392"
             }
         }
     ],
@@ -148,5 +208,6 @@
         }
     ],
     "+@date-added": "2026-06-30T05:08:39Z",
-    "+@date-last-updated-at": "2026-07-05T04:30:36Z"
+    "+@date-last-modified-at": "2026-08-04T06:41:52Z",
+    "+@date-last-updated-at": "2026-08-04T06:41:52Z"
 }
