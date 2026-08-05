@@ -2,9 +2,9 @@
     "+@id": "39391",
     "+@gid": "2912612500",
     "+@type": "TV",
-    "+@name": "Kanojo no Tomodachi",
+    "+@name": "My Girlfriend's Friend",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-06T04:40:11Z",
+    "+@generated-on": "2026-08-05T06:02:09Z",
     "related-prev": [
         {
             "+@rel": "adapted from",
@@ -19,26 +19,32 @@
         {
             "+@gid": "2353378325",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39391-2353378325.1781172971.jpg",
-            "+@width": "124",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39391-2353378325.1785035616.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39391-2353378325.1781172971.jpg",
-                    "+@width": "124",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39391-2353378325.1785035616.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A39391-2353378325.1781172971.jpg",
-                    "+@width": "373",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A39391-2353378325.1785035616.jpg",
+                    "+@width": "422",
                     "+@height": "600"
                 }
             ]
         },
         {
+            "+content": "My Girlfriend's Friend",
+            "+@gid": "2049906156",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Kanojo no Tomodachi",
             "+@gid": "2306425761",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -60,11 +66,18 @@
             "+@href": "https://kanojo-no-tomodachi.deregula.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Kanojo no Tomodachi</cite> Anime Reveals Cast, Staff, October TV Premiere",
-        "+@datetime": "2026-06-11T08:01:01Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-06-11/kanojo-no-tomodachi-anime-reveals-cast-staff-october-tv-premiere/.238398"
-    },
+    "news": [
+        {
+            "+content": "<cite>Kanojo no Tomodachi</cite> Anime Reveals Cast, Staff, October TV Premiere",
+            "+@datetime": "2026-06-11T08:01:01Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-11/kanojo-no-tomodachi-anime-reveals-cast-staff-october-tv-premiere/.238398"
+        },
+        {
+            "+content": "<cite>My Girlfriend's Friend</cite> TV Anime Reveals Teaser Video, More Staff Members",
+            "+@datetime": "2026-07-06T10:15:29Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-06/my-girlfriend-friend-tv-anime-reveals-teaser-video-more-staff-members/.239359"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2007802558",
@@ -77,6 +90,14 @@
         {
             "+@gid": "1458108358",
             "task": "Series Composition",
+            "person": {
+                "+content": "Gokō Shiraki",
+                "+@id": "283803"
+            }
+        },
+        {
+            "+@gid": "1970547075",
+            "task": "Script",
             "person": {
                 "+content": "Gokō Shiraki",
                 "+@id": "283803"
@@ -99,6 +120,38 @@
             }
         },
         {
+            "+@gid": "2980413957",
+            "task": "Art Director",
+            "person": {
+                "+content": "Hoan Kim",
+                "+@id": "205562"
+            }
+        },
+        {
+            "+@gid": "1674427913",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Akira Koshiishi",
+                "+@id": "63892"
+            }
+        },
+        {
+            "+@gid": "929991544",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Konatsu Kumagai",
+                "+@id": "177574"
+            }
+        },
+        {
+            "+@gid": "3039965589",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Ryūji Iwata",
+                "+@id": "260137"
+            }
+        },
+        {
             "+@gid": "2599184120",
             "task": "Sound Director",
             "person": {
@@ -112,6 +165,14 @@
             "person": {
                 "+content": "Makoto Tōgō",
                 "+@id": "88487"
+            }
+        },
+        {
+            "+@gid": "2732922886",
+            "task": "Producer",
+            "person": {
+                "+content": "Takafumi Suzuki",
+                "+@id": "299837"
             }
         }
     ],
@@ -171,6 +232,6 @@
         }
     ],
     "+@date-added": "2026-05-06T19:25:45Z",
-    "+@date-last-modified-at": "2026-07-06T04:40:16Z",
-    "+@date-last-updated-at": "2026-07-06T04:40:16Z"
+    "+@date-last-modified-at": "2026-08-05T06:42:42Z",
+    "+@date-last-updated-at": "2026-08-05T06:42:42Z"
 }
