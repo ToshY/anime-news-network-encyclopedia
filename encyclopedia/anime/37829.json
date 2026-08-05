@@ -2,13 +2,23 @@
     "+@id": "37829",
     "+@gid": "1187692682",
     "+@type": "TV",
-    "+@name": "BanG Dream! Yume∞Mita",
+    "+@name": "BanG Dream! YUME∞MITA",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-06T17:39:45Z",
+    "+@generated-on": "2026-08-05T20:47:12Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "18693"
     },
+    "related-next": [
+        {
+            "+@id": "40317",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "40319",
+            "+@rel": "spinoff"
+        }
+    ],
     "info": [
         {
             "+@gid": "2596928076",
@@ -35,7 +45,7 @@
             ]
         },
         {
-            "+content": "BanG Dream! Yume∞Mita",
+            "+content": "BanG Dream! YUME∞MITA",
             "+@gid": "3045836425",
             "+@type": "Main title",
             "+@lang": "JA"
@@ -45,6 +55,11 @@
             "+@gid": "3209387899",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "706522515",
+            "+@type": "Genres"
         },
         {
             "+content": "music",
@@ -57,6 +72,16 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "1525401630",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "13",
+            "+@gid": "1928052682",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-02",
             "+@gid": "1222239365",
             "+@type": "Vintage"
@@ -65,6 +90,11 @@
             "+content": "\"Kore wa Boku-tachi no Seizon no Arasuji\" (これはぼくたちの生存のあらすじ; Our Survival) by Mugendai Mewtype",
             "+@gid": "1427564446",
             "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Uchū no Fushigi\" (うちゅうのふしぎ; Wonder of the Universe) by Mugendai Mewtype",
+            "+@gid": "1207105605",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ「バンドリ！ ゆめ∞みた」公式サイト",
@@ -99,6 +129,16 @@
             "+content": "Crunchyroll to Stream <cite>One Piece Heroines</cite>, <cite>BanG Dream! Yume∞Mita</cite>, <cite>The Frontier Lord Begins with Zero Subjects</cite>, More Anime",
             "+@datetime": "2026-06-30T16:03:25Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-30/crunchyroll-to-stream-one-piece-heroines-bang-dream-yume-mita-the-frontier-lord-begins-with-zero-/.239144"
+        },
+        {
+            "+content": "<cite>BanG Dream! Yume∞Mita</cite> Anime Gets Manga Adaptation, Mugendai Mewtype Keyboardist Miyako Fuji Launches New Manga",
+            "+@datetime": "2026-07-09T07:33:05Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-09/bang-dream-yume-mita-anime-gets-manga-adaptation-mugendai-mewtype-keyboardist-miyako-fuji-launches-/.239357"
+        },
+        {
+            "+content": "Muse India Streams <cite>The World Is Dancing</cite>, <cite>BanG Dream! Yume∞Mita</cite>, More Anime",
+            "+@datetime": "2026-07-10T06:26:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-10/muse-india-streams-the-world-is-dancing-bang-dream-yume-mita-more-anime/.239389"
         }
     ],
     "staff": [
@@ -217,6 +257,15 @@
     ],
     "cast": [
         {
+            "+@gid": "1994572068",
+            "+@lang": "JA",
+            "role": "Utada Yume",
+            "person": {
+                "+content": "Akira Sekine",
+                "+@id": "127847"
+            }
+        },
+        {
             "+@gid": "2779130099",
             "+@lang": "JA",
             "role": "Viola",
@@ -295,6 +344,6 @@
         }
     ],
     "+@date-added": "2025-09-07T20:26:48Z",
-    "+@date-last-modified-at": "2026-07-06T18:21:16Z",
-    "+@date-last-updated-at": "2026-07-06T18:21:16Z"
+    "+@date-last-modified-at": "2026-08-05T21:33:41Z",
+    "+@date-last-updated-at": "2026-08-05T21:33:41Z"
 }

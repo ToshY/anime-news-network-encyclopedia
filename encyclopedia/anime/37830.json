@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Gekijōban Ansatsu Kyōshitsu Minna no Jikan",
     "+@precision": "movie",
-    "+@generated-on": "2026-07-06T17:39:45Z",
+    "+@generated-on": "2026-08-05T21:33:36Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "18752"
@@ -36,6 +36,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Assassination Classroom the Movie: Our Time",
+            "+@gid": "2248690979",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "劇場版「暗殺教室」みんなの時間",
             "+@gid": "1700973065",
             "+@type": "Alternative title",
@@ -58,6 +64,10 @@
             "+@href": "https://www.ansatsu-anime.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "8"
+    },
     "news": [
         {
             "+content": "<cite>Assassination Classroom</cite> Manga Gets New Anime Film in 2026",
@@ -108,6 +118,11 @@
             "+content": "<cite>Detective Conan: Fallen Angel of the Highway</cite> Anime Film Opens at #1, 2026 <cite>Doraemon</cite> Film Drops to #2",
             "+@datetime": "2026-04-16T08:53:46Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-16/detective-conan-fallen-angel-of-the-highway-anime-film-opens-at-no.1-2026-doraemon-film-drops-to-/.236344"
+        },
+        {
+            "+content": "Crunchyroll Adds New <cite>Assassination Classroom</cite> Film",
+            "+@datetime": "2026-07-22T19:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-22/crunchyroll-adds-new-assassination-classroom-film/.239871"
         }
     ],
     "staff": [
@@ -161,6 +176,375 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "3088756962",
+            "+@lang": "EN",
+            "role": "Koro Sensei",
+            "person": {
+                "+content": "Sonny Strait",
+                "+@id": "1127"
+            }
+        },
+        {
+            "+@gid": "2146789810",
+            "+@lang": "EN",
+            "role": "Kaede Kayano",
+            "person": {
+                "+content": "Monica Rial",
+                "+@id": "2074"
+            }
+        },
+        {
+            "+@gid": "2018730727",
+            "+@lang": "EN",
+            "role": "Yuma Isogai",
+            "person": {
+                "+content": "Jerry Jewell",
+                "+@id": "10063"
+            }
+        },
+        {
+            "+@gid": "3460352877",
+            "+@lang": "EN",
+            "role": "Mario",
+            "person": {
+                "+content": "Phil Parsons",
+                "+@id": "10794"
+            }
+        },
+        {
+            "+@gid": "947164836",
+            "+@lang": "EN",
+            "role": "Rinka Hayami",
+            "person": {
+                "+content": "Jamie Marchi",
+                "+@id": "13966"
+            }
+        },
+        {
+            "+@gid": "1585324333",
+            "+@lang": "EN",
+            "role": "Ryunosuke Chiba",
+            "person": {
+                "+content": "Zach Bolton",
+                "+@id": "29204"
+            }
+        },
+        {
+            "+@gid": "1943603282",
+            "+@lang": "EN",
+            "role": "Yukiko Kanzaki",
+            "person": {
+                "+content": "Leah Clark",
+                "+@id": "31217"
+            }
+        },
+        {
+            "+@gid": "1763788651",
+            "+@lang": "EN",
+            "role": "Tadaomi Karasuma",
+            "person": {
+                "+content": "Chris Ryan",
+                "+@id": "34203"
+            }
+        },
+        {
+            "+@gid": "1725258333",
+            "+@lang": "EN",
+            "role": "Koki Mimura",
+            "person": {
+                "+content": "Joel McDonald",
+                "+@id": "35993"
+            }
+        },
+        {
+            "+@gid": "1711174931",
+            "+@lang": "EN",
+            "role": "Futoshi",
+            "person": {
+                "+content": "Barry Yandell",
+                "+@id": "37371"
+            }
+        },
+        {
+            "+@gid": "988928214",
+            "+@lang": "EN",
+            "role": "Taisei Yoshida",
+            "person": {
+                "+content": "Orion Pitts",
+                "+@id": "42611"
+            }
+        },
+        {
+            "+@gid": "1041537590",
+            "+@lang": "EN",
+            "role": "Tomoya Seo",
+            "person": {
+                "+content": "David Trosko",
+                "+@id": "42613"
+            }
+        },
+        {
+            "+@gid": "216193344",
+            "+@lang": "EN",
+            "role": "Sumire Hara",
+            "person": {
+                "+content": "Michelle Lee",
+                "+@id": "52992"
+            }
+        },
+        {
+            "+@gid": "1397499137",
+            "+@lang": "EN",
+            "role": "Kotaro Takebayashi",
+            "person": {
+                "+content": "Scott Hinze",
+                "+@id": "64513"
+            }
+        },
+        {
+            "+@gid": "2925627672",
+            "+@lang": "EN",
+            "role": "Hiroto Maehara",
+            "person": {
+                "+content": "Chris Burnett",
+                "+@id": "66161"
+            }
+        },
+        {
+            "+@gid": "1872429478",
+            "+@lang": "EN",
+            "role": "Kaho Tsuchiya",
+            "person": {
+                "+content": "Jad Saxton",
+                "+@id": "71281"
+            }
+        },
+        {
+            "+@gid": "1060639750",
+            "+@lang": "EN",
+            "role": "Sosuke Sugaya",
+            "person": {
+                "+content": "Kyle Phillips",
+                "+@id": "72635"
+            }
+        },
+        {
+            "+@gid": "442317927",
+            "+@lang": "EN",
+            "role": "Kirara Hazama",
+            "person": {
+                "+content": "Terri Doty",
+                "+@id": "74567"
+            }
+        },
+        {
+            "+@gid": "1996338621",
+            "+@lang": "EN",
+            "role": "Takuya Muramatsu",
+            "person": {
+                "+content": "Eric Cherry",
+                "+@id": "77980"
+            }
+        },
+        {
+            "+@gid": "952948495",
+            "+@lang": "EN",
+            "role": "Rio Nakamura",
+            "person": {
+                "+content": "Apphia Yu",
+                "+@id": "81963"
+            }
+        },
+        {
+            "+@gid": "1183970116",
+            "+@lang": "EN",
+            "role": "Nagisa Shiota",
+            "person": {
+                "+content": "Lindsay Seidel",
+                "+@id": "83913"
+            }
+        },
+        {
+            "+@gid": "1891333831",
+            "+@lang": "EN",
+            "role": "Irina Jelavić",
+            "person": {
+                "+content": "Martha Harms",
+                "+@id": "97217"
+            }
+        },
+        {
+            "+@gid": "1874865959",
+            "+@lang": "EN",
+            "role": "Karma Akabane",
+            "person": {
+                "+content": "Austin Tindle",
+                "+@id": "97965"
+            }
+        },
+        {
+            "+@gid": "3292751359",
+            "+@lang": "EN",
+            "role": "Itona Horibe",
+            "person": {
+                "+content": "Ricco Fajardo",
+                "+@id": "107339"
+            }
+        },
+        {
+            "+@gid": "3232861807",
+            "+@lang": "EN",
+            "role": "Meg Kataoka",
+            "person": {
+                "+content": "Morgan Garrett",
+                "+@id": "107863"
+            }
+        },
+        {
+            "+@gid": "3114648471",
+            "+@lang": "EN",
+            "role": "Toka Yada",
+            "person": {
+                "+content": "Michelle Rojas",
+                "+@id": "115434"
+            }
+        },
+        {
+            "+@gid": "817947851",
+            "+@lang": "EN",
+            "role": "Manami Okuda",
+            "person": {
+                "+content": "Felecia Angelle",
+                "+@id": "120890"
+            }
+        },
+        {
+            "+@gid": "960370285",
+            "+@lang": "EN",
+            "role": "Tomohito Sugino",
+            "person": {
+                "+content": "Clifford Chapin",
+                "+@id": "122114"
+            }
+        },
+        {
+            "+@gid": "2851338714",
+            "+@lang": "EN",
+            "role": "Ryoma Terasaka",
+            "person": {
+                "+content": "Marcus D. Stimac",
+                "+@id": "125457"
+            }
+        },
+        {
+            "+@gid": "3022416598",
+            "+@lang": "EN",
+            "role": "Taiga Okajima",
+            "person": {
+                "+content": "Nick Haley",
+                "+@id": "126055"
+            }
+        },
+        {
+            "+@gid": "1639452904",
+            "+@lang": "EN",
+            "role": "Ritsu",
+            "person": {
+                "+content": "Bryn Apprill",
+                "+@id": "126375"
+            }
+        },
+        {
+            "+@gid": "1867001596",
+            "+@lang": "EN",
+            "role": "Hinano Kurahashi",
+            "person": {
+                "+content": "Kristen McGuire",
+                "+@id": "127814"
+            }
+        },
+        {
+            "+@gid": "2238035349",
+            "+@lang": "EN",
+            "role": "Hinata Okano",
+            "person": {
+                "+content": "Didi Archilla",
+                "+@id": "143659"
+            }
+        },
+        {
+            "+@gid": "1254707447",
+            "+@lang": "EN",
+            "role": "Kokona Tagawa",
+            "person": {
+                "+content": "Emi Lo",
+                "+@id": "174014"
+            }
+        },
+        {
+            "+@gid": "1973520811",
+            "+@lang": "EN",
+            "role": "Sengoku",
+            "person": {
+                "+content": "William Ofoegbu",
+                "+@id": "222655"
+            }
+        },
+        {
+            "+@gid": "1487264686",
+            "+@lang": "EN",
+            "role": "Yuzuki Fuwa",
+            "person": {
+                "+content": "Rebecca Danae",
+                "+@id": "249604"
+            }
+        },
+        {
+            "+@gid": "2381305337",
+            "+@lang": "EN",
+            "role": "Hotaru",
+            "person": {
+                "+content": "Rebecca Chiara Marano",
+                "+@id": "251386"
+            }
+        },
+        {
+            "+@gid": "2220247802",
+            "+@lang": "EN",
+            "role": "Chantha",
+            "person": {
+                "+content": "Daryl Mayfield",
+                "+@id": "253516"
+            }
+        },
+        {
+            "+@gid": "3066968385",
+            "+@lang": "EN",
+            "role": "Seeker",
+            "person": {
+                "+content": "Nick Huber",
+                "+@id": "253890"
+            }
+        },
+        {
+            "+@gid": "3529380678",
+            "+@lang": "EN",
+            "role": "Azusa",
+            "person": {
+                "+content": "Jaclyn Thomas",
+                "+@id": "263371"
+            }
+        },
+        {
+            "+@gid": "434854454",
+            "+@lang": "EN",
+            "role": "Masayoshi Kimura",
+            "person": {
+                "+content": "Dylan Ray Owen",
+                "+@id": "282192"
+            }
+        },
         {
             "+@gid": "1369095019",
             "+@lang": "JA",
@@ -267,6 +651,15 @@
             "person": {
                 "+content": "Shiho Kawaragi",
                 "+@id": "25260"
+            }
+        },
+        {
+            "+@gid": "494726369",
+            "+@lang": "JA",
+            "role": "Tomoyo Seo",
+            "person": {
+                "+content": "Shun Takagi",
+                "+@id": "32342"
             }
         },
         {
@@ -531,5 +924,6 @@
         }
     },
     "+@date-added": "2025-09-07T21:25:38Z",
-    "+@date-last-updated-at": "2026-07-06T18:21:16Z"
+    "+@date-last-modified-at": "2026-08-05T21:33:41Z",
+    "+@date-last-updated-at": "2026-08-05T21:33:41Z"
 }
