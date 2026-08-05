@@ -2,9 +2,9 @@
     "+@id": "33393",
     "+@gid": "2209756885",
     "+@type": "manga",
-    "+@name": "List Rouge",
+    "+@name": "Liste Rouge",
     "+@precision": "manga",
-    "+@generated-on": "2026-07-05T17:32:22Z",
+    "+@generated-on": "2026-08-05T03:34:12Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "20059"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "Liste Rouge",
+            "+@gid": "2336098819",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "List Rouge",
             "+@gid": "2391462336",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "EN"
         },
         {
@@ -67,11 +73,18 @@
         "+@date": "2026-07-28",
         "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=58422"
     },
-    "news": {
-        "+content": "Yen Press Licenses <cite>The Bubble Love of the Mermaid</cite> Manga, <cite>Love Unseen Beneath the Radiant Night Sky</cite> Novels, More Titles",
-        "+@datetime": "2026-01-16T18:10:19Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-01-16/yen-press-licenses-the-bubble-love-of-the-mermaid-manga-love-unseen-beneath-the-radiant-night-sky-/.233155"
-    },
+    "news": [
+        {
+            "+content": "Yen Press Licenses <cite>The Bubble Love of the Mermaid</cite> Manga, <cite>Love Unseen Beneath the Radiant Night Sky</cite> Novels, More Titles",
+            "+@datetime": "2026-01-16T18:10:19Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-16/yen-press-licenses-the-bubble-love-of-the-mermaid-manga-love-unseen-beneath-the-radiant-night-sky-/.233155"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, July 26-August 1",
+            "+@datetime": "2026-07-31T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-31/north-american-anime-manga-releases-july-26-august-1/.240026"
+        }
+    ],
     "staff": {
         "+@gid": "2419286220",
         "task": "Story & Art",
@@ -81,5 +94,6 @@
         }
     },
     "+@date-added": "2024-08-26T19:33:40Z",
-    "+@date-last-updated-at": "2026-07-05T17:32:25Z"
+    "+@date-last-modified-at": "2026-08-05T03:34:14Z",
+    "+@date-last-updated-at": "2026-08-05T03:34:14Z"
 }
