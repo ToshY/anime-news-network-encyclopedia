@@ -2,9 +2,9 @@
     "+@id": "6848",
     "+@gid": "1796453429",
     "+@type": "special",
-    "+@name": "Toshishun",
+    "+@name": "Du Zichun",
     "+@precision": "special",
-    "+@generated-on": "2026-04-09T21:04:33Z",
+    "+@generated-on": "2026-08-05T10:46:35Z",
     "info": [
         {
             "+@gid": "1046797970",
@@ -26,9 +26,15 @@
             ]
         },
         {
+            "+content": "Du Zichun",
+            "+@gid": "2553959205",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Toshishun",
             "+@gid": "926037075",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -91,15 +97,15 @@
     ],
     "ratings": {
         "+@nb_votes": "3",
-        "+@weighted_score": "8.2769"
+        "+@weighted_score": "8.2768"
     },
     "staff": [
         {
-            "+@gid": "2796335384",
+            "+@gid": "2958970285",
             "task": "Director",
             "person": {
-                "+content": "Takeichi Saito",
-                "+@id": "59119"
+                "+content": "Buichi Saitō",
+                "+@id": "54898"
             }
         },
         {
@@ -113,6 +119,14 @@
         {
             "+@gid": "1813176504",
             "task": "Storyboard",
+            "person": {
+                "+content": "Hideo Nishimaki",
+                "+@id": "3352"
+            }
+        },
+        {
+            "+@gid": "999141929",
+            "task": "Unit Director",
             "person": {
                 "+content": "Hideo Nishimaki",
                 "+@id": "3352"
@@ -135,6 +149,14 @@
             }
         },
         {
+            "+@gid": "1629630958",
+            "task": "Art Director",
+            "person": {
+                "+content": "Takeo Kimura",
+                "+@id": "260338"
+            }
+        },
+        {
             "+@gid": "2524131682",
             "task": "Animation Director",
             "person": {
@@ -143,24 +165,115 @@
             }
         },
         {
+            "+@gid": "1980368341",
+            "task": "Original Novel",
+            "person": {
+                "+content": "Ryūnosuke Akutagawa",
+                "+@id": "82055"
+            }
+        },
+        {
             "+@gid": "2943202553",
             "task": "Producer",
             "person": {
-                "+content": "Yuji Tanno",
+                "+content": "Yūji Tanno",
                 "+@id": "59118"
             }
         }
     ],
-    "cast": {
-        "+@gid": "2543801135",
-        "+@lang": "JA",
-        "role": "Toshishun",
-        "person": {
-            "+content": "Jukichi Uno",
-            "+@id": "59108"
+    "cast": [
+        {
+            "+@gid": "2175777963",
+            "+@lang": "JA",
+            "role": "Lu",
+            "person": {
+                "+content": "Takeshi Aono",
+                "+@id": "956"
+            }
+        },
+        {
+            "+@gid": "2084981681",
+            "+@lang": "JA",
+            "role": "Du Zichun",
+            "person": {
+                "+content": "Yoshiko Ohta",
+                "+@id": "2085"
+            }
+        },
+        {
+            "+@gid": "2688313887",
+            "+@lang": "JA",
+            "role": "Zhen",
+            "person": {
+                "+content": "Masahiro Anzai",
+                "+@id": "3407"
+            }
+        },
+        {
+            "+@gid": "2187184622",
+            "+@lang": "JA",
+            "role": "Bailian",
+            "person": {
+                "+content": "Noriko Ohara",
+                "+@id": "3410"
+            }
+        },
+        {
+            "+@gid": "2761676006",
+            "+@lang": "JA",
+            "role": "Lan",
+            "person": {
+                "+content": "Yōko Asagami",
+                "+@id": "5081"
+            }
+        },
+        {
+            "+@gid": "265376752",
+            "+@lang": "JA",
+            "role": "Fan Bianwai",
+            "person": {
+                "+content": "Chikao Ōtsuka",
+                "+@id": "5581"
+            }
+        },
+        {
+            "+@gid": "3195261146",
+            "+@lang": "JA",
+            "role": "Xian",
+            "person": {
+                "+content": "Jukichi Uno",
+                "+@id": "59108"
+            }
+        },
+        {
+            "+@gid": "1360518271",
+            "+@lang": "JA",
+            "role": "Narration",
+            "person": {
+                "+content": "Mihoko Inagaki",
+                "+@id": "59109"
+            }
         }
-    },
+    ],
+    "credit": [
+        {
+            "+@gid": "2574563079",
+            "task": "Production",
+            "company": {
+                "+content": "Tokyo Broadcasting System",
+                "+@id": "552"
+            }
+        },
+        {
+            "+@gid": "1201040518",
+            "task": "Production",
+            "company": {
+                "+content": "Dax International",
+                "+@id": "903"
+            }
+        }
+    ],
     "+@date-added": "2006-09-13T05:42:55Z",
-    "+@date-last-modified-at": "2026-04-09T21:04:36Z",
-    "+@date-last-updated-at": "2026-04-09T21:04:36Z"
+    "+@date-last-modified-at": "2026-08-05T10:46:40Z",
+    "+@date-last-updated-at": "2026-08-05T10:46:40Z"
 }
