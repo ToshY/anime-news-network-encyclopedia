@@ -2,9 +2,9 @@
     "+@id": "37985",
     "+@gid": "2573351772",
     "+@type": "TV",
-    "+@name": "Ojisan wa Kawaii Mono ga Osuki.",
+    "+@name": "Uncle’s Obsession with Cute Things",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-07T11:19:12Z",
+    "+@generated-on": "2026-08-06T14:06:28Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "37984"
@@ -13,38 +13,33 @@
         {
             "+@gid": "2510614608",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37985-2510614608.1762611412.jpg",
-            "+@width": "200",
-            "+@height": "113",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37985-2510614608.1785504619.jpg",
+            "+@width": "141",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37985-2510614608.1762611412.jpg",
-                    "+@width": "200",
-                    "+@height": "113"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37985-2510614608.1785504619.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37985-2510614608.1762611412.jpg",
-                    "+@width": "500",
-                    "+@height": "282"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37985-2510614608.1762611412.jpg",
-                    "+@width": "600",
-                    "+@height": "338"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37985-2510614608.1785504619.jpg",
+                    "+@width": "422",
+                    "+@height": "600"
                 }
             ]
         },
         {
-            "+content": "Ojisan wa Kawaii Mono ga Osuki.",
-            "+@gid": "2271483186",
-            "+@type": "Main title",
-            "+@lang": "JA"
-        },
-        {
             "+content": "Uncle’s Obsession with Cute Things",
             "+@gid": "2795074635",
-            "+@type": "Alternative title",
+            "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Ojisan wa Kawaii Mono ga Osuki.",
+            "+@gid": "2271483186",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
         },
         {
             "+content": "おじさんはカワイイものがお好き。",
@@ -58,7 +53,7 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026-10",
+            "+content": "2026-10-04",
             "+@gid": "2096310331",
             "+@type": "Vintage"
         },
@@ -70,11 +65,28 @@
             "+@href": "https://ojikawa.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Ojisan wa Kawaii Mono ga Osuki.</cite> Anime's Video Reveals Cast, Staff, October TV Debut",
-        "+@datetime": "2026-06-18T10:36:54Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-06-18/ojisan-wa-kawaii-mono-ga-osuki-anime-video-reveals-cast-staff-october-tv-debut/.238657"
-    },
+    "news": [
+        {
+            "+content": "<cite>Ojisan wa Kawaii Mono ga Osuki.</cite> Anime's Video Reveals Cast, Staff, October TV Debut",
+            "+@datetime": "2026-06-18T10:36:54Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-18/ojisan-wa-kawaii-mono-ga-osuki-anime-video-reveals-cast-staff-october-tv-debut/.238657"
+        },
+        {
+            "+content": "<cite>Ojisan wa Kawaii Mono ga Osuki.</cite> TV Anime Reveals More Cast, Visual, October 4 Debut",
+            "+@datetime": "2026-07-31T09:26:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-31/ojisan-wa-kawaii-mono-ga-osuki-tv-anime-reveals-more-cast-visual-october-4-debut/.240149"
+        },
+        {
+            "+content": "Crunchyroll to Stream <cite>Eleceed, FX Fighter Kurumi-chan, Uncle's Obsession with Cute Things</cite>, More Anime; English Dub for <cite>Sound! Euphonium</cite>",
+            "+@datetime": "2026-08-02T05:35:45Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-02/crunchyroll-to-stream-eleceed-fx-fighter-kurumi-chan-uncle-obsession-with-cute-things-more-anime-/.240182"
+        },
+        {
+            "+content": "<cite>FX Fighter Kurumi-chan</cite>, <cite>Uncle's Obsession with Cute Things</cite>, <cite>ELECEED</cite> Anime to Stream in India",
+            "+@datetime": "2026-08-03T09:39:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-03/fx-fighter-kurumi-chan-uncle-obsession-with-cute-things-eleceed-anime-to-stream-in-india/.240196"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3856493970",
@@ -151,6 +163,15 @@
     ],
     "cast": [
         {
+            "+@gid": "2252984366",
+            "+@lang": "JA",
+            "role": "Wataru Naruto",
+            "person": {
+                "+content": "Yūki Kaji",
+                "+@id": "58051"
+            }
+        },
+        {
             "+@gid": "3961150891",
             "+@lang": "JA",
             "role": "Mitsutaka Oji",
@@ -160,12 +181,30 @@
             }
         },
         {
+            "+@gid": "2041983176",
+            "+@lang": "JA",
+            "role": "Kenta Kawai",
+            "person": {
+                "+content": "Takuya Eguchi",
+                "+@id": "76338"
+            }
+        },
+        {
             "+@gid": "1047427462",
             "+@lang": "JA",
             "role": "Carrie",
             "person": {
                 "+content": "Asami Tano",
                 "+@id": "100861"
+            }
+        },
+        {
+            "+@gid": "4015559716",
+            "+@lang": "JA",
+            "role": "Masumi Nii",
+            "person": {
+                "+content": "Ayumu Murase",
+                "+@id": "113308"
             }
         },
         {
@@ -214,6 +253,6 @@
         }
     },
     "+@date-added": "2025-11-08T09:16:17Z",
-    "+@date-last-modified-at": "2026-07-07T11:19:16Z",
-    "+@date-last-updated-at": "2026-07-07T11:19:16Z"
+    "+@date-last-modified-at": "2026-08-06T14:35:47Z",
+    "+@date-last-updated-at": "2026-08-06T14:35:47Z"
 }

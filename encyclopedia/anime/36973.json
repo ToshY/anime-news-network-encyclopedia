@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Honō no Tōkyūjo: Dodge Danko",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-07T11:19:12Z",
+    "+@generated-on": "2026-08-06T14:35:43Z",
     "related-prev": [
         {
             "+@rel": "sequel of",
@@ -48,9 +48,34 @@
             "+@lang": "JA"
         },
         {
+            "+content": "comedy",
+            "+@gid": "1333743186",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "school",
+            "+@gid": "2562429238",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "sports",
+            "+@gid": "2646279716",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "time travel",
+            "+@gid": "3395619923",
+            "+@type": "Themes"
+        },
+        {
             "+content": "Dodgeball is the most powerful combat ball game in history. Countless legends of this sport have been born, captivating people—and now, a new story begins. The protagonist is Ichigeki Danko, the daughter of Ichigeki Danpei. Unleashing the burning soul inherited from her father in the Reiwa era.",
             "+@gid": "1830088487",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "24",
+            "+@gid": "1310726937",
+            "+@type": "Running time"
         },
         {
             "+content": "12",
@@ -80,6 +105,10 @@
             "+@href": "https://dodge-danko.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "3"
+    },
     "news": [
         {
             "+content": "<cite>Honō no Tōkyūjo: Dodge Danko</cite> Dodgeball Anime Unveils Cast, Staff",
@@ -105,6 +134,11 @@
             "+content": "<cite>Honō no Tōkyūjo: Dodge Danko</cite> Dodgeball Anime Announces 18 Cast Members",
             "+@datetime": "2026-06-21T14:32:10Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-21/hono-no-tokyujo-dodge-danko-dodgeball-anime-announces-18-cast-members/.238761"
+        },
+        {
+            "+content": "<cite>Flaming Dodgeball Girl Danko</cite> Anime Casts Noriko Hidaka, Misato Fukuen",
+            "+@datetime": "2026-07-14T06:50:42Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-14/flaming-dodgeball-girl-danko-anime-casts-noriko-hidaka-misato-fukuen/.239571"
         }
     ],
     "staff": [
@@ -141,6 +175,14 @@
             }
         },
         {
+            "+@gid": "2206762982",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takayuki Inagaki",
+                "+@id": "20428"
+            }
+        },
+        {
             "+@gid": "805601196",
             "task": "Storyboard",
             "person": {
@@ -157,6 +199,46 @@
             }
         },
         {
+            "+@gid": "2238066825",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kou Horio",
+                "+@id": "192313"
+            }
+        },
+        {
+            "+@gid": "1313130141",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Toshiyuki Sone",
+                "+@id": "147512"
+            }
+        },
+        {
+            "+@gid": "1097773362",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Mio Nishimura",
+                "+@id": "156931"
+            }
+        },
+        {
+            "+@gid": "2631361352",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kou Horio",
+                "+@id": "192313"
+            }
+        },
+        {
+            "+@gid": "2870903923",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Madoka Yaguchi",
+                "+@id": "221899"
+            }
+        },
+        {
             "+@gid": "1862541057",
             "task": "Episode Director",
             "person": {
@@ -165,11 +247,27 @@
             }
         },
         {
+            "+@gid": "1754746758",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yurina Utsugi",
+                "+@id": "299132"
+            }
+        },
+        {
             "+@gid": "1839071596",
             "task": "Unit Director",
             "person": {
                 "+content": "Kazuhisa Ōno",
                 "+@id": "14321"
+            }
+        },
+        {
+            "+@gid": "2563332881",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Hiroshi Ikehata",
+                "+@id": "89837"
             }
         },
         {
@@ -245,11 +343,35 @@
             }
         },
         {
+            "+@gid": "3132642663",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Isamu Utsuki",
+                "+@id": "29650"
+            }
+        },
+        {
             "+@gid": "1774080890",
             "task": "Animation Director",
             "person": {
                 "+content": "Masaki Hinata",
                 "+@id": "51363"
+            }
+        },
+        {
+            "+@gid": "2470621713",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Manamu Amazaki",
+                "+@id": "63378"
+            }
+        },
+        {
+            "+@gid": "1885434959",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuka Nagata",
+                "+@id": "71717"
             }
         },
         {
@@ -261,11 +383,107 @@
             }
         },
         {
+            "+@gid": "2111319582",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Naoki Sugiyama",
+                "+@id": "88428"
+            }
+        },
+        {
+            "+@gid": "2461523474",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūsuke Hatano",
+                "+@id": "91776"
+            }
+        },
+        {
+            "+@gid": "2848805973",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kōhei Takahashi",
+                "+@id": "122598"
+            }
+        },
+        {
+            "+@gid": "2351221649",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Qing Yun Zhao",
+                "+@id": "172877"
+            }
+        },
+        {
+            "+@gid": "826262598",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hai Ying Ceng",
+                "+@id": "176336"
+            }
+        },
+        {
+            "+@gid": "3687865984",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Beat",
+                "+@id": "197263"
+            }
+        },
+        {
+            "+@gid": "1839556091",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zhen Xing Sun",
+                "+@id": "203319"
+            }
+        },
+        {
             "+@gid": "2176189002",
             "task": "Animation Director",
             "person": {
                 "+content": "Tsutomu Ōno",
                 "+@id": "225238"
+            }
+        },
+        {
+            "+@gid": "1578923035",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chen Yin Xu",
+                "+@id": "234809"
+            }
+        },
+        {
+            "+@gid": "1444102850",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jia Yuan Liang",
+                "+@id": "234815"
+            }
+        },
+        {
+            "+@gid": "1543779378",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuan Ying Zi Gao",
+                "+@id": "293137"
+            }
+        },
+        {
+            "+@gid": "1646590593",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wen Xin Zhang",
+                "+@id": "293138"
+            }
+        },
+        {
+            "+@gid": "2436783550",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Bai Han Gong",
+                "+@id": "293139"
             }
         },
         {
@@ -312,12 +530,30 @@
             }
         },
         {
+            "+@gid": "1786286010",
+            "+@lang": "JA",
+            "role": "Misato Ichigeki",
+            "person": {
+                "+content": "Noriko Hidaka",
+                "+@id": "282"
+            }
+        },
+        {
             "+@gid": "213702023",
             "+@lang": "JA",
             "role": "Danpei Ichigeki",
             "person": {
                 "+content": "Katsuyuki Konishi",
                 "+@id": "780"
+            }
+        },
+        {
+            "+@gid": "1797526655",
+            "+@lang": "JA",
+            "role": "Haruka Ichigeki",
+            "person": {
+                "+content": "Misato Fukuen",
+                "+@id": "5916"
             }
         },
         {
@@ -360,15 +596,6 @@
             "+@gid": "2759302721",
             "+@lang": "JA",
             "role": "Ran Midō",
-            "person": {
-                "+content": "Mariya Ise",
-                "+@id": "46112"
-            }
-        },
-        {
-            "+@gid": "2232269713",
-            "+@lang": "JA",
-            "role": "Ran Midou",
             "person": {
                 "+content": "Mariya Ise",
                 "+@id": "46112"
@@ -618,6 +845,6 @@
         }
     },
     "+@date-added": "2025-07-11T05:40:50Z",
-    "+@date-last-modified-at": "2026-07-07T11:19:16Z",
-    "+@date-last-updated-at": "2026-07-07T11:19:16Z"
+    "+@date-last-modified-at": "2026-08-06T14:35:47Z",
+    "+@date-last-updated-at": "2026-08-06T14:35:47Z"
 }
