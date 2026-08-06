@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Beatless",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-06T21:48:12Z",
+    "+@generated-on": "2026-08-06T03:40:27Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "20007"
@@ -71,6 +71,11 @@
             "+@type": "Themes"
         },
         {
+            "+content": "magical girl",
+            "+@gid": "2156756763",
+            "+@type": "Themes"
+        },
+        {
             "+content": "TA",
             "+@gid": "2533121869",
             "+@type": "Objectionable content"
@@ -134,8 +139,8 @@
     ],
     "ratings": {
         "+@nb_votes": "85",
-        "+@weighted_score": "5.949",
-        "+@bayesian_score": "6.13715"
+        "+@weighted_score": "5.9489",
+        "+@bayesian_score": "6.13702"
     },
     "episode": [
         {
@@ -1042,14 +1047,6 @@
             }
         },
         {
-            "+@gid": "1478965759",
-            "task": "Producer",
-            "person": {
-                "+content": "Satoshi Tanaka",
-                "+@id": "36537"
-            }
-        },
-        {
             "+@gid": "951201120",
             "task": "Producer",
             "person": {
@@ -1087,6 +1084,14 @@
             "person": {
                 "+content": "Hiroshi Kamei",
                 "+@id": "147594"
+            }
+        },
+        {
+            "+@gid": "1478965759",
+            "task": "Producer",
+            "person": {
+                "+content": "Satoshi Tanaka",
+                "+@id": "299966"
             }
         }
     ],
@@ -1272,6 +1277,6 @@
         }
     },
     "+@date-added": "2017-11-24T18:30:55Z",
-    "+@date-last-modified-at": "2026-07-06T21:48:19Z",
-    "+@date-last-updated-at": "2026-07-06T21:48:19Z"
+    "+@date-last-modified-at": "2026-08-06T03:40:34Z",
+    "+@date-last-updated-at": "2026-08-06T03:40:34Z"
 }
