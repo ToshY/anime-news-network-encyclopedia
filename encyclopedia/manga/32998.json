@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Ultraman: Along Came a Spider-Man",
     "+@precision": "manga",
-    "+@generated-on": "2026-07-08T06:39:19Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "31804"
-    },
+    "+@generated-on": "2026-08-07T20:59:53Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "31804"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "40350"
+        }
+    ],
     "info": [
         {
             "+@gid": "2910860293",
@@ -149,5 +155,6 @@
         }
     ],
     "+@date-added": "2024-07-26T20:23:32Z",
-    "+@date-last-updated-at": "2026-07-08T06:39:20Z"
+    "+@date-last-modified-at": "2026-08-07T20:59:55Z",
+    "+@date-last-updated-at": "2026-08-07T20:59:55Z"
 }
