@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "To You in the Beyond",
     "+@precision": "movie",
-    "+@generated-on": "2026-07-10T15:02:21Z",
+    "+@generated-on": "2026-08-09T16:55:34Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "38430"
@@ -13,24 +13,19 @@
         {
             "+@gid": "2568538257",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38432-2568538257.1775444264.jpg",
-            "+@width": "200",
-            "+@height": "125",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38432-2568538257.1785033811.jpg",
+            "+@width": "143",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38432-2568538257.1775444264.jpg",
-                    "+@width": "200",
-                    "+@height": "125"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38432-2568538257.1785033811.jpg",
+                    "+@width": "143",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38432-2568538257.1775444264.jpg",
-                    "+@width": "500",
-                    "+@height": "313"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38432-2568538257.1775444264.jpg",
-                    "+@width": "600",
-                    "+@height": "376"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38432-2568538257.1785033811.jpg",
+                    "+@width": "428",
+                    "+@height": "600"
                 }
             ]
         },
@@ -66,6 +61,11 @@
             "+@type": "Premiere date"
         },
         {
+            "+content": "\"Olive\" (オリーブ) by Tota",
+            "+@gid": "1497089098",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "映画『どこよりも遠い場所にいる君へ』",
             "+@gid": "1453445398",
             "+@type": "Official website",
@@ -73,6 +73,10 @@
             "+@href": "https://sh-anime.shochiku.co.jp/dokokimi-movie/"
         }
     ],
+    "review": {
+        "+content": "<cite>To You in the Beyond</cite> Anime Movie Review",
+        "+@href": "https://www.animenewsnetwork.com/review/to-you-in-the-beyond/anime-movie/.239531"
+    },
     "news": [
         {
             "+content": "<cite>To You in the Beyond</cite> Film Teaser Unveils Staff, October 9 Opening",
@@ -88,6 +92,11 @@
             "+content": "<cite>To You in the Beyond</cite> Anime Film Casts Naohito Fujiki",
             "+@datetime": "2026-07-03T02:07:36Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-07-02/to-you-in-the-beyond-anime-film-casts-naohito-fujiki/.239236"
+        },
+        {
+            "+content": "<cite>To You in the Beyond</cite> Anime Film's Trailer Unveils Theme Song, More Cast",
+            "+@datetime": "2026-07-22T00:29:06Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-21/to-you-in-the-beyond-anime-film-trailer-unveils-theme-song-more-cast/.239848"
         }
     ],
     "staff": [
@@ -166,6 +175,15 @@
     ],
     "cast": [
         {
+            "+@gid": "1557711042",
+            "+@lang": "JA",
+            "role": "Shūji Aiba",
+            "person": {
+                "+content": "Wataru Hatano",
+                "+@id": "17481"
+            }
+        },
+        {
             "+@gid": "2985363887",
             "+@lang": "JA",
             "role": "Nishina",
@@ -175,12 +193,39 @@
             }
         },
         {
+            "+@gid": "960367941",
+            "+@lang": "JA",
+            "role": "Akimitsu Yano",
+            "person": {
+                "+content": "Nobuhiko Okamoto",
+                "+@id": "59411"
+            }
+        },
+        {
             "+@gid": "1079992256",
             "+@lang": "JA",
-            "role": "Kōzu",
+            "role": "Takatsu",
             "person": {
                 "+content": "Hiroshi Tamaki",
                 "+@id": "61614"
+            }
+        },
+        {
+            "+@gid": "612669418",
+            "+@lang": "JA",
+            "role": "Yoshiki Suga",
+            "person": {
+                "+content": "Yoshitsugu Matsuoka",
+                "+@id": "93780"
+            }
+        },
+        {
+            "+@gid": "3764385067",
+            "+@lang": "JA",
+            "role": "Tamaki Mishima",
+            "person": {
+                "+content": "Sumire Uesaka",
+                "+@id": "106108"
             }
         },
         {
@@ -195,7 +240,7 @@
         {
             "+@gid": "2195097534",
             "+@lang": "JA",
-            "role": "Nao Akishika",
+            "role": "Nanao Aika",
             "person": {
                 "+content": "Anna Nagase",
                 "+@id": "196760"
@@ -246,6 +291,6 @@
         }
     ],
     "+@date-added": "2026-02-05T06:37:39Z",
-    "+@date-last-modified-at": "2026-07-10T15:02:25Z",
-    "+@date-last-updated-at": "2026-07-10T15:02:25Z"
+    "+@date-last-modified-at": "2026-08-09T16:55:39Z",
+    "+@date-last-updated-at": "2026-08-09T16:55:39Z"
 }

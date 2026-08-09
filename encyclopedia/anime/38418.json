@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "Thunder 3",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-10T15:02:21Z",
+    "+@generated-on": "2026-08-09T16:55:34Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29869"
     },
     "info": [
         {
-            "+@gid": "2634606695",
+            "+@gid": "1519674740",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38418-2634606695.1770204349.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38418-1519674740.1784812583.jpg",
+            "+@width": "160",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38418-2634606695.1770204349.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38418-1519674740.1784812583.jpg",
+                    "+@width": "160",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38418-2634606695.1770204349.jpg",
-                    "+@width": "427",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38418-1519674740.1784812583.jpg",
+                    "+@width": "480",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38418-1519674740.1784812583.jpg",
+                    "+@width": "800",
+                    "+@height": "1000"
                 }
             ]
         },
@@ -52,6 +57,11 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "2526297010",
+            "+@type": "Running time"
+        },
+        {
             "+content": "2026-07-08",
             "+@gid": "2995879288",
             "+@type": "Vintage"
@@ -75,8 +85,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "4.8774"
+        "+@nb_votes": "3",
+        "+@weighted_score": "3.2125"
     },
     "news": [
         {
@@ -232,6 +242,15 @@
     ],
     "cast": [
         {
+            "+@gid": "2342774520",
+            "+@lang": "EN",
+            "role": "Sameyama",
+            "person": {
+                "+content": "Adin Rudd",
+                "+@id": "125856"
+            }
+        },
+        {
             "+@gid": "2908056574",
             "+@lang": "EN",
             "role": "Pyontarō Tezuka",
@@ -250,6 +269,24 @@
             }
         },
         {
+            "+@gid": "1217515725",
+            "+@lang": "EN",
+            "role": "Doc",
+            "person": {
+                "+content": "Damien Haas",
+                "+@id": "154733"
+            }
+        },
+        {
+            "+@gid": "2806967403",
+            "+@lang": "EN",
+            "role": "Suzuka Tashiro",
+            "person": {
+                "+content": "Alejandra Reynoso",
+                "+@id": "156662"
+            }
+        },
+        {
             "+@gid": "910594352",
             "+@lang": "EN",
             "role": "Futaba Tezuka",
@@ -259,12 +296,57 @@
             }
         },
         {
+            "+@gid": "1655752737",
+            "+@lang": "EN",
+            "role": "Teiichi Segami",
+            "person": {
+                "+content": "Cory Yee",
+                "+@id": "207885"
+            }
+        },
+        {
+            "+@gid": "2831592988",
+            "+@lang": "EN",
+            "role": "Yutaka Yamamoto",
+            "person": {
+                "+content": "Blythe Melin",
+                "+@id": "217806"
+            }
+        },
+        {
+            "+@gid": "1269066061",
+            "+@lang": "EN",
+            "role": "Mio Kisaragi",
+            "person": {
+                "+content": "Triya Leong",
+                "+@id": "218418"
+            }
+        },
+        {
             "+@gid": "993008476",
             "+@lang": "EN",
             "role": "Tsubame Azuma",
             "person": {
                 "+content": "Brenna Larsen",
                 "+@id": "268318"
+            }
+        },
+        {
+            "+@gid": "498193197",
+            "+@lang": "FR",
+            "role": "Teiichi Segami",
+            "person": {
+                "+content": "David Manet",
+                "+@id": "29169"
+            }
+        },
+        {
+            "+@gid": "3066729057",
+            "+@lang": "FR",
+            "role": "Suzuka Tashiro",
+            "person": {
+                "+content": "Elisabeth Guinand",
+                "+@id": "60941"
             }
         },
         {
@@ -313,6 +395,42 @@
             }
         },
         {
+            "+@gid": "2375178503",
+            "+@lang": "FR",
+            "role": "Yutaka Yamamoto",
+            "person": {
+                "+content": "Jonathan Simon",
+                "+@id": "176972"
+            }
+        },
+        {
+            "+@gid": "1854516384",
+            "+@lang": "FR",
+            "role": "Mio Kisaragi",
+            "person": {
+                "+content": "Julia Kaye",
+                "+@id": "192256"
+            }
+        },
+        {
+            "+@gid": "788849295",
+            "+@lang": "FR",
+            "role": "Pyontarô de l'autre monde",
+            "person": {
+                "+content": "Arthur Dubois",
+                "+@id": "213181"
+            }
+        },
+        {
+            "+@gid": "1257460627",
+            "+@lang": "FR",
+            "role": "Pyontarô Tezuka",
+            "person": {
+                "+content": "Arthur Dubois",
+                "+@id": "213181"
+            }
+        },
+        {
             "+@gid": "2166103643",
             "+@lang": "FR",
             "role": "Tsubame Azuma",
@@ -322,12 +440,30 @@
             }
         },
         {
+            "+@gid": "1665602105",
+            "+@lang": "FR",
+            "role": "Sameyama",
+            "person": {
+                "+content": "Maxim Al Zein",
+                "+@id": "232341"
+            }
+        },
+        {
             "+@gid": "1241679780",
             "+@lang": "FR",
             "role": "Monsieur Tezuka",
             "person": {
                 "+content": "Mickaël Dubois",
                 "+@id": "251253"
+            }
+        },
+        {
+            "+@gid": "1270846022",
+            "+@lang": "FR",
+            "role": "Hirochi Ochanomizi",
+            "person": {
+                "+content": "Elliott Guyot",
+                "+@id": "260314"
             }
         },
         {
@@ -475,12 +611,57 @@
             }
         },
         {
+            "+@gid": "1330312833",
+            "+@lang": "JA",
+            "role": "Natsuki Aikawa",
+            "person": {
+                "+content": "Azusa Aoi",
+                "+@id": "237716"
+            }
+        },
+        {
             "+@gid": "2274576525",
             "+@lang": "JA",
             "role": "Puusuke",
             "person": {
                 "+content": "Azusa Aoi",
                 "+@id": "237716"
+            }
+        },
+        {
+            "+@gid": "2350634510",
+            "+@lang": "TL",
+            "role": "Pyontaro Tezuka",
+            "person": {
+                "+content": "Charmaine Cordoviz",
+                "+@id": "15925"
+            }
+        },
+        {
+            "+@gid": "3486227641",
+            "+@lang": "TL",
+            "role": "Futaba Tezuka",
+            "person": {
+                "+content": "Marick Dacanay",
+                "+@id": "39352"
+            }
+        },
+        {
+            "+@gid": "3417762743",
+            "+@lang": "TL",
+            "role": "Hiro Ochanomizu",
+            "person": {
+                "+content": "Hazel Hernan",
+                "+@id": "42178"
+            }
+        },
+        {
+            "+@gid": "660565417",
+            "+@lang": "TL",
+            "role": "Tsubame Azuma",
+            "person": {
+                "+content": "Kenz Ancero-Bontogon",
+                "+@id": "293110"
             }
         }
     ],
@@ -494,15 +675,87 @@
             }
         },
         {
+            "+@gid": "3559373989",
+            "task": "Production",
+            "company": {
+                "+content": "Fuji Television Network",
+                "+@id": "30"
+            }
+        },
+        {
+            "+@gid": "2395598430",
+            "task": "Production",
+            "company": {
+                "+content": "Kodansha",
+                "+@id": "88"
+            }
+        },
+        {
+            "+@gid": "1689431027",
+            "task": "Production",
+            "company": {
+                "+content": "The Klockworx Co., Ltd.",
+                "+@id": "614"
+            }
+        },
+        {
+            "+@gid": "1495801918",
+            "task": "Production",
+            "company": {
+                "+content": "Hakuhodo Inc.",
+                "+@id": "1310"
+            }
+        },
+        {
+            "+@gid": "3867123324",
+            "task": "Production",
+            "company": {
+                "+content": "BS Fuji",
+                "+@id": "1682"
+            }
+        },
+        {
+            "+@gid": "1233550669",
+            "task": "Production",
+            "company": {
+                "+content": "Animax Broadcast Japan",
+                "+@id": "8689"
+            }
+        },
+        {
             "+@gid": "2441928855",
             "task": "Production",
             "company": {
                 "+content": "Slowcurve Co., Ltd.",
                 "+@id": "10350"
             }
+        },
+        {
+            "+@gid": "2424705138",
+            "task": "Production",
+            "company": {
+                "+content": "Kansai Telecasting Corporation",
+                "+@id": "11907"
+            }
+        },
+        {
+            "+@gid": "743648855",
+            "task": "Production",
+            "company": {
+                "+content": "NewGin",
+                "+@id": "14794"
+            }
+        },
+        {
+            "+@gid": "2577885041",
+            "task": "Production",
+            "company": {
+                "+content": "arma bianca",
+                "+@id": "21292"
+            }
         }
     ],
     "+@date-added": "2026-02-04T06:24:36Z",
-    "+@date-last-modified-at": "2026-07-10T15:02:25Z",
-    "+@date-last-updated-at": "2026-07-10T15:02:25Z"
+    "+@date-last-modified-at": "2026-08-09T16:55:39Z",
+    "+@date-last-updated-at": "2026-08-09T16:55:39Z"
 }

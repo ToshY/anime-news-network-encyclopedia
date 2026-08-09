@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Chainsmoker Cat",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-10T15:02:21Z",
+    "+@generated-on": "2026-08-09T16:55:34Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28833"
@@ -69,9 +69,24 @@
             "+@type": "Themes"
         },
         {
+            "+content": "ecchi",
+            "+@gid": "2689343788",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "MA",
+            "+@gid": "2361700847",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "Welcome to Yani's apartment. Please don't mind the smell. Yani is a catgirl with a seriously bad smoking habit. Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Behind on her rent and unable to hold down a job, her friends and sister rally around to help her out. But when she's using her pee to put out cigarette fires, they may just have their work cut out for them.",
             "+@gid": "1597064835",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "24",
+            "+@gid": "2273891575",
+            "+@type": "Running time"
         },
         {
             "+content": "2026-07-02",
@@ -87,8 +102,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "0.3679"
+        "+@nb_votes": "8",
+        "+@weighted_score": "3.6632"
     },
     "news": [
         {
@@ -115,6 +130,21 @@
             "+content": "OceanVeil Streams <cite>Chainsmoker Cat</cite> Anime",
             "+@datetime": "2026-06-27T07:02:29Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-27/oceanveil-streams-chainsmoker-cat-anime/.238864"
+        },
+        {
+            "+content": "Ani-One India Streams <cite>Perfect Addiction</cite> 'Light Anime,' <cite>Chainsmoker Cat</cite>, More Anime",
+            "+@datetime": "2026-07-12T15:53:45Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-12/ani-one-india-streams-perfect-addiction-light-anime-chainsmoker-cat-more-anime/.239536"
+        },
+        {
+            "+content": "<cite>Chainsmoker Cat</cite> Anime Casts Niina Nakabayashi",
+            "+@datetime": "2026-07-22T17:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-22/chainsmoker-cat-anime-casts-niina-nakabayashi/.239868"
+        },
+        {
+            "+content": "<cite>Chainsmoker Cat</cite> Anime Casts Yū Kobayashi",
+            "+@datetime": "2026-08-05T10:59:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-05/chainsmoker-cat-anime-casts-yu-kobayashi/.240300"
         }
     ],
     "staff": [
@@ -193,12 +223,228 @@
     ],
     "cast": [
         {
+            "+@gid": "3180419940",
+            "+@lang": "EN",
+            "role": "Landlord Otani",
+            "person": {
+                "+content": "Michael Sorich",
+                "+@id": "3050"
+            }
+        },
+        {
+            "+@gid": "1256913704",
+            "+@lang": "EN",
+            "role": "Masuko \"Yaku Neko\" Koshijimaru",
+            "person": {
+                "+content": "Colleen O'Shaughnessey",
+                "+@id": "39810"
+            }
+        },
+        {
+            "+@gid": "2511161461",
+            "+@lang": "EN",
+            "role": "Hameko \"Hame Neko\" Yurufuwa＊Angel",
+            "person": {
+                "+content": "Lauren Landa",
+                "+@id": "70779"
+            }
+        },
+        {
+            "+@gid": "983015899",
+            "+@lang": "EN",
+            "role": "Imoko Sato",
+            "person": {
+                "+content": "Reba Buhr",
+                "+@id": "129411"
+            }
+        },
+        {
+            "+@gid": "4106555487",
+            "+@lang": "EN",
+            "role": "Aruko \"Aru-Neko\" Sakai",
+            "person": {
+                "+content": "Victoria Grace",
+                "+@id": "174490"
+            }
+        },
+        {
+            "+@gid": "2751752502",
+            "+@lang": "EN",
+            "role": "Yaniko \"Yani Neko\" Sato",
+            "person": {
+                "+content": "Rebecca Wang",
+                "+@id": "255180"
+            }
+        },
+        {
+            "+@gid": "1959410147",
+            "+@lang": "EN",
+            "role": "Kaoruko \"Kansai Neko\" Nishi",
+            "person": {
+                "+content": "Lauren Amante",
+                "+@id": "300418"
+            }
+        },
+        {
+            "+@gid": "1338304975",
+            "+@lang": "EN",
+            "role": "Saori \"Ochinpo Tatsuro\" Tatsuno",
+            "person": {
+                "+content": "Chantelle Barry",
+                "+@id": "300796"
+            }
+        },
+        {
+            "+@gid": "2527122208",
+            "+@lang": "EN",
+            "role": "Yomuko \"Jikaki Neko\" Kako",
+            "person": {
+                "+content": "Natsuki Henderson",
+                "+@id": "300965"
+            }
+        },
+        {
+            "+@gid": "2923070844",
+            "+@lang": "FR",
+            "role": "Imoko",
+            "person": {
+                "+content": "Marie Nonnenmacher",
+                "+@id": "82933"
+            }
+        },
+        {
+            "+@gid": "2458899372",
+            "+@lang": "FR",
+            "role": "Yaniko \"Yani-Neko\" Satō",
+            "person": {
+                "+content": "Valérie Bachère",
+                "+@id": "136049"
+            }
+        },
+        {
+            "+@gid": "2678058467",
+            "+@lang": "FR",
+            "role": "Tatsuro Braquemard",
+            "person": {
+                "+content": "Ninon Moreau",
+                "+@id": "242662"
+            }
+        },
+        {
+            "+@gid": "2156692260",
+            "+@lang": "FR",
+            "role": "Jikaki Neko",
+            "person": {
+                "+content": "Lexa",
+                "+@id": "300967"
+            }
+        },
+        {
+            "+@gid": "2256372511",
+            "+@lang": "IT",
+            "role": "Il Proprietario",
+            "person": {
+                "+content": "Luigi Ferraro",
+                "+@id": "26301"
+            }
+        },
+        {
+            "+@gid": "2823081473",
+            "+@lang": "IT",
+            "role": "Yaniko \"Yani-Neko\" Satō",
+            "person": {
+                "+content": "Letizia Ciampa",
+                "+@id": "27425"
+            }
+        },
+        {
+            "+@gid": "1769396881",
+            "+@lang": "IT",
+            "role": "Kaoruko \"Kansai\" Nishi",
+            "person": {
+                "+content": "Joy Saltarelli",
+                "+@id": "70851"
+            }
+        },
+        {
+            "+@gid": "900723618",
+            "+@lang": "IT",
+            "role": "Aruko \"Al-Neko\" Sakai",
+            "person": {
+                "+content": "Agnese Marteddu",
+                "+@id": "74264"
+            }
+        },
+        {
+            "+@gid": "1269468608",
+            "+@lang": "IT",
+            "role": "Tatsurō Ochinpo",
+            "person": {
+                "+content": "Martina Felli",
+                "+@id": "122827"
+            }
+        },
+        {
+            "+@gid": "3644980270",
+            "+@lang": "IT",
+            "role": "Masuko \"Yaku-Neko\" Koshijimaru",
+            "person": {
+                "+content": "Camilla Marcucci",
+                "+@id": "126130"
+            }
+        },
+        {
+            "+@gid": "2130110588",
+            "+@lang": "IT",
+            "role": "Jikaki Neko",
+            "person": {
+                "+content": "Chiara Fabiano",
+                "+@id": "131045"
+            }
+        },
+        {
+            "+@gid": "977384137",
+            "+@lang": "IT",
+            "role": "Jikaki Neko",
+            "person": {
+                "+content": "Vittoria Bartolomei",
+                "+@id": "134567"
+            }
+        },
+        {
+            "+@gid": "1617666731",
+            "+@lang": "IT",
+            "role": "Yurufuwa＊Tenshi \"Hame-Neko\" Hameko",
+            "person": {
+                "+content": "Sara Labidi",
+                "+@id": "144550"
+            }
+        },
+        {
+            "+@gid": "602348741",
+            "+@lang": "IT",
+            "role": "Imoko Satō",
+            "person": {
+                "+content": "Enrica Fieno",
+                "+@id": "174093"
+            }
+        },
+        {
             "+@gid": "948906123",
             "+@lang": "JA",
             "role": "Landlord",
             "person": {
                 "+content": "Tetsu Inada",
                 "+@id": "7015"
+            }
+        },
+        {
+            "+@gid": "3830819587",
+            "+@lang": "JA",
+            "role": "Penpen Neko",
+            "person": {
+                "+content": "Yū Kobayashi",
+                "+@id": "16095"
             }
         },
         {
@@ -256,6 +502,15 @@
             }
         },
         {
+            "+@gid": "2477506930",
+            "+@lang": "JA",
+            "role": "Jikaki Neko",
+            "person": {
+                "+content": "Niina Nakabayashi",
+                "+@id": "207636"
+            }
+        },
+        {
             "+@gid": "2501606809",
             "+@lang": "JA",
             "role": "Tatsurō Ochinpo",
@@ -274,6 +529,6 @@
         }
     },
     "+@date-added": "2026-02-01T10:59:58Z",
-    "+@date-last-modified-at": "2026-07-10T15:02:25Z",
-    "+@date-last-updated-at": "2026-07-10T15:02:25Z"
+    "+@date-last-modified-at": "2026-08-09T16:55:39Z",
+    "+@date-last-updated-at": "2026-08-09T16:55:39Z"
 }
