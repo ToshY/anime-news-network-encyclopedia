@@ -4,11 +4,33 @@
     "+@type": "magazine",
     "+@name": "Comic Growl",
     "+@precision": "anthology",
-    "+@generated-on": "2026-07-10T04:16:03Z",
-    "related-next": {
-        "+@id": "40317",
-        "+@rel": "serialized"
-    },
+    "+@generated-on": "2026-08-09T05:19:12Z",
+    "related-next": [
+        {
+            "+@id": "40317",
+            "+@rel": "serialized"
+        },
+        {
+            "+@id": "36577",
+            "+@rel": "serialized"
+        },
+        {
+            "+@id": "39979",
+            "+@rel": "serialized"
+        },
+        {
+            "+@id": "27340",
+            "+@rel": "serialized"
+        },
+        {
+            "+@id": "16625",
+            "+@rel": "serialized"
+        },
+        {
+            "+@id": "38651",
+            "+@rel": "serialized"
+        }
+    ],
     "info": [
         {
             "+content": "Comic Growl",
@@ -17,8 +39,20 @@
             "+@lang": "EN"
         },
         {
+            "+content": "Comic Bushiroad Web",
+            "+@gid": "3456538224",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "コミックグロウル",
             "+@gid": "2309605111",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
+            "+content": "コミックブシロードウェブ",
+            "+@gid": "948108217",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
@@ -31,5 +65,6 @@
         }
     ],
     "+@date-added": "2026-07-09T05:56:18Z",
-    "+@date-last-updated-at": "2026-07-10T04:16:05Z"
+    "+@date-last-modified-at": "2026-08-09T05:19:14Z",
+    "+@date-last-updated-at": "2026-08-09T05:19:14Z"
 }
