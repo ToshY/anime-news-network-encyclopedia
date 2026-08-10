@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Victoria of Many Faces",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-11T13:55:48Z",
+    "+@generated-on": "2026-08-10T17:09:57Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "32632"
@@ -53,9 +53,34 @@
             "+@lang": "JA"
         },
         {
+            "+content": "drama",
+            "+@gid": "3297030427",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "3825583810",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "parenting",
+            "+@gid": "2296664610",
+            "+@type": "Themes"
+        },
+        {
             "+content": "In an age when spies act behind the scenes in every land, Chloe spends her days successfully carrying out even the most difficult missions due to her unparalleled disguise skills and martial arts abilities. However, after her boss's betrayal, she suddenly disappears, as Chloe plans to remake her life as the ordinary citizen Victoria in the neighboring kingdom of Ashberry, striving for a \"normal\" life. However, Victoria's peaceful life is abruptly cut short when she becomes involved with many people. In this new land, her experiences and abilities from her days as a spy come in far more useful than she ever expected. On the other hand, the second prince and the pursuer of the organization, amongst others, take an interest in Victoria's strength, and many shadows close in on the one with all the cards in her hand...",
             "+@gid": "421523415",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "2127742113",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "9",
+            "+@gid": "2097301283",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2026-07-07",
@@ -81,17 +106,51 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "3.564"
+        "+@nb_votes": "6",
+        "+@weighted_score": "5.136"
     },
-    "episode": {
-        "+@num": "1",
-        "title": {
-            "+content": "Free, Unbound by Anyone",
-            "+@gid": "1368114350",
-            "+@lang": "EN"
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "Free, Unbound by Anyone",
+                "+@gid": "1368114350",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "No One Should Feel Sorry for Me",
+                "+@gid": "2837512511",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "I Couldn't Become Someone to Be Depended Upon",
+                "+@gid": "1811244357",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "Are You Going to Arrest Me?",
+                "+@gid": "2774299636",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "Prepared to Pay for What I've Done",
+                "+@gid": "1375353036",
+                "+@lang": "EN"
+            }
         }
-    },
+    ],
     "news": [
         {
             "+content": "<cite>Victoria of Many Faces</cite> TV Anime Reveals Teaser Visual, July Debut",
@@ -342,15 +401,57 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "323686941",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Studio DEEN",
-            "+@id": "35"
+    "credit": [
+        {
+            "+@gid": "323686941",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Studio DEEN",
+                "+@id": "35"
+            }
+        },
+        {
+            "+@gid": "1592945760",
+            "task": "Production",
+            "company": {
+                "+content": "Studio DEEN",
+                "+@id": "35"
+            }
+        },
+        {
+            "+@gid": "2141306051",
+            "task": "Production",
+            "company": {
+                "+content": "TV Tokyo",
+                "+@id": "262"
+            }
+        },
+        {
+            "+@gid": "1762905038",
+            "task": "Production",
+            "company": {
+                "+content": "Docomo Anime Store",
+                "+@id": "10879"
+            }
+        },
+        {
+            "+@gid": "616131397",
+            "task": "Production",
+            "company": {
+                "+content": "Kadokawa",
+                "+@id": "15420"
+            }
+        },
+        {
+            "+@gid": "2714797429",
+            "task": "Production",
+            "company": {
+                "+content": "Toy's Factory",
+                "+@id": "25640"
+            }
         }
-    },
+    ],
     "+@date-added": "2025-09-12T06:33:41Z",
-    "+@date-last-modified-at": "2026-07-11T13:55:54Z",
-    "+@date-last-updated-at": "2026-07-11T13:55:54Z"
+    "+@date-last-modified-at": "2026-08-10T17:10:04Z",
+    "+@date-last-updated-at": "2026-08-10T17:10:04Z"
 }
