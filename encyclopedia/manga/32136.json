@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Ultraman",
     "+@precision": "manga 1975",
-    "+@generated-on": "2026-07-11T09:49:10Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "26115"
-    },
+    "+@generated-on": "2026-08-10T13:45:44Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "26115"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "40350"
+        }
+    ],
     "related-next": {
         "+@id": "32119",
         "+@rel": "adaptation"
@@ -57,5 +63,6 @@
         }
     },
     "+@date-added": "2024-02-16T12:15:42Z",
-    "+@date-last-updated-at": "2026-07-11T09:49:12Z"
+    "+@date-last-modified-at": "2026-08-10T13:45:46Z",
+    "+@date-last-updated-at": "2026-08-10T13:45:46Z"
 }
