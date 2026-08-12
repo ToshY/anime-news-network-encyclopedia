@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Multi-Mind Mayhem: Isekai Tensei Soudouki",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-13T15:12:16Z",
+    "+@generated-on": "2026-08-12T17:13:25Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "38676"
@@ -13,17 +13,17 @@
         {
             "+@gid": "2490388213",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38677-2490388213.1773396840.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38677-2490388213.1786147501.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38677-2490388213.1773396840.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38677-2490388213.1786147501.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38677-2490388213.1773396840.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38677-2490388213.1786147501.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
@@ -48,6 +48,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "2027-01",
+            "+@gid": "2589627294",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ「異世界転生騒動記」公式サイト",
             "+@gid": "1776204998",
             "+@type": "Official website",
@@ -55,12 +60,43 @@
             "+@href": "https://www.soudouki.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Multi-Mind Mayhem: Isekai Tensei Soudouki</cite> Novels Get TV Anime",
-        "+@datetime": "2026-03-13T09:32:28Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-13/multi-mind-mayhem-isekai-tensei-soudouki-novels-get-tv-anime/.235259"
-    },
+    "news": [
+        {
+            "+content": "<cite>Multi-Mind Mayhem: Isekai Tensei Soudouki</cite> Novels Get TV Anime",
+            "+@datetime": "2026-03-13T09:32:28Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-13/multi-mind-mayhem-isekai-tensei-soudouki-novels-get-tv-anime/.235259"
+        },
+        {
+            "+content": "<cite>Multi-Mind Mayhem: Isekai Tensei Soudouki</cite> Anime Reveals 1st Promo Video, Cast, Staff, January 2027 Premiere",
+            "+@datetime": "2026-08-07T17:00:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-07/multi-mind-mayhem-isekai-tensei-soudouki-anime-reveals-1st-promo-video-cast-staff-january-2027-/.240379"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "3688184374",
+            "task": "Director",
+            "person": {
+                "+content": "Hiroaki Sakurai",
+                "+@id": "3147"
+            }
+        },
+        {
+            "+@gid": "2118850732",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Keiichirō Ōchi",
+                "+@id": "100904"
+            }
+        },
+        {
+            "+@gid": "2189567833",
+            "task": "Music",
+            "person": {
+                "+content": "Ryoshi Takagi",
+                "+@id": "301021"
+            }
+        },
         {
             "+@gid": "1706492267",
             "task": "Original creator",
@@ -84,17 +120,81 @@
                 "+content": "Ririnra",
                 "+@id": "168440"
             }
+        },
+        {
+            "+@gid": "1677293717",
+            "task": "Character Design",
+            "person": {
+                "+content": "Zenjirō Ukulele",
+                "+@id": "262231"
+            }
         }
     ],
-    "cast": {
-        "+@gid": "825830626",
-        "+@lang": "JA",
-        "role": "Bard Cornelius",
-        "person": {
-            "+content": "Yūsuke Kobayashi",
-            "+@id": "123728"
+    "cast": [
+        {
+            "+@gid": "1702083346",
+            "+@lang": "JA",
+            "role": "Sanai Oka",
+            "person": {
+                "+content": "Takashi Matsuyama",
+                "+@id": "3123"
+            }
+        },
+        {
+            "+@gid": "3200245413",
+            "+@lang": "JA",
+            "role": "Silke",
+            "person": {
+                "+content": "Sumire Morohoshi",
+                "+@id": "61669"
+            }
+        },
+        {
+            "+@gid": "3490350766",
+            "+@lang": "JA",
+            "role": "Selina",
+            "person": {
+                "+content": "Ayasa Itō",
+                "+@id": "119928"
+            }
+        },
+        {
+            "+@gid": "825830626",
+            "+@lang": "JA",
+            "role": "Bard Cornelius",
+            "person": {
+                "+content": "Yūsuke Kobayashi",
+                "+@id": "123728"
+            }
+        },
+        {
+            "+@gid": "2243201821",
+            "+@lang": "JA",
+            "role": "Seillune",
+            "person": {
+                "+content": "Yukari Anzai",
+                "+@id": "134708"
+            }
+        },
+        {
+            "+@gid": "1265206492",
+            "+@lang": "JA",
+            "role": "Masaharu Oka",
+            "person": {
+                "+content": "Satoshi Inomata",
+                "+@id": "143873"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "3421865267",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Studio DEEN",
+            "+@id": "35"
         }
     },
     "+@date-added": "2026-03-13T06:12:58Z",
-    "+@date-last-updated-at": "2026-07-13T15:12:23Z"
+    "+@date-last-modified-at": "2026-08-12T17:13:33Z",
+    "+@date-last-updated-at": "2026-08-12T17:13:33Z"
 }
