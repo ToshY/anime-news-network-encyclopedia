@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Jigokudō Reikai Tsūshin",
     "+@precision": "manga",
-    "+@generated-on": "2026-07-15T14:11:27Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "19628"
-    },
+    "+@generated-on": "2026-08-15T20:40:30Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "19628"
+        },
+        {
+            "+@rel": "remake of",
+            "+@id": "22378"
+        }
+    ],
     "related-next": {
         "+@id": "30157",
         "+@rel": "sequel"
@@ -107,5 +113,6 @@
         }
     ],
     "+@date-added": "2023-10-04T09:34:40Z",
-    "+@date-last-updated-at": "2026-07-15T14:11:30Z"
+    "+@date-last-modified-at": "2026-08-15T20:40:30Z",
+    "+@date-last-updated-at": "2026-08-15T20:40:30Z"
 }
