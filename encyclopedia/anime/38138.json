@@ -4,12 +4,31 @@
     "+@type": "ONA",
     "+@name": "Disney Twisted-Wonderland The Animation: Episode of Savanaclaw",
     "+@precision": "ONA",
-    "+@generated-on": "2026-07-17T06:09:58Z",
+    "+@generated-on": "2026-08-16T08:48:02Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29543"
     },
     "info": [
+        {
+            "+@gid": "2289843888",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38138-2289843888.1785154598.jpg",
+            "+@width": "160",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38138-2289843888.1785154598.jpg",
+                    "+@width": "160",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38138-2289843888.1785154598.jpg",
+                    "+@width": "480",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Disney Twisted-Wonderland The Animation: Episode of Savanaclaw",
             "+@gid": "3258547562",
@@ -19,9 +38,46 @@
         {
             "+content": "Stranded in the world of Twisted Wonderland, Yu must brave a magical school filled with ghosts, monsters, and uncooperative students. Yu finds herself at Night Raven College, a school for magic users, where the staff and students are getting ready for the interdormitory Spelldrive tournament. It sounds fun, but Yu soon learns that intensity, intrigue, and fierce competitiveness abound. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2026-12",
+            "+@gid": "4058584419",
+            "+@type": "Vintage"
         }
     ],
     "staff": [
+        {
+            "+@gid": "2569918185",
+            "task": "Chief Director",
+            "person": {
+                "+content": "Takahiro Natori",
+                "+@id": "54076"
+            }
+        },
+        {
+            "+@gid": "2969673649",
+            "task": "Director",
+            "person": {
+                "+content": "Shin Katagai",
+                "+@id": "37501"
+            }
+        },
+        {
+            "+@gid": "2094933786",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Takahiro Natori",
+                "+@id": "54076"
+            }
+        },
+        {
+            "+@gid": "3776627007",
+            "task": "Music",
+            "person": {
+                "+content": "Takumi Ozawa",
+                "+@id": "84163"
+            }
+        },
         {
             "+@gid": "2540124763",
             "task": "Original Concept",
@@ -37,8 +93,86 @@
                 "+content": "Yana Toboso",
                 "+@id": "71982"
             }
+        },
+        {
+            "+@gid": "1247921914",
+            "task": "Character Design",
+            "person": {
+                "+content": "Akane Satō",
+                "+@id": "165280"
+            }
+        },
+        {
+            "+@gid": "1160945208",
+            "task": "Character Design",
+            "person": {
+                "+content": "Hanaka Nakano",
+                "+@id": "199795"
+            }
+        },
+        {
+            "+@gid": "2116947789",
+            "task": "Art Director",
+            "person": {
+                "+content": "Junya Nishihara",
+                "+@id": "245044"
+            }
+        },
+        {
+            "+@gid": "2215551911",
+            "task": "3D Director",
+            "person": {
+                "+content": "Yoji Nagasawa",
+                "+@id": "63470"
+            }
+        },
+        {
+            "+@gid": "2582059016",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Miho Sugawara",
+                "+@id": "237636"
+            }
+        },
+        {
+            "+@gid": "2294152429",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Takao Saitō",
+                "+@id": "108509"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1462268101",
+            "+@lang": "JA",
+            "role": "Leona Kingscholar",
+            "person": {
+                "+content": "Yūichirō Umehara",
+                "+@id": "127402"
+            }
+        },
+        {
+            "+@gid": "733353575",
+            "+@lang": "JA",
+            "role": "Ruggie Butch",
+            "person": {
+                "+content": "Aoi Ichikawa",
+                "+@id": "152773"
+            }
+        },
+        {
+            "+@gid": "2200058174",
+            "+@lang": "JA",
+            "role": "Jack Howl",
+            "person": {
+                "+content": "Taito Ban",
+                "+@id": "167294"
+            }
         }
     ],
     "+@date-added": "2025-12-17T22:35:55Z",
-    "+@date-last-updated-at": "2026-07-17T06:28:19Z"
+    "+@date-last-modified-at": "2026-08-16T08:48:07Z",
+    "+@date-last-updated-at": "2026-08-16T08:48:07Z"
 }

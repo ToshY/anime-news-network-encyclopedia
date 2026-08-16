@@ -4,28 +4,28 @@
     "+@type": "TV",
     "+@name": "Clevatess",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-07-17T06:07:42Z",
+    "+@generated-on": "2026-08-16T08:07:12Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32863"
     },
     "info": [
         {
-            "+@gid": "2824593746",
+            "+@gid": "2304065263",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37848-2824593746.1777368906.jpg",
-            "+@width": "143",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37848-2304065263.1786630448.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37848-2824593746.1777368906.jpg",
-                    "+@width": "143",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37848-2304065263.1786630448.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37848-2824593746.1777368906.jpg",
-                    "+@width": "428",
-                    "+@height": "600"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37848-2304065263.1786630448.jpg",
+                    "+@width": "400",
+                    "+@height": "562"
                 }
             ]
         },
@@ -113,6 +113,16 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "4040080241",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "13",
+            "+@gid": "1331765384",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-08",
             "+@gid": "1364693344",
             "+@type": "Vintage"
@@ -136,8 +146,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "7.4918"
+        "+@nb_votes": "5",
+        "+@weighted_score": "7.6225"
     },
     "news": [
         {
@@ -174,6 +184,11 @@
             "+content": "Crunchyroll India to Stream <cite>Black Torch</cite>, <cite>Dara-san of Reiwa</cite>, <cite>Kaiju Girl Caramelise</cite>, More Anime in Summer 2026",
             "+@datetime": "2026-06-21T07:50:07Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-21/crunchyroll-india-to-stream-black-torch-dara-san-of-reiwa-kaiju-girl-caramelise-more-anime-in-/.238716"
+        },
+        {
+            "+content": "Hindi Dubs for <cite>Tomb Raider King</cite>, <cite>Black Torch</cite>, More Anime Stream on Crunchyroll",
+            "+@datetime": "2026-07-17T09:43:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-17/hindi-dubs-for-tomb-raider-king-black-torch-more-anime-stream-on-crunchyroll/.239722"
         }
     ],
     "staff": [
@@ -393,6 +408,15 @@
             }
         },
         {
+            "+@gid": "202558992",
+            "+@lang": "EN",
+            "role": "Clevatess",
+            "person": {
+                "+content": "Sean Letourneau",
+                "+@id": "232187"
+            }
+        },
+        {
             "+@gid": "2934012237",
             "+@lang": "EN",
             "role": "Alica",
@@ -503,10 +527,19 @@
         {
             "+@gid": "2060526699",
             "+@lang": "FR",
-            "role": "Elrow Romaine",
+            "role": "Elrow Lomaine",
             "person": {
                 "+content": "Michel Hinderyckx",
                 "+@id": "71691"
+            }
+        },
+        {
+            "+@gid": "1687237851",
+            "+@lang": "FR",
+            "role": "Galt",
+            "person": {
+                "+content": "Maxime Donnay",
+                "+@id": "72787"
             }
         },
         {
@@ -546,6 +579,15 @@
             }
         },
         {
+            "+@gid": "1638495630",
+            "+@lang": "FR",
+            "role": "Milea Renault Wards",
+            "person": {
+                "+content": "Alayin Dubois",
+                "+@id": "134762"
+            }
+        },
+        {
             "+@gid": "1463790623",
             "+@lang": "FR",
             "role": "Lang Face",
@@ -564,12 +606,30 @@
             }
         },
         {
+            "+@gid": "2215181301",
+            "+@lang": "FR",
+            "role": "Zaftier",
+            "person": {
+                "+content": "Marie Braam",
+                "+@id": "164178"
+            }
+        },
+        {
             "+@gid": "1956024192",
             "+@lang": "FR",
             "role": "Voldin",
             "person": {
                 "+content": "Jean-François Rossion",
                 "+@id": "171936"
+            }
+        },
+        {
+            "+@gid": "2673991761",
+            "+@lang": "FR",
+            "role": "Miquel",
+            "person": {
+                "+content": "Yannick Besson",
+                "+@id": "172700"
             }
         },
         {
@@ -588,15 +648,6 @@
             "person": {
                 "+content": "Matteo Marchese",
                 "+@id": "214002"
-            }
-        },
-        {
-            "+@gid": "2449754757",
-            "+@lang": "FR",
-            "role": "Nathan Fran",
-            "person": {
-                "+content": "Estelle Strypstein",
-                "+@id": "241874"
             }
         },
         {
@@ -771,6 +822,6 @@
         }
     },
     "+@date-added": "2025-09-17T19:00:48Z",
-    "+@date-last-modified-at": "2026-07-17T06:28:20Z",
-    "+@date-last-updated-at": "2026-07-17T06:28:20Z"
+    "+@date-last-modified-at": "2026-08-16T08:48:07Z",
+    "+@date-last-updated-at": "2026-08-16T08:48:07Z"
 }

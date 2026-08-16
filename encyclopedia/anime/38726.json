@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Tank Chair",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-17T06:14:16Z",
+    "+@generated-on": "2026-08-16T08:48:02Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29318"
@@ -13,18 +13,18 @@
         {
             "+@gid": "3095062935",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38726-3095062935.1773805800.jpg",
-            "+@width": "145",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38726-3095062935.1786540013.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38726-3095062935.1773805800.jpg",
-                    "+@width": "145",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38726-3095062935.1786540013.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38726-3095062935.1773805800.jpg",
-                    "+@width": "435",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38726-3095062935.1786540013.jpg",
+                    "+@width": "424",
                     "+@height": "600"
                 }
             ]
@@ -47,9 +47,19 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026-10",
+            "+content": "2026-10-04",
             "+@gid": "3991951774",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"DALALA\" by SiM",
+            "+@gid": "1199203929",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"SYNC\" by Daoko",
+            "+@gid": "2407897426",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ『TANK CHAIR-戦車椅子-』公式サイト",
@@ -66,11 +76,18 @@
             "+@href": "https://www.tankchair-anime.com/en/index.php"
         }
     ],
-    "news": {
-        "+content": "<cite>Tank Chair</cite> TV Anime Unveils Main Cast Members in Character Promo Video",
-        "+@datetime": "2026-05-27T03:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-05-26/tank-chair-tv-anime-unveils-main-cast-members-in-character-promo-video/.237831"
-    },
+    "news": [
+        {
+            "+content": "<cite>Tank Chair</cite> TV Anime Unveils Main Cast Members in Character Promo Video",
+            "+@datetime": "2026-05-27T03:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-26/tank-chair-tv-anime-unveils-main-cast-members-in-character-promo-video/.237831"
+        },
+        {
+            "+content": "<cite>Tank Chair</cite> Anime's New Video Unveils More Cast & Staff, Song Artists, October 4 Debut",
+            "+@datetime": "2026-08-12T03:51:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-11/tank-chair-anime-new-video-unveils-more-cast-and-staff-song-artists-october-4-debut/.240474"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3010951690",
@@ -135,9 +152,43 @@
                 "+content": "Yūki Moriyama",
                 "+@id": "72398"
             }
+        },
+        {
+            "+@gid": "2335897736",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yoshikatsu Matsumoto",
+                "+@id": "76957"
+            }
+        },
+        {
+            "+@gid": "1065658696",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Masanori Tsuchiya",
+                "+@id": "15158"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "3699131899",
+            "+@lang": "JA",
+            "role": "Goro Arashiyama",
+            "person": {
+                "+content": "Nobuyuki Hiyama",
+                "+@id": "1497"
+            }
+        },
+        {
+            "+@gid": "1353498823",
+            "+@lang": "JA",
+            "role": "Yoshitsune",
+            "person": {
+                "+content": "Tetsu Inada",
+                "+@id": "7015"
+            }
+        },
         {
             "+@gid": "1413644494",
             "+@lang": "JA",
@@ -157,6 +208,15 @@
             }
         },
         {
+            "+@gid": "1850413558",
+            "+@lang": "JA",
+            "role": "Dr. Radio",
+            "person": {
+                "+content": "Yurina Amami",
+                "+@id": "159137"
+            }
+        },
+        {
             "+@gid": "2383116427",
             "+@lang": "JA",
             "role": "Naozumi Kurosaka",
@@ -166,12 +226,30 @@
             }
         },
         {
+            "+@gid": "2276535396",
+            "+@lang": "JA",
+            "role": "Uzu",
+            "person": {
+                "+content": "Gen Sato",
+                "+@id": "174504"
+            }
+        },
+        {
             "+@gid": "2676233735",
             "+@lang": "JA",
             "role": "Shizuka Taira",
             "person": {
                 "+content": "Minori Fujidera",
                 "+@id": "214095"
+            }
+        },
+        {
+            "+@gid": "3045959807",
+            "+@lang": "JA",
+            "role": "Ryo Takanashi",
+            "person": {
+                "+content": "Hōchū Ōtsuka",
+                "+@id": "274643"
             }
         }
     ],
@@ -194,5 +272,6 @@
         }
     ],
     "+@date-added": "2026-03-17T23:47:36Z",
-    "+@date-last-updated-at": "2026-07-17T06:28:19Z"
+    "+@date-last-modified-at": "2026-08-16T08:48:07Z",
+    "+@date-last-updated-at": "2026-08-16T08:48:07Z"
 }

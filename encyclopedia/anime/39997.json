@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Josemaru",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-17T06:10:53Z",
+    "+@generated-on": "2026-08-16T08:48:02Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "39995"
@@ -13,24 +13,19 @@
         {
             "+@gid": "1866468771",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39997-1866468771.1781586946.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39997-1866468771.1785929356.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39997-1866468771.1781586946.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39997-1866468771.1785929356.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A39997-1866468771.1781586946.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A39997-1866468771.1785929356.jpg",
                     "+@width": "424",
                     "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A39997-1866468771.1781586946.jpg",
-                    "+@width": "579",
-                    "+@height": "819"
                 }
             ]
         },
@@ -52,11 +47,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "TV Asahi Announces New Short Anime Programming Block 'PicoAni'",
-        "+@datetime": "2026-06-15T20:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-06-15/tv-asahi-announces-new-short-anime-programming-block-picoani/.238537"
-    },
+    "news": [
+        {
+            "+content": "TV Asahi Announces New Short Anime Programming Block 'PicoAni'",
+            "+@datetime": "2026-06-15T20:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-15/tv-asahi-announces-new-short-anime-programming-block-picoani/.238537"
+        },
+        {
+            "+content": "<cite>Josemaru</cite> Short Anime's 2nd Teaser Unveils Lead Cast Member, More Staff",
+            "+@datetime": "2026-08-05T10:53:20Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-05/josemaru-short-anime-2nd-teaser-unveils-lead-cast-member-more-staff/.240299"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3124519941",
@@ -83,6 +85,14 @@
             }
         },
         {
+            "+@gid": "1896141243",
+            "task": "Character Design",
+            "person": {
+                "+content": "Mai Narushima",
+                "+@id": "300984"
+            }
+        },
+        {
             "+@gid": "3004748066",
             "task": "Executive producer",
             "person": {
@@ -99,6 +109,15 @@
             }
         }
     ],
+    "cast": {
+        "+@gid": "2298212566",
+        "+@lang": "JA",
+        "role": "Josemaru",
+        "person": {
+            "+content": "Riho Tsuda",
+            "+@id": "236680"
+        }
+    },
     "credit": {
         "+@gid": "3318951660",
         "task": "Animation Production",
@@ -108,5 +127,6 @@
         }
     },
     "+@date-added": "2026-06-16T01:14:57Z",
-    "+@date-last-updated-at": "2026-07-17T06:28:19Z"
+    "+@date-last-modified-at": "2026-08-16T08:48:07Z",
+    "+@date-last-updated-at": "2026-08-16T08:48:07Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Smoking Behind the Supermarket with You",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-17T06:04:57Z",
+    "+@generated-on": "2026-08-16T08:12:33Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26722"
@@ -84,12 +84,17 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "2725908712",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-06-03 (Limited Advance Streaming)",
             "+@gid": "1335780812",
             "+@type": "Vintage"
         },
         {
-            "+content": "2026-07-09 (TV broadcast)",
+            "+content": "2026-07-10 (TV broadcast)",
             "+@gid": "3070302572",
             "+@type": "Vintage"
         },
@@ -107,9 +112,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "15",
-        "+@weighted_score": "7.9672",
-        "+@bayesian_score": "7.74609"
+        "+@nb_votes": "21",
+        "+@weighted_score": "8.1212",
+        "+@bayesian_score": "7.88414"
     },
     "review": {
         "+content": "<cite>Smoking Behind the Supermarket with You</cite> Mini-Episode Cut Anime Review",
@@ -180,6 +185,11 @@
             "+content": "Netflix India to Stream <cite>Thunder 3</cite>, <cite>Smoking Behind the Supermarket with You</cite> Anime",
             "+@datetime": "2026-06-22T08:34:02Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-22/netflix-india-to-stream-thunder-3-smoking-behind-the-supermarket-with-you-anime/.238787"
+        },
+        {
+            "+content": "<cite>Smoking Behind the Supermarket with You</cite> Anime Reveals English Dub Cast",
+            "+@datetime": "2026-07-24T16:11:01Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-24/smoking-behind-the-supermarket-with-you-anime-reveals-english-dub-cast/.239942"
         }
     ],
     "staff": [
@@ -187,7 +197,7 @@
             "+@gid": "2048430123",
             "task": "Director",
             "person": {
-                "+content": "Tadato Suzuki",
+                "+content": "Masato Suzuki",
                 "+@id": "104320"
             }
         },
@@ -283,6 +293,15 @@
             }
         },
         {
+            "+@gid": "2443473043",
+            "+@lang": "EN",
+            "role": "Goto",
+            "person": {
+                "+content": "Rebecca Shoichet",
+                "+@id": "38054"
+            }
+        },
+        {
             "+@gid": "2917580324",
             "+@lang": "EN",
             "role": "Sasaki",
@@ -307,6 +326,33 @@
             "person": {
                 "+content": "Ruth Alexander",
                 "+@id": "211458"
+            }
+        },
+        {
+            "+@gid": "2718310500",
+            "+@lang": "ES",
+            "role": "Suzuki",
+            "person": {
+                "+content": "Miguel Angel Ruiz",
+                "+@id": "80457"
+            }
+        },
+        {
+            "+@gid": "2342754486",
+            "+@lang": "ES",
+            "role": "Sasaki",
+            "person": {
+                "+content": "Carlo Vázquez",
+                "+@id": "98157"
+            }
+        },
+        {
+            "+@gid": "1488523414",
+            "+@lang": "ES",
+            "role": "Yamada/Tayama",
+            "person": {
+                "+content": "Itzel Mendoza",
+                "+@id": "193377"
             }
         },
         {
@@ -382,6 +428,6 @@
         }
     },
     "+@date-added": "2025-07-18T07:57:33Z",
-    "+@date-last-modified-at": "2026-07-17T06:28:20Z",
-    "+@date-last-updated-at": "2026-07-17T06:28:20Z"
+    "+@date-last-modified-at": "2026-08-16T08:48:07Z",
+    "+@date-last-updated-at": "2026-08-16T08:48:07Z"
 }
