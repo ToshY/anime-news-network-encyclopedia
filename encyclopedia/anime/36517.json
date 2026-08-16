@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Beginning After The End",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-07-17T14:04:17Z",
+    "+@generated-on": "2026-08-16T16:43:13Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "33779"
@@ -98,9 +98,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "42",
-        "+@weighted_score": "7.1212",
-        "+@bayesian_score": "7.19864"
+        "+@nb_votes": "47",
+        "+@weighted_score": "7.1092",
+        "+@bayesian_score": "7.18244"
     },
     "news": [
         {
@@ -446,6 +446,15 @@
     ],
     "cast": [
         {
+            "+@gid": "2576553950",
+            "+@lang": "EN",
+            "role": "Alice Raywin",
+            "person": {
+                "+content": "Colleen Clinkenbeard",
+                "+@id": "20342"
+            }
+        },
+        {
             "+@gid": "3649370085",
             "+@lang": "EN",
             "role": "Grey",
@@ -473,24 +482,6 @@
             }
         },
         {
-            "+@gid": "3169401927",
-            "+@lang": "EN",
-            "role": "Lucas",
-            "person": {
-                "+content": "Drew Breedlove",
-                "+@id": "155446"
-            }
-        },
-        {
-            "+@gid": "1046329611",
-            "+@lang": "EN",
-            "role": "Elijah",
-            "person": {
-                "+content": "Jordan Dash Cruz",
-                "+@id": "158695"
-            }
-        },
-        {
             "+@gid": "3402626819",
             "+@lang": "EN",
             "role": "Arthur Leywin",
@@ -515,6 +506,15 @@
             "person": {
                 "+content": "Abigail Blythe",
                 "+@id": "229925"
+            }
+        },
+        {
+            "+@gid": "1629161507",
+            "+@lang": "EN",
+            "role": "Reynolds Leywin",
+            "person": {
+                "+content": "Jessie James Grelle",
+                "+@id": "241210"
             }
         },
         {
@@ -716,12 +716,12 @@
             }
         },
         {
-            "+@gid": "3294531843",
+            "+@gid": "3259270405",
             "+@lang": "JA",
-            "role": "Lucas",
+            "role": "Alice Raywin",
             "person": {
-                "+content": "Shōya Chiba",
-                "+@id": "97379"
+                "+content": "Rena Maeda",
+                "+@id": "102425"
             }
         },
         {
@@ -752,30 +752,21 @@
             }
         },
         {
+            "+@gid": "1502589612",
+            "+@lang": "JA",
+            "role": "Reynolds Leywin",
+            "person": {
+                "+content": "Yamato Kinjo",
+                "+@id": "130552"
+            }
+        },
+        {
             "+@gid": "1022022009",
             "+@lang": "JA",
             "role": "Tessia Eralith",
             "person": {
                 "+content": "Kana Ichinose",
                 "+@id": "164051"
-            }
-        },
-        {
-            "+@gid": "2672532697",
-            "+@lang": "JA",
-            "role": "Elijah",
-            "person": {
-                "+content": "Gen Sato",
-                "+@id": "174504"
-            }
-        },
-        {
-            "+@gid": "2728190685",
-            "+@lang": "JA",
-            "role": "Faylis",
-            "person": {
-                "+content": "Shinnosuke Tokudome",
-                "+@id": "175801"
             }
         },
         {
@@ -897,6 +888,6 @@
         }
     ],
     "+@date-added": "2025-06-11T20:02:35Z",
-    "+@date-last-modified-at": "2026-07-17T14:04:23Z",
-    "+@date-last-updated-at": "2026-07-17T14:04:23Z"
+    "+@date-last-modified-at": "2026-08-16T16:43:17Z",
+    "+@date-last-updated-at": "2026-08-16T16:43:17Z"
 }

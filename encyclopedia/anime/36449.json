@@ -4,29 +4,24 @@
     "+@type": "TV",
     "+@name": "Pan Dorobō",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-17T14:04:17Z",
+    "+@generated-on": "2026-08-16T16:43:13Z",
     "info": [
         {
             "+@gid": "2026224720",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36449-2026224720.1776298934.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36449-2026224720.1785817905.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36449-2026224720.1776298934.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36449-2026224720.1785817905.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36449-2026224720.1776298934.jpg",
-                    "+@width": "422",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36449-2026224720.1785817905.jpg",
+                    "+@width": "424",
                     "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A36449-2026224720.1776298934.jpg",
-                    "+@width": "573",
-                    "+@height": "814"
                 }
             ]
         },
@@ -70,6 +65,11 @@
             "+content": "<cite>Pan Dorobō</cite> Anime's 2nd Promo Video Reveals Main Cast, Ending Theme Song",
             "+@datetime": "2026-04-15T23:30:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-04-15/pan-dorobo-anime-2nd-promo-video-reveals-main-cast-ending-theme-song/.236411"
+        },
+        {
+            "+content": "<cite>Pan Dorobō</cite> Anime's New Video Unveils More Cast & Staff, Opening Song",
+            "+@datetime": "2026-08-04T03:48:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-03/pan-dorobo-anime-new-video-unveils-more-cast-and-staff-opening-song/.240257"
         }
     ],
     "staff": [
@@ -90,6 +90,14 @@
             }
         },
         {
+            "+@gid": "2500253930",
+            "task": "Music",
+            "person": {
+                "+content": "Yoshiaki Fujisawa",
+                "+@id": "113645"
+            }
+        },
+        {
             "+@gid": "3289563626",
             "task": "Original creator",
             "person": {
@@ -104,17 +112,61 @@
                 "+content": "Mako Miyako",
                 "+@id": "278943"
             }
+        },
+        {
+            "+@gid": "2832980305",
+            "task": "Art Director",
+            "person": {
+                "+content": "Chieko Nakamura",
+                "+@id": "15276"
+            }
+        },
+        {
+            "+@gid": "2153575931",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Noriyoshi Konuma",
+                "+@id": "84893"
+            }
+        },
+        {
+            "+@gid": "1663639787",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Masao Shimizu",
+                "+@id": "24499"
+            }
         }
     ],
-    "cast": {
-        "+@gid": "1773647837",
-        "+@lang": "JA",
-        "role": "Pan Dorobō",
-        "person": {
-            "+content": "Ayaka Asai",
-            "+@id": "122672"
+    "cast": [
+        {
+            "+@gid": "2838002652",
+            "+@lang": "JA",
+            "role": "Baker",
+            "person": {
+                "+content": "Junichi Suwabe",
+                "+@id": "48696"
+            }
+        },
+        {
+            "+@gid": "713155103",
+            "+@lang": "JA",
+            "role": "Fake Pan Dorobō",
+            "person": {
+                "+content": "Aki Toyosaki",
+                "+@id": "62870"
+            }
+        },
+        {
+            "+@gid": "1773647837",
+            "+@lang": "JA",
+            "role": "Pan Dorobō",
+            "person": {
+                "+content": "Ayaka Asai",
+                "+@id": "122672"
+            }
         }
-    },
+    ],
     "credit": {
         "+@gid": "2678475973",
         "task": "Animation Production",
@@ -124,5 +176,6 @@
         }
     },
     "+@date-added": "2025-06-08T23:25:14Z",
-    "+@date-last-updated-at": "2026-07-17T14:04:23Z"
+    "+@date-last-modified-at": "2026-08-16T16:43:17Z",
+    "+@date-last-updated-at": "2026-08-16T16:43:17Z"
 }
