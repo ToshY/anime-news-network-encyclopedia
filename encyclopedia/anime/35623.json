@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Tenkaichi: The Greatest Warrior Under the Rising Sun",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-17T21:08:16Z",
+    "+@generated-on": "2026-08-17T01:55:46Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "31284"
@@ -13,24 +13,19 @@
         {
             "+@gid": "2221464678",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35623-2221464678.1744421706.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35623-2221464678.1786628822.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35623-2221464678.1744421706.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35623-2221464678.1786628822.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35623-2221464678.1744421706.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35623-2221464678.1786628822.jpg",
                     "+@width": "424",
                     "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A35623-2221464678.1744421706.jpg",
-                    "+@width": "724",
-                    "+@height": "1024"
                 }
             ]
         },
@@ -71,18 +66,57 @@
             "+content": "samurai",
             "+@gid": "2286517413",
             "+@type": "Themes"
+        },
+        {
+            "+content": "2027-04",
+            "+@gid": "2885387372",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ『テンカイチ 日本最強武芸者決定戦』",
+            "+@gid": "3387436282",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://tenkaichi-anime.com/"
         }
     ],
-    "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "4"
-    },
-    "news": {
-        "+content": "<i>Tenkaichi: The Greatest Warrior Under the Rising Sun</i> Manga Gets TV Anime",
-        "+@datetime": "2025-04-12T00:51:53Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-04-11/tenkaichi-the-greatest-warrior-under-the-rising-sun-manga-gets-tv-anime/.223452"
-    },
+    "news": [
+        {
+            "+content": "<i>Tenkaichi: The Greatest Warrior Under the Rising Sun</i> Manga Gets TV Anime",
+            "+@datetime": "2025-04-12T00:51:53Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-04-11/tenkaichi-the-greatest-warrior-under-the-rising-sun-manga-gets-tv-anime/.223452"
+        },
+        {
+            "+content": "<cite>Tenkaichi: The Greatest Warrior Under the Rising Sun</cite> TV Anime Reveals Teaser Video, Main Cast, Staff, April 2027 Debut",
+            "+@datetime": "2026-08-13T10:15:03Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-13/tenkaichi-the-greatest-warrior-under-the-rising-sun-tv-anime-reveals-teaser-video-main-cast-staff-/.240548"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "2021915255",
+            "task": "Director",
+            "person": {
+                "+content": "Masashi Abe",
+                "+@id": "11068"
+            }
+        },
+        {
+            "+@gid": "2427204447",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Kazuharu Sato",
+                "+@id": "17381"
+            }
+        },
+        {
+            "+@gid": "1620742848",
+            "task": "Music",
+            "person": {
+                "+content": "Hayato Matsuo",
+                "+@id": "146"
+            }
+        },
         {
             "+@gid": "928173925",
             "task": "Original creator",
@@ -98,8 +132,54 @@
                 "+content": "Kyōtarō Azuma",
                 "+@id": "187751"
             }
+        },
+        {
+            "+@gid": "2119402883",
+            "task": "Character Design",
+            "person": {
+                "+content": "Ryōji Nakamori",
+                "+@id": "22838"
+            }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "2086655533",
+            "+@lang": "JA",
+            "role": "Nobunaga Oda",
+            "person": {
+                "+content": "Kenyū Horiuchi",
+                "+@id": "1007"
+            }
+        },
+        {
+            "+@gid": "1097727510",
+            "+@lang": "JA",
+            "role": "Tadakatsu Honda",
+            "person": {
+                "+content": "Kenichirō Matsuda",
+                "+@id": "71825"
+            }
+        },
+        {
+            "+@gid": "1991255112",
+            "+@lang": "JA",
+            "role": "Musashi Miyamoto",
+            "person": {
+                "+content": "Gen Sato",
+                "+@id": "174504"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "2107824693",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Fugaku",
+            "+@id": "20947"
+        }
+    },
     "+@date-added": "2025-04-11T21:33:06Z",
-    "+@date-last-updated-at": "2026-07-17T21:08:20Z"
+    "+@date-last-modified-at": "2026-08-17T01:55:49Z",
+    "+@date-last-updated-at": "2026-08-17T01:55:49Z"
 }

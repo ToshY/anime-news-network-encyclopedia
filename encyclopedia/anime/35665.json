@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Jaadugar: A Witch in Mongolia",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-17T21:08:14Z",
+    "+@generated-on": "2026-08-17T01:55:44Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26729"
@@ -123,9 +123,75 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "5.5553"
+        "+@nb_votes": "5",
+        "+@weighted_score": "7.0884"
     },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "All That Is in the Heavens and All That Is in the Earth",
+                "+@gid": "4141958714",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "The Roses That Bloom in Safar",
+                "+@gid": "1067215050",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "An Undying Flame",
+                "+@gid": "2078756153",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "Otchigin",
+                "+@gid": "2182231958",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "A Snake Shows Its Colors, Man Hides His Colors",
+                "+@gid": "2011722766",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "The Mergen People",
+                "+@gid": "2865320717",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "Brothers",
+                "+@gid": "1249204821",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "Great Khatun Boraqchin",
+                "+@gid": "3883872881",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "Tomato Soup's <cite>A Witch's Life in Mongol</cite> Manga Gets TV Anime From Science Saru",
@@ -196,6 +262,21 @@
             "+content": "<cite>Jaadugar: A Witch in Mongolia</cite> Anime Reveals English Dub Cast, July 18 Debut",
             "+@datetime": "2026-07-17T17:17:44Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-07-17/jaadugar-a-witch-in-mongolia-anime-reveals-english-dub-cast-july-18-debut/.239734"
+        },
+        {
+            "+content": "<cite>Jaadugar: A Witch in Mongolia</cite> Anime Reveals 3 New Cast Members",
+            "+@datetime": "2026-07-30T10:38:13Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-30/jaadugar-a-witch-in-mongolia-anime-reveals-3-new-cast-members/.240113"
+        },
+        {
+            "+content": "<cite>Jaadugar: A Witch in Mongolia</cite> Anime's New Video Unveils Cast Member Kujira",
+            "+@datetime": "2026-08-01T16:23:50Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-01/jaadugar-a-witch-in-mongolia-anime-new-video-unveils-cast-member-kujira/.240174"
+        },
+        {
+            "+content": "<cite>Jaadugar: A Witch in Mongolia</cite> Anime Gets Hindi Dub",
+            "+@datetime": "2026-08-16T11:24:59Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-16/jaadugar-a-witch-in-mongolia-anime-gets-hindi-dub/.240617"
         }
     ],
     "staff": [
@@ -283,6 +364,15 @@
             }
         },
         {
+            "+@gid": "1020477679",
+            "+@lang": "EN",
+            "role": "Töregene",
+            "person": {
+                "+content": "Michelle Rojas",
+                "+@id": "115434"
+            }
+        },
+        {
             "+@gid": "2737318182",
             "+@lang": "EN",
             "role": "Tolui",
@@ -292,12 +382,66 @@
             }
         },
         {
+            "+@gid": "995236220",
+            "+@lang": "EN",
+            "role": "Sorghaghtani",
+            "person": {
+                "+content": "Emi Lo",
+                "+@id": "174014"
+            }
+        },
+        {
+            "+@gid": "1397978102",
+            "+@lang": "EN",
+            "role": "Kirgistani",
+            "person": {
+                "+content": "Celeste Perez",
+                "+@id": "203685"
+            }
+        },
+        {
             "+@gid": "3138694353",
             "+@lang": "EN",
             "role": "Muhammad",
             "person": {
                 "+content": "Yussef Benelbar",
                 "+@id": "229587"
+            }
+        },
+        {
+            "+@gid": "2513752861",
+            "+@lang": "EN",
+            "role": "Jochi",
+            "person": {
+                "+content": "Charles Nguyen",
+                "+@id": "230066"
+            }
+        },
+        {
+            "+@gid": "435965192",
+            "+@lang": "EN",
+            "role": "Chagatai",
+            "person": {
+                "+content": "Mauricio Ortiz-Segura",
+                "+@id": "244000"
+            }
+        },
+        {
+            "+@gid": "3726984441",
+            "+@lang": "EN",
+            "role": "Möge",
+            "person": {
+                "+content": "Ezra Vervin",
+                "+@id": "249332"
+            }
+        },
+        {
+            "+@gid": "1398145942",
+            "+@lang": "EN",
+            "role": "Ögedei",
+            "person": {
+                "+content": "Ethan C.",
+                "+@id": "253978"
             }
         },
         {
@@ -316,6 +460,123 @@
             "person": {
                 "+content": "Marwa Elda",
                 "+@id": "279722"
+            }
+        },
+        {
+            "+@gid": "4177853752",
+            "+@lang": "ES",
+            "role": "Tío",
+            "person": {
+                "+content": "Nacho Rodríguez",
+                "+@id": "112163"
+            }
+        },
+        {
+            "+@gid": "1495908126",
+            "+@lang": "ES",
+            "role": "Zumurrud",
+            "person": {
+                "+content": "Susana Romero",
+                "+@id": "146668"
+            }
+        },
+        {
+            "+@gid": "741486321",
+            "+@lang": "ES",
+            "role": "Fatima",
+            "person": {
+                "+content": "Julieta Rivera",
+                "+@id": "205296"
+            }
+        },
+        {
+            "+@gid": "3046969214",
+            "+@lang": "ES",
+            "role": "Ahmad",
+            "person": {
+                "+content": "Edgar Pedroza",
+                "+@id": "216169"
+            }
+        },
+        {
+            "+@gid": "1104728088",
+            "+@lang": "ES",
+            "role": "Sitara",
+            "person": {
+                "+content": "Lili Vela",
+                "+@id": "224074"
+            }
+        },
+        {
+            "+@gid": "1518687784",
+            "+@lang": "ES",
+            "role": "Anis",
+            "person": {
+                "+content": "Maribel Navarro",
+                "+@id": "269498"
+            }
+        },
+        {
+            "+@gid": "4236753079",
+            "+@lang": "ES",
+            "role": "Muhammad",
+            "person": {
+                "+content": "Angel Kushano",
+                "+@id": "289107"
+            }
+        },
+        {
+            "+@gid": "2167739766",
+            "+@lang": "FR",
+            "role": "Fatima",
+            "person": {
+                "+content": "Helene Bizot",
+                "+@id": "38751"
+            }
+        },
+        {
+            "+@gid": "2521024257",
+            "+@lang": "FR",
+            "role": "Ahmed",
+            "person": {
+                "+content": "Emmanuel Rausenberger",
+                "+@id": "70473"
+            }
+        },
+        {
+            "+@gid": "1195482937",
+            "+@lang": "FR",
+            "role": "Sitara",
+            "person": {
+                "+content": "Clara Soares",
+                "+@id": "153590"
+            }
+        },
+        {
+            "+@gid": "3766427443",
+            "+@lang": "FR",
+            "role": "Mohammed",
+            "person": {
+                "+content": "Pablo Cherray",
+                "+@id": "198663"
+            }
+        },
+        {
+            "+@gid": "1558991489",
+            "+@lang": "FR",
+            "role": "Tolui",
+            "person": {
+                "+content": "Luca Garzo",
+                "+@id": "249397"
+            }
+        },
+        {
+            "+@gid": "2495909068",
+            "+@lang": "FR",
+            "role": "Anis",
+            "person": {
+                "+content": "Cécile Heintzmann",
+                "+@id": "289671"
             }
         },
         {
@@ -352,6 +613,15 @@
             "person": {
                 "+content": "Mayumi Shintani",
                 "+@id": "1454"
+            }
+        },
+        {
+            "+@gid": "2793960446",
+            "+@lang": "JA",
+            "role": "Boraqchin",
+            "person": {
+                "+content": "Kujira",
+                "+@id": "3581"
             }
         },
         {
@@ -436,6 +706,6 @@
         }
     },
     "+@date-added": "2025-04-14T05:45:27Z",
-    "+@date-last-modified-at": "2026-07-17T21:08:20Z",
-    "+@date-last-updated-at": "2026-07-17T21:08:20Z"
+    "+@date-last-modified-at": "2026-08-17T01:55:49Z",
+    "+@date-last-updated-at": "2026-08-17T01:55:49Z"
 }
