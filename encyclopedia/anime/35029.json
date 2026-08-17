@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Black Torch",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-18T06:16:17Z",
+    "+@generated-on": "2026-08-17T09:01:45Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "20345"
@@ -46,9 +46,49 @@
             "+@type": "Genres"
         },
         {
+            "+content": "gore",
+            "+@gid": "2747087213",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "monsters",
+            "+@gid": "1704939939",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "ninja",
+            "+@gid": "2232058979",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "police",
+            "+@gid": "2344484058",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "spirits",
+            "+@gid": "2908087259",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "3243309237",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "MA",
+            "+@gid": "2894986569",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "Jiro Azuma is descended from of a long line of shinobi, and he also can talk to animals. Although he may appear rough and tumble, his compassionate side emerges when it comes to furry critters. But Jiro's soft spot for animals gets him in major trouble when a suspicious stray cat fuses with him, granting him exceptional power but also dragging him into humanity's hidden battle against powerful, menacing spirits.",
             "+@gid": "1678197111",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "24",
+            "+@gid": "1734572554",
+            "+@type": "Running time"
         },
         {
             "+content": "2026-07-04",
@@ -71,9 +111,67 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "5.1603"
+        "+@nb_votes": "9",
+        "+@weighted_score": "5.0778"
     },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "The Future Is in Our Hands",
+                "+@gid": "3885455247",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "The Choice Is Yours",
+                "+@gid": "2029825871",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "WHAT'S MY NAME?",
+                "+@gid": "1262669291",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "Two Is Not Enough",
+                "+@gid": "1057055225",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "Young Gunz",
+                "+@gid": "4077650205",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "Turn Up",
+                "+@gid": "3422678948",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "3 ON THREE",
+                "+@gid": "1686237830",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "<cite>Black Torch</cite> TV Anime Reveals Main Cast",
@@ -291,6 +389,15 @@
             }
         },
         {
+            "+@gid": "2483180270",
+            "+@lang": "EN",
+            "role": "Fuyo",
+            "person": {
+                "+content": "Tara Sands",
+                "+@id": "63581"
+            }
+        },
+        {
             "+@gid": "3043801473",
             "+@lang": "EN",
             "role": "Toko Kusumi",
@@ -309,6 +416,15 @@
             }
         },
         {
+            "+@gid": "1469471027",
+            "+@lang": "EN",
+            "role": "Kanawa",
+            "person": {
+                "+content": "Mick Lauer",
+                "+@id": "123816"
+            }
+        },
+        {
             "+@gid": "2858518095",
             "+@lang": "EN",
             "role": "Reiji Kirihara",
@@ -318,21 +434,21 @@
             }
         },
         {
+            "+@gid": "2261899088",
+            "+@lang": "EN",
+            "role": "Roren",
+            "person": {
+                "+content": "Chris Hackney",
+                "+@id": "135828"
+            }
+        },
+        {
             "+@gid": "1085975907",
             "+@lang": "EN",
             "role": "Toshimasa Azuma",
             "person": {
                 "+content": "Ben Balmaceda",
                 "+@id": "154217"
-            }
-        },
-        {
-            "+@gid": "220714058",
-            "+@lang": "EN",
-            "role": "Huge Mononoke",
-            "person": {
-                "+content": "Kellen Goff",
-                "+@id": "163020"
             }
         },
         {
@@ -357,6 +473,15 @@
             "+@gid": "2799226662",
             "+@lang": "EN",
             "role": "Hana Usami",
+            "person": {
+                "+content": "Julie Nathanson",
+                "+@id": "197846"
+            }
+        },
+        {
+            "+@gid": "2081277329",
+            "+@lang": "EN",
+            "role": "Naruko",
             "person": {
                 "+content": "Julie Nathanson",
                 "+@id": "197846"
@@ -414,6 +539,96 @@
             "person": {
                 "+content": "Fer Navarro",
                 "+@id": "216175"
+            }
+        },
+        {
+            "+@gid": "246631409",
+            "+@lang": "FR",
+            "role": "Banjūrō Tokieda",
+            "person": {
+                "+content": "Vincent Violette",
+                "+@id": "37999"
+            }
+        },
+        {
+            "+@gid": "220002503",
+            "+@lang": "FR",
+            "role": "Amagi",
+            "person": {
+                "+content": "Yoann Sover",
+                "+@id": "53258"
+            }
+        },
+        {
+            "+@gid": "1941566462",
+            "+@lang": "FR",
+            "role": "Reiji Kirihara",
+            "person": {
+                "+content": "Bruno Meyere",
+                "+@id": "54390"
+            }
+        },
+        {
+            "+@gid": "491418612",
+            "+@lang": "FR",
+            "role": "Toshimasa Azuma",
+            "person": {
+                "+content": "Serge Thiriet",
+                "+@id": "62497"
+            }
+        },
+        {
+            "+@gid": "2654832356",
+            "+@lang": "FR",
+            "role": "Ryōsuke Shiba",
+            "person": {
+                "+content": "Emmanuel Rausenberger",
+                "+@id": "70473"
+            }
+        },
+        {
+            "+@gid": "2576358663",
+            "+@lang": "FR",
+            "role": "Kōga",
+            "person": {
+                "+content": "Christophe Seugnet",
+                "+@id": "81516"
+            }
+        },
+        {
+            "+@gid": "2627228092",
+            "+@lang": "FR",
+            "role": "Tōko Kusumi",
+            "person": {
+                "+content": "Kaïna Blada",
+                "+@id": "177876"
+            }
+        },
+        {
+            "+@gid": "2988544765",
+            "+@lang": "FR",
+            "role": "Jiro Azuma",
+            "person": {
+                "+content": "Marc Maurille",
+                "+@id": "202301"
+            }
+        },
+        {
+            "+@gid": "689426104",
+            "+@lang": "FR",
+            "role": "Ichika Kishimojin",
+            "person": {
+                "+content": "Margaux Maillet",
+                "+@id": "204940"
+            }
+        },
+        {
+            "+@gid": "1842297933",
+            "+@lang": "FR",
+            "role": "Rago",
+            "person": {
+                "+content": "Augustin Jacob",
+                "+@id": "228475"
             }
         },
         {
@@ -580,6 +795,14 @@
             }
         },
         {
+            "+@gid": "3395350128",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Studio PPURI",
+                "+@id": "27414"
+            }
+        },
+        {
             "+@gid": "659939066",
             "task": "Production",
             "company": {
@@ -613,6 +836,6 @@
         }
     ],
     "+@date-added": "2025-03-08T21:52:33Z",
-    "+@date-last-modified-at": "2026-07-18T06:19:37Z",
-    "+@date-last-updated-at": "2026-07-18T06:19:37Z"
+    "+@date-last-modified-at": "2026-08-17T09:01:50Z",
+    "+@date-last-updated-at": "2026-08-17T09:01:50Z"
 }
