@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Skip and Loafer",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-07-18T17:15:29Z",
+    "+@generated-on": "2026-08-17T20:44:59Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24980"
@@ -78,6 +78,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "2027-04",
+            "+@gid": "1444219648",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ「スキップとローファー」公式サイト",
             "+@gid": "949716196",
             "+@type": "Official website",
@@ -85,11 +90,18 @@
             "+@href": "https://skip-and-loafer.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Skip & Loafer</cite> Anime's 2nd Season Reveals Staff, Visual",
-        "+@datetime": "2025-03-03T09:50:27Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-03-03/skip-and-loafer-anime-2nd-season-reveals-staff-visual/.221871"
-    },
+    "news": [
+        {
+            "+content": "<cite>Skip & Loafer</cite> Anime's 2nd Season Reveals Staff, Visual",
+            "+@datetime": "2025-03-03T09:50:27Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-03/skip-and-loafer-anime-2nd-season-reveals-staff-visual/.221871"
+        },
+        {
+            "+content": "<cite>Skip & Loafer</cite> Anime's 2nd Season Reveals April 2027 Debut in Teaser Video",
+            "+@datetime": "2026-08-16T08:40:36Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-16/skip-and-loafer-anime-2nd-season-reveals-april-2027-debut-in-teaser-video/.240621"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1810363072",
@@ -116,6 +128,22 @@
             }
         },
         {
+            "+@gid": "994650835",
+            "task": "Music",
+            "person": {
+                "+content": "MICHIRU",
+                "+@id": "66785"
+            }
+        },
+        {
+            "+@gid": "801542481",
+            "task": "Music",
+            "person": {
+                "+content": "Takatsugu Wakabayashi",
+                "+@id": "125956"
+            }
+        },
+        {
             "+@gid": "2112784880",
             "task": "Original creator",
             "person": {
@@ -137,6 +165,14 @@
             "person": {
                 "+content": "Sō Senoo",
                 "+@id": "156235"
+            }
+        },
+        {
+            "+@gid": "2557318809",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yūsuke Inoue",
+                "+@id": "104240"
             }
         },
         {
@@ -172,11 +208,11 @@
             }
         },
         {
-            "+@gid": "3252067725",
+            "+@gid": "1977634027",
             "task": "Director of Photography",
             "person": {
-                "+content": "Kazuto Izumita",
-                "+@id": "178577"
+                "+content": "Akane Ueda",
+                "+@id": "146435"
             }
         }
     ],
@@ -281,5 +317,6 @@
         }
     },
     "+@date-added": "2024-12-19T22:43:51Z",
-    "+@date-last-updated-at": "2026-07-18T17:15:33Z"
+    "+@date-last-modified-at": "2026-08-17T20:45:03Z",
+    "+@date-last-updated-at": "2026-08-17T20:45:03Z"
 }
