@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Though I Am an Inept Villainess",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-18T03:33:36Z",
+    "+@generated-on": "2026-08-17T04:59:09Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25905"
@@ -48,9 +48,39 @@
             "+@lang": "JA"
         },
         {
+            "+content": "drama",
+            "+@gid": "2678435556",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "793231851",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "1507660143",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "politics",
+            "+@gid": "2692124422",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "1698068281",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "In a kingdom inspired by historical China, five clans put forth their maidens as imperial consorts–but only one will be crowned empress. The frail and beautiful Kou Reirin, the so-called \"butterfly\" of the imperial court, is a shoo-in to marry the crown prince. But when \"court rat\" Shu Keigetsu lashes out at her during the glittering Lantern Festival, it's Reirin who wakes up in the dungeons. Body-swapped by her assailant to steal her position at court, Reirin's plight seems dire...to everyone else. Now that she's got a robust new body, not even the looming threat of execution can stop her.",
             "+@gid": "2425758769",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "24",
+            "+@gid": "951679674",
+            "+@type": "Running time"
         },
         {
             "+content": "2026-07-12",
@@ -83,17 +113,59 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "6.4805"
+        "+@nb_votes": "6",
+        "+@weighted_score": "7.1641"
     },
-    "episode": {
-        "+@num": "1",
-        "title": {
-            "+content": "Though I Am an Inept Villainess",
-            "+@gid": "1485142986",
-            "+@lang": "EN"
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "Though I Am an Inept Villainess",
+                "+@gid": "1485142986",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "Will I Be Living Here?",
+                "+@gid": "2605412827",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "Shoulders Back, Look Forward",
+                "+@gid": "3094375041",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "My Miracle Comet",
+                "+@gid": "3251294932",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "Who Is That Girl?",
+                "+@gid": "2383020098",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "I Won't Let You Die",
+                "+@gid": "1372488224",
+                "+@lang": "EN"
+            }
         }
-    },
+    ],
     "news": [
         {
             "+content": "<cite>Though I Am an Inept Villainess</cite> Anime's Trailer Reveals Main Cast, 2026 Premiere",
@@ -154,6 +226,11 @@
             "+content": "Anime Times Streams <cite>Though I Am an Inept Villainess</cite>,  <cite>Grand Blue Dreaming</cite>, More Anime in India",
             "+@datetime": "2026-07-09T14:20:56Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-07-09/anime-times-streams-though-i-am-an-inept-villainess-grand-blue-dreaming-more-anime-in-india/.239423"
+        },
+        {
+            "+content": "<cite>Though I am an Inept Villainess</cite> Anime Reveals English Dub Cast, July 26 Debut, Trailer (Updated)",
+            "+@datetime": "2026-07-24T14:43:59Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-24/though-i-am-an-inept-villainess-anime-reveals-english-dub-cast-july-26-debut-trailer/.239940"
         }
     ],
     "staff": [
@@ -231,6 +308,249 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "2102729068",
+            "+@lang": "EN",
+            "role": "Ei Gyōmei",
+            "person": {
+                "+content": "Kaiji Tang",
+                "+@id": "70445"
+            }
+        },
+        {
+            "+@gid": "1610378197",
+            "+@lang": "EN",
+            "role": "Shu Gabi",
+            "person": {
+                "+content": "Grace Lu",
+                "+@id": "118077"
+            }
+        },
+        {
+            "+@gid": "2094905050",
+            "+@lang": "EN",
+            "role": "Kou Reirin",
+            "person": {
+                "+content": "Brianna Knickerbocker",
+                "+@id": "135490"
+            }
+        },
+        {
+            "+@gid": "2075488239",
+            "+@lang": "EN",
+            "role": "Ko Kenshu",
+            "person": {
+                "+content": "Caitlyn Elizabeth",
+                "+@id": "172838"
+            }
+        },
+        {
+            "+@gid": "1672179064",
+            "+@lang": "EN",
+            "role": "Kin Seika",
+            "person": {
+                "+content": "Emi Lo",
+                "+@id": "174014"
+            }
+        },
+        {
+            "+@gid": "60571924",
+            "+@lang": "EN",
+            "role": "Shin-u",
+            "person": {
+                "+content": "Aleks Le",
+                "+@id": "174640"
+            }
+        },
+        {
+            "+@gid": "252775722",
+            "+@lang": "EN",
+            "role": "Riirii",
+            "person": {
+                "+content": "Lizzie Freeman",
+                "+@id": "182190"
+            }
+        },
+        {
+            "+@gid": "1661149122",
+            "+@lang": "EN",
+            "role": "Shu Keigetsu",
+            "person": {
+                "+content": "Rebecca Wang",
+                "+@id": "255180"
+            }
+        },
+        {
+            "+@gid": "3048352979",
+            "+@lang": "EN",
+            "role": "Kō Tōsetsu",
+            "person": {
+                "+content": "Mori Calliope",
+                "+@id": "263353"
+            }
+        },
+        {
+            "+@gid": "2216439427",
+            "+@lang": "ES",
+            "role": "Shu Keigetsu",
+            "person": {
+                "+content": "Nycolle González",
+                "+@id": "121463"
+            }
+        },
+        {
+            "+@gid": "1375307805",
+            "+@lang": "ES",
+            "role": "Leelee",
+            "person": {
+                "+content": "Noelia Lestani",
+                "+@id": "172526"
+            }
+        },
+        {
+            "+@gid": "2344037272",
+            "+@lang": "ES",
+            "role": "Kou Reirin",
+            "person": {
+                "+content": "Erika Ugalde",
+                "+@id": "172885"
+            }
+        },
+        {
+            "+@gid": "2169147637",
+            "+@lang": "FR",
+            "role": "Kou Reirin",
+            "person": {
+                "+content": "Maryne Bertiaux",
+                "+@id": "112957"
+            }
+        },
+        {
+            "+@gid": "581603481",
+            "+@lang": "FR",
+            "role": "Shu Keigetsu",
+            "person": {
+                "+content": "Valérie Bachère",
+                "+@id": "136049"
+            }
+        },
+        {
+            "+@gid": "2638768160",
+            "+@lang": "FR",
+            "role": "Ei Gyômei",
+            "person": {
+                "+content": "Laurent Blanpain",
+                "+@id": "184059"
+            }
+        },
+        {
+            "+@gid": "2794468132",
+            "+@lang": "FR",
+            "role": "Shin'u",
+            "person": {
+                "+content": "Vincent Pierrard",
+                "+@id": "198660"
+            }
+        },
+        {
+            "+@gid": "1474254169",
+            "+@lang": "FR",
+            "role": "Lili",
+            "person": {
+                "+content": "Elia-Carmine Robbe",
+                "+@id": "241218"
+            }
+        },
+        {
+            "+@gid": "2743810031",
+            "+@lang": "FR",
+            "role": "Kō Tōsetsu",
+            "person": {
+                "+content": "Ninon Moreau",
+                "+@id": "242662"
+            }
+        },
+        {
+            "+@gid": "2217199020",
+            "+@lang": "IT",
+            "role": "Kou Tousetsu",
+            "person": {
+                "+content": "Beatrice Caggiula",
+                "+@id": "61335"
+            }
+        },
+        {
+            "+@gid": "814623332",
+            "+@lang": "IT",
+            "role": "Shin-u",
+            "person": {
+                "+content": "Mattia Bressan",
+                "+@id": "135601"
+            }
+        },
+        {
+            "+@gid": "1014261729",
+            "+@lang": "IT",
+            "role": "Ei Gyōmei",
+            "person": {
+                "+content": "Dimitri Winter",
+                "+@id": "144548"
+            }
+        },
+        {
+            "+@gid": "2647130319",
+            "+@lang": "IT",
+            "role": "Ran Houshun",
+            "person": {
+                "+content": "Giulia Maniglio",
+                "+@id": "144600"
+            }
+        },
+        {
+            "+@gid": "2283781093",
+            "+@lang": "IT",
+            "role": "Gen Kasui",
+            "person": {
+                "+content": "Martina Tamburello",
+                "+@id": "155039"
+            }
+        },
+        {
+            "+@gid": "1740840500",
+            "+@lang": "IT",
+            "role": "Shu Keigetsu",
+            "person": {
+                "+content": "Elisa Giorgio",
+                "+@id": "176925"
+            }
+        },
+        {
+            "+@gid": "3442791571",
+            "+@lang": "IT",
+            "role": "LeeLee",
+            "person": {
+                "+content": "Luna Fogu",
+                "+@id": "232090"
+            }
+        },
+        {
+            "+@gid": "2541224164",
+            "+@lang": "IT",
+            "role": "Kin Seika",
+            "person": {
+                "+content": "Ludovica Cuppari",
+                "+@id": "235354"
+            }
+        },
+        {
+            "+@gid": "1138547256",
+            "+@lang": "IT",
+            "role": "Kou Reirin",
+            "person": {
+                "+content": "Gaia Chiaro",
+                "+@id": "248402"
+            }
+        },
         {
             "+@gid": "2756835975",
             "+@lang": "JA",
@@ -340,6 +660,6 @@
         }
     },
     "+@date-added": "2025-03-17T07:56:25Z",
-    "+@date-last-modified-at": "2026-07-18T03:33:39Z",
-    "+@date-last-updated-at": "2026-07-18T03:33:39Z"
+    "+@date-last-modified-at": "2026-08-17T04:59:13Z",
+    "+@date-last-updated-at": "2026-08-17T04:59:13Z"
 }
