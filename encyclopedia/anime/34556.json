@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
     "+@precision": "movie",
-    "+@generated-on": "2026-07-18T13:51:12Z",
+    "+@generated-on": "2026-08-17T16:47:02Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26553"
@@ -117,8 +117,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "8",
-        "+@weighted_score": "5.7584"
+        "+@nb_votes": "17",
+        "+@weighted_score": "6.1207",
+        "+@bayesian_score": "6.67874"
     },
     "review": {
         "+content": "<cite>That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea</cite> Anime Film Review",
@@ -199,6 +200,11 @@
             "+content": "2nd <cite>That Time I Got Reincarnated as a Slime</cite> Film Opens at #9 in U.S.",
             "+@datetime": "2026-05-04T14:00:47Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-05-04/2nd-that-time-i-got-reincarnated-as-a-slime-film-opens-at-no.9-in-u.s/.237063"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>That Time I Got Reincarnated as a Slime: Tears of the Azure Sea</cite> Film",
+            "+@datetime": "2026-08-01T02:41:05Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-31/crunchyroll-streams-that-time-i-got-reincarnated-as-a-slime-tears-of-the-azure-sea-film/.240152"
         }
     ],
     "staff": [
@@ -574,12 +580,66 @@
             }
         },
         {
+            "+@gid": "2979972853",
+            "+@lang": "ES",
+            "role": "Rafael",
+            "person": {
+                "+content": "Circe Luna",
+                "+@id": "3753"
+            }
+        },
+        {
             "+@gid": "3310205488",
             "+@lang": "ES",
             "role": "Shuna",
             "person": {
                 "+content": "Alondra Hidalgo",
                 "+@id": "31197"
+            }
+        },
+        {
+            "+@gid": "262661203",
+            "+@lang": "ES",
+            "role": "Hakuro",
+            "person": {
+                "+content": "Jose Luis Orozco",
+                "+@id": "32643"
+            }
+        },
+        {
+            "+@gid": "2155954616",
+            "+@lang": "ES",
+            "role": "Hinata Sakaguchi",
+            "person": {
+                "+content": "Lupita Leal",
+                "+@id": "40618"
+            }
+        },
+        {
+            "+@gid": "2457555241",
+            "+@lang": "ES",
+            "role": "Diablo",
+            "person": {
+                "+content": "Arturo Castañeda",
+                "+@id": "48551"
+            }
+        },
+        {
+            "+@gid": "1912843462",
+            "+@lang": "ES",
+            "role": "Beretta",
+            "person": {
+                "+content": "Rebeca Gómez",
+                "+@id": "48608"
+            }
+        },
+        {
+            "+@gid": "1840539061",
+            "+@lang": "ES",
+            "role": "Leon Cromwell",
+            "person": {
+                "+content": "Javier Olguín",
+                "+@id": "50673"
             }
         },
         {
@@ -619,12 +679,66 @@
             }
         },
         {
+            "+@gid": "2069367309",
+            "+@lang": "ES",
+            "role": "Milim Nava",
+            "person": {
+                "+content": "Karen Vallejo",
+                "+@id": "97431"
+            }
+        },
+        {
             "+@gid": "2111777612",
             "+@lang": "ES",
             "role": "Ramiris",
             "person": {
                 "+content": "Analiz Sánchez",
                 "+@id": "98843"
+            }
+        },
+        {
+            "+@gid": "2414569435",
+            "+@lang": "ES",
+            "role": "Gido",
+            "person": {
+                "+content": "Manuel Pérez",
+                "+@id": "106447"
+            }
+        },
+        {
+            "+@gid": "2076910024",
+            "+@lang": "ES",
+            "role": "Benimaru",
+            "person": {
+                "+content": "David Allende",
+                "+@id": "119645"
+            }
+        },
+        {
+            "+@gid": "563577034",
+            "+@lang": "ES",
+            "role": "Souei",
+            "person": {
+                "+content": "César Garduza",
+                "+@id": "129421"
+            }
+        },
+        {
+            "+@gid": "2058114759",
+            "+@lang": "ES",
+            "role": "Luminus Valentine",
+            "person": {
+                "+content": "Alicia Barragán",
+                "+@id": "129425"
+            }
+        },
+        {
+            "+@gid": "876271932",
+            "+@lang": "ES",
+            "role": "Elen",
+            "person": {
+                "+content": "Annie Rojas",
+                "+@id": "129768"
             }
         },
         {
@@ -637,12 +751,39 @@
             }
         },
         {
+            "+@gid": "1523624179",
+            "+@lang": "ES",
+            "role": "Treyni",
+            "person": {
+                "+content": "Fernanda Robles",
+                "+@id": "156390"
+            }
+        },
+        {
             "+@gid": "2795780857",
             "+@lang": "ES",
             "role": "Yori",
             "person": {
                 "+content": "Araceli Romero",
                 "+@id": "156660"
+            }
+        },
+        {
+            "+@gid": "2577283704",
+            "+@lang": "ES",
+            "role": "Ranga",
+            "person": {
+                "+content": "Dave Ramos",
+                "+@id": "161967"
+            }
+        },
+        {
+            "+@gid": "941309391",
+            "+@lang": "ES",
+            "role": "Kabal",
+            "person": {
+                "+content": "Carlos Barragán",
+                "+@id": "166270"
             }
         },
         {
@@ -664,6 +805,15 @@
             }
         },
         {
+            "+@gid": "2885002971",
+            "+@lang": "ES",
+            "role": "Frey",
+            "person": {
+                "+content": "Diana Alonso",
+                "+@id": "173333"
+            }
+        },
+        {
             "+@gid": "3278707969",
             "+@lang": "ES",
             "role": "Mio",
@@ -682,12 +832,210 @@
             }
         },
         {
+            "+@gid": "2692184750",
+            "+@lang": "ES",
+            "role": "Carrera",
+            "person": {
+                "+content": "Marisol Hamed",
+                "+@id": "208770"
+            }
+        },
+        {
             "+@gid": "1755074184",
             "+@lang": "ES",
             "role": "Lete",
             "person": {
                 "+content": "Olin Garcés",
                 "+@id": "269571"
+            }
+        },
+        {
+            "+@gid": "1109547921",
+            "+@lang": "FR",
+            "role": "Djeese",
+            "person": {
+                "+content": "Benjamin Thomas",
+                "+@id": "19359"
+            }
+        },
+        {
+            "+@gid": "2528239269",
+            "+@lang": "FR",
+            "role": "Soei",
+            "person": {
+                "+content": "Alexandre Crépet",
+                "+@id": "52982"
+            }
+        },
+        {
+            "+@gid": "2339856689",
+            "+@lang": "FR",
+            "role": "Treyni",
+            "person": {
+                "+content": "Marielle Ostrowski",
+                "+@id": "52989"
+            }
+        },
+        {
+            "+@gid": "3677454136",
+            "+@lang": "FR",
+            "role": "Raphaël",
+            "person": {
+                "+content": "Fabienne Loriaux",
+                "+@id": "58717"
+            }
+        },
+        {
+            "+@gid": "2779810385",
+            "+@lang": "FR",
+            "role": "Roi Lete",
+            "person": {
+                "+content": "Franck Daquin",
+                "+@id": "59340"
+            }
+        },
+        {
+            "+@gid": "2219817002",
+            "+@lang": "FR",
+            "role": "Hinata Sakaguchi",
+            "person": {
+                "+content": "Délphine Chauvier",
+                "+@id": "68044"
+            }
+        },
+        {
+            "+@gid": "2003456908",
+            "+@lang": "FR",
+            "role": "Zodon",
+            "person": {
+                "+content": "Sébastien Hebrant",
+                "+@id": "68470"
+            }
+        },
+        {
+            "+@gid": "2152843141",
+            "+@lang": "FR",
+            "role": "Milim",
+            "person": {
+                "+content": "Esther Aflalo",
+                "+@id": "69323"
+            }
+        },
+        {
+            "+@gid": "2157957153",
+            "+@lang": "FR",
+            "role": "Gobuta",
+            "person": {
+                "+content": "Gauthier De Fauconval",
+                "+@id": "72991"
+            }
+        },
+        {
+            "+@gid": "2129449973",
+            "+@lang": "FR",
+            "role": "Hakuro",
+            "person": {
+                "+content": "Nicolas Matthys",
+                "+@id": "114851"
+            }
+        },
+        {
+            "+@gid": "2149287793",
+            "+@lang": "FR",
+            "role": "Veldra Tempest",
+            "person": {
+                "+content": "Nicolas Matthys",
+                "+@id": "114851"
+            }
+        },
+        {
+            "+@gid": "1291140866",
+            "+@lang": "FR",
+            "role": "Shion",
+            "person": {
+                "+content": "Mélissa Windal",
+                "+@id": "126807"
+            }
+        },
+        {
+            "+@gid": "2739504463",
+            "+@lang": "FR",
+            "role": "Limule Tempest",
+            "person": {
+                "+content": "Shérine Seyad",
+                "+@id": "135611"
+            }
+        },
+        {
+            "+@gid": "2520569925",
+            "+@lang": "FR",
+            "role": "Lamilis",
+            "person": {
+                "+content": "Marie Du Bled",
+                "+@id": "145504"
+            }
+        },
+        {
+            "+@gid": "748128054",
+            "+@lang": "FR",
+            "role": "Benimaru",
+            "person": {
+                "+content": "Maxime Van Stantfoort",
+                "+@id": "152792"
+            }
+        },
+        {
+            "+@gid": "1880623940",
+            "+@lang": "FR",
+            "role": "Elmecia El Ru Salion",
+            "person": {
+                "+content": "Helena Coppejans",
+                "+@id": "163574"
+            }
+        },
+        {
+            "+@gid": "1937608283",
+            "+@lang": "FR",
+            "role": "Elyun \"Ellen\" Grimwald",
+            "person": {
+                "+content": "Helena Coppejans",
+                "+@id": "163574"
+            }
+        },
+        {
+            "+@gid": "2174314344",
+            "+@lang": "FR",
+            "role": "Shuna",
+            "person": {
+                "+content": "Marie Braam",
+                "+@id": "164178"
+            }
+        },
+        {
+            "+@gid": "2349356097",
+            "+@lang": "FR",
+            "role": "Prêtresse Yura",
+            "person": {
+                "+content": "Karin Clercq",
+                "+@id": "169171"
+            }
+        },
+        {
+            "+@gid": "3322140669",
+            "+@lang": "FR",
+            "role": "Ranga",
+            "person": {
+                "+content": "Jean-François Rossion",
+                "+@id": "171936"
+            }
+        },
+        {
+            "+@gid": "2041176413",
+            "+@lang": "FR",
+            "role": "Luminus Valentin",
+            "person": {
+                "+content": "Pauline Haugness",
+                "+@id": "226320"
             }
         },
         {
@@ -952,6 +1300,15 @@
             }
         },
         {
+            "+@gid": "2813375065",
+            "+@lang": "JA",
+            "role": "Lete",
+            "person": {
+                "+content": "Yū Mizushima",
+                "+@id": "11046"
+            }
+        },
+        {
             "+@gid": "1864774472",
             "+@lang": "JA",
             "role": "Veldora Tempest",
@@ -1159,6 +1516,6 @@
         }
     },
     "+@date-added": "2025-02-04T03:41:59Z",
-    "+@date-last-modified-at": "2026-07-18T13:51:16Z",
-    "+@date-last-updated-at": "2026-07-18T13:51:16Z"
+    "+@date-last-modified-at": "2026-08-17T16:47:06Z",
+    "+@date-last-updated-at": "2026-08-17T16:47:06Z"
 }
