@@ -4,28 +4,28 @@
     "+@type": "TV",
     "+@name": "Elusive Samurai",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-07-19T06:04:45Z",
+    "+@generated-on": "2026-08-18T08:54:20Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "27523"
     },
     "info": [
         {
-            "+@gid": "2987259574",
+            "+@gid": "1980891677",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33669-2987259574.1781704713.jpg",
-            "+@width": "140",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33669-1980891677.1786631380.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33669-2987259574.1781704713.jpg",
-                    "+@width": "140",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33669-1980891677.1786631380.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33669-2987259574.1781704713.jpg",
-                    "+@width": "350",
-                    "+@height": "500"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33669-1980891677.1786631380.jpg",
+                    "+@width": "400",
+                    "+@height": "566"
                 }
             ]
         },
@@ -48,6 +48,16 @@
             "+@lang": "JA"
         },
         {
+            "+content": "adventure",
+            "+@gid": "2762523071",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "1009263821",
+            "+@type": "Genres"
+        },
+        {
             "+content": "historical",
             "+@gid": "3796835047",
             "+@type": "Themes"
@@ -63,9 +73,34 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "3254541143",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "12",
+            "+@gid": "3721943165",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-17",
             "+@gid": "1787598004",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Onigoto\" (鬼事) by Kento Nakajima",
+            "+@gid": "3728550119",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Romantikku ga Hoshii nara\" (ロマンティックがほしいなら feat. 小坂菜緒, 正源司陽子, 藤嶌果歩（日向坂46）) by Botchi Boromaru",
+            "+@gid": "1684064951",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Ima Sugu OTETSUKI☆\" (今すぐOTETSUKI☆) by Ayako (CV Sayumi Suzushiro) (ep 14)",
+            "+@gid": "3044854889",
+            "+@type": "Insert song"
         },
         {
             "+content": "TVアニメ「逃げ上手の若君」公式サイト",
@@ -73,6 +108,52 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://nigewaka.run/"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "3",
+        "+@weighted_score": "7.831"
+    },
+    "episode": [
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "Longing for Sea Bream!",
+                "+@gid": "2747682606",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "14",
+            "title": {
+                "+content": "Ayako's Heart-Pounding Operation!",
+                "+@gid": "1960412386",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "15",
+            "title": {
+                "+content": "Tokiyuki and Three Great Generals",
+                "+@gid": "2185223185",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "16",
+            "title": {
+                "+content": "The Warrior of Love: Shinano Mask!",
+                "+@gid": "2017036339",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "17",
+            "title": {
+                "+content": "The Unyielding",
+                "+@gid": "1393207254",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -110,6 +191,11 @@
             "+content": "Hindi Dubs for <cite>Tomb Raider King</cite>, <cite>Black Torch</cite>, More Anime Stream on Crunchyroll",
             "+@datetime": "2026-07-17T09:43:52Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-07-17/hindi-dubs-for-tomb-raider-king-black-torch-more-anime-stream-on-crunchyroll/.239722"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, July 20-26",
+            "+@datetime": "2026-08-01T15:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-01/japanese-animation-tv-ranking-july-20-26/.240147"
         }
     ],
     "staff": [
@@ -138,6 +224,14 @@
             }
         },
         {
+            "+@gid": "3481960835",
+            "task": "Script",
+            "person": {
+                "+content": "Dai Hazeyama",
+                "+@id": "230781"
+            }
+        },
+        {
             "+@gid": "1803795017",
             "task": "Storyboard",
             "person": {
@@ -146,11 +240,59 @@
             }
         },
         {
+            "+@gid": "1758309895",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yūsuke Kawakami",
+                "+@id": "125636"
+            }
+        },
+        {
+            "+@gid": "957383825",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Maring Song",
+                "+@id": "176770"
+            }
+        },
+        {
+            "+@gid": "837660574",
+            "task": "Storyboard",
+            "person": {
+                "+content": "TOMATO",
+                "+@id": "178626"
+            }
+        },
+        {
             "+@gid": "3927683439",
             "task": "Episode Director",
             "person": {
                 "+content": "Yūta Yamazaki",
                 "+@id": "107464"
+            }
+        },
+        {
+            "+@gid": "4077915934",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yūsuke Kawakami",
+                "+@id": "125636"
+            }
+        },
+        {
+            "+@gid": "1541275729",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Maring Song",
+                "+@id": "176770"
+            }
+        },
+        {
+            "+@gid": "2685498512",
+            "task": "Unit Director",
+            "person": {
+                "+content": "TOMATO",
+                "+@id": "178626"
             }
         },
         {
@@ -215,6 +357,22 @@
             "person": {
                 "+content": "Yasushi Nishiya",
                 "+@id": "157954"
+            }
+        },
+        {
+            "+@gid": "1128203421",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuya Uetake",
+                "+@id": "163862"
+            }
+        },
+        {
+            "+@gid": "1633546998",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nogya",
+                "+@id": "205705"
             }
         },
         {
@@ -285,6 +443,15 @@
             "person": {
                 "+content": "Yutaka Aoyama",
                 "+@id": "18713"
+            }
+        },
+        {
+            "+@gid": "3351624010",
+            "+@lang": "JA",
+            "role": "Kiyohara Shinano-no-kami",
+            "person": {
+                "+content": "Anri Katsu",
+                "+@id": "27068"
             }
         },
         {
@@ -387,6 +554,6 @@
         }
     },
     "+@date-added": "2024-10-06T19:56:37Z",
-    "+@date-last-modified-at": "2026-07-19T06:43:29Z",
-    "+@date-last-updated-at": "2026-07-19T06:43:29Z"
+    "+@date-last-modified-at": "2026-08-18T08:54:22Z",
+    "+@date-last-updated-at": "2026-08-18T08:54:22Z"
 }

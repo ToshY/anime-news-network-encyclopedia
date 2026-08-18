@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Lucky na Safari de Oni Gokko!?",
     "+@precision": "ONA",
-    "+@generated-on": "2026-07-19T06:21:59Z",
+    "+@generated-on": "2026-08-18T08:54:16Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "29217"
@@ -41,6 +41,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "The Chansey Chase",
+            "+@gid": "860116692",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "ラッキーなサファリでおにごっこ！？",
             "+@gid": "3219691498",
             "+@type": "Alternative title",
@@ -60,8 +66,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "7"
+        "+@nb_votes": "2",
+        "+@weighted_score": "7.4951"
     },
     "news": {
         "+content": "Pokémon Company Streams 5th/6th New <cite>Pokétoon</cite> Episodes by ZEXCS (Updated)",
@@ -192,6 +198,51 @@
     ],
     "cast": [
         {
+            "+@gid": "2063293901",
+            "+@lang": "EN",
+            "role": "Bozley",
+            "person": {
+                "+content": "Jason Marnocha",
+                "+@id": "150735"
+            }
+        },
+        {
+            "+@gid": "4105913353",
+            "+@lang": "EN",
+            "role": "Meg",
+            "person": {
+                "+content": "Risa Mei",
+                "+@id": "198541"
+            }
+        },
+        {
+            "+@gid": "2491333174",
+            "+@lang": "EN",
+            "role": "Meg's Mom",
+            "person": {
+                "+content": "Jennifer Sun Bell",
+                "+@id": "229690"
+            }
+        },
+        {
+            "+@gid": "707354270",
+            "+@lang": "ES",
+            "role": "Félix",
+            "person": {
+                "+content": "Fernando Castro",
+                "+@id": "124110"
+            }
+        },
+        {
+            "+@gid": "1485369355",
+            "+@lang": "ES",
+            "role": "Lila",
+            "person": {
+                "+content": "Marina Romero",
+                "+@id": "172574"
+            }
+        },
+        {
             "+@gid": "1049654103",
             "+@lang": "JA",
             "role": "Bosley",
@@ -228,5 +279,6 @@
         }
     },
     "+@date-added": "2024-10-23T06:51:41Z",
-    "+@date-last-updated-at": "2026-07-19T06:43:29Z"
+    "+@date-last-modified-at": "2026-08-18T08:54:22Z",
+    "+@date-last-updated-at": "2026-08-18T08:54:22Z"
 }

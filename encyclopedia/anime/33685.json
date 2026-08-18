@@ -2,9 +2,9 @@
     "+@id": "33685",
     "+@gid": "822999669",
     "+@type": "ONA",
-    "+@name": "Gogoat ni Notte",
+    "+@name": "My Gogoat Journey",
     "+@precision": "ONA",
-    "+@generated-on": "2026-07-19T06:08:35Z",
+    "+@generated-on": "2026-08-18T08:54:20Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "29217"
@@ -35,16 +35,16 @@
             ]
         },
         {
-            "+content": "Gogoat ni Notte",
-            "+@gid": "3022627470",
-            "+@type": "Main title",
-            "+@lang": "JA"
-        },
-        {
             "+content": "My Gogoat Journey",
             "+@gid": "3614599723",
-            "+@type": "Alternative title",
+            "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Gogoat ni Notte",
+            "+@gid": "3022627470",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
         },
         {
             "+content": "ゴーゴートに乗って",
@@ -66,7 +66,7 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
+        "+@nb_votes": "3",
         "+@weighted_score": "7"
     },
     "news": [
@@ -173,6 +173,15 @@
     ],
     "cast": [
         {
+            "+@gid": "3541305860",
+            "+@lang": "EN",
+            "role": "Julian's Father",
+            "person": {
+                "+content": "Bill Rogers",
+                "+@id": "1439"
+            }
+        },
+        {
             "+@gid": "2911687713",
             "+@lang": "EN",
             "role": "Julian",
@@ -236,6 +245,6 @@
         }
     },
     "+@date-added": "2024-10-09T07:29:10Z",
-    "+@date-last-modified-at": "2026-07-19T06:43:29Z",
-    "+@date-last-updated-at": "2026-07-19T06:43:29Z"
+    "+@date-last-modified-at": "2026-08-18T08:54:22Z",
+    "+@date-last-updated-at": "2026-08-18T08:54:22Z"
 }
