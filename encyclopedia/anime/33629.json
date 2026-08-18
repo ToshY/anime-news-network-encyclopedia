@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Wistoria: Wand and Sword",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-07-19T13:54:48Z",
+    "+@generated-on": "2026-08-18T16:49:16Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32011"
@@ -140,9 +140,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "54",
-        "+@weighted_score": "7.6668",
-        "+@bayesian_score": "7.63096"
+        "+@nb_votes": "62",
+        "+@weighted_score": "7.6381",
+        "+@bayesian_score": "7.61073"
     },
     "episode": [
         {
@@ -624,6 +624,15 @@
             }
         },
         {
+            "+@gid": "1323100515",
+            "+@lang": "EN",
+            "role": "Jorua Moraine",
+            "person": {
+                "+content": "Kyle Phillips",
+                "+@id": "72635"
+            }
+        },
+        {
             "+@gid": "1397240534",
             "+@lang": "EN",
             "role": "Marze",
@@ -867,15 +876,6 @@
             }
         },
         {
-            "+@gid": "725598963",
-            "+@lang": "FR",
-            "role": "Sans-Tête",
-            "person": {
-                "+content": "Marie-Line Landerwijn",
-                "+@id": "52873"
-            }
-        },
-        {
             "+@gid": "3783862102",
             "+@lang": "FR",
             "role": "Sarissa Alfeld",
@@ -891,15 +891,6 @@
             "person": {
                 "+content": "Alexandre Crépet",
                 "+@id": "52982"
-            }
-        },
-        {
-            "+@gid": "2502643153",
-            "+@lang": "FR",
-            "role": "Marzé",
-            "person": {
-                "+content": "Sébastien Hebrant",
-                "+@id": "68470"
             }
         },
         {
@@ -1029,12 +1020,30 @@
             }
         },
         {
+            "+@gid": "3216983077",
+            "+@lang": "FR",
+            "role": "Rosée Phrénite",
+            "person": {
+                "+content": "Marie Braam",
+                "+@id": "164178"
+            }
+        },
+        {
             "+@gid": "2806301629",
             "+@lang": "FR",
             "role": "Lyril Marze",
             "person": {
                 "+content": "Stéphane Pirard",
                 "+@id": "166384"
+            }
+        },
+        {
+            "+@gid": "2490602942",
+            "+@lang": "FR",
+            "role": "Gilford Zurgas",
+            "person": {
+                "+content": "Matthieu Meunier",
+                "+@id": "172708"
             }
         },
         {
@@ -1399,6 +1408,6 @@
         }
     ],
     "+@date-added": "2024-09-29T04:56:46Z",
-    "+@date-last-modified-at": "2026-07-19T13:54:53Z",
-    "+@date-last-updated-at": "2026-07-19T13:54:53Z"
+    "+@date-last-modified-at": "2026-08-18T16:49:20Z",
+    "+@date-last-updated-at": "2026-08-18T16:49:20Z"
 }

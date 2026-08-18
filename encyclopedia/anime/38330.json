@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "FX Fighter Kurumi-chan",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-19T13:54:46Z",
+    "+@generated-on": "2026-08-18T16:49:14Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "36244"
@@ -13,18 +13,23 @@
         {
             "+@gid": "3308077874",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38330-3308077874.1768867094.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38330-3308077874.1785590192.jpg",
+            "+@width": "200",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38330-3308077874.1768867094.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38330-3308077874.1785590192.jpg",
+                    "+@width": "200",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38330-3308077874.1768867094.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38330-3308077874.1785590192.jpg",
+                    "+@width": "500",
+                    "+@height": "500"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38330-3308077874.1785590192.jpg",
+                    "+@width": "600",
                     "+@height": "600"
                 }
             ]
@@ -48,9 +53,14 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2026",
+            "+content": "2026-10",
             "+@gid": "2184101059",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"＄・￥・€\" by Aina Suzuki",
+            "+@gid": "1691348247",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ「FX戦士くるみちゃん」公式サイト",
@@ -60,11 +70,28 @@
             "+@href": "https://fxkurumi-info.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>FX Fighter Kurumi-chan</cite> Manga Gets TV Anime",
-        "+@datetime": "2026-01-19T09:11:04Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-01-19/fx-fighter-kurumi-chan-manga-gets-tv-anime/.233237"
-    },
+    "news": [
+        {
+            "+content": "<cite>FX Fighter Kurumi-chan</cite> Manga Gets TV Anime",
+            "+@datetime": "2026-01-19T09:11:04Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-19/fx-fighter-kurumi-chan-manga-gets-tv-anime/.233237"
+        },
+        {
+            "+content": "<cite>FX Fighter Kurumi-chan</cite> TV Anime Reveals October Debut, More Cast",
+            "+@datetime": "2026-08-01T13:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-01/fx-fighter-kurumi-chan-tv-anime-reveals-october-debut-more-cast/.240170"
+        },
+        {
+            "+content": "Crunchyroll to Stream <cite>Eleceed, FX Fighter Kurumi-chan, Uncle's Obsession with Cute Things</cite>, More Anime; English Dub for <cite>Sound! Euphonium</cite>",
+            "+@datetime": "2026-08-02T05:35:45Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-02/crunchyroll-to-stream-eleceed-fx-fighter-kurumi-chan-uncle-obsession-with-cute-things-more-anime-/.240182"
+        },
+        {
+            "+content": "<cite>FX Fighter Kurumi-chan</cite>, <cite>Uncle's Obsession with Cute Things</cite>, <cite>ELECEED</cite> Anime to Stream in India",
+            "+@datetime": "2026-08-03T09:39:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-03/fx-fighter-kurumi-chan-uncle-obsession-with-cute-things-eleceed-anime-to-stream-in-india/.240196"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1808193044",
@@ -123,15 +150,44 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "2139923653",
-        "+@lang": "JA",
-        "role": "Kurumi Fukuga",
-        "person": {
-            "+content": "Aina Suzuki",
-            "+@id": "132146"
+    "cast": [
+        {
+            "+@gid": "2012199428",
+            "+@lang": "JA",
+            "role": "Mochiko Kogane",
+            "person": {
+                "+content": "Asami Seto",
+                "+@id": "95225"
+            }
+        },
+        {
+            "+@gid": "3058627788",
+            "+@lang": "JA",
+            "role": "Mebuki Yamashi",
+            "person": {
+                "+content": "Ayasa Itō",
+                "+@id": "119928"
+            }
+        },
+        {
+            "+@gid": "2139923653",
+            "+@lang": "JA",
+            "role": "Kurumi Fukuga",
+            "person": {
+                "+content": "Aina Suzuki",
+                "+@id": "132146"
+            }
+        },
+        {
+            "+@gid": "3227726933",
+            "+@lang": "JA",
+            "role": "Yasuko Takane",
+            "person": {
+                "+content": "Miho Okasaki",
+                "+@id": "172914"
+            }
         }
-    },
+    ],
     "credit": {
         "+@gid": "2181519465",
         "task": "Animation Production",
@@ -141,5 +197,6 @@
         }
     },
     "+@date-added": "2026-01-19T18:57:04Z",
-    "+@date-last-updated-at": "2026-07-19T13:54:53Z"
+    "+@date-last-modified-at": "2026-08-18T16:49:20Z",
+    "+@date-last-updated-at": "2026-08-18T16:49:20Z"
 }

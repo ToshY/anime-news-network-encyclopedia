@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Patlabor EZY",
     "+@precision": "movies",
-    "+@generated-on": "2026-07-19T13:54:50Z",
+    "+@generated-on": "2026-08-18T16:49:18Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "408"
@@ -69,6 +69,11 @@
         {
             "+content": "2026-08-14 (Japan, File 2)",
             "+@gid": "3147952467",
+            "+@type": "Premiere date"
+        },
+        {
+            "+content": "2027-03-05 (Japan, File 3)",
+            "+@gid": "3259054180",
             "+@type": "Premiere date"
         },
         {
@@ -152,6 +157,11 @@
             "+content": "<cite>Patlabor EZY</cite> 'File 1' Film Opens at #8, Live-Action <cite>Shōjiki Fudōsan</cite> Opens at #4",
             "+@datetime": "2026-05-21T08:15:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-05-21/patlabor-ezy-file-1-film-opens-at-no.8-live-action-shojiki-fudosan-opens-at-no.4/.237484"
+        },
+        {
+            "+content": "<cite>Patlabor EZY</cite> Anime's Trailer Reveals March 5 Opening, Cast for 'File 3' Movie",
+            "+@datetime": "2026-08-10T15:49:10Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-10/patlabor-ezy-anime-trailer-reveals-march-5-opening-cast-for-file-3-movie/.240448"
         }
     ],
     "staff": [
@@ -284,14 +294,6 @@
             }
         },
         {
-            "+@gid": "803355430",
-            "task": "Executive producer",
-            "person": {
-                "+content": "Tarō Maki",
-                "+@id": "1162"
-            }
-        },
-        {
             "+@gid": "1631725432",
             "task": "Executive producer",
             "person": {
@@ -330,14 +332,6 @@
                 "+content": "Tarō Maki",
                 "+@id": "1162"
             }
-        },
-        {
-            "+@gid": "2417181241",
-            "task": "Producer",
-            "person": {
-                "+content": "Yūya Machida",
-                "+@id": "129683"
-            }
         }
     ],
     "cast": [
@@ -351,12 +345,48 @@
             }
         },
         {
+            "+@gid": "2088226675",
+            "+@lang": "JA",
+            "role": "Isao Ohta",
+            "person": {
+                "+content": "Michihiro Ikemizu",
+                "+@id": "426"
+            }
+        },
+        {
             "+@gid": "2190665766",
             "+@lang": "JA",
             "role": "Shigeo Shiba",
             "person": {
                 "+content": "Shigeru Chiba",
                 "+@id": "427"
+            }
+        },
+        {
+            "+@gid": "2309894957",
+            "+@lang": "JA",
+            "role": "Kaoru Mitarai",
+            "person": {
+                "+content": "Kaori Nazuka",
+                "+@id": "439"
+            }
+        },
+        {
+            "+@gid": "3351234150",
+            "+@lang": "JA",
+            "role": "Mikiyasu Shinshi",
+            "person": {
+                "+content": "Issei Futamata",
+                "+@id": "1015"
+            }
+        },
+        {
+            "+@gid": "1671340153",
+            "+@lang": "JA",
+            "role": "Kotaro Yasui",
+            "person": {
+                "+content": "Kazuhiro Yamaji",
+                "+@id": "10484"
             }
         },
         {
@@ -369,12 +399,30 @@
             }
         },
         {
+            "+@gid": "3070434643",
+            "+@lang": "JA",
+            "role": "Kurumi Terada",
+            "person": {
+                "+content": "Mariya Ise",
+                "+@id": "46112"
+            }
+        },
+        {
             "+@gid": "1928344921",
             "+@lang": "JA",
             "role": "Towa Kuga",
             "person": {
                 "+content": "Sumire Uesaka",
                 "+@id": "106108"
+            }
+        },
+        {
+            "+@gid": "2104346905",
+            "+@lang": "JA",
+            "role": "Yōichi Saitō",
+            "person": {
+                "+content": "Hiroki Maeda",
+                "+@id": "115602"
             }
         },
         {
@@ -387,12 +435,30 @@
             }
         },
         {
+            "+@gid": "2641019817",
+            "+@lang": "JA",
+            "role": "Takuya Niiro",
+            "person": {
+                "+content": "Taku Yashiro",
+                "+@id": "130983"
+            }
+        },
+        {
             "+@gid": "2714285461",
             "+@lang": "JA",
             "role": "Kippei Atori",
             "person": {
                 "+content": "Kikunosuke Toya",
                 "+@id": "222634"
+            }
+        },
+        {
+            "+@gid": "1732924681",
+            "+@lang": "JA",
+            "role": "Kanji Kunikida",
+            "person": {
+                "+content": "Hōchū Ōtsuka",
+                "+@id": "274643"
             }
         },
         {
@@ -473,5 +539,6 @@
         }
     ],
     "+@date-added": "2024-09-19T21:17:58Z",
-    "+@date-last-updated-at": "2026-07-19T13:54:53Z"
+    "+@date-last-modified-at": "2026-08-18T16:49:20Z",
+    "+@date-last-updated-at": "2026-08-18T16:49:20Z"
 }
