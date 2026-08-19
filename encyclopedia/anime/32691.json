@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "New Dawn",
     "+@precision": "movie",
-    "+@generated-on": "2026-07-20T14:33:51Z",
+    "+@generated-on": "2026-08-19T16:47:25Z",
     "info": [
         {
             "+@gid": "3000525461",
@@ -43,6 +43,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Une Aube Nouvelle",
+            "+@gid": "2477398389",
+            "+@type": "Alternative title",
+            "+@lang": "FR"
+        },
+        {
             "+content": "花緑青が明ける日に",
             "+@gid": "3555881670",
             "+@type": "Alternative title",
@@ -76,8 +82,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "5"
+        "+@nb_votes": "2",
+        "+@weighted_score": "7.338"
     },
     "review": {
         "+content": "A New Dawn Anime Film Review",
@@ -244,9 +250,60 @@
                 "+content": "Anna Tomisaki",
                 "+@id": "181881"
             }
+        },
+        {
+            "+@gid": "2483346373",
+            "task": "Producer",
+            "person": {
+                "+content": "Fumie Takeuchi",
+                "+@id": "55572"
+            }
+        },
+        {
+            "+@gid": "1538465353",
+            "task": "Producer",
+            "person": {
+                "+content": "Emmanuel-Alain Raynal",
+                "+@id": "265558"
+            }
+        },
+        {
+            "+@gid": "2176092315",
+            "task": "Producer",
+            "person": {
+                "+content": "Pierre Baussaron",
+                "+@id": "265559"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "2258704379",
+            "+@lang": "FR",
+            "role": "Eitarô Tatewaki",
+            "person": {
+                "+content": "Rémi Pous",
+                "+@id": "107520"
+            }
+        },
+        {
+            "+@gid": "1772474521",
+            "+@lang": "FR",
+            "role": "Keitarō Obinata",
+            "person": {
+                "+content": "Romain Pichon",
+                "+@id": "220008"
+            }
+        },
+        {
+            "+@gid": "2013888249",
+            "+@lang": "FR",
+            "role": "Sentarō \"Chicchi\" Tatewaki",
+            "person": {
+                "+content": "Pierre-Henri Prunel",
+                "+@id": "232591"
+            }
+        },
         {
             "+@gid": "1150973704",
             "+@lang": "IT",
@@ -347,6 +404,6 @@
         }
     ],
     "+@date-added": "2024-04-24T05:47:02Z",
-    "+@date-last-modified-at": "2026-07-20T14:33:58Z",
-    "+@date-last-updated-at": "2026-07-20T14:33:58Z"
+    "+@date-last-modified-at": "2026-08-19T16:47:32Z",
+    "+@date-last-updated-at": "2026-08-19T16:47:32Z"
 }
