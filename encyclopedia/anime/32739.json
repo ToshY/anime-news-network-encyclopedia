@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Goodbye, Lara",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-20T11:14:12Z",
+    "+@generated-on": "2026-08-19T12:45:13Z",
     "info": [
         {
             "+@gid": "2586642330",
@@ -89,6 +89,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "1791667857",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-05",
             "+@gid": "2870267432",
             "+@type": "Vintage"
@@ -104,6 +109,13 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "オリジナルテレビアニメーション『さよならララ』公式サイト",
+            "+@gid": "2717739093",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://goodbyelara.com/"
+        },
+        {
             "+content": "『さよならララ』公式サイト",
             "+@gid": "2111641395",
             "+@type": "Official website",
@@ -112,9 +124,59 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "0.4812"
+        "+@nb_votes": "6",
+        "+@weighted_score": "5.2073"
     },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "Mermaid Princess Lara",
+                "+@gid": "1407134268",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "Running Through Shiga",
+                "+@gid": "1016945633",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "Look Away and You Lose",
+                "+@gid": "3094627959",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "The Princess and the Prince",
+                "+@gid": "1756001396",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "I'm Willing to Die for Cake!",
+                "+@gid": "3559340184",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "The Light That Shines on Me",
+                "+@gid": "2583454856",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "Kinema Citrus Announces <cite>'Goodbye, Lara,'</cite> <cite>Ninja Skooler</cite> Anime",
@@ -247,6 +309,15 @@
     ],
     "cast": [
         {
+            "+@gid": "1177951616",
+            "+@lang": "EN",
+            "role": "Ema Otsu",
+            "person": {
+                "+content": "Tara Sands",
+                "+@id": "63581"
+            }
+        },
+        {
             "+@gid": "2980748293",
             "+@lang": "EN",
             "role": "Laura",
@@ -330,10 +401,19 @@
         {
             "+@gid": "301457486",
             "+@lang": "EN",
-            "role": "Yoshihiro Otsu",
+            "role": "Yoshiya Otsu",
             "person": {
                 "+content": "John Patneaude",
                 "+@id": "242399"
+            }
+        },
+        {
+            "+@gid": "917757508",
+            "+@lang": "EN",
+            "role": "Kota",
+            "person": {
+                "+content": "Jonathon Ha",
+                "+@id": "265391"
             }
         },
         {
@@ -384,7 +464,7 @@
         {
             "+@gid": "3174436188",
             "+@lang": "JA",
-            "role": "Risa",
+            "role": "Lisa",
             "person": {
                 "+content": "Minami Tsuda",
                 "+@id": "94856"
@@ -436,6 +516,6 @@
         }
     },
     "+@date-added": "2024-05-18T17:42:26Z",
-    "+@date-last-modified-at": "2026-07-20T11:14:16Z",
-    "+@date-last-updated-at": "2026-07-20T11:14:16Z"
+    "+@date-last-modified-at": "2026-08-19T13:10:28Z",
+    "+@date-last-updated-at": "2026-08-19T13:10:28Z"
 }
