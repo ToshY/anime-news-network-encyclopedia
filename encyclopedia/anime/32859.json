@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Mushoku Tensei: Jobless Reincarnation III",
     "+@precision": "TV 5",
-    "+@generated-on": "2026-07-20T07:30:49Z",
+    "+@generated-on": "2026-08-19T08:55:13Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28953"
@@ -148,6 +148,11 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "\"Hikari\" (ひかり) by Kokona Anbo (ep 5)",
+            "+@gid": "3512778729",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "TVアニメ「無職転生 ～異世界行ったら本気だす」公式サイト",
             "+@gid": "2977606468",
             "+@type": "Official website",
@@ -156,8 +161,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "7.9982"
+        "+@nb_votes": "8",
+        "+@weighted_score": "7.7842"
     },
     "news": [
         {
@@ -199,6 +204,11 @@
             "+content": "Crunchyroll Reveals English Dub Casts for New Seasons of <cite>Mushoku Tensei, 100 Girlfriends, You and I Are Polar Opposites</cite>",
             "+@datetime": "2026-07-19T05:41:50Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-07-19/crunchyroll-reveals-english-dub-casts-for-new-seasons-of-mushoku-tensei-100-girlfriends-you-and-i-/.239751"
+        },
+        {
+            "+content": "<cite>Mushoku Tensei: Jobless Reincarnation</cite> Season 3 Anime Reveals Trailer, 3 Cast Members for 'Chaos Breaker' Arc",
+            "+@datetime": "2026-08-10T17:30:38Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-10/mushoku-tensei-jobless-reincarnation-season-3-anime-reveals-trailer-3-cast-members-for-chaos-/.240451"
         }
     ],
     "staff": [
@@ -309,6 +319,15 @@
     ],
     "cast": [
         {
+            "+@gid": "2792154829",
+            "+@lang": "EN",
+            "role": "Rudeus Greyrat",
+            "person": {
+                "+content": "Ben Phillips",
+                "+@id": "70546"
+            }
+        },
+        {
             "+@gid": "2616110031",
             "+@lang": "EN",
             "role": "Eris Boreas Greyrat",
@@ -360,6 +379,141 @@
             "person": {
                 "+content": "Cory Koehler",
                 "+@id": "296262"
+            }
+        },
+        {
+            "+@gid": "2388705112",
+            "+@lang": "FR",
+            "role": "Elinalise Dragonroad",
+            "person": {
+                "+content": "Claire Tefnin",
+                "+@id": "53859"
+            }
+        },
+        {
+            "+@gid": "2820508823",
+            "+@lang": "FR",
+            "role": "Cliff Grimoire",
+            "person": {
+                "+content": "Gregory Praet",
+                "+@id": "59626"
+            }
+        },
+        {
+            "+@gid": "3529013701",
+            "+@lang": "FR",
+            "role": "Linia Dedoldia",
+            "person": {
+                "+content": "Elisabeth Guinand",
+                "+@id": "60941"
+            }
+        },
+        {
+            "+@gid": "3954350520",
+            "+@lang": "FR",
+            "role": "Ghislaine Dedoldia",
+            "person": {
+                "+content": "Cécile Florin",
+                "+@id": "70430"
+            }
+        },
+        {
+            "+@gid": "2310049096",
+            "+@lang": "FR",
+            "role": "Eris Boreas Greyrat",
+            "person": {
+                "+content": "Nancy Philippot",
+                "+@id": "109491"
+            }
+        },
+        {
+            "+@gid": "3159145249",
+            "+@lang": "FR",
+            "role": "Rudeus",
+            "person": {
+                "+content": "Nicolas Matthys",
+                "+@id": "114851"
+            }
+        },
+        {
+            "+@gid": "704277056",
+            "+@lang": "FR",
+            "role": "Zanoba Shirone",
+            "person": {
+                "+content": "Olivier premel",
+                "+@id": "126589"
+            }
+        },
+        {
+            "+@gid": "2418192395",
+            "+@lang": "FR",
+            "role": "Juliette/Julie",
+            "person": {
+                "+content": "Shérine Seyad",
+                "+@id": "135611"
+            }
+        },
+        {
+            "+@gid": "2046742807",
+            "+@lang": "FR",
+            "role": "Lillia Greyrat",
+            "person": {
+                "+content": "Sophie Pyronnet",
+                "+@id": "152789"
+            }
+        },
+        {
+            "+@gid": "2780113378",
+            "+@lang": "FR",
+            "role": "Aisha Greyrat",
+            "person": {
+                "+content": "Helena Coppejans",
+                "+@id": "163574"
+            }
+        },
+        {
+            "+@gid": "3661505704",
+            "+@lang": "FR",
+            "role": "Rudeus Greyrat",
+            "person": {
+                "+content": "Brieuc Lemaire",
+                "+@id": "163757"
+            }
+        },
+        {
+            "+@gid": "1692233636",
+            "+@lang": "FR",
+            "role": "Sylphiette",
+            "person": {
+                "+content": "Marie Braam",
+                "+@id": "164178"
+            }
+        },
+        {
+            "+@gid": "833853458",
+            "+@lang": "FR",
+            "role": "Norn Greyrat",
+            "person": {
+                "+content": "Sophia Atman",
+                "+@id": "172710"
+            }
+        },
+        {
+            "+@gid": "623419319",
+            "+@lang": "FR",
+            "role": "Roxy Migurdia",
+            "person": {
+                "+content": "Sophia Atman",
+                "+@id": "172710"
+            }
+        },
+        {
+            "+@gid": "2592118112",
+            "+@lang": "FR",
+            "role": "Pursena Adoldia",
+            "person": {
+                "+content": "Aurélie Castin",
+                "+@id": "172711"
             }
         },
         {
@@ -417,6 +571,24 @@
             }
         },
         {
+            "+@gid": "508542340",
+            "+@lang": "JA",
+            "role": "Perugius Dola",
+            "person": {
+                "+content": "Rikiya Koyama",
+                "+@id": "8136"
+            }
+        },
+        {
+            "+@gid": "2268187316",
+            "+@lang": "JA",
+            "role": "Sylvaril of the Void",
+            "person": {
+                "+content": "Ayumi Tsunematsu",
+                "+@id": "18042"
+            }
+        },
+        {
             "+@gid": "2079619945",
             "+@lang": "JA",
             "role": "Zanoba Shirone",
@@ -468,6 +640,15 @@
             "person": {
                 "+content": "Haruka Tomatsu",
                 "+@id": "63126"
+            }
+        },
+        {
+            "+@gid": "818718737",
+            "+@lang": "JA",
+            "role": "Almanfi of the Bright",
+            "person": {
+                "+content": "Kengo Kawanishi",
+                "+@id": "64695"
             }
         },
         {
@@ -534,12 +715,30 @@
             }
         },
         {
+            "+@gid": "1916789879",
+            "+@lang": "JA",
+            "role": "Ariel Anemoi Asura",
+            "person": {
+                "+content": "Reina Ueda",
+                "+@id": "116390"
+            }
+        },
+        {
             "+@gid": "3204358177",
             "+@lang": "JA",
             "role": "Pursena Adoldia",
             "person": {
                 "+content": "Minami Tanaka",
                 "+@id": "118525"
+            }
+        },
+        {
+            "+@gid": "2086501206",
+            "+@lang": "JA",
+            "role": "Atoferatofe Rybak",
+            "person": {
+                "+content": "Nanako Mori",
+                "+@id": "123782"
             }
         },
         {
@@ -625,6 +824,6 @@
         }
     ],
     "+@date-added": "2024-07-01T00:25:38Z",
-    "+@date-last-modified-at": "2026-07-20T07:30:57Z",
-    "+@date-last-updated-at": "2026-07-20T07:30:57Z"
+    "+@date-last-modified-at": "2026-08-19T08:55:21Z",
+    "+@date-last-updated-at": "2026-08-19T08:55:21Z"
 }
