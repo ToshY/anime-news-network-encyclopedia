@@ -4,33 +4,33 @@
     "+@type": "TV",
     "+@name": "Kaiju Girl Caramelise",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-21T14:24:01Z",
+    "+@generated-on": "2026-08-20T16:52:02Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "21837"
     },
     "info": [
         {
-            "+@gid": "2207829147",
+            "+@gid": "4018755950",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38166-2207829147.1780871222.jpg",
-            "+@width": "200",
-            "+@height": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38166-4018755950.1787145119.jpg",
+            "+@width": "142",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38166-2207829147.1780871222.jpg",
-                    "+@width": "200",
-                    "+@height": "142"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38166-4018755950.1787145119.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38166-2207829147.1780871222.jpg",
-                    "+@width": "500",
-                    "+@height": "356"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38166-4018755950.1787145119.jpg",
+                    "+@width": "425",
+                    "+@height": "600"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38166-2207829147.1780871222.jpg",
-                    "+@width": "600",
-                    "+@height": "427"
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38166-4018755950.1787145119.jpg",
+                    "+@width": "460",
+                    "+@height": "650"
                 }
             ]
         },
@@ -98,6 +98,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "3698240937",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-02",
             "+@gid": "2614531404",
             "+@type": "Vintage"
@@ -121,8 +126,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "4"
+        "+@nb_votes": "4",
+        "+@weighted_score": "7.2368"
     },
     "episode": [
         {
@@ -146,6 +151,38 @@
             "title": {
                 "+content": "A Sparkling Weekend ~Where Dreams Come True~",
                 "+@gid": "2510417537",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "The Scary Kaiju Fest",
+                "+@gid": "3246909030",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "A Gyaru and Lipstick",
+                "+@gid": "1971262707",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "Rairi's Forest",
+                "+@gid": "1889704689",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "All Eyes on Arata",
+                "+@gid": "3044770105",
                 "+@lang": "EN"
             }
         }
@@ -270,6 +307,15 @@
             }
         },
         {
+            "+@gid": "1686404646",
+            "+@lang": "EN",
+            "role": "Kotaro Hibino",
+            "person": {
+                "+content": "Robert McCollum",
+                "+@id": "69017"
+            }
+        },
+        {
             "+@gid": "4101349348",
             "+@lang": "EN",
             "role": "Jumbo King",
@@ -288,12 +334,57 @@
             }
         },
         {
+            "+@gid": "267535110",
+            "+@lang": "EN",
+            "role": "Manatsu Tomosato",
+            "person": {
+                "+content": "Megan Shipman",
+                "+@id": "126916"
+            }
+        },
+        {
+            "+@gid": "2257196316",
+            "+@lang": "EN",
+            "role": "Raimu \"Rairi\" Kono",
+            "person": {
+                "+content": "Giovannie Cruz",
+                "+@id": "129925"
+            }
+        },
+        {
             "+@gid": "2191825937",
             "+@lang": "EN",
             "role": "Kuroe Akaishi",
             "person": {
                 "+content": "Nia Celeste",
                 "+@id": "246014"
+            }
+        },
+        {
+            "+@gid": "1256954112",
+            "+@lang": "ES",
+            "role": "Riko Akaishi",
+            "person": {
+                "+content": "Alina Galindo",
+                "+@id": "98757"
+            }
+        },
+        {
+            "+@gid": "2724760408",
+            "+@lang": "ES",
+            "role": "Kuroe Akaishi",
+            "person": {
+                "+content": "Lucía Suárez",
+                "+@id": "175656"
+            }
+        },
+        {
+            "+@gid": "1851907166",
+            "+@lang": "ES",
+            "role": "Arata Minami",
+            "person": {
+                "+content": "Emiliano Montaño",
+                "+@id": "200689"
             }
         },
         {
@@ -379,6 +470,6 @@
         }
     ],
     "+@date-added": "2025-12-22T05:02:24Z",
-    "+@date-last-modified-at": "2026-07-21T14:24:08Z",
-    "+@date-last-updated-at": "2026-07-21T14:24:08Z"
+    "+@date-last-modified-at": "2026-08-20T16:52:05Z",
+    "+@date-last-updated-at": "2026-08-20T16:52:05Z"
 }
