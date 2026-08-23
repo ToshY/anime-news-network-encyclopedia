@@ -4,28 +4,28 @@
     "+@type": "TV",
     "+@name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-07-23T21:29:25Z",
+    "+@generated-on": "2026-08-23T02:00:23Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24993"
     },
     "info": [
         {
-            "+@gid": "1970907932",
+            "+@gid": "1883181110",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26769-1970907932.1780476835.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26769-1883181110.1787147742.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26769-1970907932.1780476835.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A26769-1883181110.1787147742.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A26769-1970907932.1780476835.jpg",
-                    "+@width": "424",
-                    "+@height": "600"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A26769-1883181110.1787147742.jpg",
+                    "+@width": "400",
+                    "+@height": "566"
                 }
             ]
         },
@@ -46,6 +46,21 @@
             "+@gid": "2963217814",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "1325785803",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "2031431595",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "mecha",
+            "+@gid": "1598143348",
+            "+@type": "Themes"
         },
         {
             "+content": "Office worker Leon is reincarnated into a particularly punishing dating sim video game, where women reign supreme and only beautiful men have a seat at the table. But Leon has a secret weapon: he remembers everything from his past life, which includes a complete playthrough of the very game in which he is now trapped. Watch Leon spark a revolution to change this new world in order to fulfill his ultimate desire...of living a quiet, easy life in the countryside.",
@@ -78,12 +93,17 @@
             "+@type": "Ending Theme"
         },
         {
-            "+content": "\"Silent Minority\" (サイレントマイノリティー) by Kashitarō Itō (ep 1)",
+            "+content": "\"selfish\" by Riko Azuna (ep 6)",
+            "+@gid": "3800984833",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Silent Minority\" (サイレントマイノリティー) by Kashitarō Itō (eps 1,5)",
             "+@gid": "2309885755",
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Supreme LOVE STAR\" (シュプリーム LOVE STAR) by love interests (ep 1)",
+            "+content": "\"Supreme LOVE STAR\" (シュプリーム LOVE STAR) by love interests (eps 1,4,5)",
             "+@gid": "1441993052",
             "+@type": "Insert song"
         },
@@ -96,8 +116,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "4.8608"
+        "+@nb_votes": "4",
+        "+@weighted_score": "4.0517"
     },
     "episode": [
         {
@@ -119,9 +139,41 @@
         {
             "+@num": "3",
             "title": {
-                "+content": "Oi, Kusogaki",
-                "+@gid": "2321978309",
-                "+@lang": "JA"
+                "+content": "Hey, Brat",
+                "+@gid": "2984661331",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "They're Flip-Flopping Again?",
+                "+@gid": "2038185201",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "I Love Facades",
+                "+@gid": "1960121062",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "If You Don't Like It, I'll Just Run",
+                "+@gid": "1520325603",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "Shut Your Filthy Mouth, Scum",
+                "+@gid": "1409837022",
+                "+@lang": "EN"
             }
         }
     ],
@@ -188,11 +240,27 @@
             }
         },
         {
+            "+@gid": "1777041030",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takaaki Ishiyama",
+                "+@id": "5612"
+            }
+        },
+        {
             "+@gid": "2161252500",
             "task": "Storyboard",
             "person": {
                 "+content": "Toshihiko Masuda",
                 "+@id": "6641"
+            }
+        },
+        {
+            "+@gid": "2644845361",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hisashi Saitō",
+                "+@id": "13900"
             }
         },
         {
@@ -228,11 +296,43 @@
             }
         },
         {
+            "+@gid": "3251332268",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Fumio Itō",
+                "+@id": "95019"
+            }
+        },
+        {
+            "+@gid": "2952041312",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Sumito Sasaki",
+                "+@id": "115954"
+            }
+        },
+        {
+            "+@gid": "2021721201",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kōhei Kawai",
+                "+@id": "199512"
+            }
+        },
+        {
             "+@gid": "808419115",
             "task": "Episode Director",
             "person": {
                 "+content": "Yu Hyun Oh",
                 "+@id": "209041"
+            }
+        },
+        {
+            "+@gid": "3993591080",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yuri Kubo",
+                "+@id": "209377"
             }
         },
         {
@@ -332,11 +432,35 @@
             }
         },
         {
+            "+@gid": "2400299623",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Konatsu Kumagai",
+                "+@id": "177574"
+            }
+        },
+        {
+            "+@gid": "2451533659",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Etsushi Mori",
+                "+@id": "11220"
+            }
+        },
+        {
             "+@gid": "3170823369",
             "task": "Animation Director",
             "person": {
                 "+content": "Hiroya Iijima",
                 "+@id": "29243"
+            }
+        },
+        {
+            "+@gid": "2352162434",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazuyuki Ikai",
+                "+@id": "35484"
             }
         },
         {
@@ -372,6 +496,22 @@
             }
         },
         {
+            "+@gid": "1309820297",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yi Liu",
+                "+@id": "99080"
+            }
+        },
+        {
+            "+@gid": "1931536326",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Feng Cheng Hu",
+                "+@id": "112110"
+            }
+        },
+        {
             "+@gid": "3249386928",
             "task": "Animation Director",
             "person": {
@@ -401,6 +541,22 @@
             "person": {
                 "+content": "Xiao Lin Zhu",
                 "+@id": "182320"
+            }
+        },
+        {
+            "+@gid": "1849349519",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Eri Kimura",
+                "+@id": "184505"
+            }
+        },
+        {
+            "+@gid": "807882382",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuan Yuan Chen",
+                "+@id": "195692"
             }
         },
         {
@@ -468,6 +624,14 @@
             }
         },
         {
+            "+@gid": "2036638060",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kōsei Kudo",
+                "+@id": "261211"
+            }
+        },
+        {
             "+@gid": "994260313",
             "task": "Animation Director",
             "person": {
@@ -481,6 +645,22 @@
             "person": {
                 "+content": "Seo Jung Park",
                 "+@id": "279907"
+            }
+        },
+        {
+            "+@gid": "1962106225",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hee-sun Jang",
+                "+@id": "294062"
+            }
+        },
+        {
+            "+@gid": "3492310007",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ye Jin Yu",
+                "+@id": "294272"
             }
         },
         {
@@ -779,6 +959,6 @@
         }
     },
     "+@date-added": "2022-12-27T02:59:18Z",
-    "+@date-last-modified-at": "2026-07-23T21:29:27Z",
-    "+@date-last-updated-at": "2026-07-23T21:29:27Z"
+    "+@date-last-modified-at": "2026-08-23T02:00:26Z",
+    "+@date-last-updated-at": "2026-08-23T02:00:26Z"
 }
