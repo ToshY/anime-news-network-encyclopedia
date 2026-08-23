@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Feast of Amrita",
     "+@precision": "movie",
-    "+@generated-on": "2026-07-24T06:06:04Z",
+    "+@generated-on": "2026-08-23T08:49:39Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "21211"
@@ -66,6 +66,11 @@
             "+@type": "Premiere date"
         },
         {
+            "+content": "\"CYNISME\" by aruma",
+            "+@gid": "1458150743",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "Home | アムリタの饗宴",
             "+@gid": "2576973138",
             "+@type": "Official website",
@@ -75,12 +80,13 @@
     ],
     "ratings": {
         "+@nb_votes": "5",
-        "+@weighted_score": "5.4582"
+        "+@weighted_score": "5.4578"
     },
     "release": {
         "+content": "Feast of Amrita (Sub.Blu-ray)",
         "+@date": "2024-08-27",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=48662"
+        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=48662",
+        "+@ean": "0816726026664"
     },
     "news": [
         {
@@ -132,11 +138,59 @@
             }
         },
         {
+            "+@gid": "2179136663",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Saku Sakamoto",
+                "+@id": "86023"
+            }
+        },
+        {
             "+@gid": "2766656589",
             "task": "Music",
             "person": {
                 "+content": "Saku Sakamoto",
                 "+@id": "86023"
+            }
+        },
+        {
+            "+@gid": "1251919873",
+            "task": "Original creator",
+            "person": {
+                "+content": "Saku Sakamoto",
+                "+@id": "86023"
+            }
+        },
+        {
+            "+@gid": "1569665903",
+            "task": "Character Design",
+            "person": {
+                "+content": "Saku Sakamoto",
+                "+@id": "86023"
+            }
+        },
+        {
+            "+@gid": "3672934831",
+            "task": "Art",
+            "person": {
+                "+content": "Saku Sakamoto",
+                "+@id": "86023"
+            }
+        },
+        {
+            "+@gid": "3427556893",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Osamu Fukutani",
+                "+@id": "171933"
+            }
+        },
+        {
+            "+@gid": "3541664681",
+            "task": "Producer",
+            "person": {
+                "+content": "Osamu Fukutani",
+                "+@id": "171933"
             }
         }
     ],
@@ -169,7 +223,15 @@
             }
         }
     ],
+    "credit": {
+        "+@gid": "1604724720",
+        "task": "Production",
+        "company": {
+            "+content": "ZELICOFILM",
+            "+@id": "26738"
+        }
+    },
     "+@date-added": "2022-10-21T07:51:37Z",
-    "+@date-last-modified-at": "2026-07-24T06:40:34Z",
-    "+@date-last-updated-at": "2026-07-24T06:40:34Z"
+    "+@date-last-modified-at": "2026-08-23T08:49:44Z",
+    "+@date-last-updated-at": "2026-08-23T08:49:44Z"
 }
