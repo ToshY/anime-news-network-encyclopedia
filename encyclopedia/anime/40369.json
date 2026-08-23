@@ -4,12 +4,36 @@
     "+@type": "movie",
     "+@name": "Eiga Doraemon: Nobita no Jōki Jikansha",
     "+@precision": "movie",
-    "+@generated-on": "2026-07-24T03:45:36Z",
+    "+@generated-on": "2026-08-23T04:53:10Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "37818"
     },
     "info": [
+        {
+            "+@gid": "1412798273",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40369-1412798273.1785031667.jpg",
+            "+@width": "200",
+            "+@height": "139",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40369-1412798273.1785031667.jpg",
+                    "+@width": "200",
+                    "+@height": "139"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40369-1412798273.1785031667.jpg",
+                    "+@width": "500",
+                    "+@height": "348"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A40369-1412798273.1785031667.jpg",
+                    "+@width": "600",
+                    "+@height": "418"
+                }
+            ]
+        },
         {
             "+content": "Eiga Doraemon: Nobita no Jōki Jikansha",
             "+@gid": "2528421300",
@@ -21,6 +45,11 @@
             "+@gid": "2624584585",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "time travel",
+            "+@gid": "1782043776",
+            "+@type": "Themes"
         },
         {
             "+content": "2027 (spring)",
@@ -35,6 +64,11 @@
             "+@href": "https://doraeiga.com/2027/"
         }
     ],
+    "news": {
+        "+content": "2027 <cite>Doraemon</cite> Film Heads to 19th Century London",
+        "+@datetime": "2026-07-24T01:34:43Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-07-23/2027-doraemon-film-heads-to-19th-century-london/.239920"
+    },
     "staff": [
         {
             "+@gid": "1669643129",
@@ -159,5 +193,6 @@
         }
     ],
     "+@date-added": "2026-07-23T22:08:33Z",
-    "+@date-last-updated-at": "2026-07-24T03:45:37Z"
+    "+@date-last-modified-at": "2026-08-23T04:53:15Z",
+    "+@date-last-updated-at": "2026-08-23T04:53:15Z"
 }
