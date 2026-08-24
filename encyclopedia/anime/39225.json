@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Ribbon Hero",
     "+@precision": "movie",
-    "+@generated-on": "2026-07-24T21:29:13Z",
+    "+@generated-on": "2026-08-24T01:58:36Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "1340"
@@ -13,27 +13,24 @@
         {
             "+@gid": "1485620200",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39225-1485620200.1784821182.jpg",
-            "img": {
-                "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39225-1485620200.1784821182.jpg"
-            }
-        },
-        {
-            "+@gid": "517352832",
-            "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39225-517352832.1779854769.jpg",
-            "+@width": "135",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39225-1485620200.1784935215.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39225-517352832.1779854769.jpg",
-                    "+@width": "135",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39225-1485620200.1784935215.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A39225-517352832.1779854769.jpg",
-                    "+@width": "405",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A39225-1485620200.1784935215.jpg",
+                    "+@width": "423",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A39225-1485620200.1784935215.jpg",
+                    "+@width": "550",
+                    "+@height": "780"
                 }
             ]
         },
@@ -42,6 +39,12 @@
             "+@gid": "957360252",
             "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "La heroína del lazo",
+            "+@gid": "2639716402",
+            "+@type": "Alternative title",
+            "+@lang": "ES"
         },
         {
             "+content": "リボンヒーロー",
@@ -89,6 +92,21 @@
             "+@type": "Premiere date"
         },
         {
+            "+content": "\"Reborn\" by Girls Archives.",
+            "+@gid": "2472555286",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Aa, Ou yo\" (あゝ王よ) by Suginami Junior Chorus",
+            "+@gid": "472881914",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Fuyugare no Tabibito\" (冬枯れの旅人) by Seiran Kobayashi & Kōki Uchiyama",
+            "+@gid": "3566824291",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "Netflix映画『THE RIBBON HERO リボンヒーロー』公式サイト",
             "+@gid": "1070954237",
             "+@type": "Official website",
@@ -96,6 +114,14 @@
             "+@href": "https://www.theribbonhero.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "9",
+        "+@weighted_score": "6.3968"
+    },
+    "review": {
+        "+content": "<cite>The Ribbon Hero</cite> Anime Film Review",
+        "+@href": "https://www.animenewsnetwork.com/review/the-ribbon-hero/anime-film/.240433"
+    },
     "news": [
         {
             "+content": "Netflix, Twin Engine Produce <cite>The Ribbon Hero</cite> Anime Film Based on Tezuka's <cite>Princess Knight</cite>",
@@ -126,6 +152,11 @@
             "+content": "<cite>The Ribbon Hero</cite> Anime Film's Promo Video Highlights Pine, Sapphire's Bond",
             "+@datetime": "2026-07-24T15:26:12Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-07-24/the-ribbon-hero-anime-film-promo-video-highlights-pine-sapphire-bond/.239941"
+        },
+        {
+            "+content": "<cite>The Ribbon Hero</cite> Anime Film's Trailer Reveals 5 Cast Members, Previews English Dub",
+            "+@datetime": "2026-07-30T14:52:50Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-30/the-ribbon-hero-anime-film-trailer-reveals-5-cast-members-previews-english-dub/.240115"
         }
     ],
     "staff": [
@@ -220,6 +251,357 @@
     ],
     "cast": [
         {
+            "+@gid": "2222908179",
+            "+@lang": "EN",
+            "role": "Pope",
+            "person": {
+                "+content": "Keone Young",
+                "+@id": "31038"
+            }
+        },
+        {
+            "+@gid": "1140712231",
+            "+@lang": "EN",
+            "role": "Tack",
+            "person": {
+                "+content": "Brittany Lauda",
+                "+@id": "124358"
+            }
+        },
+        {
+            "+@gid": "2975492806",
+            "+@lang": "EN",
+            "role": "Velvet",
+            "person": {
+                "+content": "Alan Lee",
+                "+@id": "129228"
+            }
+        },
+        {
+            "+@gid": "1411102036",
+            "+@lang": "EN",
+            "role": "Rock",
+            "person": {
+                "+content": "Stephen Fu",
+                "+@id": "146239"
+            }
+        },
+        {
+            "+@gid": "1930525741",
+            "+@lang": "EN",
+            "role": "Zirco",
+            "person": {
+                "+content": "Anne Yatco",
+                "+@id": "152297"
+            }
+        },
+        {
+            "+@gid": "3426781615",
+            "+@lang": "EN",
+            "role": "Chorogy",
+            "person": {
+                "+content": "Caleb Yen",
+                "+@id": "185783"
+            }
+        },
+        {
+            "+@gid": "2674014763",
+            "+@lang": "EN",
+            "role": "Pine",
+            "person": {
+                "+content": "Jenny Yokobori",
+                "+@id": "198000"
+            }
+        },
+        {
+            "+@gid": "2905833698",
+            "+@lang": "EN",
+            "role": "Sapphire",
+            "person": {
+                "+content": "Courtney Lin",
+                "+@id": "213124"
+            }
+        },
+        {
+            "+@gid": "2799756194",
+            "+@lang": "EN",
+            "role": "Queen",
+            "person": {
+                "+content": "Ren Hanami",
+                "+@id": "227314"
+            }
+        },
+        {
+            "+@gid": "2769434283",
+            "+@lang": "EN",
+            "role": "Hecate",
+            "person": {
+                "+content": "Miya Kodama",
+                "+@id": "271500"
+            }
+        },
+        {
+            "+@gid": "3349889557",
+            "+@lang": "EN",
+            "role": "Chick",
+            "person": {
+                "+content": "Dawn Anderson",
+                "+@id": "294181"
+            }
+        },
+        {
+            "+@gid": "3033329695",
+            "+@lang": "ES",
+            "role": "Zirco",
+            "person": {
+                "+content": "Raquel Martín",
+                "+@id": "47756"
+            }
+        },
+        {
+            "+@gid": "1215443327",
+            "+@lang": "ES",
+            "role": "Hecate",
+            "person": {
+                "+content": "Ana de Castro",
+                "+@id": "89563"
+            }
+        },
+        {
+            "+@gid": "3485081329",
+            "+@lang": "ES",
+            "role": "Pine",
+            "person": {
+                "+content": "Claudia Caneda",
+                "+@id": "168942"
+            }
+        },
+        {
+            "+@gid": "2406935827",
+            "+@lang": "ES",
+            "role": "Pope",
+            "person": {
+                "+content": "Fernando Simón",
+                "+@id": "168946"
+            }
+        },
+        {
+            "+@gid": "1703001092",
+            "+@lang": "ES",
+            "role": "Chorogy",
+            "person": {
+                "+content": "Iván de Pedro",
+                "+@id": "182759"
+            }
+        },
+        {
+            "+@gid": "2181356267",
+            "+@lang": "ES",
+            "role": "Rock",
+            "person": {
+                "+content": "Diego del Arco",
+                "+@id": "182831"
+            }
+        },
+        {
+            "+@gid": "3082817507",
+            "+@lang": "ES",
+            "role": "Queen",
+            "person": {
+                "+content": "Alexia Lorrio",
+                "+@id": "187957"
+            }
+        },
+        {
+            "+@gid": "1899322634",
+            "+@lang": "ES",
+            "role": "Sapphire",
+            "person": {
+                "+content": "Alba Luque",
+                "+@id": "229551"
+            }
+        },
+        {
+            "+@gid": "2476963519",
+            "+@lang": "ES",
+            "role": "Velvet",
+            "person": {
+                "+content": "Álvaro Saudinós",
+                "+@id": "235172"
+            }
+        },
+        {
+            "+@gid": "2762634247",
+            "+@lang": "ES",
+            "role": "Chick",
+            "person": {
+                "+content": "Claudia Marco",
+                "+@id": "301354"
+            }
+        },
+        {
+            "+@gid": "2696424651",
+            "+@lang": "FR",
+            "role": "Velours",
+            "person": {
+                "+content": "Donald Reignoux",
+                "+@id": "3735"
+            }
+        },
+        {
+            "+@gid": "1631030059",
+            "+@lang": "FR",
+            "role": "Pope",
+            "person": {
+                "+content": "Frédéric Souterelle",
+                "+@id": "55617"
+            }
+        },
+        {
+            "+@gid": "3046739259",
+            "+@lang": "FR",
+            "role": "Hecate",
+            "person": {
+                "+content": "Kelly Marot",
+                "+@id": "69308"
+            }
+        },
+        {
+            "+@gid": "3025811362",
+            "+@lang": "FR",
+            "role": "Sapphire",
+            "person": {
+                "+content": "Olivia Luccioni",
+                "+@id": "74332"
+            }
+        },
+        {
+            "+@gid": "2226385492",
+            "+@lang": "FR",
+            "role": "Pin",
+            "person": {
+                "+content": "Jaynelia Coadou",
+                "+@id": "129621"
+            }
+        },
+        {
+            "+@gid": "1670610178",
+            "+@lang": "FR",
+            "role": "Zirco",
+            "person": {
+                "+content": "Lila Lacombe",
+                "+@id": "176859"
+            }
+        },
+        {
+            "+@gid": "1534122392",
+            "+@lang": "FR",
+            "role": "Donkey Knight",
+            "person": {
+                "+content": "Guillaume Desmarchelier",
+                "+@id": "184961"
+            }
+        },
+        {
+            "+@gid": "1433051241",
+            "+@lang": "FR",
+            "role": "Rock",
+            "person": {
+                "+content": "Arthur Khong",
+                "+@id": "201192"
+            }
+        },
+        {
+            "+@gid": "1747035016",
+            "+@lang": "FR",
+            "role": "Chorogi",
+            "person": {
+                "+content": "Jim Redler",
+                "+@id": "209438"
+            }
+        },
+        {
+            "+@gid": "2499481337",
+            "+@lang": "IT",
+            "role": "Zirco",
+            "person": {
+                "+content": "Graziella Polesinanti",
+                "+@id": "26559"
+            }
+        },
+        {
+            "+@gid": "2910118880",
+            "+@lang": "IT",
+            "role": "Vostra Santità",
+            "person": {
+                "+content": "Massimo Lodolo",
+                "+@id": "50866"
+            }
+        },
+        {
+            "+@gid": "3820916725",
+            "+@lang": "IT",
+            "role": "Chorogy",
+            "person": {
+                "+content": "Mirko Cannella",
+                "+@id": "59728"
+            }
+        },
+        {
+            "+@gid": "2321942029",
+            "+@lang": "IT",
+            "role": "Velvet",
+            "person": {
+                "+content": "Andrea Oldani",
+                "+@id": "107215"
+            }
+        },
+        {
+            "+@gid": "2817130470",
+            "+@lang": "IT",
+            "role": "Pine",
+            "person": {
+                "+content": "Olivia Costantini",
+                "+@id": "130098"
+            }
+        },
+        {
+            "+@gid": "3001730775",
+            "+@lang": "IT",
+            "role": "Hecate",
+            "person": {
+                "+content": "Rossa Caputo",
+                "+@id": "131043"
+            }
+        },
+        {
+            "+@gid": "2056498080",
+            "+@lang": "IT",
+            "role": "Zaffiro",
+            "person": {
+                "+content": "Martina Tamburello",
+                "+@id": "155039"
+            }
+        },
+        {
+            "+@gid": "603456904",
+            "+@lang": "IT",
+            "role": "Rock",
+            "person": {
+                "+content": "Lorenzo Rossi",
+                "+@id": "226555"
+            }
+        },
+        {
+            "+@gid": "2071892312",
+            "+@lang": "JA",
+            "role": "Queen",
+            "person": {
+                "+content": "Aya Hisakawa",
+                "+@id": "503"
+            }
+        },
+        {
             "+@gid": "1053560699",
             "+@lang": "JA",
             "role": "Zirco",
@@ -229,12 +611,39 @@
             }
         },
         {
+            "+@gid": "1711156165",
+            "+@lang": "JA",
+            "role": "Pope",
+            "person": {
+                "+content": "Haruhiko Jō",
+                "+@id": "10738"
+            }
+        },
+        {
+            "+@gid": "2904767786",
+            "+@lang": "JA",
+            "role": "Rock",
+            "person": {
+                "+content": "Yoshimasa Hosoya",
+                "+@id": "53773"
+            }
+        },
+        {
             "+@gid": "1877445801",
             "+@lang": "JA",
             "role": "Velvet",
             "person": {
                 "+content": "Kōki Uchiyama",
                 "+@id": "56091"
+            }
+        },
+        {
+            "+@gid": "2566934792",
+            "+@lang": "JA",
+            "role": "Chorogy",
+            "person": {
+                "+content": "Yuusuke Tezuka",
+                "+@id": "61487"
             }
         },
         {
@@ -253,6 +662,132 @@
             "person": {
                 "+content": "Saaya",
                 "+@id": "223627"
+            }
+        },
+        {
+            "+@gid": "1030344149",
+            "+@lang": "JA",
+            "role": "Hecate",
+            "person": {
+                "+content": "Mito Tsukino",
+                "+@id": "300794"
+            }
+        },
+        {
+            "+@gid": "369609005",
+            "+@lang": "JA",
+            "role": "Chick",
+            "person": {
+                "+content": "Lunlun",
+                "+@id": "300795"
+            }
+        },
+        {
+            "+@gid": "3350139580",
+            "+@lang": "JA",
+            "role": "Jack",
+            "person": {
+                "+content": "Debidebi Debiru",
+                "+@id": "300797"
+            }
+        },
+        {
+            "+@gid": "2345747461",
+            "+@lang": "TL",
+            "role": "Pine",
+            "person": {
+                "+content": "Rona Aguilar",
+                "+@id": "39030"
+            }
+        },
+        {
+            "+@gid": "3110765066",
+            "+@lang": "TL",
+            "role": "Hakobe",
+            "person": {
+                "+content": "Hazel Hernan",
+                "+@id": "42178"
+            }
+        },
+        {
+            "+@gid": "1761580715",
+            "+@lang": "TL",
+            "role": "Queen",
+            "person": {
+                "+content": "Hazel Hernan",
+                "+@id": "42178"
+            }
+        },
+        {
+            "+@gid": "2423057582",
+            "+@lang": "TL",
+            "role": "Chick",
+            "person": {
+                "+content": "Mitchiko Azarcon-Tiongson",
+                "+@id": "104688"
+            }
+        },
+        {
+            "+@gid": "1410882754",
+            "+@lang": "TL",
+            "role": "Zirco",
+            "person": {
+                "+content": "Mitchiko Azarcon-Tiongson",
+                "+@id": "104688"
+            }
+        },
+        {
+            "+@gid": "1933199366",
+            "+@lang": "TL",
+            "role": "Sapphire",
+            "person": {
+                "+content": "Elle Genovata",
+                "+@id": "126407"
+            }
+        },
+        {
+            "+@gid": "1783860070",
+            "+@lang": "TL",
+            "role": "Rock",
+            "person": {
+                "+content": "Steve Dela Cruz",
+                "+@id": "151398"
+            }
+        },
+        {
+            "+@gid": "85449565",
+            "+@lang": "TL",
+            "role": "Velvet",
+            "person": {
+                "+content": "Carl Simon Dela Cruz",
+                "+@id": "169150"
+            }
+        },
+        {
+            "+@gid": "2632597750",
+            "+@lang": "TL",
+            "role": "Hecate",
+            "person": {
+                "+content": "Kenz Ancero-Bontogon",
+                "+@id": "293110"
+            }
+        },
+        {
+            "+@gid": "3453561687",
+            "+@lang": "TL",
+            "role": "Pope",
+            "person": {
+                "+content": "Jeric Cariño",
+                "+@id": "295580"
+            }
+        },
+        {
+            "+@gid": "2475566181",
+            "+@lang": "TL",
+            "role": "Chorogy",
+            "person": {
+                "+content": "Ralph Gerald Nacua",
+                "+@id": "300273"
             }
         }
     ],
@@ -275,6 +810,6 @@
         }
     ],
     "+@date-added": "2026-04-23T08:27:52Z",
-    "+@date-last-modified-at": "2026-07-24T21:29:23Z",
-    "+@date-last-updated-at": "2026-07-24T21:29:23Z"
+    "+@date-last-modified-at": "2026-08-24T01:58:46Z",
+    "+@date-last-updated-at": "2026-08-24T01:58:46Z"
 }

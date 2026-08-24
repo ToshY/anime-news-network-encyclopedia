@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Oshi no Ko",
     "+@precision": "TV 4",
-    "+@generated-on": "2026-07-24T21:29:13Z",
+    "+@generated-on": "2026-08-24T01:58:36Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "33662"
@@ -100,9 +100,32 @@
             "+content": "TA",
             "+@gid": "2342309255",
             "+@type": "Objectionable content"
+        },
+        {
+            "+content": "アニメ『【推しの子】』公式サイト",
+            "+@gid": "1446920360",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://ichigoproduction.com/Season4/"
         }
     ],
     "staff": [
+        {
+            "+@gid": "2541950390",
+            "task": "Director",
+            "person": {
+                "+content": "Daisuke Hiramaki",
+                "+@id": "53184"
+            }
+        },
+        {
+            "+@gid": "1259147195",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Jin Tanaka",
+                "+@id": "153258"
+            }
+        },
         {
             "+@gid": "3471314028",
             "task": "Original creator",
@@ -117,6 +140,14 @@
             "person": {
                 "+content": "Aka Akasaka",
                 "+@id": "164360"
+            }
+        },
+        {
+            "+@gid": "3942282671",
+            "task": "Character Design",
+            "person": {
+                "+content": "Kanna Hirayama",
+                "+@id": "130869"
             }
         }
     ],
@@ -176,7 +207,15 @@
             }
         }
     ],
+    "credit": {
+        "+@gid": "2876313463",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Dōga Kōbō",
+            "+@id": "3412"
+        }
+    },
     "+@date-added": "2026-03-25T20:23:49Z",
-    "+@date-last-modified-at": "2026-07-24T21:29:23Z",
-    "+@date-last-updated-at": "2026-07-24T21:29:23Z"
+    "+@date-last-modified-at": "2026-08-24T01:58:46Z",
+    "+@date-last-updated-at": "2026-08-24T01:58:46Z"
 }
