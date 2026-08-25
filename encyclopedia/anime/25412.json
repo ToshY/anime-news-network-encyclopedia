@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Mushoku Tensei: Jobless Reincarnation II",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-07-25T21:09:42Z",
+    "+@generated-on": "2026-08-25T01:53:17Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "29147"
@@ -167,24 +167,27 @@
     ],
     "ratings": {
         "+@nb_votes": "288",
-        "+@weighted_score": "7.5638",
-        "+@bayesian_score": "7.56003"
+        "+@weighted_score": "7.5603",
+        "+@bayesian_score": "7.55666"
     },
     "release": [
         {
             "+content": "Mushoku Tensei: Jobless Reincarnation II - Season 2 Part 1 [UK] (Blu-ray)",
             "+@date": "2024-10-21",
-            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=55000"
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=55000",
+            "+@ean": "5022366012546"
         },
         {
             "+content": "Mushoku Tensei: Jobless Reincarnation II - Season 2 Part 1 (BD+DVD)",
             "+@date": "2024-09-24",
-            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=48916"
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=48916",
+            "+@ean": "0704400110054"
         },
         {
             "+content": "Mushoku Tensei: Jobless Reincarnation II - Season 2 Part 1 (DVD)",
             "+@date": "2024-10-21",
-            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=54999"
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=54999",
+            "+@ean": "5022366012645"
         }
     ],
     "news": [
@@ -907,6 +910,15 @@
     ],
     "cast": [
         {
+            "+@gid": "2010967898",
+            "+@lang": "EN",
+            "role": "Zanoba Shirone",
+            "person": {
+                "+content": "Ian Sinclair",
+                "+@id": "42612"
+            }
+        },
+        {
             "+@gid": "3086834581",
             "+@lang": "EN",
             "role": "Rudeus",
@@ -927,7 +939,7 @@
         {
             "+@gid": "1101922927",
             "+@lang": "EN",
-            "role": "Fitz",
+            "role": "Sylphiette/Fitz",
             "person": {
                 "+content": "Emily Neves",
                 "+@id": "83471"
@@ -949,6 +961,15 @@
             "person": {
                 "+content": "Ray Hurd",
                 "+@id": "126783"
+            }
+        },
+        {
+            "+@gid": "3617837892",
+            "+@lang": "EN",
+            "role": "Ariel Anemoi Asura",
+            "person": {
+                "+content": "Sarah Wiedenheft",
+                "+@id": "128620"
             }
         },
         {
@@ -976,6 +997,24 @@
             "person": {
                 "+content": "Ariel Graham",
                 "+@id": "163724"
+            }
+        },
+        {
+            "+@gid": "3235192009",
+            "+@lang": "EN",
+            "role": "Luke Notos Greyrat",
+            "person": {
+                "+content": "Aaron Campbell",
+                "+@id": "170330"
+            }
+        },
+        {
+            "+@gid": "3103025943",
+            "+@lang": "EN",
+            "role": "Cliff Grimoire",
+            "person": {
+                "+content": "Ry McKeand",
+                "+@id": "171465"
             }
         },
         {
@@ -1406,6 +1445,6 @@
         }
     ],
     "+@date-added": "2022-03-06T20:26:25Z",
-    "+@date-last-modified-at": "2026-07-25T21:09:48Z",
-    "+@date-last-updated-at": "2026-07-25T21:09:48Z"
+    "+@date-last-modified-at": "2026-08-25T01:53:23Z",
+    "+@date-last-updated-at": "2026-08-25T01:53:23Z"
 }
