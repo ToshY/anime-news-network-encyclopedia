@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Duel Masters LOST ~Bōkyaku no Taiyō~",
     "+@precision": "manga",
-    "+@generated-on": "2026-07-27T17:56:06Z",
+    "+@generated-on": "2026-08-26T23:36:37Z",
     "related-prev": [
         {
             "+@rel": "serialized in",
@@ -15,10 +15,16 @@
             "+@id": "33082"
         }
     ],
-    "related-next": {
-        "+@id": "35075",
-        "+@rel": "adaptation"
-    },
+    "related-next": [
+        {
+            "+@id": "35075",
+            "+@rel": "adaptation"
+        },
+        {
+            "+@id": "40436",
+            "+@rel": "sequel"
+        }
+    ],
     "info": [
         {
             "+@gid": "2383955303",
@@ -62,7 +68,7 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2025-09-10 (serialized on Weekly CoroCoro Comic)",
+            "+content": "2025-09-10 to 2026-01-01 (serialized on Weekly CoroCoro Comic)",
             "+@gid": "2117140172",
             "+@type": "Vintage"
         }
@@ -98,5 +104,6 @@
         }
     ],
     "+@date-added": "2025-03-11T01:14:14Z",
-    "+@date-last-updated-at": "2026-07-27T17:56:07Z"
+    "+@date-last-modified-at": "2026-08-26T23:36:38Z",
+    "+@date-last-updated-at": "2026-08-26T23:36:38Z"
 }
