@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Matsurika Kanriden",
     "+@precision": "TV",
-    "+@generated-on": "2026-07-29T14:32:07Z",
+    "+@generated-on": "2026-08-28T22:22:41Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27531"
@@ -59,11 +59,18 @@
             "+@href": "https://matsurika-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Matsurika Kanriden</cite> TV Anime's Video Reveals Cast, Staff, January 2027 Premiere",
-        "+@datetime": "2026-03-06T09:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-06/matsurika-kanriden-tv-anime-video-reveals-cast-staff-january-2027-premiere/.234988"
-    },
+    "news": [
+        {
+            "+content": "<cite>Matsurika Kanriden</cite> TV Anime's Video Reveals Cast, Staff, January 2027 Premiere",
+            "+@datetime": "2026-03-06T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-06/matsurika-kanriden-tv-anime-video-reveals-cast-staff-january-2027-premiere/.234988"
+        },
+        {
+            "+content": "<cite>Matsurika Kanriden</cite> TV Anime Reveals Kana-Boon's Theme Song in Promo Video",
+            "+@datetime": "2026-08-21T09:04:18Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-21/matsurika-kanriden-tv-anime-reveals-kana-boon-theme-song-in-promo-video/.240797"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2357583269",
@@ -120,6 +127,46 @@
                 "+content": "Manami Inose",
                 "+@id": "195716"
             }
+        },
+        {
+            "+@gid": "895055246",
+            "task": "Art Director",
+            "person": {
+                "+content": "Satoshi Shibata",
+                "+@id": "20299"
+            }
+        },
+        {
+            "+@gid": "2485047136",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kaho Deguchi",
+                "+@id": "114980"
+            }
+        },
+        {
+            "+@gid": "2100560299",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Manami Inose",
+                "+@id": "195716"
+            }
+        },
+        {
+            "+@gid": "2734553735",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Yasunori Ebina",
+                "+@id": "27728"
+            }
+        },
+        {
+            "+@gid": "2965306369",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yukina Nomura",
+                "+@id": "102852"
+            }
         }
     ],
     "cast": [
@@ -133,12 +180,39 @@
             }
         },
         {
+            "+@gid": "1632524194",
+            "+@lang": "JA",
+            "role": "Shisei Hō",
+            "person": {
+                "+content": "Kōtarō Nishiyama",
+                "+@id": "114033"
+            }
+        },
+        {
             "+@gid": "3633202966",
             "+@lang": "JA",
             "role": "Matsurika Kō",
             "person": {
                 "+content": "Rie Takahashi",
                 "+@id": "126148"
+            }
+        },
+        {
+            "+@gid": "1907373385",
+            "+@lang": "JA",
+            "role": "Tenga Rei",
+            "person": {
+                "+content": "Takeo Ōtsuka",
+                "+@id": "158555"
+            }
+        },
+        {
+            "+@gid": "1320146020",
+            "+@lang": "JA",
+            "role": "Shunsetsu Shō",
+            "person": {
+                "+content": "Shō Komura",
+                "+@id": "270069"
             }
         }
     ],
@@ -151,5 +225,6 @@
         }
     },
     "+@date-added": "2025-09-30T23:26:55Z",
-    "+@date-last-updated-at": "2026-07-29T14:32:13Z"
+    "+@date-last-modified-at": "2026-08-28T22:22:47Z",
+    "+@date-last-updated-at": "2026-08-28T22:22:47Z"
 }
