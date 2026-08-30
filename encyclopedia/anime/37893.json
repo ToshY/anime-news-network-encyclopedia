@@ -2,9 +2,9 @@
     "+@id": "37893",
     "+@gid": "1914197512",
     "+@type": "ONA",
-    "+@name": "Yamikarasu to Mayonaka no Bōken",
+    "+@name": "Murkrow and the Nighttime Adventure",
     "+@precision": "ONA",
-    "+@generated-on": "2026-07-31T17:53:22Z",
+    "+@generated-on": "2026-08-30T19:19:41Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "29217"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "Murkrow and the Nighttime Adventure",
+            "+@gid": "2826095815",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Yamikarasu to Mayonaka no Bōken",
             "+@gid": "2141205352",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -60,7 +66,7 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
+        "+@nb_votes": "2",
         "+@weighted_score": "7"
     },
     "staff": [
@@ -155,6 +161,42 @@
     ],
     "cast": [
         {
+            "+@gid": "1904861895",
+            "+@lang": "EN",
+            "role": "Mother",
+            "person": {
+                "+content": "Rebecca Davis",
+                "+@id": "613"
+            }
+        },
+        {
+            "+@gid": "2560397909",
+            "+@lang": "EN",
+            "role": "Father",
+            "person": {
+                "+content": "Kyle Hebert",
+                "+@id": "1390"
+            }
+        },
+        {
+            "+@gid": "3782671237",
+            "+@lang": "EN",
+            "role": "Murkrow",
+            "person": {
+                "+content": "Bill Rogers",
+                "+@id": "1439"
+            }
+        },
+        {
+            "+@gid": "3633497182",
+            "+@lang": "EN",
+            "role": "Hiro",
+            "person": {
+                "+content": "Cherami Leigh",
+                "+@id": "64331"
+            }
+        },
+        {
             "+@gid": "4062557174",
             "+@lang": "JA",
             "role": "Mother",
@@ -245,5 +287,6 @@
         }
     },
     "+@date-added": "2025-10-03T07:14:16Z",
-    "+@date-last-updated-at": "2026-07-31T17:53:26Z"
+    "+@date-last-modified-at": "2026-08-30T19:19:46Z",
+    "+@date-last-updated-at": "2026-08-30T19:19:46Z"
 }
