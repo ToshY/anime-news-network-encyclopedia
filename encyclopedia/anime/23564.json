@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Yes ka No ka Hanbun ka",
     "+@precision": "movie",
-    "+@generated-on": "2026-07-30T21:33:23Z",
+    "+@generated-on": "2026-08-30T22:46:18Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "23558"
@@ -79,8 +79,8 @@
     ],
     "ratings": {
         "+@nb_votes": "42",
-        "+@weighted_score": "6.4061",
-        "+@bayesian_score": "6.64241"
+        "+@weighted_score": "6.4059",
+        "+@bayesian_score": "6.64221"
     },
     "review": {
         "+content": "Yes, No, or Maybe Movie",
@@ -270,6 +270,15 @@
     ],
     "cast": [
         {
+            "+@gid": "3380148570",
+            "+@lang": "JA",
+            "role": "Keiichi Asou",
+            "person": {
+                "+content": "Toshiyuki Morikawa",
+                "+@id": "692"
+            }
+        },
+        {
             "+@gid": "2606895779",
             "+@lang": "JA",
             "role": "Ushio Tsuzuki",
@@ -286,6 +295,15 @@
                 "+content": "Atsushi Abe",
                 "+@id": "26846"
             }
+        },
+        {
+            "+@gid": "1491221129",
+            "+@lang": "JA",
+            "role": "Tatsuki Minagawa",
+            "person": {
+                "+content": "Takuya Eguchi",
+                "+@id": "76338"
+            }
         }
     ],
     "credit": {
@@ -297,6 +315,6 @@
         }
     },
     "+@date-added": "2020-08-12T18:08:59Z",
-    "+@date-last-modified-at": "2026-07-30T21:33:26Z",
-    "+@date-last-updated-at": "2026-07-30T21:33:26Z"
+    "+@date-last-modified-at": "2026-08-30T22:46:21Z",
+    "+@date-last-updated-at": "2026-08-30T22:46:21Z"
 }
