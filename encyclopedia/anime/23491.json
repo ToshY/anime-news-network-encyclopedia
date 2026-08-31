@@ -4,11 +4,17 @@
     "+@type": "ONA",
     "+@name": "Ultraman",
     "+@precision": "ONA 2",
-    "+@generated-on": "2026-07-31T03:51:50Z",
-    "related-prev": {
-        "+@rel": "sequel of",
-        "+@id": "21602"
-    },
+    "+@generated-on": "2026-08-31T05:39:12Z",
+    "related-prev": [
+        {
+            "+@rel": "sequel of",
+            "+@id": "21602"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "40350"
+        }
+    ],
     "related-next": {
         "+@id": "25567",
         "+@rel": "sequel"
@@ -84,8 +90,8 @@
     ],
     "ratings": {
         "+@nb_votes": "16",
-        "+@weighted_score": "6.5473",
-        "+@bayesian_score": "6.94253"
+        "+@weighted_score": "6.5475",
+        "+@bayesian_score": "6.94256"
     },
     "review": {
         "+content": "Ultraman Season 2",
@@ -659,6 +665,6 @@
         }
     ],
     "+@date-added": "2020-07-06T00:17:38Z",
-    "+@date-last-modified-at": "2026-07-31T03:51:52Z",
-    "+@date-last-updated-at": "2026-07-31T03:51:52Z"
+    "+@date-last-modified-at": "2026-08-31T05:39:14Z",
+    "+@date-last-updated-at": "2026-08-31T05:39:14Z"
 }
