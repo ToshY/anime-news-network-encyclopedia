@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Detective Conan: Highway no Datenshi",
     "+@precision": "movie",
-    "+@generated-on": "2026-08-01T17:16:10Z",
+    "+@generated-on": "2026-08-31T21:29:20Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "34123"
@@ -36,6 +36,18 @@
             "+@lang": "JA"
         },
         {
+            "+content": "Détective Conan : L'Ange déchu de l'asphalte",
+            "+@gid": "2865127128",
+            "+@type": "Alternative title",
+            "+@lang": "FR"
+        },
+        {
+            "+content": "Detective Conan: Fallen Angel of the Highway",
+            "+@gid": "1777808893",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Meitantei Conan: Highway no Datenshi",
             "+@gid": "1172604795",
             "+@type": "Alternative title",
@@ -65,8 +77,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "7"
+        "+@nb_votes": "2",
+        "+@weighted_score": "8.0355"
     },
     "news": [
         {
@@ -398,6 +410,33 @@
     ],
     "cast": [
         {
+            "+@gid": "1862933600",
+            "+@lang": "JA",
+            "role": "Shinichi Kudō",
+            "person": {
+                "+content": "Kappei Yamaguchi",
+                "+@id": "277"
+            }
+        },
+        {
+            "+@gid": "3845400485",
+            "+@lang": "JA",
+            "role": "Masumi Sera",
+            "person": {
+                "+content": "Noriko Hidaka",
+                "+@id": "282"
+            }
+        },
+        {
+            "+@gid": "1702627386",
+            "+@lang": "JA",
+            "role": "Hiroshi Agasa",
+            "person": {
+                "+content": "Kenichi Ogata",
+                "+@id": "284"
+            }
+        },
+        {
             "+@gid": "1764558008",
             "+@lang": "JA",
             "role": "Ai Haibara",
@@ -407,12 +446,30 @@
             }
         },
         {
+            "+@gid": "1930588572",
+            "+@lang": "JA",
+            "role": "Juugo Yokomizo",
+            "person": {
+                "+content": "Akio Ōtsuka",
+                "+@id": "459"
+            }
+        },
+        {
             "+@gid": "1697038061",
             "+@lang": "JA",
             "role": "Kenji Hagiwara",
             "person": {
                 "+content": "Shinichirō Miki",
                 "+@id": "659"
+            }
+        },
+        {
+            "+@gid": "1763471888",
+            "+@lang": "JA",
+            "role": "Naeko Miike",
+            "person": {
+                "+content": "Rie Tanaka",
+                "+@id": "697"
             }
         },
         {
@@ -434,12 +491,39 @@
             }
         },
         {
+            "+@gid": "2203386497",
+            "+@lang": "JA",
+            "role": "Sonoko Suzuki",
+            "person": {
+                "+content": "Naoko Matsui",
+                "+@id": "974"
+            }
+        },
+        {
             "+@gid": "1267729674",
             "+@lang": "JA",
             "role": "Jinpei Matsuda",
             "person": {
                 "+content": "Nobutoshi Canna",
                 "+@id": "1070"
+            }
+        },
+        {
+            "+@gid": "1342289438",
+            "+@lang": "JA",
+            "role": "Genta Kojima",
+            "person": {
+                "+content": "Wataru Takagi",
+                "+@id": "1307"
+            }
+        },
+        {
+            "+@gid": "382667453",
+            "+@lang": "JA",
+            "role": "Ayumi Yoshida",
+            "person": {
+                "+content": "Yukiko Iwai",
+                "+@id": "2419"
             }
         },
         {
@@ -458,6 +542,24 @@
             "person": {
                 "+content": "Rikiya Koyama",
                 "+@id": "8136"
+            }
+        },
+        {
+            "+@gid": "2007157483",
+            "+@lang": "JA",
+            "role": "Mitsuhiko Tsuburaya",
+            "person": {
+                "+content": "Ikue Ōtani",
+                "+@id": "86227"
+            }
+        },
+        {
+            "+@gid": "2142322277",
+            "+@lang": "JA",
+            "role": "Yumi Miyamoto",
+            "person": {
+                "+content": "Yū Sugimoto",
+                "+@id": "175585"
             }
         },
         {
@@ -538,6 +640,6 @@
         }
     ],
     "+@date-added": "2025-12-02T20:43:51Z",
-    "+@date-last-modified-at": "2026-08-01T17:16:15Z",
-    "+@date-last-updated-at": "2026-08-01T17:16:15Z"
+    "+@date-last-modified-at": "2026-08-31T21:29:24Z",
+    "+@date-last-updated-at": "2026-08-31T21:29:24Z"
 }

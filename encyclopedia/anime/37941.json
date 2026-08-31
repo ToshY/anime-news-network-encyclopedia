@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "Sparks of Tomorrow",
     "+@precision": "TV",
-    "+@generated-on": "2026-08-01T17:16:11Z",
+    "+@generated-on": "2026-08-31T21:29:22Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "37940"
     },
     "info": [
         {
-            "+@gid": "4147025049",
+            "+@gid": "1174450594",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37941-4147025049.1781432239.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37941-1174450594.1787147511.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37941-4147025049.1781432239.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37941-1174450594.1787147511.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37941-4147025049.1781432239.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37941-1174450594.1787147511.jpg",
+                    "+@width": "425",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37941-1174450594.1787147511.jpg",
+                    "+@width": "460",
+                    "+@height": "650"
                 }
             ]
         },
@@ -34,6 +39,12 @@
             "+@gid": "2401469247",
             "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Destellos del mañana",
+            "+@gid": "2668529379",
+            "+@type": "Alternative title",
+            "+@lang": "ES"
         },
         {
             "+content": "Étincelles de Demain",
@@ -52,11 +63,6 @@
             "+@gid": "582827450",
             "+@type": "Alternative title",
             "+@lang": "JA"
-        },
-        {
-            "+content": "adventure",
-            "+@gid": "1317856507",
-            "+@type": "Genres"
         },
         {
             "+content": "comedy",
@@ -144,8 +150,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "4.1018"
+        "+@nb_votes": "7",
+        "+@weighted_score": "5.5551"
     },
     "news": [
         {
@@ -192,6 +198,11 @@
             "+content": "<cite>Sparks of Tomorrow</cite> Anime Streams Video Message from Director Minoru Ōta",
             "+@datetime": "2026-06-23T16:37:14Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-23/sparks-of-tomorrow-anime-streams-video-message-from-director-minoru-ota/.238844"
+        },
+        {
+            "+content": "Luna Goami Performs at Anime India Mumbai 2026 Concert; Animation & More Summit Hosts Kadokawa, 'Sony YAY!' Panels",
+            "+@datetime": "2026-08-22T09:32:11Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-22/luna-goami-performs-at-anime-india-mumbai-2026-concert-animation-and-more-summit-hosts-kadokawa-/.240833"
         }
     ],
     "staff": [
@@ -228,6 +239,46 @@
             }
         },
         {
+            "+@gid": "907676072",
+            "task": "Script",
+            "person": {
+                "+content": "Yusuke Ichikawa",
+                "+@id": "209870"
+            }
+        },
+        {
+            "+@gid": "1476989062",
+            "task": "Script",
+            "person": {
+                "+content": "Atsuo Ishino",
+                "+@id": "259429"
+            }
+        },
+        {
+            "+@gid": "2102074184",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tatsuya Ishihara",
+                "+@id": "9087"
+            }
+        },
+        {
+            "+@gid": "1466477770",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ryo Miyaki",
+                "+@id": "59044"
+            }
+        },
+        {
+            "+@gid": "551721832",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takuya Yamamura",
+                "+@id": "76915"
+            }
+        },
+        {
             "+@gid": "2911023130",
             "task": "Storyboard",
             "person": {
@@ -241,6 +292,38 @@
             "person": {
                 "+content": "Ayumu Yoshida",
                 "+@id": "111339"
+            }
+        },
+        {
+            "+@gid": "2437237109",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kohei Okamura",
+                "+@id": "145823"
+            }
+        },
+        {
+            "+@gid": "1284259559",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tatsuya Ishihara",
+                "+@id": "9087"
+            }
+        },
+        {
+            "+@gid": "767276192",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Taichi Ishidate",
+                "+@id": "37456"
+            }
+        },
+        {
+            "+@gid": "992845172",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Noriyuki Kitanohara",
+                "+@id": "39701"
             }
         },
         {
@@ -284,6 +367,14 @@
             }
         },
         {
+            "+@gid": "445034203",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Kohei Okamura",
+                "+@id": "145823"
+            }
+        },
+        {
             "+@gid": "2409218614",
             "task": "Music",
             "person": {
@@ -324,11 +415,35 @@
             }
         },
         {
+            "+@gid": "3010777840",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazumi Ikeda",
+                "+@id": "27993"
+            }
+        },
+        {
+            "+@gid": "1201848713",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mariko Takahashi",
+                "+@id": "38090"
+            }
+        },
+        {
             "+@gid": "2143524778",
             "task": "Animation Director",
             "person": {
                 "+content": "Kayo Hikiyama",
                 "+@id": "56340"
+            }
+        },
+        {
+            "+@gid": "2795804837",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Miku Kadowaki",
+                "+@id": "74455"
             }
         },
         {
@@ -795,6 +910,15 @@
             }
         },
         {
+            "+@gid": "2645918243",
+            "+@lang": "FR",
+            "role": "Suzu Harashima",
+            "person": {
+                "+content": "Camille Béchon",
+                "+@id": "241207"
+            }
+        },
+        {
             "+@gid": "2279222287",
             "+@lang": "FR",
             "role": "Noriko Momokawa",
@@ -882,6 +1006,24 @@
             "person": {
                 "+content": "Stefano Alessandroni",
                 "+@id": "147183"
+            }
+        },
+        {
+            "+@gid": "1788273219",
+            "+@lang": "IT",
+            "role": "Kate Ookura",
+            "person": {
+                "+content": "Arianna Vignoli",
+                "+@id": "148636"
+            }
+        },
+        {
+            "+@gid": "3337201908",
+            "+@lang": "IT",
+            "role": "Suzu Harashina",
+            "person": {
+                "+content": "Beatrice Maruffa",
+                "+@id": "154682"
             }
         },
         {
@@ -1101,6 +1243,6 @@
         }
     },
     "+@date-added": "2025-10-25T02:54:24Z",
-    "+@date-last-modified-at": "2026-08-01T17:16:15Z",
-    "+@date-last-updated-at": "2026-08-01T17:16:15Z"
+    "+@date-last-modified-at": "2026-08-31T21:29:24Z",
+    "+@date-last-updated-at": "2026-08-31T21:29:24Z"
 }
