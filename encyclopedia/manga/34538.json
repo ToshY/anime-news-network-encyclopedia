@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Ruby on the Cake",
     "+@precision": "manga",
-    "+@generated-on": "2026-07-31T03:51:47Z",
+    "+@generated-on": "2026-09-01T22:37:14Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "19739"
@@ -64,16 +64,28 @@
             "+@type": "Genres"
         },
         {
+            "+content": "4",
+            "+@gid": "2428224086",
+            "+@type": "Number of tankoubon"
+        },
+        {
             "+content": "2024-04-25 (serialized in Big Gangan, May 2024)",
             "+@gid": "571951786",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Manga UP! Global Adds <cite>Love's Just an Act</cite>, <cite>I'll Become an Elegant Villainess!</cite>, 1 More Title",
-        "+@datetime": "2026-01-12T15:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-01-12/manga-up-global-adds-love-just-an-act-ill-become-an-elegant-villainess-1-more-title/.232403"
-    },
+    "news": [
+        {
+            "+content": "Manga UP! Global Adds <cite>Love's Just an Act</cite>, <cite>I'll Become an Elegant Villainess!</cite>, 1 More Title",
+            "+@datetime": "2026-01-12T15:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-12/manga-up-global-adds-love-just-an-act-ill-become-an-elegant-villainess-1-more-title/.232403"
+        },
+        {
+            "+content": "<cite>Ruby on the Cake: Feast of the Man-Eating Witches</cite> Manga Ends",
+            "+@datetime": "2026-08-26T00:20:53Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-25/ruby-on-the-cake-feast-of-the-man-eating-witches-manga-ends/.240941"
+        }
+    ],
     "staff": {
         "+@gid": "2067774873",
         "task": "Story & Art",
@@ -83,5 +95,6 @@
         }
     },
     "+@date-added": "2025-02-02T15:42:39Z",
-    "+@date-last-updated-at": "2026-07-31T03:51:50Z"
+    "+@date-last-modified-at": "2026-09-01T22:37:17Z",
+    "+@date-last-updated-at": "2026-09-01T22:37:17Z"
 }
