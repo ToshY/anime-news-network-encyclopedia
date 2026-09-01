@@ -4,15 +4,21 @@
     "+@type": "TV",
     "+@name": "Cardfight!! Vanguard Divinez Parallactic Clash Arc",
     "+@precision": "TV",
-    "+@generated-on": "2026-08-02T17:16:38Z",
+    "+@generated-on": "2026-09-01T19:24:33Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "36281"
     },
-    "related-next": {
-        "+@id": "38996",
-        "+@rel": "sequel"
-    },
+    "related-next": [
+        {
+            "+@id": "38996",
+            "+@rel": "sequel"
+        },
+        {
+            "+@id": "40469",
+            "+@rel": "sequel"
+        }
+    ],
     "info": [
         {
             "+@gid": "2479651463",
@@ -50,6 +56,11 @@
             "+@gid": "1830245467",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "card games",
+            "+@gid": "1287238832",
+            "+@type": "Themes"
         },
         {
             "+content": "Akina and his friends, having strayed into the Fantasma, find their path blocked by \"Fantôme Fighters\". The only ones who can stand against them are the special \"Mythisch Fighters\" chosen by the cards.",
@@ -699,5 +710,6 @@
         }
     ],
     "+@date-added": "2025-10-05T05:57:56Z",
-    "+@date-last-updated-at": "2026-08-02T17:16:43Z"
+    "+@date-last-modified-at": "2026-09-01T19:24:35Z",
+    "+@date-last-updated-at": "2026-09-01T19:24:35Z"
 }
