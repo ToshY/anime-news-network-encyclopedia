@@ -4,7 +4,11 @@
     "+@type": "TV",
     "+@name": "Jyuо̄ Mujin Dandivine",
     "+@precision": "TV",
-    "+@generated-on": "2026-08-03T07:47:43Z",
+    "+@generated-on": "2026-09-02T12:47:20Z",
+    "related-next": {
+        "+@id": "40480",
+        "+@rel": "adaptation"
+    },
     "info": [
         {
             "+@gid": "2489970171",
@@ -43,7 +47,12 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2026-10",
+            "+content": "20 years after the robot Dandivine defeated the mysterious Aposdoll, the world is now at peace. However, toy manufacturer Kasuga, which relied on its Dandivine merchandise, has declined. Thus, Kasuga's president Genjuro Shijima prayed for Dandivine's revival, and the Aposdoll suddenly returned. High school student Gekiha Shijima gets an invitation from his uncle Yusaku Kuroiwa, the former main pilot of Dandivine, to pilot the giant robot himself.",
+            "+@gid": "2207862977",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2026-10-07",
             "+@gid": "2332780782",
             "+@type": "Vintage"
         },
@@ -55,11 +64,18 @@
             "+@href": "https://gattaishin.com/dandivine/"
         }
     ],
-    "news": {
-        "+content": "Good Smile Company Announces <cite>Jyuо̄ Mujin Dandivine</cite> Mecha Anime",
-        "+@datetime": "2026-06-03T15:22:25Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-06-03/good-smile-company-announces-jyu-mujin-dandivine-mecha-anime/.238095"
-    },
+    "news": [
+        {
+            "+content": "Good Smile Company Announces <cite>Jyuо̄ Mujin Dandivine</cite> Mecha Anime",
+            "+@datetime": "2026-06-03T15:22:25Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-03/good-smile-company-announces-jyu-mujin-dandivine-mecha-anime/.238095"
+        },
+        {
+            "+content": "<cite>Jyuо̄ Mujin Dandivine</cite> Original TV Anime Reveals 8 More Cast Members, October 7 Debut",
+            "+@datetime": "2026-08-28T11:02:59Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-28/jyu-mujin-dandivine-original-tv-anime-reveals-8-more-cast-members-october-7-debut/.241078"
+        }
+    ],
     "staff": [
         {
             "+@gid": "293242259",
@@ -120,12 +136,57 @@
     ],
     "cast": [
         {
+            "+@gid": "2371699690",
+            "+@lang": "JA",
+            "role": "Daigo Shijima",
+            "person": {
+                "+content": "Ryōtarō Okiayu",
+                "+@id": "718"
+            }
+        },
+        {
+            "+@gid": "2670612037",
+            "+@lang": "JA",
+            "role": "Yūsaku Kuroiwa",
+            "person": {
+                "+content": "Katsuyuki Konishi",
+                "+@id": "780"
+            }
+        },
+        {
+            "+@gid": "1717458483",
+            "+@lang": "JA",
+            "role": "Genjūrō Shijima",
+            "person": {
+                "+content": "Atsushi Ono",
+                "+@id": "39003"
+            }
+        },
+        {
             "+@gid": "1250687546",
             "+@lang": "JA",
             "role": "Gekiha Shijima",
             "person": {
                 "+content": "Takuma Terashima",
                 "+@id": "55286"
+            }
+        },
+        {
+            "+@gid": "3016738149",
+            "+@lang": "JA",
+            "role": "Aki",
+            "person": {
+                "+content": "Misaki Kuno",
+                "+@id": "85915"
+            }
+        },
+        {
+            "+@gid": "1823533852",
+            "+@lang": "JA",
+            "role": "Haru",
+            "person": {
+                "+content": "Nao Tōyama",
+                "+@id": "95316"
             }
         },
         {
@@ -138,12 +199,39 @@
             }
         },
         {
+            "+@gid": "2651358106",
+            "+@lang": "JA",
+            "role": "Yūga Shinonome",
+            "person": {
+                "+content": "Ruriko Aoki",
+                "+@id": "116217"
+            }
+        },
+        {
+            "+@gid": "2169522586",
+            "+@lang": "JA",
+            "role": "Gō Sera",
+            "person": {
+                "+content": "Asuna Tomari",
+                "+@id": "128602"
+            }
+        },
+        {
             "+@gid": "1025111224",
             "+@lang": "JA",
             "role": "Kirei Shijima",
             "person": {
                 "+content": "Saya Aizawa",
                 "+@id": "154564"
+            }
+        },
+        {
+            "+@gid": "1467806916",
+            "+@lang": "JA",
+            "role": "Natsu",
+            "person": {
+                "+content": "Aya Yamane",
+                "+@id": "173872"
             }
         }
     ],
@@ -166,5 +254,6 @@
         }
     ],
     "+@date-added": "2026-06-03T21:05:24Z",
-    "+@date-last-updated-at": "2026-08-03T07:47:46Z"
+    "+@date-last-modified-at": "2026-09-02T12:47:24Z",
+    "+@date-last-updated-at": "2026-09-02T12:47:24Z"
 }
