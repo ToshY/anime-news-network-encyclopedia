@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Aragne: Sign of Vermilion",
     "+@precision": "movie",
-    "+@generated-on": "2026-08-04T14:40:08Z",
+    "+@generated-on": "2026-09-05T18:20:14Z",
     "related-next": [
         {
             "+@id": "26478",
@@ -83,6 +83,11 @@
             "+@type": "Premiere date"
         },
         {
+            "+content": "\"Sono Uso ni Chikai\" (その嘘に近い) by Memai Siren",
+            "+@gid": "2929095852",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "アラーニェの虫籠",
             "+@gid": "727271869",
             "+@type": "Official website",
@@ -92,13 +97,14 @@
     ],
     "ratings": {
         "+@nb_votes": "18",
-        "+@weighted_score": "5.4153",
-        "+@bayesian_score": "6.23698"
+        "+@weighted_score": "5.4157",
+        "+@bayesian_score": "6.2371"
     },
     "release": {
         "+content": "Aragne: Sign of Vermillion (Sub.Blu-ray)",
         "+@date": "2021-03-02",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=37277"
+        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=37277",
+        "+@ean": "0816726021645"
     },
     "news": [
         {
@@ -139,8 +145,24 @@
     ],
     "staff": [
         {
+            "+@gid": "4059293259",
+            "task": "Director",
+            "person": {
+                "+content": "Saku Sakamoto",
+                "+@id": "86023"
+            }
+        },
+        {
             "+@gid": "3015227887",
             "task": "Script",
+            "person": {
+                "+content": "Saku Sakamoto",
+                "+@id": "86023"
+            }
+        },
+        {
+            "+@gid": "1976851558",
+            "task": "Storyboard",
             "person": {
                 "+content": "Saku Sakamoto",
                 "+@id": "86023"
@@ -160,6 +182,38 @@
             "person": {
                 "+content": "Saku Sakamoto",
                 "+@id": "86023"
+            }
+        },
+        {
+            "+@gid": "386838683",
+            "task": "Art",
+            "person": {
+                "+content": "Saku Sakamoto",
+                "+@id": "86023"
+            }
+        },
+        {
+            "+@gid": "2508210724",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Osamu Fukutani",
+                "+@id": "171933"
+            }
+        },
+        {
+            "+@gid": "1130682493",
+            "task": "Producer",
+            "person": {
+                "+content": "Osamu Fukutani",
+                "+@id": "171933"
+            }
+        },
+        {
+            "+@gid": "3843271380",
+            "task": "Producer",
+            "person": {
+                "+content": "Haruna Fukutani",
+                "+@id": "301273"
             }
         }
     ],
@@ -210,7 +264,15 @@
             }
         }
     ],
+    "credit": {
+        "+@gid": "2652906932",
+        "task": "Production",
+        "company": {
+            "+content": "ZELICOFILM",
+            "+@id": "26738"
+        }
+    },
     "+@date-added": "2018-07-16T17:18:26Z",
-    "+@date-last-modified-at": "2026-08-04T14:40:16Z",
-    "+@date-last-updated-at": "2026-08-04T14:40:16Z"
+    "+@date-last-modified-at": "2026-09-05T18:20:17Z",
+    "+@date-last-updated-at": "2026-09-05T18:20:17Z"
 }
