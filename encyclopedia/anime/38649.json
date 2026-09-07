@@ -4,11 +4,21 @@
     "+@type": "TV",
     "+@name": "One Piece",
     "+@precision": "TV 2026",
-    "+@generated-on": "2026-08-08T09:01:40Z",
+    "+@generated-on": "2026-09-07T14:16:07Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "836"
     },
+    "related-next": [
+        {
+            "+@id": "40461",
+            "+@rel": "related"
+        },
+        {
+            "+@id": "40462",
+            "+@rel": "related"
+        }
+    ],
     "info": [
         {
             "+@gid": "1572611213",
@@ -87,7 +97,7 @@
     ],
     "ratings": {
         "+@nb_votes": "3",
-        "+@weighted_score": "9.3417"
+        "+@weighted_score": "9.3434"
     },
     "episode": [
         {
@@ -233,6 +243,46 @@
                 "+@gid": "380234427",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "1174",
+            "title": {
+                "+content": "Save the Children! The Elbaph Warriors Rise Up",
+                "+@gid": "2901581134",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "1175",
+            "title": {
+                "+content": "Elbaph in Flames! Jinbe's Shoulder Throw Explodes!",
+                "+@gid": "1930305749",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "1176",
+            "title": {
+                "+content": "The Threat of the Arrow-Arrow Fruit - Gunko vs. the Straw Hats",
+                "+@gid": "2603035124",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "1177",
+            "title": {
+                "+content": "A Despicable Hostage Game - Sommers's Brazen Demands",
+                "+@gid": "3341701422",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "1178",
+            "title": {
+                "+content": "Protect History and the Future - Robin and Gaban Go on the Attack",
+                "+@gid": "1990027605",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -305,6 +355,21 @@
             "+content": "Japanese Animation TV Ranking, July 27-August 2",
             "+@datetime": "2026-08-07T09:30:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-08-07/japanese-animation-tv-ranking-july-27-august-2/.240366"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, August 3-9",
+            "+@datetime": "2026-08-17T12:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-17/japanese-animation-tv-ranking-august-3-9/.240636"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, August 10-16",
+            "+@datetime": "2026-08-24T17:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-24/japanese-animation-tv-ranking-august-10-16/.240918"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, August 17-23",
+            "+@datetime": "2026-09-03T12:45:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-03/japanese-animation-tv-ranking-august-17-23/.241158"
         }
     ],
     "staff": [
@@ -447,6 +512,105 @@
     ],
     "cast": [
         {
+            "+@gid": "3421038317",
+            "+@lang": "EN",
+            "role": "Usopp",
+            "person": {
+                "+content": "Sonny Strait",
+                "+@id": "1127"
+            }
+        },
+        {
+            "+@gid": "1962253968",
+            "+@lang": "EN",
+            "role": "Roronoa Zoro",
+            "person": {
+                "+content": "Christopher R. Sabat",
+                "+@id": "1386"
+            }
+        },
+        {
+            "+@gid": "3383312088",
+            "+@lang": "EN",
+            "role": "Sanji",
+            "person": {
+                "+content": "Eric Vale",
+                "+@id": "1388"
+            }
+        },
+        {
+            "+@gid": "2325970874",
+            "+@lang": "EN",
+            "role": "Franky",
+            "person": {
+                "+content": "Patrick Seitz",
+                "+@id": "7108"
+            }
+        },
+        {
+            "+@gid": "3549454868",
+            "+@lang": "EN",
+            "role": "Monkey D. Luffy",
+            "person": {
+                "+content": "Colleen Clinkenbeard",
+                "+@id": "20342"
+            }
+        },
+        {
+            "+@gid": "4074067313",
+            "+@lang": "EN",
+            "role": "Tony Tony Chopper",
+            "person": {
+                "+content": "Brina Palencia",
+                "+@id": "31220"
+            }
+        },
+        {
+            "+@gid": "1926386908",
+            "+@lang": "EN",
+            "role": "Brook",
+            "person": {
+                "+content": "Ian Sinclair",
+                "+@id": "42612"
+            }
+        },
+        {
+            "+@gid": "2317668306",
+            "+@lang": "EN",
+            "role": "Scopper Gaban",
+            "person": {
+                "+content": "Ian Sinclair",
+                "+@id": "42612"
+            }
+        },
+        {
+            "+@gid": "2058274521",
+            "+@lang": "EN",
+            "role": "Nico Robin",
+            "person": {
+                "+content": "Stephanie Young",
+                "+@id": "57984"
+            }
+        },
+        {
+            "+@gid": "1112667369",
+            "+@lang": "EN",
+            "role": "Jimbei",
+            "person": {
+                "+content": "Daniel Baugh",
+                "+@id": "135546"
+            }
+        },
+        {
+            "+@gid": "1684281821",
+            "+@lang": "EN",
+            "role": "Loki",
+            "person": {
+                "+content": "Matthew David Rudd",
+                "+@id": "187135"
+            }
+        },
+        {
             "+@gid": "2999550764",
             "+@lang": "JA",
             "role": "Usopp",
@@ -582,6 +746,15 @@
             }
         },
         {
+            "+@gid": "1856903754",
+            "+@lang": "JA",
+            "role": "Harald",
+            "person": {
+                "+content": "Tsutomu Isobe",
+                "+@id": "14730"
+            }
+        },
+        {
             "+@gid": "1475926753",
             "+@lang": "JA",
             "role": "Loki",
@@ -690,6 +863,15 @@
             }
         },
         {
+            "+@gid": "1757836182",
+            "+@lang": "JA",
+            "role": "Rocks D. Xebec",
+            "person": {
+                "+content": "Shinshū Fuji",
+                "+@id": "86878"
+            }
+        },
+        {
             "+@gid": "2576689553",
             "+@lang": "JA",
             "role": "Gerd",
@@ -744,6 +926,6 @@
         }
     ],
     "+@date-added": "2026-03-10T08:16:14Z",
-    "+@date-last-modified-at": "2026-08-08T09:01:41Z",
-    "+@date-last-updated-at": "2026-08-08T09:01:41Z"
+    "+@date-last-modified-at": "2026-09-07T14:16:14Z",
+    "+@date-last-updated-at": "2026-09-07T14:16:14Z"
 }
