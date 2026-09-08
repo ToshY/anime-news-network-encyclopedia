@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Kinato's Magic",
     "+@precision": "manga",
-    "+@generated-on": "2026-08-09T16:55:28Z",
+    "+@generated-on": "2026-09-08T19:26:31Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "1363"
@@ -53,16 +53,28 @@
             "+@lang": "JA"
         },
         {
+            "+content": "4",
+            "+@gid": "1699927647",
+            "+@type": "Number of tankoubon"
+        },
+        {
             "+content": "2026-02-02 (serialized in Weekly Shonen Jump, 2026 #10)",
             "+@gid": "2429740835",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "<cite>Otr of the Flame</cite> Manga Ends, <cite>Weekly Shonen Jump</cite> Magazine Launches 3 New Manga",
-        "+@datetime": "2026-01-18T15:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-01-18/otr-of-the-flame-manga-ends-weekly-shonen-jump-magazine-launches-3-new-manga/.233200"
-    },
+    "news": [
+        {
+            "+content": "<cite>Otr of the Flame</cite> Manga Ends, <cite>Weekly Shonen Jump</cite> Magazine Launches 3 New Manga",
+            "+@datetime": "2026-01-18T15:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-18/otr-of-the-flame-manga-ends-weekly-shonen-jump-magazine-launches-3-new-manga/.233200"
+        },
+        {
+            "+content": "Kento Amemiya's <cite>Kinato's Magic</cite> Manga Ends",
+            "+@datetime": "2026-08-26T00:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-25/kento-amemiya-kinato-magic-manga-ends/.240965"
+        }
+    ],
     "staff": {
         "+@gid": "602678229",
         "task": "Story & Art",
@@ -72,5 +84,6 @@
         }
     },
     "+@date-added": "2026-02-02T05:11:39Z",
-    "+@date-last-updated-at": "2026-08-09T16:55:29Z"
+    "+@date-last-modified-at": "2026-09-08T19:26:32Z",
+    "+@date-last-updated-at": "2026-09-08T19:26:32Z"
 }
