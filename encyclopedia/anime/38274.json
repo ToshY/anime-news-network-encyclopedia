@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Full Clearing Another World under a Goddess with Zero Believers",
     "+@precision": "TV",
-    "+@generated-on": "2026-08-10T17:09:57Z",
+    "+@generated-on": "2026-09-09T19:17:53Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24843"
@@ -13,24 +13,19 @@
         {
             "+@gid": "2734258866",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38274-2734258866.1785036742.jpg",
-            "+@width": "145",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38274-2734258866.1788516626.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38274-2734258866.1785036742.jpg",
-                    "+@width": "145",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38274-2734258866.1788516626.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38274-2734258866.1785036742.jpg",
-                    "+@width": "435",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38274-2734258866.1788516626.jpg",
+                    "+@width": "424",
                     "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38274-2734258866.1785036742.jpg",
-                    "+@width": "870",
-                    "+@height": "1200"
                 }
             ]
         },
@@ -62,9 +57,19 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026-10",
+            "+content": "2026-10-11",
             "+@gid": "2593281330",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Mirai no Ashiato\" (未来の足跡) by 310",
+            "+@gid": "611140030",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Fall in Dream\" by Suupeas",
+            "+@gid": "1676483686",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ「信者ゼロの女神サマと始める異世界攻略」公式サイト",
@@ -74,11 +79,18 @@
             "+@href": "https://zero-believers-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Full Clearing Another World under a Goddess with Zero Believers</cite> Anime Reveals Cast, Staff, October Debut",
-        "+@datetime": "2026-07-04T11:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-07-04/full-clearing-another-world-under-a-goddess-with-zero-believers-anime-reveals-cast-staff-october-/.239280"
-    },
+    "news": [
+        {
+            "+content": "<cite>Full Clearing Another World under a Goddess with Zero Believers</cite> Anime Reveals Cast, Staff, October Debut",
+            "+@datetime": "2026-07-04T11:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-04/full-clearing-another-world-under-a-goddess-with-zero-believers-anime-reveals-cast-staff-october-/.239280"
+        },
+        {
+            "+content": "<cite>Full Clearing Another World under a Goddess with Zero Believers</cite> Anime Reveals More Cast, Theme Songs, October 11 Debut",
+            "+@datetime": "2026-09-04T09:20:39Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-04/full-clearing-another-world-under-a-goddess-with-zero-believers-anime-reveals-more-cast-theme-songs-/.241303"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3376646059",
@@ -195,12 +207,75 @@
     ],
     "cast": [
         {
+            "+@gid": "3552580681",
+            "+@lang": "JA",
+            "role": "Ryōsuke Sakurai",
+            "person": {
+                "+content": "Kenshō Ono",
+                "+@id": "33692"
+            }
+        },
+        {
+            "+@gid": "1606695627",
+            "+@lang": "JA",
+            "role": "Marie",
+            "person": {
+                "+content": "Rumi Ōkubo",
+                "+@id": "88587"
+            }
+        },
+        {
+            "+@gid": "2103990361",
+            "+@lang": "JA",
+            "role": "Nina",
+            "person": {
+                "+content": "Lynn",
+                "+@id": "115769"
+            }
+        },
+        {
+            "+@gid": "1171945821",
+            "+@lang": "JA",
+            "role": "Michio Fujiwara",
+            "person": {
+                "+content": "Masaaki Mizunaka",
+                "+@id": "150267"
+            }
+        },
+        {
             "+@gid": "1036585617",
             "+@lang": "JA",
             "role": "Noah Titan",
             "person": {
                 "+content": "Ikumi Hasegawa",
                 "+@id": "151984"
+            }
+        },
+        {
+            "+@gid": "3184659688",
+            "+@lang": "JA",
+            "role": "Lucy",
+            "person": {
+                "+content": "Yukina Shutō",
+                "+@id": "168678"
+            }
+        },
+        {
+            "+@gid": "2355217628",
+            "+@lang": "JA",
+            "role": "Sofia",
+            "person": {
+                "+content": "Sayumi Suzushiro",
+                "+@id": "170536"
+            }
+        },
+        {
+            "+@gid": "2437238125",
+            "+@lang": "JA",
+            "role": "Aya Sasaki",
+            "person": {
+                "+content": "Hitomi Sekine",
+                "+@id": "180008"
             }
         },
         {
@@ -222,6 +297,6 @@
         }
     },
     "+@date-added": "2026-01-11T15:15:01Z",
-    "+@date-last-modified-at": "2026-08-10T17:10:04Z",
-    "+@date-last-updated-at": "2026-08-10T17:10:04Z"
+    "+@date-last-modified-at": "2026-09-09T19:17:58Z",
+    "+@date-last-updated-at": "2026-09-09T19:17:58Z"
 }

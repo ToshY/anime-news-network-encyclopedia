@@ -4,11 +4,21 @@
     "+@type": "TV",
     "+@name": "Victoria of Many Faces",
     "+@precision": "TV",
-    "+@generated-on": "2026-08-10T17:09:57Z",
+    "+@generated-on": "2026-09-09T19:17:54Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "32632"
     },
+    "related-next": [
+        {
+            "+@id": "40491",
+            "+@rel": "related"
+        },
+        {
+            "+@id": "40492",
+            "+@rel": "sequel"
+        }
+    ],
     "info": [
         {
             "+@gid": "2139111555",
@@ -106,8 +116,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "6",
-        "+@weighted_score": "5.136"
+        "+@nb_votes": "33",
+        "+@weighted_score": "6.5966",
+        "+@bayesian_score": "6.82929"
     },
     "episode": [
         {
@@ -147,6 +158,38 @@
             "title": {
                 "+content": "Prepared to Pay for What I've Done",
                 "+@gid": "1375353036",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "Think About This Child's Happiness",
+                "+@gid": "1176566488",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "I Made Great Memories",
+                "+@gid": "2138311226",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "I Am Truly Thankful",
+                "+@gid": "205523173",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "No Matter What Happens in the Future",
+                "+@gid": "2008698598",
                 "+@lang": "EN"
             }
         }
@@ -216,6 +259,11 @@
             "+content": "<i>Victoria of Many Faces</i> Anime's New Promo Video Reveals Opening Song",
             "+@datetime": "2026-06-27T09:17:03Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-27/victoria-of-many-faces-anime-new-promo-video-reveals-opening-song/.239016"
+        },
+        {
+            "+content": "<cite>Victoria of Many Faces</cite> Anime Gets 2nd Season, Special Episode",
+            "+@datetime": "2026-09-01T15:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-01/victoria-of-many-faces-anime-gets-2nd-season-special-episode/.241188"
         }
     ],
     "staff": [
@@ -452,6 +500,6 @@
         }
     ],
     "+@date-added": "2025-09-12T06:33:41Z",
-    "+@date-last-modified-at": "2026-08-10T17:10:04Z",
-    "+@date-last-updated-at": "2026-08-10T17:10:04Z"
+    "+@date-last-modified-at": "2026-09-09T19:17:58Z",
+    "+@date-last-updated-at": "2026-09-09T19:17:58Z"
 }
