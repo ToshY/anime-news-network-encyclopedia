@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "I'm Looking For Zombie",
     "+@precision": "TV",
-    "+@generated-on": "2026-08-16T16:43:11Z",
+    "+@generated-on": "2026-09-15T19:42:30Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "37852"
@@ -13,18 +13,18 @@
         {
             "+@gid": "2363054882",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37853-2363054882.1773915014.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37853-2363054882.1789325157.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37853-2363054882.1773915014.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37853-2363054882.1789325157.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37853-2363054882.1773915014.jpg",
-                    "+@width": "425",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37853-2363054882.1789325157.jpg",
+                    "+@width": "424",
                     "+@height": "600"
                 }
             ]
@@ -40,6 +40,12 @@
             "+@gid": "2674456026",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "#I’m Looking For a Zombie",
+            "+@gid": "2620529018",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
         },
         {
             "+content": "#ゾンビさがしてます",
@@ -62,9 +68,19 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026-10",
+            "+content": "2026-10-03",
             "+@gid": "3574333312",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Raki Raki\" (ラキラキ) by Surii",
+            "+@gid": "1971884955",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Soft Apocalypse\" (ソフトアポカリプス) by cadode",
+            "+@gid": "1846687587",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ『#ゾンビさがしてます』公式サイト",
@@ -74,11 +90,23 @@
             "+@href": "https://zommasu.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>#I'm Looking For Zombie</cite> TV Anime Unveils Main Cast & Staff, October Debut",
-        "+@datetime": "2026-03-19T10:00:04Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-19/im-looking-for-zombie-tv-anime-unveils-main-cast-and-staff-october-debut/.235484"
-    },
+    "news": [
+        {
+            "+content": "<cite>#I'm Looking For Zombie</cite> TV Anime Unveils Main Cast & Staff, October Debut",
+            "+@datetime": "2026-03-19T10:00:04Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-19/im-looking-for-zombie-tv-anime-unveils-main-cast-and-staff-october-debut/.235484"
+        },
+        {
+            "+content": "<cite>#I'm Looking For Zombie</cite> Anime's Main Trailer Reveals More Cast & Staff Members, Theme Songs, October 3 Debut",
+            "+@datetime": "2026-09-13T11:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-13/im-looking-for-zombie-anime-main-trailer-reveals-more-cast-and-staff-members-theme-songs-october-3-/.241722"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Fall 2026 Season",
+            "+@datetime": "2026-09-15T17:52:07Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-15/crunchyroll-announces-release-schedule-for-fall-2026-season/.241811"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1699954795",
@@ -143,9 +171,59 @@
                 "+content": "Narumi Shimoji",
                 "+@id": "79375"
             }
+        },
+        {
+            "+@gid": "2909920999",
+            "task": "Art Director",
+            "person": {
+                "+content": "Masatoshi Muto",
+                "+@id": "433"
+            }
+        },
+        {
+            "+@gid": "2062445769",
+            "task": "3D Director",
+            "person": {
+                "+content": "Junya Sato",
+                "+@id": "55901"
+            }
+        },
+        {
+            "+@gid": "3340778078",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Yayoi Tateishi",
+                "+@id": "54248"
+            }
+        },
+        {
+            "+@gid": "1796264594",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Shintarō Sakai",
+                "+@id": "124517"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "3010176511",
+            "+@lang": "JA",
+            "role": "Aki's Father",
+            "person": {
+                "+content": "Kōsuke Toriumi",
+                "+@id": "3445"
+            }
+        },
+        {
+            "+@gid": "2290151393",
+            "+@lang": "JA",
+            "role": "Mikazuki",
+            "person": {
+                "+content": "Yōko Hikasa",
+                "+@id": "67797"
+            }
+        },
         {
             "+@gid": "1755863212",
             "+@lang": "JA",
@@ -165,12 +243,39 @@
             }
         },
         {
+            "+@gid": "3153879058",
+            "+@lang": "JA",
+            "role": "Takamo",
+            "person": {
+                "+content": "Tomoyo Takayanagi",
+                "+@id": "140021"
+            }
+        },
+        {
+            "+@gid": "1995036951",
+            "+@lang": "JA",
+            "role": "Tōka",
+            "person": {
+                "+content": "Makoto Koichi",
+                "+@id": "143804"
+            }
+        },
+        {
             "+@gid": "3097409745",
             "+@lang": "JA",
             "role": "Sakura",
             "person": {
                 "+content": "Yuka Nukui",
                 "+@id": "150368"
+            }
+        },
+        {
+            "+@gid": "2043489292",
+            "+@lang": "JA",
+            "role": "Saigo",
+            "person": {
+                "+content": "Aino Shimada",
+                "+@id": "172194"
             }
         },
         {
@@ -201,5 +306,6 @@
         }
     },
     "+@date-added": "2025-09-19T05:31:01Z",
-    "+@date-last-updated-at": "2026-08-16T16:43:17Z"
+    "+@date-last-modified-at": "2026-09-15T19:42:35Z",
+    "+@date-last-updated-at": "2026-09-15T19:42:35Z"
 }
