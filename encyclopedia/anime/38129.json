@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Psyren",
     "+@precision": "TV",
-    "+@generated-on": "2026-08-16T08:48:02Z",
+    "+@generated-on": "2026-09-15T13:35:29Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "11021"
@@ -13,18 +13,18 @@
         {
             "+@gid": "1040923652",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38129-1040923652.1774677512.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38129-1040923652.1789119105.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38129-1040923652.1774677512.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38129-1040923652.1789119105.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38129-1040923652.1774677512.jpg",
-                    "+@width": "423",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38129-1040923652.1789119105.jpg",
+                    "+@width": "425",
                     "+@height": "600"
                 }
             ]
@@ -56,9 +56,14 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026-10",
+            "+content": "2026-10-05",
             "+@gid": "1986760344",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"WARNING!!\" by CLAN QUEEN",
+            "+@gid": "2924734502",
+            "+@type": "Opening Theme"
         },
         {
             "+content": "PSYREN Official Website",
@@ -90,6 +95,16 @@
             "+content": "Crunchyroll Streams <cite>Psyren</cite>, <cite>The Eternal Fool's Words of Wisdom</cite> Anime",
             "+@datetime": "2026-07-13T09:02:05Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-07-13/crunchyroll-streams-psyren-the-eternal-fool-words-of-wisdom-anime/.239551"
+        },
+        {
+            "+content": "Crunchyroll's Anime Nights Program to Screen <cite>Black Clover</cite> Season 2, <cite>The Vermilion Mask</cite>, More on September 21",
+            "+@datetime": "2026-09-02T18:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-02/crunchyroll-anime-nights-program-to-screen-black-clover-season-2-the-vermilion-mask-more-on-/.241203"
+        },
+        {
+            "+content": "<cite>Psyren</cite> TV Anime Reveals More Cast, Opening Theme Artist, October 5 Debut in Video",
+            "+@datetime": "2026-09-11T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-11/psyren-tv-anime-reveals-more-cast-opening-theme-artist-october-5-debut-in-video/.241661"
         }
     ],
     "staff": [
@@ -148,9 +163,59 @@
                 "+content": "Akira Ōkuma",
                 "+@id": "291803"
             }
+        },
+        {
+            "+@gid": "1628400336",
+            "task": "Art Director",
+            "person": {
+                "+content": "Kenichi Tajiri",
+                "+@id": "19997"
+            }
+        },
+        {
+            "+@gid": "2299101815",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Satoshi Motoyama",
+                "+@id": "8849"
+            }
+        },
+        {
+            "+@gid": "2901774824",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Haruhi Gotō",
+                "+@id": "76882"
+            }
+        },
+        {
+            "+@gid": "1684918346",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Kiho Sakai",
+                "+@id": "218170"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "1013561982",
+            "+@lang": "JA",
+            "role": "Dolkey",
+            "person": {
+                "+content": "Nobuyuki Hiyama",
+                "+@id": "1497"
+            }
+        },
+        {
+            "+@gid": "1371450488",
+            "+@lang": "JA",
+            "role": "Matsuri Yagumo",
+            "person": {
+                "+content": "Yūko Kaida",
+                "+@id": "9194"
+            }
+        },
         {
             "+@gid": "2820605068",
             "+@lang": "JA",
@@ -206,5 +271,6 @@
         }
     },
     "+@date-added": "2025-12-14T18:28:33Z",
-    "+@date-last-updated-at": "2026-08-16T08:48:07Z"
+    "+@date-last-modified-at": "2026-09-15T13:35:36Z",
+    "+@date-last-updated-at": "2026-09-15T13:35:36Z"
 }

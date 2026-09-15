@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Medalist",
     "+@precision": "movie",
-    "+@generated-on": "2026-08-16T08:48:02Z",
+    "+@generated-on": "2026-09-15T13:35:29Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "35420"
@@ -42,24 +42,171 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2027",
-            "+@gid": "246084950",
+            "+content": "2027-02-19",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2027-02-19 (Japan)",
+            "+@gid": "3019410391",
+            "+@type": "Premiere date"
+        },
+        {
+            "+content": "TVアニメ「メダリスト」公式サイト",
+            "+@gid": "2936101672",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://medalist-pr.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Medalist</cite> Anime Film Reveals Visual, Teaser Video",
-        "+@datetime": "2026-03-21T17:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-21/medalist-anime-film-reveals-visual-teaser-video/.235564"
-    },
-    "staff": {
-        "+@gid": "1521767358",
-        "task": "Original creator",
-        "person": {
-            "+content": "Tsurumaikada",
-            "+@id": "207641"
+    "news": [
+        {
+            "+content": "<cite>Medalist</cite> Anime Film Reveals Visual, Teaser Video",
+            "+@datetime": "2026-03-21T17:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-21/medalist-anime-film-reveals-visual-teaser-video/.235564"
+        },
+        {
+            "+content": "<cite>Medalist</cite> Anime Film's Teaser Reveals February 19 Opening",
+            "+@datetime": "2026-08-30T15:25:47Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-30/medalist-anime-film-teaser-reveals-february-19-opening/.241134"
+        }
+    ],
+    "staff": [
+        {
+            "+@gid": "3055487083",
+            "task": "Director",
+            "person": {
+                "+content": "Yasutaka Yamamoto",
+                "+@id": "37082"
+            }
+        },
+        {
+            "+@gid": "3012469358",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Jukki Hanada",
+                "+@id": "16408"
+            }
+        },
+        {
+            "+@gid": "3015969080",
+            "task": "Music",
+            "person": {
+                "+content": "Yūki Hayashi",
+                "+@id": "118529"
+            }
+        },
+        {
+            "+@gid": "1521767358",
+            "task": "Original creator",
+            "person": {
+                "+content": "Tsurumaikada",
+                "+@id": "207641"
+            }
+        },
+        {
+            "+@gid": "657064477",
+            "task": "Character Design",
+            "person": {
+                "+content": "Chinatsu Kameyama",
+                "+@id": "165104"
+            }
+        },
+        {
+            "+@gid": "2561661578",
+            "task": "Art Director",
+            "person": {
+                "+content": "Hazuki Nakamura",
+                "+@id": "235793"
+            }
+        },
+        {
+            "+@gid": "3137124463",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Chinatsu Kameyama",
+                "+@id": "165104"
+            }
+        },
+        {
+            "+@gid": "2467600697",
+            "task": "3D Director",
+            "person": {
+                "+content": "Kōji",
+                "+@id": "263616"
+            }
+        },
+        {
+            "+@gid": "2464524365",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Yūichi Imaizumi",
+                "+@id": "91367"
+            }
+        },
+        {
+            "+@gid": "475955090",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Asuka Saitō",
+                "+@id": "180501"
+            }
+        },
+        {
+            "+@gid": "842226663",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Ibuki Kunimasa",
+                "+@id": "273536"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1180461925",
+            "+@lang": "JA",
+            "role": "Jun Yodaka",
+            "person": {
+                "+content": "Yūma Uchida",
+                "+@id": "124918"
+            }
+        },
+        {
+            "+@gid": "3844395567",
+            "+@lang": "JA",
+            "role": "Inori Yuitsuka",
+            "person": {
+                "+content": "Natsumi Haruse",
+                "+@id": "140932"
+            }
+        },
+        {
+            "+@gid": "1561719485",
+            "+@lang": "JA",
+            "role": "Tsukasa Akeuraji",
+            "person": {
+                "+content": "Takeo Ōtsuka",
+                "+@id": "158555"
+            }
+        },
+        {
+            "+@gid": "1704162798",
+            "+@lang": "JA",
+            "role": "Hikaru Kamisaki",
+            "person": {
+                "+content": "Kana Ichinose",
+                "+@id": "164051"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "1256023615",
+        "task": "Animation Production",
+        "company": {
+            "+content": "ENGI",
+            "+@id": "17950"
         }
     },
     "+@date-added": "2026-01-17T01:21:11Z",
-    "+@date-last-updated-at": "2026-08-16T08:48:07Z"
+    "+@date-last-modified-at": "2026-09-15T13:35:36Z",
+    "+@date-last-updated-at": "2026-09-15T13:35:36Z"
 }
