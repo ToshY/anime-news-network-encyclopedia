@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Arcanadea",
     "+@precision": "TV",
-    "+@generated-on": "2026-08-17T20:44:59Z",
+    "+@generated-on": "2026-09-16T22:58:15Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "36827"
@@ -13,19 +13,24 @@
         {
             "+@gid": "3262101855",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34217-3262101855.1741951424.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34217-3262101855.1787992410.jpg",
+            "+@width": "140",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34217-3262101855.1741951424.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A34217-3262101855.1787992410.jpg",
+                    "+@width": "140",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34217-3262101855.1741951424.jpg",
-                    "+@width": "425",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A34217-3262101855.1787992410.jpg",
+                    "+@width": "419",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A34217-3262101855.1787992410.jpg",
+                    "+@width": "1200",
+                    "+@height": "1720"
                 }
             ]
         },
@@ -40,6 +45,11 @@
             "+@gid": "2836952655",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "2027-01",
+            "+@gid": "2353133111",
+            "+@type": "Vintage"
         },
         {
             "+content": "TVアニメ『アルカナディア』公式サイト",
@@ -64,15 +74,60 @@
             "+content": "<cite>Arcanadea</cite> TV Anime Casts Miho Okasaki, Rina Hidaka",
             "+@datetime": "2025-12-20T19:56:44Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-12-20/arcanadea-tv-anime-casts-miho-okasaki-rina-hidaka/.232317"
+        },
+        {
+            "+content": "<cite>Arcanadea</cite> TV Anime Reveals More Cast, January 2027 Debut in Video",
+            "+@datetime": "2026-08-29T07:56:08Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-29/arcanadea-tv-anime-reveals-more-cast-january-2027-debut-in-video/.241107"
         }
     ],
     "staff": [
         {
-            "+@gid": "2076130815",
-            "task": "Original Character Design",
+            "+@gid": "3930317774",
+            "task": "Director",
             "person": {
-                "+content": "necömi",
-                "+@id": "203773"
+                "+content": "Keiichirō Kawaguchi",
+                "+@id": "39496"
+            }
+        },
+        {
+            "+@gid": "3010010723",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Atsuhiro Tomioka",
+                "+@id": "1623"
+            }
+        },
+        {
+            "+@gid": "831813762",
+            "task": "Script",
+            "person": {
+                "+content": "Atsuhiro Tomioka",
+                "+@id": "1623"
+            }
+        },
+        {
+            "+@gid": "1816442533",
+            "task": "Music",
+            "person": {
+                "+content": "Yūki Hayashi",
+                "+@id": "118529"
+            }
+        },
+        {
+            "+@gid": "2473309566",
+            "task": "Music",
+            "person": {
+                "+content": "Yūki Furuhashi",
+                "+@id": "274844"
+            }
+        },
+        {
+            "+@gid": "3787130022",
+            "task": "Animation Character Design",
+            "person": {
+                "+content": "Kumoha Arakawa",
+                "+@id": "301537"
             }
         },
         {
@@ -86,12 +141,30 @@
     ],
     "cast": [
         {
+            "+@gid": "3237550951",
+            "+@lang": "JA",
+            "role": "Rin Kirinoue",
+            "person": {
+                "+content": "Mai Kanno",
+                "+@id": "58546"
+            }
+        },
+        {
             "+@gid": "2591946116",
             "+@lang": "JA",
             "role": "Yukumo",
             "person": {
                 "+content": "Rina Hidaka",
                 "+@id": "70503"
+            }
+        },
+        {
+            "+@gid": "1296221316",
+            "+@lang": "JA",
+            "role": "Shōgo Kuga",
+            "person": {
+                "+content": "Nobunaga Shimazaki",
+                "+@id": "86706"
             }
         },
         {
@@ -111,8 +184,35 @@
                 "+content": "Miho Okasaki",
                 "+@id": "172914"
             }
+        },
+        {
+            "+@gid": "2732282681",
+            "+@lang": "JA",
+            "role": "Kaho Asagi",
+            "person": {
+                "+content": "Konomi Inagaki",
+                "+@id": "206288"
+            }
+        },
+        {
+            "+@gid": "724865562",
+            "+@lang": "JA",
+            "role": "Ghi",
+            "person": {
+                "+content": "Moka Kanzaki",
+                "+@id": "285355"
+            }
         }
     ],
+    "credit": {
+        "+@gid": "1243494098",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Yokohama Animation Lab",
+            "+@id": "17061"
+        }
+    },
     "+@date-added": "2024-12-20T07:57:56Z",
-    "+@date-last-updated-at": "2026-08-17T20:45:03Z"
+    "+@date-last-modified-at": "2026-09-16T22:58:17Z",
+    "+@date-last-updated-at": "2026-09-16T22:58:17Z"
 }
