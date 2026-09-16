@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "Jaadugar: A Witch in Mongolia",
     "+@precision": "TV",
-    "+@generated-on": "2026-08-17T01:55:44Z",
+    "+@generated-on": "2026-09-16T04:52:23Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26729"
     },
     "info": [
         {
-            "+@gid": "1715004086",
+            "+@gid": "1139097775",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35665-1715004086.1779876242.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35665-1139097775.1787145321.jpg",
             "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35665-1715004086.1779876242.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A35665-1139097775.1787145321.jpg",
                     "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35665-1715004086.1779876242.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A35665-1139097775.1787145321.jpg",
                     "+@width": "425",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A35665-1139097775.1787145321.jpg",
+                    "+@width": "460",
+                    "+@height": "650"
                 }
             ]
         },
@@ -34,6 +39,12 @@
             "+@gid": "3144545946",
             "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Jaadugar, la légende de Fatima",
+            "+@gid": "2433347044",
+            "+@type": "Alternative title",
+            "+@lang": "FR"
         },
         {
             "+content": "Tenmaku no Jādūgar",
@@ -123,8 +134,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "7.0884"
+        "+@nb_votes": "27",
+        "+@weighted_score": "7.9884",
+        "+@bayesian_score": "7.82865"
     },
     "episode": [
         {
@@ -188,6 +200,38 @@
             "title": {
                 "+content": "Great Khatun Boraqchin",
                 "+@gid": "3883872881",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "Tengri",
+                "+@gid": "2509688028",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "Wisdom",
+                "+@gid": "2351687868",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "An Ungraceful Stone",
+                "+@gid": "3172173355",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "The Steppe, Ever Unchanging",
+                "+@gid": "2404002073",
                 "+@lang": "EN"
             }
         }
@@ -364,6 +408,15 @@
             }
         },
         {
+            "+@gid": "1992238440",
+            "+@lang": "EN",
+            "role": "Boraqchin",
+            "person": {
+                "+content": "Anastasia Munoz",
+                "+@id": "73145"
+            }
+        },
+        {
             "+@gid": "1020477679",
             "+@lang": "EN",
             "role": "Töregene",
@@ -535,6 +588,24 @@
             }
         },
         {
+            "+@gid": "2661332497",
+            "+@lang": "FR",
+            "role": "Töregene Khatun",
+            "person": {
+                "+content": "Nayeli Forest",
+                "+@id": "66361"
+            }
+        },
+        {
+            "+@gid": "2018292730",
+            "+@lang": "FR",
+            "role": "Djaghataï",
+            "person": {
+                "+content": "Jérémy Zylberberg",
+                "+@id": "70472"
+            }
+        },
+        {
             "+@gid": "2521024257",
             "+@lang": "FR",
             "role": "Ahmed",
@@ -562,12 +633,39 @@
             }
         },
         {
+            "+@gid": "3237233928",
+            "+@lang": "FR",
+            "role": "Ögedei",
+            "person": {
+                "+content": "Thomas Debaene",
+                "+@id": "214826"
+            }
+        },
+        {
+            "+@gid": "2410862395",
+            "+@lang": "FR",
+            "role": "Shira",
+            "person": {
+                "+content": "Jessy Dubuis",
+                "+@id": "223644"
+            }
+        },
+        {
             "+@gid": "1558991489",
             "+@lang": "FR",
             "role": "Tolui",
             "person": {
                 "+content": "Luca Garzo",
                 "+@id": "249397"
+            }
+        },
+        {
+            "+@gid": "2957544510",
+            "+@lang": "FR",
+            "role": "Sorghaghtani",
+            "person": {
+                "+content": "Laurie Sanial",
+                "+@id": "271238"
             }
         },
         {
@@ -670,9 +768,9 @@
             }
         },
         {
-            "+@gid": "3443814389",
+            "+@gid": "3046762336",
             "+@lang": "JA",
-            "role": "Shitara",
+            "role": "Sitara/Fatima",
             "person": {
                 "+content": "Akira Sekine",
                 "+@id": "127847"
@@ -695,6 +793,15 @@
                 "+content": "Jun Saitō",
                 "+@id": "273647"
             }
+        },
+        {
+            "+@gid": "1426365894",
+            "+@lang": "PT",
+            "role": "Sitara",
+            "person": {
+                "+content": "Ana Elena Bittencourt",
+                "+@id": "142593"
+            }
         }
     ],
     "credit": {
@@ -706,6 +813,6 @@
         }
     },
     "+@date-added": "2025-04-14T05:45:27Z",
-    "+@date-last-modified-at": "2026-08-17T01:55:49Z",
-    "+@date-last-updated-at": "2026-08-17T01:55:49Z"
+    "+@date-last-modified-at": "2026-09-16T04:52:29Z",
+    "+@date-last-updated-at": "2026-09-16T04:52:29Z"
 }
