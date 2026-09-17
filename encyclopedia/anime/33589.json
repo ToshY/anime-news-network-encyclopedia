@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Patlabor EZY",
     "+@precision": "movies",
-    "+@generated-on": "2026-08-18T16:49:18Z",
+    "+@generated-on": "2026-09-17T22:51:46Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "408"
@@ -98,10 +98,16 @@
         "+@nb_votes": "1",
         "+@weighted_score": "6"
     },
-    "review": {
-        "+content": "<cite>Patlabor EZY: File 1</cite> Anime Film Review",
-        "+@href": "https://www.animenewsnetwork.com/review/patlabor-ezy/file-1/anime-film/.237371"
-    },
+    "review": [
+        {
+            "+content": "<cite>Patlabor EZY: File 2</cite> Anime Film Review",
+            "+@href": "https://www.animenewsnetwork.com/review/patlabor-ezy/file-2-anime-film/.240705"
+        },
+        {
+            "+content": "<cite>Patlabor EZY: File 1</cite> Anime Film Review",
+            "+@href": "https://www.animenewsnetwork.com/review/patlabor-ezy/file-1/anime-film/.237371"
+        }
+    ],
     "news": [
         {
             "+content": "<cite>Pluto</cite> Anime, New <cite>Patlabor EZY</cite> Anime Series Projects Revealed",
@@ -539,6 +545,6 @@
         }
     ],
     "+@date-added": "2024-09-19T21:17:58Z",
-    "+@date-last-modified-at": "2026-08-18T16:49:20Z",
-    "+@date-last-updated-at": "2026-08-18T16:49:20Z"
+    "+@date-last-modified-at": "2026-09-17T22:51:53Z",
+    "+@date-last-updated-at": "2026-09-17T22:51:53Z"
 }
