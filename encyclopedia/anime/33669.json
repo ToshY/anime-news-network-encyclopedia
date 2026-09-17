@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Elusive Samurai",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-08-18T08:54:20Z",
+    "+@generated-on": "2026-09-17T19:44:31Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "27523"
@@ -112,7 +112,7 @@
     ],
     "ratings": {
         "+@nb_votes": "3",
-        "+@weighted_score": "7.831"
+        "+@weighted_score": "7.8283"
     },
     "episode": [
         {
@@ -152,6 +152,38 @@
             "title": {
                 "+content": "The Unyielding",
                 "+@gid": "1393207254",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "18",
+            "title": {
+                "+content": "The Boy Who Became a God",
+                "+@gid": "2882974299",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "19",
+            "title": {
+                "+content": "My Uncle",
+                "+@gid": "445516897",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "20",
+            "title": {
+                "+content": "Irreplaceable",
+                "+@gid": "2683707951",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "21",
+            "title": {
+                "+content": "The Man Called Masashige Kusunoki",
+                "+@gid": "3172771629",
                 "+@lang": "EN"
             }
         }
@@ -196,6 +228,11 @@
             "+content": "Japanese Animation TV Ranking, July 20-26",
             "+@datetime": "2026-08-01T15:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-08-01/japanese-animation-tv-ranking-july-20-26/.240147"
+        },
+        {
+            "+content": "<cite>The Elusive Samurai</cite> Anime's 2nd Season Casts Niina Hanamiya",
+            "+@datetime": "2026-09-04T11:55:23Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-04/the-elusive-samurai-anime-2nd-season-casts-niina-hanamiya/.241378"
         }
     ],
     "staff": [
@@ -232,6 +269,22 @@
             }
         },
         {
+            "+@gid": "2617881788",
+            "task": "Script",
+            "person": {
+                "+content": "Rino Yamasaki",
+                "+@id": "299719"
+            }
+        },
+        {
+            "+@gid": "2881821309",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yūichirō Komuro",
+                "+@id": "81237"
+            }
+        },
+        {
             "+@gid": "1803795017",
             "task": "Storyboard",
             "person": {
@@ -264,6 +317,30 @@
             }
         },
         {
+            "+@gid": "2435560706",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Asahi Kiyuna",
+                "+@id": "188082"
+            }
+        },
+        {
+            "+@gid": "956578323",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Cheng Rui Qiu",
+                "+@id": "217599"
+            }
+        },
+        {
+            "+@gid": "1756456089",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yūichirō Komuro",
+                "+@id": "81237"
+            }
+        },
+        {
             "+@gid": "3927683439",
             "task": "Episode Director",
             "person": {
@@ -277,6 +354,30 @@
             "person": {
                 "+content": "Yūsuke Kawakami",
                 "+@id": "125636"
+            }
+        },
+        {
+            "+@gid": "3429347548",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Asahi Kiyuna",
+                "+@id": "188082"
+            }
+        },
+        {
+            "+@gid": "3788871026",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Cheng Rui Qiu",
+                "+@id": "217599"
+            }
+        },
+        {
+            "+@gid": "3857794752",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ai Sunadokei",
+                "+@id": "301383"
             }
         },
         {
@@ -344,11 +445,67 @@
             }
         },
         {
+            "+@gid": "3487175284",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jun Yamazaki",
+                "+@id": "36465"
+            }
+        },
+        {
+            "+@gid": "3089970702",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Saki Takahashi",
+                "+@id": "80484"
+            }
+        },
+        {
+            "+@gid": "1889230392",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mari Tomita",
+                "+@id": "80701"
+            }
+        },
+        {
+            "+@gid": "2758822170",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ryū Miura",
+                "+@id": "84644"
+            }
+        },
+        {
+            "+@gid": "1529160048",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazumasa Ishida",
+                "+@id": "95616"
+            }
+        },
+        {
             "+@gid": "2986725095",
             "task": "Animation Director",
             "person": {
                 "+content": "Shinnosuke Ōta",
                 "+@id": "146126"
+            }
+        },
+        {
+            "+@gid": "2501355853",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sakika Suzuki",
+                "+@id": "149460"
+            }
+        },
+        {
+            "+@gid": "1533797060",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shuhei Miwa",
+                "+@id": "151666"
             }
         },
         {
@@ -368,11 +525,43 @@
             }
         },
         {
+            "+@gid": "2500329764",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ryōta Arima",
+                "+@id": "199970"
+            }
+        },
+        {
             "+@gid": "1633546998",
             "task": "Animation Director",
             "person": {
                 "+content": "Nogya",
                 "+@id": "205705"
+            }
+        },
+        {
+            "+@gid": "2272045058",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Maya Shindo",
+                "+@id": "221748"
+            }
+        },
+        {
+            "+@gid": "1084115460",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chihiro Takahashi",
+                "+@id": "225303"
+            }
+        },
+        {
+            "+@gid": "1106881788",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ting Yi Wu",
+                "+@id": "273466"
             }
         },
         {
@@ -410,12 +599,219 @@
     ],
     "cast": [
         {
+            "+@gid": "1300951763",
+            "+@lang": "EN",
+            "role": "Kiyohara Shinano-no-kami",
+            "person": {
+                "+content": "Todd Haberkorn",
+                "+@id": "62405"
+            }
+        },
+        {
+            "+@gid": "3416204098",
+            "+@lang": "EN",
+            "role": "Sukefusa Ichikawa",
+            "person": {
+                "+content": "Keith Silverstein",
+                "+@id": "63324"
+            }
+        },
+        {
+            "+@gid": "692511269",
+            "+@lang": "EN",
+            "role": "Yorishige Suwa",
+            "person": {
+                "+content": "Ricco Fajardo",
+                "+@id": "107339"
+            }
+        },
+        {
+            "+@gid": "3743853260",
+            "+@lang": "EN",
+            "role": "Tokiyuki Hojo",
+            "person": {
+                "+content": "Abby Trott",
+                "+@id": "135930"
+            }
+        },
+        {
+            "+@gid": "1598896554",
+            "+@lang": "EN",
+            "role": "Kojiro",
+            "person": {
+                "+content": "Jeannie Tirado",
+                "+@id": "144674"
+            }
+        },
+        {
+            "+@gid": "495703543",
+            "+@lang": "EN",
+            "role": "Fubuki",
+            "person": {
+                "+content": "Stuart Allan",
+                "+@id": "148749"
+            }
+        },
+        {
+            "+@gid": "2150687832",
+            "+@lang": "EN",
+            "role": "Shizuku",
+            "person": {
+                "+content": "Courtney Chu",
+                "+@id": "151686"
+            }
+        },
+        {
+            "+@gid": "2806250176",
+            "+@lang": "EN",
+            "role": "Sadamune Ogasawara",
+            "person": {
+                "+content": "Kellen Goff",
+                "+@id": "163020"
+            }
+        },
+        {
             "+@gid": "903691214",
             "+@lang": "EN",
             "role": "Kazama Genba",
             "person": {
                 "+content": "Kaitlyn Robrock",
                 "+@id": "174325"
+            }
+        },
+        {
+            "+@gid": "848263878",
+            "+@lang": "EN",
+            "role": "Ayako",
+            "person": {
+                "+content": "Brittany Cox",
+                "+@id": "182287"
+            }
+        },
+        {
+            "+@gid": "3777645969",
+            "+@lang": "EN",
+            "role": "Takauji Ashikaga",
+            "person": {
+                "+content": "Jonah Scott",
+                "+@id": "184821"
+            }
+        },
+        {
+            "+@gid": "2422975903",
+            "+@lang": "FR",
+            "role": "Sadamune Ogasawara",
+            "person": {
+                "+content": "Raphaël Cohen",
+                "+@id": "57338"
+            }
+        },
+        {
+            "+@gid": "1126065703",
+            "+@lang": "FR",
+            "role": "Sukefusa Ichikawa",
+            "person": {
+                "+content": "Stéphane Marais",
+                "+@id": "68487"
+            }
+        },
+        {
+            "+@gid": "3156043308",
+            "+@lang": "FR",
+            "role": "Yorishige Suwa",
+            "person": {
+                "+content": "Jérémy Zylberberg",
+                "+@id": "70472"
+            }
+        },
+        {
+            "+@gid": "2114645430",
+            "+@lang": "FR",
+            "role": "Genba Kazama",
+            "person": {
+                "+content": "Alice Orsat",
+                "+@id": "109045"
+            }
+        },
+        {
+            "+@gid": "1791860520",
+            "+@lang": "FR",
+            "role": "Ayako Mochizuki",
+            "person": {
+                "+content": "Cécilé Gatto",
+                "+@id": "155604"
+            }
+        },
+        {
+            "+@gid": "2038109895",
+            "+@lang": "FR",
+            "role": "Takauji Ashikaga",
+            "person": {
+                "+content": "Vincent Bonnasseau",
+                "+@id": "163844"
+            }
+        },
+        {
+            "+@gid": "2126044217",
+            "+@lang": "FR",
+            "role": "Shizuku",
+            "person": {
+                "+content": "Anna Lauzeray-Gishi",
+                "+@id": "188419"
+            }
+        },
+        {
+            "+@gid": "2004648496",
+            "+@lang": "FR",
+            "role": "Tadayoshi Ashikaga",
+            "person": {
+                "+content": "Bertrand Nadler",
+                "+@id": "206375"
+            }
+        },
+        {
+            "+@gid": "1238961590",
+            "+@lang": "FR",
+            "role": "Tokiyuki Hôjô",
+            "person": {
+                "+content": "Aurore Saint-Martin",
+                "+@id": "210156"
+            }
+        },
+        {
+            "+@gid": "2779090608",
+            "+@lang": "FR",
+            "role": "Kojirô Nezu",
+            "person": {
+                "+content": "Mathilde Carmes",
+                "+@id": "215844"
+            }
+        },
+        {
+            "+@gid": "1315546199",
+            "+@lang": "FR",
+            "role": "Fubuki",
+            "person": {
+                "+content": "Anthony Audoux",
+                "+@id": "224922"
+            }
+        },
+        {
+            "+@gid": "2596741055",
+            "+@lang": "FR",
+            "role": "Moruyasu Kô Nô",
+            "person": {
+                "+content": "Pierre Carbonnier",
+                "+@id": "228472"
+            }
+        },
+        {
+            "+@gid": "2290607959",
+            "+@lang": "FR",
+            "role": "Kô No Moronao",
+            "person": {
+                "+content": "Sacha Petronijevic",
+                "+@id": "246487"
             }
         },
         {
@@ -536,6 +932,15 @@
             }
         },
         {
+            "+@gid": "2003244853",
+            "+@lang": "JA",
+            "role": "Mima",
+            "person": {
+                "+content": "Niina Hanamiya",
+                "+@id": "227099"
+            }
+        },
+        {
             "+@gid": "3555133173",
             "+@lang": "JA",
             "role": "Tokiyuki Hōjō",
@@ -554,6 +959,6 @@
         }
     },
     "+@date-added": "2024-10-06T19:56:37Z",
-    "+@date-last-modified-at": "2026-08-18T08:54:22Z",
-    "+@date-last-updated-at": "2026-08-18T08:54:22Z"
+    "+@date-last-modified-at": "2026-09-17T19:44:35Z",
+    "+@date-last-updated-at": "2026-09-17T19:44:35Z"
 }
