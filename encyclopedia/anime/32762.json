@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Ghost in the Shell",
     "+@precision": "TV",
-    "+@generated-on": "2026-08-19T12:21:05Z",
+    "+@generated-on": "2026-09-18T22:36:01Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "1590"
@@ -55,6 +55,11 @@
         {
             "+content": "mystery",
             "+@gid": "2467872599",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "psychological",
+            "+@gid": "1870530113",
             "+@type": "Genres"
         },
         {
@@ -158,6 +163,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "10",
+            "+@gid": "2872819829",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-07",
             "+@gid": "963394617",
             "+@type": "Vintage"
@@ -171,8 +181,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "10",
-        "+@weighted_score": "7.4782"
+        "+@nb_votes": "60",
+        "+@weighted_score": "7.7797",
+        "+@bayesian_score": "7.72795"
     },
     "review": {
         "+content": "The Ghost In The Shell (TV Event Preview) Anime Review",
@@ -273,6 +284,11 @@
             "+content": "New <cite>Ghost in the Shell</cite> Anime Reveals 2 Crossover Cast Members from <cite>Dominion Tank Police</cite>",
             "+@datetime": "2026-08-05T15:13:34Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-08-05/new-ghost-in-the-shell-anime-reveals-2-crossover-cast-members-from-dominion-tank-police/.240305"
+        },
+        {
+            "+content": "New <cite>Ghost in the Shell</cite> Anime Casts Chikahiro Kobayashi",
+            "+@datetime": "2026-08-26T16:05:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-26/new-ghost-in-the-shell-anime-casts-chikahiro-kobayashi/.241011"
         }
     ],
     "staff": [
@@ -298,6 +314,174 @@
             "person": {
                 "+content": "Toh Enjoe",
                 "+@id": "125631"
+            }
+        },
+        {
+            "+@gid": "1588882560",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Akitoshi Yokoyama",
+                "+@id": "13831"
+            }
+        },
+        {
+            "+@gid": "4173308780",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Miki Sakaihara",
+                "+@id": "72499"
+            }
+        },
+        {
+            "+@gid": "1660524012",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hironori Tanaka",
+                "+@id": "100032"
+            }
+        },
+        {
+            "+@gid": "2146473780",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Bahi JD",
+                "+@id": "107990"
+            }
+        },
+        {
+            "+@gid": "3214300050",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kayona Yamada",
+                "+@id": "177453"
+            }
+        },
+        {
+            "+@gid": "3299210053",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Jong Heo",
+                "+@id": "178586"
+            }
+        },
+        {
+            "+@gid": "1525138058",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tooru Hasuya",
+                "+@id": "190639"
+            }
+        },
+        {
+            "+@gid": "1376007080",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Mokochan",
+                "+@id": "217060"
+            }
+        },
+        {
+            "+@gid": "1453241193",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hao-Tian Gan",
+                "+@id": "231436"
+            }
+        },
+        {
+            "+@gid": "2144510996",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yoko Kikuchi",
+                "+@id": "242091"
+            }
+        },
+        {
+            "+@gid": "3668540558",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Akitoshi Yokoyama",
+                "+@id": "13831"
+            }
+        },
+        {
+            "+@gid": "3320722226",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takatoshi Suzuki",
+                "+@id": "85981"
+            }
+        },
+        {
+            "+@gid": "3423507210",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hironori Tanaka",
+                "+@id": "100032"
+            }
+        },
+        {
+            "+@gid": "2400153134",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Bahi JD",
+                "+@id": "107990"
+            }
+        },
+        {
+            "+@gid": "2126132717",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takahiro Kaneko",
+                "+@id": "124703"
+            }
+        },
+        {
+            "+@gid": "3185968816",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kayona Yamada",
+                "+@id": "177453"
+            }
+        },
+        {
+            "+@gid": "2066921302",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tooru Hasuya",
+                "+@id": "190639"
+            }
+        },
+        {
+            "+@gid": "1218879741",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Mokochan",
+                "+@id": "217060"
+            }
+        },
+        {
+            "+@gid": "1468557907",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hao-Tian Gan",
+                "+@id": "231436"
+            }
+        },
+        {
+            "+@gid": "1860041610",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yoko Kikuchi",
+                "+@id": "242091"
+            }
+        },
+        {
+            "+@gid": "2865277096",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Junya Ibun",
+                "+@id": "301854"
             }
         },
         {
@@ -533,6 +717,15 @@
             }
         },
         {
+            "+@gid": "2672721820",
+            "+@lang": "ES",
+            "role": "Lee",
+            "person": {
+                "+content": "Igor Cruz",
+                "+@id": "40617"
+            }
+        },
+        {
             "+@gid": "3172396016",
             "+@lang": "ES",
             "role": "Batou",
@@ -548,6 +741,15 @@
             "person": {
                 "+content": "Josema Soler",
                 "+@id": "71213"
+            }
+        },
+        {
+            "+@gid": "1405992471",
+            "+@lang": "ES",
+            "role": "Titiritero",
+            "person": {
+                "+content": "Jocelyn Robles",
+                "+@id": "106443"
             }
         },
         {
@@ -569,12 +771,30 @@
             }
         },
         {
+            "+@gid": "1698116266",
+            "+@lang": "ES",
+            "role": "Borma",
+            "person": {
+                "+content": "Oscar Rangel",
+                "+@id": "152804"
+            }
+        },
+        {
             "+@gid": "3294568275",
             "+@lang": "ES",
             "role": "Batou",
             "person": {
                 "+content": "José Manuel Oliva",
                 "+@id": "155750"
+            }
+        },
+        {
+            "+@gid": "1978658603",
+            "+@lang": "ES",
+            "role": "Paz",
+            "person": {
+                "+content": "Hiram Cárdenas",
+                "+@id": "177605"
             }
         },
         {
@@ -596,6 +816,15 @@
             }
         },
         {
+            "+@gid": "1540635720",
+            "+@lang": "FR",
+            "role": "Ichikawa",
+            "person": {
+                "+content": "Alexandre Coadour",
+                "+@id": "38387"
+            }
+        },
+        {
             "+@gid": "2113399425",
             "+@lang": "FR",
             "role": "Fuchikoma",
@@ -614,6 +843,15 @@
             }
         },
         {
+            "+@gid": "1934202835",
+            "+@lang": "FR",
+            "role": "Opératrice",
+            "person": {
+                "+content": "Nelly Rebibo",
+                "+@id": "169129"
+            }
+        },
+        {
             "+@gid": "3132596073",
             "+@lang": "FR",
             "role": "Togusa",
@@ -629,6 +867,15 @@
             "person": {
                 "+content": "Hugo Rezeda",
                 "+@id": "295547"
+            }
+        },
+        {
+            "+@gid": "1705089392",
+            "+@lang": "FR",
+            "role": "Borma",
+            "person": {
+                "+content": "Thomas Alonso",
+                "+@id": "295553"
             }
         },
         {
@@ -722,15 +969,6 @@
             }
         },
         {
-            "+@gid": "2221529135",
-            "+@lang": "JA",
-            "role": "Annapuma",
-            "person": {
-                "+content": "Aya Hisakawa",
-                "+@id": "503"
-            }
-        },
-        {
             "+@gid": "743493876",
             "+@lang": "JA",
             "role": "Motoko Kusanagi",
@@ -746,15 +984,6 @@
             "person": {
                 "+content": "Tomoko Kaneda",
                 "+@id": "1375"
-            }
-        },
-        {
-            "+@gid": "759404163",
-            "+@lang": "JA",
-            "role": "Unipuma",
-            "person": {
-                "+content": "Niina Kumagaya",
-                "+@id": "9880"
             }
         },
         {
@@ -978,6 +1207,6 @@
         }
     ],
     "+@date-added": "2024-05-25T06:05:41Z",
-    "+@date-last-modified-at": "2026-08-19T13:10:28Z",
-    "+@date-last-updated-at": "2026-08-19T13:10:28Z"
+    "+@date-last-modified-at": "2026-09-18T22:36:06Z",
+    "+@date-last-updated-at": "2026-09-18T22:36:06Z"
 }

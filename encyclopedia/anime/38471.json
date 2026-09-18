@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Red River",
     "+@precision": "TV",
-    "+@generated-on": "2026-08-19T20:46:44Z",
+    "+@generated-on": "2026-09-18T21:48:28Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "3438"
@@ -103,18 +103,33 @@
             "+@type": "Running time"
         },
         {
+            "+content": "24",
+            "+@gid": "2908912114",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-07",
             "+@gid": "1175522417",
             "+@type": "Vintage"
         },
         {
-            "+content": "\"Akatsuki no Sora\" (暁の空) by Hiroki Nanami",
+            "+content": "#1: \"Akatsuki no Sora\" (暁の空) by Hiroki Nanami",
             "+@gid": "3328585154",
             "+@type": "Opening Theme"
         },
         {
-            "+content": "\"Reunion\" by Miisha Shimizu",
+            "+content": "#2: \"Akatsuki no Hoshi\" (暁の星) by Nana Mizuki",
+            "+@gid": "2293738030",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "#1: \"Reunion\" by Miisha Shimizu",
             "+@gid": "2122826457",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#2: \"flow feat. Andō Yūko\" (flow feat. 安藤裕子) by Ryu Matsuyama",
+            "+@gid": "539344919",
             "+@type": "Ending Theme"
         },
         {
@@ -126,8 +141,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "6",
-        "+@weighted_score": "4.0493"
+        "+@nb_votes": "8",
+        "+@weighted_score": "3.9469"
     },
     "episode": [
         {
@@ -185,6 +200,38 @@
                 "+@gid": "2211173338",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "Under the Apple Tree",
+                "+@gid": "1743334783",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "The Sign on the Palm",
+                "+@gid": "1798721403",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "Ishtar Purloined",
+                "+@gid": "1877617972",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "Where My Heart Is",
+                "+@gid": "2717024312",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -227,6 +274,21 @@
             "+content": "<cite>Red River</cite> Anime Casts Minami Takayama, Kazuhiko Inoue as Yuri's Parents",
             "+@datetime": "2026-07-08T05:38:11Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-07-08/red-river-anime-casts-minami-takayama-kazuhiko-inoue-as-yuri-parents/.239413"
+        },
+        {
+            "+content": "<cite>Red River</cite> Anime Casts Sōma Saitō, Shun Horie",
+            "+@datetime": "2026-08-24T06:05:12Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-24/red-river-anime-casts-soma-saito-shun-horie/.240893"
+        },
+        {
+            "+content": "<cite>Red River</cite> Anime Reveals New Cast Member, Theme Song Artists",
+            "+@datetime": "2026-09-01T13:54:25Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-01/red-river-anime-reveals-new-cast-member-theme-song-artists/.241190"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Fall 2026 Season",
+            "+@datetime": "2026-09-15T17:52:07Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-15/crunchyroll-announces-release-schedule-for-fall-2026-season/.241811"
         }
     ],
     "staff": [
@@ -297,6 +359,15 @@
     ],
     "cast": [
         {
+            "+@gid": "2737140743",
+            "+@lang": "JA",
+            "role": "Ursula",
+            "person": {
+                "+content": "Nana Mizuki",
+                "+@id": "436"
+            }
+        },
+        {
             "+@gid": "2232874933",
             "+@lang": "JA",
             "role": "Prince Mattiwaza",
@@ -351,6 +422,15 @@
             }
         },
         {
+            "+@gid": "664378902",
+            "+@lang": "JA",
+            "role": "User Ramses",
+            "person": {
+                "+content": "Sōma Saitō",
+                "+@id": "104960"
+            }
+        },
+        {
             "+@gid": "293459991",
             "+@lang": "JA",
             "role": "Rusafa",
@@ -375,6 +455,15 @@
             "person": {
                 "+content": "Hiroki Nanami",
                 "+@id": "127203"
+            }
+        },
+        {
+            "+@gid": "3739819445",
+            "+@lang": "JA",
+            "role": "Juda Haspasrupi",
+            "person": {
+                "+content": "Shun Horie",
+                "+@id": "141454"
             }
         },
         {
@@ -441,6 +530,6 @@
         }
     },
     "+@date-added": "2026-02-15T01:51:18Z",
-    "+@date-last-modified-at": "2026-08-19T20:46:51Z",
-    "+@date-last-updated-at": "2026-08-19T20:46:51Z"
+    "+@date-last-modified-at": "2026-09-18T22:36:06Z",
+    "+@date-last-updated-at": "2026-09-18T22:36:06Z"
 }

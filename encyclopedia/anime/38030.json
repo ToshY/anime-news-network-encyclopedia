@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Marika's Love Meter Malfunction",
     "+@precision": "TV",
-    "+@generated-on": "2026-08-19T20:46:45Z",
+    "+@generated-on": "2026-09-18T22:35:57Z",
     "related-prev": [
         {
             "+@rel": "part of",
@@ -108,8 +108,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "11",
-        "+@weighted_score": "5.1486"
+        "+@nb_votes": "12",
+        "+@weighted_score": "5.1902",
+        "+@bayesian_score": "6.3297"
     },
     "news": [
         {
@@ -121,6 +122,11 @@
             "+content": "OceanVeil Streams <cite>Do You Like Big Girls?</cite>, <cite>Marika's Love Meter Malfunction</cite> Anime in Advance on March 13",
             "+@datetime": "2026-02-24T19:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-02-24/oceanveil-streams-do-you-like-big-girls-marika-love-meter-malfunction-anime-in-advance-on-march-13/.234509"
+        },
+        {
+            "+content": "OceanVeil Reveals September 11 Simulcast Debut of <cite>Now That I Can Control Reality With A Mouse Cursor</cite> Anime; English Dub of <cite>Marika's Love Meter Malfunction</cite>",
+            "+@datetime": "2026-08-28T19:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-28/oceanveil-reveals-september-11-simulcast-debut-of-now-that-i-can-control-reality-with-a-mouse-/.241034"
         }
     ],
     "staff": [
@@ -191,6 +197,51 @@
     ],
     "cast": [
         {
+            "+@gid": "3270139031",
+            "+@lang": "EN",
+            "role": "Kanata Kitami",
+            "person": {
+                "+content": "Ciarán Strange",
+                "+@id": "184715"
+            }
+        },
+        {
+            "+@gid": "2151275053",
+            "+@lang": "EN",
+            "role": "Kokona Mikasa",
+            "person": {
+                "+content": "Katy Johnson",
+                "+@id": "217958"
+            }
+        },
+        {
+            "+@gid": "2560035613",
+            "+@lang": "EN",
+            "role": "Marika Chitose",
+            "person": {
+                "+content": "Kelsey Jaffer",
+                "+@id": "242468"
+            }
+        },
+        {
+            "+@gid": "2987843988",
+            "+@lang": "EN",
+            "role": "Niino Hidaka",
+            "person": {
+                "+content": "Caroline Orejeula",
+                "+@id": "301519"
+            }
+        },
+        {
+            "+@gid": "2453990766",
+            "+@lang": "EN",
+            "role": "Sayuki Toyotomi",
+            "person": {
+                "+content": "Darcey Lee",
+                "+@id": "301520"
+            }
+        },
+        {
             "+@gid": "2646505774",
             "+@lang": "JA",
             "role": "Niino Hidaka",
@@ -255,5 +306,6 @@
         }
     ],
     "+@date-added": "2025-11-20T02:16:30Z",
-    "+@date-last-updated-at": "2026-08-19T20:46:51Z"
+    "+@date-last-modified-at": "2026-09-18T22:36:06Z",
+    "+@date-last-updated-at": "2026-09-18T22:36:06Z"
 }

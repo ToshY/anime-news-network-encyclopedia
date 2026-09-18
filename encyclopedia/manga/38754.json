@@ -4,12 +4,35 @@
     "+@type": "manga",
     "+@name": "Aoharu Once More",
     "+@precision": "manga",
-    "+@generated-on": "2026-08-19T20:46:46Z",
+    "+@generated-on": "2026-09-18T22:36:04Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "36895"
     },
+    "related-next": {
+        "+@id": "40504",
+        "+@rel": "adaptation"
+    },
     "info": [
+        {
+            "+@gid": "1885635165",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38754-1885635165.1788422783.jpg",
+            "+@width": "142",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38754-1885635165.1788422783.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38754-1885635165.1788422783.jpg",
+                    "+@width": "320",
+                    "+@height": "452"
+                }
+            ]
+        },
         {
             "+content": "Aoharu Once More",
             "+@gid": "2639875852",
@@ -38,11 +61,23 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Tokyopop Licenses <cite>My One-Sided Love</cite>, <cite>Blue Spring in Your Eyes</cite>, <cite>Spicy Milk Candy</cite>, More Manga",
-        "+@datetime": "2026-03-19T20:34:59Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-19/tokyopop-licenses-my-one-sided-love-blue-spring-in-your-eyes-spicy-milk-candy-more-manga/.235502"
-    },
+    "news": [
+        {
+            "+content": "Tokyopop Licenses <cite>My One-Sided Love</cite>, <cite>Blue Spring in Your Eyes</cite>, <cite>Spicy Milk Candy</cite>, More Manga",
+            "+@datetime": "2026-03-19T20:34:59Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-19/tokyopop-licenses-my-one-sided-love-blue-spring-in-your-eyes-spicy-milk-candy-more-manga/.235502"
+        },
+        {
+            "+content": "Toworu Miyata's <cite>Aoharu Once More</cite> BL Manga Gets Light Anime",
+            "+@datetime": "2026-09-03T07:58:07Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-03/toworu-miyata-aoharu-once-more-bl-manga-gets-light-anime/.241290"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, September 13-19",
+            "+@datetime": "2026-09-18T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-18/north-american-anime-manga-releases-september-13-19/.241784"
+        }
+    ],
     "staff": {
         "+@gid": "1017508434",
         "task": "Story & Art",
@@ -52,5 +87,6 @@
         }
     },
     "+@date-added": "2026-03-20T15:11:58Z",
-    "+@date-last-updated-at": "2026-08-19T20:46:46Z"
+    "+@date-last-modified-at": "2026-09-18T22:36:06Z",
+    "+@date-last-updated-at": "2026-09-18T22:36:06Z"
 }

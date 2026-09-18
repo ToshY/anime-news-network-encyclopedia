@@ -4,7 +4,11 @@
     "+@type": "TV",
     "+@name": "Goodbye, Lara",
     "+@precision": "TV",
-    "+@generated-on": "2026-08-19T12:45:13Z",
+    "+@generated-on": "2026-09-18T21:47:54Z",
+    "related-next": {
+        "+@id": "40547",
+        "+@rel": "adaptation"
+    },
     "info": [
         {
             "+@gid": "2586642330",
@@ -114,18 +118,11 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://goodbyelara.com/"
-        },
-        {
-            "+content": "『さよならララ』公式サイト",
-            "+@gid": "2111641395",
-            "+@type": "Official website",
-            "+@lang": "JA",
-            "+@href": "https://kinemacitrus.biz/goodbyelara/"
         }
     ],
     "ratings": {
-        "+@nb_votes": "6",
-        "+@weighted_score": "5.2073"
+        "+@nb_votes": "8",
+        "+@weighted_score": "6.1672"
     },
     "episode": [
         {
@@ -173,6 +170,38 @@
             "title": {
                 "+content": "The Light That Shines on Me",
                 "+@gid": "2583454856",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "Meet Me at Biwako Terrace Saturday at 10",
+                "+@gid": "2410951574",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "The Night of the Final Match",
+                "+@gid": "2680467749",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "True Love",
+                "+@gid": "1596065146",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "The Princess with a Blade",
+                "+@gid": "2472117500",
                 "+@lang": "EN"
             }
         }
@@ -247,6 +276,11 @@
             "+content": "Crunchyroll Streams Same-Day English Dub for <cite>'Goodbye, Lara'</cite> Anime",
             "+@datetime": "2026-07-10T06:07:37Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-07-10/crunchyroll-streams-same-day-english-dub-for-goodbye-lara-anime/.239344"
+        },
+        {
+            "+content": "<cite>Goodbye, Lara</cite> Anime Gets Manga",
+            "+@datetime": "2026-09-15T19:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-15/goodbye-lara-anime-gets-manga/.241817"
         }
     ],
     "staff": [
@@ -264,6 +298,118 @@
             "person": {
                 "+content": "Anna Kawahara",
                 "+@id": "236782"
+            }
+        },
+        {
+            "+@gid": "1929022475",
+            "task": "Script",
+            "person": {
+                "+content": "Anna Kawahara",
+                "+@id": "236782"
+            }
+        },
+        {
+            "+@gid": "1959760050",
+            "task": "Script",
+            "person": {
+                "+content": "Yuusuke Aose",
+                "+@id": "301822"
+            }
+        },
+        {
+            "+@gid": "2480378037",
+            "task": "Script",
+            "person": {
+                "+content": "Mai Inui",
+                "+@id": "301823"
+            }
+        },
+        {
+            "+@gid": "1980850707",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Keisuke Hiroe",
+                "+@id": "106205"
+            }
+        },
+        {
+            "+@gid": "2131040698",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takushi Koide",
+                "+@id": "137719"
+            }
+        },
+        {
+            "+@gid": "2789971566",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ayaka Tsuji",
+                "+@id": "159081"
+            }
+        },
+        {
+            "+@gid": "3115026489",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Moaang",
+                "+@id": "171395"
+            }
+        },
+        {
+            "+@gid": "3639071666",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yuki Koike",
+                "+@id": "28042"
+            }
+        },
+        {
+            "+@gid": "2009134282",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Keisuke Hiroe",
+                "+@id": "106205"
+            }
+        },
+        {
+            "+@gid": "515793743",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takushi Koide",
+                "+@id": "137719"
+            }
+        },
+        {
+            "+@gid": "2189834730",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ayaka Tsuji",
+                "+@id": "159081"
+            }
+        },
+        {
+            "+@gid": "2827437753",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Harumasa Satō",
+                "+@id": "216747"
+            }
+        },
+        {
+            "+@gid": "2318296629",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Takushi Koide",
+                "+@id": "137719"
+            }
+        },
+        {
+            "+@gid": "3414400947",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Moaang",
+                "+@id": "171395"
             }
         },
         {
@@ -288,6 +434,86 @@
             "person": {
                 "+content": "Mari Fujino",
                 "+@id": "121461"
+            }
+        },
+        {
+            "+@gid": "1929290273",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masatoshi Tsuji",
+                "+@id": "76919"
+            }
+        },
+        {
+            "+@gid": "2397145925",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Keisuke Hiroe",
+                "+@id": "106205"
+            }
+        },
+        {
+            "+@gid": "2741148740",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuki Tsunoda",
+                "+@id": "144451"
+            }
+        },
+        {
+            "+@gid": "2717714940",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shiori Tani",
+                "+@id": "153663"
+            }
+        },
+        {
+            "+@gid": "3110508944",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ayaka Tsuji",
+                "+@id": "159081"
+            }
+        },
+        {
+            "+@gid": "2270590510",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Moaang",
+                "+@id": "171395"
+            }
+        },
+        {
+            "+@gid": "1748762635",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiroto Nishizawa",
+                "+@id": "178587"
+            }
+        },
+        {
+            "+@gid": "2545825294",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takasemaru",
+                "+@id": "248911"
+            }
+        },
+        {
+            "+@gid": "3267599744",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Houjicha",
+                "+@id": "253001"
+            }
+        },
+        {
+            "+@gid": "1851274090",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hikaru Sato",
+                "+@id": "274729"
             }
         },
         {
@@ -516,6 +742,6 @@
         }
     },
     "+@date-added": "2024-05-18T17:42:26Z",
-    "+@date-last-modified-at": "2026-08-19T13:10:28Z",
-    "+@date-last-updated-at": "2026-08-19T13:10:28Z"
+    "+@date-last-modified-at": "2026-09-18T22:36:06Z",
+    "+@date-last-updated-at": "2026-09-18T22:36:06Z"
 }
