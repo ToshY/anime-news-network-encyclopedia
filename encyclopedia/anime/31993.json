@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Monkey Quest",
     "+@precision": "movie",
-    "+@generated-on": "2026-08-20T08:57:08Z",
+    "+@generated-on": "2026-09-19T18:37:37Z",
     "info": [
         {
             "+@gid": "1856185575",
@@ -37,6 +37,11 @@
             "+@lang": "EN"
         },
         {
+            "+content": "adventure",
+            "+@gid": "1307535601",
+            "+@type": "Genres"
+        },
+        {
             "+content": "2027",
             "+@gid": "1570365780",
             "+@type": "Vintage"
@@ -52,6 +57,11 @@
             "+content": "Toei Animation Details 2D/3D Hybrid Film <cite>Monkey Quest</cite> for 2027",
             "+@datetime": "2026-06-27T16:13:35Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-27/toei-animation-details-2d-3d-hybrid-film-monkey-quest-for-2027/.239027"
+        },
+        {
+            "+content": "Deadline: Lionsgate Partners with Toei Animation for U.S. Distribution of Projects Including <cite>Monkey Quest</cite> Film",
+            "+@datetime": "2026-09-08T20:17:05Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-08/deadline-lionsgate-partners-with-toei-animation-for-u.s-distribution-of-projects-including-monkey-/.241538"
         }
     ],
     "staff": [
@@ -125,14 +135,25 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "3746849681",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Toei Animation",
-            "+@id": "145"
+    "credit": [
+        {
+            "+@gid": "3746849681",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Toei Animation",
+                "+@id": "145"
+            }
+        },
+        {
+            "+@gid": "2723656082",
+            "task": "Production",
+            "company": {
+                "+content": "Sola Digital Arts",
+                "+@id": "11872"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-02-06T21:54:17Z",
-    "+@date-last-updated-at": "2026-08-20T08:57:11Z"
+    "+@date-last-modified-at": "2026-09-19T18:37:38Z",
+    "+@date-last-updated-at": "2026-09-19T18:37:38Z"
 }

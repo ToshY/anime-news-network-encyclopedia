@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "My Happy Marriage",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-08-20T16:52:03Z",
+    "+@generated-on": "2026-09-19T18:37:34Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "29984"
@@ -58,9 +58,14 @@
             "+@type": "Number of episodes"
         },
         {
-            "+content": "2026",
+            "+content": "2026-10-25",
             "+@gid": "2046186978",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Prelude no Temae ni: ~for me&you~\" (プレリュードの手前に 〜for me&you〜) by Kashitarō Itō",
+            "+@gid": "2011829450",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "アニメ『わたしの幸せな結婚』公式サイト",
@@ -70,7 +75,52 @@
             "+@href": "https://watakon-anime.com/"
         }
     ],
+    "news": {
+        "+content": "<cite>My Happy Marriage</cite> Anime Special Airs on October 25 With All 3 Episodes",
+        "+@datetime": "2026-08-31T03:00:00Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-08-30/my-happy-marriage-anime-special-airs-on-october-25-with-all-3-episodes/.241115"
+    },
     "staff": [
+        {
+            "+@gid": "1076446850",
+            "task": "Director",
+            "person": {
+                "+content": "Takehiro Kubota",
+                "+@id": "126140"
+            }
+        },
+        {
+            "+@gid": "2203823179",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Takehiro Kubota",
+                "+@id": "126140"
+            }
+        },
+        {
+            "+@gid": "1076655658",
+            "task": "Script",
+            "person": {
+                "+content": "Mika Tanaka",
+                "+@id": "89325"
+            }
+        },
+        {
+            "+@gid": "2276804743",
+            "task": "Script",
+            "person": {
+                "+content": "Ikuho Negi",
+                "+@id": "240189"
+            }
+        },
+        {
+            "+@gid": "1896272521",
+            "task": "Music",
+            "person": {
+                "+content": "Evan Call",
+                "+@id": "123974"
+            }
+        },
         {
             "+@gid": "1423395598",
             "task": "Original creator",
@@ -86,8 +136,174 @@
                 "+content": "Tsukiho Tsukioka",
                 "+@id": "221790"
             }
+        },
+        {
+            "+@gid": "1673686570",
+            "task": "Character Design",
+            "person": {
+                "+content": "Kuniyuki Itō",
+                "+@id": "95618"
+            }
+        },
+        {
+            "+@gid": "916587753",
+            "task": "Character Design",
+            "person": {
+                "+content": "Shōko Yasuda",
+                "+@id": "98983"
+            }
+        },
+        {
+            "+@gid": "1068202092",
+            "task": "Character Design",
+            "person": {
+                "+content": "Hikaru Sato",
+                "+@id": "274729"
+            }
+        },
+        {
+            "+@gid": "1376251581",
+            "task": "Art Director",
+            "person": {
+                "+content": "Omi Noda",
+                "+@id": "258144"
+            }
+        },
+        {
+            "+@gid": "2934120719",
+            "task": "3D Director",
+            "person": {
+                "+content": "Yūji Koshida",
+                "+@id": "112869"
+            }
+        },
+        {
+            "+@gid": "656080682",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Kisuke Koizumi",
+                "+@id": "30629"
+            }
+        },
+        {
+            "+@gid": "1702938046",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Tsunetaka Ema",
+                "+@id": "40052"
+            }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "1911784332",
+            "+@lang": "JA",
+            "role": "Yurie",
+            "person": {
+                "+content": "Houko Kuwashima",
+                "+@id": "281"
+            }
+        },
+        {
+            "+@gid": "2642887832",
+            "+@lang": "JA",
+            "role": "Fuyu Kudo",
+            "person": {
+                "+content": "Kikuko Inoue",
+                "+@id": "542"
+            }
+        },
+        {
+            "+@gid": "3243000664",
+            "+@lang": "JA",
+            "role": "Tadakiyo Kudo",
+            "person": {
+                "+content": "Ryōtarō Okiayu",
+                "+@id": "718"
+            }
+        },
+        {
+            "+@gid": "2623896335",
+            "+@lang": "JA",
+            "role": "Yoshito Godō",
+            "person": {
+                "+content": "Hiro Shimono",
+                "+@id": "7636"
+            }
+        },
+        {
+            "+@gid": "667891237",
+            "+@lang": "JA",
+            "role": "Arata Tsuruki",
+            "person": {
+                "+content": "Ryōhei Kimura",
+                "+@id": "8342"
+            }
+        },
+        {
+            "+@gid": "3610829863",
+            "+@lang": "JA",
+            "role": "Hazuki Kudo",
+            "person": {
+                "+content": "Yōko Hikasa",
+                "+@id": "67797"
+            }
+        },
+        {
+            "+@gid": "1746011431",
+            "+@lang": "JA",
+            "role": "Kiyoka Kudo",
+            "person": {
+                "+content": "Kaito Ishikawa",
+                "+@id": "114052"
+            }
+        },
+        {
+            "+@gid": "3442495991",
+            "+@lang": "JA",
+            "role": "Kazushi Tatsuishi",
+            "person": {
+                "+content": "Toshinari Fukamachi",
+                "+@id": "116135"
+            }
+        },
+        {
+            "+@gid": "2434619662",
+            "+@lang": "JA",
+            "role": "Miyo Saimori",
+            "person": {
+                "+content": "Reina Ueda",
+                "+@id": "116390"
+            }
+        },
+        {
+            "+@gid": "3256954595",
+            "+@lang": "JA",
+            "role": "Kimio Nagaba",
+            "person": {
+                "+content": "M.A.O",
+                "+@id": "123756"
+            }
+        },
+        {
+            "+@gid": "3636214143",
+            "+@lang": "JA",
+            "role": "Zen Kōmyōin",
+            "person": {
+                "+content": "Tarō Kiuchi",
+                "+@id": "141453"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "601562273",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Kinema Citrus",
+            "+@id": "7744"
+        }
+    },
     "+@date-added": "2025-11-21T22:46:03Z",
-    "+@date-last-updated-at": "2026-08-20T16:52:05Z"
+    "+@date-last-modified-at": "2026-09-19T18:37:38Z",
+    "+@date-last-updated-at": "2026-09-19T18:37:38Z"
 }

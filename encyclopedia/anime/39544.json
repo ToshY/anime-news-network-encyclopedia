@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Boy with Gundam",
     "+@precision": "ONA",
-    "+@generated-on": "2026-08-20T16:51:59Z",
+    "+@generated-on": "2026-09-19T18:37:30Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "4189"
@@ -146,7 +146,7 @@
             "+@gid": "2978001045",
             "task": "Animation Character Design",
             "person": {
-                "+content": "Shuri Toida",
+                "+content": "Juri Toida",
                 "+@id": "167201"
             }
         },
@@ -191,14 +191,25 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2290436978",
-        "task": "Production",
-        "company": {
-            "+content": "Sunrise",
-            "+@id": "34"
+    "credit": [
+        {
+            "+@gid": "3612140682",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Sunrise",
+                "+@id": "34"
+            }
+        },
+        {
+            "+@gid": "3544551713",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Namco Filmworks",
+                "+@id": "22618"
+            }
         }
-    },
+    ],
     "+@date-added": "2026-05-16T08:01:03Z",
-    "+@date-last-updated-at": "2026-08-20T16:52:05Z"
+    "+@date-last-modified-at": "2026-09-19T18:37:38Z",
+    "+@date-last-updated-at": "2026-09-19T18:37:38Z"
 }
