@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe",
     "+@precision": "movie",
-    "+@generated-on": "2026-08-22T04:51:07Z",
+    "+@generated-on": "2026-09-21T04:35:28Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "22960"
@@ -83,6 +83,11 @@
             "+@type": "Objectionable content"
         },
         {
+            "+content": "Following the appearance of the Xi Gundam at the hands of Mafty's leader Hathaway Noa, Kenneth Sleg places his Circe Unit on high alert to prevent the terrorist organization from disrupting the Earth Federation conference in Adelaide. As Mafty exposes the Federation's atrocities in the Asia-Pacific region, Gigi Andalucia uses her Newtype abilities to bring Circe Unit closer to Hathaway.",
+            "+@gid": "826299904",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "2026-01-30",
             "+@type": "Vintage"
         },
@@ -110,8 +115,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "8",
-        "+@weighted_score": "7.8998"
+        "+@nb_votes": "16",
+        "+@weighted_score": "7.632",
+        "+@bayesian_score": "7.56219"
     },
     "review": {
         "+content": "<cite>Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe</cite> Anime Film Review",
@@ -499,6 +505,15 @@
             }
         },
         {
+            "+@gid": "765649991",
+            "+@lang": "EN",
+            "role": "Hala Morley",
+            "person": {
+                "+content": "Grace Lu",
+                "+@id": "118077"
+            }
+        },
+        {
             "+@gid": "1072059227",
             "+@lang": "EN",
             "role": "Gigi Andalucia",
@@ -532,15 +547,6 @@
             "person": {
                 "+content": "Zach Aguilar",
                 "+@id": "135560"
-            }
-        },
-        {
-            "+@gid": "543019769",
-            "+@lang": "EN",
-            "role": "Mace Flower",
-            "person": {
-                "+content": "Ryan Bartley",
-                "+@id": "137736"
             }
         },
         {
@@ -598,6 +604,15 @@
             }
         },
         {
+            "+@gid": "1055419351",
+            "+@lang": "EN",
+            "role": "Fabio Rivera",
+            "person": {
+                "+content": "Alain Mesa",
+                "+@id": "197845"
+            }
+        },
+        {
             "+@gid": "2424935753",
             "+@lang": "EN",
             "role": "Maximilian Nikolai",
@@ -643,6 +658,204 @@
             }
         },
         {
+            "+@gid": "2322789511",
+            "+@lang": "IT",
+            "role": "Gawman Nobile",
+            "person": {
+                "+content": "Marco Vivio",
+                "+@id": "27001"
+            }
+        },
+        {
+            "+@gid": "401678986",
+            "+@lang": "IT",
+            "role": "Iram Masam",
+            "person": {
+                "+content": "Daniele Raffaeli",
+                "+@id": "29555"
+            }
+        },
+        {
+            "+@gid": "1326672318",
+            "+@lang": "IT",
+            "role": "Chartchai Coleman",
+            "person": {
+                "+content": "Mirko Mazzanti",
+                "+@id": "53332"
+            }
+        },
+        {
+            "+@gid": "718321804",
+            "+@lang": "IT",
+            "role": "Kenneth Sleg",
+            "person": {
+                "+content": "Maurizio Merluzzo",
+                "+@id": "74590"
+            }
+        },
+        {
+            "+@gid": "3186764507",
+            "+@lang": "IT",
+            "role": "Gigi Andalucia",
+            "person": {
+                "+content": "Tiziana Martello",
+                "+@id": "105843"
+            }
+        },
+        {
+            "+@gid": "1970668595",
+            "+@lang": "IT",
+            "role": "Hathaway Noa",
+            "person": {
+                "+content": "Federico Viola",
+                "+@id": "123422"
+            }
+        },
+        {
+            "+@gid": "4124044008",
+            "+@lang": "IT",
+            "role": "Mihesher Hence",
+            "person": {
+                "+content": "Sara Labidi",
+                "+@id": "144550"
+            }
+        },
+        {
+            "+@gid": "1537290136",
+            "+@lang": "IT",
+            "role": "Raymond Kain",
+            "person": {
+                "+content": "Gabriele Tacchi",
+                "+@id": "144562"
+            }
+        },
+        {
+            "+@gid": "3150786868",
+            "+@lang": "IT",
+            "role": "Lane Aim",
+            "person": {
+                "+content": "Mattia Fabiano",
+                "+@id": "146903"
+            }
+        },
+        {
+            "+@gid": "1175118291",
+            "+@lang": "IT",
+            "role": "Brinks Wedge",
+            "person": {
+                "+content": "Michele Botrugno",
+                "+@id": "167197"
+            }
+        },
+        {
+            "+@gid": "2048394679",
+            "+@lang": "IT",
+            "role": "Fabio Rivera",
+            "person": {
+                "+content": "Francesco Falco",
+                "+@id": "177048"
+            }
+        },
+        {
+            "+@gid": "1141977731",
+            "+@lang": "IT",
+            "role": "Maximilian Nikolai",
+            "person": {
+                "+content": "Marco Briglione",
+                "+@id": "179694"
+            }
+        },
+        {
+            "+@gid": "2788269359",
+            "+@lang": "IT",
+            "role": "Emeralda Zubin",
+            "person": {
+                "+content": "Marta Filippi",
+                "+@id": "183558"
+            }
+        },
+        {
+            "+@gid": "2950139922",
+            "+@lang": "IT",
+            "role": "Golf",
+            "person": {
+                "+content": "Daniel Spizzichino",
+                "+@id": "183817"
+            }
+        },
+        {
+            "+@gid": "2671896272",
+            "+@lang": "IT",
+            "role": "Rod Hein",
+            "person": {
+                "+content": "Corrado Niro",
+                "+@id": "185624"
+            }
+        },
+        {
+            "+@gid": "2486297129",
+            "+@lang": "IT",
+            "role": "Hundley Yeoksam",
+            "person": {
+                "+content": "Federico Talocci",
+                "+@id": "215412"
+            }
+        },
+        {
+            "+@gid": "651735629",
+            "+@lang": "IT",
+            "role": "Hala Morley",
+            "person": {
+                "+content": "Sofia Porta",
+                "+@id": "237558"
+            }
+        },
+        {
+            "+@gid": "2002446905",
+            "+@lang": "IT",
+            "role": "Julia Suga",
+            "person": {
+                "+content": "Beatrice Manfredi",
+                "+@id": "265447"
+            }
+        },
+        {
+            "+@gid": "2039694433",
+            "+@lang": "IT",
+            "role": "Kelia Dace",
+            "person": {
+                "+content": "Marta Gallone",
+                "+@id": "297279"
+            }
+        },
+        {
+            "+@gid": "2851881946",
+            "+@lang": "JA",
+            "role": "Geise H. Hugest",
+            "person": {
+                "+content": "Nozomu Sasaki",
+                "+@id": "1012"
+            }
+        },
+        {
+            "+@gid": "1803276433",
+            "+@lang": "JA",
+            "role": "Hundley Yeoksam",
+            "person": {
+                "+content": "Kōichi Yamadera",
+                "+@id": "5728"
+            }
+        },
+        {
+            "+@gid": "3147701312",
+            "+@lang": "JA",
+            "role": "Fabio Rivera",
+            "person": {
+                "+content": "Hiroki Yasumoto",
+                "+@id": "30785"
+            }
+        },
+        {
             "+@gid": "3210718203",
             "+@lang": "JA",
             "role": "Hathaway Noa",
@@ -661,6 +874,15 @@
             }
         },
         {
+            "+@gid": "973855129",
+            "+@lang": "JA",
+            "role": "Gawman Nobile",
+            "person": {
+                "+content": "Kenjirō Tsuda",
+                "+@id": "39751"
+            }
+        },
+        {
             "+@gid": "3338346895",
             "+@lang": "JA",
             "role": "Kenneth Sleg",
@@ -670,12 +892,48 @@
             }
         },
         {
+            "+@gid": "1587410983",
+            "+@lang": "JA",
+            "role": "Mihesher Hence",
+            "person": {
+                "+content": "Misato Matsuoka",
+                "+@id": "53103"
+            }
+        },
+        {
+            "+@gid": "1557223478",
+            "+@lang": "JA",
+            "role": "Kelia Dace",
+            "person": {
+                "+content": "Saori Hayami",
+                "+@id": "63462"
+            }
+        },
+        {
+            "+@gid": "1339890605",
+            "+@lang": "JA",
+            "role": "Emeralda Zubin",
+            "person": {
+                "+content": "Yui Ishikawa",
+                "+@id": "63509"
+            }
+        },
+        {
             "+@gid": "3568160240",
             "+@lang": "JA",
             "role": "Chartchai Coleman",
             "person": {
                 "+content": "Shinya Takahashi",
                 "+@id": "74624"
+            }
+        },
+        {
+            "+@gid": "2469523824",
+            "+@lang": "JA",
+            "role": "Golf",
+            "person": {
+                "+content": "Hikaru Tanaka",
+                "+@id": "101105"
             }
         },
         {
@@ -697,12 +955,48 @@
             }
         },
         {
+            "+@gid": "2457424695",
+            "+@lang": "JA",
+            "role": "Fencer Mayne",
+            "person": {
+                "+content": "Kōhei Amasaki",
+                "+@id": "131781"
+            }
+        },
+        {
+            "+@gid": "305384647",
+            "+@lang": "JA",
+            "role": "Iram Masam",
+            "person": {
+                "+content": "Shunsuke Takeuchi",
+                "+@id": "132044"
+            }
+        },
+        {
+            "+@gid": "3321923701",
+            "+@lang": "JA",
+            "role": "Raymond Kain",
+            "person": {
+                "+content": "Fukushi Ochiai",
+                "+@id": "141955"
+            }
+        },
+        {
             "+@gid": "686548299",
             "+@lang": "JA",
             "role": "Lowaist Heinrich",
             "person": {
                 "+content": "Taiki Yamashita",
                 "+@id": "150356"
+            }
+        },
+        {
+            "+@gid": "1859990067",
+            "+@lang": "JA",
+            "role": "Civet Anhern",
+            "person": {
+                "+content": "Yū Miyazaki",
+                "+@id": "154556"
             }
         },
         {
@@ -739,6 +1033,15 @@
             "person": {
                 "+content": "Anna Nagase",
                 "+@id": "196760"
+            }
+        },
+        {
+            "+@gid": "3296907681",
+            "+@lang": "JA",
+            "role": "Maximilian Nikolai",
+            "person": {
+                "+content": "Shunpei Kusano",
+                "+@id": "209465"
             }
         },
         {
@@ -788,6 +1091,6 @@
         }
     ],
     "+@date-added": "2025-06-26T08:50:57Z",
-    "+@date-last-modified-at": "2026-08-22T04:51:14Z",
-    "+@date-last-updated-at": "2026-08-22T04:51:14Z"
+    "+@date-last-modified-at": "2026-09-21T04:59:24Z",
+    "+@date-last-updated-at": "2026-09-21T04:59:24Z"
 }
