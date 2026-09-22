@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-08-23T02:00:23Z",
+    "+@generated-on": "2026-09-22T22:22:03Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24993"
@@ -93,6 +93,11 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "\"Arrogantia\" by Leon Fou Bartford (Takeo Ōtsuka) (ep 10)",
+            "+@gid": "2503345712",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "\"selfish\" by Riko Azuna (ep 6)",
             "+@gid": "3800984833",
             "+@type": "Insert song"
@@ -103,7 +108,7 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Supreme LOVE STAR\" (シュプリーム LOVE STAR) by love interests (eps 1,4,5)",
+            "+content": "\"Supreme LOVE STAR\" (シュプリーム LOVE STAR) by love interests (eps 1,4-5,8-9)",
             "+@gid": "1441993052",
             "+@type": "Insert song"
         },
@@ -116,8 +121,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "4.0517"
+        "+@nb_votes": "6",
+        "+@weighted_score": "5.7447"
     },
     "episode": [
         {
@@ -174,6 +179,38 @@
                 "+content": "Shut Your Filthy Mouth, Scum",
                 "+@gid": "1409837022",
                 "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "You Can't Quantify Love!",
+                "+@gid": "894555957",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "Livia...",
+                "+@gid": "1769537673",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "They Hit Where It Hurts",
+                "+@gid": "2004960039",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "Sonna no Dou datte Ii!",
+                "+@gid": "1411801603",
+                "+@lang": "JA"
             }
         }
     ],
@@ -272,6 +309,14 @@
             }
         },
         {
+            "+@gid": "2301159191",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Chihiro Kumano",
+                "+@id": "192061"
+            }
+        },
+        {
             "+@gid": "1755863704",
             "task": "Storyboard",
             "person": {
@@ -341,6 +386,14 @@
             "person": {
                 "+content": "Shinichi Fukumoto",
                 "+@id": "219254"
+            }
+        },
+        {
+            "+@gid": "1375783026",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ruvu Ōshima",
+                "+@id": "261255"
             }
         },
         {
@@ -440,6 +493,22 @@
             }
         },
         {
+            "+@gid": "1932808748",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Ryūsuke Tsukamoto",
+                "+@id": "199483"
+            }
+        },
+        {
+            "+@gid": "3505787465",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Natsumi Kumagai",
+                "+@id": "300239"
+            }
+        },
+        {
             "+@gid": "2451533659",
             "task": "Animation Director",
             "person": {
@@ -469,6 +538,14 @@
             "person": {
                 "+content": "Masayuki Fujita",
                 "+@id": "39494"
+            }
+        },
+        {
+            "+@gid": "752115114",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tatsuo Nakajima",
+                "+@id": "47673"
             }
         },
         {
@@ -568,6 +645,14 @@
             }
         },
         {
+            "+@gid": "1503259116",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ryoko Oka",
+                "+@id": "204760"
+            }
+        },
+        {
             "+@gid": "1446163980",
             "task": "Animation Director",
             "person": {
@@ -640,6 +725,14 @@
             }
         },
         {
+            "+@gid": "1932889732",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mayuko Miyashima",
+                "+@id": "276946"
+            }
+        },
+        {
             "+@gid": "1546050878",
             "task": "Animation Director",
             "person": {
@@ -669,6 +762,22 @@
             "person": {
                 "+content": "Da Eun Ryu",
                 "+@id": "298305"
+            }
+        },
+        {
+            "+@gid": "2463084952",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hai Zuo",
+                "+@id": "301622"
+            }
+        },
+        {
+            "+@gid": "2473609249",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hai Feng Zheng",
+                "+@id": "301623"
             }
         },
         {
@@ -812,6 +921,123 @@
             "person": {
                 "+content": "Nia Celeste",
                 "+@id": "246014"
+            }
+        },
+        {
+            "+@gid": "2908818279",
+            "+@lang": "FR",
+            "role": "Vandel Him Zenden",
+            "person": {
+                "+content": "Olivier cordina",
+                "+@id": "51970"
+            }
+        },
+        {
+            "+@gid": "2431794394",
+            "+@lang": "FR",
+            "role": "Greg Fou Seberg",
+            "person": {
+                "+content": "Romain Altché",
+                "+@id": "67552"
+            }
+        },
+        {
+            "+@gid": "1485026722",
+            "+@lang": "FR",
+            "role": "Julius Rapha Holfort",
+            "person": {
+                "+content": "Stéphane Marais",
+                "+@id": "68487"
+            }
+        },
+        {
+            "+@gid": "3170590292",
+            "+@lang": "FR",
+            "role": "Luxion",
+            "person": {
+                "+content": "Stéphane Marais",
+                "+@id": "68487"
+            }
+        },
+        {
+            "+@gid": "2054941414",
+            "+@lang": "FR",
+            "role": "Brad Fou Field",
+            "person": {
+                "+content": "Thomas Sagols",
+                "+@id": "85935"
+            }
+        },
+        {
+            "+@gid": "2232372420",
+            "+@lang": "FR",
+            "role": "Chris Fia Arclight",
+            "person": {
+                "+content": "Jean-Rémi Tichit",
+                "+@id": "146775"
+            }
+        },
+        {
+            "+@gid": "2506866602",
+            "+@lang": "FR",
+            "role": "Hertrauda Sera Fanoss",
+            "person": {
+                "+content": "Fouzia Youssef",
+                "+@id": "151005"
+            }
+        },
+        {
+            "+@gid": "1377584487",
+            "+@lang": "FR",
+            "role": "Olivia",
+            "person": {
+                "+content": "Clotilde Verry",
+                "+@id": "186906"
+            }
+        },
+        {
+            "+@gid": "3230398964",
+            "+@lang": "FR",
+            "role": "Marie Lou Lafan",
+            "person": {
+                "+content": "Valerie Bescht",
+                "+@id": "189369"
+            }
+        },
+        {
+            "+@gid": "3061043461",
+            "+@lang": "FR",
+            "role": "Angelica Rapha Redgrave",
+            "person": {
+                "+content": "Cindy Tempez",
+                "+@id": "190513"
+            }
+        },
+        {
+            "+@gid": "2531132910",
+            "+@lang": "FR",
+            "role": "Kyle",
+            "person": {
+                "+content": "Cédric Lemaire",
+                "+@id": "191337"
+            }
+        },
+        {
+            "+@gid": "407002094",
+            "+@lang": "FR",
+            "role": "Hertrude Sera Fanoss",
+            "person": {
+                "+content": "Kahina Tagherset",
+                "+@id": "209298"
+            }
+        },
+        {
+            "+@gid": "2276382413",
+            "+@lang": "FR",
+            "role": "Léon Fou Bartford",
+            "person": {
+                "+content": "Jean-Stan Du Pac",
+                "+@id": "222672"
             }
         },
         {
@@ -959,6 +1185,6 @@
         }
     },
     "+@date-added": "2022-12-27T02:59:18Z",
-    "+@date-last-modified-at": "2026-08-23T02:00:26Z",
-    "+@date-last-updated-at": "2026-08-23T02:00:26Z"
+    "+@date-last-modified-at": "2026-09-22T22:58:53Z",
+    "+@date-last-updated-at": "2026-09-22T22:58:53Z"
 }
