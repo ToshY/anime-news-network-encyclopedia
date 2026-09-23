@@ -2,9 +2,9 @@
     "+@id": "38805",
     "+@gid": "2612924440",
     "+@type": "ONA",
-    "+@name": "Matsuken Anime",
+    "+@name": "Matsuken Anime: Kore Seibaishite mo Ii desu ka?",
     "+@precision": "ONA",
-    "+@generated-on": "2026-08-24T01:58:38Z",
+    "+@generated-on": "2026-09-23T04:48:12Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "33364"
@@ -13,50 +13,77 @@
         {
             "+@gid": "2513117026",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38805-2513117026.1774434059.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38805-2513117026.1787706944.jpg",
             "+@width": "200",
-            "+@height": "200",
+            "+@height": "154",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38805-2513117026.1774434059.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38805-2513117026.1787706944.jpg",
                     "+@width": "200",
-                    "+@height": "200"
+                    "+@height": "154"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38805-2513117026.1774434059.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38805-2513117026.1787706944.jpg",
                     "+@width": "500",
-                    "+@height": "500"
+                    "+@height": "384"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38805-2513117026.1774434059.jpg",
-                    "+@width": "800",
-                    "+@height": "800"
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38805-2513117026.1787706944.jpg",
+                    "+@width": "600",
+                    "+@height": "461"
                 }
             ]
         },
         {
-            "+content": "Matsuken Anime",
-            "+@gid": "2252023487",
+            "+content": "Matsuken Anime: Kore Seibaishite mo Ii desu ka?",
+            "+@gid": "2880178007",
             "+@type": "Main title",
             "+@lang": "JA"
         },
         {
-            "+content": "マツケンアニメ",
+            "+content": "マツケンアニメ~コレ成敗してもいいですか？～",
             "+@gid": "1808340584",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
-            "+content": "2026 (summer)",
+            "+content": "2026-08-29",
             "+@gid": "2200532764",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Ken Matsudaira's 'Matsuken Samba' Songs Get Short Net Anime",
-        "+@datetime": "2026-03-25T09:52:38Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-25/ken-matsudaira-matsuken-samba-songs-get-short-net-anime/.235718"
-    },
+    "news": [
+        {
+            "+content": "Ken Matsudaira's 'Matsuken Samba' Songs Get Short Net Anime",
+            "+@datetime": "2026-03-25T09:52:38Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-25/ken-matsudaira-matsuken-samba-songs-get-short-net-anime/.235718"
+        },
+        {
+            "+content": "<cite>Matsuken Anime</cite> Reveals Ken Matsudaira, Sumire Uesaka as Main Cast Members, August 29 Debut",
+            "+@datetime": "2026-08-25T14:00:41Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-25/matsuken-anime-reveals-ken-matsudaira-sumire-uesaka-as-main-cast-members-august-29-debut/.240962"
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "2001439179",
+            "+@lang": "JA",
+            "role": "Matsuken",
+            "person": {
+                "+content": "Ken Matsudaira",
+                "+@id": "101458"
+            }
+        },
+        {
+            "+@gid": "1082240073",
+            "+@lang": "JA",
+            "role": "Matsu Inu",
+            "person": {
+                "+content": "Sumire Uesaka",
+                "+@id": "106108"
+            }
+        }
+    ],
     "credit": [
         {
             "+@gid": "993828740",
@@ -108,5 +135,6 @@
         }
     ],
     "+@date-added": "2026-03-25T06:18:59Z",
-    "+@date-last-updated-at": "2026-08-24T01:58:46Z"
+    "+@date-last-modified-at": "2026-09-23T04:48:17Z",
+    "+@date-last-updated-at": "2026-09-23T04:48:17Z"
 }

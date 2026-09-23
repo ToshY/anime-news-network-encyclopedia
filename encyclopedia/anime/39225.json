@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Ribbon Hero",
     "+@precision": "movie",
-    "+@generated-on": "2026-08-24T01:58:36Z",
+    "+@generated-on": "2026-09-23T04:48:10Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "1340"
@@ -115,8 +115,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "9",
-        "+@weighted_score": "6.3968"
+        "+@nb_votes": "15",
+        "+@weighted_score": "6.3896",
+        "+@bayesian_score": "6.86938"
     },
     "review": {
         "+content": "<cite>The Ribbon Hero</cite> Anime Film Review",
@@ -169,6 +170,22 @@
             }
         },
         {
+            "+@gid": "1540579658",
+            "task": "Script",
+            "person": {
+                "+content": "Yūki Igarashi",
+                "+@id": "293776"
+            }
+        },
+        {
+            "+@gid": "2400973002",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yūki Igarashi",
+                "+@id": "293776"
+            }
+        },
+        {
             "+@gid": "3739742479",
             "task": "Music",
             "person": {
@@ -214,6 +231,102 @@
             "person": {
                 "+content": "Cédric Hérole",
                 "+@id": "109323"
+            }
+        },
+        {
+            "+@gid": "2191651823",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Miyuki Koga",
+                "+@id": "49576"
+            }
+        },
+        {
+            "+@gid": "2909338322",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Issei Arakaki",
+                "+@id": "150864"
+            }
+        },
+        {
+            "+@gid": "3545040235",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Naoyuki Konno",
+                "+@id": "1222"
+            }
+        },
+        {
+            "+@gid": "1775841122",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takao Maki",
+                "+@id": "2781"
+            }
+        },
+        {
+            "+@gid": "3559074913",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kanta Suzuki",
+                "+@id": "53683"
+            }
+        },
+        {
+            "+@gid": "2556141274",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Izumi Kawada",
+                "+@id": "79767"
+            }
+        },
+        {
+            "+@gid": "2235706821",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shunta Sakamoto",
+                "+@id": "84105"
+            }
+        },
+        {
+            "+@gid": "991247971",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Emi Hirano",
+                "+@id": "84999"
+            }
+        },
+        {
+            "+@gid": "652845651",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kimitaka Itō",
+                "+@id": "89279"
+            }
+        },
+        {
+            "+@gid": "1191580538",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Issei Arakaki",
+                "+@id": "150864"
+            }
+        },
+        {
+            "+@gid": "1150742948",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chieh Huang",
+                "+@id": "258020"
+            }
+        },
+        {
+            "+@gid": "1626670869",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Aiu",
+                "+@id": "267860"
             }
         },
         {
@@ -810,6 +923,6 @@
         }
     ],
     "+@date-added": "2026-04-23T08:27:52Z",
-    "+@date-last-modified-at": "2026-08-24T01:58:46Z",
-    "+@date-last-updated-at": "2026-08-24T01:58:46Z"
+    "+@date-last-modified-at": "2026-09-23T04:48:17Z",
+    "+@date-last-updated-at": "2026-09-23T04:48:17Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Yoroi-Shinden Samurai Troopers",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-08-24T01:58:38Z",
+    "+@generated-on": "2026-09-23T04:48:12Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "36518"
@@ -178,6 +178,11 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "2026-07-07 to 2026-09-22",
+            "+@gid": "2485403971",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "\"Bad Idenshi\" (Bad Gene) by Dannie May",
             "+@gid": "2634915816",
             "+@type": "Opening Theme"
@@ -198,8 +203,18 @@
             "+@type": "Insert song"
         },
         {
+            "+content": "\"POWER\" by ONE OR EIGHT (ep 22)",
+            "+@gid": "1615403327",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "\"Runner\" by ASH (ep 18)",
             "+@gid": "2508583102",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Yume wo Shinjite\" (夢を信じて) by ASH (ep 20)",
+            "+@gid": "1370166360",
             "+@type": "Insert song"
         },
         {
@@ -211,8 +226,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "6.7765"
+        "+@nb_votes": "4",
+        "+@weighted_score": "6.5246"
     },
     "episode": [
         {
@@ -276,6 +291,38 @@
             "title": {
                 "+content": "Duty",
                 "+@gid": "1736554514",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "21",
+            "title": {
+                "+content": "Warning",
+                "+@gid": "1320008993",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "22",
+            "title": {
+                "+content": "Love",
+                "+@gid": "1848094209",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "23",
+            "title": {
+                "+content": "True",
+                "+@gid": "2600558699",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "24",
+            "title": {
+                "+content": "Gai",
+                "+@gid": "1933569603",
                 "+@lang": "EN"
             }
         }
@@ -675,6 +722,15 @@
             }
         },
         {
+            "+@gid": "3737977377",
+            "+@lang": "JA",
+            "role": "Yatogojin",
+            "person": {
+                "+content": "Satoshi Mikami",
+                "+@id": "86669"
+            }
+        },
+        {
             "+@gid": "1674164214",
             "+@lang": "JA",
             "role": "Ryūsei Oda",
@@ -857,6 +913,6 @@
         }
     ],
     "+@date-added": "2026-03-24T22:57:50Z",
-    "+@date-last-modified-at": "2026-08-24T01:58:46Z",
-    "+@date-last-updated-at": "2026-08-24T01:58:46Z"
+    "+@date-last-modified-at": "2026-09-23T04:48:17Z",
+    "+@date-last-updated-at": "2026-09-23T04:48:17Z"
 }
