@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Hotel Inhumans",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-08-26T01:59:08Z",
+    "+@generated-on": "2026-09-25T05:00:53Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "33940"
@@ -13,19 +13,24 @@
         {
             "+@gid": "3884641723",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37881-3884641723.1772792539.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37881-3884641723.1788864264.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37881-3884641723.1772792539.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37881-3884641723.1788864264.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37881-3884641723.1772792539.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37881-3884641723.1788864264.jpg",
                     "+@width": "424",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37881-3884641723.1788864264.jpg",
+                    "+@width": "1440",
+                    "+@height": "2036"
                 }
             ]
         },
@@ -47,7 +52,12 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2026-10",
+            "+content": "The best hotels must meet certain standards, including the finest cuisine, ways to relax, and entertainment. Of course, they also need the best selection of weapons, reliable ways to falsify one’s identity, and ways to dispose of evidence. In this hotel at the border of death stand two concierges, Ikuro Hoshi and Sara Haizaki.",
+            "+@gid": "3049344407",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2026-10-04",
             "+@gid": "2571718080",
             "+@type": "Vintage"
         },
@@ -59,11 +69,28 @@
             "+@href": "https://hotel-inhumans.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Hotel Inhumans</cite> Anime's 2nd Season Reveals More Cast, October Debut",
-        "+@datetime": "2026-03-06T10:01:52Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-06/hotel-inhumans-anime-2nd-season-reveals-more-cast-october-debut/.234991"
-    },
+    "news": [
+        {
+            "+content": "<cite>Hotel Inhumans</cite> Anime's 2nd Season Reveals More Cast, October Debut",
+            "+@datetime": "2026-03-06T10:01:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-06/hotel-inhumans-anime-2nd-season-reveals-more-cast-october-debut/.234991"
+        },
+        {
+            "+content": "<cite>Hotel Inhumans</cite> Anime's 2nd Season Reveals Theme Song Artists, October 4 Debut",
+            "+@datetime": "2026-09-08T15:30:03Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-08/hotel-inhumans-anime-2nd-season-reveals-theme-song-artists-october-4-debut/.241515"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Fall 2026 Season",
+            "+@datetime": "2026-09-15T17:52:07Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-15/crunchyroll-announces-release-schedule-for-fall-2026-season/.241811"
+        },
+        {
+            "+content": "<cite>Hotel Inhumans</cite> Anime's 2nd Season Casts Shōya Chiba",
+            "+@datetime": "2026-09-24T14:45:02Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-24/hotel-inhumans-anime-2nd-season-casts-shoya-chiba/.242145"
+        }
+    ],
     "staff": [
         {
             "+@gid": "617796233",
@@ -132,6 +159,15 @@
     ],
     "cast": [
         {
+            "+@gid": "2446110600",
+            "+@lang": "JA",
+            "role": "Subaru Yoda",
+            "person": {
+                "+content": "Shōya Chiba",
+                "+@id": "97379"
+            }
+        },
+        {
             "+@gid": "3652900514",
             "+@lang": "JA",
             "role": "Ikurō Hoshi",
@@ -178,5 +214,6 @@
         }
     ],
     "+@date-added": "2025-09-28T20:08:17Z",
-    "+@date-last-updated-at": "2026-08-26T01:59:11Z"
+    "+@date-last-modified-at": "2026-09-25T05:00:59Z",
+    "+@date-last-updated-at": "2026-09-25T05:00:59Z"
 }
