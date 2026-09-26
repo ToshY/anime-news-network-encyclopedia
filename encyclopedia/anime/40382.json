@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Millennium Family",
     "+@precision": "TV",
-    "+@generated-on": "2026-08-27T09:52:28Z",
+    "+@generated-on": "2026-09-26T13:07:48Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28185"
@@ -55,11 +55,18 @@
             "+@href": "https://sennenkazoku.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Millennium Family</cite> TV Anime Casts Katsuyuki Konishi",
-        "+@datetime": "2026-08-27T09:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-08-27/millennium-family-tv-anime-casts-katsuyuki-konishi/.241039"
-    },
+    "news": [
+        {
+            "+content": "<cite>Millennium Family</cite> TV Anime Casts Katsuyuki Konishi",
+            "+@datetime": "2026-08-27T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-27/millennium-family-tv-anime-casts-katsuyuki-konishi/.241039"
+        },
+        {
+            "+content": "<cite>Millennium Family</cite> TV Anime Casts Ryōta Suzuki",
+            "+@datetime": "2026-09-10T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-10/millennium-family-tv-anime-casts-ryota-suzuki/.241608"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2570878224",
@@ -102,15 +109,35 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "1502714990",
-        "+@lang": "JA",
-        "role": "Theo",
-        "person": {
-            "+content": "Rikuya Yasuda",
-            "+@id": "167211"
+    "cast": [
+        {
+            "+@gid": "323412641",
+            "+@lang": "JA",
+            "role": "Hayden Benfield",
+            "person": {
+                "+content": "Katsuyuki Konishi",
+                "+@id": "780"
+            }
+        },
+        {
+            "+@gid": "1502714990",
+            "+@lang": "JA",
+            "role": "Theo",
+            "person": {
+                "+content": "Rikuya Yasuda",
+                "+@id": "167211"
+            }
+        },
+        {
+            "+@gid": "2910377574",
+            "+@lang": "JA",
+            "role": "Hugo Benfield",
+            "person": {
+                "+content": "Ryōta Suzuki",
+                "+@id": "174131"
+            }
         }
-    },
+    ],
     "credit": {
         "+@gid": "2197827321",
         "task": "Animation Production",
@@ -120,6 +147,6 @@
         }
     },
     "+@date-added": "2026-07-27T05:27:49Z",
-    "+@date-last-modified-at": "2026-08-27T09:52:35Z",
-    "+@date-last-updated-at": "2026-08-27T09:52:35Z"
+    "+@date-last-modified-at": "2026-09-26T13:07:56Z",
+    "+@date-last-updated-at": "2026-09-26T13:07:56Z"
 }
