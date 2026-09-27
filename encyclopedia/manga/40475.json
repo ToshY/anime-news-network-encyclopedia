@@ -2,19 +2,23 @@
     "+@id": "40475",
     "+@gid": "1872417908",
     "+@type": "manga",
-    "+@name": "Ura no Report",
+    "+@name": "Ura Files",
     "+@precision": "manga",
-    "+@generated-on": "2026-08-28T11:26:22Z",
+    "+@generated-on": "2026-09-27T14:00:45Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "1363"
+    },
     "info": [
         {
-            "+content": "Ura no Report",
-            "+@gid": "2835974607",
+            "+content": "The Ura Files",
+            "+@gid": "2839139812",
             "+@type": "Main title",
             "+@lang": "EN"
         },
         {
-            "+content": "The Ura Files",
-            "+@gid": "2839139812",
+            "+content": "Ura no Report",
+            "+@gid": "2835974607",
             "+@type": "Alternative title",
             "+@lang": "EN"
         },
@@ -33,6 +37,23 @@
             "+content": "romance",
             "+@gid": "1593278793",
             "+@type": "Genres"
+        },
+        {
+            "+content": "2026-08-31 (serialized in Weekly Shonen Jump, 2026 #40)",
+            "+@gid": "3104193956",
+            "+@type": "Vintage"
+        }
+    ],
+    "news": [
+        {
+            "+content": "<cite>Super Psychic Policeman Chojo's</cite> Shun Numa, <cite>Teenage Renaissance! David's</cite> Yūshin Kuroki Launch New Manga",
+            "+@datetime": "2026-08-26T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-26/super-psychic-policeman-chojo-shun-numa-teenage-renaissance-david-yushin-kuroki-launch-new-manga/.240999"
+        },
+        {
+            "+content": "Manga Plus Adds <cite>KAKAKAKA</cite>, <cite>The Ura Files</cite>, <cite>Noisering</cite>, 1 More Title",
+            "+@datetime": "2026-09-22T23:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-22/manga-plus-adds-kakakaka-the-ura-files-noisering-1-more-title/.242092"
         }
     ],
     "staff": [
@@ -54,5 +75,6 @@
         }
     ],
     "+@date-added": "2026-08-27T15:34:56Z",
-    "+@date-last-updated-at": "2026-08-28T11:26:23Z"
+    "+@date-last-modified-at": "2026-09-27T14:00:47Z",
+    "+@date-last-updated-at": "2026-09-27T14:00:47Z"
 }
