@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Saga of Tanya the Evil II",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-08-26T23:36:35Z",
+    "+@generated-on": "2026-09-27T19:12:06Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "20509"
+    },
+    "related-next": {
+        "+@id": "40571",
+        "+@rel": "compilation"
     },
     "info": [
         {
@@ -162,8 +166,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "7.1876"
+        "+@nb_votes": "41",
+        "+@weighted_score": "7.9804",
+        "+@bayesian_score": "7.86461"
     },
     "episode": [
         {
@@ -221,6 +226,46 @@
                 "+@gid": "746034035",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "Torpedo Strike",
+                "+@gid": "1373102871",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "Sightseeing Tour",
+                "+@gid": "1311165364",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "A Way to Survive",
+                "+@gid": "2577549659",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "Hourglass",
+                "+@gid": "2410226665",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Deguchi",
+                "+@gid": "3837674515",
+                "+@lang": "JA"
+            }
         }
     ],
     "news": [
@@ -263,6 +308,11 @@
             "+content": "Anime Times Streams <cite>Though I Am an Inept Villainess</cite>,  <cite>Grand Blue Dreaming</cite>, More Anime in India",
             "+@datetime": "2026-07-09T14:20:56Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-07-09/anime-times-streams-though-i-am-an-inept-villainess-grand-blue-dreaming-more-anime-in-india/.239423"
+        },
+        {
+            "+content": "<cite>Saga of Tanya the Evil II</cite> Anime Gets English Dub",
+            "+@datetime": "2026-09-10T09:03:41Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-10/saga-of-tanya-the-evil-ii-anime-gets-english-dub/.241592"
         }
     ],
     "staff": [
@@ -288,6 +338,150 @@
             "person": {
                 "+content": "Kenta Ihara",
                 "+@id": "130920"
+            }
+        },
+        {
+            "+@gid": "3333532635",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Nagisa Miyazaki",
+                "+@id": "714"
+            }
+        },
+        {
+            "+@gid": "2798416567",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shinichi Kurita",
+                "+@id": "63641"
+            }
+        },
+        {
+            "+@gid": "2011101321",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kei Miura",
+                "+@id": "97626"
+            }
+        },
+        {
+            "+@gid": "1632983517",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Satoshi Matsubara",
+                "+@id": "141672"
+            }
+        },
+        {
+            "+@gid": "1997659322",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takayuki Yamamoto",
+                "+@id": "153946"
+            }
+        },
+        {
+            "+@gid": "1730931427",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yūsuke Kubo",
+                "+@id": "165366"
+            }
+        },
+        {
+            "+@gid": "1252336268",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Koyo Ogata",
+                "+@id": "170684"
+            }
+        },
+        {
+            "+@gid": "2803530782",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hiromatsu Shū",
+                "+@id": "174087"
+            }
+        },
+        {
+            "+@gid": "2045808556",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shunpei Umemoto",
+                "+@id": "199500"
+            }
+        },
+        {
+            "+@gid": "1185766203",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Umi Fujisawa",
+                "+@id": "302472"
+            }
+        },
+        {
+            "+@gid": "2282990396",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kazuomi Koga",
+                "+@id": "55117"
+            }
+        },
+        {
+            "+@gid": "1318399768",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kei Miura",
+                "+@id": "97626"
+            }
+        },
+        {
+            "+@gid": "1774139566",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Satoshi Matsubara",
+                "+@id": "141672"
+            }
+        },
+        {
+            "+@gid": "2727018396",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takayuki Yamamoto",
+                "+@id": "153946"
+            }
+        },
+        {
+            "+@gid": "2945533558",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Koyo Ogata",
+                "+@id": "170684"
+            }
+        },
+        {
+            "+@gid": "2389679990",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shunpei Umemoto",
+                "+@id": "199500"
+            }
+        },
+        {
+            "+@gid": "3472674236",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tomoaki Takatsudo",
+                "+@id": "200331"
+            }
+        },
+        {
+            "+@gid": "2803913418",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Madoka Yaguchi",
+                "+@id": "221899"
             }
         },
         {
@@ -372,6 +566,213 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "1644627554",
+            "+@lang": "EN",
+            "role": "Hans von Zettour",
+            "person": {
+                "+content": "Jason Douglas",
+                "+@id": "1064"
+            }
+        },
+        {
+            "+@gid": "2443831003",
+            "+@lang": "EN",
+            "role": "Tanya Degurechaff",
+            "person": {
+                "+content": "Monica Rial",
+                "+@id": "2074"
+            }
+        },
+        {
+            "+@gid": "1229501134",
+            "+@lang": "EN",
+            "role": "William Douglas Drake",
+            "person": {
+                "+content": "David Matranga",
+                "+@id": "9293"
+            }
+        },
+        {
+            "+@gid": "1952815400",
+            "+@lang": "EN",
+            "role": "Warren Grantz",
+            "person": {
+                "+content": "Jeff Johnson",
+                "+@id": "30708"
+            }
+        },
+        {
+            "+@gid": "1378826355",
+            "+@lang": "EN",
+            "role": "Kurt von Rudersdorf",
+            "person": {
+                "+content": "Greg Dulcie",
+                "+@id": "53345"
+            }
+        },
+        {
+            "+@gid": "3140684479",
+            "+@lang": "EN",
+            "role": "Erich von Rerugen",
+            "person": {
+                "+content": "J. Michael Tatum",
+                "+@id": "65527"
+            }
+        },
+        {
+            "+@gid": "2333753088",
+            "+@lang": "EN",
+            "role": "Rhiner Neumann",
+            "person": {
+                "+content": "Ben Phillips",
+                "+@id": "70546"
+            }
+        },
+        {
+            "+@gid": "2923016209",
+            "+@lang": "EN",
+            "role": "Mary Sue",
+            "person": {
+                "+content": "Tia Ballard",
+                "+@id": "81350"
+            }
+        },
+        {
+            "+@gid": "580805025",
+            "+@lang": "EN",
+            "role": "Matheus Johann Weiss",
+            "person": {
+                "+content": "Daman Mills",
+                "+@id": "134672"
+            }
+        },
+        {
+            "+@gid": "3656037257",
+            "+@lang": "EN",
+            "role": "Wilibald Koenig",
+            "person": {
+                "+content": "Christopher Wehkamp",
+                "+@id": "141959"
+            }
+        },
+        {
+            "+@gid": "2221364192",
+            "+@lang": "EN",
+            "role": "Viktoriya Ivanovna \"Visha\" Serebryakov",
+            "person": {
+                "+content": "Jeannie Tirado",
+                "+@id": "144674"
+            }
+        },
+        {
+            "+@gid": "2410704441",
+            "+@lang": "FR",
+            "role": "Erich von Rerugen",
+            "person": {
+                "+content": "Alexandre Crépet",
+                "+@id": "52982"
+            }
+        },
+        {
+            "+@gid": "1061423926",
+            "+@lang": "FR",
+            "role": "Tanya von Degurechaff",
+            "person": {
+                "+content": "Claire Tefnin",
+                "+@id": "53859"
+            }
+        },
+        {
+            "+@gid": "1529547932",
+            "+@lang": "FR",
+            "role": "Hans von Zettour",
+            "person": {
+                "+content": "Franck Daquin",
+                "+@id": "59340"
+            }
+        },
+        {
+            "+@gid": "404081302",
+            "+@lang": "FR",
+            "role": "Viktoriya Ivanovna \"Visha\" Serebryakov",
+            "person": {
+                "+content": "Elisabeth Guinand",
+                "+@id": "60941"
+            }
+        },
+        {
+            "+@gid": "1416956548",
+            "+@lang": "FR",
+            "role": "Kurt von Rudersdorf",
+            "person": {
+                "+content": "Jean-Michel Vovk",
+                "+@id": "66571"
+            }
+        },
+        {
+            "+@gid": "522698537",
+            "+@lang": "FR",
+            "role": "Loria",
+            "person": {
+                "+content": "Michel Hinderyckx",
+                "+@id": "71691"
+            }
+        },
+        {
+            "+@gid": "3505281548",
+            "+@lang": "FR",
+            "role": "Matheus Johan Weiss",
+            "person": {
+                "+content": "Antoni LoPresti",
+                "+@id": "109195"
+            }
+        },
+        {
+            "+@gid": "1637126806",
+            "+@lang": "FR",
+            "role": "Rhiner Neumann",
+            "person": {
+                "+content": "Arnaud Crevecoeur",
+                "+@id": "113108"
+            }
+        },
+        {
+            "+@gid": "2458096528",
+            "+@lang": "FR",
+            "role": "William Douglas Drake",
+            "person": {
+                "+content": "Nicolas Matthys",
+                "+@id": "114851"
+            }
+        },
+        {
+            "+@gid": "1310930410",
+            "+@lang": "FR",
+            "role": "Wilibald Koenig",
+            "person": {
+                "+content": "Olivier premel",
+                "+@id": "126589"
+            }
+        },
+        {
+            "+@gid": "2179608643",
+            "+@lang": "FR",
+            "role": "Mary Sue",
+            "person": {
+                "+content": "Ludivine Deworst",
+                "+@id": "152463"
+            }
+        },
+        {
+            "+@gid": "3300112510",
+            "+@lang": "FR",
+            "role": "Warren Grantz",
+            "person": {
+                "+content": "Maxime Van Stantfoort",
+                "+@id": "152792"
+            }
+        },
         {
             "+@gid": "1331308877",
             "+@lang": "JA",
@@ -508,6 +909,6 @@
         }
     },
     "+@date-added": "2021-06-19T15:50:26Z",
-    "+@date-last-modified-at": "2026-08-26T23:36:38Z",
-    "+@date-last-updated-at": "2026-08-26T23:36:38Z"
+    "+@date-last-modified-at": "2026-09-27T19:46:35Z",
+    "+@date-last-updated-at": "2026-09-27T19:46:35Z"
 }
