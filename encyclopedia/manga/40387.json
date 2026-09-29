@@ -4,12 +4,42 @@
     "+@type": "manga",
     "+@name": "Sonic the Hedgehog: The Blade of Courage",
     "+@precision": "manga",
-    "+@generated-on": "2026-08-30T05:27:03Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "26115"
-    },
+    "+@generated-on": "2026-09-29T10:42:51Z",
+    "related-prev": [
+        {
+            "+@rel": "related to",
+            "+@id": "221"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "26115"
+        }
+    ],
     "info": [
+        {
+            "+@gid": "2799072745",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40387-2799072745.1788843620.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40387-2799072745.1788843620.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40387-2799072745.1788843620.jpg",
+                    "+@width": "423",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A40387-2799072745.1788843620.jpg",
+                    "+@width": "1058",
+                    "+@height": "1500"
+                }
+            ]
+        },
         {
             "+content": "Sonic the Hedgehog: The Blade of Courage",
             "+@gid": "1153544468",
@@ -32,13 +62,25 @@
             "+content": "action",
             "+@gid": "2073619653",
             "+@type": "Genres"
+        },
+        {
+            "+content": "2025-06-13 (serialized in CoroCoro Comic, Jul 2025)",
+            "+@gid": "1667827901",
+            "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "IDW Licenses <cite>Sonic the Hedgehog: The Blade of Courage</cite> Manga",
-        "+@datetime": "2026-07-29T19:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-07-29/idw-licenses-sonic-the-hedgehog-the-blade-of-courage-manga/.240088"
-    },
+    "news": [
+        {
+            "+content": "Yūki Imada Launches New <cite>Sonic the Hedgehog</cite> Manga",
+            "+@datetime": "2025-05-14T19:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-05-14/yuki-imada-launches-new-sonic-the-hedgehog-manga/.224444"
+        },
+        {
+            "+content": "IDW Licenses <cite>Sonic the Hedgehog: The Blade of Courage</cite> Manga",
+            "+@datetime": "2026-07-29T19:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-29/idw-licenses-sonic-the-hedgehog-the-blade-of-courage-manga/.240088"
+        }
+    ],
     "staff": {
         "+@gid": "1624687405",
         "task": "Story & Art",
@@ -48,5 +90,6 @@
         }
     },
     "+@date-added": "2026-07-30T11:42:21Z",
-    "+@date-last-updated-at": "2026-08-30T05:27:05Z"
+    "+@date-last-modified-at": "2026-09-29T10:42:52Z",
+    "+@date-last-updated-at": "2026-09-29T10:42:52Z"
 }
