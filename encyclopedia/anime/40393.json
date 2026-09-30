@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Yūsanchi! from Yū-hachi",
     "+@precision": "TV",
-    "+@generated-on": "2026-08-31T05:39:09Z",
+    "+@generated-on": "2026-09-30T14:57:00Z",
     "related-prev": [
         {
             "+@rel": "adapted from",
@@ -23,18 +23,18 @@
         {
             "+@gid": "1810702338",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40393-1810702338.1785479604.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40393-1810702338.1789200500.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40393-1810702338.1785479604.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40393-1810702338.1789200500.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40393-1810702338.1785479604.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40393-1810702338.1789200500.jpg",
+                    "+@width": "425",
                     "+@height": "600"
                 }
             ]
@@ -57,7 +57,7 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026-10",
+            "+content": "2026-10-05",
             "+@gid": "2586734555",
             "+@type": "Vintage"
         },
@@ -69,11 +69,18 @@
             "+@href": "https://yusanchi-anime.jp/"
         }
     ],
-    "news": {
-        "+content": "3 of Yū-hachi's Manga Get <cite>Yūsanchi!</cite> Omnibus Short Anime in October",
-        "+@datetime": "2026-07-31T04:54:24Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-07-31/3-of-yu-hachi-manga-get-yusanchi-omnibus-short-anime-in-october/.240133"
-    },
+    "news": [
+        {
+            "+content": "3 of Yū-hachi's Manga Get <cite>Yūsanchi!</cite> Omnibus Short Anime in October",
+            "+@datetime": "2026-07-31T04:54:24Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-31/3-of-yu-hachi-manga-get-yusanchi-omnibus-short-anime-in-october/.240133"
+        },
+        {
+            "+content": "<cite>Yūsanchi! from Yū-hachi</cite> TV Anime Reveals October 5 Debut, Main Cast in Promo Video",
+            "+@datetime": "2026-09-12T07:55:25Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-12/yusanchi-from-yu-hachi-tv-anime-reveals-october-5-debut-main-cast-in-promo-video/.241693"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2383717602",
@@ -108,11 +115,93 @@
             }
         },
         {
+            "+@gid": "2451563525",
+            "task": "Music",
+            "person": {
+                "+content": "Yuri Habuka",
+                "+@id": "135350"
+            }
+        },
+        {
             "+@gid": "1232842575",
             "task": "Original creator",
             "person": {
                 "+content": "Yū-hachi",
                 "+@id": "273036"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "717323964",
+            "+@lang": "JA",
+            "role": "Dekai Hachi",
+            "person": {
+                "+content": "Chiaki",
+                "+@id": "52367"
+            }
+        },
+        {
+            "+@gid": "1283717265",
+            "+@lang": "JA",
+            "role": "The Wisdom of the Internet",
+            "person": {
+                "+content": "Chiaki",
+                "+@id": "52367"
+            }
+        },
+        {
+            "+@gid": "1645847808",
+            "+@lang": "JA",
+            "role": "Fusu-chan",
+            "person": {
+                "+content": "Kenta Sasa",
+                "+@id": "106159"
+            }
+        },
+        {
+            "+@gid": "3754677162",
+            "+@lang": "JA",
+            "role": "Store Owner",
+            "person": {
+                "+content": "Kenta Sasa",
+                "+@id": "106159"
+            }
+        },
+        {
+            "+@gid": "1959172098",
+            "+@lang": "JA",
+            "role": "Energetic Male High School Student",
+            "person": {
+                "+content": "Ryōta Suzuki",
+                "+@id": "174131"
+            }
+        },
+        {
+            "+@gid": "1249138953",
+            "+@lang": "JA",
+            "role": "Oniisan",
+            "person": {
+                "+content": "Ryōta Suzuki",
+                "+@id": "174131"
+            }
+        },
+        {
+            "+@gid": "1535518741",
+            "+@lang": "JA",
+            "role": "Tanuki",
+            "person": {
+                "+content": "Fūka Izumi",
+                "+@id": "201580"
+            }
+        },
+        {
+            "+@gid": "1848863303",
+            "+@lang": "JA",
+            "role": "Jirai-chan",
+            "person": {
+                "+content": "Hina Kawata",
+                "+@id": "301935"
             }
         }
     ],
@@ -125,5 +214,6 @@
         }
     },
     "+@date-added": "2026-07-31T02:32:23Z",
-    "+@date-last-updated-at": "2026-08-31T05:39:13Z"
+    "+@date-last-modified-at": "2026-09-30T14:57:06Z",
+    "+@date-last-updated-at": "2026-09-30T14:57:06Z"
 }
