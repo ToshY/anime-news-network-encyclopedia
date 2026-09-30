@@ -2,19 +2,23 @@
     "+@id": "23864",
     "+@gid": "3222170912",
     "+@type": "ONA",
-    "+@name": "Hetalia World Stars",
+    "+@name": "Hetalia World★Stars",
     "+@precision": "ONA",
-    "+@generated-on": "2026-08-30T05:27:09Z",
+    "+@generated-on": "2026-09-30T05:36:03Z",
     "related-prev": [
-        {
-            "+@rel": "sequel of",
-            "+@id": "16636"
-        },
         {
             "+@rel": "adapted from",
             "+@id": "17509"
+        },
+        {
+            "+@rel": "sequel of",
+            "+@id": "40499"
         }
     ],
+    "related-next": {
+        "+@id": "40500",
+        "+@rel": "sequel"
+    },
     "info": [
         {
             "+@gid": "1953973256",
@@ -41,7 +45,7 @@
             ]
         },
         {
-            "+content": "Hetalia World Stars",
+            "+content": "Hetalia World★Stars",
             "+@gid": "3351365796",
             "+@type": "Main title",
             "+@lang": "EN"
@@ -51,6 +55,11 @@
             "+@gid": "757595419",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "12",
+            "+@gid": "1665038996",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2021-04-01",
@@ -68,7 +77,7 @@
     "ratings": {
         "+@nb_votes": "16",
         "+@weighted_score": "6.5575",
-        "+@bayesian_score": "6.94827"
+        "+@bayesian_score": "6.94819"
     },
     "release": {
         "+content": "Hetalia World Stars (Blu-ray)",
@@ -509,6 +518,15 @@
             }
         },
         {
+            "+@gid": "2244034834",
+            "+@lang": "EN",
+            "role": "Luxembourg",
+            "person": {
+                "+content": "Derick Snow",
+                "+@id": "135734"
+            }
+        },
+        {
             "+@gid": "799351990",
             "+@lang": "EN",
             "role": "Portugal",
@@ -761,6 +779,6 @@
         }
     },
     "+@date-added": "2020-12-19T21:33:33Z",
-    "+@date-last-modified-at": "2026-08-30T05:27:14Z",
-    "+@date-last-updated-at": "2026-08-30T05:27:14Z"
+    "+@date-last-modified-at": "2026-09-30T05:36:04Z",
+    "+@date-last-updated-at": "2026-09-30T05:36:04Z"
 }
