@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Daemons of the Shadow Realm",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-01T13:31:04Z",
+    "+@generated-on": "2026-10-01T15:28:38Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25181"
+    },
+    "related-next": {
+        "+@id": "40558",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -174,9 +178,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "20",
-        "+@weighted_score": "6.4319",
-        "+@bayesian_score": "6.82093"
+        "+@nb_votes": "58",
+        "+@weighted_score": "7.2298",
+        "+@bayesian_score": "7.27362"
     },
     "episode": [
         {
@@ -346,6 +350,30 @@
                 "+@gid": "2244042967",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "22",
+            "title": {
+                "+content": "The Kagemori Brothers and the Kuroya Siblings",
+                "+@gid": "2458995430",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "23",
+            "title": {
+                "+content": "Emotion and Reason",
+                "+@gid": "1777826072",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "24",
+            "title": {
+                "+content": "Higashi Village and Nishino Village",
+                "+@gid": "2374154504",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -428,6 +456,11 @@
             "+content": "<cite>Daemons of the Shadow Realm</cite> Anime's New Video Announces Next Theme Songs",
             "+@datetime": "2026-06-27T16:21:48Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-06-27/daemons-of-the-shadow-realm-anime-new-video-announces-next-theme-songs/.239028"
+        },
+        {
+            "+content": "<cite>Daemons of the Shadow Realm</cite> Anime Gets 2nd Season",
+            "+@datetime": "2026-09-19T15:43:09Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-19/daemons-of-the-shadow-realm-anime-gets-2nd-season/.241990"
         }
     ],
     "staff": [
@@ -445,6 +478,222 @@
             "person": {
                 "+content": "Noboru Takagi",
                 "+@id": "18669"
+            }
+        },
+        {
+            "+@gid": "2629229540",
+            "task": "Script",
+            "person": {
+                "+content": "Chiaki J. Konaka",
+                "+@id": "157"
+            }
+        },
+        {
+            "+@gid": "2457066770",
+            "task": "Script",
+            "person": {
+                "+content": "Noboru Takagi",
+                "+@id": "18669"
+            }
+        },
+        {
+            "+@gid": "3450638507",
+            "task": "Script",
+            "person": {
+                "+content": "Daishirō Tanimura",
+                "+@id": "77471"
+            }
+        },
+        {
+            "+@gid": "1454801960",
+            "task": "Script",
+            "person": {
+                "+content": "Shingo Irie",
+                "+@id": "109730"
+            }
+        },
+        {
+            "+@gid": "1598487367",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hiroshi Shimizu",
+                "+@id": "1715"
+            }
+        },
+        {
+            "+@gid": "2297943506",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Masahiro Andō",
+                "+@id": "3027"
+            }
+        },
+        {
+            "+@gid": "2824438973",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Junichi Sakata",
+                "+@id": "7343"
+            }
+        },
+        {
+            "+@gid": "3313616239",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hideyo Yamamoto",
+                "+@id": "15161"
+            }
+        },
+        {
+            "+@gid": "3729112172",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shinji Ishihira",
+                "+@id": "28779"
+            }
+        },
+        {
+            "+@gid": "2076633470",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Koji Nagatomi",
+                "+@id": "56033"
+            }
+        },
+        {
+            "+@gid": "2634702456",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Daigo Yamagishi",
+                "+@id": "79628"
+            }
+        },
+        {
+            "+@gid": "1843428612",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shinya Iino",
+                "+@id": "111063"
+            }
+        },
+        {
+            "+@gid": "2968055619",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tomoyo Kamoi",
+                "+@id": "143495"
+            }
+        },
+        {
+            "+@gid": "3252547915",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Jong Heo",
+                "+@id": "178586"
+            }
+        },
+        {
+            "+@gid": "2102647304",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hiroshi Shimizu",
+                "+@id": "1715"
+            }
+        },
+        {
+            "+@gid": "2394496475",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Masahiro Andō",
+                "+@id": "3027"
+            }
+        },
+        {
+            "+@gid": "1714286490",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ikurō Satō",
+                "+@id": "5866"
+            }
+        },
+        {
+            "+@gid": "3205324557",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Katsuya Yamamoto",
+                "+@id": "35942"
+            }
+        },
+        {
+            "+@gid": "2411642577",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Koji Nagatomi",
+                "+@id": "56033"
+            }
+        },
+        {
+            "+@gid": "2895702041",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shouji Ikeno",
+                "+@id": "75017"
+            }
+        },
+        {
+            "+@gid": "1285459391",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Daigo Yamagishi",
+                "+@id": "79628"
+            }
+        },
+        {
+            "+@gid": "3097002798",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yukihiko Asaki",
+                "+@id": "85201"
+            }
+        },
+        {
+            "+@gid": "1859171888",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ai Hasegawa",
+                "+@id": "129844"
+            }
+        },
+        {
+            "+@gid": "2731251433",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tomoyo Kamoi",
+                "+@id": "143495"
+            }
+        },
+        {
+            "+@gid": "2697656080",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Sho Kitamura",
+                "+@id": "186012"
+            }
+        },
+        {
+            "+@gid": "2859241320",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kōsuke Shimotori",
+                "+@id": "222584"
+            }
+        },
+        {
+            "+@gid": "980321100",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Haruka Yoshinaga",
+                "+@id": "271483"
             }
         },
         {
@@ -685,15 +934,6 @@
             }
         },
         {
-            "+@gid": "1581526944",
-            "+@lang": "EN",
-            "role": "Makoto Tachikawa",
-            "person": {
-                "+content": "Ali Macaulay",
-                "+@id": "295677"
-            }
-        },
-        {
             "+@gid": "425838321",
             "+@lang": "ES",
             "role": "Jin Kagemori",
@@ -709,6 +949,15 @@
             "person": {
                 "+content": "Silvia Cabrera",
                 "+@id": "69006"
+            }
+        },
+        {
+            "+@gid": "3750171324",
+            "+@lang": "ES",
+            "role": "Hana Danno",
+            "person": {
+                "+content": "Eva Bau",
+                "+@id": "69008"
             }
         },
         {
@@ -1108,6 +1357,33 @@
             }
         },
         {
+            "+@gid": "1745792063",
+            "+@lang": "IT",
+            "role": "Fuyuki Kuroya",
+            "person": {
+                "+content": "Francesco Fabbri",
+                "+@id": "174804"
+            }
+        },
+        {
+            "+@gid": "3319691084",
+            "+@lang": "IT",
+            "role": "Kiri",
+            "person": {
+                "+content": "Sara Imbriani",
+                "+@id": "174953"
+            }
+        },
+        {
+            "+@gid": "764738975",
+            "+@lang": "IT",
+            "role": "Danji",
+            "person": {
+                "+content": "Giorgia Venditti",
+                "+@id": "183561"
+            }
+        },
+        {
             "+@gid": "4088709200",
             "+@lang": "IT",
             "role": "Gonzo Kagemori",
@@ -1141,6 +1417,15 @@
             "person": {
                 "+content": "Mattia Billi",
                 "+@id": "226693"
+            }
+        },
+        {
+            "+@gid": "1799172907",
+            "+@lang": "IT",
+            "role": "Makoto",
+            "person": {
+                "+content": "Sofia Alexandra Porta",
+                "+@id": "241268"
             }
         },
         {
@@ -1279,15 +1564,6 @@
             }
         },
         {
-            "+@gid": "2883975792",
-            "+@lang": "JA",
-            "role": "Makoto Tachikawa",
-            "person": {
-                "+content": "Reina Kondo",
-                "+@id": "142173"
-            }
-        },
-        {
             "+@gid": "3384991151",
             "+@lang": "JA",
             "role": "Fuyuki Kuroya",
@@ -1324,6 +1600,6 @@
         }
     },
     "+@date-added": "2025-07-05T23:01:09Z",
-    "+@date-last-modified-at": "2026-09-01T13:31:07Z",
-    "+@date-last-updated-at": "2026-09-01T13:31:07Z"
+    "+@date-last-modified-at": "2026-10-01T15:28:43Z",
+    "+@date-last-updated-at": "2026-10-01T15:28:43Z"
 }

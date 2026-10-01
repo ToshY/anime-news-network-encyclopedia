@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Seven Knights of the Marronnier Kingdom",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-01T13:31:04Z",
+    "+@generated-on": "2026-10-01T14:45:30Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "33708"
@@ -58,7 +58,8 @@
             "+@type": "Genres"
         },
         {
-            "+content": "Seven brothers are knights of the Marronnier Kingdom. The kingdom lies in the center of a group of eight kingdoms, and each brother is dispatched to a different kingdom as an ambassador to go on an adventure to find their fated partner. The brothers are named: Nemukunai (Not Sleepy), Hakuai (Benevolent), Atsugariya (Sensitive to Heat), Samugariya (Sensitive to Cold), Kemono Tsukai (Beast Tamer), Tsurugi Jiman (Sword Pride), and Harapeko (Hungry). <em class=de-emphasized>(from manga)</em>",
+            "+content": "At the heart of a continent of eight kingdoms lies the Marronnier Kingdom. Its general, Baribara, has seven sons, each with a unique gift and serving as a knight commander. Bound by a single noble cause of heroically rescuing a princess someday, the brothers set out as goodwill ambassadors to the seven neighboring kingdoms.",
+            "+@gid": "1618542406",
             "+@type": "Plot Summary"
         },
         {
@@ -72,6 +73,11 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "\"Sayonara wa Iwanai\" (さよならは言わない) by yama",
+            "+@gid": "794298942",
+            "+@type": "Opening Theme"
+        },
+        {
             "+content": "アニメ『マロニエ王国の七人の騎士』公式サイト",
             "+@gid": "1078554171",
             "+@type": "Official website",
@@ -79,11 +85,18 @@
             "+@href": "https://www.nhk-character.com/chara/marronnier/"
         }
     ],
-    "news": {
-        "+content": "<cite>The Seven Knights of the Marronnier Kingdom</cite> Anime's Video Unveils Cast, October 3 Debut",
-        "+@datetime": "2026-08-10T09:48:12Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-08-10/the-seven-knights-of-the-marronnier-kingdom-anime-video-unveils-cast-october-3-debut/.240441"
-    },
+    "news": [
+        {
+            "+content": "<cite>The Seven Knights of the Marronnier Kingdom</cite> Anime's Video Unveils Cast, October 3 Debut",
+            "+@datetime": "2026-08-10T09:48:12Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-10/the-seven-knights-of-the-marronnier-kingdom-anime-video-unveils-cast-october-3-debut/.240441"
+        },
+        {
+            "+content": "<cite>The Seven Knights of the Marronnier Kingdom</cite> Anime Reveals More Cast Members, Opening Song in 2nd Trailer",
+            "+@datetime": "2026-09-07T09:33:59Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-07/the-seven-knights-of-the-marronnier-kingdom-anime-reveals-more-cast-members-opening-song-in-2nd-/.241484"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2539397446",
@@ -144,12 +157,48 @@
     ],
     "cast": [
         {
+            "+@gid": "2376316498",
+            "+@lang": "JA",
+            "role": "Elliot (Chamberlain)",
+            "person": {
+                "+content": "Takehito Koyasu",
+                "+@id": "662"
+            }
+        },
+        {
+            "+@gid": "3747763515",
+            "+@lang": "JA",
+            "role": "Peregrinus",
+            "person": {
+                "+content": "Daisuke Namikawa",
+                "+@id": "1289"
+            }
+        },
+        {
             "+@gid": "3494537318",
             "+@lang": "JA",
             "role": "Baribara",
             "person": {
                 "+content": "Akeno Watanabe",
                 "+@id": "6844"
+            }
+        },
+        {
+            "+@gid": "2043124815",
+            "+@lang": "JA",
+            "role": "Lionel (King)",
+            "person": {
+                "+content": "Hiroshi Tsuchida",
+                "+@id": "17695"
+            }
+        },
+        {
+            "+@gid": "3512014234",
+            "+@lang": "JA",
+            "role": "Hugo (Prime Minister)",
+            "person": {
+                "+content": "Kazuyuki Okitsu",
+                "+@id": "67851"
             }
         },
         {
@@ -171,6 +220,15 @@
             }
         },
         {
+            "+@gid": "1043013786",
+            "+@lang": "JA",
+            "role": "Princess Brünhild",
+            "person": {
+                "+content": "Natsumi Fujiwara",
+                "+@id": "109744"
+            }
+        },
+        {
             "+@gid": "2374671235",
             "+@lang": "JA",
             "role": "Atsugariya (Feverish)",
@@ -180,12 +238,30 @@
             }
         },
         {
+            "+@gid": "2699015502",
+            "+@lang": "JA",
+            "role": "Lavinia (Wet Nurse)",
+            "person": {
+                "+content": "Kyō Yaoya",
+                "+@id": "128352"
+            }
+        },
+        {
             "+@gid": "2067320621",
             "+@lang": "JA",
             "role": "Samugariya (Chilly)",
             "person": {
                 "+content": "Satoshi Inomata",
                 "+@id": "143873"
+            }
+        },
+        {
+            "+@gid": "1622583793",
+            "+@lang": "JA",
+            "role": "Anna Marie",
+            "person": {
+                "+content": "Maki Kawase",
+                "+@id": "145029"
             }
         },
         {
@@ -214,6 +290,15 @@
                 "+content": "Kiyoto Mizuno",
                 "+@id": "233910"
             }
+        },
+        {
+            "+@gid": "1741743874",
+            "+@lang": "JA",
+            "role": "Eleonora",
+            "person": {
+                "+content": "Miyuki Sakurai",
+                "+@id": "244261"
+            }
         }
     ],
     "credit": {
@@ -225,6 +310,6 @@
         }
     },
     "+@date-added": "2026-06-01T05:56:07Z",
-    "+@date-last-modified-at": "2026-09-01T13:31:07Z",
-    "+@date-last-updated-at": "2026-09-01T13:31:07Z"
+    "+@date-last-modified-at": "2026-10-01T15:28:43Z",
+    "+@date-last-updated-at": "2026-10-01T15:28:43Z"
 }
