@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Sparks of Tomorrow",
     "+@precision": "TV",
-    "+@generated-on": "2026-08-31T21:29:22Z",
+    "+@generated-on": "2026-10-01T05:59:14Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "37940"
@@ -150,8 +150,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "7",
-        "+@weighted_score": "5.5551"
+        "+@nb_votes": "27",
+        "+@weighted_score": "5.6423",
+        "+@bayesian_score": "6.23601"
     },
     "news": [
         {
@@ -260,6 +261,14 @@
             "person": {
                 "+content": "Tatsuya Ishihara",
                 "+@id": "9087"
+            }
+        },
+        {
+            "+@gid": "1570374253",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Noriyuki Kitanohara",
+                "+@id": "39701"
             }
         },
         {
@@ -556,15 +565,6 @@
             "person": {
                 "+content": "Jamie Lee Blank",
                 "+@id": "300683"
-            }
-        },
-        {
-            "+@gid": "1220439768",
-            "+@lang": "EN",
-            "role": "Inari",
-            "person": {
-                "+content": "Debi Derryberry",
-                "+@id": "1421"
             }
         },
         {
@@ -991,6 +991,15 @@
             }
         },
         {
+            "+@gid": "845839643",
+            "+@lang": "IT",
+            "role": "Izo Masubuchi",
+            "person": {
+                "+content": "Emanuele Ruzza",
+                "+@id": "144488"
+            }
+        },
+        {
             "+@gid": "1745226415",
             "+@lang": "IT",
             "role": "Yajirō Yagura",
@@ -1027,12 +1036,30 @@
             }
         },
         {
+            "+@gid": "2860647339",
+            "+@lang": "IT",
+            "role": "Saki Mizoe",
+            "person": {
+                "+content": "Sara Imbriani",
+                "+@id": "174953"
+            }
+        },
+        {
             "+@gid": "196198294",
             "+@lang": "IT",
             "role": "Tome",
             "person": {
                 "+content": "Valentina De Marchi",
                 "+@id": "218106"
+            }
+        },
+        {
+            "+@gid": "1441790574",
+            "+@lang": "IT",
+            "role": "Noriko Momokawa",
+            "person": {
+                "+content": "Anna Laviola",
+                "+@id": "220653"
             }
         },
         {
@@ -1069,6 +1096,15 @@
             "person": {
                 "+content": "Daisuke Ono",
                 "+@id": "14929"
+            }
+        },
+        {
+            "+@gid": "1401027052",
+            "+@lang": "JA",
+            "role": "Saki Mizoe",
+            "person": {
+                "+content": "Aya Endō",
+                "+@id": "27752"
             }
         },
         {
@@ -1243,6 +1279,6 @@
         }
     },
     "+@date-added": "2025-10-25T02:54:24Z",
-    "+@date-last-modified-at": "2026-08-31T21:29:24Z",
-    "+@date-last-updated-at": "2026-08-31T21:29:24Z"
+    "+@date-last-modified-at": "2026-10-01T05:59:17Z",
+    "+@date-last-updated-at": "2026-10-01T05:59:17Z"
 }

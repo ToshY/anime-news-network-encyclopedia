@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Ahare! Meisaku-kun",
     "+@precision": "TV 2026",
-    "+@generated-on": "2026-08-31T21:29:20Z",
+    "+@generated-on": "2026-10-01T05:59:13Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26244"
+    },
+    "related-next": {
+        "+@id": "40567",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -47,6 +51,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "12",
+            "+@gid": "2310688263",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-05",
             "+@gid": "4140954845",
             "+@type": "Vintage"
@@ -59,11 +68,18 @@
             "+@href": "https://meisakukun.com/"
         }
     ],
-    "news": {
-        "+content": "New <cite>Ahare! Meisaku-kun</cite> Anime's Latest Video Unveils Theme Song, July 5 Debut",
-        "+@datetime": "2026-06-19T14:27:43Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-06-19/new-ahare-meisaku-kun-anime-latest-video-unveils-theme-song-july-5-debut/.238709"
-    },
+    "news": [
+        {
+            "+content": "New <cite>Ahare! Meisaku-kun</cite> Anime's Latest Video Unveils Theme Song, July 5 Debut",
+            "+@datetime": "2026-06-19T14:27:43Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-19/new-ahare-meisaku-kun-anime-latest-video-unveils-theme-song-july-5-debut/.238709"
+        },
+        {
+            "+content": "New <cite>Ahare! Meisaku-kun</cite> Anime Gets More Episodes Next January",
+            "+@datetime": "2026-09-22T02:26:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-21/new-ahare-meisaku-kun-anime-gets-more-episodes-next-january/.242070"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2171860246",
@@ -156,5 +172,6 @@
         }
     },
     "+@date-added": "2025-12-31T20:33:53Z",
-    "+@date-last-updated-at": "2026-08-31T21:29:24Z"
+    "+@date-last-modified-at": "2026-10-01T05:59:17Z",
+    "+@date-last-updated-at": "2026-10-01T05:59:17Z"
 }

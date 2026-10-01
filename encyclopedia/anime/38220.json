@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Poppin-Play Kitchen",
     "+@precision": "ONA",
-    "+@generated-on": "2026-08-31T21:29:20Z",
+    "+@generated-on": "2026-10-01T05:59:13Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "38224"
@@ -99,6 +99,33 @@
     ],
     "cast": [
         {
+            "+@gid": "3140330027",
+            "+@lang": "EN",
+            "role": "C-CHAN",
+            "person": {
+                "+content": "Xanthe Huynh",
+                "+@id": "69839"
+            }
+        },
+        {
+            "+@gid": "3369191206",
+            "+@lang": "EN",
+            "role": "U-CHAN",
+            "person": {
+                "+content": "Risa Mei",
+                "+@id": "198541"
+            }
+        },
+        {
+            "+@gid": "2175559212",
+            "+@lang": "EN",
+            "role": "P-CHAN",
+            "person": {
+                "+content": "Dottovu",
+                "+@id": "302608"
+            }
+        },
+        {
             "+@gid": "1426467401",
             "+@lang": "JA",
             "role": "P-chan",
@@ -127,5 +154,6 @@
         }
     ],
     "+@date-added": "2025-12-30T20:43:54Z",
-    "+@date-last-updated-at": "2026-08-31T21:29:24Z"
+    "+@date-last-modified-at": "2026-10-01T05:59:17Z",
+    "+@date-last-updated-at": "2026-10-01T05:59:17Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Rich Girl Caretaker",
     "+@precision": "TV",
-    "+@generated-on": "2026-08-31T21:29:20Z",
+    "+@generated-on": "2026-10-01T05:59:13Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "37950"
@@ -102,16 +102,17 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "5.2099"
+        "+@nb_votes": "24",
+        "+@weighted_score": "6.4259",
+        "+@bayesian_score": "6.79243"
     },
     "episode": [
         {
             "+@num": "1",
             "title": {
-                "+content": "Kanpeki na Ojou-sama",
-                "+@gid": "3512367653",
-                "+@lang": "JA"
+                "+content": "The Perfect Lady",
+                "+@gid": "1282434683",
+                "+@lang": "EN"
             }
         },
         {
@@ -177,6 +178,30 @@
                 "+@gid": "1362323557",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "10",
+            "title": {
+                "+content": "The Plan to Free Narika From Isolation",
+                "+@gid": "3064845933",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "The Lady's Showdown",
+                "+@gid": "1542502775",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Takane no Hana-darake",
+                "+@gid": "1933771779",
+                "+@lang": "JA"
+            }
         }
     ],
     "news": [
@@ -236,6 +261,78 @@
             "person": {
                 "+content": "Aya Yoshinaga",
                 "+@id": "8823"
+            }
+        },
+        {
+            "+@gid": "1767609120",
+            "task": "Script",
+            "person": {
+                "+content": "Aya Yoshinaga",
+                "+@id": "8823"
+            }
+        },
+        {
+            "+@gid": "2515086357",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Haruka Kamohara",
+                "+@id": "103192"
+            }
+        },
+        {
+            "+@gid": "2227178520",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shūsei Morishita",
+                "+@id": "162798"
+            }
+        },
+        {
+            "+@gid": "1251652064",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Haruhito Ogawa",
+                "+@id": "302244"
+            }
+        },
+        {
+            "+@gid": "2854957189",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Isamu Imakake",
+                "+@id": "7508"
+            }
+        },
+        {
+            "+@gid": "2890962278",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takafumi Fujii",
+                "+@id": "89574"
+            }
+        },
+        {
+            "+@gid": "2904623573",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Haruka Kamohara",
+                "+@id": "103192"
+            }
+        },
+        {
+            "+@gid": "988323198",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shūsei Morishita",
+                "+@id": "162798"
+            }
+        },
+        {
+            "+@gid": "816759530",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Haruhito Ogawa",
+                "+@id": "302244"
             }
         },
         {
@@ -311,11 +408,27 @@
             }
         },
         {
+            "+@gid": "2087852838",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiromi Kurosawa",
+                "+@id": "108153"
+            }
+        },
+        {
             "+@gid": "802510220",
             "task": "Animation Director",
             "person": {
                 "+content": "Kenta Uenosono",
                 "+@id": "243019"
+            }
+        },
+        {
+            "+@gid": "2048155471",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūji Kashiwazaki",
+                "+@id": "261871"
             }
         },
         {
@@ -390,15 +503,6 @@
             }
         },
         {
-            "+@gid": "2082489317",
-            "+@lang": "JA",
-            "role": "Yuri Hirano",
-            "person": {
-                "+content": "Kaede Hondo",
-                "+@id": "140600"
-            }
-        },
-        {
             "+@gid": "2748326069",
             "+@lang": "JA",
             "role": "Katsuya Taishō",
@@ -435,6 +539,6 @@
         }
     },
     "+@date-added": "2025-10-30T08:15:02Z",
-    "+@date-last-modified-at": "2026-08-31T21:29:24Z",
-    "+@date-last-updated-at": "2026-08-31T21:29:24Z"
+    "+@date-last-modified-at": "2026-10-01T05:59:17Z",
+    "+@date-last-updated-at": "2026-10-01T05:59:17Z"
 }
