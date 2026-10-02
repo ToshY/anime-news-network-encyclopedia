@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Horror Collector",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-02T19:23:43Z",
+    "+@generated-on": "2026-10-02T20:46:38Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28560"
@@ -13,19 +13,24 @@
         {
             "+@gid": "1466713890",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38113-1466713890.1764928587.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38113-1466713890.1789706307.jpg",
+            "+@width": "143",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38113-1466713890.1764928587.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38113-1466713890.1789706307.jpg",
+                    "+@width": "143",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38113-1466713890.1764928587.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38113-1466713890.1789706307.jpg",
+                    "+@width": "428",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38113-1466713890.1789706307.jpg",
+                    "+@width": "600",
+                    "+@height": "841"
                 }
             ]
         },
@@ -57,17 +62,65 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026-10",
+            "+content": "2026-10-10",
             "+@gid": "3625704556",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "アニメ 恐怖コレクター (HORROR COLLECTOR) 公式サイト",
+            "+@gid": "1242595131",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://www.nhk-character.com/chara/kyoufucollector/"
         }
     ],
-    "news": {
-        "+content": "Shikao Suga Performs Opening, Ending Themes for <cite>Horror Collector</cite> TV Anime",
-        "+@datetime": "2026-07-26T03:41:29Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-07-25/shikao-suga-performs-opening-ending-themes-for-horror-collector-tv-anime/.239971"
-    },
+    "news": [
+        {
+            "+content": "Shikao Suga Performs Opening, Ending Themes for <cite>Horror Collector</cite> TV Anime",
+            "+@datetime": "2026-07-26T03:41:29Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-25/shikao-suga-performs-opening-ending-themes-for-horror-collector-tv-anime/.239971"
+        },
+        {
+            "+content": "<cite>Horror Collector</cite> Anime's Video Reveals Cast, Staff, October 10 Debut, 12 Episode Run",
+            "+@datetime": "2026-09-18T08:30:33Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-18/horror-collector-anime-video-reveals-cast-staff-october-10-debut-12-episode-run/.241939"
+        },
+        {
+            "+content": "Crunchyroll to Stream <cite>Super Psychic Policeman Chojo</cite>, <cite>Dandivine</cite>, <cite>Full Clearing Another World Under a Goddess with Zero Believers</cite>, More Anime",
+            "+@datetime": "2026-09-30T17:20:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-30/crunchyroll-to-stream-super-psychic-policeman-chojo-dandivine-full-clearing-another-world-under-a-/.242347"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>A Tale of the Secret Saint</cite>, <cite>Psyren</cite>, More Anime in India",
+            "+@datetime": "2026-10-02T10:51:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-02/crunchyroll-streams-a-tale-of-the-secret-saint-psyren-more-anime-in-india/.242409"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "1210462683",
+            "task": "Director",
+            "person": {
+                "+content": "Yuki Inaba",
+                "+@id": "121335"
+            }
+        },
+        {
+            "+@gid": "1870093358",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Yuki Inaba",
+                "+@id": "121335"
+            }
+        },
+        {
+            "+@gid": "1648507028",
+            "task": "Music",
+            "person": {
+                "+content": "Masato Kōda",
+                "+@id": "120959"
+            }
+        },
         {
             "+@gid": "834023234",
             "task": "Original creator",
@@ -91,8 +144,89 @@
                 "+content": "Yon",
                 "+@id": "163956"
             }
+        },
+        {
+            "+@gid": "1335295734",
+            "task": "Character Design",
+            "person": {
+                "+content": "Kaori Yoshikawa",
+                "+@id": "25216"
+            }
+        },
+        {
+            "+@gid": "3136079443",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Tetsuya Gunji",
+                "+@id": "102800"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1852435093",
+            "+@lang": "JA",
+            "role": "Jimmy",
+            "person": {
+                "+content": "Jun Fukuyama",
+                "+@id": "337"
+            }
+        },
+        {
+            "+@gid": "2157307280",
+            "+@lang": "JA",
+            "role": "Blue Umbrella Man",
+            "person": {
+                "+content": "Nobuhiko Okamoto",
+                "+@id": "59411"
+            }
+        },
+        {
+            "+@gid": "1462909156",
+            "+@lang": "JA",
+            "role": "Himitsu",
+            "person": {
+                "+content": "Saori Hayami",
+                "+@id": "63462"
+            }
+        },
+        {
+            "+@gid": "2156611814",
+            "+@lang": "JA",
+            "role": "Fushigi Senno",
+            "person": {
+                "+content": "Hiiro Ishibashi",
+                "+@id": "180706"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "2619855021",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Studio Palette",
+                "+@id": "21146"
+            }
+        },
+        {
+            "+@gid": "2298712734",
+            "task": "Production",
+            "company": {
+                "+content": "NHK",
+                "+@id": "494"
+            }
+        },
+        {
+            "+@gid": "2198455135",
+            "task": "Production",
+            "company": {
+                "+content": "NHK Enterprises",
+                "+@id": "1177"
+            }
         }
     ],
     "+@date-added": "2025-12-05T04:55:32Z",
-    "+@date-last-updated-at": "2026-09-02T19:23:50Z"
+    "+@date-last-modified-at": "2026-10-02T20:46:40Z",
+    "+@date-last-updated-at": "2026-10-02T20:46:40Z"
 }
