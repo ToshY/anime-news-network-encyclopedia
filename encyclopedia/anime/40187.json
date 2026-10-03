@@ -4,12 +4,31 @@
     "+@type": "TV",
     "+@name": "Mission: Yozakura Family",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-09-03T12:50:37Z",
+    "+@generated-on": "2026-10-03T13:25:03Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "33661"
     },
     "info": [
+        {
+            "+@gid": "1798692710",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40187-1798692710.1788501899.jpg",
+            "+@width": "142",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40187-1798692710.1788501899.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40187-1798692710.1788501899.jpg",
+                    "+@width": "425",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Mission: Yozakura Family",
             "+@gid": "1031804856",
@@ -39,9 +58,19 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026-10",
+            "+content": "2026-10-11",
             "+@gid": "3468173939",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Forever Song\" (フォーエバーソング) by Humbreaders",
+            "+@gid": "1144606959",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"I'm still breathing\" by KID PHENOMENON",
+            "+@gid": "2754478686",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ『夜桜さんちの大作戦』公式サイト",
@@ -49,6 +78,18 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://www.mission-yozakura-family.com/"
+        }
+    ],
+    "news": [
+        {
+            "+content": "<cite>Mission: Yozakura Family</cite> Season 2 Part 2's Video Unveils Theme Songs, October 11 Debut",
+            "+@datetime": "2026-09-04T03:35:12Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-03/mission-yozakura-family-season-2-part-2-video-unveils-theme-songs-october-11-debut/.241345"
+        },
+        {
+            "+content": "<cite>Mission: Yozakura Family</cite> Season 2 Part 2's Video Reveals 5 Cast Members",
+            "+@datetime": "2026-09-25T09:02:32Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-25/mission-yozakura-family-season-2-part-2-video-reveals-5-cast-members/.242171"
         }
     ],
     "staff": [
@@ -77,6 +118,14 @@
             }
         },
         {
+            "+@gid": "2711954317",
+            "task": "Music",
+            "person": {
+                "+content": "Kōji Fujimoto",
+                "+@id": "92710"
+            }
+        },
+        {
             "+@gid": "499225507",
             "task": "Original creator",
             "person": {
@@ -91,6 +140,38 @@
                 "+content": "Mizuki Takahashi",
                 "+@id": "144280"
             }
+        },
+        {
+            "+@gid": "1681437434",
+            "task": "Art Director",
+            "person": {
+                "+content": "Hideto Nakahara",
+                "+@id": "4377"
+            }
+        },
+        {
+            "+@gid": "1856362912",
+            "task": "3D Director",
+            "person": {
+                "+content": "Yōhei Hirata",
+                "+@id": "79750"
+            }
+        },
+        {
+            "+@gid": "388089441",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Tōru Kanegae",
+                "+@id": "100998"
+            }
+        },
+        {
+            "+@gid": "1412125924",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Atsushi Satō",
+                "+@id": "211184"
+            }
         }
     ],
     "cast": [
@@ -101,6 +182,24 @@
             "person": {
                 "+content": "Katsuyuki Konishi",
                 "+@id": "780"
+            }
+        },
+        {
+            "+@gid": "1625364590",
+            "+@lang": "JA",
+            "role": "Momo Yozakura",
+            "person": {
+                "+content": "Kōichi Yamadera",
+                "+@id": "5728"
+            }
+        },
+        {
+            "+@gid": "690664305",
+            "+@lang": "JA",
+            "role": "Kai Izumo",
+            "person": {
+                "+content": "Hiroshi Kamiya",
+                "+@id": "5902"
             }
         },
         {
@@ -149,6 +248,33 @@
             }
         },
         {
+            "+@gid": "2564911769",
+            "+@lang": "JA",
+            "role": "Dr. Mozu",
+            "person": {
+                "+content": "Sumire Uesaka",
+                "+@id": "106108"
+            }
+        },
+        {
+            "+@gid": "3553292185",
+            "+@lang": "JA",
+            "role": "Dennō Daimaō \"G\"",
+            "person": {
+                "+content": "Yumiri Hanamori",
+                "+@id": "118609"
+            }
+        },
+        {
+            "+@gid": "2262640936",
+            "+@lang": "JA",
+            "role": "Shura",
+            "person": {
+                "+content": "Miku Itō",
+                "+@id": "119924"
+            }
+        },
+        {
             "+@gid": "1703701604",
             "+@lang": "JA",
             "role": "Futaba Yozakura",
@@ -174,6 +300,24 @@
                 "+content": "Reiji Kawashima",
                 "+@id": "196349"
             }
+        },
+        {
+            "+@gid": "244849948",
+            "+@lang": "JA",
+            "role": "Ryū Alexander",
+            "person": {
+                "+content": "Hōchū Ōtsuka",
+                "+@id": "274643"
+            }
+        },
+        {
+            "+@gid": "1305354864",
+            "+@lang": "JA",
+            "role": "Hulang",
+            "person": {
+                "+content": "Naomi Shindō",
+                "+@id": "302487"
+            }
         }
     ],
     "credit": {
@@ -185,5 +329,6 @@
         }
     },
     "+@date-added": "2026-06-28T05:23:29Z",
-    "+@date-last-updated-at": "2026-09-03T12:50:38Z"
+    "+@date-last-modified-at": "2026-10-03T13:25:05Z",
+    "+@date-last-updated-at": "2026-10-03T13:25:05Z"
 }
