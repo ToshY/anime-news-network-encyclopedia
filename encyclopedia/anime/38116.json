@@ -2,9 +2,9 @@
     "+@id": "38116",
     "+@gid": "2558177963",
     "+@type": "TV",
-    "+@name": "Code Geass Hoshi Oi no Aspal",
+    "+@name": "Code Geass Star Chaser Aspal",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-04T12:44:14Z",
+    "+@generated-on": "2026-10-04T13:49:52Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "31013"
@@ -30,9 +30,15 @@
             ]
         },
         {
+            "+content": "Code Geass Star Chaser Aspal",
+            "+@gid": "2351869522",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Code Geass Hoshi Oi no Aspal",
             "+@gid": "1461643785",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -42,6 +48,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "2027",
+            "+@gid": "928359212",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "コードギアス 星追いのアスパル－公式サイト",
             "+@gid": "2058331299",
             "+@type": "Official website",
@@ -49,11 +60,18 @@
             "+@href": "https://geass.jp/aspal/"
         }
     ],
-    "news": {
-        "+content": "<cite>Code Geass</cite> Franchise Reveals New Anime & Manga Works, <cite>Code Geass: Rozé of the Recapture</cite> TV Airing, More Projects for 20th Anniversary (Updated)",
-        "+@datetime": "2025-12-07T11:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-12-07/code-geass-franchise-reveals-new-anime-and-manga-works-code-geass-roze-of-the-recapture-tv-airing-/.231788"
-    },
+    "news": [
+        {
+            "+content": "<cite>Code Geass</cite> Franchise Reveals New Anime & Manga Works, <cite>Code Geass: Rozé of the Recapture</cite> TV Airing, More Projects for 20th Anniversary (Updated)",
+            "+@datetime": "2025-12-07T11:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-12-07/code-geass-franchise-reveals-new-anime-and-manga-works-code-geass-roze-of-the-recapture-tv-airing-/.231788"
+        },
+        {
+            "+content": "New <cite>Code Geass Star Chaser Aspal</cite> Anime Reveals Teaser Trailer, 2027 Premiere",
+            "+@datetime": "2026-09-25T19:35:03Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-25/new-code-geass-star-chaser-aspal-anime-reveals-teaser-trailer-2027-premiere/.242201"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1847832008",
@@ -81,5 +99,6 @@
         }
     ],
     "+@date-added": "2025-12-07T07:53:03Z",
-    "+@date-last-updated-at": "2026-09-04T12:44:15Z"
+    "+@date-last-modified-at": "2026-10-04T14:07:43Z",
+    "+@date-last-updated-at": "2026-10-04T14:07:43Z"
 }
