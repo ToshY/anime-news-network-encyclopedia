@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Uncle’s Obsession with Cute Things",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-05T15:16:34Z",
+    "+@generated-on": "2026-10-05T17:10:07Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "37984"
@@ -58,13 +58,24 @@
             "+@type": "Genres"
         },
         {
-            "+content": "Mitsutaka Oji is a 40-year-old man who, by all appearances, is attractive and cool and is excellent at his job. However, he has a secret: he absolutely loves small and cute things. <em class=de-emphasized>(from manga)</em>",
+            "+content": "By day, Mitsutaka Oji is the handsome, dependable boss everyone admires. By night, he dotes on his favorite mascot, Pugtaro, and indulges his secret obsession with all things cute. He's kept his double life hidden for years—but one unexpected encounter turns everything upside down and forces Oji to face his feelings head-on.",
+            "+@gid": "3629342249",
             "+@type": "Plot Summary"
         },
         {
             "+content": "2026-10-04",
             "+@gid": "2096310331",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"LIKE³\" by Yūsei Yagi",
+            "+@gid": "1196124008",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Tōtoi♡Kaiwai\" (尊い♡界隈) by Kaori Maeda",
+            "+@gid": "1968665017",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "TVアニメ『おじさんはカワイイものがお好き。』公式サイト",
@@ -74,6 +85,10 @@
             "+@href": "https://ojikawa.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "4"
+    },
     "news": [
         {
             "+content": "<cite>Ojisan wa Kawaii Mono ga Osuki.</cite> Anime's Video Reveals Cast, Staff, October TV Debut",
@@ -94,6 +109,21 @@
             "+content": "<cite>FX Fighter Kurumi-chan</cite>, <cite>Uncle's Obsession with Cute Things</cite>, <cite>ELECEED</cite> Anime to Stream in India",
             "+@datetime": "2026-08-03T09:39:23Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-08-03/fx-fighter-kurumi-chan-uncle-obsession-with-cute-things-eleceed-anime-to-stream-in-india/.240196"
+        },
+        {
+            "+content": "<cite>Uncle's Obsession with Cute Things</cite> Anime's 2nd Trailer Reveals More Cast Members, Theme Song Artists",
+            "+@datetime": "2026-09-07T07:49:29Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-07/uncle-obsession-with-cute-things-anime-2nd-trailer-reveals-more-cast-members-theme-song-artists/.241482"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Fall 2026 Season",
+            "+@datetime": "2026-09-15T17:52:07Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-15/crunchyroll-announces-release-schedule-for-fall-2026-season/.241811"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>A Tale of the Secret Saint</cite>, <cite>Psyren</cite>, More Anime in India",
+            "+@datetime": "2026-10-02T10:51:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-02/crunchyroll-streams-a-tale-of-the-secret-saint-psyren-more-anime-in-india/.242409"
         }
     ],
     "staff": [
@@ -172,6 +202,15 @@
     ],
     "cast": [
         {
+            "+@gid": "2285340402",
+            "+@lang": "JA",
+            "role": "Hoho Takebayashi",
+            "person": {
+                "+content": "Mie Sonozaki",
+                "+@id": "7696"
+            }
+        },
+        {
             "+@gid": "2252984366",
             "+@lang": "JA",
             "role": "Wataru Naruto",
@@ -196,6 +235,15 @@
             "person": {
                 "+content": "Takuya Eguchi",
                 "+@id": "76338"
+            }
+        },
+        {
+            "+@gid": "1331607530",
+            "+@lang": "JA",
+            "role": "Rio Moshina",
+            "person": {
+                "+content": "Kaori Maeda",
+                "+@id": "90655"
             }
         },
         {
@@ -235,6 +283,15 @@
             }
         },
         {
+            "+@gid": "3741795308",
+            "+@lang": "JA",
+            "role": "Miku Usuma",
+            "person": {
+                "+content": "Miharu Hanai",
+                "+@id": "154342"
+            }
+        },
+        {
             "+@gid": "1996736894",
             "+@lang": "JA",
             "role": "Anne",
@@ -251,17 +308,76 @@
                 "+content": "Fūka Izumi",
                 "+@id": "201580"
             }
+        },
+        {
+            "+@gid": "1957031034",
+            "+@lang": "JA",
+            "role": "Haruo Koba",
+            "person": {
+                "+content": "Satoshi Niwa",
+                "+@id": "207809"
+            }
         }
     ],
-    "credit": {
-        "+@gid": "1345384667",
-        "task": "Animation Production",
-        "company": {
-            "+content": "LIDEN FILMS",
-            "+@id": "11121"
+    "credit": [
+        {
+            "+@gid": "1345384667",
+            "task": "Animation Production",
+            "company": {
+                "+content": "LIDEN FILMS",
+                "+@id": "11121"
+            }
+        },
+        {
+            "+@gid": "1470730363",
+            "task": "Production",
+            "company": {
+                "+content": "Yomiuri TV Enterprise",
+                "+@id": "9236"
+            }
+        },
+        {
+            "+@gid": "2108893628",
+            "task": "Production",
+            "company": {
+                "+content": "Flex Comix Inc.",
+                "+@id": "9841"
+            }
+        },
+        {
+            "+@gid": "1573814469",
+            "task": "Production",
+            "company": {
+                "+content": "Ultra Super Pictures",
+                "+@id": "10352"
+            }
+        },
+        {
+            "+@gid": "2176194810",
+            "task": "Production",
+            "company": {
+                "+content": "A-Sketch",
+                "+@id": "12609"
+            }
+        },
+        {
+            "+@gid": "1847432218",
+            "task": "Production",
+            "company": {
+                "+content": "BookLive",
+                "+@id": "23726"
+            }
+        },
+        {
+            "+@gid": "1855334443",
+            "task": "Production",
+            "company": {
+                "+content": "Amuse Creative Studio",
+                "+@id": "28141"
+            }
         }
-    },
+    ],
     "+@date-added": "2025-11-08T09:16:17Z",
-    "+@date-last-modified-at": "2026-09-05T15:16:38Z",
-    "+@date-last-updated-at": "2026-09-05T15:16:38Z"
+    "+@date-last-modified-at": "2026-10-05T17:10:10Z",
+    "+@date-last-updated-at": "2026-10-05T17:10:10Z"
 }
