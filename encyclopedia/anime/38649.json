@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "One Piece",
     "+@precision": "TV 2026",
-    "+@generated-on": "2026-09-07T14:16:07Z",
+    "+@generated-on": "2026-10-07T14:42:03Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "836"
@@ -17,6 +17,10 @@
         {
             "+@id": "40462",
             "+@rel": "related"
+        },
+        {
+            "+@id": "40592",
+            "+@rel": "sequel"
         }
     ],
     "info": [
@@ -96,8 +100,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "9.3434"
+        "+@nb_votes": "6",
+        "+@weighted_score": "8.941"
     },
     "episode": [
         {
@@ -231,7 +235,7 @@
         {
             "+@num": "1172",
             "title": {
-                "+content": "Monsters Appear in Elbaph - 'What I Fear Most'",
+                "+content": "Monsters Appear in Elbaph - \"What I Fear Most\"",
                 "+@gid": "2971750023",
                 "+@lang": "EN"
             }
@@ -281,6 +285,22 @@
             "title": {
                 "+content": "Protect History and the Future - Robin and Gaban Go on the Attack",
                 "+@gid": "1990027605",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "1179",
+            "title": {
+                "+content": "One Do-or-Die Second - Gaban vs. the Knights of God",
+                "+@gid": "1254458864",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "1180",
+            "title": {
+                "+content": "Elbaph in Despair - Diabolical Covenant, \"Domi Reversi\"",
+                "+@gid": "1894062069",
                 "+@lang": "EN"
             }
         }
@@ -370,6 +390,11 @@
             "+content": "Japanese Animation TV Ranking, August 17-23",
             "+@datetime": "2026-09-03T12:45:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-09-03/japanese-animation-tv-ranking-august-17-23/.241158"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, August 31-September 6",
+            "+@datetime": "2026-09-12T16:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-12/japanese-animation-tv-ranking-august-31-september-6/.241659"
         }
     ],
     "staff": [
@@ -403,6 +428,334 @@
             "person": {
                 "+content": "Tomohiro Nakayama",
                 "+@id": "134375"
+            }
+        },
+        {
+            "+@gid": "1645886480",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kenichi Takeshita",
+                "+@id": "14761"
+            }
+        },
+        {
+            "+@gid": "1199368842",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Katsumi Tokoro",
+                "+@id": "41369"
+            }
+        },
+        {
+            "+@gid": "2361612957",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Katsumi Ishizuka",
+                "+@id": "72064"
+            }
+        },
+        {
+            "+@gid": "1820960002",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yasunori Koyama",
+                "+@id": "83117"
+            }
+        },
+        {
+            "+@gid": "2165599101",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Masanori Satō",
+                "+@id": "83210"
+            }
+        },
+        {
+            "+@gid": "2469717221",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yasuhiro Tanabe",
+                "+@id": "83785"
+            }
+        },
+        {
+            "+@gid": "2401827932",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Miho Hirayama",
+                "+@id": "101552"
+            }
+        },
+        {
+            "+@gid": "1803144449",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yong Ce Tu",
+                "+@id": "116822"
+            }
+        },
+        {
+            "+@gid": "3096195724",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kan Murakami",
+                "+@id": "150031"
+            }
+        },
+        {
+            "+@gid": "3138174078",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Wataru Matsumi",
+                "+@id": "163031"
+            }
+        },
+        {
+            "+@gid": "1689138558",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Toshinori Fukazawa",
+                "+@id": "193791"
+            }
+        },
+        {
+            "+@gid": "3218098511",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hinata Narumi",
+                "+@id": "214369"
+            }
+        },
+        {
+            "+@gid": "3200364559",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Nanami Michibata",
+                "+@id": "231536"
+            }
+        },
+        {
+            "+@gid": "2143921395",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shō Inuzuka",
+                "+@id": "232326"
+            }
+        },
+        {
+            "+@gid": "2389842908",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kyōsuke Yamazaki",
+                "+@id": "232424"
+            }
+        },
+        {
+            "+@gid": "1783367321",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shō Matsui",
+                "+@id": "233171"
+            }
+        },
+        {
+            "+@gid": "1663891583",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yuuna Hirosue",
+                "+@id": "235781"
+            }
+        },
+        {
+            "+@gid": "1088217761",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hazuki Omoya",
+                "+@id": "237992"
+            }
+        },
+        {
+            "+@gid": "1340253462",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tomohiro Higashi",
+                "+@id": "246679"
+            }
+        },
+        {
+            "+@gid": "209739727",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Eri Hyun",
+                "+@id": "250878"
+            }
+        },
+        {
+            "+@gid": "1943278905",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Anikari",
+                "+@id": "258354"
+            }
+        },
+        {
+            "+@gid": "2168500577",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shūhei Iwasawa",
+                "+@id": "263775"
+            }
+        },
+        {
+            "+@gid": "2822424654",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yūsuke Suzuki",
+                "+@id": "286648"
+            }
+        },
+        {
+            "+@gid": "2044190619",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kenichi Takeshita",
+                "+@id": "14761"
+            }
+        },
+        {
+            "+@gid": "2807760574",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Katsumi Tokoro",
+                "+@id": "41369"
+            }
+        },
+        {
+            "+@gid": "2365146270",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yasunori Koyama",
+                "+@id": "83117"
+            }
+        },
+        {
+            "+@gid": "2741069896",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Masanori Satō",
+                "+@id": "83210"
+            }
+        },
+        {
+            "+@gid": "2865924890",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yasuhiro Tanabe",
+                "+@id": "83785"
+            }
+        },
+        {
+            "+@gid": "309260042",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kan Murakami",
+                "+@id": "150031"
+            }
+        },
+        {
+            "+@gid": "960373535",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Wataru Matsumi",
+                "+@id": "163031"
+            }
+        },
+        {
+            "+@gid": "1380341645",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Nanami Michibata",
+                "+@id": "231536"
+            }
+        },
+        {
+            "+@gid": "2130359459",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shō Inuzuka",
+                "+@id": "232326"
+            }
+        },
+        {
+            "+@gid": "2157041525",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kyōsuke Yamazaki",
+                "+@id": "232424"
+            }
+        },
+        {
+            "+@gid": "353962133",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shō Matsui",
+                "+@id": "233171"
+            }
+        },
+        {
+            "+@gid": "2584469242",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yuuna Hirosue",
+                "+@id": "235781"
+            }
+        },
+        {
+            "+@gid": "840030788",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tomohiro Higashi",
+                "+@id": "246679"
+            }
+        },
+        {
+            "+@gid": "2381258599",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Eri Hyun",
+                "+@id": "250878"
+            }
+        },
+        {
+            "+@gid": "1921038792",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shūhei Iwasawa",
+                "+@id": "263775"
+            }
+        },
+        {
+            "+@gid": "2639785130",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yūsuke Suzuki",
+                "+@id": "286648"
+            }
+        },
+        {
+            "+@gid": "2323381586",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Shō Matsui",
+                "+@id": "233171"
+            }
+        },
+        {
+            "+@gid": "532948311",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Eri Hyun",
+                "+@id": "250878"
             }
         },
         {
@@ -746,15 +1099,6 @@
             }
         },
         {
-            "+@gid": "1856903754",
-            "+@lang": "JA",
-            "role": "Harald",
-            "person": {
-                "+content": "Tsutomu Isobe",
-                "+@id": "14730"
-            }
-        },
-        {
             "+@gid": "1475926753",
             "+@lang": "JA",
             "role": "Loki",
@@ -863,15 +1207,6 @@
             }
         },
         {
-            "+@gid": "1757836182",
-            "+@lang": "JA",
-            "role": "Rocks D. Xebec",
-            "person": {
-                "+content": "Shinshū Fuji",
-                "+@id": "86878"
-            }
-        },
-        {
             "+@gid": "2576689553",
             "+@lang": "JA",
             "role": "Gerd",
@@ -926,6 +1261,6 @@
         }
     ],
     "+@date-added": "2026-03-10T08:16:14Z",
-    "+@date-last-modified-at": "2026-09-07T14:16:14Z",
-    "+@date-last-updated-at": "2026-09-07T14:16:14Z"
+    "+@date-last-modified-at": "2026-10-07T15:35:23Z",
+    "+@date-last-updated-at": "2026-10-07T15:35:23Z"
 }
