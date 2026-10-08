@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Chainsmoker Cat",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-08T19:26:39Z",
+    "+@generated-on": "2026-10-08T21:21:41Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28833"
@@ -89,6 +89,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "1989723879",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-02",
             "+@gid": "1999677962",
             "+@type": "Vintage"
@@ -102,9 +107,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "13",
-        "+@weighted_score": "4.9888",
-        "+@bayesian_score": "6.17939"
+        "+@nb_votes": "39",
+        "+@weighted_score": "7.1515",
+        "+@bayesian_score": "7.22618"
     },
     "news": [
         {
@@ -326,10 +331,19 @@
         {
             "+@gid": "2527122208",
             "+@lang": "EN",
-            "role": "Yomuko \"Jikaki Neko\" Kako",
+            "role": "Yomuko \"Jikaki Neko\" Kaku",
             "person": {
                 "+content": "Natsuki Henderson",
                 "+@id": "300965"
+            }
+        },
+        {
+            "+@gid": "2128760788",
+            "+@lang": "FR",
+            "role": "Yurufuma Tenshi 'Hame-Neko' Hameko",
+            "person": {
+                "+content": "Emilie Rault",
+                "+@id": "62622"
             }
         },
         {
@@ -342,12 +356,39 @@
             }
         },
         {
+            "+@gid": "1477886881",
+            "+@lang": "FR",
+            "role": "Aruko \"Al-Neko\" Sakai",
+            "person": {
+                "+content": "Alice Orsat",
+                "+@id": "109045"
+            }
+        },
+        {
             "+@gid": "2458899372",
             "+@lang": "FR",
             "role": "Yaniko \"Yani-Neko\" Satō",
             "person": {
                 "+content": "Valérie Bachère",
                 "+@id": "136049"
+            }
+        },
+        {
+            "+@gid": "1658255142",
+            "+@lang": "FR",
+            "role": "Masuko \"Yaku-Neko\" Koshijimaru",
+            "person": {
+                "+content": "Lou Viguier",
+                "+@id": "214392"
+            }
+        },
+        {
+            "+@gid": "2064670949",
+            "+@lang": "FR",
+            "role": "Yomuko \"Jikaki Neko\" Kaku",
+            "person": {
+                "+content": "Melissa Berard",
+                "+@id": "218382"
             }
         },
         {
@@ -384,6 +425,15 @@
             "person": {
                 "+content": "Letizia Ciampa",
                 "+@id": "27425"
+            }
+        },
+        {
+            "+@gid": "1886283407",
+            "+@lang": "IT",
+            "role": "Ruko Ouji",
+            "person": {
+                "+content": "Maria Letizia Scifoni",
+                "+@id": "29556"
             }
         },
         {
@@ -576,6 +626,6 @@
         }
     },
     "+@date-added": "2026-02-01T10:59:58Z",
-    "+@date-last-modified-at": "2026-09-08T19:26:45Z",
-    "+@date-last-updated-at": "2026-09-08T19:26:45Z"
+    "+@date-last-modified-at": "2026-10-08T21:21:46Z",
+    "+@date-last-updated-at": "2026-10-08T21:21:46Z"
 }
