@@ -2,13 +2,19 @@
     "+@id": "34496",
     "+@gid": "2113911204",
     "+@type": "manga",
-    "+@name": "Monster no Niku wo Kutteitara Ōi ni Tsuita Ken",
+    "+@name": "How I Became King by Eating Monsters",
     "+@precision": "manga",
-    "+@generated-on": "2026-09-01T22:37:16Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "22868"
-    },
+    "+@generated-on": "2026-10-10T23:35:02Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "22868"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "40639"
+        }
+    ],
     "info": [
         {
             "+@gid": "2200416636",
@@ -35,9 +41,15 @@
             ]
         },
         {
+            "+content": "How I Became King by Eating Monsters",
+            "+@gid": "798116312",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Monster no Niku wo Kutteitara Ōi ni Tsuita Ken",
             "+@gid": "2267642182",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -49,6 +61,11 @@
         {
             "+content": "action",
             "+@gid": "1755960855",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "2291117468",
             "+@type": "Genres"
         },
         {
@@ -89,5 +106,6 @@
         }
     ],
     "+@date-added": "2025-01-30T10:16:46Z",
-    "+@date-last-updated-at": "2026-09-01T22:37:17Z"
+    "+@date-last-modified-at": "2026-10-10T23:35:03Z",
+    "+@date-last-updated-at": "2026-10-10T23:35:03Z"
 }
