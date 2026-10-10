@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Fall in Love, You False Angels",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-10T12:56:12Z",
+    "+@generated-on": "2026-10-10T13:56:01Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29835"
@@ -75,11 +75,18 @@
             "+@href": "https://koidomo-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<i>'Fall in Love, You False Angels'</i> Anime's Teaser Announces Staff at MAPPA",
-        "+@datetime": "2026-06-19T12:36:12Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-06-19/fall-in-love-you-false-angels-anime-teaser-announces-staff-at-mappa/.238702"
-    },
+    "news": [
+        {
+            "+content": "<i>'Fall in Love, You False Angels'</i> Anime's Teaser Announces Staff at MAPPA",
+            "+@datetime": "2026-06-19T12:36:12Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-19/fall-in-love-you-false-angels-anime-teaser-announces-staff-at-mappa/.238702"
+        },
+        {
+            "+content": "<i>'Fall in Love, You False Angels'</i> Anime Reveals Promo Video, Cast, Staff",
+            "+@datetime": "2026-09-12T11:33:58Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-12/fall-in-love-you-false-angels-anime-reveals-promo-video-cast-staff/.241703"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3659397709",
@@ -95,6 +102,22 @@
             "person": {
                 "+content": "Yōhei Yamazaki",
                 "+@id": "251136"
+            }
+        },
+        {
+            "+@gid": "2516455363",
+            "task": "Music",
+            "person": {
+                "+content": "Yuki Kurihara",
+                "+@id": "169913"
+            }
+        },
+        {
+            "+@gid": "2334399289",
+            "task": "Music",
+            "person": {
+                "+content": "Yūnosuke Senoo",
+                "+@id": "291633"
             }
         },
         {
@@ -130,6 +153,26 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "3079772090",
+            "+@lang": "JA",
+            "role": "Toki Ninomae",
+            "person": {
+                "+content": "Taito Ban",
+                "+@id": "167294"
+            }
+        },
+        {
+            "+@gid": "2684889648",
+            "+@lang": "JA",
+            "role": "Otogi Katsura",
+            "person": {
+                "+content": "Nao Ojika",
+                "+@id": "209908"
+            }
+        }
+    ],
     "credit": {
         "+@gid": "2434048000",
         "task": "Animation Production",
@@ -139,5 +182,6 @@
         }
     },
     "+@date-added": "2026-06-11T11:37:01Z",
-    "+@date-last-updated-at": "2026-09-10T12:56:17Z"
+    "+@date-last-modified-at": "2026-10-10T14:29:20Z",
+    "+@date-last-updated-at": "2026-10-10T14:29:20Z"
 }
