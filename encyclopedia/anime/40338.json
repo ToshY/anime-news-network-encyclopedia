@@ -2,9 +2,9 @@
     "+@id": "40338",
     "+@gid": "1428888890",
     "+@type": "TV",
-    "+@name": "Noa-senpai wa Tomodachi.",
+    "+@name": "Noa Is My Senior, and My Friend.",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-12T12:11:25Z",
+    "+@generated-on": "2026-10-12T17:37:14Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "30392"
@@ -13,33 +13,33 @@
         {
             "+@gid": "3684216316",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40338-3684216316.1785034471.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40338-3684216316.1791757805.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40338-3684216316.1785034471.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40338-3684216316.1791757805.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40338-3684216316.1785034471.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40338-3684216316.1791757805.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
             ]
         },
         {
-            "+content": "Noa-senpai wa Tomodachi.",
-            "+@gid": "1133547969",
-            "+@type": "Main title",
-            "+@lang": "JA"
-        },
-        {
             "+content": "Noa Is My Senior, and My Friend.",
             "+@gid": "961930684",
-            "+@type": "Alternative title",
+            "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Noa-senpai wa Tomodachi.",
+            "+@gid": "1133547969",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
         },
         {
             "+content": "のあ先輩はともだち。",
@@ -58,6 +58,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "2027",
+            "+@gid": "2904039778",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ『のあ先輩はともだち。』公式サイト",
             "+@gid": "837821031",
             "+@type": "Official website",
@@ -65,6 +70,11 @@
             "+@href": "https://noasenpai-anime.com/"
         }
     ],
+    "news": {
+        "+content": "<cite>Noa Is My Senior, and My Friend</cite> TV Anime Unveils Main Cast, 2027 Debut",
+        "+@datetime": "2026-10-11T10:00:00Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-10-11/noa-is-my-senior-and-my-friend-tv-anime-unveils-main-cast-2027-debut/.242717"
+    },
     "staff": [
         {
             "+@gid": "1843453581",
@@ -99,6 +109,26 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "398612460",
+            "+@lang": "JA",
+            "role": "Noa Saotome",
+            "person": {
+                "+content": "Rina Kawaguchi",
+                "+@id": "190216"
+            }
+        },
+        {
+            "+@gid": "2459932409",
+            "+@lang": "JA",
+            "role": "Rihito Ōtsuka",
+            "person": {
+                "+content": "Tomoya Itō",
+                "+@id": "224296"
+            }
+        }
+    ],
     "credit": {
         "+@gid": "795069183",
         "task": "Animation Production",
@@ -108,5 +138,6 @@
         }
     },
     "+@date-added": "2026-07-13T07:04:06Z",
-    "+@date-last-updated-at": "2026-09-12T12:11:29Z"
+    "+@date-last-modified-at": "2026-10-12T17:58:00Z",
+    "+@date-last-updated-at": "2026-10-12T17:58:00Z"
 }
