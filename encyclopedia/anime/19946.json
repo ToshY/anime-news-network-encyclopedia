@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "Marvel Future Avengers",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-07T22:51:40Z",
-    "related-prev": {
-        "+@rel": "related to",
-        "+@id": "19947"
-    },
+    "+@generated-on": "2026-10-12T05:58:22Z",
+    "related-prev": [
+        {
+            "+@rel": "related to",
+            "+@id": "19947"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "40654"
+        }
+    ],
     "related-next": {
         "+@id": "21124",
         "+@rel": "sequel"
@@ -70,7 +76,7 @@
     ],
     "ratings": {
         "+@nb_votes": "3",
-        "+@weighted_score": "6.283"
+        "+@weighted_score": "6.281"
     },
     "episode": [
         {
@@ -1281,6 +1287,6 @@
         }
     ],
     "+@date-added": "2017-07-29T04:45:46Z",
-    "+@date-last-modified-at": "2026-09-07T22:51:44Z",
-    "+@date-last-updated-at": "2026-09-07T22:51:44Z"
+    "+@date-last-modified-at": "2026-10-12T06:02:21Z",
+    "+@date-last-updated-at": "2026-10-12T06:02:21Z"
 }
