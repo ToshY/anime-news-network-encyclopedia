@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "School Babysitters",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-08T12:53:14Z",
+    "+@generated-on": "2026-10-13T11:50:32Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "13649"
@@ -106,8 +106,8 @@
     ],
     "ratings": {
         "+@nb_votes": "117",
-        "+@weighted_score": "7.2578",
-        "+@bayesian_score": "7.27746"
+        "+@weighted_score": "7.2581",
+        "+@bayesian_score": "7.27771"
     },
     "news": [
         {
@@ -487,15 +487,41 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "1060799371",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Brain's Base",
-            "+@id": "11211"
+    "credit": [
+        {
+            "+@gid": "1060799371",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Brain's Base",
+                "+@id": "11211"
+            }
+        },
+        {
+            "+@gid": "1128412040",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Visual",
+                "+@id": "18"
+            }
+        },
+        {
+            "+@gid": "2708444075",
+            "task": "Production",
+            "company": {
+                "+content": "NAS",
+                "+@id": "316"
+            }
+        },
+        {
+            "+@gid": "2329961095",
+            "task": "Production",
+            "company": {
+                "+content": "Hakusensha",
+                "+@id": "817"
+            }
         }
-    },
+    ],
     "+@date-added": "2017-03-24T23:12:07Z",
-    "+@date-last-modified-at": "2026-09-08T12:53:16Z",
-    "+@date-last-updated-at": "2026-09-08T12:53:16Z"
+    "+@date-last-modified-at": "2026-10-13T11:50:37Z",
+    "+@date-last-updated-at": "2026-10-13T11:50:37Z"
 }
