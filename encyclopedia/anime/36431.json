@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Tamala 2030: A Punk Cat in Dark",
     "+@precision": "movie",
-    "+@generated-on": "2026-09-15T19:42:32Z",
+    "+@generated-on": "2026-10-15T23:05:02Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "2637"
@@ -13,24 +13,19 @@
         {
             "+@gid": "1805415797",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36431-1805415797.1776390957.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36431-1805415797.1789610988.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36431-1805415797.1776390957.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36431-1805415797.1789610988.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36431-1805415797.1776390957.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36431-1805415797.1789610988.jpg",
                     "+@width": "424",
                     "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A36431-1805415797.1776390957.jpg",
-                    "+@width": "520",
-                    "+@height": "735"
                 }
             ]
         },
@@ -48,6 +43,18 @@
             "+content": "2025-07-20 (screened at Fantasia International Film Festival)",
             "+@gid": "1700500146",
             "+@type": "Premiere date"
+        },
+        {
+            "+content": "2027-01-22 (Japan & USA)",
+            "+@gid": "1724072454",
+            "+@type": "Premiere date"
+        },
+        {
+            "+content": "TAMALA 2030 a punk cat in dark",
+            "+@gid": "2970062164",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://tamala2030.com/"
         }
     ],
     "ratings": {
@@ -69,12 +76,25 @@
             "+content": "Spain's Sitges Int'l Film Fest to Screen <cite>ChaO</cite>, <cite>Angel's Egg</cite>, More Films",
             "+@datetime": "2025-08-14T09:11:34Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2025-08-14/spain-sitges-intl-film-fest-to-screen-chao-angel-egg-more-films/.227632"
+        },
+        {
+            "+content": "<cite>Tamala 2030</cite> Sequel Anime Film's Trailer Unveils January 22 Debut in U.S. & Japan",
+            "+@datetime": "2026-09-17T00:39:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-16/tamala-2030-sequel-anime-film-trailer-unveils-january-22-debut-in-u.s-and-japan/.241876"
         }
     ],
     "staff": [
         {
             "+@gid": "2487582641",
             "task": "Director",
+            "person": {
+                "+content": "t.o.L",
+                "+@id": "40696"
+            }
+        },
+        {
+            "+@gid": "3671175120",
+            "task": "Screenplay",
             "person": {
                 "+content": "t.o.L",
                 "+@id": "40696"
@@ -89,30 +109,73 @@
             }
         },
         {
-            "+@gid": "724470137",
-            "task": "Producer",
+            "+@gid": "1279206134",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kentaro Nemoto",
+                "+@id": "40687"
+            }
+        },
+        {
+            "+@gid": "2122918189",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Michirō Tsutsumoto",
+                "+@id": "40688"
+            }
+        },
+        {
+            "+@gid": "1641072178",
+            "task": "Executive producer",
             "person": {
                 "+content": "Shinya Kishiro",
                 "+@id": "296106"
             }
         },
         {
-            "+@gid": "2384236217",
-            "task": "Producer",
+            "+@gid": "1396877809",
+            "task": "Executive producer",
             "person": {
                 "+content": "Masashi Mutō",
                 "+@id": "296109"
             }
         },
         {
-            "+@gid": "2216890416",
-            "task": "Producer",
+            "+@gid": "1938542880",
+            "task": "Executive producer",
             "person": {
                 "+content": "Sayaka",
                 "+@id": "296112"
             }
+        },
+        {
+            "+@gid": "1599074075",
+            "task": "Executive producer",
+            "person": {
+                "+content": "HARU",
+                "+@id": "302075"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "1200115638",
+            "task": "Production",
+            "company": {
+                "+content": "Lamb Inc.",
+                "+@id": "28095"
+            }
+        },
+        {
+            "+@gid": "3407010403",
+            "task": "Production",
+            "company": {
+                "+content": "GunsRock",
+                "+@id": "28096"
+            }
         }
     ],
     "+@date-added": "2025-06-06T02:15:04Z",
-    "+@date-last-updated-at": "2026-09-15T19:42:35Z"
+    "+@date-last-modified-at": "2026-10-15T23:05:04Z",
+    "+@date-last-updated-at": "2026-10-15T23:05:04Z"
 }
