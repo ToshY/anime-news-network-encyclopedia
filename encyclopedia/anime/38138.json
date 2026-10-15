@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Disney Twisted-Wonderland The Animation: Episode of Savanaclaw",
     "+@precision": "ONA",
-    "+@generated-on": "2026-09-15T13:35:29Z",
+    "+@generated-on": "2026-10-15T19:54:18Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29543"
@@ -34,6 +34,21 @@
             "+@gid": "3258547562",
             "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "adventure",
+            "+@gid": "286753461",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "1739550457",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "school",
+            "+@gid": "1351917057",
+            "+@type": "Themes"
         },
         {
             "+content": "Stranded in the world of Twisted Wonderland, Yu must brave a magical school filled with ghosts, monsters, and uncooperative students. Yu finds herself at Night Raven College, a school for magic users, where the staff and students are getting ready for the interdormitory Spelldrive tournament. It sounds fun, but Yu soon learns that intensity, intrigue, and fierce competitiveness abound. <em class=de-emphasized>(from manga)</em>",
@@ -181,7 +196,25 @@
             }
         }
     ],
+    "credit": [
+        {
+            "+@gid": "824846399",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Yumeta Company",
+                "+@id": "2055"
+            }
+        },
+        {
+            "+@gid": "2885693620",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Graphinica",
+                "+@id": "8290"
+            }
+        }
+    ],
     "+@date-added": "2025-12-17T22:35:55Z",
-    "+@date-last-modified-at": "2026-09-15T13:35:36Z",
-    "+@date-last-updated-at": "2026-09-15T13:35:36Z"
+    "+@date-last-modified-at": "2026-10-15T19:54:23Z",
+    "+@date-last-updated-at": "2026-10-15T19:54:23Z"
 }

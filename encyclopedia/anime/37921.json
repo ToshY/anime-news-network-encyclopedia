@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Magic Knight Rayearth",
     "+@precision": "TV 2026",
-    "+@generated-on": "2026-09-15T13:35:30Z",
+    "+@generated-on": "2026-10-15T19:54:18Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "1565"
@@ -52,13 +52,39 @@
             "+@type": "Genres"
         },
         {
-            "+content": "Hikaru, Umi, and Fuu, girls from separate schools, find themselves linked together as they fall through the floor during a field trip to the Tokyo Tower. They land in a place called Cephiro, where their will controls what happens. They meet with Guru Clef and find out that they were summoned to save Princess Emeraude who has been imprisoned by High Priest Zagato. They learn magic and acquire weapons on their quest to save Cephiro from the evils of Zagato. <em class=de-emphasized>(from manga)</em>",
+            "+content": "magical girl",
+            "+@gid": "2429410383",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "Hikaru Shidou, Umi Ryuuzaki, and Fuu Hououji aren't from Cephiro. While on a school field trip to the Tokyo Tower, the three girls' minds are on anything but different worlds filled with magic and wonder. That is, until Princess Emeraude, the Pillar of Cephiro, cries out for the Magic Knights to save her world--and that just happens to be those three.",
+            "+@gid": "799381308",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "928675049",
+            "+@type": "Running time"
         },
         {
             "+content": "2026-10-07",
             "+@gid": "1225382364",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "#1: \"Otome no Tsurugi\" (乙女の剣) by Toaka (eps 2-)",
+            "+@gid": "2182842392",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "#1: \"Hoshiakari\" (星灯) by Yurina Kawaguchi (eps 2-)",
+            "+@gid": "3185057093",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Yuzurenai Negai\" (ゆずれない願い) by Naomi Tamura (ep 1)",
+            "+@gid": "2935215879",
+            "+@type": "Insert song"
         },
         {
             "+content": "TVアニメ『魔法騎士レイアース』公式サイト",
@@ -68,6 +94,10 @@
             "+@href": "https://rayearth-anime.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "4",
+        "+@weighted_score": "7.0021"
+    },
     "news": [
         {
             "+content": "CLAMP's New <cite>Magic Knight Rayearth</cite> Anime to Air in 2026",
@@ -93,6 +123,21 @@
             "+content": "New <cite>Magic Knight Rayearth</cite> Anime's New Trailer Unveils More Cast, October 7 Debut",
             "+@datetime": "2026-07-04T21:07:18Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-07-04/new-magic-knight-rayearth-anime-new-trailer-unveils-more-cast-october-7-debut/.239297"
+        },
+        {
+            "+content": "Crunchyroll Announces Release Schedule for Fall 2026 Season",
+            "+@datetime": "2026-09-15T17:52:07Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-15/crunchyroll-announces-release-schedule-for-fall-2026-season/.241811"
+        },
+        {
+            "+content": "New <cite>Magic Knight Rayearth</cite> Anime's 2nd Main Trailer Reveals More Cast, Theme Songs",
+            "+@datetime": "2026-09-20T05:27:15Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-20/new-magic-knight-rayearth-anime-2nd-main-trailer-reveals-more-cast-theme-songs/.242011"
+        },
+        {
+            "+content": "Ani-One Asia Streams <cite>'Tetsuryō! meet with Tetsudō Musume'</cite>, 4 More Anime in India",
+            "+@datetime": "2026-10-12T08:57:25Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-12/ani-one-asia-streams-tetsuryo-meet-with-tetsudo-musume-4-more-anime-in-india/.242739"
         }
     ],
     "staff": [
@@ -191,9 +236,66 @@
                 "+content": "Hitoshi Tamura",
                 "+@id": "47988"
             }
+        },
+        {
+            "+@gid": "2651803355",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Shin Furukawa",
+                "+@id": "97434"
+            }
+        },
+        {
+            "+@gid": "1850836202",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Yukiko Shirakura",
+                "+@id": "164952"
+            }
+        },
+        {
+            "+@gid": "662526173",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Ko Kitaoka",
+                "+@id": "292987"
+            }
+        },
+        {
+            "+@gid": "3919546606",
+            "task": "Producer",
+            "person": {
+                "+content": "Nozomi Matsuura",
+                "+@id": "99904"
+            }
+        },
+        {
+            "+@gid": "743483899",
+            "task": "Producer",
+            "person": {
+                "+content": "Airi Sawada",
+                "+@id": "179215"
+            }
+        },
+        {
+            "+@gid": "2115588209",
+            "task": "Producer",
+            "person": {
+                "+content": "Takuma Kishida",
+                "+@id": "181712"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "1254517667",
+            "+@lang": "JA",
+            "role": "Alcyone",
+            "person": {
+                "+content": "Mamiko Noto",
+                "+@id": "3166"
+            }
+        },
         {
             "+@gid": "1539545323",
             "+@lang": "JA",
@@ -210,6 +312,15 @@
             "person": {
                 "+content": "Emiri Katō",
                 "+@id": "28606"
+            }
+        },
+        {
+            "+@gid": "242830276",
+            "+@lang": "JA",
+            "role": "Lafarga",
+            "person": {
+                "+content": "Hiroki Yasumoto",
+                "+@id": "30785"
             }
         },
         {
@@ -267,12 +378,30 @@
             }
         },
         {
+            "+@gid": "823818719",
+            "+@lang": "JA",
+            "role": "Ascot",
+            "person": {
+                "+content": "Ayumu Murase",
+                "+@id": "113308"
+            }
+        },
+        {
             "+@gid": "221282737",
             "+@lang": "JA",
             "role": "Fū Hōōji",
             "person": {
                 "+content": "Rie Takahashi",
                 "+@id": "126148"
+            }
+        },
+        {
+            "+@gid": "915727913",
+            "+@lang": "JA",
+            "role": "Caldina",
+            "person": {
+                "+content": "Hitomi Ueda",
+                "+@id": "142425"
             }
         }
     ],
@@ -311,5 +440,6 @@
         }
     ],
     "+@date-added": "2025-10-17T07:45:22Z",
-    "+@date-last-updated-at": "2026-09-15T13:35:36Z"
+    "+@date-last-modified-at": "2026-10-15T19:54:23Z",
+    "+@date-last-updated-at": "2026-10-15T19:54:23Z"
 }

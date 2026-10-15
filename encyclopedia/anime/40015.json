@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Yuruyuru Zukan",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-15T13:35:28Z",
+    "+@generated-on": "2026-10-15T19:54:15Z",
     "related-prev": {
         "+@rel": "part of",
         "+@id": "37945"
@@ -36,13 +36,29 @@
             "+@lang": "JA"
         },
         {
+            "+content": "yuruyuru zukan: The Lo-fi creatures Guide",
+            "+@gid": "2355904166",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "ゆるゆる図鑑",
             "+@gid": "2510377370",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
-            "+content": "2026-10",
+            "+content": "The series shares facts and trivia about various types of animals, including extinct ones such as dinosaurs, or supernatural or urban legend creatures such as Big Foot.",
+            "+@gid": "3031654457",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2",
+            "+@gid": "1874207360",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "2026-10-04",
             "+@gid": "1225813140",
             "+@type": "Vintage"
         },
@@ -105,17 +121,96 @@
                 "+content": "Taeko Miura",
                 "+@id": "190748"
             }
+        },
+        {
+            "+@gid": "2345193454",
+            "task": "Producer",
+            "person": {
+                "+content": "Shuichi Kitada",
+                "+@id": "40770"
+            }
+        },
+        {
+            "+@gid": "1290465392",
+            "task": "Producer",
+            "person": {
+                "+content": "Tatsuya Sunako",
+                "+@id": "166848"
+            }
+        },
+        {
+            "+@gid": "1957849706",
+            "task": "Producer",
+            "person": {
+                "+content": "Rio Miyagawa",
+                "+@id": "302778"
+            }
+        },
+        {
+            "+@gid": "1423931661",
+            "task": "Producer",
+            "person": {
+                "+content": "Shōgo Ichinose",
+                "+@id": "302779"
+            }
         }
     ],
-    "cast": {
-        "+@gid": "2510346059",
-        "+@lang": "JA",
-        "role": "Hato (Pigeon)",
-        "person": {
-            "+content": "Emi Nitta",
-            "+@id": "96816"
+    "cast": [
+        {
+            "+@gid": "2191021308",
+            "+@lang": "JA",
+            "role": "Kyōryū (Dinosaur)",
+            "person": {
+                "+content": "Jun Fukushima",
+                "+@id": "14386"
+            }
+        },
+        {
+            "+@gid": "3530947986",
+            "+@lang": "JA",
+            "role": "Kyōryū (Dinosaur)",
+            "person": {
+                "+content": "Aya Uchida",
+                "+@id": "71069"
+            }
+        },
+        {
+            "+@gid": "3181392812",
+            "+@lang": "JA",
+            "role": "Kyōryū (Dinosaur)",
+            "person": {
+                "+content": "Sora Tokui",
+                "+@id": "94469"
+            }
+        },
+        {
+            "+@gid": "2510346059",
+            "+@lang": "JA",
+            "role": "Hato (Pigeon)",
+            "person": {
+                "+content": "Emi Nitta",
+                "+@id": "96816"
+            }
+        },
+        {
+            "+@gid": "1767805966",
+            "+@lang": "JA",
+            "role": "Kyōryū (Dinosaur)",
+            "person": {
+                "+content": "Ryūho Nagaoka",
+                "+@id": "226264"
+            }
+        },
+        {
+            "+@gid": "1066100188",
+            "+@lang": "JA",
+            "role": "Kyōryū (Dinosaur)",
+            "person": {
+                "+content": "Moeko Kodachi",
+                "+@id": "292554"
+            }
         }
-    },
+    ],
     "credit": [
         {
             "+@gid": "443580517",
@@ -135,5 +230,6 @@
         }
     ],
     "+@date-added": "2026-06-16T22:56:24Z",
-    "+@date-last-updated-at": "2026-09-15T13:35:36Z"
+    "+@date-last-modified-at": "2026-10-15T19:54:23Z",
+    "+@date-last-updated-at": "2026-10-15T19:54:23Z"
 }

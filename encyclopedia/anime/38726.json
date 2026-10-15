@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Tank Chair",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-15T13:35:29Z",
+    "+@generated-on": "2026-10-15T19:54:17Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29318"
@@ -47,8 +47,54 @@
             "+@type": "Genres"
         },
         {
-            "+content": "Living on Guicheng Island, called \"the most dangerous town in the universe,\" is no easy task. Genetic doping is common for gangs to gain ultimate power. Shizuka, a young girl, takes on the most dangerous of assassin jobs, but she's not the one doing the killing. Rather, it's her brother, Nagi, a strong assassin who took a bullet to protect his sister, leaving him in a comatose state and having to use a wheelchair. However, Shizuka has figured out the key to waking her brother up: he must be faced with murderous intent. <em class=de-emphasized>(from manga)</em>",
+            "+content": "science fiction",
+            "+@gid": "2142061342",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "assassins",
+            "+@gid": "2701363665",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "future",
+            "+@gid": "2049835545",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "gore",
+            "+@gid": "3355671988",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "monsters",
+            "+@gid": "2263231933",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "2625800848",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "technology",
+            "+@gid": "1691385677",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "MA",
+            "+@gid": "1301301960",
+            "+@type": "Objectionable content"
+        },
+        {
+            "+content": "Living on Guicheng Island, called \"the most dangerous town in the universe,\" is no easy task. Genetic doping is common for gangs to gain ultimate power. Shizuka, a young girl, takes on the most dangerous of assassin jobs, but she’s not the one doing the killing. Rather, it’s her brother, Nagi, a strong assassin who took a bullet to protect his sister, leaving him in a comatose state and having to use a wheelchair. However, Shizuka has figured out the key to waking her brother up: he must be faced with murderous intent. Thus begins a violent journey of recovery, battling the most dangerous foes.",
+            "+@gid": "3213458375",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "25",
+            "+@gid": "2449937769",
+            "+@type": "Running time"
         },
         {
             "+content": "2026-10-04",
@@ -80,6 +126,10 @@
             "+@href": "https://www.tankchair-anime.com/en/index.php"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "3",
+        "+@weighted_score": "1.1806"
+    },
     "news": [
         {
             "+content": "<cite>Tank Chair</cite> TV Anime Unveils Main Cast Members in Character Promo Video",
@@ -90,6 +140,11 @@
             "+content": "<cite>Tank Chair</cite> Anime's New Video Unveils More Cast & Staff, Song Artists, October 4 Debut",
             "+@datetime": "2026-08-12T03:51:23Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-08-11/tank-chair-anime-new-video-unveils-more-cast-and-staff-song-artists-october-4-debut/.240474"
+        },
+        {
+            "+content": "<cite>Tank Chair</cite> Anime Reveals 2nd Main Promo Video, Megumi Ogata as Sensei",
+            "+@datetime": "2026-09-17T03:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-16/tank-chair-anime-reveals-2nd-main-promo-video-megumi-ogata-as-sensei/.241870"
         }
     ],
     "staff": [
@@ -134,6 +189,22 @@
             }
         },
         {
+            "+@gid": "752570991",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Tatsuya Kuwahara",
+                "+@id": "131568"
+            }
+        },
+        {
+            "+@gid": "2195661596",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tatsuya Kuwahara",
+                "+@id": "131568"
+            }
+        },
+        {
             "+@gid": "2555031779",
             "task": "Music",
             "person": {
@@ -175,6 +246,105 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "1308315302",
+            "+@lang": "EN",
+            "role": "Shizuka Taira",
+            "person": {
+                "+content": "Megan Berrisford",
+                "+@id": "280704"
+            }
+        },
+        {
+            "+@gid": "817630294",
+            "+@lang": "EN",
+            "role": "Naozumi Kurosaka",
+            "person": {
+                "+content": "Luke Bollman",
+                "+@id": "280707"
+            }
+        },
+        {
+            "+@gid": "1344896504",
+            "+@lang": "EN",
+            "role": "Nagi Taira",
+            "person": {
+                "+content": "Conradie van Heerden",
+                "+@id": "280710"
+            }
+        },
+        {
+            "+@gid": "3613103758",
+            "+@lang": "EN",
+            "role": "Goro Arashiyama",
+            "person": {
+                "+content": "Chris Van Rensburg",
+                "+@id": "289404"
+            }
+        },
+        {
+            "+@gid": "2236291446",
+            "+@lang": "EN",
+            "role": "Ryo Takanashi",
+            "person": {
+                "+content": "Rafe Soule",
+                "+@id": "303127"
+            }
+        },
+        {
+            "+@gid": "1564650729",
+            "+@lang": "FR",
+            "role": "Shizuka Taira",
+            "person": {
+                "+content": "Nathalie Leplay",
+                "+@id": "135618"
+            }
+        },
+        {
+            "+@gid": "1654807573",
+            "+@lang": "FR",
+            "role": "Nagi Taira",
+            "person": {
+                "+content": "Alex Pinault",
+                "+@id": "281206"
+            }
+        },
+        {
+            "+@gid": "1219442868",
+            "+@lang": "FR",
+            "role": "Goro Arashiyama",
+            "person": {
+                "+content": "Hamza Touijri",
+                "+@id": "281209"
+            }
+        },
+        {
+            "+@gid": "3543533053",
+            "+@lang": "IT",
+            "role": "Nagi Taira",
+            "person": {
+                "+content": "Jacopo Calatroni",
+                "+@id": "123436"
+            }
+        },
+        {
+            "+@gid": "2644697016",
+            "+@lang": "IT",
+            "role": "Shizuka Taira",
+            "person": {
+                "+content": "Gaia Chiaro",
+                "+@id": "248402"
+            }
+        },
+        {
+            "+@gid": "3815966262",
+            "+@lang": "JA",
+            "role": "Sensei",
+            "person": {
+                "+content": "Megumi Ogata",
+                "+@id": "790"
+            }
+        },
         {
             "+@gid": "3699131899",
             "+@lang": "JA",
@@ -276,6 +446,6 @@
         }
     ],
     "+@date-added": "2026-03-17T23:47:36Z",
-    "+@date-last-modified-at": "2026-09-15T13:35:36Z",
-    "+@date-last-updated-at": "2026-09-15T13:35:36Z"
+    "+@date-last-modified-at": "2026-10-15T19:54:23Z",
+    "+@date-last-updated-at": "2026-10-15T19:54:23Z"
 }

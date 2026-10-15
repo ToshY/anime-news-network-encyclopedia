@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Iron Wok Jan!",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-15T13:35:29Z",
+    "+@generated-on": "2026-10-15T19:54:18Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "1594"
@@ -78,6 +78,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "2610706888",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-05",
             "+@gid": "2028405852",
             "+@type": "Vintage"
@@ -91,8 +96,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "3.8713"
+        "+@nb_votes": "17",
+        "+@weighted_score": "6.1928",
+        "+@bayesian_score": "6.7208"
     },
     "news": [
         {
@@ -232,6 +238,15 @@
             }
         },
         {
+            "+@gid": "1571239659",
+            "+@lang": "JA",
+            "role": "David Osawa",
+            "person": {
+                "+content": "Yutaka Aoyama",
+                "+@id": "18713"
+            }
+        },
+        {
             "+@gid": "1571527457",
             "+@lang": "JA",
             "role": "Yaichi Gobancho",
@@ -314,6 +329,6 @@
         }
     ],
     "+@date-added": "2025-12-15T04:33:41Z",
-    "+@date-last-modified-at": "2026-09-15T13:35:36Z",
-    "+@date-last-updated-at": "2026-09-15T13:35:36Z"
+    "+@date-last-modified-at": "2026-10-15T19:54:23Z",
+    "+@date-last-updated-at": "2026-10-15T19:54:23Z"
 }

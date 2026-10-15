@@ -2,9 +2,9 @@
     "+@id": "37853",
     "+@gid": "2188682875",
     "+@type": "TV",
-    "+@name": "I'm Looking For Zombie",
+    "+@name": "I’m Looking For a Zombie",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-15T19:42:30Z",
+    "+@generated-on": "2026-10-15T19:54:19Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "37852"
@@ -30,8 +30,8 @@
             ]
         },
         {
-            "+content": "#I'm Looking For Zombie",
-            "+@gid": "306787704",
+            "+content": "#I’m Looking For a Zombie",
+            "+@gid": "2620529018",
             "+@type": "Main title",
             "+@lang": "EN"
         },
@@ -42,8 +42,8 @@
             "+@lang": "JA"
         },
         {
-            "+content": "#I’m Looking For a Zombie",
-            "+@gid": "2620529018",
+            "+content": "#I'm Looking For Zombie",
+            "+@gid": "306787704",
             "+@type": "Alternative title",
             "+@lang": "EN"
         },
@@ -68,6 +68,16 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "23",
+            "+@gid": "2693175873",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "12",
+            "+@gid": "2080346922",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-10-03",
             "+@gid": "3574333312",
             "+@type": "Vintage"
@@ -90,6 +100,10 @@
             "+@href": "https://zommasu.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "4",
+        "+@weighted_score": "3.8363"
+    },
     "news": [
         {
             "+content": "<cite>#I'm Looking For Zombie</cite> TV Anime Unveils Main Cast & Staff, October Debut",
@@ -105,6 +119,16 @@
             "+content": "Crunchyroll Announces Release Schedule for Fall 2026 Season",
             "+@datetime": "2026-09-15T17:52:07Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-09-15/crunchyroll-announces-release-schedule-for-fall-2026-season/.241811"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>A Tale of the Secret Saint</cite>, <cite>Psyren</cite>, More Anime in India",
+            "+@datetime": "2026-10-02T10:51:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-02/crunchyroll-streams-a-tale-of-the-secret-saint-psyren-more-anime-in-india/.242409"
+        },
+        {
+            "+content": "<cite>FX Fighter Kurumi-chan</cite>, <cite>#I'm Looking For Zombie</cite>, <cite>Reborn as a Space Mercenary</cite> Anime Get Same-Day English Dubs",
+            "+@datetime": "2026-10-02T18:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-02/fx-fighter-kurumi-chan-im-looking-for-zombie-reborn-as-a-space-mercenary-anime-get-same-day-english-/.242425"
         }
     ],
     "staff": [
@@ -207,6 +231,51 @@
     ],
     "cast": [
         {
+            "+@gid": "2400254420",
+            "+@lang": "EN",
+            "role": "Sakura",
+            "person": {
+                "+content": "Anairis Quiñones",
+                "+@id": "184795"
+            }
+        },
+        {
+            "+@gid": "1444790458",
+            "+@lang": "EN",
+            "role": "Aki",
+            "person": {
+                "+content": "Madeline Dorroh",
+                "+@id": "203714"
+            }
+        },
+        {
+            "+@gid": "1469072374",
+            "+@lang": "EN",
+            "role": "Yu",
+            "person": {
+                "+content": "Giselle Fernandez",
+                "+@id": "205215"
+            }
+        },
+        {
+            "+@gid": "356408017",
+            "+@lang": "EN",
+            "role": "Haru",
+            "person": {
+                "+content": "Blythe Melin",
+                "+@id": "217806"
+            }
+        },
+        {
+            "+@gid": "1159353887",
+            "+@lang": "EN",
+            "role": "Natsuki",
+            "person": {
+                "+content": "Arianna Contardo",
+                "+@id": "302748"
+            }
+        },
+        {
             "+@gid": "3010176511",
             "+@lang": "JA",
             "role": "Aki's Father",
@@ -306,6 +375,6 @@
         }
     },
     "+@date-added": "2025-09-19T05:31:01Z",
-    "+@date-last-modified-at": "2026-09-15T19:42:35Z",
-    "+@date-last-updated-at": "2026-09-15T19:42:35Z"
+    "+@date-last-modified-at": "2026-10-15T19:54:23Z",
+    "+@date-last-updated-at": "2026-10-15T19:54:23Z"
 }

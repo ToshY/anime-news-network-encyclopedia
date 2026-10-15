@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Bride of the Barrier Master",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-15T13:35:34Z",
+    "+@generated-on": "2026-10-15T19:54:21Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26183"
@@ -13,17 +13,17 @@
         {
             "+@gid": "4085923429",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37525-4085923429.1781256639.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37525-4085923429.1789960806.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37525-4085923429.1781256639.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37525-4085923429.1789960806.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37525-4085923429.1781256639.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37525-4085923429.1789960806.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
@@ -65,11 +65,18 @@
             "+@href": "https://kekkaishi-ichirinka-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Bride of the Barrier Master</cite> TV Anime Reveals January 2027 Debut, Main Cast in Teaser Video",
-        "+@datetime": "2026-06-12T09:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-06-12/bride-of-the-barrier-master-tv-anime-reveals-january-2027-debut-main-cast-in-teaser-video/.238448"
-    },
+    "news": [
+        {
+            "+content": "<cite>Bride of the Barrier Master</cite> TV Anime Reveals January 2027 Debut, Main Cast in Teaser Video",
+            "+@datetime": "2026-06-12T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-06-12/bride-of-the-barrier-master-tv-anime-reveals-january-2027-debut-main-cast-in-teaser-video/.238448"
+        },
+        {
+            "+content": "<cite>Bride of the Barrier Master</cite> TV Anime Reveals 5 More Cast in New Teaser Video",
+            "+@datetime": "2026-09-21T03:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-20/bride-of-the-barrier-master-tv-anime-reveals-5-more-cast-in-new-teaser-video/.242013"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1945452799",
@@ -154,6 +161,15 @@
     ],
     "cast": [
         {
+            "+@gid": "3489504007",
+            "+@lang": "JA",
+            "role": "Miyabi",
+            "person": {
+                "+content": "M.A.O",
+                "+@id": "123756"
+            }
+        },
+        {
             "+@gid": "3058937925",
             "+@lang": "JA",
             "role": "Hana Ichise",
@@ -163,12 +179,48 @@
             }
         },
         {
+            "+@gid": "3443185563",
+            "+@lang": "JA",
+            "role": "Hazuki Ichise",
+            "person": {
+                "+content": "Kanon Takao",
+                "+@id": "142397"
+            }
+        },
+        {
             "+@gid": "2593692867",
             "+@lang": "JA",
             "role": "Saku Ichinomiya",
             "person": {
                 "+content": "Kikunosuke Toya",
                 "+@id": "222634"
+            }
+        },
+        {
+            "+@gid": "3145944728",
+            "+@lang": "JA",
+            "role": "Aoi",
+            "person": {
+                "+content": "Taihi Kimura",
+                "+@id": "230082"
+            }
+        },
+        {
+            "+@gid": "1248616116",
+            "+@lang": "JA",
+            "role": "Nozomi Ichinomiya",
+            "person": {
+                "+content": "Hiroto Shimizu",
+                "+@id": "276234"
+            }
+        },
+        {
+            "+@gid": "2136141605",
+            "+@lang": "JA",
+            "role": "Azuha",
+            "person": {
+                "+content": "Yuzuki Tamukai",
+                "+@id": "290692"
             }
         }
     ],
@@ -181,5 +233,6 @@
         }
     },
     "+@date-added": "2025-08-19T18:21:16Z",
-    "+@date-last-updated-at": "2026-09-15T13:35:36Z"
+    "+@date-last-modified-at": "2026-10-15T19:54:23Z",
+    "+@date-last-updated-at": "2026-10-15T19:54:23Z"
 }
