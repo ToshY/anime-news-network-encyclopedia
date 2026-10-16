@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "From Old Country Bumpkin to Master Swordsman",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-09-16T13:31:29Z",
+    "+@generated-on": "2026-10-16T19:29:13Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "33057"
+    },
+    "related-next": {
+        "+@id": "40570",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -78,6 +82,11 @@
             "+@type": "Themes"
         },
         {
+            "+content": "monsters",
+            "+@gid": "1949162473",
+            "+@type": "Themes"
+        },
+        {
             "+content": "parenting",
             "+@gid": "1799601868",
             "+@type": "Themes"
@@ -90,6 +99,11 @@
         {
             "+content": "swordplay",
             "+@gid": "3997950888",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "swordsman",
+            "+@gid": "2516180192",
             "+@type": "Themes"
         },
         {
@@ -141,8 +155,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "8",
-        "+@weighted_score": "6.5587"
+        "+@nb_votes": "59",
+        "+@weighted_score": "7.3461",
+        "+@bayesian_score": "7.36684"
     },
     "news": [
         {
@@ -309,6 +324,15 @@
             }
         },
         {
+            "+@gid": "3552070930",
+            "+@lang": "EN",
+            "role": "Hanoy Cressa",
+            "person": {
+                "+content": "Sean Burgos",
+                "+@id": "188109"
+            }
+        },
+        {
             "+@gid": "2515696023",
             "+@lang": "EN",
             "role": "Beryl Gardenant",
@@ -336,6 +360,24 @@
             }
         },
         {
+            "+@gid": "2181243072",
+            "+@lang": "EN",
+            "role": "Shueste Flumvelk",
+            "person": {
+                "+content": "Chelsea Krause",
+                "+@id": "280753"
+            }
+        },
+        {
+            "+@gid": "1238972397",
+            "+@lang": "EN",
+            "role": "Surena Lysandra",
+            "person": {
+                "+content": "Chelsea Krause",
+                "+@id": "280753"
+            }
+        },
+        {
             "+@gid": "1929469266",
             "+@lang": "EN",
             "role": "Curuni Crueciel",
@@ -354,6 +396,15 @@
             }
         },
         {
+            "+@gid": "1053992180",
+            "+@lang": "EN",
+            "role": "Prim",
+            "person": {
+                "+content": "Julz Roche",
+                "+@id": "280755"
+            }
+        },
+        {
             "+@gid": "2331650940",
             "+@lang": "EN",
             "role": "Mewi Freya",
@@ -363,12 +414,57 @@
             }
         },
         {
+            "+@gid": "2746152884",
+            "+@lang": "EN",
+            "role": "Gatoga Lazorne",
+            "person": {
+                "+content": "Varian David",
+                "+@id": "284397"
+            }
+        },
+        {
+            "+@gid": "221168761",
+            "+@lang": "EN",
+            "role": "Rose Marblehart",
+            "person": {
+                "+content": "Shannon O'Brien",
+                "+@id": "284400"
+            }
+        },
+        {
+            "+@gid": "2923594880",
+            "+@lang": "EN",
+            "role": "Kuriu Rybark",
+            "person": {
+                "+content": "Clifton Yada",
+                "+@id": "289119"
+            }
+        },
+        {
             "+@gid": "2279598693",
             "+@lang": "EN",
             "role": "Warren Flumvelk",
             "person": {
                 "+content": "Tyler Menjivar",
                 "+@id": "291844"
+            }
+        },
+        {
+            "+@gid": "3896386917",
+            "+@lang": "EN",
+            "role": "Pope Morris Pasyushka",
+            "person": {
+                "+content": "Dexter Wite",
+                "+@id": "302483"
+            }
+        },
+        {
+            "+@gid": "2609250618",
+            "+@lang": "EN",
+            "role": "Gatoga Lazorne",
+            "person": {
+                "+content": "Ovais Malik",
+                "+@id": "302484"
             }
         },
         {
@@ -426,6 +522,24 @@
             }
         },
         {
+            "+@gid": "2128818674",
+            "+@lang": "FR",
+            "role": "Rose Marblehart",
+            "person": {
+                "+content": "Caroline Roussel",
+                "+@id": "264177"
+            }
+        },
+        {
+            "+@gid": "2732853130",
+            "+@lang": "FR",
+            "role": "Morris Pasyushka",
+            "person": {
+                "+content": "Guillaume Laroche",
+                "+@id": "264179"
+            }
+        },
+        {
             "+@gid": "2924568678",
             "+@lang": "FR",
             "role": "Allucia Citrus",
@@ -444,12 +558,30 @@
             }
         },
         {
+            "+@gid": "3417710151",
+            "+@lang": "FR",
+            "role": "Shueste Flumvelk",
+            "person": {
+                "+content": "Elsa Petit",
+                "+@id": "279250"
+            }
+        },
+        {
             "+@gid": "2558825789",
             "+@lang": "FR",
             "role": "Lucy Diamond",
             "person": {
                 "+content": "Corinne Kempa",
                 "+@id": "279252"
+            }
+        },
+        {
+            "+@gid": "4020986730",
+            "+@lang": "FR",
+            "role": "Prim",
+            "person": {
+                "+content": "Julie Franco",
+                "+@id": "301741"
             }
         },
         {
@@ -724,6 +856,6 @@
         }
     ],
     "+@date-added": "2025-06-21T21:05:19Z",
-    "+@date-last-modified-at": "2026-09-16T13:31:38Z",
-    "+@date-last-updated-at": "2026-09-16T13:31:38Z"
+    "+@date-last-modified-at": "2026-10-16T19:34:11Z",
+    "+@date-last-updated-at": "2026-10-16T19:34:11Z"
 }

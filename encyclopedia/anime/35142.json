@@ -2,9 +2,9 @@
     "+@id": "35142",
     "+@gid": "4042185540",
     "+@type": "movie",
-    "+@name": "Mononoke The Movie: Chapter III – The Curse of the Serpent Anime",
+    "+@name": "Mononoke The Movie: Chapter III – The Curse of the Serpent",
     "+@precision": "movie",
-    "+@generated-on": "2026-09-16T13:31:35Z",
+    "+@generated-on": "2026-10-16T19:34:07Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "33019"
@@ -35,7 +35,7 @@
             ]
         },
         {
-            "+content": "Mononoke The Movie: Chapter III – The Curse of the Serpent Anime",
+            "+content": "Mononoke The Movie: Chapter III – The Curse of the Serpent",
             "+@gid": "387184510",
             "+@type": "Main title",
             "+@lang": "EN"
@@ -45,6 +45,12 @@
             "+@gid": "1864596913",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "Mononoke : La Malédiction du Serpent",
+            "+@gid": "529386921",
+            "+@type": "Alternative title",
+            "+@lang": "FR"
         },
         {
             "+content": "劇場版モノノ怪 第三章 蛇神",
@@ -74,6 +80,10 @@
             "+@href": "https://www.mononoke-movie.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "10",
+        "+@weighted_score": "7.6175"
+    },
     "review": {
         "+content": "<cite>Mononoke The Movie: Chapter III – The Curse of the Serpent</cite> Anime Film Review",
         "+@href": "https://www.animenewsnetwork.com/review/mononoke-the-movie/chapter-iii-the-curse-of-the-serpent-anime-film/.237933"
@@ -259,12 +269,372 @@
     ],
     "cast": [
         {
+            "+@gid": "1783308506",
+            "+@lang": "EN",
+            "role": "Medicine Seller",
+            "person": {
+                "+content": "Crispin Freeman",
+                "+@id": "1074"
+            }
+        },
+        {
+            "+@gid": "1596734529",
+            "+@lang": "EN",
+            "role": "Hokuto Mizorogi",
+            "person": {
+                "+content": "Stephen Fu",
+                "+@id": "146239"
+            }
+        },
+        {
+            "+@gid": "2356241092",
+            "+@lang": "EN",
+            "role": "Botan Ōtomo",
+            "person": {
+                "+content": "Natalie Van Sistine",
+                "+@id": "148111"
+            }
+        },
+        {
+            "+@gid": "3210795171",
+            "+@lang": "EN",
+            "role": "Tokiwai",
+            "person": {
+                "+content": "Anne Yatco",
+                "+@id": "152297"
+            }
+        },
+        {
+            "+@gid": "2547847868",
+            "+@lang": "EN",
+            "role": "Asa",
+            "person": {
+                "+content": "Alejandra Reynoso",
+                "+@id": "156662"
+            }
+        },
+        {
+            "+@gid": "2394877738",
+            "+@lang": "EN",
+            "role": "Fujimaki",
+            "person": {
+                "+content": "Ryan Colt Levy",
+                "+@id": "188981"
+            }
+        },
+        {
+            "+@gid": "1362431335",
+            "+@lang": "EN",
+            "role": "Suikoin",
+            "person": {
+                "+content": "Courtney Lin",
+                "+@id": "213124"
+            }
+        },
+        {
+            "+@gid": "2117582713",
+            "+@lang": "EN",
+            "role": "Sakashita",
+            "person": {
+                "+content": "Blythe Melin",
+                "+@id": "217806"
+            }
+        },
+        {
+            "+@gid": "1442625350",
+            "+@lang": "EN",
+            "role": "Majesty",
+            "person": {
+                "+content": "Kevin Andrew Rivera",
+                "+@id": "221037"
+            }
+        },
+        {
+            "+@gid": "1340393104",
+            "+@lang": "EN",
+            "role": "Fuki Tokita",
+            "person": {
+                "+content": "Ashely Biski",
+                "+@id": "233358"
+            }
+        },
+        {
+            "+@gid": "2971168728",
+            "+@lang": "EN",
+            "role": "Lady Ama",
+            "person": {
+                "+content": "Rebecca Wang",
+                "+@id": "255180"
+            }
+        },
+        {
+            "+@gid": "1139417634",
+            "+@lang": "EN",
+            "role": "Yukiko",
+            "person": {
+                "+content": "Shaciah Rose",
+                "+@id": "302612"
+            }
+        },
+        {
+            "+@gid": "2809221295",
+            "+@lang": "FR",
+            "role": "Fujimaki",
+            "person": {
+                "+content": "Cyrille Artaux",
+                "+@id": "34265"
+            }
+        },
+        {
+            "+@gid": "2453720710",
+            "+@lang": "FR",
+            "role": "Suikōin",
+            "person": {
+                "+content": "Anne Plumet",
+                "+@id": "53642"
+            }
+        },
+        {
+            "+@gid": "1895786198",
+            "+@lang": "FR",
+            "role": "Tokiwai",
+            "person": {
+                "+content": "Virginie Kartner",
+                "+@id": "70526"
+            }
+        },
+        {
+            "+@gid": "1178257575",
+            "+@lang": "FR",
+            "role": "Asa",
+            "person": {
+                "+content": "Karl-Line Heller",
+                "+@id": "77506"
+            }
+        },
+        {
+            "+@gid": "2164084501",
+            "+@lang": "FR",
+            "role": "Hiramoto Saga",
+            "person": {
+                "+content": "Benjamin Bollen",
+                "+@id": "126247"
+            }
+        },
+        {
+            "+@gid": "2571867927",
+            "+@lang": "FR",
+            "role": "Saku Mizorogi",
+            "person": {
+                "+content": "Benjamin Bollen",
+                "+@id": "126247"
+            }
+        },
+        {
+            "+@gid": "2775732759",
+            "+@lang": "FR",
+            "role": "Yukiko",
+            "person": {
+                "+content": "Claire Baradat",
+                "+@id": "129616"
+            }
+        },
+        {
+            "+@gid": "1572269002",
+            "+@lang": "FR",
+            "role": "L'Apothicaire",
+            "person": {
+                "+content": "Alan Aubert",
+                "+@id": "134719"
+            }
+        },
+        {
+            "+@gid": "753205827",
+            "+@lang": "FR",
+            "role": "Hokuto Mizorogi",
+            "person": {
+                "+content": "Adrien Larmande",
+                "+@id": "154105"
+            }
+        },
+        {
+            "+@gid": "1416330163",
+            "+@lang": "FR",
+            "role": "Dame Ama",
+            "person": {
+                "+content": "Cécilé Gatto",
+                "+@id": "155604"
+            }
+        },
+        {
+            "+@gid": "1600489754",
+            "+@lang": "FR",
+            "role": "Sakashita",
+            "person": {
+                "+content": "Florian Wormser",
+                "+@id": "162940"
+            }
+        },
+        {
+            "+@gid": "3415438548",
+            "+@lang": "FR",
+            "role": "Sa Majesté",
+            "person": {
+                "+content": "Juan Llorca",
+                "+@id": "183670"
+            }
+        },
+        {
+            "+@gid": "1228701714",
+            "+@lang": "FR",
+            "role": "Fuki Tokita",
+            "person": {
+                "+content": "Meaghan Dendrael",
+                "+@id": "207725"
+            }
+        },
+        {
+            "+@gid": "2262827087",
+            "+@lang": "FR",
+            "role": "Botan Ōtomo",
+            "person": {
+                "+content": "Thaïs Laurent",
+                "+@id": "241209"
+            }
+        },
+        {
+            "+@gid": "2141297304",
+            "+@lang": "IT",
+            "role": "Medicine Seller",
+            "person": {
+                "+content": "Daniele Raffaeli",
+                "+@id": "29555"
+            }
+        },
+        {
+            "+@gid": "1356774531",
+            "+@lang": "IT",
+            "role": "Suikoin",
+            "person": {
+                "+content": "Antonella Giannini",
+                "+@id": "53667"
+            }
+        },
+        {
+            "+@gid": "1526280905",
+            "+@lang": "IT",
+            "role": "Tokiwai",
+            "person": {
+                "+content": "Daniela Abbruzzese",
+                "+@id": "76228"
+            }
+        },
+        {
+            "+@gid": "1578446358",
+            "+@lang": "IT",
+            "role": "Fuki Tokita",
+            "person": {
+                "+content": "Elena Liberati",
+                "+@id": "96229"
+            }
+        },
+        {
+            "+@gid": "2917075647",
+            "+@lang": "IT",
+            "role": "Sakashita",
+            "person": {
+                "+content": "Stefano Alessandroni",
+                "+@id": "147183"
+            }
+        },
+        {
+            "+@gid": "3194711675",
+            "+@lang": "IT",
+            "role": "Asa",
+            "person": {
+                "+content": "Lavinia Paladino",
+                "+@id": "167193"
+            }
+        },
+        {
+            "+@gid": "3546528330",
+            "+@lang": "IT",
+            "role": "Medicine Seller",
+            "person": {
+                "+content": "Gianluca Cortesi",
+                "+@id": "168262"
+            }
+        },
+        {
+            "+@gid": "1959379684",
+            "+@lang": "IT",
+            "role": "Hokuto Mizorogi",
+            "person": {
+                "+content": "Claudio Marsicola",
+                "+@id": "183624"
+            }
+        },
+        {
+            "+@gid": "2844105742",
+            "+@lang": "IT",
+            "role": "Yukiko",
+            "person": {
+                "+content": "Federica Simonelli",
+                "+@id": "191771"
+            }
+        },
+        {
+            "+@gid": "1904004462",
+            "+@lang": "IT",
+            "role": "Lady Ama",
+            "person": {
+                "+content": "Sofia Alexandra Porta",
+                "+@id": "241268"
+            }
+        },
+        {
+            "+@gid": "2428026918",
+            "+@lang": "IT",
+            "role": "Imperatore",
+            "person": {
+                "+content": "Alessandro Navarino",
+                "+@id": "278620"
+            }
+        },
+        {
+            "+@gid": "2165569696",
+            "+@lang": "IT",
+            "role": "Botan Otomo",
+            "person": {
+                "+content": "Uma Salusti",
+                "+@id": "278622"
+            }
+        },
+        {
+            "+@gid": "2511847961",
+            "+@lang": "JA",
+            "role": "Hiramoto Saga",
+            "person": {
+                "+content": "Jun Fukuyama",
+                "+@id": "337"
+            }
+        },
+        {
             "+@gid": "1634148486",
             "+@lang": "JA",
             "role": "Suikōin",
             "person": {
                 "+content": "Yoshiko Sakakibara",
                 "+@id": "1022"
+            }
+        },
+        {
+            "+@gid": "3874216735",
+            "+@lang": "JA",
+            "role": "Fujimaki",
+            "person": {
+                "+content": "Ryō Horikawa",
+                "+@id": "1104"
             }
         },
         {
@@ -331,6 +701,15 @@
             }
         },
         {
+            "+@gid": "3597693826",
+            "+@lang": "JA",
+            "role": "Saburōmaru Tokita",
+            "person": {
+                "+content": "Yūki Kaji",
+                "+@id": "58051"
+            }
+        },
+        {
             "+@gid": "3464833968",
             "+@lang": "JA",
             "role": "Botan Ōtomo",
@@ -355,6 +734,15 @@
             "person": {
                 "+content": "Mariko Honda",
                 "+@id": "70862"
+            }
+        },
+        {
+            "+@gid": "865113981",
+            "+@lang": "JA",
+            "role": "Sakashita",
+            "person": {
+                "+content": "Daisuke Hosomi",
+                "+@id": "73164"
             }
         },
         {
@@ -403,6 +791,6 @@
         }
     ],
     "+@date-added": "2025-03-14T03:19:36Z",
-    "+@date-last-modified-at": "2026-09-16T13:31:38Z",
-    "+@date-last-updated-at": "2026-09-16T13:31:38Z"
+    "+@date-last-modified-at": "2026-10-16T19:34:11Z",
+    "+@date-last-updated-at": "2026-10-16T19:34:11Z"
 }

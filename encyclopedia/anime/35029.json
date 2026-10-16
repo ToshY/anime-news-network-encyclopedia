@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Black Torch",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-16T13:31:35Z",
+    "+@generated-on": "2026-10-16T19:34:08Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "20345"
@@ -91,6 +91,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "3298956758",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-04",
             "+@gid": "2002384999",
             "+@type": "Vintage"
@@ -111,8 +116,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "11",
-        "+@weighted_score": "5.1768"
+        "+@nb_votes": "39",
+        "+@weighted_score": "6.4393",
+        "+@bayesian_score": "6.68154"
     },
     "episode": [
         {
@@ -200,6 +206,14 @@
             "title": {
                 "+content": "Black or White",
                 "+@gid": "2948990516",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "ONCE AGAIN",
+                "+@gid": "2469287462",
                 "+@lang": "EN"
             }
         }
@@ -299,11 +313,171 @@
             }
         },
         {
+            "+@gid": "1466346207",
+            "task": "Script",
+            "person": {
+                "+content": "Keiichirō Ōchi",
+                "+@id": "100904"
+            }
+        },
+        {
             "+@gid": "1452929162",
             "task": "Script",
             "person": {
                 "+content": "Gigaemon Ichikawa",
                 "+@id": "145724"
+            }
+        },
+        {
+            "+@gid": "2615153821",
+            "task": "Script",
+            "person": {
+                "+content": "Hideaki Shirasaka",
+                "+@id": "222962"
+            }
+        },
+        {
+            "+@gid": "482766525",
+            "task": "Script",
+            "person": {
+                "+content": "Kōki Hashimoto",
+                "+@id": "241543"
+            }
+        },
+        {
+            "+@gid": "2938138778",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hiroshi Hara",
+                "+@id": "15643"
+            }
+        },
+        {
+            "+@gid": "2425362250",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kiyoshi Okuyama",
+                "+@id": "74319"
+            }
+        },
+        {
+            "+@gid": "3220462652",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Ryūhei Aoyagi",
+                "+@id": "81921"
+            }
+        },
+        {
+            "+@gid": "3470975678",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Mayuko Matsui",
+                "+@id": "84973"
+            }
+        },
+        {
+            "+@gid": "3332610637",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kei Umabiki",
+                "+@id": "183222"
+            }
+        },
+        {
+            "+@gid": "2587536680",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Chihiro Nitta",
+                "+@id": "191357"
+            }
+        },
+        {
+            "+@gid": "1922033615",
+            "task": "Storyboard",
+            "person": {
+                "+content": "TYUTYU",
+                "+@id": "302208"
+            }
+        },
+        {
+            "+@gid": "2030504640",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Mizuki Nagara",
+                "+@id": "302209"
+            }
+        },
+        {
+            "+@gid": "1102968516",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yasutoshi Iwasaki",
+                "+@id": "60969"
+            }
+        },
+        {
+            "+@gid": "1722091469",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yoshihide Ibata",
+                "+@id": "81163"
+            }
+        },
+        {
+            "+@gid": "1427689784",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ryūhei Aoyagi",
+                "+@id": "81921"
+            }
+        },
+        {
+            "+@gid": "2343613020",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yi Wang",
+                "+@id": "92392"
+            }
+        },
+        {
+            "+@gid": "1757442388",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Seung Cheol Ko",
+                "+@id": "123138"
+            }
+        },
+        {
+            "+@gid": "3265797527",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kei Umabiki",
+                "+@id": "183222"
+            }
+        },
+        {
+            "+@gid": "1589491572",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tomoaki Takatsudo",
+                "+@id": "200331"
+            }
+        },
+        {
+            "+@gid": "2506569647",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hitoshi Motoi",
+                "+@id": "210256"
+            }
+        },
+        {
+            "+@gid": "806251563",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yūdai Ishikawa",
+                "+@id": "221958"
             }
         },
         {
@@ -458,15 +632,6 @@
             }
         },
         {
-            "+@gid": "1469471027",
-            "+@lang": "EN",
-            "role": "Kanawa",
-            "person": {
-                "+content": "Mick Lauer",
-                "+@id": "123816"
-            }
-        },
-        {
             "+@gid": "2858518095",
             "+@lang": "EN",
             "role": "Reiji Kirihara",
@@ -491,15 +656,6 @@
             "person": {
                 "+content": "Ryan Bartley",
                 "+@id": "137736"
-            }
-        },
-        {
-            "+@gid": "2673782076",
-            "+@lang": "EN",
-            "role": "Monjumaru",
-            "person": {
-                "+content": "Ben Balmaceda",
-                "+@id": "154217"
             }
         },
         {
@@ -572,15 +728,6 @@
             "person": {
                 "+content": "A.J. Beckles",
                 "+@id": "207769"
-            }
-        },
-        {
-            "+@gid": "2142006669",
-            "+@lang": "EN",
-            "role": "Ibuki",
-            "person": {
-                "+content": "Stephanie Kerbis",
-                "+@id": "275934"
             }
         },
         {
@@ -881,15 +1028,6 @@
             }
         },
         {
-            "+@gid": "2765256569",
-            "+@lang": "JA",
-            "role": "Kanawa",
-            "person": {
-                "+content": "Tetsu Inada",
-                "+@id": "7015"
-            }
-        },
-        {
             "+@gid": "3155594165",
             "+@lang": "JA",
             "role": "Tōko Kusumi",
@@ -1076,6 +1214,6 @@
         }
     ],
     "+@date-added": "2025-03-08T21:52:33Z",
-    "+@date-last-modified-at": "2026-09-16T13:31:39Z",
-    "+@date-last-updated-at": "2026-09-16T13:31:39Z"
+    "+@date-last-modified-at": "2026-10-16T19:34:11Z",
+    "+@date-last-updated-at": "2026-10-16T19:34:11Z"
 }
