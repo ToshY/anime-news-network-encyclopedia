@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "STEEL BALL RUN JoJo’s Bizarre Adventure",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-16T04:52:23Z",
+    "+@generated-on": "2026-10-16T13:16:51Z",
     "related-prev": [
         {
             "+@rel": "adapted from",
@@ -169,13 +169,23 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "2026-09-25 (2nd Stage)",
+            "+content": "2026-09-25 (2nd & 3rd Stage)",
             "+@gid": "1497235580",
             "+@type": "Vintage"
         },
         {
+            "+content": "\"SPIN\" by Kroi (eps 2-)",
+            "+@gid": "2270872331",
+            "+@type": "Opening Theme"
+        },
+        {
             "+content": "#1: \"Dance with STEEL BALL RUN\" by Yūgo Kanno (ep 1)",
             "+@gid": "3034322859",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#2: \"Shinukaikiruka\" (死ぬか生きるか) by Yūki Chiba (eps 2-)",
+            "+@gid": "2178709241",
             "+@type": "Ending Theme"
         },
         {
@@ -188,16 +198,26 @@
     ],
     "ratings": {
         "+@nb_votes": "5",
-        "+@weighted_score": "8.1"
+        "+@weighted_score": "8.0956"
     },
-    "episode": {
-        "+@num": "1",
-        "title": {
-            "+content": "Steel Ball Run",
-            "+@gid": "228238412",
-            "+@lang": "EN"
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "Steel Ball Run",
+                "+@gid": "228238412",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "The Sheriff's Request to Mountain Tim",
+                "+@gid": "3099297277",
+                "+@lang": "EN"
+            }
         }
-    },
+    ],
     "review": {
         "+content": "<cite>STEEL BALL RUN JoJo's Bizarre Adventure</cite> 1st STAGE Review",
         "+@href": "https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/st-stage/.235501"
@@ -232,6 +252,11 @@
             "+content": "<cite>JoJo's Bizarre Adventure Part 7: Steel Ball Run</cite> Anime's '2nd Stage' Begins on September 25 (Updated)",
             "+@datetime": "2026-07-03T20:53:57Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-07-03/jojo-bizarre-adventure-part-7-steel-ball-run-anime-2nd-stage-begins-on-september-25/.239196"
+        },
+        {
+            "+content": "Rock Band Kroi Performs <cite>STEEL BALL RUN JoJo's Bizarre Adventure</cite> Anime's Opening Song (Updated)",
+            "+@datetime": "2026-09-23T12:12:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-23/rock-band-kroi-performs-steel-ball-run-jojo-bizarre-adventure-anime-opening-song/.242103"
         }
     ],
     "staff": [
@@ -516,6 +541,15 @@
             }
         },
         {
+            "+@gid": "1614664823",
+            "+@lang": "EN",
+            "role": "Mountain Tim",
+            "person": {
+                "+content": "Joshua David King",
+                "+@id": "224399"
+            }
+        },
+        {
             "+@gid": "2641505436",
             "+@lang": "EN",
             "role": "Lucy Steel",
@@ -531,6 +565,15 @@
             "person": {
                 "+content": "Jean-François Aupied",
                 "+@id": "54014"
+            }
+        },
+        {
+            "+@gid": "1720541776",
+            "+@lang": "FR",
+            "role": "Mountain Tim",
+            "person": {
+                "+content": "Raphaël Cohen",
+                "+@id": "57338"
             }
         },
         {
@@ -594,6 +637,15 @@
             "person": {
                 "+content": "Marco Balzarotti",
                 "+@id": "25937"
+            }
+        },
+        {
+            "+@gid": "1971044102",
+            "+@lang": "IT",
+            "role": "Mountain Tim",
+            "person": {
+                "+content": "Gianluca Crisafi",
+                "+@id": "53698"
             }
         },
         {
@@ -792,6 +844,6 @@
         }
     ],
     "+@date-added": "2025-04-12T20:23:51Z",
-    "+@date-last-modified-at": "2026-09-16T04:52:29Z",
-    "+@date-last-updated-at": "2026-09-16T04:52:29Z"
+    "+@date-last-modified-at": "2026-10-16T13:16:55Z",
+    "+@date-last-updated-at": "2026-10-16T13:16:55Z"
 }

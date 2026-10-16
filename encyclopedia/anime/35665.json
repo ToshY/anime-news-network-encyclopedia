@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Jaadugar: A Witch in Mongolia",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-16T04:52:23Z",
+    "+@generated-on": "2026-10-16T13:16:50Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26729"
@@ -104,6 +104,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "687568031",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-04",
             "+@gid": "1628565354",
             "+@type": "Vintage"
@@ -134,9 +139,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "27",
-        "+@weighted_score": "7.9884",
-        "+@bayesian_score": "7.82865"
+        "+@nb_votes": "60",
+        "+@weighted_score": "8.1341",
+        "+@bayesian_score": "8.02322"
     },
     "episode": [
         {
@@ -462,15 +467,6 @@
             }
         },
         {
-            "+@gid": "2513752861",
-            "+@lang": "EN",
-            "role": "Jochi",
-            "person": {
-                "+content": "Charles Nguyen",
-                "+@id": "230066"
-            }
-        },
-        {
             "+@gid": "435965192",
             "+@lang": "EN",
             "role": "Chagatai",
@@ -723,15 +719,6 @@
             }
         },
         {
-            "+@gid": "1615088967",
-            "+@lang": "JA",
-            "role": "Jochi",
-            "person": {
-                "+content": "Kenji Nojima",
-                "+@id": "4667"
-            }
-        },
-        {
             "+@gid": "797694263",
             "+@lang": "JA",
             "role": "Ögedei",
@@ -813,6 +800,6 @@
         }
     },
     "+@date-added": "2025-04-14T05:45:27Z",
-    "+@date-last-modified-at": "2026-09-16T04:52:29Z",
-    "+@date-last-updated-at": "2026-09-16T04:52:29Z"
+    "+@date-last-modified-at": "2026-10-16T13:16:55Z",
+    "+@date-last-updated-at": "2026-10-16T13:16:55Z"
 }
