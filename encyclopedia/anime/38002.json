@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Love Unseen Beneath the Clear Night Sky",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-16T19:34:23Z",
+    "+@generated-on": "2026-10-16T22:52:16Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "37427"
@@ -139,8 +139,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "7",
-        "+@weighted_score": "5.9625"
+        "+@nb_votes": "39",
+        "+@weighted_score": "7.538",
+        "+@bayesian_score": "7.52172"
     },
     "episode": [
         {
@@ -228,6 +229,14 @@
             "title": {
                 "+content": "Sorano Kakeru",
                 "+@gid": "900794301",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "The Memory of a Lifetime",
+                "+@gid": "1874067391",
                 "+@lang": "EN"
             }
         }
@@ -360,6 +369,14 @@
                 "+content": "Daigo Matsumoto",
                 "+@id": "213402"
             }
+        },
+        {
+            "+@gid": "2313156688",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Tomoya Yokoyama",
+                "+@id": "216284"
+            }
         }
     ],
     "cast": [
@@ -409,6 +426,6 @@
         }
     },
     "+@date-added": "2025-11-14T01:02:58Z",
-    "+@date-last-modified-at": "2026-09-16T19:34:29Z",
-    "+@date-last-updated-at": "2026-09-16T19:34:29Z"
+    "+@date-last-modified-at": "2026-10-16T22:52:24Z",
+    "+@date-last-updated-at": "2026-10-16T22:52:24Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Suikoden: The Anime",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-16T19:34:23Z",
+    "+@generated-on": "2026-10-16T22:52:17Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "4092"
@@ -63,6 +63,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "conspiracy",
+            "+@gid": "2785735251",
+            "+@type": "Themes"
+        },
+        {
             "+content": "military",
             "+@gid": "2202204782",
             "+@type": "Themes"
@@ -83,14 +88,34 @@
             "+@type": "Themes"
         },
         {
+            "+content": "TA",
+            "+@gid": "1221435883",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "Longtime friends Riliu and Jowy are serving in the Highland Kingdom's Unicorn Youth Brigade when they are suddenly attacked by forces from the neighboring City States of Jowston—or so it appears at first. While escaping from the enemy forces, the two learn that this was actually a false flag operation—that Luca, Highland's bloodthirsty and sadistic crown prince, is starting a war for his own mysterious purposes. Now the two friends, separated, on the run, and within enemy territory, must find a way to survive and expose the conspiracy before thousands die in bloody conflict.",
             "+@gid": "1713267552",
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026-10",
+            "+content": "23",
+            "+@gid": "2303920017",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "2026-10-03",
             "+@gid": "2348855119",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Kanashimi Sae Otonabite\" (悲しみさえ⼤⼈びて; Even in Sadness I'll Look Like an Adult) by amazarashi",
+            "+@gid": "1046468213",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"closed eye sun\" by Koji Nakamura feat. Honoka Takahashi",
+            "+@gid": "3770828904",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "アニメ「幻想水滸伝」公式サイト",
@@ -107,6 +132,10 @@
             "+@href": "https://www.suikoden-anime.com/en/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "3",
+        "+@weighted_score": "6.526"
+    },
     "review": {
         "+content": "<cite>Suikoden: The Anime</cite> Episodes 1-3 Review (Theatrical Screening)",
         "+@href": "https://www.animenewsnetwork.com/review/suikoden/the-anime/episodes-1-3/.241028"
@@ -136,6 +165,16 @@
             "+content": "<cite>Suikoden</cite> Anime Reveals More Cast, Opening Theme in 2nd Promo Video",
             "+@datetime": "2026-07-05T04:44:29Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-07-05/suikoden-anime-reveals-more-cast-opening-theme-in-2nd-promo-video/.239319"
+        },
+        {
+            "+content": "<cite>Suikoden</cite> Anime's New Video Reveals Ending Song, October 3 TV Debut",
+            "+@datetime": "2026-09-18T03:35:41Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-17/suikoden-anime-new-video-reveals-ending-song-october-3-tv-debut/.241930"
+        },
+        {
+            "+content": "<cite>Suikoden</cite> Anime to Stream on YouTube with English Subtitles",
+            "+@datetime": "2026-10-04T03:47:03Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-03/suikoden-anime-to-stream-on-youtube-with-english-subtitles/.242451"
         }
     ],
     "staff": [
@@ -180,11 +219,147 @@
             }
         },
         {
+            "+@gid": "1498306891",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Toshio Iizuka",
+                "+@id": "34603"
+            }
+        },
+        {
+            "+@gid": "1858899668",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Shō Tanaka",
+                "+@id": "82883"
+            }
+        },
+        {
+            "+@gid": "820146372",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Takashi Iwasaki",
+                "+@id": "207285"
+            }
+        },
+        {
+            "+@gid": "2069003542",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Yūsuke Watanabe",
+                "+@id": "222726"
+            }
+        },
+        {
+            "+@gid": "2147387875",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Maki Satō",
+                "+@id": "262080"
+            }
+        },
+        {
+            "+@gid": "1625486825",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Yukiko Komai",
+                "+@id": "292513"
+            }
+        },
+        {
+            "+@gid": "400646402",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Mikito Kyo",
+                "+@id": "302764"
+            }
+        },
+        {
+            "+@gid": "2258446740",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Yasushi Ishihara",
+                "+@id": "302765"
+            }
+        },
+        {
+            "+@gid": "2778251932",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Fumihide Ariga",
+                "+@id": "302772"
+            }
+        },
+        {
+            "+@gid": "1055864421",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Mitsuru Tamagawa",
+                "+@id": "302773"
+            }
+        },
+        {
+            "+@gid": "899810858",
+            "task": "Producer",
+            "person": {
+                "+content": "Ayano Matsumoto",
+                "+@id": "50442"
+            }
+        },
+        {
+            "+@gid": "2128314002",
+            "task": "Producer",
+            "person": {
+                "+content": "Rie Ogura",
+                "+@id": "83236"
+            }
+        },
+        {
+            "+@gid": "1715158211",
+            "task": "Producer",
+            "person": {
+                "+content": "Kazuhiko Hasegawa",
+                "+@id": "89116"
+            }
+        },
+        {
             "+@gid": "1129456575",
             "task": "Producer",
             "person": {
                 "+content": "Ryō Hino",
                 "+@id": "117411"
+            }
+        },
+        {
+            "+@gid": "1059180214",
+            "task": "Producer",
+            "person": {
+                "+content": "Yūnosuke Uno",
+                "+@id": "143703"
+            }
+        },
+        {
+            "+@gid": "1889314988",
+            "task": "Producer",
+            "person": {
+                "+content": "Ken Terui",
+                "+@id": "286731"
+            }
+        },
+        {
+            "+@gid": "1653875756",
+            "task": "Producer",
+            "person": {
+                "+content": "Ryō Fukuhara",
+                "+@id": "298099"
+            }
+        },
+        {
+            "+@gid": "1531006522",
+            "task": "Producer",
+            "person": {
+                "+content": "Ami Kawamoto",
+                "+@id": "302776"
             }
         }
     ],
@@ -416,6 +591,78 @@
             }
         },
         {
+            "+@gid": "2317801514",
+            "task": "Production",
+            "company": {
+                "+content": "Frontier Works",
+                "+@id": "1805"
+            }
+        },
+        {
+            "+@gid": "501321934",
+            "task": "Production",
+            "company": {
+                "+content": "Kansai Telecasting Corporation",
+                "+@id": "1854"
+            }
+        },
+        {
+            "+@gid": "3135106319",
+            "task": "Production",
+            "company": {
+                "+content": "BS Asahi",
+                "+@id": "4696"
+            }
+        },
+        {
+            "+@gid": "3053658792",
+            "task": "Production",
+            "company": {
+                "+content": "Konami Digital Entertainment",
+                "+@id": "6419"
+            }
+        },
+        {
+            "+@gid": "3215673581",
+            "task": "Production",
+            "company": {
+                "+content": "NBCUniversal Entertainment Japan",
+                "+@id": "12727"
+            }
+        },
+        {
+            "+@gid": "2890694764",
+            "task": "Production",
+            "company": {
+                "+content": "Tokyo MX",
+                "+@id": "13028"
+            }
+        },
+        {
+            "+@gid": "2257239931",
+            "task": "Production",
+            "company": {
+                "+content": "Shochiku",
+                "+@id": "14702"
+            }
+        },
+        {
+            "+@gid": "1593692115",
+            "task": "Production",
+            "company": {
+                "+content": "Kadokawa",
+                "+@id": "15420"
+            }
+        },
+        {
+            "+@gid": "2056050891",
+            "task": "Production",
+            "company": {
+                "+content": "INSPION Edge",
+                "+@id": "23296"
+            }
+        },
+        {
             "+@gid": "2341320301",
             "task": "Production",
             "company": {
@@ -425,6 +672,6 @@
         }
     ],
     "+@date-added": "2025-03-04T03:29:39Z",
-    "+@date-last-modified-at": "2026-09-16T19:34:29Z",
-    "+@date-last-updated-at": "2026-09-16T19:34:29Z"
+    "+@date-last-modified-at": "2026-10-16T22:52:24Z",
+    "+@date-last-updated-at": "2026-10-16T22:52:24Z"
 }

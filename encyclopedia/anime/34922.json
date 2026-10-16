@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Young Ladies Don't Play Fighting Games",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-16T19:34:25Z",
+    "+@generated-on": "2026-10-16T22:52:18Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "23952"
@@ -73,14 +73,39 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "2026-07-07 to 2026-09-22",
+            "+@gid": "1737800548",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "\"Inochi Mijikashi Taisuru Otome yo\" (命短し対する乙女よ) by Hanabie.",
             "+@gid": "3177684478",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Inochi Mijikashi Taisuru Otome yo\" (命短し対する乙女よ) by Hanabie. (eps 2-11)",
+            "+@gid": "712605026",
             "+@type": "Opening Theme"
         },
         {
             "+content": "\"NEW GAME\" by halca",
             "+@gid": "1581432308",
             "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#1: \"Inochi Mijikashi Taisuru Otome yo\" (命短し対する乙女よ) by Hanabie. (eps 1, 12)",
+            "+@gid": "1548655546",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "#2: \"NEW GAME\" by halca (eps 2-11)",
+            "+@gid": "3368429286",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Itoshi-sa to Setsuna-sa to Kokorotzuyo-sa to\" (恋しさと せつなさと 心強さと; This Love, This Pain, This Strength of Heart) by Ryoko Shinohara with Tetsuya Komuro (ep 12)",
+            "+@gid": "1784862894",
+            "+@type": "Insert song"
         },
         {
             "+content": "TVアニメ『対ありでした。～お嬢さまは格闘ゲームなんてしない～』公式サイト",
@@ -91,8 +116,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "4.7771"
+        "+@nb_votes": "36",
+        "+@weighted_score": "6.9823",
+        "+@bayesian_score": "7.10392"
     },
     "episode": [
         {
@@ -180,6 +206,14 @@
             "title": {
                 "+content": "The Beast",
                 "+@gid": "2330831639",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Good Luck, Have Fun!",
+                "+@gid": "2839768488",
                 "+@lang": "EN"
             }
         }
@@ -552,6 +586,6 @@
         }
     ],
     "+@date-added": "2025-03-03T05:59:15Z",
-    "+@date-last-modified-at": "2026-09-16T19:34:29Z",
-    "+@date-last-updated-at": "2026-09-16T19:34:29Z"
+    "+@date-last-modified-at": "2026-10-16T22:52:24Z",
+    "+@date-last-updated-at": "2026-10-16T22:52:24Z"
 }

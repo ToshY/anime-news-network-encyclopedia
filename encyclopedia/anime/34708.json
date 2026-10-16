@@ -2,9 +2,9 @@
     "+@id": "34708",
     "+@gid": "2540191336",
     "+@type": "TV",
-    "+@name": "Toaru Anbu no Item",
+    "+@name": "Certain Dark Item",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-16T19:34:28Z",
+    "+@generated-on": "2026-10-16T22:03:03Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "34706"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "A Certain Dark Item",
+            "+@gid": "3512452725",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Toaru Anbu no Item",
             "+@gid": "831253557",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -47,8 +53,24 @@
             "+@lang": "JA"
         },
         {
-            "+content": "In western Tokyo, there is a massive \"academy city.\" In this city, where approximately 80% of residents are students, a special curriculum for developing psychic abilities is in place, and students' abilities are evaluated on a six-level scale from Level 0 to Level 5. Behind this tranquility lies a \"dark side\" organization that undertakes dirty work never revealed to the public. \"ITEM\" - an elite unit composed of four girls. Saiai Kinuhata, who can freely manipulate nitrogen to provide an impenetrable defense. Frenda Seivelun, who uses explosives and traps to toy with the battlefield. Rikō Takitsubo, who can read and track the faint powers emitted by ability users. Shizuri Mugino, one of only seven Level 5s in Academy City. Then, a fifth girl appears before them. Their encounter with her leads the \"items\" into a new darkness. <em class=de-emphasized>(from manga)</em>",
+            "+content": "action",
+            "+@gid": "1094242737",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "science fiction",
+            "+@gid": "521928143",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "In Academy City, psychic powers promise a brighter future. But beneath the city’s peaceful surface lurks a merciless dark side. ITEM, an elite team of four girls with deadly abilities, carries out dangerous missions that can never see the light of day. When a fifth girl enters their lives, ITEM is drawn deeper into a world of violence, brutality, and moral corruption.",
+            "+@gid": "2993201867",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "24",
+            "+@gid": "1113664207",
+            "+@type": "Running time"
         },
         {
             "+content": "2026-10-09",
@@ -56,12 +78,12 @@
             "+@type": "Vintage"
         },
         {
-            "+content": "\"Ghost Sequence\" by East Of Eden",
+            "+content": "\"Ghost Sequence\" by East of Eden",
             "+@gid": "3230596263",
             "+@type": "Opening Theme"
         },
         {
-            "+content": "\"Genshi Kuzushi\" (原子崩し) by Kishida Kyōdan & The Akeboshi Rockets",
+            "+content": "\"Meltdowner\" (原子崩し; Genshi Kuzushi) by Kishida Kyōdan & The Akeboshi Rockets",
             "+@gid": "2924529343",
             "+@type": "Ending Theme"
         },
@@ -73,6 +95,10 @@
             "+@href": "https://toaru-project.com/item/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "3",
+        "+@weighted_score": "2.1946"
+    },
     "news": [
         {
             "+content": "<cite>Toaru Anbu no Item</cite> TV Anime Unveils Main Staff, 2026 Debut",
@@ -93,6 +119,11 @@
             "+content": "<cite>Toaru Anbu no Item</cite> Anime Unveils Trailer, Theme Song Artists, October 9 Debut",
             "+@datetime": "2026-07-04T01:04:01Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-07-03/toaru-anbu-no-item-anime-unveils-trailer-theme-song-artists-october-9-debut/.239259"
+        },
+        {
+            "+content": "Crunchyroll to Stream <cite>Super Psychic Policeman Chojo</cite>, <cite>Dandivine</cite>, <cite>Full Clearing Another World Under a Goddess with Zero Believers</cite>, More Anime",
+            "+@datetime": "2026-09-30T17:20:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-30/crunchyroll-to-stream-super-psychic-policeman-chojo-dandivine-full-clearing-another-world-under-a-/.242347"
         }
     ],
     "staff": [
@@ -188,6 +219,15 @@
             }
         },
         {
+            "+@gid": "2910202169",
+            "+@lang": "JA",
+            "role": "Fremea Seivelun",
+            "person": {
+                "+content": "Yui Ogura",
+                "+@id": "84095"
+            }
+        },
+        {
             "+@gid": "3930105035",
             "+@lang": "JA",
             "role": "Saiai Kinuhata",
@@ -224,15 +264,81 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2250668279",
-        "task": "Animation Production",
-        "company": {
-            "+content": "J.C. Staff",
-            "+@id": "310"
+    "credit": [
+        {
+            "+@gid": "2250668279",
+            "task": "Animation Production",
+            "company": {
+                "+content": "J.C. Staff",
+                "+@id": "310"
+            }
+        },
+        {
+            "+@gid": "3011899146",
+            "task": "Production",
+            "company": {
+                "+content": "MOVIC",
+                "+@id": "52"
+            }
+        },
+        {
+            "+@gid": "2760914383",
+            "task": "Production",
+            "company": {
+                "+content": "J.C. Staff",
+                "+@id": "310"
+            }
+        },
+        {
+            "+@gid": "2104732825",
+            "task": "Production",
+            "company": {
+                "+content": "AT-X",
+                "+@id": "518"
+            }
+        },
+        {
+            "+@gid": "1830505806",
+            "task": "Production",
+            "company": {
+                "+content": "Square Enix",
+                "+@id": "1998"
+            }
+        },
+        {
+            "+@gid": "747956947",
+            "task": "Production",
+            "company": {
+                "+content": "NBCUniversal Entertainment Japan",
+                "+@id": "12727"
+            }
+        },
+        {
+            "+@gid": "1890848914",
+            "task": "Production",
+            "company": {
+                "+content": "Warner Bros. Japan",
+                "+@id": "12786"
+            }
+        },
+        {
+            "+@gid": "2771304175",
+            "task": "Production",
+            "company": {
+                "+content": "Kadokawa",
+                "+@id": "15420"
+            }
+        },
+        {
+            "+@gid": "2777326097",
+            "task": "Production",
+            "company": {
+                "+content": "Straight Edge",
+                "+@id": "16045"
+            }
         }
-    },
+    ],
     "+@date-added": "2025-02-16T19:35:37Z",
-    "+@date-last-modified-at": "2026-09-16T19:34:30Z",
-    "+@date-last-updated-at": "2026-09-16T19:34:30Z"
+    "+@date-last-modified-at": "2026-10-16T22:52:24Z",
+    "+@date-last-updated-at": "2026-10-16T22:52:24Z"
 }

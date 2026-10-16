@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "I Want to Love You Till Your Dying Day",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-16T19:34:26Z",
+    "+@generated-on": "2026-10-16T22:52:19Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "32637"
@@ -98,6 +98,11 @@
             "+@type": "Ending Theme"
         },
         {
+            "+content": "\"Cookie & Cream\" by Sheena Totsuki (CV: Rie Takahashi) & Mimi Kagari (CV: Rina Hidaka) (ep 12)",
+            "+@gid": "1934381373",
+            "+@type": "Insert song"
+        },
+        {
             "+content": "TVアニメ『きみが死ぬまで恋をしたい』公式サイト",
             "+@gid": "3261126664",
             "+@type": "Official website",
@@ -106,8 +111,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "4.7218"
+        "+@nb_votes": "25",
+        "+@weighted_score": "6.5265",
+        "+@bayesian_score": "6.83211"
     },
     "episode": [
         {
@@ -195,6 +201,22 @@
             "title": {
                 "+content": "Untarnished",
                 "+@gid": "1801592185",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "As I Am",
+                "+@gid": "1976553564",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "I Miss You",
+                "+@gid": "3773721258",
                 "+@lang": "EN"
             }
         }
@@ -289,6 +311,14 @@
             "person": {
                 "+content": "Junki Nakata",
                 "+@id": "109449"
+            }
+        },
+        {
+            "+@gid": "1011177975",
+            "task": "Animation Director",
+            "person": {
+                "+content": "So Joong Kim",
+                "+@id": "296435"
             }
         },
         {
@@ -464,6 +494,6 @@
         }
     ],
     "+@date-added": "2025-03-02T18:44:59Z",
-    "+@date-last-modified-at": "2026-09-16T19:34:29Z",
-    "+@date-last-updated-at": "2026-09-16T19:34:29Z"
+    "+@date-last-modified-at": "2026-10-16T22:52:24Z",
+    "+@date-last-updated-at": "2026-10-16T22:52:24Z"
 }
