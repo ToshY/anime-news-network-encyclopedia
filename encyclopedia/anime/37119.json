@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Hirayasumi",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-17T04:55:55Z",
+    "+@generated-on": "2026-10-17T12:13:05Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27170"
@@ -13,18 +13,18 @@
         {
             "+@gid": "2359163989",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37119-2359163989.1773710413.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37119-2359163989.1790643383.jpg",
+            "+@width": "133",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37119-2359163989.1773710413.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37119-2359163989.1790643383.jpg",
+                    "+@width": "133",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37119-2359163989.1773710413.jpg",
-                    "+@width": "423",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37119-2359163989.1790643383.jpg",
+                    "+@width": "400",
                     "+@height": "600"
                 }
             ]
@@ -57,13 +57,32 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://hirayasumi-anime.jp/"
+        },
+        {
+            "+content": "TV Anime \"Hirayasumi\" Official Website",
+            "+@gid": "2490330318",
+            "+@type": "Official website",
+            "+@lang": "EN",
+            "+@href": "https://hirayasumi-anime.jp/en/"
         }
     ],
-    "news": {
-        "+content": "<cite>Hirayasumi</cite> Anime's Teaser Unveils Staff, January 2027 Debut",
-        "+@datetime": "2026-03-17T00:14:48Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-16/hirayasumi-anime-teaser-unveils-staff-january-2027-debut/.235378"
-    },
+    "news": [
+        {
+            "+content": "<cite>Hirayasumi</cite> Anime's Teaser Unveils Staff, January 2027 Debut",
+            "+@datetime": "2026-03-17T00:14:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-16/hirayasumi-anime-teaser-unveils-staff-january-2027-debut/.235378"
+        },
+        {
+            "+content": "<cite>Hirayasumi</cite> Anime Unveils Teaser, Key Visual, Cast",
+            "+@datetime": "2026-09-28T23:42:22Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-28/hirayasumi-anime-unveils-teaser-key-visual-cast/.242284"
+        },
+        {
+            "+content": "<cite>Hirayasumi</cite> Anime Announces 5 More Cast Members",
+            "+@datetime": "2026-10-13T09:04:01Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-13/hirayasumi-anime-announces-5-more-cast-members/.242776"
+        }
+    ],
     "staff": [
         {
             "+@gid": "554925758",
@@ -122,6 +141,71 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "2206496131",
+            "+@lang": "JA",
+            "role": "Hideki Noguchi",
+            "person": {
+                "+content": "Daisuke Namikawa",
+                "+@id": "1289"
+            }
+        },
+        {
+            "+@gid": "1303445219",
+            "+@lang": "JA",
+            "role": "Hanae Wada",
+            "person": {
+                "+content": "Rikako Aikawa",
+                "+@id": "1498"
+            }
+        },
+        {
+            "+@gid": "2407955150",
+            "+@lang": "JA",
+            "role": "Akari Yokoyama",
+            "person": {
+                "+content": "Yume Miyamoto",
+                "+@id": "49573"
+            }
+        },
+        {
+            "+@gid": "2662837993",
+            "+@lang": "JA",
+            "role": "Yomogi Tachibana",
+            "person": {
+                "+content": "Yōko Hikasa",
+                "+@id": "67797"
+            }
+        },
+        {
+            "+@gid": "2322001248",
+            "+@lang": "JA",
+            "role": "Hiroto Ikuta",
+            "person": {
+                "+content": "Yūma Uchida",
+                "+@id": "124918"
+            }
+        },
+        {
+            "+@gid": "2635786204",
+            "+@lang": "JA",
+            "role": "Ryō Ishikawa",
+            "person": {
+                "+content": "Yūichirō Umehara",
+                "+@id": "127402"
+            }
+        },
+        {
+            "+@gid": "1567131629",
+            "+@lang": "JA",
+            "role": "Natsumi Kobayashi",
+            "person": {
+                "+content": "Mayu Takahashi",
+                "+@id": "302609"
+            }
+        }
+    ],
     "credit": [
         {
             "+@gid": "1954249246",
@@ -149,5 +233,6 @@
         }
     ],
     "+@date-added": "2025-07-21T21:41:12Z",
-    "+@date-last-updated-at": "2026-09-17T04:56:01Z"
+    "+@date-last-modified-at": "2026-10-17T12:13:13Z",
+    "+@date-last-updated-at": "2026-10-17T12:13:13Z"
 }

@@ -4,24 +4,24 @@
     "+@type": "TV",
     "+@name": "Welsh & Shedar",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-17T04:55:53Z",
+    "+@generated-on": "2026-10-17T12:13:04Z",
     "info": [
         {
-            "+@gid": "626538400",
+            "+@gid": "3065329879",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40549-626538400.1789552951.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40549-3065329879.1790002804.jpg",
             "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40549-626538400.1789552951.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40549-3065329879.1790002804.jpg",
                     "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40549-626538400.1789552951.jpg",
-                    "+@width": "425",
-                    "+@height": "600"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40549-3065329879.1790002804.jpg",
+                    "+@width": "400",
+                    "+@height": "565"
                 }
             ]
         },
@@ -49,6 +49,16 @@
             "+@type": "Genres"
         },
         {
+            "+content": "The story of Aoki Denshou Welsh & Shedar follows Welsh, a teenage boy from the country who loves to cook, and Shedar, a young prince who is destined to become king one day. When the two young men with very different lives are thrown together by a chance encounter, the wheels of fate begin to turn, and soon they must work together to bring about a peaceful future by stopping a cruel despot from conquering the world.",
+            "+@gid": "1617322336",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "2393036028",
+            "+@type": "Running time"
+        },
+        {
             "+content": "2026-10-02",
             "+@gid": "1528902851",
             "+@type": "Vintage"
@@ -61,11 +71,28 @@
             "+@href": "https://welshandshedar-anime.com/"
         }
     ],
-    "news": {
-        "+content": "France's Ankama Presents Fantasy TV Anime <cite>Aoki Denshō Welsh & Shedar</cite>",
-        "+@datetime": "2026-09-16T09:45:38Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-09-16/france-ankama-presents-fantasy-tv-anime-aoki-densho-welsh-and-shedar/.241847"
-    },
+    "news": [
+        {
+            "+content": "France's Ankama Presents Fantasy TV Anime <cite>Aoki Denshō Welsh & Shedar</cite>",
+            "+@datetime": "2026-09-16T09:45:38Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-16/france-ankama-presents-fantasy-tv-anime-aoki-densho-welsh-and-shedar/.241847"
+        },
+        {
+            "+content": "<cite>Aoki Denshō Welsh & Shedar</cite> Anime's Main Trailer Reveals More Cast Members, Theme Song Artists",
+            "+@datetime": "2026-09-24T09:25:14Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-24/aoki-densho-welsh-and-shedar-anime-main-trailer-reveals-more-cast-members-theme-song-artists/.242135"
+        },
+        {
+            "+content": "<cite>Aoki Denshō Welsh & Shedar</cite> Anime Casts Risa Hayamizu",
+            "+@datetime": "2026-09-30T11:34:51Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-30/aoki-densho-welsh-and-shedar-anime-casts-risa-hayamizu/.242341"
+        },
+        {
+            "+content": "<cite>Welsh & Shedar</cite> Anime Streams on YouTube in November",
+            "+@datetime": "2026-10-02T19:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-02/welsh-and-shedar-anime-streams-on-youtube-in-november/.242424"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2074013115",
@@ -126,12 +153,66 @@
     ],
     "cast": [
         {
+            "+@gid": "1130934948",
+            "+@lang": "JA",
+            "role": "Khan Karkass",
+            "person": {
+                "+content": "Wataru Takagi",
+                "+@id": "1307"
+            }
+        },
+        {
+            "+@gid": "3224484595",
+            "+@lang": "JA",
+            "role": "Azalar",
+            "person": {
+                "+content": "Show Hayami",
+                "+@id": "4128"
+            }
+        },
+        {
+            "+@gid": "2982372448",
+            "+@lang": "JA",
+            "role": "Zabel",
+            "person": {
+                "+content": "Yūko Kaida",
+                "+@id": "9194"
+            }
+        },
+        {
+            "+@gid": "400701637",
+            "+@lang": "JA",
+            "role": "Mama Caroni",
+            "person": {
+                "+content": "Risa Hayamizu",
+                "+@id": "13755"
+            }
+        },
+        {
             "+@gid": "1706789126",
             "+@lang": "JA",
             "role": "Shedar",
             "person": {
                 "+content": "Yūki Kaji",
                 "+@id": "58051"
+            }
+        },
+        {
+            "+@gid": "3101280073",
+            "+@lang": "JA",
+            "role": "Bechamel",
+            "person": {
+                "+content": "Risa Kayama",
+                "+@id": "109230"
+            }
+        },
+        {
+            "+@gid": "1389279179",
+            "+@lang": "JA",
+            "role": "Joris",
+            "person": {
+                "+content": "Makoto Furukawa",
+                "+@id": "123459"
             }
         },
         {
@@ -153,5 +234,6 @@
         }
     },
     "+@date-added": "2026-09-16T06:01:50Z",
-    "+@date-last-updated-at": "2026-09-17T04:55:54Z"
+    "+@date-last-modified-at": "2026-10-17T12:13:13Z",
+    "+@date-last-updated-at": "2026-10-17T12:13:13Z"
 }
