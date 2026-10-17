@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Mobile Suit Gundam Seed FREEDOM ZERO",
     "+@precision": "movie",
-    "+@generated-on": "2026-09-17T13:30:36Z",
+    "+@generated-on": "2026-10-17T15:41:58Z",
     "related-prev": [
         {
             "+@rel": "part of",
@@ -16,6 +16,25 @@
         }
     ],
     "info": [
+        {
+            "+@gid": "1707815988",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33890-1707815988.1791508327.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33890-1707815988.1791508327.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33890-1707815988.1791508327.jpg",
+                    "+@width": "424",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Mobile Suit Gundam Seed FREEDOM ZERO",
             "+@gid": "1967934263",
@@ -33,6 +52,47 @@
             "+@gid": "2544259786",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "621196141",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "science fiction",
+            "+@gid": "1610753576",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "mecha",
+            "+@gid": "2122129169",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "military",
+            "+@gid": "770748936",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "2909807813",
+            "+@type": "Objectionable content"
+        },
+        {
+            "+content": "2027-01-15",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2027-01-15 (Japan)",
+            "+@gid": "2623527584",
+            "+@type": "Premiere date"
+        },
+        {
+            "+content": "『機動戦士ガンダムSEED FREEDOM ZERO』公式サイト",
+            "+@gid": "2219159127",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://gundam-official.com/seed/freedom/"
         }
     ],
     "news": [
@@ -50,9 +110,54 @@
             "+content": "<cite>Gundam Seed Freedom Zero</cite> Prequel Anime Confirmed for Theatrical Release",
             "+@datetime": "2026-05-15T10:29:50Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-05-15/gundam-seed-freedom-zero-prequel-anime-confirmed-for-theatrical-release/.237396"
+        },
+        {
+            "+content": "<cite>Gundam Seed Freedom Zero</cite> Prequel Anime's Trailer Reveals Theatrical Release in Japan on January 15, N. America in February 2027",
+            "+@datetime": "2026-10-08T20:23:45Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-08/gundam-seed-freedom-zero-prequel-anime-trailer-reveals-theatrical-release-in-japan-on-january-15-n-/.242644"
         }
     ],
     "staff": [
+        {
+            "+@gid": "1831591768",
+            "task": "Director",
+            "person": {
+                "+content": "Mitsuo Fukuda",
+                "+@id": "7787"
+            }
+        },
+        {
+            "+@gid": "992894097",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Mitsuo Fukuda",
+                "+@id": "7787"
+            }
+        },
+        {
+            "+@gid": "1609979942",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Chiaki Morosawa",
+                "+@id": "14938"
+            }
+        },
+        {
+            "+@gid": "2565330306",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Shigeru Morita",
+                "+@id": "18240"
+            }
+        },
+        {
+            "+@gid": "550972350",
+            "task": "Music",
+            "person": {
+                "+content": "Toshihiko Sahashi",
+                "+@id": "114"
+            }
+        },
         {
             "+@gid": "2561529305",
             "task": "Original creator",
@@ -68,8 +173,284 @@
                 "+content": "Yoshiyuki Tomino",
                 "+@id": "100"
             }
+        },
+        {
+            "+@gid": "3703204298",
+            "task": "Character Design",
+            "person": {
+                "+content": "Hisashi Hirai",
+                "+@id": "8024"
+            }
+        },
+        {
+            "+@gid": "1439606992",
+            "task": "Art Director",
+            "person": {
+                "+content": "Shigemi Ikeda",
+                "+@id": "18"
+            }
+        },
+        {
+            "+@gid": "1317953621",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yukiko Maruyama",
+                "+@id": "11859"
+            }
+        },
+        {
+            "+@gid": "3279975110",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Hisashi Hirai",
+                "+@id": "8024"
+            }
+        },
+        {
+            "+@gid": "2935920197",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hisashi Hirai",
+                "+@id": "8024"
+            }
+        },
+        {
+            "+@gid": "2274225867",
+            "task": "Mechanical design",
+            "person": {
+                "+content": "Kunio Ōkawara",
+                "+@id": "123"
+            }
+        },
+        {
+            "+@gid": "2284119702",
+            "task": "Mechanical design",
+            "person": {
+                "+content": "Kimitoshi Yamane",
+                "+@id": "125"
+            }
+        },
+        {
+            "+@gid": "3348965550",
+            "task": "Mechanical design",
+            "person": {
+                "+content": "Takuya Io",
+                "+@id": "119393"
+            }
+        },
+        {
+            "+@gid": "3343730510",
+            "task": "Mechanical design",
+            "person": {
+                "+content": "Manabu Shintani",
+                "+@id": "245568"
+            }
+        },
+        {
+            "+@gid": "1689961570",
+            "task": "Mechanical design",
+            "person": {
+                "+content": "zenseava",
+                "+@id": "245569"
+            }
+        },
+        {
+            "+@gid": "1467389363",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Sadayoshi Fujino",
+                "+@id": "4379"
+            }
+        },
+        {
+            "+@gid": "1916631518",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Kensuke Kushida",
+                "+@id": "138330"
+            }
+        },
+        {
+            "+@gid": "1394320911",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Mitsuhiro Satō",
+                "+@id": "197556"
+            }
+        },
+        {
+            "+@gid": "3178840616",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Takeshi Katsurayama",
+                "+@id": "29199"
+            }
+        },
+        {
+            "+@gid": "2377972277",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Ryō Iijima",
+                "+@id": "187105"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3534104962",
+            "+@lang": "EN",
+            "role": "Kira Yamato",
+            "person": {
+                "+content": "Matt Hill",
+                "+@id": "1083"
+            }
+        },
+        {
+            "+@gid": "2840325464",
+            "+@lang": "EN",
+            "role": "Athrun Zala",
+            "person": {
+                "+content": "Samuel Vincent",
+                "+@id": "1088"
+            }
+        },
+        {
+            "+@gid": "2282022076",
+            "+@lang": "EN",
+            "role": "Shinn Asuka",
+            "person": {
+                "+content": "Matthew Erickson",
+                "+@id": "15167"
+            }
+        },
+        {
+            "+@gid": "2805680966",
+            "+@lang": "JA",
+            "role": "Agnes Giebenrath",
+            "person": {
+                "+content": "Houko Kuwashima",
+                "+@id": "281"
+            }
+        },
+        {
+            "+@gid": "3279002632",
+            "+@lang": "JA",
+            "role": "Athrun Zala",
+            "person": {
+                "+content": "Akira Ishida",
+                "+@id": "443"
+            }
+        },
+        {
+            "+@gid": "2383146312",
+            "+@lang": "JA",
+            "role": "Lunamaria Hawke",
+            "person": {
+                "+content": "Maaya Sakamoto",
+                "+@id": "527"
+            }
+        },
+        {
+            "+@gid": "3197552689",
+            "+@lang": "JA",
+            "role": "Yzak Jule",
+            "person": {
+                "+content": "Tomokazu Seki",
+                "+@id": "529"
+            }
+        },
+        {
+            "+@gid": "1143903211",
+            "+@lang": "JA",
+            "role": "Mu La Flaga",
+            "person": {
+                "+content": "Takehito Koyasu",
+                "+@id": "662"
+            }
+        },
+        {
+            "+@gid": "1692998374",
+            "+@lang": "JA",
+            "role": "Lacus Clyne",
+            "person": {
+                "+content": "Rie Tanaka",
+                "+@id": "697"
+            }
+        },
+        {
+            "+@gid": "1990665685",
+            "+@lang": "JA",
+            "role": "Murrue Ramius",
+            "person": {
+                "+content": "Kotono Mitsuishi",
+                "+@id": "720"
+            }
+        },
+        {
+            "+@gid": "642780256",
+            "+@lang": "JA",
+            "role": "Shinn Asuka",
+            "person": {
+                "+content": "Kenichi Suzumura",
+                "+@id": "5894"
+            }
+        },
+        {
+            "+@gid": "2655516062",
+            "+@lang": "JA",
+            "role": "Dearka Elthman",
+            "person": {
+                "+content": "Akira Sasanuma",
+                "+@id": "7666"
+            }
+        },
+        {
+            "+@gid": "2694074208",
+            "+@lang": "JA",
+            "role": "Leonard Valway",
+            "person": {
+                "+content": "Daisuke Ono",
+                "+@id": "14929"
+            }
+        },
+        {
+            "+@gid": "2544943005",
+            "+@lang": "JA",
+            "role": "Kira Yamato",
+            "person": {
+                "+content": "Sōichirō Hoshi",
+                "+@id": "71808"
+            }
+        },
+        {
+            "+@gid": "1791359036",
+            "+@lang": "JA",
+            "role": "Cagalli Yula Athha",
+            "person": {
+                "+content": "Nanako Mori",
+                "+@id": "123782"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "2612084986",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Sunrise",
+                "+@id": "34"
+            }
+        },
+        {
+            "+@gid": "1658156400",
+            "task": "Production",
+            "company": {
+                "+content": "Bandai Namco Filmworks",
+                "+@id": "22618"
+            }
         }
     ],
     "+@date-added": "2024-11-01T18:39:01Z",
-    "+@date-last-updated-at": "2026-09-17T13:30:40Z"
+    "+@date-last-modified-at": "2026-10-17T15:42:02Z",
+    "+@date-last-updated-at": "2026-10-17T15:42:02Z"
 }
