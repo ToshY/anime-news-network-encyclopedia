@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Elusive Samurai",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-09-17T19:44:31Z",
+    "+@generated-on": "2026-10-17T22:21:42Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "27523"
@@ -93,13 +93,18 @@
             "+@type": "Opening Theme"
         },
         {
-            "+content": "\"Romantikku ga Hoshii nara\" (ロマンティックがほしいなら feat. 小坂菜緒, 正源司陽子, 藤嶌果歩（日向坂46）) by Botchi Boromaru",
+            "+content": "\"Romantic ga Hoshii nara\" (ロマンティックがほしいなら feat. 小坂菜緒, 正源司陽子, 藤嶌果歩（日向坂46）) by Botchi Boromaru",
             "+@gid": "1684064951",
             "+@type": "Ending Theme"
         },
         {
             "+content": "\"Ima Sugu OTETSUKI☆\" (今すぐOTETSUKI☆) by Ayako (CV Sayumi Suzushiro) (ep 14)",
             "+@gid": "3044854889",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Plan A\" (プランA) by DISH// (ep 23)",
+            "+@gid": "3111768717",
             "+@type": "Insert song"
         },
         {
@@ -111,8 +116,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "7.8283"
+        "+@nb_votes": "18",
+        "+@weighted_score": "6.6249",
+        "+@bayesian_score": "6.96246"
     },
     "episode": [
         {
@@ -186,6 +192,22 @@
                 "+@gid": "3172771629",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "22",
+            "title": {
+                "+content": "The Night of the Assassination",
+                "+@gid": "1020381692",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "23",
+            "title": {
+                "+content": "My Buddha, Part Two",
+                "+@gid": "3271368957",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -233,6 +255,11 @@
             "+content": "<cite>The Elusive Samurai</cite> Anime's 2nd Season Casts Niina Hanamiya",
             "+@datetime": "2026-09-04T11:55:23Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-09-04/the-elusive-samurai-anime-2nd-season-casts-niina-hanamiya/.241378"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, September 14-20",
+            "+@datetime": "2026-10-10T13:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-10/japanese-animation-tv-ranking-september-14-20/.242405"
         }
     ],
     "staff": [
@@ -626,6 +653,15 @@
             }
         },
         {
+            "+@gid": "1879916987",
+            "+@lang": "EN",
+            "role": "Yasuie Hojo",
+            "person": {
+                "+content": "Sean Chiplock",
+                "+@id": "119800"
+            }
+        },
+        {
             "+@gid": "3743853260",
             "+@lang": "EN",
             "role": "Tokiyuki Hojo",
@@ -695,6 +731,24 @@
             "person": {
                 "+content": "Jonah Scott",
                 "+@id": "184821"
+            }
+        },
+        {
+            "+@gid": "636075580",
+            "+@lang": "EN",
+            "role": "Mima",
+            "person": {
+                "+content": "Michaela Murphy",
+                "+@id": "215009"
+            }
+        },
+        {
+            "+@gid": "1814368199",
+            "+@lang": "EN",
+            "role": "Masashige Kusunoki",
+            "person": {
+                "+content": "Aeric Azana",
+                "+@id": "288399"
             }
         },
         {
@@ -824,6 +878,15 @@
             }
         },
         {
+            "+@gid": "3290661188",
+            "+@lang": "JA",
+            "role": "Masashige Kusunoki",
+            "person": {
+                "+content": "Kenichi Suzumura",
+                "+@id": "5894"
+            }
+        },
+        {
             "+@gid": "2274308406",
             "+@lang": "JA",
             "role": "Yorishige Suwa",
@@ -905,6 +968,15 @@
             }
         },
         {
+            "+@gid": "2818592492",
+            "+@lang": "JA",
+            "role": "Yasuie Hōjō",
+            "person": {
+                "+content": "Yōji Ueda",
+                "+@id": "131376"
+            }
+        },
+        {
             "+@gid": "2162091586",
             "+@lang": "JA",
             "role": "Ayako",
@@ -920,6 +992,15 @@
             "person": {
                 "+content": "Hinaki Yano",
                 "+@id": "185346"
+            }
+        },
+        {
+            "+@gid": "1442919538",
+            "+@lang": "JA",
+            "role": "Shokan",
+            "person": {
+                "+content": "Hiroki Tōchi",
+                "+@id": "209291"
             }
         },
         {
@@ -959,6 +1040,6 @@
         }
     },
     "+@date-added": "2024-10-06T19:56:37Z",
-    "+@date-last-modified-at": "2026-09-17T19:44:35Z",
-    "+@date-last-updated-at": "2026-09-17T19:44:35Z"
+    "+@date-last-modified-at": "2026-10-17T22:21:47Z",
+    "+@date-last-updated-at": "2026-10-17T22:21:47Z"
 }

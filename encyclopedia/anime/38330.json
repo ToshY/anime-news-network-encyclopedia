@@ -4,33 +4,33 @@
     "+@type": "TV",
     "+@name": "FX Fighter Kurumi-chan",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-17T19:44:26Z",
+    "+@generated-on": "2026-10-17T21:55:49Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "36244"
     },
     "info": [
         {
-            "+@gid": "3308077874",
+            "+@gid": "3110908692",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38330-3308077874.1785590192.jpg",
-            "+@width": "200",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38330-3110908692.1791817095.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38330-3308077874.1785590192.jpg",
-                    "+@width": "200",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38330-3110908692.1791817095.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38330-3308077874.1785590192.jpg",
-                    "+@width": "500",
-                    "+@height": "500"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38330-3110908692.1791817095.jpg",
+                    "+@width": "425",
+                    "+@height": "600"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38330-3308077874.1785590192.jpg",
-                    "+@width": "600",
-                    "+@height": "600"
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38330-3110908692.1791817095.jpg",
+                    "+@width": "460",
+                    "+@height": "649"
                 }
             ]
         },
@@ -53,9 +53,29 @@
             "+@lang": "JA"
         },
         {
+            "+content": "drama",
+            "+@gid": "2616680456",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "psychological",
+            "+@gid": "2698886303",
+            "+@type": "Genres"
+        },
+        {
             "+content": "When middle school student, Fukuga Kurumi's mother commits suicide after losing 20 million yen in FX trading (Foreign Exchange trading), she vows to recoup the money her mother lost. Now, when she is a university student she makes her long-awaited debut in FX trading, unaware that the world she just entered could turn from heaven to hell in the blink of an eye.",
             "+@gid": "2963704467",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "24",
+            "+@gid": "1950639542",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "12",
+            "+@gid": "3216796378",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2026-10-01",
@@ -78,6 +98,28 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://fxkurumi-info.com/"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "4",
+        "+@weighted_score": "1.0755"
+    },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "What's Forex?",
+                "+@gid": "3557842875",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "Rebarezji Aru kara Daijoubuu♪",
+                "+@gid": "2257698773",
+                "+@lang": "JA"
+            }
         }
     ],
     "news": [
@@ -110,6 +152,16 @@
             "+content": "Crunchyroll Announces Release Schedule for Fall 2026 Season",
             "+@datetime": "2026-09-15T17:52:07Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-09-15/crunchyroll-announces-release-schedule-for-fall-2026-season/.241811"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>A Tale of the Secret Saint</cite>, <cite>Psyren</cite>, More Anime in India",
+            "+@datetime": "2026-10-02T10:51:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-02/crunchyroll-streams-a-tale-of-the-secret-saint-psyren-more-anime-in-india/.242409"
+        },
+        {
+            "+content": "<cite>FX Fighter Kurumi-chan</cite>, <cite>#I'm Looking For Zombie</cite>, <cite>Reborn as a Space Mercenary</cite> Anime Get Same-Day English Dubs",
+            "+@datetime": "2026-10-02T18:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-02/fx-fighter-kurumi-chan-im-looking-for-zombie-reborn-as-a-space-mercenary-anime-get-same-day-english-/.242425"
         }
     ],
     "staff": [
@@ -196,6 +248,24 @@
     ],
     "cast": [
         {
+            "+@gid": "1196745521",
+            "+@lang": "EN",
+            "role": "Yasuko Takane",
+            "person": {
+                "+content": "Michelle Marie",
+                "+@id": "175663"
+            }
+        },
+        {
+            "+@gid": "689498180",
+            "+@lang": "EN",
+            "role": "Kurumi Fukuga",
+            "person": {
+                "+content": "Kimoy Lee",
+                "+@id": "284650"
+            }
+        },
+        {
             "+@gid": "2012199428",
             "+@lang": "JA",
             "role": "Mochiko Kogane",
@@ -241,6 +311,6 @@
         }
     },
     "+@date-added": "2026-01-19T18:57:04Z",
-    "+@date-last-modified-at": "2026-09-17T19:44:35Z",
-    "+@date-last-updated-at": "2026-09-17T19:44:35Z"
+    "+@date-last-modified-at": "2026-10-17T22:21:47Z",
+    "+@date-last-updated-at": "2026-10-17T22:21:47Z"
 }
