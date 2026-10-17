@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Yu-Gi-Oh! Card Game The Chronicles",
     "+@precision": "ONA 2",
-    "+@generated-on": "2026-09-16T22:58:14Z",
+    "+@generated-on": "2026-10-17T04:31:01Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "31959"
@@ -115,6 +115,15 @@
     ],
     "cast": [
         {
+            "+@gid": "2675438541",
+            "+@lang": "JA",
+            "role": "Gabonga",
+            "person": {
+                "+content": "Shigeru Chiba",
+                "+@id": "427"
+            }
+        },
+        {
             "+@gid": "2319985681",
             "+@lang": "JA",
             "role": "Maximus Dragma",
@@ -160,6 +169,15 @@
             }
         },
         {
+            "+@gid": "1406075676",
+            "+@lang": "JA",
+            "role": "Diabell",
+            "person": {
+                "+content": "Ayumi Tsunematsu",
+                "+@id": "18042"
+            }
+        },
+        {
             "+@gid": "2038570742",
             "+@lang": "JA",
             "role": "Ferrijit",
@@ -184,6 +202,15 @@
             "person": {
                 "+content": "Kōki Uchiyama",
                 "+@id": "56091"
+            }
+        },
+        {
+            "+@gid": "2575024945",
+            "+@lang": "JA",
+            "role": "Ki-sikil",
+            "person": {
+                "+content": "Shion Wakayama",
+                "+@id": "61670"
             }
         },
         {
@@ -252,10 +279,19 @@
         {
             "+@gid": "3416312282",
             "+@lang": "JA",
-            "role": "Diabellstar",
+            "role": "Diabellstar / Astellar",
             "person": {
                 "+content": "Asami Seto",
                 "+@id": "95225"
+            }
+        },
+        {
+            "+@gid": "2326120922",
+            "+@lang": "JA",
+            "role": "Rucia",
+            "person": {
+                "+content": "Yumi Uchiyama",
+                "+@id": "96014"
             }
         },
         {
@@ -274,6 +310,15 @@
             "person": {
                 "+content": "Natsuki Hanae",
                 "+@id": "106773"
+            }
+        },
+        {
+            "+@gid": "2802245632",
+            "+@lang": "JA",
+            "role": "Silvy",
+            "person": {
+                "+content": "Ai Kakuma",
+                "+@id": "109103"
             }
         },
         {
@@ -306,7 +351,7 @@
         {
             "+@gid": "2603168681",
             "+@lang": "JA",
-            "role": "Diabellze",
+            "role": "Diabellze / Lezette",
             "person": {
                 "+content": "Reina Ueda",
                 "+@id": "116390"
@@ -392,6 +437,24 @@
                 "+content": "Anna Nagase",
                 "+@id": "196760"
             }
+        },
+        {
+            "+@gid": "2517503368",
+            "+@lang": "JA",
+            "role": "Lil-la",
+            "person": {
+                "+content": "Hina Yomiya",
+                "+@id": "209292"
+            }
+        },
+        {
+            "+@gid": "2416411712",
+            "+@lang": "JA",
+            "role": "Azamina",
+            "person": {
+                "+content": "Shizuka Itō",
+                "+@id": "249200"
+            }
         }
     ],
     "credit": {
@@ -403,5 +466,6 @@
         }
     },
     "+@date-added": "2024-12-20T23:36:29Z",
-    "+@date-last-updated-at": "2026-09-16T22:58:17Z"
+    "+@date-last-modified-at": "2026-10-17T04:31:03Z",
+    "+@date-last-updated-at": "2026-10-17T04:31:03Z"
 }

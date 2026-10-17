@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Magilumiere Magical Girls Inc.",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-09-16T22:58:15Z",
+    "+@generated-on": "2026-10-17T04:31:02Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "30883"
@@ -73,6 +73,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "2706845520",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-04",
             "+@gid": "1344017143",
             "+@type": "Vintage"
@@ -96,8 +101,13 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "4"
+        "+@nb_votes": "20",
+        "+@weighted_score": "7.3184",
+        "+@bayesian_score": "7.3748"
+    },
+    "review": {
+        "+content": "<cite>Magilumiere Magical Girls Inc.</cite> Season 2 Anime Series Review",
+        "+@href": "https://www.animenewsnetwork.com/review/magilumiere-magical-girls-inc-season-2/anime-series/.242229"
     },
     "news": [
         {
@@ -295,6 +305,14 @@
             }
         },
         {
+            "+@gid": "3719534323",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Moka Kiyose",
+                "+@id": "302214"
+            }
+        },
+        {
             "+@gid": "2560801225",
             "task": "Unit Director",
             "person": {
@@ -391,6 +409,14 @@
             }
         },
         {
+            "+@gid": "1125532508",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mizue Ogawa",
+                "+@id": "30367"
+            }
+        },
+        {
             "+@gid": "2671330976",
             "task": "Animation Director",
             "person": {
@@ -404,6 +430,22 @@
             "person": {
                 "+content": "Masumi Hoshino",
                 "+@id": "31782"
+            }
+        },
+        {
+            "+@gid": "1940404188",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Young Hee Park",
+                "+@id": "51937"
+            }
+        },
+        {
+            "+@gid": "2562165898",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kenji Terao",
+                "+@id": "58067"
             }
         },
         {
@@ -444,6 +486,14 @@
             "person": {
                 "+content": "Chang Hee Won",
                 "+@id": "104634"
+            }
+        },
+        {
+            "+@gid": "1813852713",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Satsuki Tamura",
+                "+@id": "106006"
             }
         },
         {
@@ -583,6 +633,14 @@
             }
         },
         {
+            "+@gid": "1471124545",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Seung Sook Shin",
+                "+@id": "245651"
+            }
+        },
+        {
             "+@gid": "1280323630",
             "task": "Animation Director",
             "person": {
@@ -660,6 +718,70 @@
             "person": {
                 "+content": "Yūsuke Noguchi",
                 "+@id": "89414"
+            }
+        },
+        {
+            "+@gid": "2354775715",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Yūichi Takahashi",
+                "+@id": "158579"
+            }
+        },
+        {
+            "+@gid": "2987757404",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Mitsuharu Moriya",
+                "+@id": "161489"
+            }
+        },
+        {
+            "+@gid": "1411036512",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Kenzō Ishiguro",
+                "+@id": "226673"
+            }
+        },
+        {
+            "+@gid": "1527479675",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Shinji Enari",
+                "+@id": "285011"
+            }
+        },
+        {
+            "+@gid": "1510189740",
+            "task": "Producer",
+            "person": {
+                "+content": "Shinobu Ono",
+                "+@id": "99708"
+            }
+        },
+        {
+            "+@gid": "3619216520",
+            "task": "Producer",
+            "person": {
+                "+content": "Taiki Onoue",
+                "+@id": "134581"
+            }
+        },
+        {
+            "+@gid": "2655306626",
+            "task": "Producer",
+            "person": {
+                "+content": "Ruriko Kikuchi",
+                "+@id": "204062"
+            }
+        },
+        {
+            "+@gid": "1532928251",
+            "task": "Producer",
+            "person": {
+                "+content": "Kiho Funatomi",
+                "+@id": "302366"
             }
         }
     ],
@@ -755,12 +877,30 @@
             }
         },
         {
+            "+@gid": "703744225",
+            "+@lang": "FR",
+            "role": "Sakae Tonomori",
+            "person": {
+                "+content": "Hélène Tran",
+                "+@id": "212285"
+            }
+        },
+        {
             "+@gid": "2224347495",
             "+@lang": "FR",
             "role": "Kana Sakuragi",
             "person": {
                 "+content": "Fatine Benkirane",
                 "+@id": "281200"
+            }
+        },
+        {
+            "+@gid": "2662771604",
+            "+@lang": "FR",
+            "role": "Sho Manao",
+            "person": {
+                "+content": "Adrien Caminada",
+                "+@id": "281201"
             }
         },
         {
@@ -773,12 +913,30 @@
             }
         },
         {
+            "+@gid": "1157364634",
+            "+@lang": "FR",
+            "role": "Koshigaya",
+            "person": {
+                "+content": "Olivier Mutelet-Lacour",
+                "+@id": "281204"
+            }
+        },
+        {
             "+@gid": "1417307667",
             "+@lang": "FR",
             "role": "Kouji Shigemoto",
             "person": {
                 "+content": "Alex Pinault",
                 "+@id": "281206"
+            }
+        },
+        {
+            "+@gid": "902939154",
+            "+@lang": "FR",
+            "role": "Lily Aoi",
+            "person": {
+                "+content": "Dounia El Medkouri",
+                "+@id": "281208"
             }
         },
         {
@@ -791,12 +949,66 @@
             }
         },
         {
-            "+@gid": "1780889203",
+            "+@gid": "765373009",
+            "+@lang": "FR",
+            "role": "Mei Tsuchiba",
+            "person": {
+                "+content": "Anna Fhima",
+                "+@id": "291058"
+            }
+        },
+        {
+            "+@gid": "3043437710",
+            "+@lang": "FR",
+            "role": "Iroha Akasaka",
+            "person": {
+                "+content": "Mounia Bennis",
+                "+@id": "291059"
+            }
+        },
+        {
+            "+@gid": "629207467",
+            "+@lang": "FR",
+            "role": "Akane Makino",
+            "person": {
+                "+content": "Layla Hajji",
+                "+@id": "291060"
+            }
+        },
+        {
+            "+@gid": "1607987798",
+            "+@lang": "FR",
+            "role": "Hibiki Yamimori",
+            "person": {
+                "+content": "Mohamed Rachidi",
+                "+@id": "296083"
+            }
+        },
+        {
+            "+@gid": "2057939600",
             "+@lang": "FR",
             "role": "Kaede Midorikawa",
             "person": {
-                "+content": "Abdal Zelloufi",
-                "+@id": "301745"
+                "+content": "Abdala Zelloufi",
+                "+@id": "296088"
+            }
+        },
+        {
+            "+@gid": "3854790632",
+            "+@lang": "FR",
+            "role": "Président Manda",
+            "person": {
+                "+content": "Rodolphe Abbassi",
+                "+@id": "296089"
+            }
+        },
+        {
+            "+@gid": "2911776349",
+            "+@lang": "FR",
+            "role": "Kei Koga",
+            "person": {
+                "+content": "Amir Salih",
+                "+@id": "301746"
             }
         },
         {
@@ -1088,6 +1300,6 @@
         }
     },
     "+@date-added": "2024-12-20T20:45:29Z",
-    "+@date-last-modified-at": "2026-09-16T22:58:17Z",
-    "+@date-last-updated-at": "2026-09-16T22:58:17Z"
+    "+@date-last-modified-at": "2026-10-17T04:31:03Z",
+    "+@date-last-updated-at": "2026-10-17T04:31:03Z"
 }
