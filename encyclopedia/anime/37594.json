@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Liar Game",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-18T12:59:15Z",
+    "+@generated-on": "2026-10-18T18:39:17Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "8178"
+    },
+    "related-next": {
+        "+@id": "40589",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -87,8 +91,18 @@
             "+@type": "Running time"
         },
         {
+            "+content": "26",
+            "+@gid": "1652255228",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-04-06",
             "+@gid": "2430422365",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2026-04-06 to 2026-09-28",
+            "+@gid": "2804209660",
             "+@type": "Vintage"
         },
         {
@@ -127,9 +141,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "13",
-        "+@weighted_score": "5.2395",
-        "+@bayesian_score": "6.30976"
+        "+@nb_votes": "28",
+        "+@weighted_score": "6.3325",
+        "+@bayesian_score": "6.67339"
     },
     "episode": [
         {
@@ -331,6 +345,14 @@
                 "+@gid": "1699881407",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "26",
+            "title": {
+                "+content": "Determination",
+                "+@gid": "2915804399",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -403,6 +425,11 @@
             "+content": "<cite>Liar Game</cite> Anime Adds 4 Cast Members",
             "+@datetime": "2026-08-18T02:44:59Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-08-17/liar-game-anime-adds-4-cast-members/.240668"
+        },
+        {
+            "+content": "<cite>Liar Game</cite> Anime Gets 2nd Season",
+            "+@datetime": "2026-09-28T16:14:27Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-28/liar-game-anime-gets-2nd-season/.242275"
         }
     ],
     "staff": [
@@ -701,6 +728,15 @@
             "person": {
                 "+content": "Daniel Van Thomas",
                 "+@id": "228454"
+            }
+        },
+        {
+            "+@gid": "3131637736",
+            "+@lang": "EN",
+            "role": "Tadako Kosaka",
+            "person": {
+                "+content": "Erin Kelly Noble",
+                "+@id": "234005"
             }
         },
         {
@@ -1165,6 +1201,6 @@
         }
     ],
     "+@date-added": "2025-08-22T19:55:12Z",
-    "+@date-last-modified-at": "2026-09-18T12:59:22Z",
-    "+@date-last-updated-at": "2026-09-18T12:59:22Z"
+    "+@date-last-modified-at": "2026-10-18T18:39:23Z",
+    "+@date-last-updated-at": "2026-10-18T18:39:23Z"
 }
