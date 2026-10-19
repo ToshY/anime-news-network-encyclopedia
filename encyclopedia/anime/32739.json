@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Goodbye, Lara",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-18T21:47:54Z",
+    "+@generated-on": "2026-10-19T04:00:24Z",
     "related-next": {
         "+@id": "40547",
         "+@rel": "adaptation"
@@ -121,8 +121,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "8",
-        "+@weighted_score": "6.1672"
+        "+@nb_votes": "60",
+        "+@weighted_score": "7.2963",
+        "+@bayesian_score": "7.32505"
     },
     "episode": [
         {
@@ -202,6 +203,22 @@
             "title": {
                 "+content": "The Princess with a Blade",
                 "+@gid": "2472117500",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "Grace the Witch",
+                "+@gid": "932555886",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "Goodbye, Lara",
+                "+@gid": "1103816367",
                 "+@lang": "EN"
             }
         }
@@ -325,6 +342,22 @@
             }
         },
         {
+            "+@gid": "2087838382",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Eisaku Kawanami",
+                "+@id": "37653"
+            }
+        },
+        {
+            "+@gid": "3579988986",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Naoki Yoshibe",
+                "+@id": "77151"
+            }
+        },
+        {
             "+@gid": "1980850707",
             "task": "Storyboard",
             "person": {
@@ -357,11 +390,43 @@
             }
         },
         {
+            "+@gid": "1801828373",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Sayaka Osato",
+                "+@id": "194063"
+            }
+        },
+        {
+            "+@gid": "1512596137",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Harumasa Satō",
+                "+@id": "216747"
+            }
+        },
+        {
             "+@gid": "3639071666",
             "task": "Episode Director",
             "person": {
                 "+content": "Yuki Koike",
                 "+@id": "28042"
+            }
+        },
+        {
+            "+@gid": "3072756873",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Eisaku Kawanami",
+                "+@id": "37653"
+            }
+        },
+        {
+            "+@gid": "2201695569",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Naoki Yoshibe",
+                "+@id": "77151"
             }
         },
         {
@@ -373,6 +438,14 @@
             }
         },
         {
+            "+@gid": "2762579413",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shinya Iino",
+                "+@id": "111063"
+            }
+        },
+        {
             "+@gid": "515793743",
             "task": "Episode Director",
             "person": {
@@ -381,11 +454,35 @@
             }
         },
         {
+            "+@gid": "271215424",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yoshihiko Mori",
+                "+@id": "148487"
+            }
+        },
+        {
             "+@gid": "2189834730",
             "task": "Episode Director",
             "person": {
                 "+content": "Ayaka Tsuji",
                 "+@id": "159081"
+            }
+        },
+        {
+            "+@gid": "3966247716",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shinnosuke Itō",
+                "+@id": "188131"
+            }
+        },
+        {
+            "+@gid": "1496138699",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Sayaka Osato",
+                "+@id": "194063"
             }
         },
         {
@@ -437,6 +534,22 @@
             }
         },
         {
+            "+@gid": "1155866059",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mayumi Nakamura",
+                "+@id": "18944"
+            }
+        },
+        {
+            "+@gid": "1228440241",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tomokatsu Nagasaku",
+                "+@id": "49810"
+            }
+        },
+        {
             "+@gid": "1929290273",
             "task": "Animation Director",
             "person": {
@@ -445,11 +558,35 @@
             }
         },
         {
+            "+@gid": "3463512557",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Seiichi Akitake",
+                "+@id": "88726"
+            }
+        },
+        {
+            "+@gid": "987993505",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nayumi Okashiwa",
+                "+@id": "101304"
+            }
+        },
+        {
             "+@gid": "2397145925",
             "task": "Animation Director",
             "person": {
                 "+content": "Keisuke Hiroe",
                 "+@id": "106205"
+            }
+        },
+        {
+            "+@gid": "836723145",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kohei Yano",
+                "+@id": "120863"
             }
         },
         {
@@ -469,6 +606,14 @@
             }
         },
         {
+            "+@gid": "1239196235",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Eri Yonemoto",
+                "+@id": "159069"
+            }
+        },
+        {
             "+@gid": "3110508944",
             "task": "Animation Director",
             "person": {
@@ -485,11 +630,43 @@
             }
         },
         {
+            "+@gid": "1062614721",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yoshiko Matsumura",
+                "+@id": "177764"
+            }
+        },
+        {
             "+@gid": "1748762635",
             "task": "Animation Director",
             "person": {
                 "+content": "Hiroto Nishizawa",
                 "+@id": "178587"
+            }
+        },
+        {
+            "+@gid": "2084099003",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ayaka Minoshima",
+                "+@id": "180631"
+            }
+        },
+        {
+            "+@gid": "1756388212",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sayaka Osato",
+                "+@id": "194063"
+            }
+        },
+        {
+            "+@gid": "2333708952",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hotaru Kawase",
+                "+@id": "216748"
             }
         },
         {
@@ -742,6 +919,6 @@
         }
     },
     "+@date-added": "2024-05-18T17:42:26Z",
-    "+@date-last-modified-at": "2026-09-18T22:36:06Z",
-    "+@date-last-updated-at": "2026-09-18T22:36:06Z"
+    "+@date-last-modified-at": "2026-10-19T04:44:36Z",
+    "+@date-last-updated-at": "2026-10-19T04:44:36Z"
 }

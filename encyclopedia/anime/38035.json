@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Now That We Draw",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-18T22:35:57Z",
+    "+@generated-on": "2026-10-19T04:01:58Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29641"
@@ -63,6 +63,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "2027-01",
+            "+@gid": "1760110914",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "TVアニメ『描くなるうえは』公式サイト",
             "+@gid": "653774851",
             "+@type": "Official website",
@@ -70,11 +75,23 @@
             "+@href": "https://kakunaru-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<i>'Now That We Draw'</i> Manga Gets TV Anime",
-        "+@datetime": "2025-11-21T13:31:49Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-11-21/now-that-we-draw-manga-gets-tv-anime/.231278"
-    },
+    "news": [
+        {
+            "+content": "<i>'Now That We Draw'</i> Manga Gets TV Anime",
+            "+@datetime": "2025-11-21T13:31:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-11-21/now-that-we-draw-manga-gets-tv-anime/.231278"
+        },
+        {
+            "+content": "<i>'Now That We Draw'</i> Anime's 1st Full Promo Video Unveils More Staff, January 2027 Debut",
+            "+@datetime": "2026-09-24T12:28:55Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-24/now-that-we-draw-anime-1st-full-promo-video-unveils-more-staff-january-2027-debut/.242143"
+        },
+        {
+            "+content": "shallm Perform Opening Theme Song for <cite>'Now That We Draw'</cite> Anime",
+            "+@datetime": "2026-10-08T15:31:20Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-08/shallm-perform-opening-theme-song-for-now-that-we-draw-anime/.242638"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1457383393",
@@ -101,6 +118,14 @@
             }
         },
         {
+            "+@gid": "2332367141",
+            "task": "Music",
+            "person": {
+                "+content": "Yoshiaki Miura",
+                "+@id": "8037"
+            }
+        },
+        {
             "+@gid": "1514314534",
             "task": "Original creator",
             "person": {
@@ -122,6 +147,38 @@
             "person": {
                 "+content": "Hiromi Nakagawa",
                 "+@id": "28047"
+            }
+        },
+        {
+            "+@gid": "2272438307",
+            "task": "Art Director",
+            "person": {
+                "+content": "Arei Saiga",
+                "+@id": "269553"
+            }
+        },
+        {
+            "+@gid": "3171599848",
+            "task": "3D Director",
+            "person": {
+                "+content": "Masashi Watanabe",
+                "+@id": "241003"
+            }
+        },
+        {
+            "+@gid": "2371264564",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Fumiyuki Go",
+                "+@id": "134277"
+            }
+        },
+        {
+            "+@gid": "2048187694",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Hayato Kifune",
+                "+@id": "134520"
             }
         }
     ],
@@ -164,5 +221,6 @@
         }
     ],
     "+@date-added": "2025-11-21T09:03:22Z",
-    "+@date-last-updated-at": "2026-09-18T22:36:06Z"
+    "+@date-last-modified-at": "2026-10-19T04:44:36Z",
+    "+@date-last-updated-at": "2026-10-19T04:44:36Z"
 }

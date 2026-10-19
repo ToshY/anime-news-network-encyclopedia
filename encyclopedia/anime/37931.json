@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Apothecary Diaries",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-09-18T22:35:59Z",
+    "+@generated-on": "2026-10-19T04:44:33Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32557"
@@ -49,6 +49,12 @@
             "+@gid": "1372258517",
             "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Il monologo della speziale",
+            "+@gid": "1135405324",
+            "+@type": "Alternative title",
+            "+@lang": "IT"
         },
         {
             "+content": "Kusuriya no Hitorigoto",
@@ -119,6 +125,16 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "3284116010",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "24",
+            "+@gid": "3035051990",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-10-02",
             "+@gid": "289807428",
             "+@type": "Vintage"
@@ -131,6 +147,10 @@
             "+@href": "https://kusuriyanohitorigoto.jp/season3/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "4",
+        "+@weighted_score": "7.9574"
+    },
     "news": [
         {
             "+content": "Crunchyroll to Stream <cite>'Goodbye, Lara'</cite>, <cite>Firefly Wedding</cite>, <cite>Tomb Raider King</cite>, <cite>Overgeared</cite>, More Anime",
@@ -151,6 +171,36 @@
             "+content": "Crunchyroll Announces Release Schedule for Fall 2026 Season",
             "+@datetime": "2026-09-15T17:52:07Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-09-15/crunchyroll-announces-release-schedule-for-fall-2026-season/.241811"
+        },
+        {
+            "+content": "<cite>The Apothecary Diaries</cite> Season 3 Anime's 2nd Trailer Reveals Eve's Ending Theme",
+            "+@datetime": "2026-09-25T11:08:13Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-25/the-apothecary-diaries-season-3-anime-2nd-trailer-reveals-eve-ending-theme/.242175"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>A Tale of the Secret Saint</cite>, <cite>Psyren</cite>, More Anime in India",
+            "+@datetime": "2026-10-02T10:51:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-02/crunchyroll-streams-a-tale-of-the-secret-saint-psyren-more-anime-in-india/.242409"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, September 28-October 4",
+            "+@datetime": "2026-10-15T14:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-15/japanese-animation-tv-ranking-september-28-october-4/.242842"
+        },
+        {
+            "+content": "Crunchyroll Streams Dub for <cite>The Apothecary Diaries</cite> Season 3",
+            "+@datetime": "2026-10-16T02:44:18Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-15/crunchyroll-streams-dub-for-the-apothecary-diaries-season-3/.242868"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, October 5-11",
+            "+@datetime": "2026-10-17T12:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-17/japanese-animation-tv-ranking-october-5-11/.242889"
+        },
+        {
+            "+content": "Indian Language Dubs for <cite>The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life</cite>, More Anime to Stream on Crunchyroll",
+            "+@datetime": "2026-10-17T09:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-17/indian-language-dubs-for-the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-more-anime-/.242893"
         }
     ],
     "staff": [
@@ -277,12 +327,156 @@
     ],
     "cast": [
         {
+            "+@gid": "2928148397",
+            "+@lang": "EN",
+            "role": "Ah-Duo",
+            "person": {
+                "+content": "Monica Rial",
+                "+@id": "2074"
+            }
+        },
+        {
+            "+@gid": "1600607115",
+            "+@lang": "EN",
+            "role": "Jinshi",
+            "person": {
+                "+content": "Kaiji Tang",
+                "+@id": "70445"
+            }
+        },
+        {
+            "+@gid": "2800536278",
+            "+@lang": "EN",
+            "role": "Lakan",
+            "person": {
+                "+content": "Ricco Fajardo",
+                "+@id": "107339"
+            }
+        },
+        {
+            "+@gid": "1722559558",
+            "+@lang": "EN",
+            "role": "Kyou-u",
+            "person": {
+                "+content": "Anne Yatco",
+                "+@id": "152297"
+            }
+        },
+        {
+            "+@gid": "3495381399",
+            "+@lang": "EN",
+            "role": "Maomao",
+            "person": {
+                "+content": "Emi Lo",
+                "+@id": "174014"
+            }
+        },
+        {
+            "+@gid": "1412931783",
+            "+@lang": "EN",
+            "role": "Pairin",
+            "person": {
+                "+content": "Ciarán Strange",
+                "+@id": "184715"
+            }
+        },
+        {
+            "+@gid": "1245450914",
+            "+@lang": "EN",
+            "role": "Lahan",
+            "person": {
+                "+content": "Caleb Yen",
+                "+@id": "185783"
+            }
+        },
+        {
+            "+@gid": "2520837346",
+            "+@lang": "EN",
+            "role": "Gaoshun",
+            "person": {
+                "+content": "Alex Hom",
+                "+@id": "215105"
+            }
+        },
+        {
+            "+@gid": "1020073463",
+            "+@lang": "EN",
+            "role": "Lishu",
+            "person": {
+                "+content": "Reshel Mae",
+                "+@id": "223240"
+            }
+        },
+        {
+            "+@gid": "2195870859",
+            "+@lang": "EN",
+            "role": "Rikuson",
+            "person": {
+                "+content": "Charles Nguyen",
+                "+@id": "230066"
+            }
+        },
+        {
+            "+@gid": "2359183127",
+            "+@lang": "EN",
+            "role": "Joka",
+            "person": {
+                "+content": "Monica Flatley",
+                "+@id": "240600"
+            }
+        },
+        {
+            "+@gid": "2067141113",
+            "+@lang": "EN",
+            "role": "Meimei",
+            "person": {
+                "+content": "Rebecca Danae",
+                "+@id": "249604"
+            }
+        },
+        {
+            "+@gid": "2121545264",
+            "+@lang": "EN",
+            "role": "Lihaku",
+            "person": {
+                "+content": "Seth Fuentes",
+                "+@id": "254340"
+            }
+        },
+        {
+            "+@gid": "2269124149",
+            "+@lang": "EN",
+            "role": "Basen",
+            "person": {
+                "+content": "Edward Escamilla",
+                "+@id": "260100"
+            }
+        },
+        {
+            "+@gid": "1219337262",
+            "+@lang": "JA",
+            "role": "Suirei",
+            "person": {
+                "+content": "Kaori Nazuka",
+                "+@id": "439"
+            }
+        },
+        {
             "+@gid": "1326207333",
             "+@lang": "JA",
             "role": "Gaoshun",
             "person": {
                 "+content": "Katsuyuki Konishi",
                 "+@id": "780"
+            }
+        },
+        {
+            "+@gid": "1202386274",
+            "+@lang": "JA",
+            "role": "Ah-duo",
+            "person": {
+                "+content": "Yūko Kaida",
+                "+@id": "9194"
             }
         },
         {
@@ -331,6 +525,15 @@
             }
         },
         {
+            "+@gid": "572194967",
+            "+@lang": "JA",
+            "role": "Lihaku",
+            "person": {
+                "+content": "Kenji Akabane",
+                "+@id": "74588"
+            }
+        },
+        {
             "+@gid": "2700578158",
             "+@lang": "JA",
             "role": "Meimei",
@@ -367,6 +570,15 @@
             }
         },
         {
+            "+@gid": "3725720358",
+            "+@lang": "JA",
+            "role": "Lishu",
+            "person": {
+                "+content": "Hina Kino",
+                "+@id": "142069"
+            }
+        },
+        {
             "+@gid": "682820977",
             "+@lang": "JA",
             "role": "Jinshi",
@@ -394,6 +606,6 @@
         }
     },
     "+@date-added": "2025-10-22T07:49:43Z",
-    "+@date-last-modified-at": "2026-09-18T22:36:06Z",
-    "+@date-last-updated-at": "2026-09-18T22:36:06Z"
+    "+@date-last-modified-at": "2026-10-19T04:44:36Z",
+    "+@date-last-updated-at": "2026-10-19T04:44:36Z"
 }
