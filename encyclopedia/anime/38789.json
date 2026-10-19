@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Hana-Kimi",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-09-19T18:37:30Z",
+    "+@generated-on": "2026-10-19T21:05:23Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32734"
@@ -131,8 +131,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "11",
-        "+@weighted_score": "6.9759"
+        "+@nb_votes": "20",
+        "+@weighted_score": "6.6456",
+        "+@bayesian_score": "6.9543"
     },
     "news": [
         {
@@ -758,6 +759,15 @@
             }
         },
         {
+            "+@gid": "3347785991",
+            "+@lang": "EN",
+            "role": "Makoto Kagurazaka",
+            "person": {
+                "+content": "Alex Hom",
+                "+@id": "215105"
+            }
+        },
+        {
             "+@gid": "2894359087",
             "+@lang": "EN",
             "role": "Shinji Noe",
@@ -782,15 +792,6 @@
             "person": {
                 "+content": "Tom Henry",
                 "+@id": "262197"
-            }
-        },
-        {
-            "+@gid": "2120212946",
-            "+@lang": "EN",
-            "role": "Julia Maxwell",
-            "person": {
-                "+content": "Jaclyn Thomas",
-                "+@id": "263371"
             }
         },
         {
@@ -866,12 +867,12 @@
             }
         },
         {
-            "+@gid": "2140014682",
+            "+@gid": "2587000465",
             "+@lang": "FR",
-            "role": "Makoto Kagurazaka",
+            "role": "Rio Umeda",
             "person": {
-                "+content": "Benjamin Thomas",
-                "+@id": "19359"
+                "+content": "Marie Du Bled",
+                "+@id": "145504"
             }
         },
         {
@@ -902,6 +903,15 @@
             }
         },
         {
+            "+@gid": "1684499342",
+            "+@lang": "FR",
+            "role": "Itsuki Kujo",
+            "person": {
+                "+content": "Arthur Dubois",
+                "+@id": "213181"
+            }
+        },
+        {
             "+@gid": "174231059",
             "+@lang": "FR",
             "role": "Hokuto Umeda",
@@ -920,12 +930,12 @@
             }
         },
         {
-            "+@gid": "510140098",
+            "+@gid": "2098452526",
             "+@lang": "FR",
-            "role": "Itsuki Kujo",
+            "role": "Masao Himejima",
             "person": {
-                "+content": "Loïc Buisson",
-                "+@id": "289724"
+                "+content": "Valentin Vanstechelman",
+                "+@id": "273368"
             }
         },
         {
@@ -1118,6 +1128,6 @@
         }
     },
     "+@date-added": "2026-03-22T17:10:09Z",
-    "+@date-last-modified-at": "2026-09-19T18:37:38Z",
-    "+@date-last-updated-at": "2026-09-19T18:37:38Z"
+    "+@date-last-modified-at": "2026-10-19T21:05:31Z",
+    "+@date-last-updated-at": "2026-10-19T21:05:31Z"
 }

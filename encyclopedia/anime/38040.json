@@ -1,10 +1,10 @@
 {
     "+@id": "38040",
     "+@gid": "3687435564",
-    "+@type": "TV",
+    "+@type": "special",
     "+@name": "My Happy Marriage",
-    "+@precision": "TV 3",
-    "+@generated-on": "2026-09-19T18:37:34Z",
+    "+@precision": "special",
+    "+@generated-on": "2026-10-19T21:05:27Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "29984"
@@ -63,6 +63,11 @@
             "+@type": "Vintage"
         },
         {
+            "+content": "\"Shiawase de Namida ga Deru no wa.\" (幸せで涙が出るのは。) by Riria.",
+            "+@gid": "1680088839",
+            "+@type": "Opening Theme"
+        },
+        {
             "+content": "\"Prelude no Temae ni: ~for me&you~\" (プレリュードの手前に 〜for me&you〜) by Kashitarō Itō",
             "+@gid": "2011829450",
             "+@type": "Ending Theme"
@@ -75,11 +80,18 @@
             "+@href": "https://watakon-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>My Happy Marriage</cite> Anime Special Airs on October 25 With All 3 Episodes",
-        "+@datetime": "2026-08-31T03:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-08-30/my-happy-marriage-anime-special-airs-on-october-25-with-all-3-episodes/.241115"
-    },
+    "news": [
+        {
+            "+content": "<cite>My Happy Marriage</cite> Anime Special Airs on October 25 With All 3 Episodes",
+            "+@datetime": "2026-08-31T03:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-30/my-happy-marriage-anime-special-airs-on-october-25-with-all-3-episodes/.241115"
+        },
+        {
+            "+content": "<cite>My Happy Marriage</cite> Anime Special's Main Promo Video Reveals Opening Theme Song",
+            "+@datetime": "2026-10-02T03:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-01/my-happy-marriage-anime-special-main-promo-video-reveals-opening-theme-song/.242381"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1076446850",
@@ -304,6 +316,6 @@
         }
     },
     "+@date-added": "2025-11-21T22:46:03Z",
-    "+@date-last-modified-at": "2026-09-19T18:37:38Z",
-    "+@date-last-updated-at": "2026-09-19T18:37:38Z"
+    "+@date-last-modified-at": "2026-10-19T21:05:31Z",
+    "+@date-last-updated-at": "2026-10-19T21:05:31Z"
 }
