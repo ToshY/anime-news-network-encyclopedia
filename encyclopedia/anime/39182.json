@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Antiquarian Bookshop Biblia's Case Files",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-20T13:04:02Z",
+    "+@generated-on": "2026-10-20T12:58:00Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "39177"
@@ -64,7 +64,7 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2027",
+            "+content": "2027-04",
             "+@gid": "845514113",
             "+@type": "Vintage"
         },
@@ -76,11 +76,18 @@
             "+@href": "https://biblia-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Antiquarian Bookshop Biblia</cite> Mystery Novels Get TV Anime in 2027",
-        "+@datetime": "2026-04-22T03:14:44Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-04-21/antiquarian-bookshop-biblia-mystery-novels-get-tv-anime-in-2027/.236656"
-    },
+    "news": [
+        {
+            "+content": "<cite>Antiquarian Bookshop Biblia</cite> Mystery Novels Get TV Anime in 2027",
+            "+@datetime": "2026-04-22T03:14:44Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-21/antiquarian-bookshop-biblia-mystery-novels-get-tv-anime-in-2027/.236656"
+        },
+        {
+            "+content": "<cite>Antiquarian Bookshop Biblia's Case Files</cite> Anime's New Video Unveils More Cast & Staff, April Debut",
+            "+@datetime": "2026-10-03T13:35:32Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-03/antiquarian-bookshop-biblia-case-files-anime-new-video-unveils-more-cast-and-staff-april-debut/.242446"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2525357435",
@@ -131,15 +138,73 @@
             }
         },
         {
+            "+@gid": "3853413860",
+            "task": "Art Director",
+            "person": {
+                "+content": "Masatoshi Kai",
+                "+@id": "6508"
+            }
+        },
+        {
             "+@gid": "2343464104",
             "task": "Chief Animation Director",
             "person": {
                 "+content": "Jun Nakai",
                 "+@id": "10855"
             }
+        },
+        {
+            "+@gid": "2210751482",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Tomohiko Yaginuma",
+                "+@id": "75367"
+            }
+        },
+        {
+            "+@gid": "1617631804",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Tatsuhiro Itō",
+                "+@id": "96133"
+            }
+        },
+        {
+            "+@gid": "3245170326",
+            "task": "Co-Director",
+            "person": {
+                "+content": "Ayako Kurata",
+                "+@id": "25556"
+            }
+        },
+        {
+            "+@gid": "1905379868",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Teruyuki Kawase",
+                "+@id": "81888"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "2237179664",
+            "+@lang": "JA",
+            "role": "Shida",
+            "person": {
+                "+content": "Wataru Takagi",
+                "+@id": "1307"
+            }
+        },
+        {
+            "+@gid": "2097043391",
+            "+@lang": "JA",
+            "role": "Kikuya Kasai",
+            "person": {
+                "+content": "Yōhei Azakami",
+                "+@id": "108274"
+            }
+        },
         {
             "+@gid": "2061055032",
             "+@lang": "JA",
@@ -147,6 +212,24 @@
             "person": {
                 "+content": "Shunsuke Takeuchi",
                 "+@id": "132044"
+            }
+        },
+        {
+            "+@gid": "2139560439",
+            "+@lang": "JA",
+            "role": "Nao Kosuga",
+            "person": {
+                "+content": "Saeko Kamijō",
+                "+@id": "179970"
+            }
+        },
+        {
+            "+@gid": "2241002574",
+            "+@lang": "JA",
+            "role": "Ayaka Shinokawa",
+            "person": {
+                "+content": "Reo Osanai",
+                "+@id": "213348"
             }
         },
         {
@@ -168,5 +251,6 @@
         }
     },
     "+@date-added": "2026-04-22T00:02:08Z",
-    "+@date-last-updated-at": "2026-09-20T13:04:09Z"
+    "+@date-last-modified-at": "2026-10-20T13:34:12Z",
+    "+@date-last-updated-at": "2026-10-20T13:34:12Z"
 }
