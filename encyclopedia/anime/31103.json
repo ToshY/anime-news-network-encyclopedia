@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Returner's Magic Should Be Special",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-09-20T04:56:40Z",
+    "+@generated-on": "2026-10-20T23:12:15Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "27613"
@@ -53,9 +53,54 @@
             "+@lang": "JA"
         },
         {
+            "+content": "action",
+            "+@gid": "2764786844",
+            "+@type": "Genres"
+        },
+        {
             "+content": "fantasy",
             "+@gid": "2013957718",
             "+@type": "Genres"
+        },
+        {
+            "+content": "apocalyptic",
+            "+@gid": "1832171649",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "school",
+            "+@gid": "2816062214",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "swordplay",
+            "+@gid": "1192503064",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "time travel",
+            "+@gid": "2386022187",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "tragedy",
+            "+@gid": "2689539493",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "2283017925",
+            "+@type": "Objectionable content"
+        },
+        {
+            "+content": "In a land dominated by the formidable Shadow Worlds, most of humanity has been destroyed. To rescue their planet from impending doom, six brave heroes fight a perilous battle…and fail. But there's a glimpse of hope when Desir, one of the last mages, is suddenly sent back in time 13 years. Now armed with knowledge of the grim future, can he alter the course of history and save the world.",
+            "+@gid": "1975699935",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "24",
+            "+@gid": "1518790676",
+            "+@type": "Running time"
         },
         {
             "+content": "2026-10-03 (advanced screening in theaters)",
@@ -83,6 +128,28 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://returners-magic.com/"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "6.0265"
+    },
+    "episode": [
+        {
+            "+@num": "13",
+            "title": {
+                "+content": "Into the Shadow",
+                "+@gid": "1691966462",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "14",
+            "title": {
+                "+content": "Judgment",
+                "+@gid": "2390896295",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -125,6 +192,16 @@
             "+content": "Crunchyroll Announces Release Schedule for Fall 2026 Season",
             "+@datetime": "2026-09-15T17:52:07Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-09-15/crunchyroll-announces-release-schedule-for-fall-2026-season/.241811"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>A Tale of the Secret Saint</cite>, <cite>Psyren</cite>, More Anime in India",
+            "+@datetime": "2026-10-02T10:51:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-02/crunchyroll-streams-a-tale-of-the-secret-saint-psyren-more-anime-in-india/.242409"
+        },
+        {
+            "+content": "<cite>A Returner's Magic Should Be Special</cite> Season 2 Anime Reveals Same-Day Dub Release, Cast",
+            "+@datetime": "2026-10-06T18:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-06/a-returner-magic-should-be-special-season-2-anime-reveals-same-day-dub-release-cast/.242551"
         }
     ],
     "staff": [
@@ -243,6 +320,51 @@
     ],
     "cast": [
         {
+            "+@gid": "1022335182",
+            "+@lang": "EN",
+            "role": "Azrest Kingscrown",
+            "person": {
+                "+content": "Anastasia Munoz",
+                "+@id": "73145"
+            }
+        },
+        {
+            "+@gid": "2014474065",
+            "+@lang": "EN",
+            "role": "Desir Herrman",
+            "person": {
+                "+content": "Austin Tindle",
+                "+@id": "97965"
+            }
+        },
+        {
+            "+@gid": "1787430526",
+            "+@lang": "EN",
+            "role": "Pram Schnaize",
+            "person": {
+                "+content": "Macy Anne Johnson",
+                "+@id": "165232"
+            }
+        },
+        {
+            "+@gid": "1910011969",
+            "+@lang": "EN",
+            "role": "Romaintica Elle",
+            "person": {
+                "+content": "Sarah Roach",
+                "+@id": "184047"
+            }
+        },
+        {
+            "+@gid": "462800162",
+            "+@lang": "JA",
+            "role": "crow mask",
+            "person": {
+                "+content": "Tarusuke Shingaki",
+                "+@id": "12355"
+            }
+        },
+        {
             "+@gid": "2579384533",
             "+@lang": "JA",
             "role": "Desir Herrman",
@@ -298,6 +420,6 @@
         }
     ],
     "+@date-added": "2023-12-23T23:13:35Z",
-    "+@date-last-modified-at": "2026-09-20T04:56:49Z",
-    "+@date-last-updated-at": "2026-09-20T04:56:49Z"
+    "+@date-last-modified-at": "2026-10-20T23:12:20Z",
+    "+@date-last-updated-at": "2026-10-20T23:12:20Z"
 }
