@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Sasaki and Peeps",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-09-19T12:31:02Z",
+    "+@generated-on": "2026-10-20T04:54:22Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26120"
@@ -58,16 +58,6 @@
             "+@type": "Genres"
         },
         {
-            "+content": "comedy",
-            "+@gid": "3490567234",
-            "+@type": "Genres"
-        },
-        {
-            "+content": "drama",
-            "+@gid": "570705123",
-            "+@type": "Genres"
-        },
-        {
             "+content": "fantasy",
             "+@gid": "862702770",
             "+@type": "Genres"
@@ -76,6 +66,16 @@
             "+content": "mystery",
             "+@gid": "3327263760",
             "+@type": "Genres"
+        },
+        {
+            "+content": "angels",
+            "+@gid": "1043656668",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "demons",
+            "+@gid": "2918607787",
+            "+@type": "Themes"
         },
         {
             "+content": "detective",
@@ -108,14 +108,29 @@
             "+@type": "Themes"
         },
         {
+            "+content": "survival game",
+            "+@gid": "1902933474",
+            "+@type": "Themes"
+        },
+        {
             "+content": "TA",
             "+@gid": "956225062",
             "+@type": "Objectionable content"
         },
         {
+            "+content": "Sasaki is a middle-aged office worker living in Japan. Feeling drained by the vapid corporate world, he heads to the pet shop in search of a new companion. There he finds an adorable bird named Peeps and takes him home. But Sasaki quickly learns that Peeps isn't your average bird…he's a powerful mage from another world. Together, they embark on a magical adventure filled with swords and sorcery.",
+            "+@gid": "1507670835",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "23",
             "+@gid": "2333989313",
             "+@type": "Running time"
+        },
+        {
+            "+content": "12",
+            "+@gid": "2715443698",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2026-10-07",
@@ -128,6 +143,11 @@
             "+@type": "Opening Theme"
         },
         {
+            "+content": "\"Sukipi no Okage!\" (すきぴのおかげ！) by Nonfic",
+            "+@gid": "2231138376",
+            "+@type": "Ending Theme"
+        },
+        {
             "+content": "TVアニメ「佐々木とピーちゃん」公式サイト",
             "+@gid": "1029772928",
             "+@type": "Official website",
@@ -135,6 +155,10 @@
             "+@href": "https://sasapi-anime.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "7.0265"
+    },
     "news": [
         {
             "+content": "<cite>Sasaki and Peeps</cite> Anime's 2nd Season Unveils New Visual, 2026 Premiere",
@@ -165,6 +189,16 @@
             "+content": "Crunchyroll Announces Release Schedule for Fall 2026 Season",
             "+@datetime": "2026-09-15T17:52:07Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-09-15/crunchyroll-announces-release-schedule-for-fall-2026-season/.241811"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>A Tale of the Secret Saint</cite>, <cite>Psyren</cite>, More Anime in India",
+            "+@datetime": "2026-10-02T10:51:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-02/crunchyroll-streams-a-tale-of-the-secret-saint-psyren-more-anime-in-india/.242409"
+        },
+        {
+            "+content": "Muse India Streams <cite>The Detective Is Already Dead</cite> Season 2 Anime",
+            "+@datetime": "2026-10-03T10:29:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-03/muse-india-streams-the-detective-is-already-dead-season-2-anime/.242422"
         }
     ],
     "staff": [
@@ -182,6 +216,86 @@
             "person": {
                 "+content": "Deko Akao",
                 "+@id": "51810"
+            }
+        },
+        {
+            "+@gid": "1964302518",
+            "task": "Script",
+            "person": {
+                "+content": "Deko Akao",
+                "+@id": "51810"
+            }
+        },
+        {
+            "+@gid": "2823126137",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Atsutoshi Umezawa",
+                "+@id": "8925"
+            }
+        },
+        {
+            "+@gid": "2635255663",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yūshi Ibe",
+                "+@id": "133590"
+            }
+        },
+        {
+            "+@gid": "1565561989",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takanori Minoura",
+                "+@id": "189644"
+            }
+        },
+        {
+            "+@gid": "826915775",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yūshi Ibe",
+                "+@id": "133590"
+            }
+        },
+        {
+            "+@gid": "2459893066",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ryōko Takemura",
+                "+@id": "297831"
+            }
+        },
+        {
+            "+@gid": "3029541598",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Yūshi Ibe",
+                "+@id": "133590"
+            }
+        },
+        {
+            "+@gid": "1672037180",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Takanori Minoura",
+                "+@id": "189644"
+            }
+        },
+        {
+            "+@gid": "1647279951",
+            "task": "Music",
+            "person": {
+                "+content": "Osamu Sasaki",
+                "+@id": "46600"
+            }
+        },
+        {
+            "+@gid": "2625483605",
+            "task": "Music",
+            "person": {
+                "+content": "Kōji Fujimoto",
+                "+@id": "92710"
             }
         },
         {
@@ -217,6 +331,14 @@
             }
         },
         {
+            "+@gid": "2644022118",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Mika Inoue",
+                "+@id": "85318"
+            }
+        },
+        {
             "+@gid": "738009471",
             "task": "Chief Animation Director",
             "person": {
@@ -230,6 +352,94 @@
             "person": {
                 "+content": "Saori Nakashiki",
                 "+@id": "98253"
+            }
+        },
+        {
+            "+@gid": "2109746611",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Zhi Peng Wu",
+                "+@id": "115616"
+            }
+        },
+        {
+            "+@gid": "1394528665",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hideaki Shimada",
+                "+@id": "11756"
+            }
+        },
+        {
+            "+@gid": "2232036196",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuki Imoto",
+                "+@id": "36458"
+            }
+        },
+        {
+            "+@gid": "1751824478",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiroshi Maejima",
+                "+@id": "54555"
+            }
+        },
+        {
+            "+@gid": "1700661181",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hyo Jung An",
+                "+@id": "61856"
+            }
+        },
+        {
+            "+@gid": "2833811786",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūji Wada",
+                "+@id": "80237"
+            }
+        },
+        {
+            "+@gid": "1494892252",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūki Kitajima",
+                "+@id": "110545"
+            }
+        },
+        {
+            "+@gid": "3356219523",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shin Kimata",
+                "+@id": "145285"
+            }
+        },
+        {
+            "+@gid": "1938214069",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mitsuaki Hori",
+                "+@id": "151968"
+            }
+        },
+        {
+            "+@gid": "2522488487",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jung Sil Kang",
+                "+@id": "224024"
+            }
+        },
+        {
+            "+@gid": "709054923",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Akari Hiraga",
+                "+@id": "286966"
             }
         },
         {
@@ -254,6 +464,118 @@
             "person": {
                 "+content": "Yūko Shintani",
                 "+@id": "83802"
+            }
+        },
+        {
+            "+@gid": "2075709832",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Asa Suehira",
+                "+@id": "116845"
+            }
+        },
+        {
+            "+@gid": "1280183526",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Hiroyasu Taniguchi",
+                "+@id": "118033"
+            }
+        },
+        {
+            "+@gid": "787179812",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Shuzo Kasahara",
+                "+@id": "119293"
+            }
+        },
+        {
+            "+@gid": "2645009949",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Kosuke Shukuwa",
+                "+@id": "127639"
+            }
+        },
+        {
+            "+@gid": "1614656426",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Shota Watase",
+                "+@id": "166220"
+            }
+        },
+        {
+            "+@gid": "3279479307",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Ayumu Hoshino",
+                "+@id": "215039"
+            }
+        },
+        {
+            "+@gid": "2529134989",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Yukihiro Sugitani",
+                "+@id": "241152"
+            }
+        },
+        {
+            "+@gid": "3692174836",
+            "task": "Producer",
+            "person": {
+                "+content": "Shunichi Uemura",
+                "+@id": "29691"
+            }
+        },
+        {
+            "+@gid": "2400217611",
+            "task": "Producer",
+            "person": {
+                "+content": "Akihiro Narita",
+                "+@id": "90666"
+            }
+        },
+        {
+            "+@gid": "2030548774",
+            "task": "Producer",
+            "person": {
+                "+content": "Kōsuke Arai",
+                "+@id": "166451"
+            }
+        },
+        {
+            "+@gid": "2875478392",
+            "task": "Producer",
+            "person": {
+                "+content": "Yukari Kuwayama",
+                "+@id": "185150"
+            }
+        },
+        {
+            "+@gid": "2179141490",
+            "task": "Producer",
+            "person": {
+                "+content": "Shuka Nishimae",
+                "+@id": "199464"
+            }
+        },
+        {
+            "+@gid": "1262859636",
+            "task": "Producer",
+            "person": {
+                "+content": "Kōichi Sano",
+                "+@id": "241127"
+            }
+        },
+        {
+            "+@gid": "881341711",
+            "task": "Producer",
+            "person": {
+                "+content": "Yasushi Nagami",
+                "+@id": "261595"
             }
         }
     ],
@@ -376,6 +698,6 @@
         }
     },
     "+@date-added": "2024-03-24T04:48:48Z",
-    "+@date-last-modified-at": "2026-09-19T12:31:10Z",
-    "+@date-last-updated-at": "2026-09-19T12:31:10Z"
+    "+@date-last-modified-at": "2026-10-20T04:54:27Z",
+    "+@date-last-updated-at": "2026-10-20T04:54:27Z"
 }
