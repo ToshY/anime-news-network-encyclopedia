@@ -2,9 +2,9 @@
     "+@id": "38174",
     "+@gid": "1860005873",
     "+@type": "TV",
-    "+@name": "Keroro Gunsō ☆",
+    "+@name": "KERORO☆",
     "+@precision": "TV 2026",
-    "+@generated-on": "2026-09-20T18:50:27Z",
+    "+@generated-on": "2026-10-20T20:00:28Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "2866"
@@ -35,9 +35,15 @@
             ]
         },
         {
+            "+content": "KERORO☆",
+            "+@gid": "3187339048",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Keroro Gunsō ☆",
             "+@gid": "3020991146",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -67,6 +73,11 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "2120105155",
+            "+@type": "Running time"
+        },
+        {
             "+content": "2026-10-03",
             "+@gid": "3311113810",
             "+@type": "Vintage"
@@ -79,6 +90,10 @@
             "+@href": "https://www.bn-pictures.co.jp/keroro-anime/tv/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "3",
+        "+@weighted_score": "5.7429"
+    },
     "news": [
         {
             "+content": "New <cite>Sgt. Frog</cite> TV Anime Reveals October 3 Debut, Main Cast in Video",
@@ -89,6 +104,11 @@
             "+content": "New <cite>Sgt. Frog</cite> TV Anime's 2nd Main Trailer Reveals Theme Songs, 5 New Cast",
             "+@datetime": "2026-09-14T10:19:46Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-09-14/new-sgt-frog-tv-anime-2nd-main-trailer-reveals-theme-songs-5-new-cast/.241759"
+        },
+        {
+            "+content": "Crunchyroll Streams New <cite>Sgt. Frog</cite> TV Anime",
+            "+@datetime": "2026-10-04T02:39:40Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-03/crunchyroll-streams-new-sgt-frog-tv-anime/.242453"
         }
     ],
     "staff": [
@@ -175,6 +195,33 @@
     ],
     "cast": [
         {
+            "+@gid": "2417836743",
+            "+@lang": "JA",
+            "role": "Aki Hinata",
+            "person": {
+                "+content": "Chiwa Saitō",
+                "+@id": "13834"
+            }
+        },
+        {
+            "+@gid": "2490192902",
+            "+@lang": "JA",
+            "role": "Paul",
+            "person": {
+                "+content": "Yoshimitsu Shimoyama",
+                "+@id": "20597"
+            }
+        },
+        {
+            "+@gid": "2848696834",
+            "+@lang": "JA",
+            "role": "Narrator",
+            "person": {
+                "+content": "Satomi Arai",
+                "+@id": "26718"
+            }
+        },
+        {
             "+@gid": "2489598811",
             "+@lang": "JA",
             "role": "Momoka Nishizawa",
@@ -229,6 +276,15 @@
             }
         },
         {
+            "+@gid": "1151896280",
+            "+@lang": "JA",
+            "role": "Angol Mois",
+            "person": {
+                "+content": "Kana Ichinose",
+                "+@id": "164051"
+            }
+        },
+        {
             "+@gid": "2278879623",
             "+@lang": "JA",
             "role": "Mutsumi Hōjō",
@@ -274,6 +330,6 @@
         }
     },
     "+@date-added": "2025-12-23T06:54:02Z",
-    "+@date-last-modified-at": "2026-09-20T18:50:34Z",
-    "+@date-last-updated-at": "2026-09-20T18:50:34Z"
+    "+@date-last-modified-at": "2026-10-20T20:00:33Z",
+    "+@date-last-updated-at": "2026-10-20T20:00:33Z"
 }
