@@ -2,9 +2,9 @@
     "+@id": "36286",
     "+@gid": "2701668695",
     "+@type": "manga",
-    "+@name": "Dream Jumbo Girl",
+    "+@name": "Jackpot Girls",
     "+@precision": "manga",
-    "+@generated-on": "2026-09-20T22:28:08Z",
+    "+@generated-on": "2026-10-21T23:23:41Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "6457"
@@ -13,31 +13,32 @@
         {
             "+@gid": "3264436864",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36286-3264436864.1748420305.jpg",
-            "+@width": "200",
-            "+@height": "188",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36286-3264436864.1792114154.jpg",
+            "+@width": "151",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36286-3264436864.1748420305.jpg",
-                    "+@width": "200",
-                    "+@height": "188"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36286-3264436864.1792114154.jpg",
+                    "+@width": "151",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36286-3264436864.1748420305.jpg",
-                    "+@width": "500",
-                    "+@height": "470"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A36286-3264436864.1748420305.jpg",
-                    "+@width": "1179",
-                    "+@height": "1108"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36286-3264436864.1792114154.jpg",
+                    "+@width": "220",
+                    "+@height": "291"
                 }
             ]
         },
         {
+            "+content": "Jackpot Girls",
+            "+@gid": "3101418274",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Dream Jumbo Girl",
             "+@gid": "2497750854",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "EN"
         },
         {
@@ -57,11 +58,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Hiroyuki's New <cite>Dream Jumbo Girl</cite> Manga Launches on May 28",
-        "+@datetime": "2025-03-05T02:43:40Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-03-04/hiroyuki-new-dream-jumbo-girl-manga-launches-on-may-28/.221960"
-    },
+    "news": [
+        {
+            "+content": "Hiroyuki's New <cite>Dream Jumbo Girl</cite> Manga Launches on May 28",
+            "+@datetime": "2025-03-05T02:43:40Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-03-04/hiroyuki-new-dream-jumbo-girl-manga-launches-on-may-28/.221960"
+        },
+        {
+            "+content": "Kodansha USA Licenses <cite>Jackpot Girls</cite>, <cite>Powerless Without You</cite>, <cite>Occult Times</cite>, 7 Other Manga",
+            "+@datetime": "2026-10-16T01:14:32Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-15/kodansha-usa-licenses-jackpot-girls-powerless-without-you-occult-times-7-other-manga/.242866"
+        }
+    ],
     "staff": {
         "+@gid": "1833277346",
         "task": "Story & Art",
@@ -71,5 +79,6 @@
         }
     },
     "+@date-added": "2025-05-28T04:15:57Z",
-    "+@date-last-updated-at": "2026-09-20T22:28:11Z"
+    "+@date-last-modified-at": "2026-10-21T23:23:43Z",
+    "+@date-last-updated-at": "2026-10-21T23:23:43Z"
 }
