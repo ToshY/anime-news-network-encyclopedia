@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Shin Oishinbo",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-21T04:59:21Z",
+    "+@generated-on": "2026-10-21T13:50:06Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "1054"
@@ -13,24 +13,24 @@
         {
             "+@gid": "2145845088",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40552-2145845088.1789800669.jpg",
-            "+@width": "200",
-            "+@height": "60",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40552-2145845088.1790244007.jpg",
+            "+@width": "142",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40552-2145845088.1789800669.jpg",
-                    "+@width": "200",
-                    "+@height": "60"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40552-2145845088.1790244007.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40552-2145845088.1789800669.jpg",
-                    "+@width": "500",
-                    "+@height": "149"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40552-2145845088.1790244007.jpg",
+                    "+@width": "425",
+                    "+@height": "600"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A40552-2145845088.1789800669.jpg",
-                    "+@width": "757",
-                    "+@height": "226"
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A40552-2145845088.1790244007.jpg",
+                    "+@width": "708",
+                    "+@height": "1000"
                 }
             ]
         },
@@ -50,14 +50,54 @@
             "+content": "cooking",
             "+@gid": "876897620",
             "+@type": "Themes"
+        },
+        {
+            "+content": "2027",
+            "+@gid": "2689989365",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ「新 美味しんぼ」",
+            "+@gid": "3163381603",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://shin-oishinbo-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Oishinbo</cite> Gourmet Manga Gets New TV Anime",
-        "+@datetime": "2026-09-19T06:32:44Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-09-19/oishinbo-gourmet-manga-gets-new-tv-anime/.241971"
-    },
+    "news": [
+        {
+            "+content": "<cite>Oishinbo</cite> Gourmet Manga Gets New TV Anime",
+            "+@datetime": "2026-09-19T06:32:44Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-19/oishinbo-gourmet-manga-gets-new-tv-anime/.241971"
+        },
+        {
+            "+content": "<cite>Shin Oishinbo</cite> TV Anime Reveals Main Cast & Staff Members, 2027 Debut",
+            "+@datetime": "2026-09-24T10:12:36Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-24/shin-oishinbo-tv-anime-reveals-main-cast-and-staff-members-2027-debut/.242137"
+        },
+        {
+            "+content": "<cite>Shin Oishinbo</cite> TV Anime Streams Teaser Video",
+            "+@datetime": "2026-10-01T09:57:19Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-01/shin-oishinbo-tv-anime-streams-teaser-video/.242377"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "3225206133",
+            "task": "Director",
+            "person": {
+                "+content": "Ken'ichi Nishida",
+                "+@id": "19089"
+            }
+        },
+        {
+            "+@gid": "2636199392",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Takahiro Nagano",
+                "+@id": "157562"
+            }
+        },
         {
             "+@gid": "2285190161",
             "task": "Original creator",
@@ -73,8 +113,72 @@
                 "+content": "Akira Hanasaki",
                 "+@id": "13087"
             }
+        },
+        {
+            "+@gid": "2563661757",
+            "task": "Character Design",
+            "person": {
+                "+content": "Nozomi Kawashige",
+                "+@id": "117039"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "1847549048",
+            "+@lang": "JA",
+            "role": "Yūzan Kaibara",
+            "person": {
+                "+content": "Akio Ōtsuka",
+                "+@id": "459"
+            }
+        },
+        {
+            "+@gid": "4084283258",
+            "+@lang": "JA",
+            "role": "Shirō Yamaoka",
+            "person": {
+                "+content": "Yōhei Azakami",
+                "+@id": "108274"
+            }
+        },
+        {
+            "+@gid": "2261192774",
+            "+@lang": "JA",
+            "role": "Yūko Kurita",
+            "person": {
+                "+content": "Hitomi Sasaki",
+                "+@id": "148879"
+            }
+        }
+    ],
+    "credit": [
+        {
+            "+@gid": "1437712092",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Vega Entertainment",
+                "+@id": "514"
+            }
+        },
+        {
+            "+@gid": "2033626521",
+            "task": "Animation Production",
+            "company": {
+                "+content": "SynergySP",
+                "+@id": "10717"
+            }
+        },
+        {
+            "+@gid": "2622367791",
+            "task": "Production",
+            "company": {
+                "+content": "Shin-Ei Animation",
+                "+@id": "2019"
+            }
         }
     ],
     "+@date-added": "2026-09-19T02:49:41Z",
-    "+@date-last-updated-at": "2026-09-21T04:59:22Z"
+    "+@date-last-modified-at": "2026-10-21T13:50:12Z",
+    "+@date-last-updated-at": "2026-10-21T13:50:12Z"
 }

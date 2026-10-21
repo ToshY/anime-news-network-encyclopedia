@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Magical Explorer",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-20T18:50:31Z",
+    "+@generated-on": "2026-10-21T13:50:11Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25380"
@@ -53,14 +53,54 @@
             "+@lang": "JA"
         },
         {
+            "+content": "adventure",
+            "+@gid": "2398756389",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "comedy",
+            "+@gid": "3857253395",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "2665356921",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "bishoujo",
+            "+@gid": "1673523664",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "ecchi",
+            "+@gid": "1892863712",
+            "+@type": "Themes"
+        },
+        {
             "+content": "harem",
             "+@gid": "3897535065",
             "+@type": "Themes"
         },
         {
+            "+content": "TA",
+            "+@gid": "2178150877",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "Reincarnated as a character in the legendary erotic game, \"Magical Explorer,\" it doesn’t take long for our hero to discover that he’s been designated the unlucky side-character rather than the game’s lady-killer protagonist. Not to worry, though. Armed with his vast knowledge of the game (and a few cheats) he’ll do whatever it takes to win the hearts of the game’s heroines and emerge as the most accomplished student at the Sorcerer's Academy.",
             "+@gid": "1313034122",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "24",
+            "+@gid": "1352306792",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "13",
+            "+@gid": "624144954",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2026-10-03",
@@ -85,6 +125,10 @@
             "+@href": "https://majieku.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "3",
+        "+@weighted_score": "2.5464"
+    },
     "news": [
         {
             "+content": "<cite>Magical Explorer</cite> Light Novels Confirm TV Anime in Fall",
@@ -120,6 +164,16 @@
             "+content": "Crunchyroll Announces Release Schedule for Fall 2026 Season",
             "+@datetime": "2026-09-15T17:52:07Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-09-15/crunchyroll-announces-release-schedule-for-fall-2026-season/.241811"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>A Tale of the Secret Saint</cite>, <cite>Psyren</cite>, More Anime in India",
+            "+@datetime": "2026-10-02T10:51:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-02/crunchyroll-streams-a-tale-of-the-secret-saint-psyren-more-anime-in-india/.242409"
+        },
+        {
+            "+content": "<cite>Magical Explorer</cite> TV Anime Confirms English Dub Cast",
+            "+@datetime": "2026-10-05T15:27:59Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-05/magical-explorer-tv-anime-confirms-english-dub-cast/.242513"
         }
     ],
     "staff": [
@@ -137,6 +191,110 @@
             "person": {
                 "+content": "Satoko Sekine",
                 "+@id": "75686"
+            }
+        },
+        {
+            "+@gid": "2192701589",
+            "task": "Script",
+            "person": {
+                "+content": "Satoko Sekine",
+                "+@id": "75686"
+            }
+        },
+        {
+            "+@gid": "2075387337",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Satoru Yamashita",
+                "+@id": "26108"
+            }
+        },
+        {
+            "+@gid": "2261670347",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shōgo Arai",
+                "+@id": "78305"
+            }
+        },
+        {
+            "+@gid": "4136018361",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kazuki Ōhashi",
+                "+@id": "118962"
+            }
+        },
+        {
+            "+@gid": "2366462472",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kasumi Fukagawa",
+                "+@id": "130379"
+            }
+        },
+        {
+            "+@gid": "1632642120",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Miyu Nakano",
+                "+@id": "199046"
+            }
+        },
+        {
+            "+@gid": "2099100782",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kageyasu Saionji",
+                "+@id": "302775"
+            }
+        },
+        {
+            "+@gid": "1366173404",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Hiroyuki Tsuchiya",
+                "+@id": "11890"
+            }
+        },
+        {
+            "+@gid": "1684322178",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Satoru Yamashita",
+                "+@id": "26108"
+            }
+        },
+        {
+            "+@gid": "1265381258",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shōgo Arai",
+                "+@id": "78305"
+            }
+        },
+        {
+            "+@gid": "2735729380",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kazuki Ōhashi",
+                "+@id": "118962"
+            }
+        },
+        {
+            "+@gid": "2624044985",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Kasumi Fukagawa",
+                "+@id": "130379"
+            }
+        },
+        {
+            "+@gid": "3209685155",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Miyu Nakano",
+                "+@id": "199046"
             }
         },
         {
@@ -188,6 +346,110 @@
             }
         },
         {
+            "+@gid": "2432825005",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Ryōsuke Kimiya",
+                "+@id": "46377"
+            }
+        },
+        {
+            "+@gid": "2951449870",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masahiko Nakata",
+                "+@id": "11461"
+            }
+        },
+        {
+            "+@gid": "1836066973",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masaru Hyodo",
+                "+@id": "15799"
+            }
+        },
+        {
+            "+@gid": "718510252",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Satoru Yamashita",
+                "+@id": "26108"
+            }
+        },
+        {
+            "+@gid": "1425670252",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tomoshige Inayoshi",
+                "+@id": "31780"
+            }
+        },
+        {
+            "+@gid": "1072535776",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ryōsuke Kimiya",
+                "+@id": "46377"
+            }
+        },
+        {
+            "+@gid": "1081541801",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yoshihiro Maeda",
+                "+@id": "58562"
+            }
+        },
+        {
+            "+@gid": "2620564989",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hisae Ikezu",
+                "+@id": "80099"
+            }
+        },
+        {
+            "+@gid": "537102898",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Sakurako Mitsuhashi",
+                "+@id": "84710"
+            }
+        },
+        {
+            "+@gid": "2864218157",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mai Sasaki",
+                "+@id": "110789"
+            }
+        },
+        {
+            "+@gid": "2226510108",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Han Lu Feng",
+                "+@id": "152261"
+            }
+        },
+        {
+            "+@gid": "3089762429",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kimikazu Saito",
+                "+@id": "162284"
+            }
+        },
+        {
+            "+@gid": "3695599335",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masato Gotou",
+                "+@id": "298329"
+            }
+        },
+        {
             "+@gid": "1233285051",
             "task": "3D Director",
             "person": {
@@ -213,6 +475,78 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "1844672179",
+            "+@lang": "EN",
+            "role": "Yukine Mizumori",
+            "person": {
+                "+content": "Terri Doty",
+                "+@id": "74567"
+            }
+        },
+        {
+            "+@gid": "1179720930",
+            "+@lang": "EN",
+            "role": "Claris",
+            "person": {
+                "+content": "Krystal LaPorte",
+                "+@id": "123384"
+            }
+        },
+        {
+            "+@gid": "2037186150",
+            "+@lang": "EN",
+            "role": "Kosuke Takioto",
+            "person": {
+                "+content": "Alex Mai",
+                "+@id": "164246"
+            }
+        },
+        {
+            "+@gid": "2898575008",
+            "+@lang": "EN",
+            "role": "Hatsumi Hanamura",
+            "person": {
+                "+content": "Ezra Vervin",
+                "+@id": "249332"
+            }
+        },
+        {
+            "+@gid": "1380090513",
+            "+@lang": "EN",
+            "role": "Nanami",
+            "person": {
+                "+content": "Amanda Gael",
+                "+@id": "259198"
+            }
+        },
+        {
+            "+@gid": "1996129399",
+            "+@lang": "EN",
+            "role": "Ludivine",
+            "person": {
+                "+content": "Kayla Temshiv",
+                "+@id": "262637"
+            }
+        },
+        {
+            "+@gid": "2183745733",
+            "+@lang": "EN",
+            "role": "Marino Hanamura",
+            "person": {
+                "+content": "Madeleine Norton",
+                "+@id": "265006"
+            }
+        },
+        {
+            "+@gid": "2684712778",
+            "+@lang": "EN",
+            "role": "Iori Hijiri",
+            "person": {
+                "+content": "Dee Meo",
+                "+@id": "273607"
+            }
+        },
         {
             "+@gid": "801630509",
             "+@lang": "JA",
@@ -295,15 +629,81 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "2210738810",
-        "task": "Animation Production",
-        "company": {
-            "+content": "WHITE FOX",
-            "+@id": "6989"
+    "credit": [
+        {
+            "+@gid": "2210738810",
+            "task": "Animation Production",
+            "company": {
+                "+content": "WHITE FOX",
+                "+@id": "6989"
+            }
+        },
+        {
+            "+@gid": "675092541",
+            "task": "Production",
+            "company": {
+                "+content": "YTV",
+                "+@id": "555"
+            }
+        },
+        {
+            "+@gid": "1722444931",
+            "task": "Production",
+            "company": {
+                "+content": "East Japan Marketing & Communications, Inc.",
+                "+@id": "1018"
+            }
+        },
+        {
+            "+@gid": "4151794875",
+            "task": "Production",
+            "company": {
+                "+content": "Aniplex",
+                "+@id": "1257"
+            }
+        },
+        {
+            "+@gid": "2003729805",
+            "task": "Production",
+            "company": {
+                "+content": "Tokyo MX",
+                "+@id": "13028"
+            }
+        },
+        {
+            "+@gid": "1789863592",
+            "task": "Production",
+            "company": {
+                "+content": "Contents Seed",
+                "+@id": "14400"
+            }
+        },
+        {
+            "+@gid": "2693523348",
+            "task": "Production",
+            "company": {
+                "+content": "Sankyo",
+                "+@id": "14712"
+            }
+        },
+        {
+            "+@gid": "2345986027",
+            "task": "Production",
+            "company": {
+                "+content": "Nippon BS Broadcasting Corporation",
+                "+@id": "15105"
+            }
+        },
+        {
+            "+@gid": "3215131474",
+            "task": "Production",
+            "company": {
+                "+content": "System Service Co., Ltd.",
+                "+@id": "20911"
+            }
         }
-    },
+    ],
     "+@date-added": "2023-09-26T17:55:32Z",
-    "+@date-last-modified-at": "2026-09-20T18:50:34Z",
-    "+@date-last-updated-at": "2026-09-20T18:50:34Z"
+    "+@date-last-modified-at": "2026-10-21T13:50:12Z",
+    "+@date-last-updated-at": "2026-10-21T13:50:12Z"
 }

@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Oh Boy, Was I Wrong About Her",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-20T18:50:31Z",
+    "+@generated-on": "2026-10-21T13:50:10Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "30046"
@@ -68,6 +68,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "1248396043",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-07-06",
             "+@gid": "1352570974",
             "+@type": "Vintage"
@@ -91,8 +96,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "8",
-        "+@weighted_score": "5.2497"
+        "+@nb_votes": "38",
+        "+@weighted_score": "6.5344",
+        "+@bayesian_score": "6.75866"
     },
     "episode": [
         {
@@ -172,6 +178,22 @@
             "title": {
                 "+content": "We Are Friends, Right?",
                 "+@gid": "2693903528",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "11",
+            "title": {
+                "+content": "As Long As We're Together",
+                "+@gid": "1625436822",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "A Fresh Start",
+                "+@gid": "890486160",
                 "+@lang": "EN"
             }
         }
@@ -464,6 +486,6 @@
         }
     ],
     "+@date-added": "2023-09-26T18:22:23Z",
-    "+@date-last-modified-at": "2026-09-20T18:50:34Z",
-    "+@date-last-updated-at": "2026-09-20T18:50:34Z"
+    "+@date-last-modified-at": "2026-10-21T13:50:12Z",
+    "+@date-last-updated-at": "2026-10-21T13:50:12Z"
 }
