@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Blue Box",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-20T13:04:04Z",
+    "+@generated-on": "2026-10-21T04:52:40Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "24652"
@@ -68,11 +68,6 @@
             "+@gid": "2030292972",
             "+@type": "Alternative title",
             "+@lang": "JA"
-        },
-        {
-            "+content": "comedy",
-            "+@gid": "2150020518",
-            "+@type": "Genres"
         },
         {
             "+content": "drama",
@@ -152,9 +147,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "91",
-        "+@weighted_score": "7.2122",
-        "+@bayesian_score": "7.24213"
+        "+@nb_votes": "93",
+        "+@weighted_score": "7.2315",
+        "+@bayesian_score": "7.25862"
     },
     "episode": [
         {
@@ -1310,12 +1305,66 @@
             }
         },
         {
+            "+@gid": "722109622",
+            "+@lang": "IT",
+            "role": "Shota Hyodo",
+            "person": {
+                "+content": "Lorenzo De Angelis",
+                "+@id": "58334"
+            }
+        },
+        {
+            "+@gid": "2241973638",
+            "+@lang": "IT",
+            "role": "Taiki Inomata",
+            "person": {
+                "+content": "Mattia Nissolino",
+                "+@id": "74265"
+            }
+        },
+        {
+            "+@gid": "3088333340",
+            "+@lang": "IT",
+            "role": "Hina Chono",
+            "person": {
+                "+content": "Elena Liberati",
+                "+@id": "96229"
+            }
+        },
+        {
+            "+@gid": "2963209704",
+            "+@lang": "IT",
+            "role": "Kyo",
+            "person": {
+                "+content": "Mattia Fabiano",
+                "+@id": "146903"
+            }
+        },
+        {
+            "+@gid": "3444445935",
+            "+@lang": "IT",
+            "role": "Chinatsu Kano",
+            "person": {
+                "+content": "Giorgia Brunori",
+                "+@id": "163035"
+            }
+        },
+        {
             "+@gid": "2506505426",
             "+@lang": "IT",
             "role": "Nagisa Funami",
             "person": {
                 "+content": "Sara Imbriani",
                 "+@id": "174953"
+            }
+        },
+        {
+            "+@gid": "2360452526",
+            "+@lang": "IT",
+            "role": "Shuji Yusa",
+            "person": {
+                "+content": "Matteo Liofredi",
+                "+@id": "177049"
             }
         },
         {
@@ -1328,12 +1377,30 @@
             }
         },
         {
+            "+@gid": "2704727077",
+            "+@lang": "IT",
+            "role": "Kengo Haryū",
+            "person": {
+                "+content": "Mattia Billi",
+                "+@id": "226693"
+            }
+        },
+        {
             "+@gid": "2024066728",
             "+@lang": "IT",
             "role": "Ayame Moriya",
             "person": {
                 "+content": "Cecilia Salustri",
                 "+@id": "250414"
+            }
+        },
+        {
+            "+@gid": "2268115215",
+            "+@lang": "IT",
+            "role": "Niina Shimazaki",
+            "person": {
+                "+content": "Malvina Draghetti",
+                "+@id": "281736"
             }
         },
         {
@@ -1452,6 +1519,24 @@
                 "+content": "Asaki Yuikawa",
                 "+@id": "237718"
             }
+        },
+        {
+            "+@gid": "2668651976",
+            "+@lang": "TL",
+            "role": "Chinatsu Kano",
+            "person": {
+                "+content": "Marick Dacanay",
+                "+@id": "39352"
+            }
+        },
+        {
+            "+@gid": "3111386191",
+            "+@lang": "TL",
+            "role": "Taiki Inomata",
+            "person": {
+                "+content": "Neil D. Caronan",
+                "+@id": "249942"
+            }
         }
     ],
     "credit": [
@@ -1473,6 +1558,6 @@
         }
     ],
     "+@date-added": "2023-11-21T03:58:59Z",
-    "+@date-last-modified-at": "2026-09-20T13:04:09Z",
-    "+@date-last-updated-at": "2026-09-20T13:04:09Z"
+    "+@date-last-modified-at": "2026-10-21T04:52:45Z",
+    "+@date-last-updated-at": "2026-10-21T04:52:45Z"
 }
