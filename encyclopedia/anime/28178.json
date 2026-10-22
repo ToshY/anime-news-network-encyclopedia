@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-21T20:26:06Z",
+    "+@generated-on": "2026-10-22T13:15:56Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "26971"
@@ -68,11 +68,6 @@
             "+@type": "Genres"
         },
         {
-            "+content": "comedy",
-            "+@gid": "380591565",
-            "+@type": "Genres"
-        },
-        {
             "+content": "drama",
             "+@gid": "1670128710",
             "+@type": "Genres"
@@ -80,11 +75,6 @@
         {
             "+content": "fantasy",
             "+@gid": "1967132377",
-            "+@type": "Genres"
-        },
-        {
-            "+content": "romance",
-            "+@gid": "1281453111",
             "+@type": "Genres"
         },
         {
@@ -156,9 +146,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "123",
-        "+@weighted_score": "7.0365",
-        "+@bayesian_score": "7.07495"
+        "+@nb_votes": "128",
+        "+@weighted_score": "7.0386",
+        "+@bayesian_score": "7.07547"
     },
     "episode": [
         {
@@ -304,7 +294,7 @@
             "+@gid": "3205961453",
             "task": "Director",
             "person": {
-                "+content": "Takao Katō",
+                "+content": "Takao Kato",
                 "+@id": "1935"
             }
         },
@@ -344,7 +334,7 @@
             "+@gid": "3551367147",
             "task": "Storyboard",
             "person": {
-                "+content": "Takao Katō",
+                "+content": "Takao Kato",
                 "+@id": "1935"
             }
         },
@@ -432,7 +422,7 @@
             "+@gid": "2769738351",
             "task": "Unit Director",
             "person": {
-                "+content": "Takao Katō",
+                "+content": "Takao Kato",
                 "+@id": "1935"
             }
         },
@@ -823,6 +813,141 @@
     ],
     "cast": [
         {
+            "+@gid": "1312248605",
+            "+@lang": "EN",
+            "role": "Vasmarque Salamakhia",
+            "person": {
+                "+content": "Jason Douglas",
+                "+@id": "1064"
+            }
+        },
+        {
+            "+@gid": "3163029298",
+            "+@lang": "EN",
+            "role": "Raven Louvent",
+            "person": {
+                "+content": "John Burgmeier",
+                "+@id": "1113"
+            }
+        },
+        {
+            "+@gid": "2367634424",
+            "+@lang": "EN",
+            "role": "Charlotte Reis",
+            "person": {
+                "+content": "Kara Edwards",
+                "+@id": "4218"
+            }
+        },
+        {
+            "+@gid": "2370798097",
+            "+@lang": "EN",
+            "role": "Mireille Grangeon",
+            "person": {
+                "+content": "Katelyn Barr",
+                "+@id": "132390"
+            }
+        },
+        {
+            "+@gid": "3180934351",
+            "+@lang": "EN",
+            "role": "Ren Louvent",
+            "person": {
+                "+content": "Emi Lo",
+                "+@id": "174014"
+            }
+        },
+        {
+            "+@gid": "1505698556",
+            "+@lang": "EN",
+            "role": "Licia Pleide",
+            "person": {
+                "+content": "Hayden Daviau",
+                "+@id": "174838"
+            }
+        },
+        {
+            "+@gid": "1896010664",
+            "+@lang": "EN",
+            "role": "Pham",
+            "person": {
+                "+content": "Ciarán Strange",
+                "+@id": "184715"
+            }
+        },
+        {
+            "+@gid": "2581818051",
+            "+@lang": "EN",
+            "role": "Kraitz Louvent",
+            "person": {
+                "+content": "Celeste Perez",
+                "+@id": "203685"
+            }
+        },
+        {
+            "+@gid": "1028091255",
+            "+@lang": "EN",
+            "role": "Rietz Muses",
+            "person": {
+                "+content": "Eli Farmer",
+                "+@id": "210845"
+            }
+        },
+        {
+            "+@gid": "3474360900",
+            "+@lang": "EN",
+            "role": "Couran Salamakhia",
+            "person": {
+                "+content": "Ryan Negron",
+                "+@id": "216167"
+            }
+        },
+        {
+            "+@gid": "2292620753",
+            "+@lang": "EN",
+            "role": "Ars Louvent",
+            "person": {
+                "+content": "Reshel Mae",
+                "+@id": "223240"
+            }
+        },
+        {
+            "+@gid": "2090410570",
+            "+@lang": "EN",
+            "role": "Lumeire Pyres",
+            "person": {
+                "+content": "Sean Letourneau",
+                "+@id": "232187"
+            }
+        },
+        {
+            "+@gid": "2510547771",
+            "+@lang": "EN",
+            "role": "Rosell Kischa",
+            "person": {
+                "+content": "Taylor Murphy",
+                "+@id": "246277"
+            }
+        },
+        {
+            "+@gid": "3845662171",
+            "+@lang": "EN",
+            "role": "Hammond Pleide",
+            "person": {
+                "+content": "T.J. Anthony",
+                "+@id": "255338"
+            }
+        },
+        {
+            "+@gid": "2009490069",
+            "+@lang": "EN",
+            "role": "Sofia Louvent",
+            "person": {
+                "+content": "Amanda Gael",
+                "+@id": "259198"
+            }
+        },
+        {
             "+@gid": "2109347224",
             "+@lang": "JA",
             "role": "Sofia Louvent",
@@ -994,6 +1119,6 @@
         }
     },
     "+@date-added": "2023-05-09T18:08:39Z",
-    "+@date-last-modified-at": "2026-09-21T20:26:09Z",
-    "+@date-last-updated-at": "2026-09-21T20:26:09Z"
+    "+@date-last-modified-at": "2026-10-22T13:49:09Z",
+    "+@date-last-updated-at": "2026-10-22T13:49:09Z"
 }
