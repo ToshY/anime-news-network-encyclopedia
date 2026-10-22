@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Rebuild World",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-21T15:01:07Z",
+    "+@generated-on": "2026-10-22T04:52:27Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25747"
@@ -13,18 +13,18 @@
         {
             "+@gid": "970622894",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28891-970622894.1689614083.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28891-970622894.1791077768.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28891-970622894.1689614083.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A28891-970622894.1791077768.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A28891-970622894.1689614083.jpg",
-                    "+@width": "425",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A28891-970622894.1791077768.jpg",
+                    "+@width": "424",
                     "+@height": "600"
                 }
             ]
@@ -50,14 +50,60 @@
             "+content": "science fiction",
             "+@gid": "962184425",
             "+@type": "Genres"
+        },
+        {
+            "+content": "TVアニメ「リビルドワールド」公式サイト",
+            "+@gid": "1735425236",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://rebuildworld-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Rebuild World</cite> TV Anime Unveils Cast",
-        "+@datetime": "2023-07-16T13:54:49Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2023-07-16/rebuild-world-tv-anime-unveils-cast/.200342"
-    },
+    "news": [
+        {
+            "+content": "<cite>Rebuild World</cite> TV Anime Unveils Cast",
+            "+@datetime": "2023-07-16T13:54:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2023-07-16/rebuild-world-tv-anime-unveils-cast/.200342"
+        },
+        {
+            "+content": "<cite>Rebuild World</cite> TV Anime Reveals Main Staff, 1st Key Visual",
+            "+@datetime": "2026-10-03T14:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-03/rebuild-world-tv-anime-reveals-main-staff-1st-key-visual/.242435"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "2583860515",
+            "task": "Chief Director",
+            "person": {
+                "+content": "Tsukasa Sakurai",
+                "+@id": "45065"
+            }
+        },
+        {
+            "+@gid": "695293702",
+            "task": "Director",
+            "person": {
+                "+content": "Shingo Uchida",
+                "+@id": "57979"
+            }
+        },
+        {
+            "+@gid": "1955970446",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Naoki Tozuka",
+                "+@id": "80075"
+            }
+        },
+        {
+            "+@gid": "2510050418",
+            "task": "Original creator",
+            "person": {
+                "+content": "Kirihito Ayamura",
+                "+@id": "76405"
+            }
+        },
         {
             "+@gid": "2394927124",
             "task": "Original creator",
@@ -72,6 +118,14 @@
             "person": {
                 "+content": "Gin",
                 "+@id": "193892"
+            }
+        },
+        {
+            "+@gid": "2974144453",
+            "task": "Character Design",
+            "person": {
+                "+content": "Hiromi Katō",
+                "+@id": "3447"
             }
         }
     ],
@@ -104,6 +158,15 @@
             }
         }
     ],
+    "credit": {
+        "+@gid": "301631288",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Raging Bull",
+            "+@id": "23843"
+        }
+    },
     "+@date-added": "2023-07-03T16:05:32Z",
-    "+@date-last-updated-at": "2026-09-21T15:07:34Z"
+    "+@date-last-modified-at": "2026-10-22T04:52:36Z",
+    "+@date-last-updated-at": "2026-10-22T04:52:36Z"
 }
