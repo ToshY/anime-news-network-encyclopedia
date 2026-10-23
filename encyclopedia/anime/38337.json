@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "World Is Dancing",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-23T04:48:13Z",
+    "+@generated-on": "2026-10-23T04:54:36Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "29007"
@@ -97,8 +97,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "11",
-        "+@weighted_score": "6.0914"
+        "+@nb_votes": "23",
+        "+@weighted_score": "6.5105",
+        "+@bayesian_score": "6.83906"
     },
     "news": [
         {
@@ -249,6 +250,15 @@
     ],
     "cast": [
         {
+            "+@gid": "1740216829",
+            "+@lang": "EN",
+            "role": "Chiharu",
+            "person": {
+                "+content": "Brittney Karbowski",
+                "+@id": "44595"
+            }
+        },
+        {
             "+@gid": "2198279032",
             "+@lang": "EN",
             "role": "Yoriyuki Hosokawa",
@@ -309,6 +319,15 @@
             "person": {
                 "+content": "Scott Gibbs",
                 "+@id": "131250"
+            }
+        },
+        {
+            "+@gid": "3410164879",
+            "+@lang": "EN",
+            "role": "Zojiro",
+            "person": {
+                "+content": "Gabriel Regojo",
+                "+@id": "134982"
             }
         },
         {
@@ -582,6 +601,6 @@
         }
     },
     "+@date-added": "2026-01-21T16:41:43Z",
-    "+@date-last-modified-at": "2026-09-23T04:48:17Z",
-    "+@date-last-updated-at": "2026-09-23T04:48:17Z"
+    "+@date-last-modified-at": "2026-10-23T04:54:43Z",
+    "+@date-last-updated-at": "2026-10-23T04:54:43Z"
 }

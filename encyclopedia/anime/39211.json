@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Glasses With a Chance of Delinquent",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-23T04:42:38Z",
+    "+@generated-on": "2026-10-23T04:54:30Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "30296"
@@ -58,7 +58,7 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2027",
+            "+content": "2027-04",
             "+@gid": "3007603062",
             "+@type": "Vintage"
         },
@@ -70,11 +70,18 @@
             "+@href": "https://otasukebu.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Glasses With a Chance of Delinquent</cite> Anime's Teaser Reveals Staff, 2027 TV Debut",
-        "+@datetime": "2026-08-11T00:47:34Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-08-10/glasses-with-a-chance-of-delinquent-anime-teaser-reveals-staff-2027-tv-debut/.240463"
-    },
+    "news": [
+        {
+            "+content": "<cite>Glasses With a Chance of Delinquent</cite> Anime's Teaser Reveals Staff, 2027 TV Debut",
+            "+@datetime": "2026-08-11T00:47:34Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-10/glasses-with-a-chance-of-delinquent-anime-teaser-reveals-staff-2027-tv-debut/.240463"
+        },
+        {
+            "+content": "<cite>Glasses With a Chance of Delinquent</cite> Anime's Teaser Reveals Cast, April 2027 TV Debut",
+            "+@datetime": "2026-10-01T03:45:13Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-30/glasses-with-a-chance-of-delinquent-anime-teaser-reveals-cast-april-2027-tv-debut/.242364"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2983720836",
@@ -109,6 +116,35 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "873091001",
+            "+@lang": "JA",
+            "role": "Hiro Momose",
+            "person": {
+                "+content": "Suzuko Hara",
+                "+@id": "128420"
+            }
+        },
+        {
+            "+@gid": "1082254688",
+            "+@lang": "JA",
+            "role": "Dan Ichikura",
+            "person": {
+                "+content": "Hiroto Shimizu",
+                "+@id": "276234"
+            }
+        },
+        {
+            "+@gid": "2860218865",
+            "+@lang": "JA",
+            "role": "Ohana-chan",
+            "person": {
+                "+content": "Yuma Tomochika",
+                "+@id": "302692"
+            }
+        }
+    ],
     "credit": [
         {
             "+@gid": "2494811171",
@@ -128,5 +164,6 @@
         }
     ],
     "+@date-added": "2026-04-22T23:49:29Z",
-    "+@date-last-updated-at": "2026-09-23T04:48:17Z"
+    "+@date-last-modified-at": "2026-10-23T04:54:43Z",
+    "+@date-last-updated-at": "2026-10-23T04:54:43Z"
 }
