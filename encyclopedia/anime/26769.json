@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-09-22T22:22:03Z",
+    "+@generated-on": "2026-10-23T12:42:17Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24993"
@@ -98,7 +98,12 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"selfish\" by Riko Azuna (ep 6)",
+            "+content": "\"Ashita wa Ashita no Que Será Será\" (あしたはあしたのけせらせら！) by MEISHOHIKOKAI (ep 12)",
+            "+@gid": "1461901160",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"selfish\" by Riko Azuna (eps 6,12)",
             "+@gid": "3800984833",
             "+@type": "Insert song"
         },
@@ -108,7 +113,7 @@
             "+@type": "Insert song"
         },
         {
-            "+content": "\"Supreme LOVE STAR\" (シュプリーム LOVE STAR) by love interests (eps 1,4-5,8-9)",
+            "+content": "\"Supreme LOVE STAR\" (シュプリーム LOVE STAR) by love interests (eps 1,4-5,8-9,11-12)",
             "+@gid": "1441993052",
             "+@type": "Insert song"
         },
@@ -121,8 +126,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "6",
-        "+@weighted_score": "5.7447"
+        "+@nb_votes": "46",
+        "+@weighted_score": "6.6932",
+        "+@bayesian_score": "6.85367"
     },
     "episode": [
         {
@@ -208,9 +214,17 @@
         {
             "+@num": "11",
             "title": {
-                "+content": "Sonna no Dou datte Ii!",
-                "+@gid": "1411801603",
-                "+@lang": "JA"
+                "+content": "I Don't Care About That!",
+                "+@gid": "2775161272",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "12",
+            "title": {
+                "+content": "This World Is Tough for Mobs",
+                "+@gid": "1322015578",
+                "+@lang": "EN"
             }
         }
     ],
@@ -557,6 +571,14 @@
             }
         },
         {
+            "+@gid": "2794363262",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Miyuki Hanawa",
+                "+@id": "62134"
+            }
+        },
+        {
             "+@gid": "1125918811",
             "task": "Animation Director",
             "person": {
@@ -570,6 +592,14 @@
             "person": {
                 "+content": "Wei Feng Li",
                 "+@id": "97132"
+            }
+        },
+        {
+            "+@gid": "321420002",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chao Wang",
+                "+@id": "97634"
             }
         },
         {
@@ -701,6 +731,14 @@
             }
         },
         {
+            "+@gid": "1740726596",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Li Liu",
+                "+@id": "244758"
+            }
+        },
+        {
             "+@gid": "2802086819",
             "task": "Animation Director",
             "person": {
@@ -765,6 +803,14 @@
             }
         },
         {
+            "+@gid": "2331246561",
+            "task": "Animation Director",
+            "person": {
+                "+content": "sanne",
+                "+@id": "298320"
+            }
+        },
+        {
             "+@gid": "2463084952",
             "task": "Animation Director",
             "person": {
@@ -778,6 +824,14 @@
             "person": {
                 "+content": "Hai Feng Zheng",
                 "+@id": "301623"
+            }
+        },
+        {
+            "+@gid": "2342427956",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Tuan Fan",
+                "+@id": "302379"
             }
         },
         {
@@ -944,7 +998,7 @@
         {
             "+@gid": "1485026722",
             "+@lang": "FR",
-            "role": "Julius Rapha Holfort",
+            "role": "Julius Rapha Olfort",
             "person": {
                 "+content": "Stéphane Marais",
                 "+@id": "68487"
@@ -1185,6 +1239,6 @@
         }
     },
     "+@date-added": "2022-12-27T02:59:18Z",
-    "+@date-last-modified-at": "2026-09-22T22:58:53Z",
-    "+@date-last-updated-at": "2026-09-22T22:58:53Z"
+    "+@date-last-modified-at": "2026-10-23T13:28:46Z",
+    "+@date-last-updated-at": "2026-10-23T13:28:46Z"
 }
