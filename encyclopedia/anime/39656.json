@@ -4,12 +4,31 @@
     "+@type": "movie",
     "+@name": "Takopii no Genzai -Arigatō, Mata Ashita-",
     "+@precision": "movie",
-    "+@generated-on": "2026-09-23T19:41:33Z",
+    "+@generated-on": "2026-10-23T19:57:43Z",
     "related-prev": {
         "+@rel": "compilation of",
         "+@id": "34142"
     },
     "info": [
+        {
+            "+@gid": "3446000068",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39656-3446000068.1792708103.jpg",
+            "+@width": "142",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39656-3446000068.1792708103.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A39656-3446000068.1792708103.jpg",
+                    "+@width": "425",
+                    "+@height": "600"
+                }
+            ]
+        },
         {
             "+content": "Takopii no Genzai -Arigatō, Mata Ashita-",
             "+@gid": "1463277861",
@@ -62,12 +81,25 @@
             "+content": "<cite>Takopi's Original Sin</cite> Compilation Film's Video Unveils November 27 Debut",
             "+@datetime": "2026-08-18T03:38:57Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-08-17/takopi-original-sin-compilation-film-video-unveils-november-27-debut/.240669"
+        },
+        {
+            "+content": "<cite>Takopi's Original Sin</cite> Compilation Film's Trailer Reveals Theme Song",
+            "+@datetime": "2026-10-22T15:36:18Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-22/takopi-original-sin-compilation-film-trailer-reveals-theme-song/.243112"
         }
     ],
     "staff": [
         {
             "+@gid": "1626316019",
             "task": "Director",
+            "person": {
+                "+content": "Shinya Iino",
+                "+@id": "111063"
+            }
+        },
+        {
+            "+@gid": "1763101549",
+            "task": "Series Composition",
             "person": {
                 "+content": "Shinya Iino",
                 "+@id": "111063"
@@ -95,6 +127,46 @@
             "person": {
                 "+content": "Keita Nagahara",
                 "+@id": "141406"
+            }
+        },
+        {
+            "+@gid": "3576854857",
+            "task": "Art Director",
+            "person": {
+                "+content": "Sagako Itakura",
+                "+@id": "43124"
+            }
+        },
+        {
+            "+@gid": "2566377022",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Jin Aketagawa",
+                "+@id": "8466"
+            }
+        },
+        {
+            "+@gid": "2425520106",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Kunio Mogi",
+                "+@id": "46532"
+            }
+        },
+        {
+            "+@gid": "2366037212",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yū Wakabayashi",
+                "+@id": "228052"
+            }
+        },
+        {
+            "+@gid": "2390215220",
+            "task": "Producer",
+            "person": {
+                "+content": "Kotaro Sudo",
+                "+@id": "93034"
             }
         }
     ],
@@ -164,5 +236,6 @@
         }
     ],
     "+@date-added": "2026-05-23T08:25:08Z",
-    "+@date-last-updated-at": "2026-09-23T19:41:42Z"
+    "+@date-last-modified-at": "2026-10-23T19:57:48Z",
+    "+@date-last-updated-at": "2026-10-23T19:57:48Z"
 }
