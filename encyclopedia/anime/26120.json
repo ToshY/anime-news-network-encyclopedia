@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Sasaki and Peeps",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-23T22:58:14Z",
+    "+@generated-on": "2026-10-24T18:48:37Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25795"
@@ -126,6 +126,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "2246658765",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2024-01-05",
             "+@gid": "3468839310",
             "+@type": "Vintage"
@@ -150,8 +155,8 @@
     ],
     "ratings": {
         "+@nb_votes": "109",
-        "+@weighted_score": "6.4649",
-        "+@bayesian_score": "6.56449"
+        "+@weighted_score": "6.4651",
+        "+@bayesian_score": "6.56464"
     },
     "review": {
         "+content": "<cite>Sasaki and Peeps</cite> Season One Anime Series Review",
@@ -934,6 +939,15 @@
     ],
     "cast": [
         {
+            "+@gid": "2817735846",
+            "+@lang": "EN",
+            "role": "Akutsu",
+            "person": {
+                "+content": "David Wald",
+                "+@id": "62650"
+            }
+        },
+        {
             "+@gid": "2223223421",
             "+@lang": "EN",
             "role": "Sasaki",
@@ -1150,6 +1164,6 @@
         }
     },
     "+@date-added": "2022-07-24T09:12:48Z",
-    "+@date-last-modified-at": "2026-09-23T22:58:15Z",
-    "+@date-last-updated-at": "2026-09-23T22:58:15Z"
+    "+@date-last-modified-at": "2026-10-24T18:48:41Z",
+    "+@date-last-updated-at": "2026-10-24T18:48:41Z"
 }
