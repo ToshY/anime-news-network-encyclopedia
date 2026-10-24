@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "My Sweet Marriage to My Ex-Nemesis",
     "+@precision": "manga",
-    "+@generated-on": "2026-09-23T22:58:09Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "13231"
-    },
+    "+@generated-on": "2026-10-24T04:40:21Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "13231"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "40614"
+        }
+    ],
     "info": [
         {
             "+@gid": "3249355607",
@@ -68,11 +74,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "One Peace Books Licenses <cite>My Sweet Marriage to My Ex-Nemesis</cite> Manga",
-        "+@datetime": "2026-05-14T13:15:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-05-14/one-peace-books-licenses-my-sweet-marriage-to-my-ex-nemesis-manga/.237352"
-    },
+    "news": [
+        {
+            "+content": "One Peace Books Licenses <cite>My Sweet Marriage to My Ex-Nemesis</cite> Manga",
+            "+@datetime": "2026-05-14T13:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-05-14/one-peace-books-licenses-my-sweet-marriage-to-my-ex-nemesis-manga/.237352"
+        },
+        {
+            "+content": "Toshimichi Uzō's <cite>My Sweet Marriage to My Ex-Nemesis</cite> Light Novels Get TV Anime",
+            "+@datetime": "2026-10-03T14:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-03/toshimichi-uzo-my-sweet-marriage-to-my-ex-nemesis-light-novels-get-tv-anime/.242436"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3323047255",
@@ -100,5 +113,6 @@
         }
     ],
     "+@date-added": "2025-06-27T15:36:41Z",
-    "+@date-last-updated-at": "2026-09-23T22:58:10Z"
+    "+@date-last-modified-at": "2026-10-24T04:40:26Z",
+    "+@date-last-updated-at": "2026-10-24T04:40:26Z"
 }

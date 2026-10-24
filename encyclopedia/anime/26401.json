@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Kingdom",
     "+@precision": "TV 5",
-    "+@generated-on": "2026-09-23T13:40:06Z",
+    "+@generated-on": "2026-10-24T04:40:20Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "24876"
@@ -56,11 +56,6 @@
             "+@type": "Genres"
         },
         {
-            "+content": "thriller",
-            "+@gid": "608717762",
-            "+@type": "Genres"
-        },
-        {
             "+content": "conspiracy",
             "+@gid": "1837711538",
             "+@type": "Themes"
@@ -106,6 +101,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "13",
+            "+@gid": "1777547369",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2024-01-13",
             "+@gid": "2126145912",
             "+@type": "Vintage"
@@ -120,8 +120,8 @@
     ],
     "ratings": {
         "+@nb_votes": "32",
-        "+@weighted_score": "8.2972",
-        "+@bayesian_score": "8.07135"
+        "+@weighted_score": "8.2984",
+        "+@bayesian_score": "8.07215"
     },
     "news": [
         {
@@ -1032,9 +1032,17 @@
                 "+content": "St.Signpost",
                 "+@id": "19165"
             }
+        },
+        {
+            "+@gid": "3089440904",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Qzil.la",
+                "+@id": "23466"
+            }
         }
     ],
     "+@date-added": "2022-10-02T21:09:49Z",
-    "+@date-last-modified-at": "2026-09-23T13:40:10Z",
-    "+@date-last-updated-at": "2026-09-23T13:40:10Z"
+    "+@date-last-modified-at": "2026-10-24T04:40:29Z",
+    "+@date-last-updated-at": "2026-10-24T04:40:29Z"
 }
