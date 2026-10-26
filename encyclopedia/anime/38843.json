@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "PuniRunes Puni 4",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-26T13:07:48Z",
+    "+@generated-on": "2026-10-26T15:13:02Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "35282"
@@ -42,6 +42,21 @@
             "+@lang": "JA"
         },
         {
+            "+content": "fantasy",
+            "+@gid": "772143178",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "slice of life",
+            "+@gid": "2290323295",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "The anime follows the daily life of PuniRunes — mysterious creatures who love to be coddled — and Yuka, a fourth-grade girl who loves soft, squishy things.",
+            "+@gid": "3627748430",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "2026-10-04",
             "+@gid": "1812762683",
             "+@type": "Vintage"
@@ -59,7 +74,195 @@
         "+@datetime": "2026-08-29T05:56:08Z",
         "+@href": "https://www.animenewsnetwork.com:/news/2026-08-29/punirunes-anime-4th-season-reveals-new-characters-in-promo-video/.241103"
     },
+    "staff": [
+        {
+            "+@gid": "1793987163",
+            "task": "Director",
+            "person": {
+                "+content": "Haruki Kasugamori",
+                "+@id": "87745"
+            }
+        },
+        {
+            "+@gid": "2347339106",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Gigaemon Ichikawa",
+                "+@id": "145724"
+            }
+        },
+        {
+            "+@gid": "1035698491",
+            "task": "Script",
+            "person": {
+                "+content": "Brazily Ann Yamada",
+                "+@id": "129514"
+            }
+        },
+        {
+            "+@gid": "1154395482",
+            "task": "Script",
+            "person": {
+                "+content": "Gigaemon Ichikawa",
+                "+@id": "145724"
+            }
+        },
+        {
+            "+@gid": "2054031327",
+            "task": "Script",
+            "person": {
+                "+content": "Yumi Suzumori",
+                "+@id": "218372"
+            }
+        },
+        {
+            "+@gid": "2361569316",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takeshi Mori",
+                "+@id": "27"
+            }
+        },
+        {
+            "+@gid": "775066363",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shigeharu Takahashi",
+                "+@id": "3889"
+            }
+        },
+        {
+            "+@gid": "2526692425",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Haruki Kasugamori",
+                "+@id": "87745"
+            }
+        },
+        {
+            "+@gid": "2088151189",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Meigo Naito",
+                "+@id": "91090"
+            }
+        },
+        {
+            "+@gid": "1411103609",
+            "task": "Music",
+            "person": {
+                "+content": "Takahiro Obata",
+                "+@id": "153561"
+            }
+        },
+        {
+            "+@gid": "2476910399",
+            "task": "Character Design",
+            "person": {
+                "+content": "Sayuri Ichiishi",
+                "+@id": "8114"
+            }
+        },
+        {
+            "+@gid": "3089088085",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Noriyoshi Konuma",
+                "+@id": "84893"
+            }
+        }
+    ],
     "cast": [
+        {
+            "+@gid": "1993740720",
+            "+@lang": "JA",
+            "role": "Narrator",
+            "person": {
+                "+content": "Daisuke Ono",
+                "+@id": "14929"
+            }
+        },
+        {
+            "+@gid": "2982175456",
+            "+@lang": "JA",
+            "role": "Raburun",
+            "person": {
+                "+content": "Aya Uchida",
+                "+@id": "71069"
+            }
+        },
+        {
+            "+@gid": "3082979980",
+            "+@lang": "JA",
+            "role": "Enerun",
+            "person": {
+                "+content": "Mikako Komatsu",
+                "+@id": "86961"
+            }
+        },
+        {
+            "+@gid": "2353123632",
+            "+@lang": "JA",
+            "role": "Airun",
+            "person": {
+                "+content": "Megumi Han",
+                "+@id": "104148"
+            }
+        },
+        {
+            "+@gid": "2827998005",
+            "+@lang": "JA",
+            "role": "Togerun",
+            "person": {
+                "+content": "Ryōta Iwasaki",
+                "+@id": "116478"
+            }
+        },
+        {
+            "+@gid": "3141687786",
+            "+@lang": "JA",
+            "role": "Yuka",
+            "person": {
+                "+content": "Yuna Taniguchi",
+                "+@id": "123965"
+            }
+        },
+        {
+            "+@gid": "855399442",
+            "+@lang": "JA",
+            "role": "Ururun",
+            "person": {
+                "+content": "Tomohiro Yamaguchi",
+                "+@id": "127192"
+            }
+        },
+        {
+            "+@gid": "2641151466",
+            "+@lang": "JA",
+            "role": "Kuurun",
+            "person": {
+                "+content": "Hina Kino",
+                "+@id": "142069"
+            }
+        },
+        {
+            "+@gid": "2081659730",
+            "+@lang": "JA",
+            "role": "Tomorun",
+            "person": {
+                "+content": "Madoka Asahina",
+                "+@id": "143949"
+            }
+        },
+        {
+            "+@gid": "2408685894",
+            "+@lang": "JA",
+            "role": "Juerun",
+            "person": {
+                "+content": "Fūka Izumi",
+                "+@id": "201580"
+            }
+        },
         {
             "+@gid": "2933490994",
             "+@lang": "JA",
@@ -88,6 +291,6 @@
         }
     },
     "+@date-added": "2026-03-28T03:37:52Z",
-    "+@date-last-modified-at": "2026-09-26T13:07:56Z",
-    "+@date-last-updated-at": "2026-09-26T13:07:56Z"
+    "+@date-last-modified-at": "2026-10-26T15:13:12Z",
+    "+@date-last-updated-at": "2026-10-26T15:13:12Z"
 }

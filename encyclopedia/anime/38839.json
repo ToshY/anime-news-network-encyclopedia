@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Hell Mode",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-09-26T13:07:51Z",
+    "+@generated-on": "2026-10-26T15:13:05Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "34132"
@@ -50,6 +50,12 @@
             "+@gid": "2524221838",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "Tryb piekła: Hardcorowy gracz dominuje w innym świecie ze śmietnikowym balansowaniem",
+            "+@gid": "1918095508",
+            "+@type": "Alternative title",
+            "+@lang": "PL"
         },
         {
             "+content": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～",
@@ -146,9 +152,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "13",
-        "+@weighted_score": "6.1636",
-        "+@bayesian_score": "6.79024"
+        "+@nb_votes": "42",
+        "+@weighted_score": "6.5847",
+        "+@bayesian_score": "6.78114"
     },
     "episode": [
         {
@@ -246,6 +252,14 @@
                 "+@gid": "2554549936",
                 "+@lang": "EN"
             }
+        },
+        {
+            "+@num": "25",
+            "title": {
+                "+content": "Summoner of the Beginning",
+                "+@gid": "2234682586",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -300,6 +314,14 @@
             "person": {
                 "+content": "Daishirō Tanimura",
                 "+@id": "77471"
+            }
+        },
+        {
+            "+@gid": "768169047",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Toshiya Niidome",
+                "+@id": "2778"
             }
         },
         {
@@ -471,6 +493,15 @@
             "person": {
                 "+content": "Luci Christian",
                 "+@id": "12493"
+            }
+        },
+        {
+            "+@gid": "875499109",
+            "+@lang": "EN",
+            "role": "Gatoluuga",
+            "person": {
+                "+content": "Clint Bickham",
+                "+@id": "19672"
             }
         },
         {
@@ -888,6 +919,6 @@
         }
     },
     "+@date-added": "2026-03-28T02:30:33Z",
-    "+@date-last-modified-at": "2026-09-26T13:07:56Z",
-    "+@date-last-updated-at": "2026-09-26T13:07:56Z"
+    "+@date-last-modified-at": "2026-10-26T15:13:12Z",
+    "+@date-last-updated-at": "2026-10-26T15:13:12Z"
 }

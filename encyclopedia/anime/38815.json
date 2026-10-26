@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Ranma ½",
     "+@precision": "TV 2026",
-    "+@generated-on": "2026-09-26T13:07:53Z",
+    "+@generated-on": "2026-10-26T15:13:07Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "34225"
@@ -53,8 +53,18 @@
             "+@lang": "JA"
         },
         {
+            "+content": "action",
+            "+@gid": "3548703420",
+            "+@type": "Genres"
+        },
+        {
             "+content": "comedy",
             "+@gid": "3686744349",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "magic",
+            "+@gid": "1725108616",
             "+@type": "Genres"
         },
         {
@@ -63,9 +73,54 @@
             "+@type": "Genres"
         },
         {
+            "+content": "slice of life",
+            "+@gid": "975041382",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "ecchi",
+            "+@gid": "958581761",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "harem",
+            "+@gid": "2290338124",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "love polygon",
+            "+@gid": "1632266767",
+            "+@type": "Themes"
+        },
+        {
             "+content": "martial arts",
             "+@gid": "3836763615",
             "+@type": "Themes"
+        },
+        {
+            "+content": "school",
+            "+@gid": "3578115962",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "tsundere",
+            "+@gid": "708854194",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "1838924223",
+            "+@type": "Objectionable content"
+        },
+        {
+            "+content": "Ranma Saotome and Akane Tendou of Tendou Dojo are betrothed to each other by their parents. But Ranma faces a unique problem. Ever since he fell into the cursed springs of Jusenkyo while training in China, his body has acquired the peculiar trait of transforming into a girl when doused with cold water and reverting to a boy with hot water.",
+            "+@gid": "2644809328",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "2265463547",
+            "+@type": "Running time"
         },
         {
             "+content": "2026-10-03",
@@ -90,6 +145,10 @@
             "+@href": "https://ranma-pr.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "5",
+        "+@weighted_score": "8.064"
+    },
     "news": [
         {
             "+content": "New <cite>Ranma 1/2</cite> Anime's Season 3 Previewed in 2nd Trailer",
@@ -236,6 +295,366 @@
     ],
     "cast": [
         {
+            "+@gid": "3751223819",
+            "+@lang": "EN",
+            "role": "Cologne",
+            "person": {
+                "+content": "Barbara Goodson",
+                "+@id": "530"
+            }
+        },
+        {
+            "+@gid": "2775500298",
+            "+@lang": "EN",
+            "role": "Nabiki Tendō",
+            "person": {
+                "+content": "Stephanie Sheh",
+                "+@id": "3419"
+            }
+        },
+        {
+            "+@gid": "2749005663",
+            "+@lang": "EN",
+            "role": "Ichiro",
+            "person": {
+                "+content": "Andrew Frankel",
+                "+@id": "8915"
+            }
+        },
+        {
+            "+@gid": "2333361063",
+            "+@lang": "EN",
+            "role": "Genma Saotome",
+            "person": {
+                "+content": "Fred Tatasciore",
+                "+@id": "47591"
+            }
+        },
+        {
+            "+@gid": "2640952258",
+            "+@lang": "EN",
+            "role": "Kasumi Tendō",
+            "person": {
+                "+content": "Laura Post",
+                "+@id": "70304"
+            }
+        },
+        {
+            "+@gid": "2264095597",
+            "+@lang": "EN",
+            "role": "Tōfū Ono",
+            "person": {
+                "+content": "Josh Keaton",
+                "+@id": "84886"
+            }
+        },
+        {
+            "+@gid": "879126542",
+            "+@lang": "EN",
+            "role": "Shampoo",
+            "person": {
+                "+content": "Grace Lu",
+                "+@id": "118077"
+            }
+        },
+        {
+            "+@gid": "1475462793",
+            "+@lang": "EN",
+            "role": "Ranma Saotome (Male)",
+            "person": {
+                "+content": "David Errigo Jr.",
+                "+@id": "148100"
+            }
+        },
+        {
+            "+@gid": "1704342042",
+            "+@lang": "EN",
+            "role": "Ryōga Hibiki",
+            "person": {
+                "+content": "Damien Haas",
+                "+@id": "154733"
+            }
+        },
+        {
+            "+@gid": "1935494656",
+            "+@lang": "EN",
+            "role": "Happosai",
+            "person": {
+                "+content": "Frank Todaro",
+                "+@id": "169579"
+            }
+        },
+        {
+            "+@gid": "2989141942",
+            "+@lang": "EN",
+            "role": "P-Chan",
+            "person": {
+                "+content": "Rachel Slotky",
+                "+@id": "182307"
+            }
+        },
+        {
+            "+@gid": "2432232319",
+            "+@lang": "EN",
+            "role": "Satsuki Miyakoji",
+            "person": {
+                "+content": "Rachel Slotky",
+                "+@id": "182307"
+            }
+        },
+        {
+            "+@gid": "1194136465",
+            "+@lang": "EN",
+            "role": "Ranma Saotome (Female)",
+            "person": {
+                "+content": "Suzie Yeung",
+                "+@id": "184793"
+            }
+        },
+        {
+            "+@gid": "1029496104",
+            "+@lang": "EN",
+            "role": "Tatewaki Kunō",
+            "person": {
+                "+content": "Jonah Scott",
+                "+@id": "184821"
+            }
+        },
+        {
+            "+@gid": "2648986281",
+            "+@lang": "EN",
+            "role": "Akane Tendō",
+            "person": {
+                "+content": "Valeria Rodriguez",
+                "+@id": "200260"
+            }
+        },
+        {
+            "+@gid": "2457444845",
+            "+@lang": "EN",
+            "role": "Iemoto",
+            "person": {
+                "+content": "Ren Hanami",
+                "+@id": "227314"
+            }
+        },
+        {
+            "+@gid": "2579877373",
+            "+@lang": "EN",
+            "role": "Sōun Tendō",
+            "person": {
+                "+content": "Jude Gerard Prest",
+                "+@id": "289152"
+            }
+        },
+        {
+            "+@gid": "3543639559",
+            "+@lang": "EN",
+            "role": "Sentarō Daimonji",
+            "person": {
+                "+content": "Vincent Martella",
+                "+@id": "303486"
+            }
+        },
+        {
+            "+@gid": "3547345242",
+            "+@lang": "FR",
+            "role": "Cologne",
+            "person": {
+                "+content": "Nathalie Homs",
+                "+@id": "29181"
+            }
+        },
+        {
+            "+@gid": "838200231",
+            "+@lang": "FR",
+            "role": "Tōfū Ono",
+            "person": {
+                "+content": "Mathias Kozlowski",
+                "+@id": "29431"
+            }
+        },
+        {
+            "+@gid": "3461650781",
+            "+@lang": "FR",
+            "role": "Soun Tendō",
+            "person": {
+                "+content": "Thierry Kazazian",
+                "+@id": "34267"
+            }
+        },
+        {
+            "+@gid": "1832838249",
+            "+@lang": "FR",
+            "role": "Genma Saotome",
+            "person": {
+                "+content": "Pierre-François Pistorio",
+                "+@id": "45715"
+            }
+        },
+        {
+            "+@gid": "1891713786",
+            "+@lang": "FR",
+            "role": "Iemoto",
+            "person": {
+                "+content": "Brigitte Guedj",
+                "+@id": "45716"
+            }
+        },
+        {
+            "+@gid": "2304293952",
+            "+@lang": "FR",
+            "role": "Kasumi Tendō",
+            "person": {
+                "+content": "Isabelle Volpe",
+                "+@id": "51640"
+            }
+        },
+        {
+            "+@gid": "1939901546",
+            "+@lang": "FR",
+            "role": "Tatewaki Kuno",
+            "person": {
+                "+content": "Bruno Meyere",
+                "+@id": "54390"
+            }
+        },
+        {
+            "+@gid": "2349856567",
+            "+@lang": "FR",
+            "role": "Ryoga Hibiki",
+            "person": {
+                "+content": "Bastien Bourlé",
+                "+@id": "76641"
+            }
+        },
+        {
+            "+@gid": "3855993536",
+            "+@lang": "FR",
+            "role": "Nabiki Tendō",
+            "person": {
+                "+content": "Leslie Lipkins",
+                "+@id": "102054"
+            }
+        },
+        {
+            "+@gid": "1881629055",
+            "+@lang": "FR",
+            "role": "Akane Tendō",
+            "person": {
+                "+content": "Emmylou Homs",
+                "+@id": "135316"
+            }
+        },
+        {
+            "+@gid": "2011748074",
+            "+@lang": "FR",
+            "role": "Shampoo",
+            "person": {
+                "+content": "Valérie Bachère",
+                "+@id": "136049"
+            }
+        },
+        {
+            "+@gid": "1426745607",
+            "+@lang": "FR",
+            "role": "Ranma Saotome",
+            "person": {
+                "+content": "Clara Soares",
+                "+@id": "153590"
+            }
+        },
+        {
+            "+@gid": "1443782830",
+            "+@lang": "FR",
+            "role": "Sentarō Daimonji",
+            "person": {
+                "+content": "Aurélien Raynal",
+                "+@id": "173843"
+            }
+        },
+        {
+            "+@gid": "1287627291",
+            "+@lang": "FR",
+            "role": "Satsuki Miyakoji",
+            "person": {
+                "+content": "Célia Asensio",
+                "+@id": "176171"
+            }
+        },
+        {
+            "+@gid": "1941756377",
+            "+@lang": "FR",
+            "role": "Ranma Saotome",
+            "person": {
+                "+content": "Martin Faliu",
+                "+@id": "190385"
+            }
+        },
+        {
+            "+@gid": "2237241289",
+            "+@lang": "IT",
+            "role": "Akane Tendo",
+            "person": {
+                "+content": "Ludovica Bebi",
+                "+@id": "101692"
+            }
+        },
+        {
+            "+@gid": "2675728780",
+            "+@lang": "IT",
+            "role": "Ranma Saotome",
+            "person": {
+                "+content": "Stefano Broccoletti",
+                "+@id": "126210"
+            }
+        },
+        {
+            "+@gid": "3769417481",
+            "+@lang": "IT",
+            "role": "Ranma Saotome",
+            "person": {
+                "+content": "Chiara Fabiano",
+                "+@id": "131045"
+            }
+        },
+        {
+            "+@gid": "1982941924",
+            "+@lang": "IT",
+            "role": "Ryoga Hibiki",
+            "person": {
+                "+content": "Alessandro Campaiola",
+                "+@id": "131277"
+            }
+        },
+        {
+            "+@gid": "2562554045",
+            "+@lang": "IT",
+            "role": "Tatewaki Kuno",
+            "person": {
+                "+content": "Emanuele Ruzza",
+                "+@id": "144488"
+            }
+        },
+        {
+            "+@gid": "2912734672",
+            "+@lang": "IT",
+            "role": "Soun Tendo",
+            "person": {
+                "+content": "Stefano Alessandroni",
+                "+@id": "147183"
+            }
+        },
+        {
+            "+@gid": "2636762238",
+            "+@lang": "IT",
+            "role": "Cologne",
+            "person": {
+                "+content": "Mirta Pepe",
+                "+@id": "185625"
+            }
+        },
+        {
             "+@gid": "810542421",
             "+@lang": "JA",
             "role": "Ranma Saotome (Male)",
@@ -251,6 +670,15 @@
             "person": {
                 "+content": "Noriko Hidaka",
                 "+@id": "282"
+            }
+        },
+        {
+            "+@gid": "3486367706",
+            "+@lang": "JA",
+            "role": "Sanae",
+            "person": {
+                "+content": "Mayumi Tanaka",
+                "+@id": "301"
             }
         },
         {
@@ -407,6 +835,15 @@
             }
         },
         {
+            "+@gid": "2911998904",
+            "+@lang": "JA",
+            "role": "Satsuki Miyakoji",
+            "person": {
+                "+content": "Saori Hayami",
+                "+@id": "63462"
+            }
+        },
+        {
             "+@gid": "2463034841",
             "+@lang": "JA",
             "role": "Azusa Shiratori",
@@ -452,6 +889,6 @@
         }
     },
     "+@date-added": "2026-03-26T09:46:04Z",
-    "+@date-last-modified-at": "2026-09-26T13:07:56Z",
-    "+@date-last-updated-at": "2026-09-26T13:07:56Z"
+    "+@date-last-modified-at": "2026-10-26T15:13:12Z",
+    "+@date-last-updated-at": "2026-10-26T15:13:12Z"
 }
