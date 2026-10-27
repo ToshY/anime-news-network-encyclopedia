@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Nia Liston: The Merciless Maiden",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-26T22:54:13Z",
+    "+@generated-on": "2026-10-27T05:09:47Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "30700"
@@ -58,6 +58,16 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "850576319",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "25",
+            "+@gid": "3075598261",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-10-06",
             "+@gid": "1305327969",
             "+@type": "Vintage"
@@ -65,6 +75,11 @@
         {
             "+content": "#1: \"Respawn!!\" (リスポーン!!) by Watame Tsunomaki",
             "+@gid": "3838167822",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "#2: \"Deux Livres\" by Nia Liston (CV: Honoka Inoue) & Sharro White (CV: Maaya Uchida) (ep 3)",
+            "+@gid": "2375517293",
             "+@type": "Opening Theme"
         },
         {
@@ -80,6 +95,10 @@
             "+@href": "https://kyoranreijo-pr.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "3",
+        "+@weighted_score": "5.2089"
+    },
     "news": [
         {
             "+content": "<cite>Nia Liston: The Merciless Maiden</cite> Novels Get TV Anime in October",
@@ -115,6 +134,16 @@
             "+content": "<cite>Nia Liston: The Merciless Maiden</cite> Anime Announces Ending Song Artists",
             "+@datetime": "2026-09-22T09:25:32Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-09-22/nia-liston-the-merciless-maiden-anime-announces-ending-song-artists/.242082"
+        },
+        {
+            "+content": "<cite>Nia Liston: The Merciless Maiden</cite> Anime Adds 4 More Cast Members",
+            "+@datetime": "2026-09-29T10:28:41Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-29/nia-liston-the-merciless-maiden-anime-adds-4-more-cast-members/.242304"
+        },
+        {
+            "+content": "Anime Times Streams <cite>Nia Liston: The Merciless Maiden</cite> Anime in India",
+            "+@datetime": "2026-10-24T06:04:34Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-24/anime-times-streams-nia-liston-the-merciless-maiden-anime-in-india/.243141"
         }
     ],
     "staff": [
@@ -272,6 +301,24 @@
             }
         },
         {
+            "+@gid": "1967771849",
+            "+@lang": "JA",
+            "role": "Lilimi Silver",
+            "person": {
+                "+content": "Ayaka Ōhashi",
+                "+@id": "108470"
+            }
+        },
+        {
+            "+@gid": "2622687023",
+            "+@lang": "JA",
+            "role": "Riculvitar Silver",
+            "person": {
+                "+content": "Azusa Tadokoro",
+                "+@id": "112367"
+            }
+        },
+        {
             "+@gid": "1122239314",
             "+@lang": "JA",
             "role": "Anzel",
@@ -290,6 +337,15 @@
             }
         },
         {
+            "+@gid": "3183047261",
+            "+@lang": "JA",
+            "role": "Raffine Silver",
+            "person": {
+                "+content": "Hitomi Ueda",
+                "+@id": "142425"
+            }
+        },
+        {
             "+@gid": "1298699130",
             "+@lang": "JA",
             "role": "Nia Liston",
@@ -301,10 +357,19 @@
         {
             "+@gid": "1625599308",
             "+@lang": "JA",
-            "role": "Hildetora Altoir",
+            "role": "Hildetaura Altoire",
             "person": {
                 "+content": "Rina Honnizumi",
                 "+@id": "166150"
+            }
+        },
+        {
+            "+@gid": "3390023692",
+            "+@lang": "JA",
+            "role": "Essera Blanket",
+            "person": {
+                "+content": "Saeko Kamijō",
+                "+@id": "179970"
             }
         },
         {
@@ -326,15 +391,97 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "4048470261",
-        "task": "Animation Production",
-        "company": {
-            "+content": "KONAMI animation",
-            "+@id": "25141"
+    "credit": [
+        {
+            "+@gid": "4048470261",
+            "task": "Animation Production",
+            "company": {
+                "+content": "KONAMI animation",
+                "+@id": "25141"
+            }
+        },
+        {
+            "+@gid": "1175033449",
+            "task": "Production",
+            "company": {
+                "+content": "MOVIC",
+                "+@id": "52"
+            }
+        },
+        {
+            "+@gid": "3391074753",
+            "task": "Production",
+            "company": {
+                "+content": "VAP",
+                "+@id": "589"
+            }
+        },
+        {
+            "+@gid": "1553883776",
+            "task": "Production",
+            "company": {
+                "+content": "East Japan Marketing & Communications, Inc.",
+                "+@id": "1018"
+            }
+        },
+        {
+            "+@gid": "2060396966",
+            "task": "Production",
+            "company": {
+                "+content": "HobbyJAPAN",
+                "+@id": "2441"
+            }
+        },
+        {
+            "+@gid": "3506599917",
+            "task": "Production",
+            "company": {
+                "+content": "Konami Digital Entertainment",
+                "+@id": "6419"
+            }
+        },
+        {
+            "+@gid": "2195644263",
+            "task": "Production",
+            "company": {
+                "+content": "BS Nippon Corporation",
+                "+@id": "7124"
+            }
+        },
+        {
+            "+@gid": "2726893616",
+            "task": "Production",
+            "company": {
+                "+content": "Mainichi Broadcasting System",
+                "+@id": "10442"
+            }
+        },
+        {
+            "+@gid": "862666716",
+            "task": "Production",
+            "company": {
+                "+content": "Sankyo",
+                "+@id": "14712"
+            }
+        },
+        {
+            "+@gid": "1910449147",
+            "task": "Production",
+            "company": {
+                "+content": "TO Books",
+                "+@id": "15134"
+            }
+        },
+        {
+            "+@gid": "2092493002",
+            "task": "Production",
+            "company": {
+                "+content": "Pia",
+                "+@id": "19710"
+            }
         }
-    },
+    ],
     "+@date-added": "2026-01-28T05:25:39Z",
-    "+@date-last-modified-at": "2026-09-26T22:54:20Z",
-    "+@date-last-updated-at": "2026-09-26T22:54:20Z"
+    "+@date-last-modified-at": "2026-10-27T05:09:52Z",
+    "+@date-last-updated-at": "2026-10-27T05:09:52Z"
 }

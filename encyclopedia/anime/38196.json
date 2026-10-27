@@ -2,9 +2,9 @@
     "+@id": "38196",
     "+@gid": "3634092593",
     "+@type": "special",
-    "+@name": "Detective Conan: 30-gō Satsujin Jiken",
+    "+@name": "Detective Conan: The Counterfeit Crime Case of Ultra 30",
     "+@precision": "special",
-    "+@generated-on": "2026-09-26T22:54:15Z",
+    "+@generated-on": "2026-10-27T05:09:50Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "454"
@@ -30,9 +30,15 @@
             ]
         },
         {
+            "+content": "Detective Conan: The Counterfeit Crime Case of Ultra 30",
+            "+@gid": "2861677075",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Detective Conan: 30-gō Satsujin Jiken",
             "+@gid": "1233122063",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -63,6 +69,10 @@
             "+@type": "Vintage"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "7"
+    },
     "news": [
         {
             "+content": "<cite>Detective Conan</cite> Anime Gets 1st 2-Hour Special in 10 Years, Streams Trailer for 'Episode Zero' Special",
@@ -78,6 +88,16 @@
             "+content": "New <i>Detective Conan</i> 2-Hour Anime Special Reveals Promo Video, Theme Song Artist, Main Visual",
             "+@datetime": "2026-09-12T11:47:59Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-09-12/new-detective-conan-2-hour-anime-special-reveals-promo-video-theme-song-artist-main-visual/.241702"
+        },
+        {
+            "+content": "Crunchyroll to Stream <cite>Super Psychic Policeman Chojo</cite>, <cite>Dandivine</cite>, <cite>Full Clearing Another World Under a Goddess with Zero Believers</cite>, More Anime",
+            "+@datetime": "2026-09-30T17:20:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-30/crunchyroll-to-stream-super-psychic-policeman-chojo-dandivine-full-clearing-another-world-under-a-/.242347"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, September 21-27",
+            "+@datetime": "2026-10-10T15:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-10/japanese-animation-tv-ranking-september-21-27/.242684"
         }
     ],
     "staff": [
@@ -95,6 +115,22 @@
             "person": {
                 "+content": "Takeharu Sakurai",
                 "+@id": "118412"
+            }
+        },
+        {
+            "+@gid": "2607338660",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Iwao Teraoka",
+                "+@id": "14480"
+            }
+        },
+        {
+            "+@gid": "1748376890",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Nobuharu Kamanaka",
+                "+@id": "51361"
             }
         },
         {
@@ -120,18 +156,367 @@
                 "+content": "Masatomo Sudō",
                 "+@id": "10902"
             }
+        },
+        {
+            "+@gid": "1692747746",
+            "task": "Art Director",
+            "person": {
+                "+content": "Shunichirō Yoshihara",
+                "+@id": "5940"
+            }
+        },
+        {
+            "+@gid": "2361647932",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Keiko Sasaki",
+                "+@id": "1861"
+            }
+        },
+        {
+            "+@gid": "1749135261",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masatomo Sudō",
+                "+@id": "10902"
+            }
+        },
+        {
+            "+@gid": "3036864876",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Miho Tanaka",
+                "+@id": "34117"
+            }
+        },
+        {
+            "+@gid": "1361173914",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Michitaka Yamamoto",
+                "+@id": "38982"
+            }
+        },
+        {
+            "+@gid": "3510477907",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Asuka Tsubuki",
+                "+@id": "46819"
+            }
+        },
+        {
+            "+@gid": "2370030412",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Marie Nagano",
+                "+@id": "50351"
+            }
+        },
+        {
+            "+@gid": "783462841",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nobuyuki Iwai",
+                "+@id": "52769"
+            }
+        },
+        {
+            "+@gid": "2133775317",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chie Saito",
+                "+@id": "71715"
+            }
+        },
+        {
+            "+@gid": "2058209572",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ken'ichi Ōtomo",
+                "+@id": "76656"
+            }
+        },
+        {
+            "+@gid": "2808218708",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yui Ushinohama",
+                "+@id": "78121"
+            }
+        },
+        {
+            "+@gid": "2741131968",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Rei Masunaga",
+                "+@id": "81199"
+            }
+        },
+        {
+            "+@gid": "630403772",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kyōko Yoshimi",
+                "+@id": "81847"
+            }
+        },
+        {
+            "+@gid": "1126432170",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mina Ōtaka",
+                "+@id": "89556"
+            }
+        },
+        {
+            "+@gid": "2505741925",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mariko Imamura",
+                "+@id": "120007"
+            }
+        },
+        {
+            "+@gid": "1989286593",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Akiko Motoyoshi",
+                "+@id": "121967"
+            }
+        },
+        {
+            "+@gid": "3665086198",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kana Aoki",
+                "+@id": "167015"
+            }
+        },
+        {
+            "+@gid": "2504040368",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Haruna Igawa",
+                "+@id": "189663"
+            }
+        },
+        {
+            "+@gid": "1655475523",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Falco Suzuki",
+                "+@id": "198572"
+            }
+        },
+        {
+            "+@gid": "3070050293",
+            "task": "Art design",
+            "person": {
+                "+content": "Kaoru Aoki",
+                "+@id": "75979"
+            }
+        },
+        {
+            "+@gid": "2715936910",
+            "task": "Art design",
+            "person": {
+                "+content": "Toshiki Amata",
+                "+@id": "213428"
+            }
         }
     ],
-    "cast": {
-        "+@gid": "2634476964",
-        "+@lang": "JA",
-        "role": "Tōko Satomi",
-        "person": {
-            "+content": "Elaiza Ikeda",
-            "+@id": "250662"
+    "cast": [
+        {
+            "+@gid": "1215407603",
+            "+@lang": "JA",
+            "role": "Shinichi Kudo",
+            "person": {
+                "+content": "Kappei Yamaguchi",
+                "+@id": "277"
+            }
+        },
+        {
+            "+@gid": "2609287218",
+            "+@lang": "JA",
+            "role": "Dr. Agasa",
+            "person": {
+                "+content": "Kenichi Ogata",
+                "+@id": "284"
+            }
+        },
+        {
+            "+@gid": "2663533766",
+            "+@lang": "JA",
+            "role": "Ai Haibara",
+            "person": {
+                "+content": "Megumi Hayashibara",
+                "+@id": "391"
+            }
+        },
+        {
+            "+@gid": "1836097080",
+            "+@lang": "JA",
+            "role": "Kazuha Toyama",
+            "person": {
+                "+content": "Yūko Miyamura",
+                "+@id": "828"
+            }
+        },
+        {
+            "+@gid": "1170177631",
+            "+@lang": "JA",
+            "role": "Conan Edogawa",
+            "person": {
+                "+content": "Minami Takayama",
+                "+@id": "845"
+            }
+        },
+        {
+            "+@gid": "1694091267",
+            "+@lang": "JA",
+            "role": "Misao Yamamura",
+            "person": {
+                "+content": "Toshio Furukawa",
+                "+@id": "1011"
+            }
+        },
+        {
+            "+@gid": "2900873403",
+            "+@lang": "JA",
+            "role": "Toru Amuro",
+            "person": {
+                "+content": "Takeshi Kusao",
+                "+@id": "1103"
+            }
+        },
+        {
+            "+@gid": "639276382",
+            "+@lang": "JA",
+            "role": "Heiji Hattori",
+            "person": {
+                "+content": "Ryō Horikawa",
+                "+@id": "1104"
+            }
+        },
+        {
+            "+@gid": "4035637580",
+            "+@lang": "JA",
+            "role": "Genta Kojima",
+            "person": {
+                "+content": "Wataru Takagi",
+                "+@id": "1307"
+            }
+        },
+        {
+            "+@gid": "2605629751",
+            "+@lang": "JA",
+            "role": "Wataru Takagi",
+            "person": {
+                "+content": "Wataru Takagi",
+                "+@id": "1307"
+            }
+        },
+        {
+            "+@gid": "651783034",
+            "+@lang": "JA",
+            "role": "Ran Mori",
+            "person": {
+                "+content": "Akemi Okamura",
+                "+@id": "1676"
+            }
+        },
+        {
+            "+@gid": "2821714118",
+            "+@lang": "JA",
+            "role": "Shuichi Akai",
+            "person": {
+                "+content": "Shūichi Ikeda",
+                "+@id": "2136"
+            }
+        },
+        {
+            "+@gid": "3654259172",
+            "+@lang": "JA",
+            "role": "Ayumi Yoshida",
+            "person": {
+                "+content": "Yukiko Iwai",
+                "+@id": "2419"
+            }
+        },
+        {
+            "+@gid": "2905240334",
+            "+@lang": "JA",
+            "role": "Kansuke Yamato",
+            "person": {
+                "+content": "Yūji Takada",
+                "+@id": "3056"
+            }
+        },
+        {
+            "+@gid": "649307023",
+            "+@lang": "JA",
+            "role": "Kazunobu Chiba",
+            "person": {
+                "+content": "Isshin Chiba",
+                "+@id": "3057"
+            }
+        },
+        {
+            "+@gid": "1088500598",
+            "+@lang": "JA",
+            "role": "Takaaki Morofushi",
+            "person": {
+                "+content": "Show Hayami",
+                "+@id": "4128"
+            }
+        },
+        {
+            "+@gid": "3673443918",
+            "+@lang": "JA",
+            "role": "Juzo Megure",
+            "person": {
+                "+content": "Chafūrin",
+                "+@id": "4885"
+            }
+        },
+        {
+            "+@gid": "2888205850",
+            "+@lang": "JA",
+            "role": "Kogoro Mori",
+            "person": {
+                "+content": "Rikiya Koyama",
+                "+@id": "8136"
+            }
+        },
+        {
+            "+@gid": "993871511",
+            "+@lang": "JA",
+            "role": "Yui Uehara",
+            "person": {
+                "+content": "Ami Koshimizu",
+                "+@id": "17254"
+            }
+        },
+        {
+            "+@gid": "2634476964",
+            "+@lang": "JA",
+            "role": "Tōko Satomi",
+            "person": {
+                "+content": "Elaiza Ikeda",
+                "+@id": "250662"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "720809415",
+        "task": "Animation Production",
+        "company": {
+            "+content": "TMS Entertainment",
+            "+@id": "292"
         }
     },
     "+@date-added": "2025-12-28T01:13:25Z",
-    "+@date-last-modified-at": "2026-09-26T22:54:20Z",
-    "+@date-last-updated-at": "2026-09-26T22:54:20Z"
+    "+@date-last-modified-at": "2026-10-27T05:09:52Z",
+    "+@date-last-updated-at": "2026-10-27T05:09:52Z"
 }
