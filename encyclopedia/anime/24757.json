@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Reincarnated as a Sword",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-26T22:54:18Z",
+    "+@generated-on": "2026-10-28T05:45:53Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "21736"
@@ -63,8 +63,43 @@
             "+@lang": "JA"
         },
         {
+            "+content": "action",
+            "+@gid": "1997278332",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "fantasy",
+            "+@gid": "1144805003",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "2099777106",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "swordplay",
+            "+@gid": "1419063157",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "773066733",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "Reincarnated as a sentient weapon with memories of his past life, but not his name, a magical sword saves a young beastgirl from a life of slavery. Fran, the cat-eared girl, becomes his wielder, and wants only to grow stronger, while the sword wants to know why he is here. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "1536985566",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "12",
+            "+@gid": "3933296467",
+            "+@type": "Number of episodes"
         },
         {
             "+content": "2022-10-05",
@@ -90,9 +125,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "274",
-        "+@weighted_score": "7.5355",
-        "+@bayesian_score": "7.53271"
+        "+@nb_votes": "278",
+        "+@weighted_score": "7.5188",
+        "+@bayesian_score": "7.51673"
     },
     "episode": [
         {
@@ -317,6 +352,30 @@
             "person": {
                 "+content": "Takahiro Nagano",
                 "+@id": "157562"
+            }
+        },
+        {
+            "+@gid": "2822870559",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shinji Ishihira",
+                "+@id": "28779"
+            }
+        },
+        {
+            "+@gid": "3502666286",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Kazunobu Shimizu",
+                "+@id": "16712"
+            }
+        },
+        {
+            "+@gid": "684791725",
+            "task": "Unit Director",
+            "person": {
+                "+content": "Hiro Ōki",
+                "+@id": "109554"
             }
         },
         {
@@ -666,6 +725,6 @@
         }
     ],
     "+@date-added": "2021-09-22T11:39:55Z",
-    "+@date-last-modified-at": "2026-09-26T22:54:20Z",
-    "+@date-last-updated-at": "2026-09-26T22:54:20Z"
+    "+@date-last-modified-at": "2026-10-28T05:45:57Z",
+    "+@date-last-updated-at": "2026-10-28T05:45:57Z"
 }
