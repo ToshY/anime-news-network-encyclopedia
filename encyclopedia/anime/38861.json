@@ -4,12 +4,36 @@
     "+@type": "TV",
     "+@name": "Love Live! Hasu no Sora Jogakuin School Idol Club",
     "+@precision": "TV",
-    "+@generated-on": "2026-09-29T00:23:20Z",
+    "+@generated-on": "2026-10-29T05:32:38Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "36448"
     },
     "info": [
+        {
+            "+@gid": "1426563687",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38861-1426563687.1792357653.jpg",
+            "+@width": "142",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38861-1426563687.1792357653.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38861-1426563687.1792357653.jpg",
+                    "+@width": "425",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38861-1426563687.1792357653.jpg",
+                    "+@width": "849",
+                    "+@height": "1200"
+                }
+            ]
+        },
         {
             "+content": "Love Live! Hasu no Sora Jogakuin School Idol Club",
             "+@gid": "3275015343",
@@ -33,17 +57,60 @@
             "+@type": "Themes"
         },
         {
-            "+content": "2027-01",
+            "+content": "7",
+            "+@gid": "2010566757",
+            "+@type": "Number of episodes"
+        },
+        {
+            "+content": "2027-01-10",
             "+@gid": "4100138639",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "「蓮ノ空女学院スクールアイドルクラブ」公式サイト（Link！Like！ラブライブ！）",
+            "+@gid": "1501729495",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://www.lovelive-anime.jp/hasunosora/"
         }
     ],
-    "news": {
-        "+content": "<cite>Love Live! Hasu no Sora Jōgakuin School Idol Club</cite> Project Gets TV Anime in 2027",
-        "+@datetime": "2026-03-31T23:52:46Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-31/love-live-hasu-no-sora-jogakuin-school-idol-club-project-gets-tv-anime-in-2027/.236016"
-    },
+    "news": [
+        {
+            "+content": "<cite>Love Live! Hasu no Sora Jōgakuin School Idol Club</cite> Project Gets TV Anime in 2027",
+            "+@datetime": "2026-03-31T23:52:46Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-31/love-live-hasu-no-sora-jogakuin-school-idol-club-project-gets-tv-anime-in-2027/.236016"
+        },
+        {
+            "+content": "<cite>Love Live! Hasu no Sora Jōgakuin School Idol Club</cite> TV Anime Unveils 7-Episode Run, January 10 Debut",
+            "+@datetime": "2026-10-19T01:09:46Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-18/love-live-hasu-no-sora-jogakuin-school-idol-club-tv-anime-unveils-7-episode-run-january-10-debut/.242958"
+        }
+    ],
     "staff": [
+        {
+            "+@gid": "996183831",
+            "task": "Director",
+            "person": {
+                "+content": "Gō Kurosaki",
+                "+@id": "76854"
+            }
+        },
+        {
+            "+@gid": "2774613531",
+            "task": "Script",
+            "person": {
+                "+content": "Fumiaki Maruto",
+                "+@id": "119186"
+            }
+        },
+        {
+            "+@gid": "1580343737",
+            "task": "Music",
+            "person": {
+                "+content": "Yoshiaki Fujisawa",
+                "+@id": "113645"
+            }
+        },
         {
             "+@gid": "2965047141",
             "task": "Original Concept",
@@ -58,6 +125,54 @@
             "person": {
                 "+content": "Hajime Yatate",
                 "+@id": "19"
+            }
+        },
+        {
+            "+@gid": "2609047094",
+            "task": "Character Design",
+            "person": {
+                "+content": "Haruko Iizuka",
+                "+@id": "30827"
+            }
+        },
+        {
+            "+@gid": "3218522796",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yasuhiro Okumura",
+                "+@id": "42399"
+            }
+        },
+        {
+            "+@gid": "2157988550",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Keiichi Nozaki",
+                "+@id": "9146"
+            }
+        },
+        {
+            "+@gid": "807030038",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Kaito Hamakawa",
+                "+@id": "244624"
+            }
+        },
+        {
+            "+@gid": "2543431998",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Hiroshi Tanaka",
+                "+@id": "5725"
+            }
+        },
+        {
+            "+@gid": "2562699038",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Fumika Takahashi",
+                "+@id": "119702"
             }
         }
     ],
@@ -135,6 +250,15 @@
             }
         }
     ],
+    "credit": {
+        "+@gid": "2159057360",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Sublimation",
+            "+@id": "11642"
+        }
+    },
     "+@date-added": "2026-03-31T05:56:43Z",
-    "+@date-last-updated-at": "2026-09-29T00:23:25Z"
+    "+@date-last-modified-at": "2026-10-29T05:51:53Z",
+    "+@date-last-updated-at": "2026-10-29T05:51:53Z"
 }
