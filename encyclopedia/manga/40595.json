@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "There's a Wall of Extroverts Around Me!",
     "+@precision": "manga",
-    "+@generated-on": "2026-10-01T05:59:13Z",
+    "+@generated-on": "2026-10-31T14:04:30Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "20821"
@@ -73,14 +73,25 @@
         "+@datetime": "2026-09-28T15:00:00Z",
         "+@href": "https://www.animenewsnetwork.com:/news/2026-09-28/manga-up-global-adds-25-years-in-a-dungeon-wolf-boy-secret-6-more-manga/.242042"
     },
-    "staff": {
-        "+@gid": "3339384477",
-        "task": "Story & Art",
-        "person": {
-            "+content": "Misaoji",
-            "+@id": "258211"
+    "staff": [
+        {
+            "+@gid": "3339384477",
+            "task": "Story & Art",
+            "person": {
+                "+content": "Misaoji",
+                "+@id": "258211"
+            }
+        },
+        {
+            "+@gid": "1504100454",
+            "task": "Translation",
+            "person": {
+                "+content": "Rodrigo Branco",
+                "+@id": "299853"
+            }
         }
-    },
+    ],
     "+@date-added": "2026-09-30T02:35:26Z",
-    "+@date-last-updated-at": "2026-10-01T05:59:13Z"
+    "+@date-last-modified-at": "2026-10-31T14:33:01Z",
+    "+@date-last-updated-at": "2026-10-31T14:33:01Z"
 }
