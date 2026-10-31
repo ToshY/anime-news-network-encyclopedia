@@ -2,13 +2,19 @@
     "+@id": "35316",
     "+@gid": "2837020891",
     "+@type": "manga",
-    "+@name": "Dorei kara no Kitai to Hyōka no Sei de Sakushu Dekinai nodaga",
+    "+@name": "I Can't Exploit It Because of the Expectations and Evaluation From Slaves",
     "+@precision": "manga",
-    "+@generated-on": "2026-09-29T10:42:51Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "23525"
-    },
+    "+@generated-on": "2026-10-31T23:25:03Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "23525"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "40616"
+        }
+    ],
     "info": [
         {
             "+@gid": "1616810473",
@@ -35,9 +41,15 @@
             ]
         },
         {
+            "+content": "I Can't Exploit It Because of the Expectations and Evaluation From Slaves",
+            "+@gid": "1346050834",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Dorei kara no Kitai to Hyōka no Sei de Sakushu Dekinai nodaga",
             "+@gid": "2587623021",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -64,6 +76,15 @@
             "+@href": "https://web-ace.jp/shonenaceplus/contents/3000072/episode/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "2"
+    },
+    "news": {
+        "+content": "<i>Dorei kara no Kitai to Hyōka no Sei de Sakushu Dekinai nodaga</i> Novels Get Anime",
+        "+@datetime": "2026-10-03T14:24:13Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-10-03/dorei-kara-no-kitai-to-hyoka-no-sei-de-sakushu-dekinai-nodaga-novels-get-anime/.242447"
+    },
     "staff": [
         {
             "+@gid": "803325294",
@@ -91,5 +112,6 @@
         }
     ],
     "+@date-added": "2025-03-24T03:41:40Z",
-    "+@date-last-updated-at": "2026-09-29T10:42:52Z"
+    "+@date-last-modified-at": "2026-10-31T23:25:04Z",
+    "+@date-last-updated-at": "2026-10-31T23:25:04Z"
 }
