@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Vermilion Mask",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-01T15:28:39Z",
+    "+@generated-on": "2026-10-31T19:45:09Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "36872"
+    },
+    "related-next": {
+        "+@id": "40632",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -36,12 +40,6 @@
             "+@lang": "EN"
         },
         {
-            "+content": "The Vermillion Mask",
-            "+@gid": "2775914288",
-            "+@type": "Alternative title",
-            "+@lang": "EN"
-        },
-        {
             "+content": "Shuiro no Kamen",
             "+@gid": "4040325112",
             "+@type": "Alternative title",
@@ -59,9 +57,14 @@
             "+@type": "Genres"
         },
         {
-            "+content": "The mask brings calamity. The mask revels in slaughter. The mask has a will of its own... Pelle, a traveling mask merchant, possesses the ability to craft mysterious masks that give its wearers unique powers. In a city shrouded in an eerie atmosphere, he encounters Sonah, a mysterious young girl. As revelations unfold and inner conflicts arise, a young boy takes his first steps forward. Immerse yourself in a thrilling mask battle fantasy.",
-            "+@gid": "2642725929",
+            "+content": "Peru, a young apprentice mask maker who loses control under the influence of a cursed mask, slays both his master and comrades in a tragic outburst. Wracked with guilt, Peru sets off on a journey to destroy the legendary masks his master once crafted, crossing paths with unlikely allies and deadly foes. What unfolds is a gripping battle for redemption, as both Peru's soul and the world itself hang in the balance.",
+            "+@gid": "1935164395",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "24",
+            "+@gid": "1525563348",
+            "+@type": "Running time"
         },
         {
             "+content": "2026-10-10",
@@ -83,6 +86,10 @@
             "+@href": "https://the-vermilion-mask.com/en/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "5",
+        "+@weighted_score": "5.028"
+    },
     "news": [
         {
             "+content": "<cite>The Vermilion Mask</cite> Action Manga Gets Anime",
@@ -128,6 +135,26 @@
             "+content": "<cite>The Vermilion Mask</cite> Anime Reveals Singer Yuya Tegoshi as Guest Voice Actor",
             "+@datetime": "2026-09-29T09:57:03Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-09-29/the-vermilion-mask-anime-reveals-singer-yuya-tegoshi-as-guest-voice-actor/.242303"
+        },
+        {
+            "+content": "Crunchyroll Streams <cite>A Tale of the Secret Saint</cite>, <cite>Psyren</cite>, More Anime in India",
+            "+@datetime": "2026-10-02T10:51:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-02/crunchyroll-streams-a-tale-of-the-secret-saint-psyren-more-anime-in-india/.242409"
+        },
+        {
+            "+content": "<cite>The Vermilion Mask</cite> Anime's 2nd Part Debuts in April 2027",
+            "+@datetime": "2026-10-08T10:42:34Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-08/the-vermilion-mask-anime-2nd-part-debuts-in-april-2027/.242631"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, October 5-11",
+            "+@datetime": "2026-10-17T12:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-17/japanese-animation-tv-ranking-october-5-11/.242889"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, October 12-18",
+            "+@datetime": "2026-10-29T13:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-29/japanese-animation-tv-ranking-october-12-18/.243177"
         }
     ],
     "staff": [
@@ -221,6 +248,60 @@
         }
     ],
     "cast": [
+        {
+            "+@gid": "2245151051",
+            "+@lang": "FR",
+            "role": "Roi Gowon",
+            "person": {
+                "+content": "Thierry Janssen",
+                "+@id": "49087"
+            }
+        },
+        {
+            "+@gid": "2717578524",
+            "+@lang": "FR",
+            "role": "Masque du Dieu guerrier",
+            "person": {
+                "+content": "Pierre Bodson",
+                "+@id": "68337"
+            }
+        },
+        {
+            "+@gid": "2312465947",
+            "+@lang": "FR",
+            "role": "Totok",
+            "person": {
+                "+content": "Marc Weiss",
+                "+@id": "74890"
+            }
+        },
+        {
+            "+@gid": "1612698387",
+            "+@lang": "FR",
+            "role": "Sonarue \"Sona\" Maywood",
+            "person": {
+                "+content": "Sophie Pyronnet",
+                "+@id": "152789"
+            }
+        },
+        {
+            "+@gid": "3840618204",
+            "+@lang": "FR",
+            "role": "Gaston Roux",
+            "person": {
+                "+content": "Jean-François Rossion",
+                "+@id": "171936"
+            }
+        },
+        {
+            "+@gid": "1951264871",
+            "+@lang": "FR",
+            "role": "Per Darrest",
+            "person": {
+                "+content": "Arthur Dubois",
+                "+@id": "213181"
+            }
+        },
         {
             "+@gid": "2364982220",
             "+@lang": "JA",
@@ -357,6 +438,6 @@
         }
     },
     "+@date-added": "2025-07-05T22:37:08Z",
-    "+@date-last-modified-at": "2026-10-01T15:28:43Z",
-    "+@date-last-updated-at": "2026-10-01T15:28:43Z"
+    "+@date-last-modified-at": "2026-10-31T20:00:15Z",
+    "+@date-last-updated-at": "2026-10-31T20:00:15Z"
 }
