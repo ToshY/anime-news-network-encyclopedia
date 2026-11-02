@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Sonic the Hedgehog: Memories and Beyond",
     "+@precision": "movie",
-    "+@generated-on": "2026-10-03T13:25:01Z",
+    "+@generated-on": "2026-11-02T18:24:39Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "221"
@@ -46,16 +46,27 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2026 (fall)",
-            "+@gid": "2543495385",
+            "+content": "2026-11-12",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2026-11-12 (worldwide)",
+            "+@gid": "2770678186",
+            "+@type": "Premiere date"
         }
     ],
-    "news": {
-        "+content": "<cite>Sonic the Hedgehog: Memories and Beyond</cite> Short Animated Film Revealed in Sneak Peek Video",
-        "+@datetime": "2026-07-04T05:57:25Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-07-04/sonic-the-hedgehog-memories-and-beyond-short-animated-film-revealed-in-sneak-peek-video/.239283"
-    },
+    "news": [
+        {
+            "+content": "<cite>Sonic the Hedgehog: Memories and Beyond</cite> Short Animated Film Revealed in Sneak Peek Video",
+            "+@datetime": "2026-07-04T05:57:25Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-04/sonic-the-hedgehog-memories-and-beyond-short-animated-film-revealed-in-sneak-peek-video/.239283"
+        },
+        {
+            "+content": "<cite>Sonic Racing CrossWorlds</cite> Game Reveals Year 2 Roadmap; <cite>Sonic the Hedgehog: Memories and Beyond</cite> Short Film Reveals Debut Date",
+            "+@datetime": "2026-10-12T10:10:32Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-12/sonic-racing-crossworlds-game-reveals-year-2-roadmap-sonic-the-hedgehog-memories-and-beyond-short-/.242689"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2166630592",
@@ -83,5 +94,6 @@
         }
     ],
     "+@date-added": "2026-07-04T02:08:27Z",
-    "+@date-last-updated-at": "2026-10-03T13:25:05Z"
+    "+@date-last-modified-at": "2026-11-02T18:24:42Z",
+    "+@date-last-updated-at": "2026-11-02T18:24:42Z"
 }
