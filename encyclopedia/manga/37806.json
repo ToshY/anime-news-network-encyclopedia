@@ -2,9 +2,13 @@
     "+@id": "37806",
     "+@gid": "1180626916",
     "+@type": "manga",
-    "+@name": "Aisareteru Baai janai no",
+    "+@name": "Not the Time for Love",
     "+@precision": "manga",
-    "+@generated-on": "2026-10-03T05:21:44Z",
+    "+@generated-on": "2026-11-02T06:10:22Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "40634"
+    },
     "info": [
         {
             "+@gid": "3257373940",
@@ -31,16 +35,16 @@
             ]
         },
         {
-            "+content": "Aisareteru Baai janai no",
-            "+@gid": "3027420607",
-            "+@type": "Main title",
-            "+@lang": "JA"
-        },
-        {
             "+content": "Not the Time for Love",
             "+@gid": "1881077243",
-            "+@type": "Alternative title",
+            "+@type": "Main title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Aisareteru Baai janai no",
+            "+@gid": "3027420607",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
         },
         {
             "+content": "愛されてる場合じゃないの",
@@ -76,5 +80,6 @@
         }
     },
     "+@date-added": "2025-09-06T14:46:16Z",
-    "+@date-last-updated-at": "2026-10-03T05:21:46Z"
+    "+@date-last-modified-at": "2026-11-02T06:10:23Z",
+    "+@date-last-updated-at": "2026-11-02T06:10:23Z"
 }
