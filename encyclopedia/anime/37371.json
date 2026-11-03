@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Mercedes and the Waning Moon",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-03T23:06:23Z",
+    "+@generated-on": "2026-11-03T02:21:20Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "37369"
@@ -13,18 +13,18 @@
         {
             "+@gid": "1975236550",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37371-1975236550.1785034237.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37371-1975236550.1793392633.jpg",
             "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37371-1975236550.1785034237.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37371-1975236550.1793392633.jpg",
                     "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37371-1975236550.1785034237.jpg",
-                    "+@width": "425",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37371-1975236550.1793392633.jpg",
+                    "+@width": "426",
                     "+@height": "600"
                 }
             ]
@@ -71,11 +71,18 @@
             "+@href": "https://mercedes-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Mercedes and the Waning Moon</cite> Anime Reveals TV Format, 1st Promo Video, Cast & Staff Members, January 2027 Debut",
-        "+@datetime": "2026-07-15T09:03:11Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-07-15/mercedes-and-the-waning-moon-anime-reveals-tv-format-1st-promo-video-cast-and-staff-members-january-/.239587"
-    },
+    "news": [
+        {
+            "+content": "<cite>Mercedes and the Waning Moon</cite> Anime Reveals TV Format, 1st Promo Video, Cast & Staff Members, January 2027 Debut",
+            "+@datetime": "2026-07-15T09:03:11Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-07-15/mercedes-and-the-waning-moon-anime-reveals-tv-format-1st-promo-video-cast-and-staff-members-january-/.239587"
+        },
+        {
+            "+content": "Mercedes and the Waning Moon TV Anime Reveals 4 More Cast Members in 2nd Promo Video",
+            "+@datetime": "2026-10-30T09:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-30/mercedes-and-the-waning-moon-tv-anime-reveals-4-more-cast-members-in-2nd-promo-video/.243358"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1105411518",
@@ -142,15 +149,53 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "968544632",
-        "+@lang": "JA",
-        "role": "Mercedes Grünewald",
-        "person": {
-            "+content": "Anna Nagase",
-            "+@id": "196760"
+    "cast": [
+        {
+            "+@gid": "2179273888",
+            "+@lang": "JA",
+            "role": "Benkei",
+            "person": {
+                "+content": "Kenta Miyake",
+                "+@id": "10398"
+            }
+        },
+        {
+            "+@gid": "1501049242",
+            "+@lang": "JA",
+            "role": "Florian",
+            "person": {
+                "+content": "Junichi Suwabe",
+                "+@id": "48696"
+            }
+        },
+        {
+            "+@gid": "3835828247",
+            "+@lang": "JA",
+            "role": "Lydia Grünewald",
+            "person": {
+                "+content": "Ai Kayano",
+                "+@id": "91009"
+            }
+        },
+        {
+            "+@gid": "2755368055",
+            "+@lang": "JA",
+            "role": "Kuro",
+            "person": {
+                "+content": "Ryūnosuke Watanuki",
+                "+@id": "128401"
+            }
+        },
+        {
+            "+@gid": "968544632",
+            "+@lang": "JA",
+            "role": "Mercedes Grünewald",
+            "person": {
+                "+content": "Anna Nagase",
+                "+@id": "196760"
+            }
         }
-    },
+    ],
     "credit": {
         "+@gid": "2485478224",
         "task": "Animation Production",
@@ -160,5 +205,6 @@
         }
     },
     "+@date-added": "2025-08-07T20:40:45Z",
-    "+@date-last-updated-at": "2026-10-03T23:06:28Z"
+    "+@date-last-modified-at": "2026-11-03T02:21:23Z",
+    "+@date-last-updated-at": "2026-11-03T02:21:23Z"
 }
