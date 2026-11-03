@@ -4,28 +4,33 @@
     "+@type": "TV",
     "+@name": "World's Strongest Witch",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-04T13:53:19Z",
+    "+@generated-on": "2026-11-03T18:46:24Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "39354"
     },
     "info": [
         {
-            "+@gid": "3767069040",
+            "+@gid": "1849684427",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39355-3767069040.1787803841.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39355-1849684427.1791872896.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39355-3767069040.1787803841.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A39355-1849684427.1791872896.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A39355-3767069040.1787803841.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A39355-1849684427.1791872896.jpg",
                     "+@width": "424",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A39355-1849684427.1791872896.jpg",
+                    "+@width": "460",
+                    "+@height": "651"
                 }
             ]
         },
@@ -58,6 +63,16 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "24",
+            "+@gid": "1426691970",
+            "+@type": "Running time"
+        },
+        {
+            "+content": "12",
+            "+@gid": "2832949546",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-10-07",
             "+@gid": "1578679494",
             "+@type": "Vintage"
@@ -78,6 +93,44 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://sekamajo-anime.com/"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "4",
+        "+@weighted_score": "6.1138"
+    },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "I Tried Using the Internet!",
+                "+@gid": "1171564581",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "I Tried Becoming an Adventurer!",
+                "+@gid": "2218550121",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "I Tried Looking At Message Boards!",
+                "+@gid": "2476508365",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "I Tried Stopping Someone's Ambition!",
+                "+@gid": "2712507163",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -110,6 +163,16 @@
             "+content": "Crunchyroll Streams <cite>A Tale of the Secret Saint</cite>, <cite>Psyren</cite>, More Anime in India",
             "+@datetime": "2026-10-02T10:51:48Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-10-02/crunchyroll-streams-a-tale-of-the-secret-saint-psyren-more-anime-in-india/.242409"
+        },
+        {
+            "+content": "Crunchyroll Reveals English Dub Cast, Staff Members, for <cite>The World's Strongest Witch</cite> Anime",
+            "+@datetime": "2026-10-22T10:56:11Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-22/crunchyroll-reveals-english-dub-cast-staff-members-for-the-world-strongest-witch-anime/.243103"
+        },
+        {
+            "+content": "<cite>The World's Strongest Witch</cite> Anime Casts Yukana, Azusa Tadokoro",
+            "+@datetime": "2026-10-26T14:16:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-26/the-world-strongest-witch-anime-casts-yukana-azusa-tadokoro/.243196"
         }
     ],
     "staff": [
@@ -204,12 +267,57 @@
     ],
     "cast": [
         {
+            "+@gid": "1993646060",
+            "+@lang": "EN",
+            "role": "Lorna Hermit",
+            "person": {
+                "+content": "Lindsay Seidel",
+                "+@id": "83913"
+            }
+        },
+        {
+            "+@gid": "1974621785",
+            "+@lang": "EN",
+            "role": "Yggdrasil",
+            "person": {
+                "+content": "Mikaela Krantz",
+                "+@id": "132766"
+            }
+        },
+        {
+            "+@gid": "3582101060",
+            "+@lang": "EN",
+            "role": "Elmina Manaflame",
+            "person": {
+                "+content": "Morgan Lauré",
+                "+@id": "157958"
+            }
+        },
+        {
+            "+@gid": "1690105811",
+            "+@lang": "EN",
+            "role": "Reinhardt Highwind",
+            "person": {
+                "+content": "Mauricio Ortiz-Segura",
+                "+@id": "244000"
+            }
+        },
+        {
             "+@gid": "2625762730",
             "+@lang": "JA",
             "role": "Yggdrasil",
             "person": {
                 "+content": "Nana Mizuki",
                 "+@id": "436"
+            }
+        },
+        {
+            "+@gid": "1485054776",
+            "+@lang": "JA",
+            "role": "Elhaur",
+            "person": {
+                "+content": "Yukana",
+                "+@id": "5047"
             }
         },
         {
@@ -228,6 +336,15 @@
             "person": {
                 "+content": "Yūto Uemura",
                 "+@id": "91688"
+            }
+        },
+        {
+            "+@gid": "3746672427",
+            "+@lang": "JA",
+            "role": "Zariche",
+            "person": {
+                "+content": "Azusa Tadokoro",
+                "+@id": "112367"
             }
         },
         {
@@ -286,6 +403,6 @@
         }
     ],
     "+@date-added": "2026-05-01T01:52:34Z",
-    "+@date-last-modified-at": "2026-10-04T14:07:43Z",
-    "+@date-last-updated-at": "2026-10-04T14:07:43Z"
+    "+@date-last-modified-at": "2026-11-03T19:30:31Z",
+    "+@date-last-updated-at": "2026-11-03T19:30:31Z"
 }
