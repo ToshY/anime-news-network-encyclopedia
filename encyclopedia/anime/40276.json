@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Murciélago",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-05T17:10:06Z",
+    "+@generated-on": "2026-11-04T19:31:22Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "18513"
@@ -13,18 +13,18 @@
         {
             "+@gid": "3807776822",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40276-3807776822.1785036344.jpg",
-            "+@width": "133",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40276-3807776822.1792536479.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40276-3807776822.1785036344.jpg",
-                    "+@width": "133",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40276-3807776822.1792536479.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40276-3807776822.1785036344.jpg",
-                    "+@width": "400",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40276-3807776822.1792536479.jpg",
+                    "+@width": "424",
                     "+@height": "600"
                 }
             ]
@@ -64,11 +64,18 @@
             "+@href": "https://murcielago-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Murciélago</cite> TV Anime Debuts in January 2027",
-        "+@datetime": "2026-08-23T08:20:04Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-08-23/murcielago-tv-anime-debuts-in-january-2027/.240872"
-    },
+    "news": [
+        {
+            "+content": "<cite>Murciélago</cite> TV Anime Debuts in January 2027",
+            "+@datetime": "2026-08-23T08:20:04Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-23/murcielago-tv-anime-debuts-in-january-2027/.240872"
+        },
+        {
+            "+content": "<cite>Murciélago</cite> TV Anime's Teaser Trailer Reveals Cast",
+            "+@datetime": "2026-10-20T18:23:37Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-20/murcielago-tv-anime-teaser-trailer-reveals-cast/.243033"
+        }
+    ],
     "staff": [
         {
             "+@gid": "564766991",
@@ -125,6 +132,75 @@
                 "+content": "Kiyoshi Tateishi",
                 "+@id": "34987"
             }
+        },
+        {
+            "+@gid": "2023131407",
+            "task": "Art Director",
+            "person": {
+                "+content": "Hirotaka Kozaki",
+                "+@id": "270279"
+            }
+        },
+        {
+            "+@gid": "2487015025",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Noboru Haraguchi",
+                "+@id": "58900"
+            }
+        },
+        {
+            "+@gid": "2218250315",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Hiroyuki Gotō",
+                "+@id": "66925"
+            }
+        },
+        {
+            "+@gid": "2116606006",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Hiroyuki Ikeda",
+                "+@id": "303632"
+            }
+        },
+        {
+            "+@gid": "1220733802",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Ryoto Fukuda",
+                "+@id": "266713"
+            }
+        }
+    ],
+    "cast": [
+        {
+            "+@gid": "3465836315",
+            "+@lang": "JA",
+            "role": "Chiyo Yanaoka",
+            "person": {
+                "+content": "Sumire Uesaka",
+                "+@id": "106108"
+            }
+        },
+        {
+            "+@gid": "1282259790",
+            "+@lang": "JA",
+            "role": "Kuroko Kōmori",
+            "person": {
+                "+content": "Hitomi Ueda",
+                "+@id": "142425"
+            }
+        },
+        {
+            "+@gid": "1801829298",
+            "+@lang": "JA",
+            "role": "Hinako Tozakura",
+            "person": {
+                "+content": "Minori Suzuki",
+                "+@id": "143994"
+            }
         }
     ],
     "credit": [
@@ -146,5 +222,6 @@
         }
     ],
     "+@date-added": "2026-07-04T23:20:53Z",
-    "+@date-last-updated-at": "2026-10-05T17:10:09Z"
+    "+@date-last-modified-at": "2026-11-04T19:47:49Z",
+    "+@date-last-updated-at": "2026-11-04T19:47:49Z"
 }
