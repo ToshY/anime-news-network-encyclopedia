@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Reincarnation in the Game World Dan-Katsu",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-08T21:21:41Z",
+    "+@generated-on": "2026-11-07T23:41:10Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "38658"
@@ -71,11 +71,18 @@
             "+@href": "https://dankatsu.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Reincarnation in the Game World Dan-Katsu</cite> Anime Reveals Main Cast, Staff, January 2027 Debut",
-        "+@datetime": "2026-08-10T14:48:57Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-08-10/reincarnation-in-the-game-world-dan-katsu-anime-reveals-main-cast-staff-january-2027-debut/.240443"
-    },
+    "news": [
+        {
+            "+content": "<cite>Reincarnation in the Game World Dan-Katsu</cite> Anime Reveals Main Cast, Staff, January 2027 Debut",
+            "+@datetime": "2026-08-10T14:48:57Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-10/reincarnation-in-the-game-world-dan-katsu-anime-reveals-main-cast-staff-january-2027-debut/.240443"
+        },
+        {
+            "+content": "<cite>Reincarnation in the Game World Dan-Katsu</cite> Anime's Teaser Reveals More Cast, Theme Songs",
+            "+@datetime": "2026-11-04T09:59:56Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-11-04/reincarnation-in-the-game-world-dan-katsu-anime-teaser-reveals-more-cast-theme-songs/.243515"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2871432353",
@@ -118,15 +125,53 @@
             }
         }
     ],
-    "cast": {
-        "+@gid": "3557966939",
-        "+@lang": "JA",
-        "role": "Zephyrus",
-        "person": {
-            "+content": "Yūto Uemura",
-            "+@id": "91688"
+    "cast": [
+        {
+            "+@gid": "3557966939",
+            "+@lang": "JA",
+            "role": "Zephyrus",
+            "person": {
+                "+content": "Yūto Uemura",
+                "+@id": "91688"
+            }
+        },
+        {
+            "+@gid": "3162385164",
+            "+@lang": "JA",
+            "role": "Hanna",
+            "person": {
+                "+content": "Ayaka Nanase",
+                "+@id": "141770"
+            }
+        },
+        {
+            "+@gid": "2661011679",
+            "+@lang": "JA",
+            "role": "Lana",
+            "person": {
+                "+content": "Hikaru Iida",
+                "+@id": "185579"
+            }
+        },
+        {
+            "+@gid": "1234541923",
+            "+@lang": "JA",
+            "role": "Sierra",
+            "person": {
+                "+content": "Kotone Izumi",
+                "+@id": "288072"
+            }
+        },
+        {
+            "+@gid": "3093748466",
+            "+@lang": "JA",
+            "role": "Ester",
+            "person": {
+                "+content": "Chihaya Asakura",
+                "+@id": "304126"
+            }
         }
-    },
+    ],
     "credit": {
         "+@gid": "1642026096",
         "task": "Animation Production",
@@ -136,5 +181,6 @@
         }
     },
     "+@date-added": "2026-03-11T02:46:00Z",
-    "+@date-last-updated-at": "2026-10-08T21:21:46Z"
+    "+@date-last-modified-at": "2026-11-07T23:41:15Z",
+    "+@date-last-updated-at": "2026-11-07T23:41:15Z"
 }

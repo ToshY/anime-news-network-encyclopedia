@@ -2,9 +2,9 @@
     "+@id": "38121",
     "+@gid": "1715236230",
     "+@type": "TV",
-    "+@name": "Saijakuna Boku wa \"Kabenuke Bug\" de Nariagaru",
+    "+@name": "No-Clipping My Way to Supremacy!",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-08T21:21:41Z",
+    "+@generated-on": "2026-11-07T23:41:11Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "38120"
@@ -30,9 +30,15 @@
             ]
         },
         {
+            "+content": "No-Clipping My Way to Supremacy!",
+            "+@gid": "801465165",
+            "+@type": "Main title",
+            "+@lang": "EN"
+        },
+        {
             "+content": "Saijakuna Boku wa \"Kabenuke Bug\" de Nariagaru",
             "+@gid": "1969595915",
-            "+@type": "Main title",
+            "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
@@ -59,11 +65,18 @@
             "+@href": "https://kabenukebug-anime.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Saijakuna Boku wa 'Kabenuke Bug' de Nariagaru</cite> TV Anime Debuts in 2027",
-        "+@datetime": "2026-08-21T11:12:44Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-08-21/saijakuna-boku-wa-kabenuke-bug-de-nariagaru-tv-anime-debuts-in-2027/.240799"
-    },
+    "news": [
+        {
+            "+content": "<cite>Saijakuna Boku wa 'Kabenuke Bug' de Nariagaru</cite> TV Anime Debuts in 2027",
+            "+@datetime": "2026-08-21T11:12:44Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-21/saijakuna-boku-wa-kabenuke-bug-de-nariagaru-tv-anime-debuts-in-2027/.240799"
+        },
+        {
+            "+content": "<cite>No-Clipping My Way to Supremacy!</cite> TV Anime Reveals 7 Cast, More Staff",
+            "+@datetime": "2026-10-29T11:53:03Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-29/no-clipping-my-way-to-supremacy-tv-anime-reveals-7-cast-more-staff/.243326"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1417826597",
@@ -79,6 +92,22 @@
             "person": {
                 "+content": "Hiroshi Hosokawa",
                 "+@id": "283557"
+            }
+        },
+        {
+            "+@gid": "2843843332",
+            "task": "Script",
+            "person": {
+                "+content": "Hiroshi Hosokawa",
+                "+@id": "283557"
+            }
+        },
+        {
+            "+@gid": "1424946198",
+            "task": "Music",
+            "person": {
+                "+content": "Kyōhei Matsuno",
+                "+@id": "158979"
             }
         },
         {
@@ -120,9 +149,112 @@
                 "+content": "Sumakidori",
                 "+@id": "257251"
             }
+        },
+        {
+            "+@gid": "1353703511",
+            "task": "Art Director",
+            "person": {
+                "+content": "Norifumi Nakamura",
+                "+@id": "35553"
+            }
+        },
+        {
+            "+@gid": "2395486914",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Hiroshi Miyamoto",
+                "+@id": "91318"
+            }
+        },
+        {
+            "+@gid": "2225224071",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Sumakidori",
+                "+@id": "257251"
+            }
+        },
+        {
+            "+@gid": "1910821667",
+            "task": "3D Director",
+            "person": {
+                "+content": "Yui Horiuchi",
+                "+@id": "204138"
+            }
+        },
+        {
+            "+@gid": "3108902453",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Yūichi Imaizumi",
+                "+@id": "91367"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "3882561844",
+            "+@lang": "JA",
+            "role": "Guillermo",
+            "person": {
+                "+content": "Tatsuhisa Suzuki",
+                "+@id": "14071"
+            }
+        },
+        {
+            "+@gid": "2161681932",
+            "+@lang": "JA",
+            "role": "Maris",
+            "person": {
+                "+content": "Ayasa Itō",
+                "+@id": "119928"
+            }
+        },
+        {
+            "+@gid": "2350423325",
+            "+@lang": "JA",
+            "role": "Latch",
+            "person": {
+                "+content": "Shun Horie",
+                "+@id": "141454"
+            }
+        },
+        {
+            "+@gid": "2767821280",
+            "+@lang": "JA",
+            "role": "Volks",
+            "person": {
+                "+content": "Hinata Tadokoro",
+                "+@id": "143942"
+            }
+        },
+        {
+            "+@gid": "2167743382",
+            "+@lang": "JA",
+            "role": "Don",
+            "person": {
+                "+content": "Kengo Tsujii",
+                "+@id": "147259"
+            }
+        },
+        {
+            "+@gid": "3357791847",
+            "+@lang": "JA",
+            "role": "Scarlet",
+            "person": {
+                "+content": "Anna Yamaki",
+                "+@id": "168733"
+            }
+        },
+        {
+            "+@gid": "1572586916",
+            "+@lang": "JA",
+            "role": "Auroia",
+            "person": {
+                "+content": "Nao Ojika",
+                "+@id": "209908"
+            }
+        },
         {
             "+@gid": "4169950504",
             "+@lang": "JA",
@@ -161,5 +293,6 @@
         }
     ],
     "+@date-added": "2025-12-10T21:18:08Z",
-    "+@date-last-updated-at": "2026-10-08T21:21:46Z"
+    "+@date-last-modified-at": "2026-11-07T23:41:15Z",
+    "+@date-last-updated-at": "2026-11-07T23:41:15Z"
 }

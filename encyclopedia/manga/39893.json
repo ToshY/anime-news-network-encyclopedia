@@ -4,11 +4,21 @@
     "+@type": "manga",
     "+@name": "X-Men: Children of the Atom",
     "+@precision": "manga by Cojima",
-    "+@generated-on": "2026-10-08T21:21:37Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "39894"
-    },
+    "+@generated-on": "2026-11-07T23:40:45Z",
+    "related-prev": [
+        {
+            "+@rel": "related to",
+            "+@id": "2537"
+        },
+        {
+            "+@rel": "serialized in",
+            "+@id": "39894"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "40654"
+        }
+    ],
     "info": [
         {
             "+content": "X-Men: Children of the Atom",
@@ -48,5 +58,6 @@
         }
     },
     "+@date-added": "2026-06-09T04:27:17Z",
-    "+@date-last-updated-at": "2026-10-08T21:21:39Z"
+    "+@date-last-modified-at": "2026-11-07T23:41:09Z",
+    "+@date-last-updated-at": "2026-11-07T23:41:09Z"
 }
