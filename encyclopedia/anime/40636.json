@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Remarried Empress",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-09T06:12:42Z",
+    "+@generated-on": "2026-11-08T15:03:28Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "34252"
@@ -58,6 +58,16 @@
             "+@gid": "2226042497",
             "+@type": "Alternative title",
             "+@lang": "KO"
+        },
+        {
+            "+content": "drama",
+            "+@gid": "523625910",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "2498648114",
+            "+@type": "Genres"
         },
         {
             "+content": "Empress Navier and Emperor Sovieshu: a match made in heaven, they were the two pillars of the land whom everyone believed would stand by each other through thick and thin…until a chance encounter with a beautiful girl in the forest leaves the emperor smitten. Though hurt by the betrayal, Navier’s not one to waste time wallowing in despair. And when Sovieshu requests a divorce, she has but one condition in return—permission to remarry the man of her choosing. <em class=de-emphasized>(from manga)</em>",
@@ -153,9 +163,27 @@
             }
         },
         {
+            "+@gid": "3083255992",
+            "+@lang": "JA",
+            "role": "Heinrey Alex Laszlo",
+            "person": {
+                "+content": "Ryōhei Kimura",
+                "+@id": "8342"
+            }
+        },
+        {
             "+@gid": "3984149676",
             "+@lang": "JA",
             "role": "Sovieshu",
+            "person": {
+                "+content": "Tomoaki Maeno",
+                "+@id": "46653"
+            }
+        },
+        {
+            "+@gid": "2558382364",
+            "+@lang": "JA",
+            "role": "Sovieshu Victor Trovi",
             "person": {
                 "+content": "Tomoaki Maeno",
                 "+@id": "46653"
@@ -171,9 +199,27 @@
             }
         },
         {
+            "+@gid": "981067904",
+            "+@lang": "JA",
+            "role": "Navier Ellie Trovi",
+            "person": {
+                "+content": "Yōko Hikasa",
+                "+@id": "67797"
+            }
+        },
+        {
             "+@gid": "3043296858",
             "+@lang": "JA",
             "role": "Rashta",
+            "person": {
+                "+content": "Reina Ueda",
+                "+@id": "116390"
+            }
+        },
+        {
+            "+@gid": "1759775838",
+            "+@lang": "JA",
+            "role": "Rashta Ishka",
             "person": {
                 "+content": "Reina Ueda",
                 "+@id": "116390"
@@ -199,5 +245,6 @@
         }
     ],
     "+@date-added": "2026-10-09T00:25:02Z",
-    "+@date-last-updated-at": "2026-10-09T06:12:43Z"
+    "+@date-last-modified-at": "2026-11-08T15:15:16Z",
+    "+@date-last-updated-at": "2026-11-08T15:15:16Z"
 }
