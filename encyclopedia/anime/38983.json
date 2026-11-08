@@ -1,10 +1,10 @@
 {
     "+@id": "38983",
     "+@gid": "2496929522",
-    "+@type": "TV",
+    "+@type": "movie",
     "+@name": "Date A Live F Last Date",
-    "+@precision": "TV",
-    "+@generated-on": "2026-10-09T14:39:59Z",
+    "+@precision": "movie",
+    "+@generated-on": "2026-11-08T19:45:48Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "25912"
@@ -13,18 +13,18 @@
         {
             "+@gid": "3292149234",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38983-3292149234.1775797482.jpg",
-            "+@width": "141",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38983-3292149234.1792954404.jpg",
+            "+@width": "142",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38983-3292149234.1775797482.jpg",
-                    "+@width": "141",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38983-3292149234.1792954404.jpg",
+                    "+@width": "142",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38983-3292149234.1775797482.jpg",
-                    "+@width": "424",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38983-3292149234.1792954404.jpg",
+                    "+@width": "426",
                     "+@height": "600"
                 }
             ]
@@ -42,6 +42,15 @@
             "+@lang": "JA"
         },
         {
+            "+content": "2027-03-26",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "2027-03-26 (Japan)",
+            "+@gid": "2636135172",
+            "+@type": "Premiere date"
+        },
+        {
             "+content": "アニメ「デート・ア・ライブF Last Date」公式サイト",
             "+@gid": "2698704452",
             "+@type": "Official website",
@@ -49,11 +58,18 @@
             "+@href": "https://date-a-livef-anime.com/"
         }
     ],
-    "news": {
-        "+content": "New  <cite>Date A Live</cite> Anime Unveils Title, Staff, Returning Cast",
-        "+@datetime": "2026-04-10T04:43:54Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-04-10/new-date-a-live-anime-unveils-title-staff-returning-cast/.236258"
-    },
+    "news": [
+        {
+            "+content": "New  <cite>Date A Live</cite> Anime Unveils Title, Staff, Returning Cast",
+            "+@datetime": "2026-04-10T04:43:54Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-04-10/new-date-a-live-anime-unveils-title-staff-returning-cast/.236258"
+        },
+        {
+            "+content": "<cite>Date A Live F Last Date</cite> Anime Reveals Film Format, March 26, 2027 Opening in Teaser Video",
+            "+@datetime": "2026-10-25T10:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-25/date-a-live-f-last-date-anime-reveals-film-format-march-26-2027-opening-in-teaser-video/.243174"
+        }
+    ],
     "staff": [
         {
             "+@gid": "659345371",
@@ -61,6 +77,14 @@
             "person": {
                 "+content": "Junji Nishimura",
                 "+@id": "58"
+            }
+        },
+        {
+            "+@gid": "3039295748",
+            "task": "Screenplay",
+            "person": {
+                "+content": "Fumihiko Shimo",
+                "+@id": "8956"
             }
         },
         {
@@ -77,6 +101,14 @@
             "person": {
                 "+content": "Tsunako",
                 "+@id": "116393"
+            }
+        },
+        {
+            "+@gid": "1526136250",
+            "task": "Character Design",
+            "person": {
+                "+content": "Naoto Nakamura",
+                "+@id": "11869"
             }
         }
     ],
@@ -208,5 +240,6 @@
         }
     },
     "+@date-added": "2026-04-10T01:03:58Z",
-    "+@date-last-updated-at": "2026-10-09T15:19:37Z"
+    "+@date-last-modified-at": "2026-11-08T20:29:59Z",
+    "+@date-last-updated-at": "2026-11-08T20:29:59Z"
 }
