@@ -4,24 +4,33 @@
     "+@type": "TV",
     "+@name": "Inherit the Winds",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-10T05:56:10Z",
+    "+@generated-on": "2026-11-09T06:37:26Z",
+    "related-next": {
+        "+@id": "40785",
+        "+@rel": "adaptation"
+    },
     "info": [
         {
-            "+@gid": "1269314811",
+            "+@gid": "2767895287",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37839-1269314811.1774676323.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37839-2767895287.1793430559.jpg",
             "+@width": "200",
             "+@height": "141",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37839-1269314811.1774676323.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A37839-2767895287.1793430559.jpg",
                     "+@width": "200",
                     "+@height": "141"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37839-1269314811.1774676323.jpg",
-                    "+@width": "300",
-                    "+@height": "212"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A37839-2767895287.1793430559.jpg",
+                    "+@width": "500",
+                    "+@height": "353"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A37839-2767895287.1793430559.jpg",
+                    "+@width": "600",
+                    "+@height": "424"
                 }
             ]
         },
@@ -126,6 +135,11 @@
             "+content": "<cite>Inherit the Winds</cite> Anime Reveals Theatrical Screening Trailer, Theme Songs, Additional Cast",
             "+@datetime": "2026-09-19T06:20:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-09-19/inherit-the-winds-anime-reveals-theatrical-screening-trailer-theme-songs-additional-cast/.241953"
+        },
+        {
+            "+content": "<cite>Inherit the Winds</cite> Anime Reveals 4 More Cast Members, New Visual",
+            "+@datetime": "2026-10-31T07:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-31/inherit-the-winds-anime-reveals-4-more-cast-members-new-visual/.243373"
         }
     ],
     "staff": [
@@ -172,12 +186,30 @@
     ],
     "cast": [
         {
+            "+@gid": "3420573446",
+            "+@lang": "JA",
+            "role": "Kyūsai Momoyama",
+            "person": {
+                "+content": "Kappei Yamaguchi",
+                "+@id": "277"
+            }
+        },
+        {
             "+@gid": "2231631820",
             "+@lang": "JA",
             "role": "Kamo Serizawa",
             "person": {
                 "+content": "Yasuyuki Kase",
                 "+@id": "2052"
+            }
+        },
+        {
+            "+@gid": "2407814250",
+            "+@lang": "JA",
+            "role": "Nishiki Niimi",
+            "person": {
+                "+content": "Daisuke Hirakawa",
+                "+@id": "2177"
             }
         },
         {
@@ -196,6 +228,15 @@
             "person": {
                 "+content": "Yūichi Nakamura",
                 "+@id": "15878"
+            }
+        },
+        {
+            "+@gid": "3661558860",
+            "+@lang": "JA",
+            "role": "Kisaburō Kawai",
+            "person": {
+                "+content": "Toshiyuki Toyonaga",
+                "+@id": "17817"
             }
         },
         {
@@ -271,6 +312,15 @@
             }
         },
         {
+            "+@gid": "2444522344",
+            "+@lang": "JA",
+            "role": "Toshimaro Yoshida",
+            "person": {
+                "+content": "Toshiki Kumagai",
+                "+@id": "197625"
+            }
+        },
+        {
             "+@gid": "2209485434",
             "+@lang": "JA",
             "role": "Sanosuke Harada",
@@ -299,6 +349,6 @@
         }
     ],
     "+@date-added": "2025-09-13T13:00:05Z",
-    "+@date-last-modified-at": "2026-10-10T05:56:13Z",
-    "+@date-last-updated-at": "2026-10-10T05:56:13Z"
+    "+@date-last-modified-at": "2026-11-09T06:37:30Z",
+    "+@date-last-updated-at": "2026-11-09T06:37:30Z"
 }

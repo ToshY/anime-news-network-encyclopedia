@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Wildcard Alchemist",
     "+@precision": "manga",
-    "+@generated-on": "2026-10-10T05:56:09Z",
+    "+@generated-on": "2026-11-09T06:37:19Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "20744"
@@ -64,16 +64,28 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2025-04-27 (serialized on Manga Up!)",
+            "+content": "4",
+            "+@gid": "1608259533",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2025-04-27 to 2026-10-18 (serialized on Manga Up!)",
             "+@gid": "2038864402",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Manga Up! Global Adds <cite>Dragon and Flower</cite>, '<cite>I Was Sacrificed to a Vampire, But He Spoils Me Instead!</cite>' 1 More Manga",
-        "+@datetime": "2026-09-08T19:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-09-08/manga-up-global-adds-dragon-and-flower-i-was-sacrificed-to-a-vampire-but-he-spoils-me-instead-1-/.241519"
-    },
+    "news": [
+        {
+            "+content": "Manga Up! Global Adds <cite>Dragon and Flower</cite>, '<cite>I Was Sacrificed to a Vampire, But He Spoils Me Instead!</cite>' 1 More Manga",
+            "+@datetime": "2026-09-08T19:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-08/manga-up-global-adds-dragon-and-flower-i-was-sacrificed-to-a-vampire-but-he-spoils-me-instead-1-/.241519"
+        },
+        {
+            "+content": "Writer Skyfarm, Artist Tentashi's <cite>Wildcard Alchemist</cite> Manga Ends",
+            "+@datetime": "2026-10-20T23:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-20/writer-skyfarm-artist-tentashi-wildcard-alchemist-manga-ends/.243019"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3286524725",
@@ -93,5 +105,6 @@
         }
     ],
     "+@date-added": "2026-09-09T02:57:29Z",
-    "+@date-last-updated-at": "2026-10-10T05:56:11Z"
+    "+@date-last-modified-at": "2026-11-09T06:37:21Z",
+    "+@date-last-updated-at": "2026-11-09T06:37:21Z"
 }

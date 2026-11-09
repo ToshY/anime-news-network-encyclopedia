@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Firefly Wedding",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-10T05:56:10Z",
+    "+@generated-on": "2026-11-09T06:31:01Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "28658"
@@ -53,13 +53,53 @@
             "+@lang": "JA"
         },
         {
+            "+content": "action",
+            "+@gid": "646498838",
+            "+@type": "Genres"
+        },
+        {
             "+content": "romance",
             "+@gid": "1383905038",
             "+@type": "Genres"
         },
         {
+            "+content": "assassins",
+            "+@gid": "2132312367",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "gore",
+            "+@gid": "828679051",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "historical",
+            "+@gid": "1206467772",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "samurai",
+            "+@gid": "2220827587",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "swordplay",
+            "+@gid": "3165321407",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "MA",
+            "+@gid": "2172701804",
+            "+@type": "Objectionable content"
+        },
+        {
             "+content": "Satoko, on the surface, appears to be the perfect privileged lady. She's the daughter of a count, beautiful and refined. But in truth, she's living with a terrible heart condition likely to shorten her life, and her stepmother and stepsister hate her, while her father expects her to marry, certain it will secure her happiness. She's willing to go along with her father's wishes, but everything changes when she's kidnapped by a group of assassins hired to kill her. Suddenly, her father's wish for her to wed becomes her best way out of the situation: by proposing to Shinpei, the man slated to kill her. <em class=de-emphasized>(from manga)</em>",
             "+@type": "Plot Summary"
+        },
+        {
+            "+content": "23",
+            "+@gid": "2356452841",
+            "+@type": "Running time"
         },
         {
             "+content": "2026-10-09",
@@ -72,6 +112,52 @@
             "+@type": "Official website",
             "+@lang": "JA",
             "+@href": "https://hotaru-anime.com/"
+        }
+    ],
+    "ratings": {
+        "+@nb_votes": "4",
+        "+@weighted_score": "7.7749"
+    },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "An Unwanted Repayment",
+                "+@gid": "2207408938",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "Tennyo Island",
+                "+@gid": "2629488458",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "A Watchful Rat",
+                "+@gid": "3171656943",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "I'll Set You Free",
+                "+@gid": "2618062386",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "Hurt",
+                "+@gid": "2789360834",
+                "+@lang": "EN"
+            }
         }
     ],
     "news": [
@@ -119,6 +205,31 @@
             "+content": "Crunchyroll Streams <cite>A Tale of the Secret Saint</cite>, <cite>Psyren</cite>, More Anime in India",
             "+@datetime": "2026-10-02T10:51:48Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-10-02/crunchyroll-streams-a-tale-of-the-secret-saint-psyren-more-anime-in-india/.242409"
+        },
+        {
+            "+content": "<cite>Firefly Wedding</cite> TV Anime Casts Kanon Amane",
+            "+@datetime": "2026-10-15T09:37:31Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-15/firefly-wedding-tv-anime-casts-kanon-amane/.242849"
+        },
+        {
+            "+content": "Indian Language Dubs for <cite>The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life</cite>, More Anime to Stream on Crunchyroll",
+            "+@datetime": "2026-10-17T09:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-17/indian-language-dubs-for-the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-more-anime-/.242893"
+        },
+        {
+            "+content": "<cite>Firefly Wedding</cite> TV Anime Casts Kazuyuki Okitsu",
+            "+@datetime": "2026-10-22T18:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-22/firefly-wedding-tv-anime-casts-kazuyuki-okitsu/.243113"
+        },
+        {
+            "+content": "<cite>Firefly Wedding</cite> TV Anime Reveals English Dub Cast, October 23 Debut",
+            "+@datetime": "2026-10-22T20:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-22/firefly-wedding-tv-anime-reveals-english-dub-cast-october-23-debut/.243116"
+        },
+        {
+            "+content": "<cite>Firefly Wedding</cite> TV Anime Casts Natsuko Abe",
+            "+@datetime": "2026-10-29T19:10:36Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-29/firefly-wedding-tv-anime-casts-natsuko-abe/.243336"
         }
     ],
     "staff": [
@@ -213,6 +324,285 @@
     ],
     "cast": [
         {
+            "+@gid": "3071196437",
+            "+@lang": "EN",
+            "role": "Mitsueda",
+            "person": {
+                "+content": "Jason Douglas",
+                "+@id": "1064"
+            }
+        },
+        {
+            "+@gid": "2089070146",
+            "+@lang": "EN",
+            "role": "Jubei Kirigaya",
+            "person": {
+                "+content": "R Bruce Elliott",
+                "+@id": "43217"
+            }
+        },
+        {
+            "+@gid": "2897423392",
+            "+@lang": "EN",
+            "role": "Shinpei Goto",
+            "person": {
+                "+content": "Kieran Flitton",
+                "+@id": "190516"
+            }
+        },
+        {
+            "+@gid": "2117820261",
+            "+@lang": "EN",
+            "role": "Miwako Kirigaya",
+            "person": {
+                "+content": "Jordan Colea",
+                "+@id": "200935"
+            }
+        },
+        {
+            "+@gid": "3284111961",
+            "+@lang": "EN",
+            "role": "Kotaro Ogawa",
+            "person": {
+                "+content": "Ben Stegmair",
+                "+@id": "226251"
+            }
+        },
+        {
+            "+@gid": "3036289003",
+            "+@lang": "EN",
+            "role": "Satoko Kirigaya",
+            "person": {
+                "+content": "Rowan Gilvie",
+                "+@id": "228446"
+            }
+        },
+        {
+            "+@gid": "1984422580",
+            "+@lang": "ES",
+            "role": "Jubei Kirigaya",
+            "person": {
+                "+content": "Jorge Santos",
+                "+@id": "24168"
+            }
+        },
+        {
+            "+@gid": "1935854916",
+            "+@lang": "ES",
+            "role": "Jubei Kirigaya",
+            "person": {
+                "+content": "Carlos Vicente",
+                "+@id": "52341"
+            }
+        },
+        {
+            "+@gid": "2767383324",
+            "+@lang": "ES",
+            "role": "Mitsueda",
+            "person": {
+                "+content": "José Garcia Tos",
+                "+@id": "71215"
+            }
+        },
+        {
+            "+@gid": "3036791197",
+            "+@lang": "ES",
+            "role": "Mitsueda",
+            "person": {
+                "+content": "Julio Bernal",
+                "+@id": "120332"
+            }
+        },
+        {
+            "+@gid": "1404228138",
+            "+@lang": "ES",
+            "role": "Kotaro Ogawa",
+            "person": {
+                "+content": "Luis Navarro",
+                "+@id": "133270"
+            }
+        },
+        {
+            "+@gid": "2068831010",
+            "+@lang": "ES",
+            "role": "Satoko Kirigaya",
+            "person": {
+                "+content": "Sara Gómez",
+                "+@id": "183869"
+            }
+        },
+        {
+            "+@gid": "960110010",
+            "+@lang": "ES",
+            "role": "Shinpei Goto",
+            "person": {
+                "+content": "Sergi Mani",
+                "+@id": "204961"
+            }
+        },
+        {
+            "+@gid": "2170140200",
+            "+@lang": "ES",
+            "role": "Satoko Kirigaya",
+            "person": {
+                "+content": "Polly Huerta",
+                "+@id": "208905"
+            }
+        },
+        {
+            "+@gid": "1489556956",
+            "+@lang": "ES",
+            "role": "Miwako Kirigaya",
+            "person": {
+                "+content": "Melissa Hernández",
+                "+@id": "208960"
+            }
+        },
+        {
+            "+@gid": "3257363483",
+            "+@lang": "ES",
+            "role": "Miwako Kirigaya",
+            "person": {
+                "+content": "Ainhoa Maiquez",
+                "+@id": "221488"
+            }
+        },
+        {
+            "+@gid": "2531510582",
+            "+@lang": "ES",
+            "role": "Shinpei Goto",
+            "person": {
+                "+content": "Dion Gonzalez",
+                "+@id": "244713"
+            }
+        },
+        {
+            "+@gid": "1307461577",
+            "+@lang": "FR",
+            "role": "Jūbei Kirigaya",
+            "person": {
+                "+content": "Eric LeBlanc",
+                "+@id": "5103"
+            }
+        },
+        {
+            "+@gid": "1927359476",
+            "+@lang": "FR",
+            "role": "Shinpei Gotō",
+            "person": {
+                "+content": "Benjamin Pascal",
+                "+@id": "43197"
+            }
+        },
+        {
+            "+@gid": "2642089886",
+            "+@lang": "FR",
+            "role": "Satoko Kirigaya",
+            "person": {
+                "+content": "Noémie Orphelin",
+                "+@id": "71833"
+            }
+        },
+        {
+            "+@gid": "2532914348",
+            "+@lang": "FR",
+            "role": "Kōtarō Ogawa",
+            "person": {
+                "+content": "Adrien Larmande",
+                "+@id": "154105"
+            }
+        },
+        {
+            "+@gid": "1840556105",
+            "+@lang": "FR",
+            "role": "Mitsueda",
+            "person": {
+                "+content": "Gilduin Tissier",
+                "+@id": "173550"
+            }
+        },
+        {
+            "+@gid": "3129179569",
+            "+@lang": "FR",
+            "role": "Miwako Kirigaya",
+            "person": {
+                "+content": "Valerie Bescht",
+                "+@id": "189369"
+            }
+        },
+        {
+            "+@gid": "2602131956",
+            "+@lang": "IT",
+            "role": "Jubei Kirigaya",
+            "person": {
+                "+content": "Marco Balzarotti",
+                "+@id": "25937"
+            }
+        },
+        {
+            "+@gid": "2692774705",
+            "+@lang": "IT",
+            "role": "Satoko Kirigaya",
+            "person": {
+                "+content": "Letizia Ciampa",
+                "+@id": "27425"
+            }
+        },
+        {
+            "+@gid": "3349769217",
+            "+@lang": "IT",
+            "role": "Shinpei Gotō",
+            "person": {
+                "+content": "Manuel Meli",
+                "+@id": "59722"
+            }
+        },
+        {
+            "+@gid": "2334962522",
+            "+@lang": "IT",
+            "role": "Mitsueda",
+            "person": {
+                "+content": "Riccardo Scarafoni",
+                "+@id": "146902"
+            }
+        },
+        {
+            "+@gid": "2964221398",
+            "+@lang": "IT",
+            "role": "Miwako Kirigaya",
+            "person": {
+                "+content": "Beatrice Maruffa",
+                "+@id": "154682"
+            }
+        },
+        {
+            "+@gid": "1175852557",
+            "+@lang": "IT",
+            "role": "Kōtarō Ogawa",
+            "person": {
+                "+content": "Mattia Billi",
+                "+@id": "226693"
+            }
+        },
+        {
+            "+@gid": "2452931203",
+            "+@lang": "JA",
+            "role": "Jūbei Kirigaya",
+            "person": {
+                "+content": "Kazuhiro Yamaji",
+                "+@id": "10484"
+            }
+        },
+        {
+            "+@gid": "581137026",
+            "+@lang": "JA",
+            "role": "Aoi",
+            "person": {
+                "+content": "Natsuko Abe",
+                "+@id": "39234"
+            }
+        },
+        {
             "+@gid": "2479792395",
             "+@lang": "JA",
             "role": "Mitsueda",
@@ -228,6 +618,15 @@
             "person": {
                 "+content": "Kōki Uchiyama",
                 "+@id": "56091"
+            }
+        },
+        {
+            "+@gid": "2212539429",
+            "+@lang": "JA",
+            "role": "Eishin Nitobe",
+            "person": {
+                "+content": "Kazuyuki Okitsu",
+                "+@id": "67851"
             }
         },
         {
@@ -247,6 +646,24 @@
                 "+content": "Kent Itō",
                 "+@id": "146113"
             }
+        },
+        {
+            "+@gid": "2044575934",
+            "+@lang": "JA",
+            "role": "Yukari",
+            "person": {
+                "+content": "Kanon Amane",
+                "+@id": "203905"
+            }
+        },
+        {
+            "+@gid": "3655511517",
+            "+@lang": "JA",
+            "role": "Miwako Kirigaya",
+            "person": {
+                "+content": "Hika Tsukishiro",
+                "+@id": "222908"
+            }
         }
     ],
     "credit": {
@@ -258,6 +675,6 @@
         }
     },
     "+@date-added": "2026-01-11T15:25:43Z",
-    "+@date-last-modified-at": "2026-10-10T05:56:13Z",
-    "+@date-last-updated-at": "2026-10-10T05:56:13Z"
+    "+@date-last-modified-at": "2026-11-09T06:37:30Z",
+    "+@date-last-updated-at": "2026-11-09T06:37:30Z"
 }
