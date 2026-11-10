@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Love Live! Nijigasaki Gakuen School Idol Dōkōkai Kanketsu-hen Saishūshō",
     "+@precision": "movie",
-    "+@generated-on": "2026-10-10T23:35:08Z",
+    "+@generated-on": "2026-11-10T02:45:22Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "35301"
@@ -13,19 +13,24 @@
         {
             "+@gid": "3957236357",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38276-3957236357.1768192355.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38276-3957236357.1792196509.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38276-3957236357.1768192355.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38276-3957236357.1792196509.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38276-3957236357.1768192355.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38276-3957236357.1792196509.jpg",
                     "+@width": "424",
                     "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38276-3957236357.1792196509.jpg",
+                    "+@width": "970",
+                    "+@height": "1372"
                 }
             ]
         },
@@ -42,9 +47,13 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2026 (winter)",
-            "+@gid": "1270348779",
+            "+content": "2027-02-05",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "2027-02-05 (Japan)",
+            "+@gid": "2418875998",
+            "+@type": "Premiere date"
         },
         {
             "+content": "映画『ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 最終章』",
@@ -54,11 +63,18 @@
             "+@href": "https://www.lovelive-anime.jp/nijigasaki/movie/Chapter3/"
         }
     ],
-    "news": {
-        "+content": "Final <cite>Love Live! Nijigasaki High School Idol Club</cite> Anime Film Opens Next Winter",
-        "+@datetime": "2026-01-12T04:12:49Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-01-11/final-love-live-nijigasaki-high-school-idol-club-anime-film-opens-next-winter/.232969"
-    },
+    "news": [
+        {
+            "+content": "Final <cite>Love Live! Nijigasaki High School Idol Club</cite> Anime Film Opens Next Winter",
+            "+@datetime": "2026-01-12T04:12:49Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-01-11/final-love-live-nijigasaki-high-school-idol-club-anime-film-opens-next-winter/.232969"
+        },
+        {
+            "+content": "Final <cite>Love Live! Nijigasaki High School Idol Club</cite> Anime Film's Teaser Unveils February 5 Opening",
+            "+@datetime": "2026-10-16T15:33:12Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-16/final-love-live-nijigasaki-high-school-idol-club-anime-film-teaser-unveils-february-5-opening/.242898"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2602675909",
@@ -74,6 +90,78 @@
             "person": {
                 "+content": "Jin Tanaka",
                 "+@id": "153258"
+            }
+        },
+        {
+            "+@gid": "2195883382",
+            "task": "Music",
+            "person": {
+                "+content": "Naoki Endō",
+                "+@id": "204073"
+            }
+        },
+        {
+            "+@gid": "2860845250",
+            "task": "Music",
+            "person": {
+                "+content": "EMME",
+                "+@id": "287517"
+            }
+        },
+        {
+            "+@gid": "1380395647",
+            "task": "Original Concept",
+            "person": {
+                "+content": "Sakurako Kimino",
+                "+@id": "30082"
+            }
+        },
+        {
+            "+@gid": "2339997759",
+            "task": "Original creator",
+            "person": {
+                "+content": "Hajime Yatate",
+                "+@id": "19"
+            }
+        },
+        {
+            "+@gid": "1791093439",
+            "task": "Character Design",
+            "person": {
+                "+content": "Takumi Yokota",
+                "+@id": "77988"
+            }
+        },
+        {
+            "+@gid": "1850616225",
+            "task": "Art Director",
+            "person": {
+                "+content": "Taketo Gonpei",
+                "+@id": "157290"
+            }
+        },
+        {
+            "+@gid": "1704431206",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Yukio Nagasaki",
+                "+@id": "3079"
+            }
+        },
+        {
+            "+@gid": "3491571475",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Tetsuro Kodama",
+                "+@id": "87564"
+            }
+        },
+        {
+            "+@gid": "3449539901",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Daiki Sugiyama",
+                "+@id": "98473"
             }
         }
     ],
@@ -205,5 +293,6 @@
         }
     },
     "+@date-added": "2026-01-11T23:31:02Z",
-    "+@date-last-updated-at": "2026-10-10T23:35:14Z"
+    "+@date-last-modified-at": "2026-11-10T02:45:27Z",
+    "+@date-last-updated-at": "2026-11-10T02:45:27Z"
 }
