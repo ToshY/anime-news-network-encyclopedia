@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Robot Girls NEO",
     "+@precision": "ONA",
-    "+@generated-on": "2026-10-08T06:05:43Z",
+    "+@generated-on": "2026-11-10T12:41:21Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "16677"
@@ -75,8 +75,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "5.0331"
+        "+@nb_votes": "6",
+        "+@weighted_score": "4.2357"
     },
     "episode": [
         {
@@ -235,15 +235,25 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "733358998",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Toei Animation",
-            "+@id": "145"
+    "credit": [
+        {
+            "+@gid": "733358998",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Toei Animation",
+                "+@id": "145"
+            }
+        },
+        {
+            "+@gid": "3300791343",
+            "task": "Production",
+            "company": {
+                "+content": "Toei Animation",
+                "+@id": "145"
+            }
         }
-    },
+    ],
     "+@date-added": "2018-08-09T10:34:40Z",
-    "+@date-last-modified-at": "2026-10-08T06:08:48Z",
-    "+@date-last-updated-at": "2026-10-08T06:08:48Z"
+    "+@date-last-modified-at": "2026-11-10T12:41:26Z",
+    "+@date-last-updated-at": "2026-11-10T12:41:26Z"
 }
