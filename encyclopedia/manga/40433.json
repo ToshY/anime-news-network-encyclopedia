@@ -4,7 +4,11 @@
     "+@type": "manga",
     "+@name": "Amazoness Kiss",
     "+@precision": "manga",
-    "+@generated-on": "2026-10-13T11:50:28Z",
+    "+@generated-on": "2026-11-12T16:50:08Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "31723"
+    },
     "info": [
         {
             "+@gid": "2303437722",
@@ -63,6 +67,18 @@
             "+content": "3",
             "+@gid": "2291946314",
             "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2017-10-27 to 2020-08-28 (serialized on Torch web)",
+            "+@gid": "3522159171",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "トーチweb アマゾネス・キス",
+            "+@gid": "3462708525",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://to-ti.in/product/ishitsuyo"
         }
     ],
     "news": {
@@ -79,5 +95,6 @@
         }
     },
     "+@date-added": "2026-08-13T10:04:09Z",
-    "+@date-last-updated-at": "2026-10-13T11:50:30Z"
+    "+@date-last-modified-at": "2026-11-12T16:50:11Z",
+    "+@date-last-updated-at": "2026-11-12T16:50:11Z"
 }
