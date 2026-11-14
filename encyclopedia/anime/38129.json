@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Psyren",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-15T19:54:18Z",
+    "+@generated-on": "2026-11-14T20:44:21Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "11021"
@@ -52,9 +52,49 @@
             "+@type": "Genres"
         },
         {
+            "+content": "psychological",
+            "+@gid": "3688337553",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "romance",
+            "+@gid": "3258132182",
+            "+@type": "Genres"
+        },
+        {
             "+content": "science fiction",
             "+@gid": "3463268660",
             "+@type": "Genres"
+        },
+        {
+            "+content": "supernatural",
+            "+@gid": "1471914705",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "thriller",
+            "+@gid": "1203747304",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "monsters",
+            "+@gid": "3804569396",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "superpowers",
+            "+@gid": "3767436020",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "survival game",
+            "+@gid": "2480237752",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "927278712",
+            "+@type": "Objectionable content"
         },
         {
             "+content": "One day, high schooler Ageha Yoshina picks up a mysterious \"red phone card\" left behind in a public telephone booth. A few days later, his childhood friend and classmate, Sakurako Amamiya, who possessed the same card, suddenly vanishes without a trace. In search of her, Ageha finds himself drawn into the rumors surrounding a nationwide string of mysterious disappearances, said to be the work of a secret organization known only as \"Psyren.\" When he accesses the group, a deadly game begins, one that will change his fate forever.",
@@ -97,8 +137,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "6",
-        "+@weighted_score": "5.5238"
+        "+@nb_votes": "8",
+        "+@weighted_score": "4.4335"
     },
     "news": [
         {
@@ -145,6 +185,21 @@
             "+content": "Crunchyroll Streams <cite>A Tale of the Secret Saint</cite>, <cite>Psyren</cite>, More Anime in India",
             "+@datetime": "2026-10-02T10:51:48Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-10-02/crunchyroll-streams-a-tale-of-the-secret-saint-psyren-more-anime-in-india/.242409"
+        },
+        {
+            "+content": "Indian Language Dubs for <cite>The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life</cite>, More Anime to Stream on Crunchyroll",
+            "+@datetime": "2026-10-17T09:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-17/indian-language-dubs-for-the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-more-anime-/.242893"
+        },
+        {
+            "+content": "Crunchyroll Adds <cite>Psyren</cite> Anime's English Dub",
+            "+@datetime": "2026-10-19T10:14:35Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-19/crunchyroll-adds-psyren-anime-english-dub/.242968"
+        },
+        {
+            "+content": "<cite>Psyren</cite> TV Anime Casts Reiko Suzuki, Ayumu Murase",
+            "+@datetime": "2026-10-22T16:55:48Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-22/psyren-tv-anime-casts-reiko-suzuki-ayumu-murase/.243111"
         }
     ],
     "staff": [
@@ -303,12 +358,156 @@
     ],
     "cast": [
         {
+            "+@gid": "2916564527",
+            "+@lang": "EN",
+            "role": "Elmore Tenjuin",
+            "person": {
+                "+content": "Wendy Powell",
+                "+@id": "10070"
+            }
+        },
+        {
+            "+@gid": "2890201960",
+            "+@lang": "EN",
+            "role": "Matsuri Yagumo",
+            "person": {
+                "+content": "Luci Christian",
+                "+@id": "12493"
+            }
+        },
+        {
+            "+@gid": "1437334985",
+            "+@lang": "EN",
+            "role": "Van Tenjuin",
+            "person": {
+                "+content": "Madeleine Morris",
+                "+@id": "150924"
+            }
+        },
+        {
+            "+@gid": "2287474255",
+            "+@lang": "EN",
+            "role": "Sakurako Amamiya",
+            "person": {
+                "+content": "Kelly Greenshield",
+                "+@id": "174984"
+            }
+        },
+        {
+            "+@gid": "2025477567",
+            "+@lang": "EN",
+            "role": "Hiryu Asaga",
+            "person": {
+                "+content": "Cory Yee",
+                "+@id": "207885"
+            }
+        },
+        {
+            "+@gid": "2478440212",
+            "+@lang": "EN",
+            "role": "Kabuto Kirisaki",
+            "person": {
+                "+content": "Ryan Negron",
+                "+@id": "216167"
+            }
+        },
+        {
+            "+@gid": "878662958",
+            "+@lang": "EN",
+            "role": "Oboro Mochizuki",
+            "person": {
+                "+content": "Ethan C.",
+                "+@id": "253978"
+            }
+        },
+        {
+            "+@gid": "1869115437",
+            "+@lang": "EN",
+            "role": "Ageha Yoshina",
+            "person": {
+                "+content": "Dylan Ray Owen",
+                "+@id": "282192"
+            }
+        },
+        {
+            "+@gid": "1707923223",
+            "+@lang": "ES",
+            "role": "Ageha Yoshina",
+            "person": {
+                "+content": "José Luis Piedra",
+                "+@id": "150280"
+            }
+        },
+        {
+            "+@gid": "2170160776",
+            "+@lang": "ES",
+            "role": "Sukarako Amamiya",
+            "person": {
+                "+content": "Casandra Acevedo",
+                "+@id": "177169"
+            }
+        },
+        {
+            "+@gid": "2334717402",
+            "+@lang": "ES",
+            "role": "Hiryu Asaga",
+            "person": {
+                "+content": "Ernesto Medrano",
+                "+@id": "203483"
+            }
+        },
+        {
+            "+@gid": "3184999723",
+            "+@lang": "FR",
+            "role": "Matsuri Yagumo",
+            "person": {
+                "+content": "Claire Tefnin",
+                "+@id": "53859"
+            }
+        },
+        {
+            "+@gid": "3154254011",
+            "+@lang": "FR",
+            "role": "Hiryû Asaga",
+            "person": {
+                "+content": "Marc Weiss",
+                "+@id": "74890"
+            }
+        },
+        {
+            "+@gid": "1553596605",
+            "+@lang": "FR",
+            "role": "Sakurako Amamiya",
+            "person": {
+                "+content": "Aaricia Dubois",
+                "+@id": "86544"
+            }
+        },
+        {
+            "+@gid": "595246178",
+            "+@lang": "FR",
+            "role": "Ageha Yoshina",
+            "person": {
+                "+content": "Arthur Dubois",
+                "+@id": "213181"
+            }
+        },
+        {
             "+@gid": "1013561982",
             "+@lang": "JA",
             "role": "Dolkey",
             "person": {
                 "+content": "Nobuyuki Hiyama",
                 "+@id": "1497"
+            }
+        },
+        {
+            "+@gid": "2756255555",
+            "+@lang": "JA",
+            "role": "Elmore Tenjuin",
+            "person": {
+                "+content": "Reiko Suzuki",
+                "+@id": "1576"
             }
         },
         {
@@ -327,6 +526,15 @@
             "person": {
                 "+content": "Sōma Saitō",
                 "+@id": "104960"
+            }
+        },
+        {
+            "+@gid": "2422327122",
+            "+@lang": "JA",
+            "role": "Van Tenjuin",
+            "person": {
+                "+content": "Ayumu Murase",
+                "+@id": "113308"
             }
         },
         {
@@ -433,6 +641,6 @@
         }
     ],
     "+@date-added": "2025-12-14T18:28:33Z",
-    "+@date-last-modified-at": "2026-10-15T19:54:23Z",
-    "+@date-last-updated-at": "2026-10-15T19:54:23Z"
+    "+@date-last-modified-at": "2026-11-14T20:44:27Z",
+    "+@date-last-updated-at": "2026-11-14T20:44:27Z"
 }

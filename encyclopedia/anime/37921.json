@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Magic Knight Rayearth",
     "+@precision": "TV 2026",
-    "+@generated-on": "2026-10-15T19:54:18Z",
+    "+@generated-on": "2026-11-14T20:44:21Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "1565"
@@ -47,6 +47,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "adventure",
+            "+@gid": "2864305553",
+            "+@type": "Genres"
+        },
+        {
             "+content": "fantasy",
             "+@gid": "3217878266",
             "+@type": "Genres"
@@ -55,6 +60,21 @@
             "+content": "magical girl",
             "+@gid": "2429410383",
             "+@type": "Themes"
+        },
+        {
+            "+content": "mecha",
+            "+@gid": "3962704566",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "monsters",
+            "+@gid": "1819749119",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "2647765652",
+            "+@type": "Objectionable content"
         },
         {
             "+content": "Hikaru Shidou, Umi Ryuuzaki, and Fuu Hououji aren't from Cephiro. While on a school field trip to the Tokyo Tower, the three girls' minds are on anything but different worlds filled with magic and wonder. That is, until Princess Emeraude, the Pillar of Cephiro, cries out for the Magic Knights to save her world--and that just happens to be those three.",
@@ -95,9 +115,35 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "4",
-        "+@weighted_score": "7.0021"
+        "+@nb_votes": "6",
+        "+@weighted_score": "6.5097"
     },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "From Another World",
+                "+@gid": "3712279170",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "The Legend Begins",
+                "+@gid": "2334402167",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "Unmei Kyōdōtai",
+                "+@gid": "2652018353",
+                "+@lang": "JA"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "CLAMP's New <cite>Magic Knight Rayearth</cite> Anime to Air in 2026",
@@ -138,6 +184,16 @@
             "+content": "Ani-One Asia Streams <cite>'Tetsuryō! meet with Tetsudō Musume'</cite>, 4 More Anime in India",
             "+@datetime": "2026-10-12T08:57:25Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-10-12/ani-one-asia-streams-tetsuryo-meet-with-tetsudo-musume-4-more-anime-in-india/.242739"
+        },
+        {
+            "+content": "<cite>Magic Knight Rayearth</cite>, <cite>Sasaki and Peeps</cite> 2nd Season Anime Reveal English Dub Debuts, Casts",
+            "+@datetime": "2026-10-21T16:31:44Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-21/magic-knight-rayearth-sasaki-and-peeps-2nd-season-anime-reveal-english-dub-debuts-casts/.243074"
+        },
+        {
+            "+content": "Crunchyroll Screens <cite>The Guy She Was Interested In Wasn't a Guy at All</cite>, <cite>Here U Are</cite>, <cite>Bless</cite> Premieres at Anime Frontier",
+            "+@datetime": "2026-11-11T21:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-11-11/crunchyroll-screens-the-guy-she-was-interested-in-wasnt-a-guy-at-all-here-u-are-bless-premieres-at-/.243735"
         }
     ],
     "staff": [
@@ -155,6 +211,110 @@
             "person": {
                 "+content": "Shigeru Murakoshi",
                 "+@id": "128991"
+            }
+        },
+        {
+            "+@gid": "2100786988",
+            "task": "Script",
+            "person": {
+                "+content": "Kazuhiko Inukai",
+                "+@id": "18596"
+            }
+        },
+        {
+            "+@gid": "2716507182",
+            "task": "Script",
+            "person": {
+                "+content": "Shigeru Murakoshi",
+                "+@id": "128991"
+            }
+        },
+        {
+            "+@gid": "2274509541",
+            "task": "Script",
+            "person": {
+                "+content": "Kō Yoneyama",
+                "+@id": "241201"
+            }
+        },
+        {
+            "+@gid": "2423025212",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takayuki Sano",
+                "+@id": "54233"
+            }
+        },
+        {
+            "+@gid": "2354407906",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hisatoshi Shimizu",
+                "+@id": "74492"
+            }
+        },
+        {
+            "+@gid": "827577754",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yui Miura",
+                "+@id": "188841"
+            }
+        },
+        {
+            "+@gid": "2134575227",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kōki Aoshima",
+                "+@id": "263645"
+            }
+        },
+        {
+            "+@gid": "1114570568",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yuuji Kanzaki",
+                "+@id": "36384"
+            }
+        },
+        {
+            "+@gid": "2096898152",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takayuki Sano",
+                "+@id": "54233"
+            }
+        },
+        {
+            "+@gid": "2461700452",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Saki Fujishiro",
+                "+@id": "153042"
+            }
+        },
+        {
+            "+@gid": "1527018269",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yui Miura",
+                "+@id": "188841"
+            }
+        },
+        {
+            "+@gid": "201870405",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Gota Yoshimoto",
+                "+@id": "242082"
+            }
+        },
+        {
+            "+@gid": "1007578096",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Miyu Amano",
+                "+@id": "268470"
             }
         },
         {
@@ -206,11 +366,171 @@
             }
         },
         {
+            "+@gid": "1581793394",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Takahiro Yoshimatsu",
+                "+@id": "71"
+            }
+        },
+        {
             "+@gid": "2804196094",
             "task": "Chief Animation Director",
             "person": {
                 "+content": "Satomi Watabe",
                 "+@id": "81796"
+            }
+        },
+        {
+            "+@gid": "2239068283",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takahiro Yoshimatsu",
+                "+@id": "71"
+            }
+        },
+        {
+            "+@gid": "1403014189",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hajime Yoshida",
+                "+@id": "2247"
+            }
+        },
+        {
+            "+@gid": "2887115803",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kyōko Kotani",
+                "+@id": "40347"
+            }
+        },
+        {
+            "+@gid": "1668975054",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kei Ajiki",
+                "+@id": "45255"
+            }
+        },
+        {
+            "+@gid": "2584412363",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nanako Ninomiya",
+                "+@id": "101417"
+            }
+        },
+        {
+            "+@gid": "2538979638",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mayuko Yamamoto",
+                "+@id": "102497"
+            }
+        },
+        {
+            "+@gid": "3139681233",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūki Kitajima",
+                "+@id": "110545"
+            }
+        },
+        {
+            "+@gid": "1805821060",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Miyuki Sugawara",
+                "+@id": "112413"
+            }
+        },
+        {
+            "+@gid": "1914567606",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Emi Kojima",
+                "+@id": "112440"
+            }
+        },
+        {
+            "+@gid": "2095871118",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Asumi Katō",
+                "+@id": "124629"
+            }
+        },
+        {
+            "+@gid": "1893754867",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuki Muraosa",
+                "+@id": "131709"
+            }
+        },
+        {
+            "+@gid": "2986167376",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Min Ki Han",
+                "+@id": "132846"
+            }
+        },
+        {
+            "+@gid": "2875824738",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ting Xuan Jian",
+                "+@id": "195971"
+            }
+        },
+        {
+            "+@gid": "2276416289",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Masataka Akai",
+                "+@id": "196277"
+            }
+        },
+        {
+            "+@gid": "1964981524",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Momo Amai",
+                "+@id": "237925"
+            }
+        },
+        {
+            "+@gid": "1952472340",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Seung Hee Ha",
+                "+@id": "243114"
+            }
+        },
+        {
+            "+@gid": "3543607299",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Koromo Kawai",
+                "+@id": "271248"
+            }
+        },
+        {
+            "+@gid": "2037575467",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wei Cheng Xiao",
+                "+@id": "297977"
+            }
+        },
+        {
+            "+@gid": "1940609550",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kele Tang",
+                "+@id": "304016"
             }
         },
         {
@@ -288,6 +608,402 @@
     ],
     "cast": [
         {
+            "+@gid": "1677387130",
+            "+@lang": "DE",
+            "role": "Hikaru Shidô",
+            "person": {
+                "+content": "Jana Dunja Gries",
+                "+@id": "130831"
+            }
+        },
+        {
+            "+@gid": "2267623107",
+            "+@lang": "DE",
+            "role": "Umi Ryūzaki",
+            "person": {
+                "+content": "Annika Tenter",
+                "+@id": "150711"
+            }
+        },
+        {
+            "+@gid": "2301880486",
+            "+@lang": "DE",
+            "role": "Fuu Hōōji",
+            "person": {
+                "+content": "Eleni Möller",
+                "+@id": "180924"
+            }
+        },
+        {
+            "+@gid": "2580684348",
+            "+@lang": "EN",
+            "role": "Mokona",
+            "person": {
+                "+content": "Carrie Savage",
+                "+@id": "7107"
+            }
+        },
+        {
+            "+@gid": "1754659457",
+            "+@lang": "EN",
+            "role": "Emeraude",
+            "person": {
+                "+content": "Caitlin Glass",
+                "+@id": "29271"
+            }
+        },
+        {
+            "+@gid": "1187453288",
+            "+@lang": "EN",
+            "role": "Lafarga",
+            "person": {
+                "+content": "Christopher Wehkamp",
+                "+@id": "112286"
+            }
+        },
+        {
+            "+@gid": "2017402141",
+            "+@lang": "EN",
+            "role": "Clef",
+            "person": {
+                "+content": "Jacob Hopkins",
+                "+@id": "113240"
+            }
+        },
+        {
+            "+@gid": "2310328143",
+            "+@lang": "EN",
+            "role": "Umi Ryuuzaki",
+            "person": {
+                "+content": "Bryn Apprill",
+                "+@id": "126375"
+            }
+        },
+        {
+            "+@gid": "1760323381",
+            "+@lang": "EN",
+            "role": "Presea",
+            "person": {
+                "+content": "Morgan Lauré",
+                "+@id": "157958"
+            }
+        },
+        {
+            "+@gid": "2013329450",
+            "+@lang": "EN",
+            "role": "Ferio",
+            "person": {
+                "+content": "Ry McKeand",
+                "+@id": "171465"
+            }
+        },
+        {
+            "+@gid": "3101084875",
+            "+@lang": "EN",
+            "role": "Fuu Hououji",
+            "person": {
+                "+content": "Kelly Greenshield",
+                "+@id": "174984"
+            }
+        },
+        {
+            "+@gid": "2295843626",
+            "+@lang": "EN",
+            "role": "Caldina",
+            "person": {
+                "+content": "Cassie Ewulu",
+                "+@id": "178360"
+            }
+        },
+        {
+            "+@gid": "1776702487",
+            "+@lang": "EN",
+            "role": "Ascot",
+            "person": {
+                "+content": "Sarah Roach",
+                "+@id": "184047"
+            }
+        },
+        {
+            "+@gid": "306144051",
+            "+@lang": "EN",
+            "role": "Zagato",
+            "person": {
+                "+content": "Bradley Gareth",
+                "+@id": "213125"
+            }
+        },
+        {
+            "+@gid": "2518839957",
+            "+@lang": "EN",
+            "role": "Alcyone",
+            "person": {
+                "+content": "Erin Lundquist",
+                "+@id": "241092"
+            }
+        },
+        {
+            "+@gid": "2522147927",
+            "+@lang": "EN",
+            "role": "Hikaru Shidou",
+            "person": {
+                "+content": "Rebecca Chiara Marano",
+                "+@id": "251386"
+            }
+        },
+        {
+            "+@gid": "1070663258",
+            "+@lang": "ES",
+            "role": "Zagato",
+            "person": {
+                "+content": "Cesc Martínez",
+                "+@id": "68581"
+            }
+        },
+        {
+            "+@gid": "2252654231",
+            "+@lang": "ES",
+            "role": "Umi Ryuzaki",
+            "person": {
+                "+content": "Irene Miras",
+                "+@id": "164226"
+            }
+        },
+        {
+            "+@gid": "748609268",
+            "+@lang": "ES",
+            "role": "Caldina",
+            "person": {
+                "+content": "Conchi Ramírez",
+                "+@id": "180134"
+            }
+        },
+        {
+            "+@gid": "642267167",
+            "+@lang": "ES",
+            "role": "Hikaru Shido",
+            "person": {
+                "+content": "Laia Vidal",
+                "+@id": "189750"
+            }
+        },
+        {
+            "+@gid": "3836865644",
+            "+@lang": "ES",
+            "role": "Alcyone",
+            "person": {
+                "+content": "Àngels Ribalta",
+                "+@id": "191748"
+            }
+        },
+        {
+            "+@gid": "1958122979",
+            "+@lang": "ES",
+            "role": "Fuu Hooji",
+            "person": {
+                "+content": "Ainhoa Maiquez",
+                "+@id": "221488"
+            }
+        },
+        {
+            "+@gid": "2396883493",
+            "+@lang": "ES",
+            "role": "Clef",
+            "person": {
+                "+content": "Adrián Pineda",
+                "+@id": "230202"
+            }
+        },
+        {
+            "+@gid": "710104906",
+            "+@lang": "ES",
+            "role": "Emeraude",
+            "person": {
+                "+content": "Laura Montero",
+                "+@id": "249789"
+            }
+        },
+        {
+            "+@gid": "1841656620",
+            "+@lang": "FR",
+            "role": "Alcyone",
+            "person": {
+                "+content": "Claire Tefnin",
+                "+@id": "53859"
+            }
+        },
+        {
+            "+@gid": "1886875236",
+            "+@lang": "FR",
+            "role": "Fū Hōōji",
+            "person": {
+                "+content": "Mélissa Windal",
+                "+@id": "126807"
+            }
+        },
+        {
+            "+@gid": "3390194946",
+            "+@lang": "FR",
+            "role": "Caldina",
+            "person": {
+                "+content": "Alayin Dubois",
+                "+@id": "134762"
+            }
+        },
+        {
+            "+@gid": "623063834",
+            "+@lang": "FR",
+            "role": "Umi Ryūzaki",
+            "person": {
+                "+content": "Shérine Seyad",
+                "+@id": "135611"
+            }
+        },
+        {
+            "+@gid": "2614079319",
+            "+@lang": "FR",
+            "role": "Presea",
+            "person": {
+                "+content": "Sophie Pyronnet",
+                "+@id": "152789"
+            }
+        },
+        {
+            "+@gid": "2629220016",
+            "+@lang": "FR",
+            "role": "Zagato",
+            "person": {
+                "+content": "Quentin Minon",
+                "+@id": "164176"
+            }
+        },
+        {
+            "+@gid": "2447930695",
+            "+@lang": "FR",
+            "role": "Hikaru Shidô",
+            "person": {
+                "+content": "Sophia Atman",
+                "+@id": "172710"
+            }
+        },
+        {
+            "+@gid": "2424915344",
+            "+@lang": "FR",
+            "role": "Rafaga",
+            "person": {
+                "+content": "Jonathan Simon",
+                "+@id": "176972"
+            }
+        },
+        {
+            "+@gid": "1788867511",
+            "+@lang": "FR",
+            "role": "Princesse Émeraude",
+            "person": {
+                "+content": "Catherine Hanotiau",
+                "+@id": "189972"
+            }
+        },
+        {
+            "+@gid": "789123670",
+            "+@lang": "FR",
+            "role": "Clef",
+            "person": {
+                "+content": "Matteo Marchese",
+                "+@id": "214002"
+            }
+        },
+        {
+            "+@gid": "1232842637",
+            "+@lang": "FR",
+            "role": "Ascot",
+            "person": {
+                "+content": "Alexandre Moxhet",
+                "+@id": "303882"
+            }
+        },
+        {
+            "+@gid": "1945651078",
+            "+@lang": "IT",
+            "role": "Alcyone",
+            "person": {
+                "+content": "Perla Liberatori",
+                "+@id": "25901"
+            }
+        },
+        {
+            "+@gid": "1969370360",
+            "+@lang": "IT",
+            "role": "Hikaru Shidō",
+            "person": {
+                "+content": "Lucrezia Marricchi",
+                "+@id": "51079"
+            }
+        },
+        {
+            "+@gid": "2337498694",
+            "+@lang": "IT",
+            "role": "Zagato",
+            "person": {
+                "+content": "Gianluca Crisafi",
+                "+@id": "53698"
+            }
+        },
+        {
+            "+@gid": "2791307065",
+            "+@lang": "IT",
+            "role": "Guru Clef",
+            "person": {
+                "+content": "Alex Polidori",
+                "+@id": "57531"
+            }
+        },
+        {
+            "+@gid": "2218693762",
+            "+@lang": "IT",
+            "role": "Principessa Emeraude",
+            "person": {
+                "+content": "Valentina Favazza",
+                "+@id": "61334"
+            }
+        },
+        {
+            "+@gid": "2740546845",
+            "+@lang": "IT",
+            "role": "Presea",
+            "person": {
+                "+content": "Emanuela Ionica",
+                "+@id": "113996"
+            }
+        },
+        {
+            "+@gid": "3020982016",
+            "+@lang": "IT",
+            "role": "Umi Ryuzaki",
+            "person": {
+                "+content": "Giorgia Brunori",
+                "+@id": "163035"
+            }
+        },
+        {
+            "+@gid": "2195860355",
+            "+@lang": "IT",
+            "role": "Fu Hooji",
+            "person": {
+                "+content": "Luisa D'Aprile",
+                "+@id": "183853"
+            }
+        },
+        {
+            "+@gid": "3109807181",
+            "+@lang": "IT",
+            "role": "Mokona",
+            "person": {
+                "+content": "Paola Moscelli",
+                "+@id": "246191"
+            }
+        },
+        {
             "+@gid": "1254517667",
             "+@lang": "JA",
             "role": "Alcyone",
@@ -321,6 +1037,15 @@
             "person": {
                 "+content": "Hiroki Yasumoto",
                 "+@id": "30785"
+            }
+        },
+        {
+            "+@gid": "3670856849",
+            "+@lang": "JA",
+            "role": "Ceres",
+            "person": {
+                "+content": "Kōji Yusa",
+                "+@id": "51073"
             }
         },
         {
@@ -403,6 +1128,87 @@
                 "+content": "Hitomi Ueda",
                 "+@id": "142425"
             }
+        },
+        {
+            "+@gid": "2539566140",
+            "+@lang": "TL",
+            "role": "Ascot",
+            "person": {
+                "+content": "Grace Cornel",
+                "+@id": "39024"
+            }
+        },
+        {
+            "+@gid": "3811164984",
+            "+@lang": "TL",
+            "role": "Umi Ryuuzaki",
+            "person": {
+                "+content": "Hazel Hernan",
+                "+@id": "42178"
+            }
+        },
+        {
+            "+@gid": "2763313407",
+            "+@lang": "TL",
+            "role": "Lafarga",
+            "person": {
+                "+content": "Carlo Christopher Caling",
+                "+@id": "49528"
+            }
+        },
+        {
+            "+@gid": "2133032977",
+            "+@lang": "TL",
+            "role": "Caldina",
+            "person": {
+                "+content": "Owen Caling",
+                "+@id": "49529"
+            }
+        },
+        {
+            "+@gid": "2095587124",
+            "+@lang": "TL",
+            "role": "Zagato",
+            "person": {
+                "+content": "AJ Constantino",
+                "+@id": "56587"
+            }
+        },
+        {
+            "+@gid": "3433413869",
+            "+@lang": "TL",
+            "role": "Princess Emeraude",
+            "person": {
+                "+content": "Nelieza Magauay",
+                "+@id": "95901"
+            }
+        },
+        {
+            "+@gid": "1631360334",
+            "+@lang": "TL",
+            "role": "Fuu Hououji",
+            "person": {
+                "+content": "Elle Genovata",
+                "+@id": "126407"
+            }
+        },
+        {
+            "+@gid": "2761407667",
+            "+@lang": "TL",
+            "role": "Alcyone",
+            "person": {
+                "+content": "Mitchiko Azarcon-Tiongson",
+                "+@id": "177094"
+            }
+        },
+        {
+            "+@gid": "2134118742",
+            "+@lang": "TL",
+            "role": "Hikaru Shidou",
+            "person": {
+                "+content": "Kenz Ancero-Bontogon",
+                "+@id": "293110"
+            }
         }
     ],
     "credit": [
@@ -440,6 +1246,6 @@
         }
     ],
     "+@date-added": "2025-10-17T07:45:22Z",
-    "+@date-last-modified-at": "2026-10-15T19:54:23Z",
-    "+@date-last-updated-at": "2026-10-15T19:54:23Z"
+    "+@date-last-modified-at": "2026-11-14T20:44:27Z",
+    "+@date-last-updated-at": "2026-11-14T20:44:27Z"
 }
