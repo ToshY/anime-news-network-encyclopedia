@@ -2,9 +2,9 @@
     "+@id": "34412",
     "+@gid": "1360184311",
     "+@type": "manga",
-    "+@name": "YuM Cat",
+    "+@name": "YuM Cat, Nmeneko",
     "+@precision": "manga",
-    "+@generated-on": "2026-10-11T05:50:59Z",
+    "+@generated-on": "2026-11-14T15:06:57Z",
     "related-next": {
         "+@id": "34414",
         "+@rel": "adaptation"
@@ -35,8 +35,8 @@
             ]
         },
         {
-            "+content": "YuM Cat",
-            "+@gid": "1347837037",
+            "+content": "The YuM Cat, Nmeneko",
+            "+@gid": "3138461374",
             "+@type": "Main title",
             "+@lang": "EN"
         },
@@ -45,6 +45,12 @@
             "+@gid": "244806715",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "YuM Cat",
+            "+@gid": "1347837037",
+            "+@type": "Alternative title",
+            "+@lang": "EN"
         },
         {
             "+content": "ンめねこ",
@@ -62,11 +68,18 @@
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Kodansha USA Licenses Masamune Shirow Artbook, <cite>When a Dragon Calls</cite>, <cite>Cells at Work! Cat</cite>, More for Fall 2026",
-        "+@datetime": "2025-10-10T15:45:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2025-10-10/kodansha-usa-licenses-masamune-shirow-artbook-when-a-dragon-calls-cells-at-work-cat-more-for-fall-/.229805"
-    },
+    "news": [
+        {
+            "+content": "Kodansha USA Licenses Masamune Shirow Artbook, <cite>When a Dragon Calls</cite>, <cite>Cells at Work! Cat</cite>, More for Fall 2026",
+            "+@datetime": "2025-10-10T15:45:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-10-10/kodansha-usa-licenses-masamune-shirow-artbook-when-a-dragon-calls-cells-at-work-cat-more-for-fall-/.229805"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, November 8-14",
+            "+@datetime": "2026-11-13T22:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-11-13/north-american-anime-manga-releases-november-8-14/.243661"
+        }
+    ],
     "staff": {
         "+@gid": "2873945124",
         "task": "Story & Art",
@@ -76,5 +89,6 @@
         }
     },
     "+@date-added": "2025-01-23T06:31:18Z",
-    "+@date-last-updated-at": "2026-10-11T05:51:01Z"
+    "+@date-last-modified-at": "2026-11-14T15:06:58Z",
+    "+@date-last-updated-at": "2026-11-14T15:06:58Z"
 }

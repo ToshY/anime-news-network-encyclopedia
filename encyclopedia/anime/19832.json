@@ -4,11 +4,17 @@
     "+@type": "movie",
     "+@name": "DC Super Heroes vs. Eagle Talon",
     "+@precision": "movie",
-    "+@generated-on": "2026-10-12T17:57:54Z",
-    "related-prev": {
-        "+@rel": "related to",
-        "+@id": "19838"
-    },
+    "+@generated-on": "2026-11-14T15:06:57Z",
+    "related-prev": [
+        {
+            "+@rel": "related to",
+            "+@id": "19838"
+        },
+        {
+            "+@rel": "part of",
+            "+@id": "40984"
+        }
+    ],
     "related-next": {
         "+@id": "29068",
         "+@rel": "related"
@@ -473,5 +479,6 @@
         }
     ],
     "+@date-added": "2017-07-06T05:54:35Z",
-    "+@date-last-updated-at": "2026-10-12T17:58:00Z"
+    "+@date-last-modified-at": "2026-11-14T15:07:00Z",
+    "+@date-last-updated-at": "2026-11-14T15:07:00Z"
 }
