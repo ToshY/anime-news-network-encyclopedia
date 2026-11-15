@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Just Like Mona Lisa",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-16T19:25:58Z",
+    "+@generated-on": "2026-11-15T21:03:10Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27497"
@@ -13,17 +13,17 @@
         {
             "+@gid": "3102904258",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40019-3102904258.1781671619.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40019-3102904258.1792563594.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40019-3102904258.1781671619.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40019-3102904258.1792563594.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40019-3102904258.1781671619.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40019-3102904258.1792563594.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
@@ -57,6 +57,11 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "2027",
+            "+@gid": "2714640645",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "性別「モナリザ」の君へ。",
             "+@gid": "2247383368",
             "+@type": "Official website",
@@ -71,11 +76,18 @@
             "+@href": "https://monalisa-anime.com/en/"
         }
     ],
-    "news": {
-        "+content": "<cite>Just Like Mona Lisa</cite> Anime's Teaser Unveils Lead Cast Member, Staff",
-        "+@datetime": "2026-08-01T15:50:32Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-08-01/just-like-mona-lisa-anime-teaser-unveils-lead-cast-member-staff/.240173"
-    },
+    "news": [
+        {
+            "+content": "<cite>Just Like Mona Lisa</cite> Anime's Teaser Unveils Lead Cast Member, Staff",
+            "+@datetime": "2026-08-01T15:50:32Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-01/just-like-mona-lisa-anime-teaser-unveils-lead-cast-member-staff/.240173"
+        },
+        {
+            "+content": "<cite>Just Like Mona Lisa</cite> TV Anime's 1st Trailer Unveils More Cast & Staff, 2027 Debut",
+            "+@datetime": "2026-10-21T05:52:21Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-21/just-like-mona-lisa-tv-anime-1st-trailer-unveils-more-cast-and-staff-2027-debut/.243048"
+        }
+    ],
     "staff": [
         {
             "+@gid": "3050268743",
@@ -83,6 +95,14 @@
             "person": {
                 "+content": "Kana Shundō",
                 "+@id": "174086"
+            }
+        },
+        {
+            "+@gid": "2967981409",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Katsuhiko Takayama",
+                "+@id": "12773"
             }
         },
         {
@@ -110,11 +130,67 @@
             }
         },
         {
+            "+@gid": "3160399590",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yukako Ogawa",
+                "+@id": "82802"
+            }
+        },
+        {
+            "+@gid": "1948905852",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kazuya Shiotsuki",
+                "+@id": "47024"
+            }
+        },
+        {
+            "+@gid": "3754456516",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Akihisa Takano",
+                "+@id": "58081"
+            }
+        },
+        {
             "+@gid": "1611187605",
             "task": "Chief Animation Director",
             "person": {
                 "+content": "Nobuhiro Sugiyama",
                 "+@id": "71872"
+            }
+        },
+        {
+            "+@gid": "3950308587",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Kōhei Yoshida",
+                "+@id": "123180"
+            }
+        },
+        {
+            "+@gid": "2894939585",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Kentaro Sasaki",
+                "+@id": "24390"
+            }
+        },
+        {
+            "+@gid": "1669511803",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Hisato Shima",
+                "+@id": "158596"
+            }
+        },
+        {
+            "+@gid": "1023286792",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Rei Egami",
+                "+@id": "68849"
             }
         }
     ],
@@ -127,14 +203,25 @@
             "+@id": "78724"
         }
     },
-    "credit": {
-        "+@gid": "1913064080",
-        "task": "Animation Production",
-        "company": {
-            "+content": "SHAFT",
-            "+@id": "677"
+    "credit": [
+        {
+            "+@gid": "1913064080",
+            "task": "Animation Production",
+            "company": {
+                "+content": "SHAFT",
+                "+@id": "677"
+            }
+        },
+        {
+            "+@gid": "1950338784",
+            "task": "Production",
+            "company": {
+                "+content": "CyberAgent",
+                "+@id": "12936"
+            }
         }
-    },
+    ],
     "+@date-added": "2026-06-17T00:45:59Z",
-    "+@date-last-updated-at": "2026-10-16T19:34:11Z"
+    "+@date-last-modified-at": "2026-11-15T21:03:19Z",
+    "+@date-last-updated-at": "2026-11-15T21:03:19Z"
 }
