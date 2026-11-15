@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "ghost – end of night",
     "+@precision": "movie",
-    "+@generated-on": "2026-10-15T23:05:02Z",
+    "+@generated-on": "2026-11-15T06:37:08Z",
     "related-next": {
         "+@id": "40240",
         "+@rel": "adaptation"
@@ -13,17 +13,17 @@
         {
             "+@gid": "2883886290",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36458-2883886290.1782905513.jpg",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36458-2883886290.1794273550.jpg",
             "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36458-2883886290.1782905513.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A36458-2883886290.1794273550.jpg",
                     "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36458-2883886290.1782905513.jpg",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A36458-2883886290.1794273550.jpg",
                     "+@width": "424",
                     "+@height": "600"
                 }
@@ -64,6 +64,10 @@
             "+@href": "https://www.ghost-yoruhate.com/"
         }
     ],
+    "review": {
+        "+content": "<cite>ghost – end of night</cite> Anime Movie Review",
+        "+@href": "https://www.animenewsnetwork.com/review/ghost-end-of-night/anime-movie/.243016"
+    },
     "news": [
         {
             "+content": "Shingo Natsume, Natsume Ono, Madhouse Team Up for Original Theatrical Anime <cite>'ghost'</cite>",
@@ -94,6 +98,16 @@
             "+content": "L.A.'s Animation is Film Fest Screens <cite>Cherry and Virgin</cite>, <cite>ghost – end of night</cite>",
             "+@datetime": "2026-09-23T01:41:46Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-09-22/l.a.s-animation-is-film-fest-screens-cherry-and-virgin-ghost-end-of-night/.242093"
+        },
+        {
+            "+content": "<cite>ghost – end of night</cite> Anime Film Unveils 3 Cast Members",
+            "+@datetime": "2026-10-21T00:50:26Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-20/ghost-end-of-night-anime-film-unveils-3-cast-members/.243040"
+        },
+        {
+            "+content": "<cite>ghost – end of night</cite> Anime Film's Trailer Confirms More Cast & Staff, Theme Song",
+            "+@datetime": "2026-11-10T00:49:27Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-11-09/ghost-end-of-night-anime-film-trailer-confirms-more-cast-and-staff-theme-song/.243662"
         }
     ],
     "staff": [
@@ -152,9 +166,51 @@
                 "+content": "Norifumi Kugai",
                 "+@id": "97475"
             }
+        },
+        {
+            "+@gid": "2258095896",
+            "task": "Art Director",
+            "person": {
+                "+content": "Yukiko Maruyama",
+                "+@id": "11859"
+            }
+        },
+        {
+            "+@gid": "3959285745",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Shōji Hata",
+                "+@id": "10427"
+            }
+        },
+        {
+            "+@gid": "531307905",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Akane Fushihara",
+                "+@id": "107551"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "1866905898",
+            "+@lang": "JA",
+            "role": "Itō",
+            "person": {
+                "+content": "Hiroshi Kamiya",
+                "+@id": "5902"
+            }
+        },
+        {
+            "+@gid": "1004334275",
+            "+@lang": "JA",
+            "role": "Ahab",
+            "person": {
+                "+content": "Kazuhiro Yamaji",
+                "+@id": "10484"
+            }
+        },
         {
             "+@gid": "359747722",
             "+@lang": "JA",
@@ -162,6 +218,51 @@
             "person": {
                 "+content": "Issei Takahashi",
                 "+@id": "22526"
+            }
+        },
+        {
+            "+@gid": "2935459895",
+            "+@lang": "JA",
+            "role": "Karate",
+            "person": {
+                "+content": "Hiroki Yasumoto",
+                "+@id": "30785"
+            }
+        },
+        {
+            "+@gid": "2544365697",
+            "+@lang": "JA",
+            "role": "Moby Dick",
+            "person": {
+                "+content": "Kenjirō Tsuda",
+                "+@id": "39751"
+            }
+        },
+        {
+            "+@gid": "1965793297",
+            "+@lang": "JA",
+            "role": "Structure",
+            "person": {
+                "+content": "Yūki Shin",
+                "+@id": "150451"
+            }
+        },
+        {
+            "+@gid": "2747967780",
+            "+@lang": "JA",
+            "role": "Bora",
+            "person": {
+                "+content": "Takeo Ōtsuka",
+                "+@id": "158555"
+            }
+        },
+        {
+            "+@gid": "3426489972",
+            "+@lang": "JA",
+            "role": "Mike",
+            "person": {
+                "+content": "Hina Yomiya",
+                "+@id": "209292"
             }
         },
         {
@@ -183,6 +284,6 @@
         }
     },
     "+@date-added": "2025-06-09T04:12:31Z",
-    "+@date-last-modified-at": "2026-10-15T23:05:04Z",
-    "+@date-last-updated-at": "2026-10-15T23:05:04Z"
+    "+@date-last-modified-at": "2026-11-15T06:37:11Z",
+    "+@date-last-updated-at": "2026-11-15T06:37:11Z"
 }

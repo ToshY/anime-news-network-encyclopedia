@@ -4,8 +4,36 @@
     "+@type": "manga",
     "+@name": "Jyoshikohei",
     "+@precision": "manga",
-    "+@generated-on": "2026-10-16T04:35:17Z",
+    "+@generated-on": "2026-11-15T06:37:06Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "19645"
+    },
     "info": [
+        {
+            "+@gid": "1192026423",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40683-1192026423.1792157696.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40683-1192026423.1792157696.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40683-1192026423.1792157696.jpg",
+                    "+@width": "422",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A40683-1192026423.1792157696.jpg",
+                    "+@width": "600",
+                    "+@height": "853"
+                }
+            ]
+        },
         {
             "+content": "Jyoshikohei",
             "+@gid": "1957181930",
@@ -34,8 +62,27 @@
             "+content": "science fiction",
             "+@gid": "3313475752",
             "+@type": "Genres"
+        },
+        {
+            "+content": "7",
+            "+@gid": "2215414246",
+            "+@type": "Number of tankoubon"
+        },
+        {
+            "+content": "2011-01-21 to 2015-11-21 (Comic Bunch, Mar 2011 - Jan 2016)",
+            "+@gid": "3351743844",
+            "+@type": "Vintage"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "0"
+    },
+    "news": {
+        "+content": "Peow2 Licenses <cite>Jyoshikohei, Alien 9, Phantom Core</cite> Manga",
+        "+@datetime": "2026-10-17T05:08:19Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-10-17/peow2-licenses-jyoshikohei-alien-9-phantom-core-manga/.242932"
+    },
     "staff": {
         "+@gid": "2179491664",
         "task": "Story & Art",
@@ -45,5 +92,6 @@
         }
     },
     "+@date-added": "2026-10-15T19:35:32Z",
-    "+@date-last-updated-at": "2026-10-16T04:35:18Z"
+    "+@date-last-modified-at": "2026-11-15T06:37:08Z",
+    "+@date-last-updated-at": "2026-11-15T06:37:08Z"
 }
