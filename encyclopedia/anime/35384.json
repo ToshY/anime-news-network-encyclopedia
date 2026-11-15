@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Blue Box",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-10-16T13:03:58Z",
+    "+@generated-on": "2026-11-15T15:40:54Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "30789"
@@ -40,6 +40,12 @@
             "+@gid": "2655105602",
             "+@type": "Alternative title",
             "+@lang": "JA"
+        },
+        {
+            "+content": "La caja azul",
+            "+@gid": "1826821294",
+            "+@type": "Alternative title",
+            "+@lang": "ES"
         },
         {
             "+content": "アオのハコ",
@@ -116,8 +122,8 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "4.906"
+        "+@nb_votes": "6",
+        "+@weighted_score": "6.2561"
     },
     "news": [
         {
@@ -427,6 +433,15 @@
             }
         },
         {
+            "+@gid": "2646414699",
+            "+@lang": "IT",
+            "role": "Chinatsu Kano",
+            "person": {
+                "+content": "Giorgia Brunori",
+                "+@id": "163035"
+            }
+        },
+        {
             "+@gid": "2409663489",
             "+@lang": "IT",
             "role": "Taiki Inomata",
@@ -544,6 +559,6 @@
         }
     },
     "+@date-added": "2025-03-27T20:11:41Z",
-    "+@date-last-modified-at": "2026-10-16T13:16:55Z",
-    "+@date-last-updated-at": "2026-10-16T13:16:55Z"
+    "+@date-last-modified-at": "2026-11-15T15:40:56Z",
+    "+@date-last-updated-at": "2026-11-15T15:40:56Z"
 }

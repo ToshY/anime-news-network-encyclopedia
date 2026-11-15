@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Goodbye, Lara",
     "+@precision": "manga",
-    "+@generated-on": "2026-10-16T13:16:48Z",
-    "related-prev": {
-        "+@rel": "adapted from",
-        "+@id": "32739"
-    },
+    "+@generated-on": "2026-11-15T15:40:45Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "26228"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "32739"
+        }
+    ],
     "info": [
         {
             "+@gid": "2337456414",
@@ -77,9 +83,16 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2026-10",
+            "+content": "2026-10-23 (serialized on Alive+)",
             "+@gid": "3427568195",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "さよならララ｜カドコミ (コミックウォーカー)",
+            "+@gid": "1731588634",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://comic-walker.com/detail/KC_021487_S"
         }
     ],
     "staff": {
@@ -91,5 +104,6 @@
         }
     },
     "+@date-added": "2026-09-15T22:25:18Z",
-    "+@date-last-updated-at": "2026-10-16T13:16:50Z"
+    "+@date-last-modified-at": "2026-11-15T15:40:48Z",
+    "+@date-last-updated-at": "2026-11-15T15:40:48Z"
 }

@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Shikabane Kaigo",
     "+@precision": "manga",
-    "+@generated-on": "2026-10-16T13:16:49Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "26240"
-    },
+    "+@generated-on": "2026-11-15T15:40:46Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "26240"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "40964"
+        }
+    ],
     "info": [
         {
             "+@gid": "2855875150",
@@ -52,12 +58,16 @@
             "+@type": "Genres"
         },
         {
+            "+content": "Deep in the Japanese mountains, Akane Kuriya begins a new job as a live-in caregiver. She moves into a sprawling, ominous mansion and meets her charge―Kiwako Miyazono, a woman she swears is already dead. Kiwako has a mysterious disease rendering her bedridden, paralyzed, and coloring her skin a ghastly bluish-green. Strangest of all, she’s required to wear a black bag over her head at all times. Akane soon learns things are not quite as they seem, and the more she uncovers, the more she questions who she can trust. Backed into a corner, Akane realizes there’s only one person with the answers she seeks: Kiwako herself. <em class=de-emphasized>(from manga)</em>",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "3",
             "+@gid": "3336099291",
             "+@type": "Number of tankoubon"
         },
         {
-            "+content": "2023-12-20 (serialized in Aokishi, vol. 17B)",
+            "+content": "2023-12-20 to 2026-06-19 (serialized in Aokishi, vol. 17B)",
             "+@gid": "1381397753",
             "+@type": "Vintage"
         }
@@ -89,5 +99,6 @@
         }
     ],
     "+@date-added": "2025-08-19T23:58:34Z",
-    "+@date-last-updated-at": "2026-10-16T13:16:50Z"
+    "+@date-last-modified-at": "2026-11-15T15:40:48Z",
+    "+@date-last-updated-at": "2026-11-15T15:40:48Z"
 }

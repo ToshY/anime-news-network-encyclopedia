@@ -4,11 +4,17 @@
     "+@type": "TV",
     "+@name": "Haru to Gen ~70-sai, Hajimete Kosodate~",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-16T13:03:43Z",
-    "related-prev": {
-        "+@rel": "adapted from",
-        "+@id": "40545"
-    },
+    "+@generated-on": "2026-11-15T15:40:46Z",
+    "related-prev": [
+        {
+            "+@rel": "part of",
+            "+@id": "37945"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "40545"
+        }
+    ],
     "info": [
         {
             "+@gid": "2412013449",
@@ -47,11 +53,23 @@
             "+@type": "Genres"
         },
         {
-            "+content": "2027-01",
+            "+content": "2027-01-04",
             "+@gid": "3310986441",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "TVアニメ「ハルとゲン ～70歳、はじめての子育て～」公式サイト",
+            "+@gid": "3524251334",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://animationid.com/haruandgen/"
         }
     ],
+    "news": {
+        "+content": "<cite>'Haru to Gen ~70-sai, Hajimete Kosodate~'</cite> Short Anime's Teaser Reveals Cast, January 4 Debut",
+        "+@datetime": "2026-10-21T04:54:32Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-10-21/haru-to-gen-~70-sai-hajimete-kosodate~-short-anime-teaser-reveals-cast-january-4-debut/.243050"
+    },
     "staff": [
         {
             "+@gid": "1967081065",
@@ -86,6 +104,35 @@
             }
         }
     ],
+    "cast": [
+        {
+            "+@gid": "1160138499",
+            "+@lang": "JA",
+            "role": "Gen",
+            "person": {
+                "+content": "Bin Shimada",
+                "+@id": "1501"
+            }
+        },
+        {
+            "+@gid": "1175429986",
+            "+@lang": "JA",
+            "role": "Haru",
+            "person": {
+                "+content": "Hiromi Igarashi",
+                "+@id": "34411"
+            }
+        },
+        {
+            "+@gid": "1828606999",
+            "+@lang": "JA",
+            "role": "Sakura",
+            "person": {
+                "+content": "Mayuko Kazama",
+                "+@id": "195565"
+            }
+        }
+    ],
     "credit": [
         {
             "+@gid": "1212424890",
@@ -102,8 +149,17 @@
                 "+content": "IMAGICA Infos",
                 "+@id": "24988"
             }
+        },
+        {
+            "+@gid": "1920532456",
+            "task": "Production",
+            "company": {
+                "+content": "AnimationID",
+                "+@id": "25617"
+            }
         }
     ],
     "+@date-added": "2026-09-15T06:32:53Z",
-    "+@date-last-updated-at": "2026-10-16T13:16:54Z"
+    "+@date-last-modified-at": "2026-11-15T15:40:55Z",
+    "+@date-last-updated-at": "2026-11-15T15:40:55Z"
 }
