@@ -4,7 +4,11 @@
     "+@type": "TV",
     "+@name": "Welsh & Shedar",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-17T12:13:04Z",
+    "+@generated-on": "2026-11-16T18:35:07Z",
+    "related-next": {
+        "+@id": "40967",
+        "+@rel": "related"
+    },
     "info": [
         {
             "+@gid": "3065329879",
@@ -71,6 +75,10 @@
             "+@href": "https://welshandshedar-anime.com/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "2",
+        "+@weighted_score": "1"
+    },
     "news": [
         {
             "+content": "France's Ankama Presents Fantasy TV Anime <cite>Aoki Denshō Welsh & Shedar</cite>",
@@ -91,6 +99,16 @@
             "+content": "<cite>Welsh & Shedar</cite> Anime Streams on YouTube in November",
             "+@datetime": "2026-10-02T19:00:00Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-10-02/welsh-and-shedar-anime-streams-on-youtube-in-november/.242424"
+        },
+        {
+            "+content": "<cite>Welsh & Shedar</cite> Anime's Trailer Reveals English/French Dubs' Debut on YouTube on November 5",
+            "+@datetime": "2026-10-19T15:05:31Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-19/welsh-and-shedar-anime-trailer-reveals-english-french-dubs-debut-on-youtube-on-november-5/.242987"
+        },
+        {
+            "+content": "<cite>Welsh & Shedar</cite> Anime Launches Webtoon",
+            "+@datetime": "2026-11-12T03:10:20Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-11-11/welsh-and-shedar-anime-launches-webtoon/.243736"
         }
     ],
     "staff": [
@@ -149,9 +167,161 @@
                 "+content": "Jun Watanabe",
                 "+@id": "10017"
             }
+        },
+        {
+            "+@gid": "2106524605",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Widad Noureddine",
+                "+@id": "294031"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "1381200052",
+            "+@lang": "EN",
+            "role": "Khan Karkass",
+            "person": {
+                "+content": "Kyle Phillips",
+                "+@id": "72635"
+            }
+        },
+        {
+            "+@gid": "684886322",
+            "+@lang": "EN",
+            "role": "Zabel",
+            "person": {
+                "+content": "Marissa Lenti",
+                "+@id": "137305"
+            }
+        },
+        {
+            "+@gid": "1211888963",
+            "+@lang": "EN",
+            "role": "Shedar",
+            "person": {
+                "+content": "Kevin Garcia",
+                "+@id": "216072"
+            }
+        },
+        {
+            "+@gid": "4095609273",
+            "+@lang": "EN",
+            "role": "Mama Caroni",
+            "person": {
+                "+content": "Christina Groom",
+                "+@id": "256112"
+            }
+        },
+        {
+            "+@gid": "2246580388",
+            "+@lang": "EN",
+            "role": "Bechamel",
+            "person": {
+                "+content": "Roo Ryder",
+                "+@id": "267715"
+            }
+        },
+        {
+            "+@gid": "943504584",
+            "+@lang": "EN",
+            "role": "Welsh",
+            "person": {
+                "+content": "Daniel J. McClean",
+                "+@id": "277610"
+            }
+        },
+        {
+            "+@gid": "2268887983",
+            "+@lang": "EN",
+            "role": "Azalar",
+            "person": {
+                "+content": "Crist Jarrett",
+                "+@id": "292498"
+            }
+        },
+        {
+            "+@gid": "2561867651",
+            "+@lang": "EN",
+            "role": "Joris",
+            "person": {
+                "+content": "Elgin David Aponte",
+                "+@id": "303531"
+            }
+        },
+        {
+            "+@gid": "1103702210",
+            "+@lang": "FR",
+            "role": "Kahn Karkas",
+            "person": {
+                "+content": "Emmanuel Gradi",
+                "+@id": "45713"
+            }
+        },
+        {
+            "+@gid": "3446692046",
+            "+@lang": "FR",
+            "role": "Bechamel",
+            "person": {
+                "+content": "Laëtitia Godès",
+                "+@id": "70471"
+            }
+        },
+        {
+            "+@gid": "2982075480",
+            "+@lang": "FR",
+            "role": "Shedar",
+            "person": {
+                "+content": "Tom Trouffier",
+                "+@id": "77696"
+            }
+        },
+        {
+            "+@gid": "902608432",
+            "+@lang": "FR",
+            "role": "Asalar",
+            "person": {
+                "+content": "Florian Wormser",
+                "+@id": "162940"
+            }
+        },
+        {
+            "+@gid": "538342487",
+            "+@lang": "FR",
+            "role": "Welsh",
+            "person": {
+                "+content": "Sacha Tomassian",
+                "+@id": "303583"
+            }
+        },
+        {
+            "+@gid": "2373509410",
+            "+@lang": "FR",
+            "role": "Zabelle",
+            "person": {
+                "+content": "Frédérique Tirmont",
+                "+@id": "303584"
+            }
+        },
+        {
+            "+@gid": "2389131679",
+            "+@lang": "FR",
+            "role": "Joris",
+            "person": {
+                "+content": "Yoann Bellot-Sover",
+                "+@id": "303585"
+            }
+        },
+        {
+            "+@gid": "788700782",
+            "+@lang": "FR",
+            "role": "Mama Caroni",
+            "person": {
+                "+content": "Magali Rosensweig",
+                "+@id": "303586"
+            }
+        },
         {
             "+@gid": "1130934948",
             "+@lang": "JA",
@@ -234,6 +404,6 @@
         }
     },
     "+@date-added": "2026-09-16T06:01:50Z",
-    "+@date-last-modified-at": "2026-10-17T12:13:13Z",
-    "+@date-last-updated-at": "2026-10-17T12:13:13Z"
+    "+@date-last-modified-at": "2026-11-16T18:35:14Z",
+    "+@date-last-updated-at": "2026-11-16T18:35:14Z"
 }
