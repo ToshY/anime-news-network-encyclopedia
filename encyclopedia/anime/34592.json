@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Reborn as a Space Mercenary",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-16T22:52:22Z",
+    "+@generated-on": "2026-11-16T06:20:03Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25300"
@@ -69,6 +69,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "ecchi",
+            "+@gid": "1955777294",
+            "+@type": "Themes"
+        },
+        {
             "+content": "future",
             "+@gid": "1792597740",
             "+@type": "Themes"
@@ -76,6 +81,11 @@
         {
             "+content": "harem",
             "+@gid": "3203497601",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "pirates",
+            "+@gid": "1691787079",
             "+@type": "Themes"
         },
         {
@@ -127,9 +137,51 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "5",
-        "+@weighted_score": "3.8611"
+        "+@nb_votes": "6",
+        "+@weighted_score": "5.5401"
     },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "First Space Colony Visit",
+                "+@gid": "1420769967",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "Mimi the Girl",
+                "+@gid": "3317787280",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "Elma",
+                "+@gid": "1352505923",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "A New Daily Life",
+                "+@gid": "3845524200",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "The Singing Crystal",
+                "+@gid": "3069890352",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "<cite>Reborn as a Space Mercenary</cite> Anime's Teaser Unveils Cast, Staff, October TV Debut",
@@ -190,6 +242,118 @@
             }
         },
         {
+            "+@gid": "1907348575",
+            "task": "Script",
+            "person": {
+                "+content": "Yasunori Yamada",
+                "+@id": "4375"
+            }
+        },
+        {
+            "+@gid": "2590974837",
+            "task": "Script",
+            "person": {
+                "+content": "Takashi Aoshima",
+                "+@id": "25380"
+            }
+        },
+        {
+            "+@gid": "1639397004",
+            "task": "Script",
+            "person": {
+                "+content": "Takamitsu Kōno",
+                "+@id": "260945"
+            }
+        },
+        {
+            "+@gid": "1645814576",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takehiro Nakayama",
+                "+@id": "11246"
+            }
+        },
+        {
+            "+@gid": "997014883",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Masayoshi Nishida",
+                "+@id": "15734"
+            }
+        },
+        {
+            "+@gid": "3861520628",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hiroshi Ōyama",
+                "+@id": "36855"
+            }
+        },
+        {
+            "+@gid": "4013908230",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Makoto Ogihara",
+                "+@id": "221078"
+            }
+        },
+        {
+            "+@gid": "935120778",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Takashi Iida",
+                "+@id": "243100"
+            }
+        },
+        {
+            "+@gid": "1627703383",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Katsumi Minoguchi",
+                "+@id": "13407"
+            }
+        },
+        {
+            "+@gid": "1932066672",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Fumihiro Ueno",
+                "+@id": "20564"
+            }
+        },
+        {
+            "+@gid": "1218368719",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Tsutomu Murakami",
+                "+@id": "23221"
+            }
+        },
+        {
+            "+@gid": "1544740138",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Norihiko Nagahama",
+                "+@id": "30971"
+            }
+        },
+        {
+            "+@gid": "1287346605",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kaoru Yabana",
+                "+@id": "36303"
+            }
+        },
+        {
+            "+@gid": "1782613245",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ken Kiyota",
+                "+@id": "94597"
+            }
+        },
+        {
             "+@gid": "2731520758",
             "task": "Music",
             "person": {
@@ -230,6 +394,22 @@
             }
         },
         {
+            "+@gid": "3939975764",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Takayuki Chiba",
+                "+@id": "15795"
+            }
+        },
+        {
+            "+@gid": "1970542308",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yoshiya Yamamoto",
+                "+@id": "30342"
+            }
+        },
+        {
             "+@gid": "1939738714",
             "task": "Sound Director",
             "person": {
@@ -263,6 +443,15 @@
             "person": {
                 "+content": "Emily Neves",
                 "+@id": "83471"
+            }
+        },
+        {
+            "+@gid": "1235740213",
+            "+@lang": "EN",
+            "role": "Shoko",
+            "person": {
+                "+content": "Molly Searcy",
+                "+@id": "121492"
             }
         },
         {
@@ -338,9 +527,9 @@
             }
         },
         {
-            "+@gid": "1322880432",
+            "+@gid": "2513161093",
             "+@lang": "JA",
-            "role": "Mei",
+            "role": "Shōko",
             "person": {
                 "+content": "Kana Ueda",
                 "+@id": "1568"
@@ -356,9 +545,9 @@
             }
         },
         {
-            "+@gid": "2853574078",
+            "+@gid": "3800710715",
             "+@lang": "JA",
-            "role": "Shoko",
+            "role": "Mei",
             "person": {
                 "+content": "Saori Ōnishi",
                 "+@id": "112494"
@@ -411,6 +600,6 @@
         }
     ],
     "+@date-added": "2025-02-06T03:07:34Z",
-    "+@date-last-modified-at": "2026-10-16T22:52:24Z",
-    "+@date-last-updated-at": "2026-10-16T22:52:24Z"
+    "+@date-last-modified-at": "2026-11-16T06:34:34Z",
+    "+@date-last-updated-at": "2026-11-16T06:34:34Z"
 }

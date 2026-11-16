@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Butt Detective",
     "+@precision": "TV 9",
-    "+@generated-on": "2026-10-16T22:52:19Z",
+    "+@generated-on": "2026-11-16T06:34:29Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "34886"
@@ -216,6 +216,30 @@
     ],
     "staff": [
         {
+            "+@gid": "834820656",
+            "task": "Series Director",
+            "person": {
+                "+content": "Yōko Ikeda",
+                "+@id": "22871"
+            }
+        },
+        {
+            "+@gid": "528908631",
+            "task": "Series Director",
+            "person": {
+                "+content": "Yuriko Kado",
+                "+@id": "87313"
+            }
+        },
+        {
+            "+@gid": "967982267",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Natsuko Takahashi",
+                "+@id": "4629"
+            }
+        },
+        {
             "+@gid": "3412746089",
             "task": "Script",
             "person": {
@@ -406,6 +430,38 @@
                 "+content": "Aki Ezure",
                 "+@id": "165934"
             }
+        },
+        {
+            "+@gid": "2743697561",
+            "task": "Music",
+            "person": {
+                "+content": "Hiroshi Takaki",
+                "+@id": "38376"
+            }
+        },
+        {
+            "+@gid": "1335613156",
+            "task": "Character Design",
+            "person": {
+                "+content": "Hideaki Maniwa",
+                "+@id": "2807"
+            }
+        },
+        {
+            "+@gid": "2887230562",
+            "task": "Art design",
+            "person": {
+                "+content": "Ryūtarō Masuda",
+                "+@id": "257143"
+            }
+        },
+        {
+            "+@gid": "1458581409",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Misato Katayama",
+                "+@id": "173315"
+            }
         }
     ],
     "cast": [
@@ -482,5 +538,6 @@
         }
     },
     "+@date-added": "2025-03-01T18:28:03Z",
-    "+@date-last-updated-at": "2026-10-16T22:52:24Z"
+    "+@date-last-modified-at": "2026-11-16T06:34:34Z",
+    "+@date-last-updated-at": "2026-11-16T06:34:34Z"
 }
