@@ -1,58 +1,49 @@
 {
     "+@id": "38150",
     "+@gid": "1210176078",
-    "+@type": "TV",
-    "+@name": "Kaiju No. 8",
-    "+@precision": "TV 3",
-    "+@generated-on": "2026-10-17T21:35:09Z",
+    "+@type": "movie",
+    "+@name": "Kaiju No. 8: The Final Mission",
+    "+@precision": "movie",
+    "+@generated-on": "2026-11-17T02:56:02Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32854"
-    },
-    "related-next": {
-        "+@id": "38151",
-        "+@rel": "side story"
     },
     "info": [
         {
             "+@gid": "733919431",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38150-733919431.1766215298.jpg",
-            "+@width": "149",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38150-733919431.1792829557.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38150-733919431.1766215298.jpg",
-                    "+@width": "149",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38150-733919431.1792829557.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38150-733919431.1766215298.jpg",
-                    "+@width": "448",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38150-733919431.1792829557.jpg",
+                    "+@width": "424",
                     "+@height": "600"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38150-733919431.1766215298.jpg",
-                    "+@width": "600",
-                    "+@height": "803"
                 }
             ]
         },
         {
-            "+content": "Kaiju No. 8",
-            "+@gid": "3280017940",
+            "+content": "Kaiju No. 8: The Final Mission",
+            "+@gid": "3667345559",
             "+@type": "Main title",
             "+@lang": "EN"
         },
         {
-            "+content": "Kaijū 8-gō Kanketsu-hen",
-            "+@gid": "2207566000",
+            "+content": "Gekijōban Kaijū 8-gō",
+            "+@gid": "1909815854",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
         {
-            "+content": "怪獣８号 完結編",
-            "+@gid": "1409735979",
+            "+content": "劇場版 怪獣８号",
+            "+@gid": "3228012137",
             "+@type": "Alternative title",
             "+@lang": "JA"
         },
@@ -132,6 +123,11 @@
             "+@type": "Objectionable content"
         },
         {
+            "+content": "2027",
+            "+@gid": "2541337619",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "アニメ『怪獣８号』公式サイト",
             "+@gid": "994350524",
             "+@type": "Official website",
@@ -139,18 +135,38 @@
             "+@href": "https://kaiju-no8.net/"
         }
     ],
-    "ratings": {
-        "+@nb_votes": "1",
-        "+@weighted_score": "10"
+    "news": {
+        "+content": "<cite>Kaiju No. 8</cite> Anime's 'Conclusion Arc' Revealed as Film Opening in 2027",
+        "+@datetime": "2026-10-24T07:01:29Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-10-24/kaiju-no-8-anime-conclusion-arc-revealed-as-film-opening-in-2027/.243156"
     },
-    "staff": {
-        "+@gid": "2981091506",
-        "task": "Original creator",
-        "person": {
-            "+content": "Naoya Matsumoto",
-            "+@id": "205703"
+    "staff": [
+        {
+            "+@gid": "2084487721",
+            "task": "Director",
+            "person": {
+                "+content": "Shigeyuki Miya",
+                "+@id": "17245"
+            }
+        },
+        {
+            "+@gid": "2981091506",
+            "task": "Original creator",
+            "person": {
+                "+content": "Naoya Matsumoto",
+                "+@id": "205703"
+            }
+        }
+    ],
+    "credit": {
+        "+@gid": "3446099370",
+        "task": "Animation Production",
+        "company": {
+            "+content": "Production I.G",
+            "+@id": "337"
         }
     },
     "+@date-added": "2025-12-20T02:19:36Z",
-    "+@date-last-updated-at": "2026-10-17T22:21:47Z"
+    "+@date-last-modified-at": "2026-11-17T02:57:13Z",
+    "+@date-last-updated-at": "2026-11-17T02:57:13Z"
 }

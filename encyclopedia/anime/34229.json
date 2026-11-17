@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill",
     "+@precision": "TV 3",
-    "+@generated-on": "2026-10-17T03:38:23Z",
+    "+@generated-on": "2026-11-17T02:48:43Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32835"
@@ -114,6 +114,11 @@
             "+@type": "Running time"
         },
         {
+            "+content": "12",
+            "+@gid": "1383578088",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-09-27",
             "+@gid": "2547539460",
             "+@type": "Vintage"
@@ -137,17 +142,75 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "7.0274"
+        "+@nb_votes": "3",
+        "+@weighted_score": "7.0076"
     },
-    "episode": {
-        "+@num": "25",
-        "title": {
-            "+content": "Headman",
-            "+@gid": "1651747719",
-            "+@lang": "EN"
+    "episode": [
+        {
+            "+@num": "25",
+            "title": {
+                "+content": "Headman",
+                "+@gid": "1651747719",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "26",
+            "title": {
+                "+content": "Canarre in Crisis",
+                "+@gid": "327980041",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "27",
+            "title": {
+                "+content": "Zaht and Braham",
+                "+@gid": "2037026827",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "28",
+            "title": {
+                "+content": "End of Hostilities",
+                "+@gid": "289230185",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "29",
+            "title": {
+                "+content": "The End of Vasmarque",
+                "+@gid": "2499105822",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "30",
+            "title": {
+                "+content": "Fujimiya",
+                "+@gid": "2119080311",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "31",
+            "title": {
+                "+content": "Off to Save Ars",
+                "+@gid": "2885741423",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "32",
+            "title": {
+                "+content": "What a King Needs",
+                "+@gid": "1976076491",
+                "+@lang": "EN"
+            }
         }
-    },
+    ],
     "news": [
         {
             "+content": "<cite>'As a Reincarnated Aristocrat, I'll Use My Appraisal Skill'</cite> Season 3's New Video Reveals Updated Staff, Fall Debut",
@@ -168,6 +231,21 @@
             "+content": "Anime Times Streams <cite>So What's Wrong with Getting Reborn as a Goblin?</cite>, 7 More Anime in India",
             "+@datetime": "2026-10-04T07:31:15Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-10-04/anime-times-streams-so-what-wrong-with-getting-reborn-as-a-goblin-7-more-anime-in-india/.242440"
+        },
+        {
+            "+content": "<cite>'As a Reincarnated Aristocrat, I'll Use My Appraisal Skill'</cite> Season 3's 3rd Video Unveils New Arc, More Cast",
+            "+@datetime": "2026-10-26T13:01:28Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-26/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-season-3-3rd-video-unveils-new-arc-more-cast/.243205"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, October 26-November 1",
+            "+@datetime": "2026-11-10T07:52:54Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-11-10/japanese-animation-tv-ranking-october-26-november-1/.243621"
+        },
+        {
+            "+content": "Japanese Animation TV Ranking, November 2-8",
+            "+@datetime": "2026-11-14T10:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-11-14/japanese-animation-tv-ranking-november-2-8/.243787"
         }
     ],
     "staff": [
@@ -196,6 +274,22 @@
             }
         },
         {
+            "+@gid": "1707778433",
+            "task": "Script",
+            "person": {
+                "+content": "Mitsuki Nihei",
+                "+@id": "191769"
+            }
+        },
+        {
+            "+@gid": "2402719381",
+            "task": "Script",
+            "person": {
+                "+content": "Asako Kuboyama",
+                "+@id": "203581"
+            }
+        },
+        {
             "+@gid": "967076675",
             "task": "Storyboard",
             "person": {
@@ -220,6 +314,38 @@
             }
         },
         {
+            "+@gid": "518785586",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Koichi Tamura",
+                "+@id": "144256"
+            }
+        },
+        {
+            "+@gid": "1986116177",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Bo Dong Lee",
+                "+@id": "148890"
+            }
+        },
+        {
+            "+@gid": "2546415847",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Kōsuke Fujimoto",
+                "+@id": "245108"
+            }
+        },
+        {
+            "+@gid": "3432701076",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Takao Kato",
+                "+@id": "1935"
+            }
+        },
+        {
             "+@gid": "2534522246",
             "task": "Episode Director",
             "person": {
@@ -236,11 +362,27 @@
             }
         },
         {
+            "+@gid": "2212224273",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Ken Katō",
+                "+@id": "222422"
+            }
+        },
+        {
             "+@gid": "2518888117",
             "task": "Episode Director",
             "person": {
                 "+content": "Hiwa Suzuki",
                 "+@id": "244066"
+            }
+        },
+        {
+            "+@gid": "3765875181",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Kōsuke Fujimoto",
+                "+@id": "245108"
             }
         },
         {
@@ -324,6 +466,30 @@
             }
         },
         {
+            "+@gid": "2798871087",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Meiju Maeda",
+                "+@id": "16745"
+            }
+        },
+        {
+            "+@gid": "1089356805",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Chizuru Kobayashi",
+                "+@id": "29715"
+            }
+        },
+        {
+            "+@gid": "1420231783",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Nami Shōyama",
+                "+@id": "117006"
+            }
+        },
+        {
             "+@gid": "878992596",
             "task": "Chief Animation Director",
             "person": {
@@ -348,6 +514,14 @@
             }
         },
         {
+            "+@gid": "768803628",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kiichi Takaoka",
+                "+@id": "7066"
+            }
+        },
+        {
             "+@gid": "1540743870",
             "task": "Animation Director",
             "person": {
@@ -356,11 +530,59 @@
             }
         },
         {
+            "+@gid": "1541349647",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Chizuru Kobayashi",
+                "+@id": "29715"
+            }
+        },
+        {
+            "+@gid": "1575241583",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Hiroaki Kawaguchi",
+                "+@id": "34658"
+            }
+        },
+        {
+            "+@gid": "1719040655",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Daisuke Agata",
+                "+@id": "35668"
+            }
+        },
+        {
+            "+@gid": "1769916872",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Koji Hirauma",
+                "+@id": "36704"
+            }
+        },
+        {
+            "+@gid": "2867887959",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Katsuji Matsumoto",
+                "+@id": "41519"
+            }
+        },
+        {
             "+@gid": "3890041577",
             "task": "Animation Director",
             "person": {
                 "+content": "Sang Min Lee",
                 "+@id": "45686"
+            }
+        },
+        {
+            "+@gid": "3654832812",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Maiko Okada",
+                "+@id": "47675"
             }
         },
         {
@@ -380,11 +602,51 @@
             }
         },
         {
+            "+@gid": "3973103734",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nanae Yonemoto",
+                "+@id": "79587"
+            }
+        },
+        {
             "+@gid": "3122344141",
             "task": "Animation Director",
             "person": {
                 "+content": "Sakurako Mitsuhashi",
                 "+@id": "84710"
+            }
+        },
+        {
+            "+@gid": "556456869",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takuma Shimizu",
+                "+@id": "111027"
+            }
+        },
+        {
+            "+@gid": "1092070264",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūki Hirano",
+                "+@id": "115242"
+            }
+        },
+        {
+            "+@gid": "2246223131",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Nami Shōyama",
+                "+@id": "117006"
+            }
+        },
+        {
+            "+@gid": "1799713292",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Do Young Kim",
+                "+@id": "134072"
             }
         },
         {
@@ -396,11 +658,27 @@
             }
         },
         {
+            "+@gid": "525299496",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Li Lin Zhao",
+                "+@id": "148293"
+            }
+        },
+        {
             "+@gid": "2250349160",
             "task": "Animation Director",
             "person": {
                 "+content": "Chiharu Hara",
                 "+@id": "149199"
+            }
+        },
+        {
+            "+@gid": "2348938585",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yui Agena",
+                "+@id": "155629"
             }
         },
         {
@@ -425,6 +703,22 @@
             "person": {
                 "+content": "Shiki Amo",
                 "+@id": "171218"
+            }
+        },
+        {
+            "+@gid": "3148277917",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yuzuki Sekine",
+                "+@id": "181578"
+            }
+        },
+        {
+            "+@gid": "1925289779",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Asaka Yokoyama",
+                "+@id": "188628"
             }
         },
         {
@@ -476,6 +770,14 @@
             }
         },
         {
+            "+@gid": "542946085",
+            "task": "Animation Director",
+            "person": {
+                "+content": "GoT Gakusei",
+                "+@id": "304428"
+            }
+        },
+        {
             "+@gid": "3140114274",
             "task": "Sound Director",
             "person": {
@@ -503,12 +805,57 @@
             }
         },
         {
+            "+@gid": "661295958",
+            "+@lang": "EN",
+            "role": "Zaht Brouzdo",
+            "person": {
+                "+content": "David Matranga",
+                "+@id": "9293"
+            }
+        },
+        {
+            "+@gid": "3018903754",
+            "+@lang": "EN",
+            "role": "Braham Joe",
+            "person": {
+                "+content": "Aaron Dismuke",
+                "+@id": "10246"
+            }
+        },
+        {
+            "+@gid": "2556390054",
+            "+@lang": "EN",
+            "role": "Mireille Grangeon",
+            "person": {
+                "+content": "Katelyn Barr",
+                "+@id": "132390"
+            }
+        },
+        {
+            "+@gid": "341020332",
+            "+@lang": "EN",
+            "role": "Shin Seimal",
+            "person": {
+                "+content": "Drew Breedlove",
+                "+@id": "155446"
+            }
+        },
+        {
             "+@gid": "1181977694",
             "+@lang": "EN",
             "role": "Licia Pleide",
             "person": {
                 "+content": "Hayden Daviau",
                 "+@id": "174838"
+            }
+        },
+        {
+            "+@gid": "3678618995",
+            "+@lang": "EN",
+            "role": "Pham",
+            "person": {
+                "+content": "Ciarán Strange",
+                "+@id": "184715"
             }
         },
         {
@@ -530,6 +877,15 @@
             }
         },
         {
+            "+@gid": "2254611409",
+            "+@lang": "EN",
+            "role": "Rosell Kischa",
+            "person": {
+                "+content": "Taylor Murphy",
+                "+@id": "246277"
+            }
+        },
+        {
             "+@gid": "1813091649",
             "+@lang": "EN",
             "role": "Musia Trick",
@@ -545,6 +901,15 @@
             "person": {
                 "+content": "Hitomi Nabatame",
                 "+@id": "17354"
+            }
+        },
+        {
+            "+@gid": "2132903824",
+            "+@lang": "JA",
+            "role": "Maika Fujimiya",
+            "person": {
+                "+content": "Mariya Ise",
+                "+@id": "46112"
             }
         },
         {
@@ -584,6 +949,15 @@
             }
         },
         {
+            "+@gid": "2541170771",
+            "+@lang": "JA",
+            "role": "Takao Fujimiya",
+            "person": {
+                "+content": "Takaki Ōtomari",
+                "+@id": "140682"
+            }
+        },
+        {
             "+@gid": "2777424610",
             "+@lang": "JA",
             "role": "Zaht Brouzdo",
@@ -595,7 +969,7 @@
         {
             "+@gid": "2101222566",
             "+@lang": "JA",
-            "role": "Charlotte Lace",
+            "role": "Charlotte Wraith",
             "person": {
                 "+content": "Narumi Kaho",
                 "+@id": "150233"
@@ -636,6 +1010,15 @@
                 "+content": "Miho Okasaki",
                 "+@id": "172914"
             }
+        },
+        {
+            "+@gid": "1069642425",
+            "+@lang": "JA",
+            "role": "Rikuya Fujimiya",
+            "person": {
+                "+content": "Toshiya Miyata",
+                "+@id": "197255"
+            }
         }
     ],
     "credit": {
@@ -647,6 +1030,6 @@
         }
     },
     "+@date-added": "2024-12-22T16:54:40Z",
-    "+@date-last-modified-at": "2026-10-17T04:31:03Z",
-    "+@date-last-updated-at": "2026-10-17T04:31:03Z"
+    "+@date-last-modified-at": "2026-11-17T02:57:13Z",
+    "+@date-last-updated-at": "2026-11-17T02:57:13Z"
 }
