@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Laid-Back Camp",
     "+@precision": "TV 4",
-    "+@generated-on": "2026-10-17T15:41:57Z",
+    "+@generated-on": "2026-11-17T13:29:47Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "26481"
@@ -13,18 +13,18 @@
         {
             "+@gid": "2211218441",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33948-2211218441.1772352964.jpg",
-            "+@width": "142",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33948-2211218441.1793991910.jpg",
+            "+@width": "141",
             "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33948-2211218441.1772352964.jpg",
-                    "+@width": "142",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A33948-2211218441.1793991910.jpg",
+                    "+@width": "141",
                     "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33948-2211218441.1772352964.jpg",
-                    "+@width": "427",
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A33948-2211218441.1793991910.jpg",
+                    "+@width": "424",
                     "+@height": "600"
                 }
             ]
@@ -48,7 +48,7 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2027",
+            "+content": "2027-04",
             "+@gid": "1487663309",
             "+@type": "Vintage"
         },
@@ -60,11 +60,18 @@
             "+@href": "https://yurucamp.jp/fourth/"
         }
     ],
-    "news": {
-        "+content": "<cite>Laid-Back Camp</cite> 4th Season Anime's Promo Video Reveals Returning Cast, Staff, 2027 Debut",
-        "+@datetime": "2026-03-01T07:35:52Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-03-01/laid-back-camp-4th-season-anime-promo-video-reveals-returning-cast-staff-2027-debut/.234780"
-    },
+    "news": [
+        {
+            "+content": "<cite>Laid-Back Camp</cite> 4th Season Anime's Promo Video Reveals Returning Cast, Staff, 2027 Debut",
+            "+@datetime": "2026-03-01T07:35:52Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-03-01/laid-back-camp-4th-season-anime-promo-video-reveals-returning-cast-staff-2027-debut/.234780"
+        },
+        {
+            "+content": "<cite>Laid-Back Camp</cite> Season 4's Trailer Unveils April 2027 Debut",
+            "+@datetime": "2026-11-06T09:21:42Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-11-06/laid-back-camp-season-4-trailer-unveils-april-2027-debut/.243588"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1137226486",
@@ -107,11 +114,35 @@
             }
         },
         {
+            "+@gid": "3757076834",
+            "task": "Art Director",
+            "person": {
+                "+content": "Masatoshi Muto",
+                "+@id": "433"
+            }
+        },
+        {
             "+@gid": "3251537177",
             "task": "Sound Director",
             "person": {
                 "+content": "Takeshi Takadera",
                 "+@id": "15047"
+            }
+        },
+        {
+            "+@gid": "2159353573",
+            "task": "Cgi Director",
+            "person": {
+                "+content": "Kazuto Furuya",
+                "+@id": "58477"
+            }
+        },
+        {
+            "+@gid": "3196618249",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yūta Katayama",
+                "+@id": "157969"
             }
         }
     ],
@@ -198,5 +229,6 @@
         }
     },
     "+@date-added": "2024-11-09T03:52:30Z",
-    "+@date-last-updated-at": "2026-10-17T15:42:02Z"
+    "+@date-last-modified-at": "2026-11-17T13:29:50Z",
+    "+@date-last-updated-at": "2026-11-17T13:29:50Z"
 }
