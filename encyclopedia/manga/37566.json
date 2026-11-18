@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Kegareta Seichi Junrei ni Tsuite",
     "+@precision": "manga",
-    "+@generated-on": "2026-10-18T18:39:25Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "18912"
-    },
+    "+@generated-on": "2026-11-18T17:16:55Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "18912"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "40966"
+        }
+    ],
     "info": [
         {
             "+@gid": "552347301",
@@ -41,6 +47,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "About the Pilgrimage to a Defiled Holy Place",
+            "+@gid": "2906785894",
+            "+@type": "Alternative title",
+            "+@lang": "DE"
+        },
+        {
             "+content": "穢れた聖地巡礼について",
             "+@gid": "962951665",
             "+@type": "Alternative title",
@@ -50,6 +62,10 @@
             "+content": "horror",
             "+@gid": "1863531280",
             "+@type": "Genres"
+        },
+        {
+            "+content": "IT DOESN’T MATTER IF IT IS TRUE, IT JUST HAS TO FEEL TRUE.Kobayashi, a freelance editor, is trying to get a publisher to bite on his latest pitch: an official guidebook for the Paranormal Punk YouTube channel, where host Ike-boy delights his viewers by charging in to the scariest haunted spots like it’s nothing. The plan is to dive deeper into the stories behind a few of the places featured, but when the publisher sees the channel’s middling subscriber count, they’re not so sure the book will sell. If Kobayashi and Ikeda, the man behind Ike-boy, want to get this project off the ground, they’re going to have to find some incredible material. And if they don’t, well, they could always make something up… <em class=de-emphasized>(from manga)</em>",
+            "+@type": "Plot Summary"
         },
         {
             "+content": "2025-03-05 (serialized in Comic Flapper, Apr 2025)",
@@ -81,5 +97,6 @@
         }
     ],
     "+@date-added": "2025-08-21T23:44:38Z",
-    "+@date-last-updated-at": "2026-10-18T18:39:26Z"
+    "+@date-last-modified-at": "2026-11-18T17:16:56Z",
+    "+@date-last-updated-at": "2026-11-18T17:16:56Z"
 }

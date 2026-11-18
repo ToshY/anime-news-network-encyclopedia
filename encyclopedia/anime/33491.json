@@ -4,10 +4,14 @@
     "+@type": "TV",
     "+@name": "Romelia War Chronicle",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-18T12:29:33Z",
+    "+@generated-on": "2026-11-18T17:16:52Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "33484"
+    },
+    "related-next": {
+        "+@id": "40786",
+        "+@rel": "sequel"
     },
     "info": [
         {
@@ -59,9 +63,34 @@
             "+@lang": "JA"
         },
         {
+            "+content": "action",
+            "+@gid": "3333214313",
+            "+@type": "Genres"
+        },
+        {
             "+content": "fantasy",
             "+@gid": "730876024",
             "+@type": "Genres"
+        },
+        {
+            "+content": "demons",
+            "+@gid": "1701690977",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "military",
+            "+@gid": "1104522788",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "monsters",
+            "+@gid": "2798170005",
+            "+@type": "Themes"
+        },
+        {
+            "+content": "TA",
+            "+@gid": "3496662348",
+            "+@type": "Objectionable content"
         },
         {
             "+content": "After journeying alongside her fiancé on his quest to defeat the Demon King, Romelia is suddenly deemed useless and sent home, her engagement annulled. While the prince and his group return as celebrated heroes, Rome goes home as a disgrace. But she's not the same girl who left her province. While following the adventurers, Rome was the only one without magic or strength but she found her own abilities in trade, negotiation, finances, and gathering information. And now, she plans to use these skills to not only help her family's province, but help the still struggling kingdom. The Demon King may be defeated, but his allies and demons continue to roam. With only her wits and brilliance, Rome will build an army of her own and keep the kingdom safe—no matter what it takes. <em class=de-emphasized>(from manga)</em>",
@@ -91,9 +120,67 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "2",
-        "+@weighted_score": "6.6571"
+        "+@nb_votes": "3",
+        "+@weighted_score": "6.2996"
     },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "The Girl Named Romelia",
+                "+@gid": "2322995256",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "Fortress Takeover",
+                "+@gid": "1292147400",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "The Name of that Miracle",
+                "+@gid": "1940860735",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "The Troubles of a Young Man",
+                "+@gid": "2156452329",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "The Line Between Courage and Recklessness",
+                "+@gid": "2005943323",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "Each of Their Resolves",
+                "+@gid": "1080406038",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "Musical Chairs",
+                "+@gid": "1586307210",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "<i>Romelia War Chronicle</i> Anime's Teaser Visual Announces 2026 TV Premiere",
@@ -144,6 +231,11 @@
             "+content": "Crunchyroll Streams <cite>A Tale of the Secret Saint</cite>, <cite>Psyren</cite>, More Anime in India",
             "+@datetime": "2026-10-02T10:51:48Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-10-02/crunchyroll-streams-a-tale-of-the-secret-saint-psyren-more-anime-in-india/.242409"
+        },
+        {
+            "+content": "<cite>Romelia War Chronicle</cite> Anime's 2nd Part Unveils April 2027 Debut, Ending Song's Artist",
+            "+@datetime": "2026-10-31T15:13:57Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-31/romelia-war-chronicle-anime-2nd-part-unveils-april-2027-debut-ending-song-artist/.243390"
         }
     ],
     "staff": [
@@ -276,15 +368,6 @@
             "person": {
                 "+content": "Mariya Ise",
                 "+@id": "46112"
-            }
-        },
-        {
-            "+@gid": "1922792137",
-            "+@lang": "JA",
-            "role": "Rhett",
-            "person": {
-                "+content": "Naoki Sakurai",
-                "+@id": "87609"
             }
         },
         {
@@ -493,6 +576,15 @@
                 "+content": "Shuntaro Hara",
                 "+@id": "284646"
             }
+        },
+        {
+            "+@gid": "1922792137",
+            "+@lang": "JA",
+            "role": "Rhett",
+            "person": {
+                "+content": "Naoki Sakurai",
+                "+@id": "303831"
+            }
         }
     ],
     "credit": {
@@ -504,6 +596,6 @@
         }
     },
     "+@date-added": "2024-09-10T09:00:09Z",
-    "+@date-last-modified-at": "2026-10-18T12:37:45Z",
-    "+@date-last-updated-at": "2026-10-18T12:37:45Z"
+    "+@date-last-modified-at": "2026-11-18T17:16:56Z",
+    "+@date-last-updated-at": "2026-11-18T17:16:56Z"
 }
