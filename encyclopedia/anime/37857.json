@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Prince of Tennis II U-17 World Cup: Final Member Selection Match",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-19T04:44:34Z",
+    "+@generated-on": "2026-11-18T07:32:37Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "28475"
@@ -80,6 +80,40 @@
             "+@href": "http://tenipuri.jp/u17/selection-match/"
         }
     ],
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "Team Japan's Next Challenge",
+                "+@gid": "2721626869",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "The Selection Match Begins!",
+                "+@gid": "2515772852",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "Men Who Never Give Up",
+                "+@gid": "2892537291",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "The Moon and the Sun",
+                "+@gid": "3516172209",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "<cite>The Prince of Tennis II: U-17 World Cup Semifinal</cite> Anime Gets Sequel",
@@ -110,6 +144,11 @@
             "+content": "Crunchyroll Streams <cite>A Tale of the Secret Saint</cite>, <cite>Psyren</cite>, More Anime in India",
             "+@datetime": "2026-10-02T10:51:48Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-10-02/crunchyroll-streams-a-tale-of-the-secret-saint-psyren-more-anime-in-india/.242409"
+        },
+        {
+            "+content": "Crunchyroll Reveals English Dub Casts for <cite>Full Clearing Another World Under a Goddess with Zero Believers</cite>, 2 More Anime",
+            "+@datetime": "2026-10-25T05:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-25/crunchyroll-reveals-english-dub-casts-for-full-clearing-another-world-under-a-goddess-with-zero-/.243169"
         }
     ],
     "staff": [
@@ -204,12 +243,120 @@
     ],
     "cast": [
         {
+            "+@gid": "1299140314",
+            "+@lang": "EN",
+            "role": "Ryūji Ōmagari",
+            "person": {
+                "+content": "Tony Oliver",
+                "+@id": "7006"
+            }
+        },
+        {
+            "+@gid": "3232074958",
+            "+@lang": "EN",
+            "role": "Yushi Oshitari",
+            "person": {
+                "+content": "Keith Silverstein",
+                "+@id": "63324"
+            }
+        },
+        {
+            "+@gid": "2823289673",
+            "+@lang": "EN",
+            "role": "Keigo Atobe",
+            "person": {
+                "+content": "Christopher Wehkamp",
+                "+@id": "112286"
+            }
+        },
+        {
+            "+@gid": "3053590347",
+            "+@lang": "EN",
+            "role": "Kazuya Tokugawa",
+            "person": {
+                "+content": "Daman Mills",
+                "+@id": "134672"
+            }
+        },
+        {
             "+@gid": "2731580467",
             "+@lang": "EN",
             "role": "Shuji Tanegashima",
             "person": {
                 "+content": "Daniel J. Edwards",
                 "+@id": "140247"
+            }
+        },
+        {
+            "+@gid": "1871838187",
+            "+@lang": "EN",
+            "role": "Shusuke Fuji",
+            "person": {
+                "+content": "Stephen Fu",
+                "+@id": "146239"
+            }
+        },
+        {
+            "+@gid": "1602731094",
+            "+@lang": "EN",
+            "role": "Ryoma Echizen",
+            "person": {
+                "+content": "Ry McKeand",
+                "+@id": "171465"
+            }
+        },
+        {
+            "+@gid": "1644578719",
+            "+@lang": "EN",
+            "role": "Kintaro Toyama",
+            "person": {
+                "+content": "Caitlyn Elizabeth",
+                "+@id": "172838"
+            }
+        },
+        {
+            "+@gid": "2111536723",
+            "+@lang": "EN",
+            "role": "Kuranosuke Shiraishi",
+            "person": {
+                "+content": "Joshua Waters",
+                "+@id": "196328"
+            }
+        },
+        {
+            "+@gid": "1694193581",
+            "+@lang": "EN",
+            "role": "Kanata Irie",
+            "person": {
+                "+content": "Michael Kovach",
+                "+@id": "201751"
+            }
+        },
+        {
+            "+@gid": "1694975998",
+            "+@lang": "EN",
+            "role": "Silva de Bambieri",
+            "person": {
+                "+content": "Kevin Andrew Rivera",
+                "+@id": "221037"
+            }
+        },
+        {
+            "+@gid": "2492074165",
+            "+@lang": "EN",
+            "role": "Julio Roman",
+            "person": {
+                "+content": "Brandon Acosta",
+                "+@id": "232202"
+            }
+        },
+        {
+            "+@gid": "2225290100",
+            "+@lang": "EN",
+            "role": "Mars de Colón",
+            "person": {
+                "+content": "Phil Sterman",
+                "+@id": "281464"
             }
         },
         {
@@ -367,6 +514,6 @@
         }
     ],
     "+@date-added": "2025-09-21T05:58:46Z",
-    "+@date-last-modified-at": "2026-10-19T04:44:36Z",
-    "+@date-last-updated-at": "2026-10-19T04:44:36Z"
+    "+@date-last-modified-at": "2026-11-18T07:32:43Z",
+    "+@date-last-updated-at": "2026-11-18T07:32:43Z"
 }
