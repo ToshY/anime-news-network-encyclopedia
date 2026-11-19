@@ -4,33 +4,28 @@
     "+@type": "TV",
     "+@name": "Akane-banashi",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-10-19T21:05:22Z",
+    "+@generated-on": "2026-11-19T01:53:24Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "37292"
     },
     "info": [
         {
-            "+@gid": "2894853084",
+            "+@gid": "802476841",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40070-2894853084.1782013079.jpg",
-            "+@width": "200",
-            "+@height": "177",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40070-802476841.1792933610.jpg",
+            "+@width": "142",
+            "+@height": "200",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40070-2894853084.1782013079.jpg",
-                    "+@width": "200",
-                    "+@height": "177"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40070-802476841.1792933610.jpg",
+                    "+@width": "142",
+                    "+@height": "200"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40070-2894853084.1782013079.jpg",
-                    "+@width": "500",
-                    "+@height": "443"
-                },
-                {
-                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A40070-2894853084.1782013079.jpg",
-                    "+@width": "600",
-                    "+@height": "532"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40070-802476841.1792933610.jpg",
+                    "+@width": "425",
+                    "+@height": "600"
                 }
             ]
         },
@@ -52,6 +47,11 @@
             "+@type": "Genres"
         },
         {
+            "+content": "After graduating from high school, Akane Osaki officially becomes an apprentice at Shiguma Arakawa's rakugo school, determined to reach the rank of shin'uchi. Beginning her formal training at the traditional Yasaka-tei theater, she must progress from performing as a zenza opening act toward becoming a headliner while refining her storytelling skills and adjusting to life alongside her fellow apprentices.",
+            "+@gid": "1353924305",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "2027-01",
             "+@gid": "1298263811",
             "+@type": "Vintage"
@@ -64,7 +64,36 @@
             "+@href": "https://akane-banashi.com/"
         }
     ],
+    "news": {
+        "+content": "<cite>Akane-banashi</cite> Season 2 Anime Reveals More Cast, Teaser Trailer",
+        "+@datetime": "2026-10-25T09:10:00Z",
+        "+@href": "https://www.animenewsnetwork.com:/news/2026-10-25/akane-banashi-season-2-anime-reveals-more-cast-teaser-trailer/.243178"
+    },
     "staff": [
+        {
+            "+@gid": "2416264747",
+            "task": "Director",
+            "person": {
+                "+content": "Ayumu Watanabe",
+                "+@id": "63950"
+            }
+        },
+        {
+            "+@gid": "3915049250",
+            "task": "Series Composition",
+            "person": {
+                "+content": "Michihiro Tsuchiya",
+                "+@id": "63946"
+            }
+        },
+        {
+            "+@gid": "518252500",
+            "task": "Music",
+            "person": {
+                "+content": "Akio Izutsu",
+                "+@id": "103532"
+            }
+        },
         {
             "+@gid": "1764362922",
             "task": "Original creator",
@@ -80,9 +109,99 @@
                 "+content": "Yūki Suenaga",
                 "+@id": "222593"
             }
+        },
+        {
+            "+@gid": "2941644346",
+            "task": "Character Design",
+            "person": {
+                "+content": "Kii Tanaka",
+                "+@id": "119033"
+            }
+        },
+        {
+            "+@gid": "1105199992",
+            "task": "Art",
+            "person": {
+                "+content": "Hiroko Tanabe",
+                "+@id": "76866"
+            }
+        },
+        {
+            "+@gid": "2390262179",
+            "task": "Art",
+            "person": {
+                "+content": "Takumi Oda",
+                "+@id": "259213"
+            }
+        },
+        {
+            "+@gid": "961703429",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Hisashi Kagawa",
+                "+@id": "3028"
+            }
+        },
+        {
+            "+@gid": "2849850110",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Yasunari Nitta",
+                "+@id": "18562"
+            }
+        },
+        {
+            "+@gid": "2476007067",
+            "task": "Chief Animation Director",
+            "person": {
+                "+content": "Kii Tanaka",
+                "+@id": "119033"
+            }
+        },
+        {
+            "+@gid": "2323257315",
+            "task": "Art design",
+            "person": {
+                "+content": "Shūhei Tada",
+                "+@id": "186583"
+            }
+        },
+        {
+            "+@gid": "1751773256",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Noriyoshi Konuma",
+                "+@id": "84893"
+            }
+        },
+        {
+            "+@gid": "1539415030",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Yūta Nakamura",
+                "+@id": "210906"
+            }
         }
     ],
     "cast": [
+        {
+            "+@gid": "2720583734",
+            "+@lang": "JA",
+            "role": "Shinta Arakawa",
+            "person": {
+                "+content": "Jun Fukuyama",
+                "+@id": "337"
+            }
+        },
+        {
+            "+@gid": "2100776242",
+            "+@lang": "JA",
+            "role": "Isshō Arakawa",
+            "person": {
+                "+content": "Akio Ōtsuka",
+                "+@id": "459"
+            }
+        },
         {
             "+@gid": "3435316454",
             "+@lang": "JA",
@@ -120,12 +239,93 @@
             }
         },
         {
+            "+@gid": "2365476362",
+            "+@lang": "JA",
+            "role": "Shiguma Arakawa",
+            "person": {
+                "+content": "Masaki Terasoma",
+                "+@id": "21471"
+            }
+        },
+        {
             "+@gid": "2433772125",
             "+@lang": "JA",
             "role": "Urara Ransaika",
             "person": {
                 "+content": "Mutsumi Tamura",
                 "+@id": "70817"
+            }
+        },
+        {
+            "+@gid": "572877861",
+            "+@lang": "JA",
+            "role": "Karashi Nerimaya",
+            "person": {
+                "+content": "Takuya Eguchi",
+                "+@id": "76338"
+            }
+        },
+        {
+            "+@gid": "1293692648",
+            "+@lang": "JA",
+            "role": "Maikeru Arakawa",
+            "person": {
+                "+content": "Nobunaga Shimazaki",
+                "+@id": "86706"
+            }
+        },
+        {
+            "+@gid": "852666034",
+            "+@lang": "JA",
+            "role": "Kyoji Arakawa",
+            "person": {
+                "+content": "Yōhei Azakami",
+                "+@id": "108274"
+            }
+        },
+        {
+            "+@gid": "2546200200",
+            "+@lang": "JA",
+            "role": "Guriko Arakawa",
+            "person": {
+                "+content": "Seiichirō Yamashita",
+                "+@id": "121187"
+            }
+        },
+        {
+            "+@gid": "1064624946",
+            "+@lang": "JA",
+            "role": "Hikaru Kōragi",
+            "person": {
+                "+content": "Rie Takahashi",
+                "+@id": "126148"
+            }
+        },
+        {
+            "+@gid": "1113070673",
+            "+@lang": "JA",
+            "role": "Asagao Konjakutei",
+            "person": {
+                "+content": "Taku Yashiro",
+                "+@id": "130983"
+            }
+        },
+        {
+            "+@gid": "1175198068",
+            "+@lang": "JA",
+            "role": "Hassho Tsubakiya",
+            "person": {
+                "+content": "Yōji Ueda",
+                "+@id": "131376"
+            }
+        },
+        {
+            "+@gid": "1425532630",
+            "+@lang": "JA",
+            "role": "Koguma Arakawa",
+            "person": {
+                "+content": "Chiaki Kobayashi",
+                "+@id": "176057"
             }
         },
         {
@@ -147,6 +347,15 @@
             }
         }
     ],
+    "credit": {
+        "+@gid": "385911325",
+        "task": "Animation Production",
+        "company": {
+            "+content": "ZEXCS",
+            "+@id": "1215"
+        }
+    },
     "+@date-added": "2026-06-20T23:37:07Z",
-    "+@date-last-updated-at": "2026-10-19T21:05:31Z"
+    "+@date-last-modified-at": "2026-11-19T01:53:32Z",
+    "+@date-last-updated-at": "2026-11-19T01:53:32Z"
 }

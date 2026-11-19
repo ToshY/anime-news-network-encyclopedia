@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Attack on Titan: THE LAST ATTACK",
     "+@precision": "movie",
-    "+@generated-on": "2026-10-18T12:37:43Z",
+    "+@generated-on": "2026-11-19T01:53:30Z",
     "related-prev": {
         "+@rel": "compilation of",
         "+@id": "25492"
@@ -161,15 +161,23 @@
     ],
     "ratings": {
         "+@nb_votes": "21",
-        "+@weighted_score": "7.8563",
-        "+@bayesian_score": "7.71539"
+        "+@weighted_score": "7.8569",
+        "+@bayesian_score": "7.71574"
     },
-    "release": {
-        "+content": "Attack on Titan: THE LAST ATTACK - [US] [4K] [SteelBook] (Blu-ray)",
-        "+@date": "2027-01-26",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=59512",
-        "+@ean": "0704400111938"
-    },
+    "release": [
+        {
+            "+content": "Attack on Titan: THE LAST ATTACK - [SteelBook] (Blu-ray + 4K UHD)",
+            "+@date": "2027-01-26",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=59512",
+            "+@ean": "0704400111938"
+        },
+        {
+            "+content": "Attack on Titan: THE LAST ATTACK - [UK] [SteelBook] (Blu-ray + 4K UHD)",
+            "+@date": "2027-02-08",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=59640",
+            "+@ean": "5022366034944"
+        }
+    ],
     "news": [
         {
             "+content": "<cite>Attack on Titan</cite> Finale Compilation Film Announced for November",
@@ -876,6 +884,6 @@
         }
     },
     "+@date-added": "2024-08-17T22:46:30Z",
-    "+@date-last-modified-at": "2026-10-18T12:37:45Z",
-    "+@date-last-updated-at": "2026-10-18T12:37:45Z"
+    "+@date-last-modified-at": "2026-11-19T01:53:32Z",
+    "+@date-last-updated-at": "2026-11-19T01:53:32Z"
 }
