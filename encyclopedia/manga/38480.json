@@ -4,12 +4,36 @@
     "+@type": "manga",
     "+@name": "Ghoul Work, Kurose",
     "+@precision": "manga",
-    "+@generated-on": "2026-10-20T04:54:21Z",
+    "+@generated-on": "2026-11-19T13:14:01Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "36895"
     },
     "info": [
+        {
+            "+@gid": "956995536",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38480-956995536.1794439573.jpg",
+            "+@width": "133",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38480-956995536.1794439573.jpg",
+                    "+@width": "133",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38480-956995536.1794439573.jpg",
+                    "+@width": "400",
+                    "+@height": "600"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A38480-956995536.1794439573.jpg",
+                    "+@width": "432",
+                    "+@height": "648"
+                }
+            ]
+        },
         {
             "+content": "Ghoul Work, Kurose",
             "+@gid": "2175956660",
@@ -21,6 +45,12 @@
             "+@gid": "2864979696",
             "+@type": "Alternative title",
             "+@lang": "EN"
+        },
+        {
+            "+content": "Lo spettro di Kurose Kun",
+            "+@gid": "3524812495",
+            "+@type": "Alternative title",
+            "+@lang": "IT"
         },
         {
             "+content": "Otsukaresama, Kurose-kun",
@@ -61,11 +91,18 @@
         "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=56726",
         "+@ean": "9781427888211"
     },
-    "news": {
-        "+content": "Tokyopop Licenses <cite>Nagi & Hayasaki</cite>, <cite>Beneath the Fallen Camellia Blooms</cite>, More Manga",
-        "+@datetime": "2026-02-14T03:28:24Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-02-13/tokyopop-licenses-nagi-and-hayasaki-beneath-the-fallen-camellia-blooms-more-manga/.234140"
-    },
+    "news": [
+        {
+            "+content": "Tokyopop Licenses <cite>Nagi & Hayasaki</cite>, <cite>Beneath the Fallen Camellia Blooms</cite>, More Manga",
+            "+@datetime": "2026-02-14T03:28:24Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-02-13/tokyopop-licenses-nagi-and-hayasaki-beneath-the-fallen-camellia-blooms-more-manga/.234140"
+        },
+        {
+            "+content": "North American Anime, Manga Releases, November 1-7",
+            "+@datetime": "2026-11-06T22:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-11-06/north-american-anime-manga-releases-november-1-7/.243459"
+        }
+    ],
     "staff": {
         "+@gid": "767413247",
         "task": "Story & Art",
@@ -75,5 +112,6 @@
         }
     },
     "+@date-added": "2026-02-16T06:33:53Z",
-    "+@date-last-updated-at": "2026-10-20T04:54:23Z"
+    "+@date-last-modified-at": "2026-11-19T13:14:02Z",
+    "+@date-last-updated-at": "2026-11-19T13:14:02Z"
 }
