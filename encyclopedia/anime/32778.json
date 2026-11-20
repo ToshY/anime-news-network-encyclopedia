@@ -4,7 +4,7 @@
     "+@type": "OAV",
     "+@name": "Ranma ½: Hot Song Contest",
     "+@precision": "OAV",
-    "+@generated-on": "2026-10-19T03:59:39Z",
+    "+@generated-on": "2026-11-20T16:59:08Z",
     "related-prev": {
         "+@rel": "related to",
         "+@id": "64"
@@ -88,9 +88,69 @@
             "+@type": "Running time"
         },
         {
+            "+content": "2",
+            "+@gid": "2344675646",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "1990-11-07",
             "+@gid": "2091329887",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Akane no Komoriuta\" (あかねの子守唄) by Noriko Hidaka",
+            "+@gid": "1027023658",
+            "+@type": "Ending Theme"
+        },
+        {
+            "+content": "\"Heart Nibun no Naisho\" (ハート ないしょ／２) by Noriko Hidaka",
+            "+@gid": "2050347929",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Kawaikunee, Iroke ga nee\" (かわいくねえ、色気がねえ) by Kappei Yamaguchi",
+            "+@gid": "2105654507",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Lambada Ranma (Curtain Call Version)\" (乱馬ダ☆RANMA) by The Ranma ½ Operatic Troupe",
+            "+@gid": "2295784469",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Little Date (TV Service Version)\" (リトル★デイト) by Megumi Hayashibara, Noriko Hidaka, & Rei Sakuma",
+            "+@gid": "1158765828",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Love Letter from China\" (チャイナからの手紙) by Kappei Yamaguchi & Megumi Hayashibara",
+            "+@gid": "2543527018",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Musabetsu Kakutō Itchokusen: Panda wa Uta o Utaenai\" (無差別格闘一直線~パンダは歌をうたえない) by Kenichi Ogata",
+            "+@gid": "2695980862",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Niji to Ring no Ballade: Itoshi no Florence\" (虹とリンクのバラード~いとしのフローレンス) by Kazuhiko Inoue & Naoko Matsui",
+            "+@gid": "372177326",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Szła Dzieweczka Do Laseczka\" (森へ行きましょう) by Saeko Shimazu",
+            "+@gid": "2458165022",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Wǒ de Àirén\" (我的愛人) by Rei Sakuma",
+            "+@gid": "2525884626",
+            "+@type": "Insert song"
+        },
+        {
+            "+content": "\"Yume no Balloon\" (夢のBalloon) by Megumi Hayashibara",
+            "+@gid": "2237234124",
+            "+@type": "Insert song"
         }
     ],
     "ratings": {
@@ -123,6 +183,38 @@
             }
         },
         {
+            "+@gid": "2069816242",
+            "task": "Music",
+            "person": {
+                "+content": "Hideharu Mori",
+                "+@id": "8514"
+            }
+        },
+        {
+            "+@gid": "1423956011",
+            "task": "Original Manga",
+            "person": {
+                "+content": "Rumiko Takahashi",
+                "+@id": "149"
+            }
+        },
+        {
+            "+@gid": "2831367396",
+            "task": "Character Design",
+            "person": {
+                "+content": "Atsuko Nakajima",
+                "+@id": "59"
+            }
+        },
+        {
+            "+@gid": "3123480025",
+            "task": "Art Director",
+            "person": {
+                "+content": "Satoshi Miura",
+                "+@id": "60"
+            }
+        },
+        {
             "+@gid": "2283053601",
             "task": "Animation Director",
             "person": {
@@ -151,6 +243,15 @@
             }
         },
         {
+            "+@gid": "3113248892",
+            "+@lang": "JA",
+            "role": "Genma Saotome",
+            "person": {
+                "+content": "Kenichi Ogata",
+                "+@id": "284"
+            }
+        },
+        {
             "+@gid": "2164845543",
             "+@lang": "JA",
             "role": "Ranma Saotome",
@@ -169,6 +270,42 @@
             }
         },
         {
+            "+@gid": "2219393076",
+            "+@lang": "JA",
+            "role": "Mikado Sanzenin",
+            "person": {
+                "+content": "Kazuhiko Inoue",
+                "+@id": "722"
+            }
+        },
+        {
+            "+@gid": "1871829930",
+            "+@lang": "JA",
+            "role": "Shampoo",
+            "person": {
+                "+content": "Rei Sakuma",
+                "+@id": "853"
+            }
+        },
+        {
+            "+@gid": "1117731396",
+            "+@lang": "JA",
+            "role": "Azusa Shiratori",
+            "person": {
+                "+content": "Naoko Matsui",
+                "+@id": "974"
+            }
+        },
+        {
+            "+@gid": "3065473070",
+            "+@lang": "JA",
+            "role": "Kodachi Kunoh",
+            "person": {
+                "+content": "Saeko Shimazu",
+                "+@id": "1582"
+            }
+        },
+        {
             "+@gid": "3860871776",
             "+@lang": "JA",
             "role": "Jusenkyō Guide",
@@ -179,6 +316,14 @@
         }
     ],
     "credit": [
+        {
+            "+@gid": "2688651463",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Studio DEEN",
+                "+@id": "35"
+            }
+        },
         {
             "+@gid": "1464234798",
             "task": "Production",
@@ -205,6 +350,6 @@
         }
     ],
     "+@date-added": "2024-05-29T14:20:39Z",
-    "+@date-last-modified-at": "2026-10-19T04:44:36Z",
-    "+@date-last-updated-at": "2026-10-19T04:44:36Z"
+    "+@date-last-modified-at": "2026-11-20T16:59:17Z",
+    "+@date-last-updated-at": "2026-11-20T16:59:17Z"
 }

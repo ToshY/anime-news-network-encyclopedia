@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Ninja Skooler",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-19T04:00:24Z",
+    "+@generated-on": "2026-11-20T16:59:13Z",
     "info": [
         {
             "+@gid": "2361063906",
@@ -43,6 +43,11 @@
             "+@lang": "JA"
         },
         {
+            "+content": "2026-11-06 (pilot film streaming on YouTube)",
+            "+@gid": "1980264598",
+            "+@type": "Vintage"
+        },
+        {
             "+content": "『Ninja Skooler』公式サイト",
             "+@gid": "3704658519",
             "+@type": "Official website",
@@ -50,6 +55,10 @@
             "+@href": "https://kinemacitrus.biz/ninjaskooler/"
         }
     ],
+    "ratings": {
+        "+@nb_votes": "1",
+        "+@weighted_score": "7"
+    },
     "news": [
         {
             "+content": "Kinema Citrus Announces <cite>'Goodbye, Lara,'</cite> <cite>Ninja Skooler</cite> Anime",
@@ -60,6 +69,11 @@
             "+content": "Kinema Citrus Unveils Videos, More Staff for <i>'Goodbye, Lara,' Ninja Skooler</i> Anime",
             "+@datetime": "2024-05-19T01:01:06Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2024-05-18/kinema-citrus-unveils-videos-more-staff-for-goodbye-lara-ninja-skooler-anime/.210957"
+        },
+        {
+            "+content": "<cite>Ninja Skooler</cite> Anime Unveils Pilot Film, Images, Song",
+            "+@datetime": "2026-11-06T01:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-11-05/ninja-skooler-anime-unveils-pilot-film-images-song/.243571"
         }
     ],
     "staff": [
@@ -72,22 +86,129 @@
             }
         },
         {
-            "+@gid": "2799993555",
-            "task": "Character Design",
+            "+@gid": "382401565",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shunsuke Takarai",
+                "+@id": "134018"
+            }
+        },
+        {
+            "+@gid": "1039642998",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shunsuke Takarai",
+                "+@id": "134018"
+            }
+        },
+        {
+            "+@gid": "254612005",
+            "task": "Music",
+            "person": {
+                "+content": "Kevin Penkin",
+                "+@id": "137322"
+            }
+        },
+        {
+            "+@gid": "1445616948",
+            "task": "Original Character Design",
             "person": {
                 "+content": "Hami",
                 "+@id": "265947"
             }
+        },
+        {
+            "+@gid": "1933830528",
+            "task": "Character Design",
+            "person": {
+                "+content": "Hiroko Oguri",
+                "+@id": "27968"
+            }
+        },
+        {
+            "+@gid": "1786998300",
+            "task": "Art Director",
+            "person": {
+                "+content": "Ju Young Lee",
+                "+@id": "222165"
+            }
+        },
+        {
+            "+@gid": "2117095047",
+            "task": "Translation",
+            "person": {
+                "+content": "Diana Garnet",
+                "+@id": "133048"
+            }
+        },
+        {
+            "+@gid": "2592906620",
+            "task": "Sound Director",
+            "person": {
+                "+content": "Haru Yamada",
+                "+@id": "135072"
+            }
+        },
+        {
+            "+@gid": "1838163206",
+            "task": "Director of Photography",
+            "person": {
+                "+content": "Tsunetaka Ema",
+                "+@id": "40052"
+            }
+        },
+        {
+            "+@gid": "2605490541",
+            "task": "Producer",
+            "person": {
+                "+content": "Muneki Ogasawara",
+                "+@id": "117101"
+            }
+        },
+        {
+            "+@gid": "1277430096",
+            "task": "Producer",
+            "person": {
+                "+content": "Makoto Kimura",
+                "+@id": "183766"
+            }
         }
     ],
-    "credit": {
-        "+@gid": "1386349952",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Kinema Citrus",
-            "+@id": "7744"
+    "credit": [
+        {
+            "+@gid": "1386349952",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Kinema Citrus",
+                "+@id": "7744"
+            }
+        },
+        {
+            "+@gid": "1724888952",
+            "task": "Animation Production",
+            "company": {
+                "+content": "breccia",
+                "+@id": "28147"
+            }
+        },
+        {
+            "+@gid": "1389323701",
+            "task": "Production",
+            "company": {
+                "+content": "BLUE RIGHTS",
+                "+@id": "27272"
+            }
+        },
+        {
+            "+@gid": "1289330467",
+            "task": "Production",
+            "company": {
+                "+content": "Studio Hale",
+                "+@id": "28244"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-05-18T17:46:06Z",
-    "+@date-last-updated-at": "2026-10-19T04:44:36Z"
+    "+@date-last-modified-at": "2026-11-20T16:59:17Z",
+    "+@date-last-updated-at": "2026-11-20T16:59:17Z"
 }

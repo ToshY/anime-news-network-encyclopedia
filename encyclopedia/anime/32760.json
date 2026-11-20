@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "100 Meters",
     "+@precision": "movie",
-    "+@generated-on": "2026-10-19T03:59:57Z",
+    "+@generated-on": "2026-11-20T16:59:11Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "32759"
@@ -92,19 +92,27 @@
     ],
     "ratings": {
         "+@nb_votes": "36",
-        "+@weighted_score": "8.1459",
-        "+@bayesian_score": "7.97662"
+        "+@weighted_score": "8.1468",
+        "+@bayesian_score": "7.97727"
     },
     "review": {
         "+content": "<cite>100 Meters</cite> Anime Film Review",
         "+@href": "https://www.animenewsnetwork.com/review/100-meters-anime-film/.230692"
     },
-    "release": {
-        "+content": "100 Meters - [Collector's Edition] (Blu-ray)",
-        "+@date": "2026-12-01",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=59522",
-        "+@ean": "0884400910325"
-    },
+    "release": [
+        {
+            "+content": "100 Meters - [Collector's Edition] (Blu-ray)",
+            "+@date": "2026-12-01",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=59522",
+            "+@ean": "0884400910325"
+        },
+        {
+            "+content": "100 Meters - [AU] (Blu-ray)",
+            "+@date": "2027-01-20",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=59581",
+            "+@ean": "9309002066467"
+        }
+    ],
     "news": [
         {
             "+content": "Annecy Reveals <cite>ON-GAKU: Our Sound</cite> Director Kenji Iwaisawa's New Film <cite>Hyakuemu</cite> (Updated)",
@@ -700,6 +708,6 @@
         }
     ],
     "+@date-added": "2024-05-24T05:37:20Z",
-    "+@date-last-modified-at": "2026-10-19T04:44:36Z",
-    "+@date-last-updated-at": "2026-10-19T04:44:36Z"
+    "+@date-last-modified-at": "2026-11-20T16:59:17Z",
+    "+@date-last-updated-at": "2026-11-20T16:59:17Z"
 }
