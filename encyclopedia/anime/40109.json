@@ -4,28 +4,33 @@
     "+@type": "ONA",
     "+@name": "Fool Night",
     "+@precision": "ONA",
-    "+@generated-on": "2026-10-22T13:49:08Z",
+    "+@generated-on": "2026-11-21T21:40:31Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "27720"
     },
     "info": [
         {
-            "+@gid": "2344280265",
+            "+@gid": "2582183668",
             "+@type": "Picture",
-            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40109-2344280265.1789646272.jpg",
-            "+@width": "134",
-            "+@height": "200",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40109-2582183668.1793915349.jpg",
+            "+@width": "200",
+            "+@height": "147",
             "img": [
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40109-2344280265.1789646272.jpg",
-                    "+@width": "134",
-                    "+@height": "200"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40109-2582183668.1793915349.jpg",
+                    "+@width": "200",
+                    "+@height": "147"
                 },
                 {
-                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40109-2344280265.1789646272.jpg",
-                    "+@width": "400",
-                    "+@height": "598"
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40109-2582183668.1793915349.jpg",
+                    "+@width": "500",
+                    "+@height": "368"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A40109-2582183668.1793915349.jpg",
+                    "+@width": "600",
+                    "+@height": "441"
                 }
             ]
         },
@@ -51,9 +56,24 @@
             "+@type": "Plot Summary"
         },
         {
+            "+content": "12",
+            "+@gid": "1993352438",
+            "+@type": "Number of episodes"
+        },
+        {
             "+content": "2026-11-26",
             "+@gid": "1474743254",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"Shake! spit out\" by Tempalay",
+            "+@gid": "3200592203",
+            "+@type": "Opening Theme"
+        },
+        {
+            "+content": "\"Iki (Breath)\" by Nowlu",
+            "+@gid": "2621978883",
+            "+@type": "Ending Theme"
         },
         {
             "+content": "アニメ「フールナイト」公式サイト",
@@ -63,11 +83,23 @@
             "+@href": "https://www.foolnight.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Fool Night</cite> Anime's Teaser Reveals More Cast, November 26 Worldwide Netflix Debut",
-        "+@datetime": "2026-08-20T23:45:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-08-20/fool-night-anime-teaser-reveals-more-cast-november-26-worldwide-netflix-debut/.240745"
-    },
+    "news": [
+        {
+            "+content": "<cite>Fool Night</cite> Anime's Teaser Reveals More Cast, November 26 Worldwide Netflix Debut",
+            "+@datetime": "2026-08-20T23:45:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-08-20/fool-night-anime-teaser-reveals-more-cast-november-26-worldwide-netflix-debut/.240745"
+        },
+        {
+            "+content": "<cite>Fool Night</cite> Anime Streams in India on November 26",
+            "+@datetime": "2026-10-31T03:30:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-31/fool-night-anime-streams-in-india-on-november-26/.243361"
+        },
+        {
+            "+content": "<cite>Fool Night</cite> Anime's Trailer Reveals Theme Songs, Additional Cast",
+            "+@datetime": "2026-11-05T11:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-11-05/fool-night-anime-trailer-reveals-theme-songs-additional-cast/.243524"
+        }
+    ],
     "staff": [
         {
             "+@gid": "1704552533",
@@ -186,12 +218,30 @@
             }
         },
         {
+            "+@gid": "1841843857",
+            "+@lang": "JA",
+            "role": "Ivy",
+            "person": {
+                "+content": "Yumiko Kobayashi",
+                "+@id": "500"
+            }
+        },
+        {
             "+@gid": "2411472309",
             "+@lang": "JA",
             "role": "Jin Hiragishi",
             "person": {
                 "+content": "Kiyomitsu Mizuuchi",
                 "+@id": "10932"
+            }
+        },
+        {
+            "+@gid": "2288751971",
+            "+@lang": "JA",
+            "role": "Ken Hikasa",
+            "person": {
+                "+content": "Hiroshi Tsuchida",
+                "+@id": "17695"
             }
         },
         {
@@ -213,6 +263,24 @@
             }
         },
         {
+            "+@gid": "1509137771",
+            "+@lang": "JA",
+            "role": "Nishi",
+            "person": {
+                "+content": "Nobuhiko Okamoto",
+                "+@id": "59411"
+            }
+        },
+        {
+            "+@gid": "2517632085",
+            "+@lang": "JA",
+            "role": "Sumi Matsuno",
+            "person": {
+                "+content": "Shion Wakayama",
+                "+@id": "61670"
+            }
+        },
+        {
             "+@gid": "2352620118",
             "+@lang": "JA",
             "role": "Yomiko Hōrai",
@@ -228,6 +296,15 @@
             "person": {
                 "+content": "Junya Enoki",
                 "+@id": "109167"
+            }
+        },
+        {
+            "+@gid": "3090632240",
+            "+@lang": "JA",
+            "role": "Meg Okumura",
+            "person": {
+                "+content": "Sayaka Senbongi",
+                "+@id": "133460"
             }
         }
     ],
@@ -250,6 +327,6 @@
         }
     ],
     "+@date-added": "2026-06-23T21:02:24Z",
-    "+@date-last-modified-at": "2026-10-22T13:49:09Z",
-    "+@date-last-updated-at": "2026-10-22T13:49:09Z"
+    "+@date-last-modified-at": "2026-11-21T21:40:33Z",
+    "+@date-last-updated-at": "2026-11-21T21:40:33Z"
 }

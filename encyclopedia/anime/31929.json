@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "I am the only one who is not attacked in the world filled with zombies",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-20T20:00:29Z",
+    "+@generated-on": "2026-11-21T21:40:32Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "31927"
@@ -48,7 +48,17 @@
             "+@lang": "JA"
         },
         {
-            "+content": "2027-01",
+            "+content": "horror",
+            "+@gid": "2558165400",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "When a sudden zombie outbreak plunges the world into chaos, former office worker Yusuke Takemura discovers that the undead do not attack him, despite having seemingly been bitten. Determined to enjoy his newfound freedom rather than risk his life helping others, he sets out to survive on his own terms. However, his plans take an unexpected turn when he encounters another survivor, a girl named Mitsuki, in need of help.",
+            "+@gid": "2600681752",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2027-01-01",
             "+@gid": "843625339",
             "+@type": "Vintage"
         },
@@ -75,6 +85,11 @@
             "+content": "<cite>'I am the only one who is not attacked in the world filled with zombies'</cite> TV Anime's Main Promo Video Previews Theme Songs",
             "+@datetime": "2026-10-10T04:09:11Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-10-10/i-am-the-only-one-who-is-not-attacked-in-the-world-filled-with-zombies-tv-anime-main-promo-video-/.242682"
+        },
+        {
+            "+content": "<cite>'I am the only one who is not attacked in the world filled with zombies'</cite> Anime Reveals More Cast, January 1 TV Debut",
+            "+@datetime": "2026-11-20T03:58:04Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-11-19/i-am-the-only-one-who-is-not-attacked-in-the-world-filled-with-zombies-anime-reveals-more-cast-/.244007"
         }
     ],
     "staff": [
@@ -193,6 +208,15 @@
     ],
     "cast": [
         {
+            "+@gid": "2947344046",
+            "+@lang": "JA",
+            "role": "Skull Man",
+            "person": {
+                "+content": "Kentarō Tone",
+                "+@id": "57088"
+            }
+        },
+        {
             "+@gid": "2766958019",
             "+@lang": "JA",
             "role": "Sayaka Makiura",
@@ -202,12 +226,57 @@
             }
         },
         {
+            "+@gid": "1047154047",
+            "+@lang": "JA",
+            "role": "Kudō",
+            "person": {
+                "+content": "Seigo Yokota",
+                "+@id": "106904"
+            }
+        },
+        {
+            "+@gid": "2844551101",
+            "+@lang": "JA",
+            "role": "Kiriko Ogura",
+            "person": {
+                "+content": "Sarah Emi Bridcutt",
+                "+@id": "124602"
+            }
+        },
+        {
+            "+@gid": "2550971840",
+            "+@lang": "JA",
+            "role": "Sasaki",
+            "person": {
+                "+content": "Shuhei Matsuda",
+                "+@id": "132462"
+            }
+        },
+        {
+            "+@gid": "2705084265",
+            "+@lang": "JA",
+            "role": "Yū Fujino",
+            "person": {
+                "+content": "Risae Matsuda",
+                "+@id": "136079"
+            }
+        },
+        {
             "+@gid": "636891169",
             "+@lang": "JA",
             "role": "Yūsuke Takemura",
             "person": {
                 "+content": "Wataru Katō",
                 "+@id": "151799"
+            }
+        },
+        {
+            "+@gid": "2861984548",
+            "+@lang": "JA",
+            "role": "Onodera",
+            "person": {
+                "+content": "Takeyuki Shimada",
+                "+@id": "198723"
             }
         },
         {
@@ -226,6 +295,15 @@
             "person": {
                 "+content": "Yuno Azuma",
                 "+@id": "279441"
+            }
+        },
+        {
+            "+@gid": "2859477397",
+            "+@lang": "JA",
+            "role": "Takashi Fujino",
+            "person": {
+                "+content": "Mitsuki Kuribayashi",
+                "+@id": "301345"
             }
         }
     ],
@@ -248,6 +326,6 @@
         }
     ],
     "+@date-added": "2024-02-01T06:16:08Z",
-    "+@date-last-modified-at": "2026-10-20T20:00:33Z",
-    "+@date-last-updated-at": "2026-10-20T20:00:33Z"
+    "+@date-last-modified-at": "2026-11-21T21:40:33Z",
+    "+@date-last-updated-at": "2026-11-21T21:40:33Z"
 }

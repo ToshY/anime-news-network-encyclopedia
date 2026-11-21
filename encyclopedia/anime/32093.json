@@ -4,7 +4,7 @@
     "+@type": "movie",
     "+@name": "Look Back",
     "+@precision": "movie",
-    "+@generated-on": "2026-10-20T13:13:55Z",
+    "+@generated-on": "2026-11-21T21:17:12Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25522"
@@ -120,9 +120,9 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "96",
-        "+@weighted_score": "8.5144",
-        "+@bayesian_score": "8.39822"
+        "+@nb_votes": "97",
+        "+@weighted_score": "8.5213",
+        "+@bayesian_score": "8.40542"
     },
     "review": [
         {
@@ -134,12 +134,20 @@
             "+@href": "https://www.animenewsnetwork.com/review/look-back/anime-film/.211767"
         }
     ],
-    "release": {
-        "+content": "Look Back - [Collector's Edition] (Blu-ray + 4K UHD)",
-        "+@date": "2026-09-22",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=59149",
-        "+@ean": "0199874115313"
-    },
+    "release": [
+        {
+            "+content": "Look Back - [Collector's Edition] (Blu-ray + 4K UHD)",
+            "+@date": "2026-09-22",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=59149",
+            "+@ean": "0199874115313"
+        },
+        {
+            "+content": "Look Back - Original Motion Picture Soundtrack [Vinyl] (OST)",
+            "+@date": "2027-01-15",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=59577",
+            "+@ean": "0199584771410"
+        }
+    ],
     "news": [
         {
             "+content": "Tatsuki Fujimoto's '<cite>Look Back</cite>' Anime Film Casts Yuumi Kawai, Mizuki Yoshida",
@@ -325,6 +333,16 @@
             "+content": "Leeds Film Festival Will Screen Live-Action <i>Look Back</i> and Animated <i>Grotesqqque</i> in November",
             "+@datetime": "2026-10-07T16:09:24Z",
             "+@href": "https://www.animenewsnetwork.com:/news/2026-10-07/leeds-film-festival-will-screen-live-action-look-back-and-animated-grotesqqque-in-november/.242587"
+        },
+        {
+            "+content": "<cite>Look Back</cite> Anime Film Wins Kineko Int'l Film Fest's Teens Feature Award",
+            "+@datetime": "2026-11-05T01:30:45Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-11-04/look-back-anime-film-wins-kineko-intl-film-fest-teens-feature-award/.243503"
+        },
+        {
+            "+content": "Live-Action <i>Look Back</i> Will Be Released in UK and Ireland Cinemas on January 22",
+            "+@datetime": "2026-11-18T14:20:20Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-11-18/live-action-look-back-will-be-released-in-uk-and-ireland-cinemas-on-january-22/.243945"
         }
     ],
     "staff": [
@@ -401,6 +419,14 @@
             }
         },
         {
+            "+@gid": "1546608840",
+            "task": "Executive producer",
+            "person": {
+                "+content": "Makoto Ōyoshi",
+                "+@id": "256910"
+            }
+        },
+        {
             "+@gid": "2485308053",
             "task": "Producer",
             "person": {
@@ -414,6 +440,14 @@
             "person": {
                 "+content": "Kazuhito Matsumura",
                 "+@id": "163945"
+            }
+        },
+        {
+            "+@gid": "850282671",
+            "task": "Producer",
+            "person": {
+                "+content": "Kazuhito Matsumura",
+                "+@id": "263978"
             }
         }
     ],
@@ -527,15 +561,49 @@
             }
         }
     ],
-    "credit": {
-        "+@gid": "1196942251",
-        "task": "Animation Production",
-        "company": {
-            "+content": "Studio Durian",
-            "+@id": "20225"
+    "credit": [
+        {
+            "+@gid": "1196942251",
+            "task": "Animation Production",
+            "company": {
+                "+content": "Studio Durian",
+                "+@id": "20225"
+            }
+        },
+        {
+            "+@gid": "2037266879",
+            "task": "Production",
+            "company": {
+                "+content": "Shueisha",
+                "+@id": "909"
+            }
+        },
+        {
+            "+@gid": "1488662773",
+            "task": "Production",
+            "company": {
+                "+content": "Avex Pictures",
+                "+@id": "13014"
+            }
+        },
+        {
+            "+@gid": "2467980728",
+            "task": "Production",
+            "company": {
+                "+content": "Studio Durian",
+                "+@id": "20225"
+            }
+        },
+        {
+            "+@gid": "1176009915",
+            "task": "Production",
+            "company": {
+                "+content": "Amazon MGM Studios",
+                "+@id": "26193"
+            }
         }
-    },
+    ],
     "+@date-added": "2024-02-13T20:51:37Z",
-    "+@date-last-modified-at": "2026-10-20T13:34:13Z",
-    "+@date-last-updated-at": "2026-10-20T13:34:13Z"
+    "+@date-last-modified-at": "2026-11-21T21:40:33Z",
+    "+@date-last-updated-at": "2026-11-21T21:40:33Z"
 }
