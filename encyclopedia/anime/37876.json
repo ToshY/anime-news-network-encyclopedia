@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Yaiba: Samurai Legend",
     "+@precision": "TV 2",
-    "+@generated-on": "2026-10-24T12:42:32Z",
+    "+@generated-on": "2026-11-23T14:11:15Z",
     "related-prev": {
         "+@rel": "sequel of",
         "+@id": "32715"
@@ -48,9 +48,24 @@
             "+@lang": "JA"
         },
         {
+            "+content": "adventure",
+            "+@gid": "2201277108",
+            "+@type": "Genres"
+        },
+        {
+            "+content": "After returning to Japan from the jungle, where he trained to become a samurai under his father, Kenjuro, Yaiba Kurogane begins living with the Mine family. Mines' daughter Sayaka, witnesses our protagonist's wild and reckless ways as constantly baffles her. His arrival leads to a rivalry with Takeshi Onimaru, a skilled kendo practitioner. Their repeated clashes awaken two ancient swords, the Fujinken and Raijinken, setting the stage for a new adventure involving their mysterious powers.",
+            "+@gid": "2825068944",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "2027-01-09",
             "+@gid": "1911815150",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "\"CHASE!\" by CHiCO with HoneyWorks",
+            "+@gid": "3722740229",
+            "+@type": "Opening Theme"
         },
         {
             "+content": "真・侍伝 YAIBA",
@@ -60,11 +75,18 @@
             "+@href": "https://www.yaiba-pr.com/"
         }
     ],
-    "news": {
-        "+content": "<cite>Yaiba: Samurai Legend</cite> Anime's 2nd Season Debuts on January 9",
-        "+@datetime": "2026-09-19T04:41:14Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-09-19/yaiba-samurai-legend-anime-2nd-season-debuts-on-january-9/.241967"
-    },
+    "news": [
+        {
+            "+content": "<cite>Yaiba: Samurai Legend</cite> Anime's 2nd Season Debuts on January 9",
+            "+@datetime": "2026-09-19T04:41:14Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-09-19/yaiba-samurai-legend-anime-2nd-season-debuts-on-january-9/.241967"
+        },
+        {
+            "+content": "<cite>Yaiba: Samurai Legend</cite> Season 2 Reveals Cast Member Yūma Uchida, Opening Song Artists",
+            "+@datetime": "2026-11-18T03:11:10Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-11-17/yaiba-samurai-legend-season-2-reveals-cast-member-yuma-uchida-opening-song-artists/.243924"
+        }
+    ],
     "staff": [
         {
             "+@gid": "2119278122",
@@ -293,6 +315,15 @@
             }
         },
         {
+            "+@gid": "3514667978",
+            "+@lang": "JA",
+            "role": "Gekkō",
+            "person": {
+                "+content": "Yūma Uchida",
+                "+@id": "124918"
+            }
+        },
+        {
             "+@gid": "943563831",
             "+@lang": "JA",
             "role": "Nadeshiko Yamato",
@@ -338,5 +369,6 @@
         }
     },
     "+@date-added": "2025-09-27T06:35:57Z",
-    "+@date-last-updated-at": "2026-10-24T12:42:40Z"
+    "+@date-last-modified-at": "2026-11-23T14:43:22Z",
+    "+@date-last-updated-at": "2026-11-23T14:43:22Z"
 }

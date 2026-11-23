@@ -4,7 +4,7 @@
     "+@type": "TV",
     "+@name": "Magical Explorer",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-21T13:50:11Z",
+    "+@generated-on": "2026-11-23T13:50:14Z",
     "related-prev": {
         "+@rel": "adapted from",
         "+@id": "25380"
@@ -126,9 +126,83 @@
         }
     ],
     "ratings": {
-        "+@nb_votes": "3",
-        "+@weighted_score": "2.5464"
+        "+@nb_votes": "4",
+        "+@weighted_score": "4.6656"
     },
+    "episode": [
+        {
+            "+@num": "1",
+            "title": {
+                "+content": "Reincarnated as a Sidekick Character in an Eroge, but I’ll Use My Game Knowledge to Do What I Want",
+                "+@gid": "2325118739",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "2",
+            "title": {
+                "+content": "Greetings From the Land of the Elves",
+                "+@gid": "2855007180",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "3",
+            "title": {
+                "+content": "Staples of Any Eroge",
+                "+@gid": "1092961493",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "4",
+            "title": {
+                "+content": "Determination",
+                "+@gid": "1914492970",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "5",
+            "title": {
+                "+content": "Greetings, Tsukuyomi Magic Academy",
+                "+@gid": "1157119354",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "6",
+            "title": {
+                "+content": "Stormy Skies! Carplin Castle",
+                "+@gid": "2148477776",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "7",
+            "title": {
+                "+content": "And, From Here",
+                "+@gid": "2418952261",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "8",
+            "title": {
+                "+content": "That's A Pink Bomb",
+                "+@gid": "2755727104",
+                "+@lang": "EN"
+            }
+        },
+        {
+            "+@num": "9",
+            "title": {
+                "+content": "One of the Big Three, Mizumori Yukine",
+                "+@gid": "2049142331",
+                "+@lang": "EN"
+            }
+        }
+    ],
     "news": [
         {
             "+content": "<cite>Magical Explorer</cite> Light Novels Confirm TV Anime in Fall",
@@ -210,6 +284,22 @@
             }
         },
         {
+            "+@gid": "393890376",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Hiroaki Yoshikawa",
+                "+@id": "36732"
+            }
+        },
+        {
+            "+@gid": "2446563575",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Shinji Itadaki",
+                "+@id": "72394"
+            }
+        },
+        {
             "+@gid": "2261670347",
             "task": "Storyboard",
             "person": {
@@ -242,11 +332,35 @@
             }
         },
         {
+            "+@gid": "1937732639",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yuzu Sato",
+                "+@id": "205054"
+            }
+        },
+        {
             "+@gid": "2099100782",
             "task": "Storyboard",
             "person": {
                 "+content": "Kageyasu Saionji",
                 "+@id": "302775"
+            }
+        },
+        {
+            "+@gid": "2342768260",
+            "task": "Storyboard",
+            "person": {
+                "+content": "Yasuaki Fujiwara",
+                "+@id": "303711"
+            }
+        },
+        {
+            "+@gid": "2145606154",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Satoshi Saga",
+                "+@id": "8476"
             }
         },
         {
@@ -279,6 +393,22 @@
             "person": {
                 "+content": "Kazuki Ōhashi",
                 "+@id": "118962"
+            }
+        },
+        {
+            "+@gid": "2522474231",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Shun Tsuchida",
+                "+@id": "145448"
+            }
+        },
+        {
+            "+@gid": "2359376078",
+            "task": "Episode Director",
+            "person": {
+                "+content": "Yasuaki Fujiwara",
+                "+@id": "303711"
             }
         },
         {
@@ -354,6 +484,14 @@
             }
         },
         {
+            "+@gid": "2136938755",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Etsushi Mori",
+                "+@id": "11220"
+            }
+        },
+        {
             "+@gid": "2951449870",
             "task": "Animation Director",
             "person": {
@@ -386,6 +524,14 @@
             }
         },
         {
+            "+@gid": "3340804992",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Kazuyuki Ikai",
+                "+@id": "35484"
+            }
+        },
+        {
             "+@gid": "1072535776",
             "task": "Animation Director",
             "person": {
@@ -394,11 +540,27 @@
             }
         },
         {
+            "+@gid": "2249982468",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Mai Toda",
+                "+@id": "49732"
+            }
+        },
+        {
             "+@gid": "1081541801",
             "task": "Animation Director",
             "person": {
                 "+content": "Yoshihiro Maeda",
                 "+@id": "58562"
+            }
+        },
+        {
+            "+@gid": "1520014041",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Ryoko Kawamura",
+                "+@id": "63387"
             }
         },
         {
@@ -439,6 +601,110 @@
             "person": {
                 "+content": "Kimikazu Saito",
                 "+@id": "162284"
+            }
+        },
+        {
+            "+@gid": "1630263823",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wen Jing Li",
+                "+@id": "204191"
+            }
+        },
+        {
+            "+@gid": "1314782208",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yūta Ōtaka",
+                "+@id": "204247"
+            }
+        },
+        {
+            "+@gid": "1861480092",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Daiki Sugaya",
+                "+@id": "222331"
+            }
+        },
+        {
+            "+@gid": "2449860271",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zhi Lan Cui",
+                "+@id": "258124"
+            }
+        },
+        {
+            "+@gid": "2852277369",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Gen Hu",
+                "+@id": "261316"
+            }
+        },
+        {
+            "+@gid": "1319104658",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Takanari Endō",
+                "+@id": "272945"
+            }
+        },
+        {
+            "+@gid": "3881853906",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Zhen Jia Ning",
+                "+@id": "280894"
+            }
+        },
+        {
+            "+@gid": "3228256156",
+            "task": "Animation Director",
+            "person": {
+                "+content": "X10",
+                "+@id": "286396"
+            }
+        },
+        {
+            "+@gid": "1416933886",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Jinta Annandō",
+                "+@id": "287525"
+            }
+        },
+        {
+            "+@gid": "3843213158",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Yu Kai Wang",
+                "+@id": "288131"
+            }
+        },
+        {
+            "+@gid": "1907773134",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Shan Shan Xu",
+                "+@id": "288133"
+            }
+        },
+        {
+            "+@gid": "2955239058",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Joshua Penley",
+                "+@id": "294639"
+            }
+        },
+        {
+            "+@gid": "1396592863",
+            "task": "Animation Director",
+            "person": {
+                "+content": "Wu Lao",
+                "+@id": "296659"
             }
         },
         {
@@ -536,6 +802,15 @@
             "person": {
                 "+content": "Madeleine Norton",
                 "+@id": "265006"
+            }
+        },
+        {
+            "+@gid": "928967875",
+            "+@lang": "EN",
+            "role": "Rina Katou",
+            "person": {
+                "+content": "Meggie-Elise",
+                "+@id": "269465"
             }
         },
         {
@@ -704,6 +979,6 @@
         }
     ],
     "+@date-added": "2023-09-26T17:55:32Z",
-    "+@date-last-modified-at": "2026-10-21T13:50:12Z",
-    "+@date-last-updated-at": "2026-10-21T13:50:12Z"
+    "+@date-last-modified-at": "2026-11-23T14:43:22Z",
+    "+@date-last-updated-at": "2026-11-23T14:43:22Z"
 }

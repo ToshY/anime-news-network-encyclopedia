@@ -2,12 +2,40 @@
     "+@id": "40708",
     "+@gid": "2873200699",
     "+@type": "manga",
-    "+@name": "Geekrown",
+    "+@name": "GEEKROWN",
     "+@precision": "manga",
-    "+@generated-on": "2026-10-24T04:40:21Z",
+    "+@generated-on": "2026-11-23T14:43:18Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "24256"
+    },
     "info": [
         {
-            "+content": "Geekrown",
+            "+@gid": "2610652480",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40708-2610652480.1793038288.jpg",
+            "+@width": "200",
+            "+@height": "144",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A40708-2610652480.1793038288.jpg",
+                    "+@width": "200",
+                    "+@height": "144"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A40708-2610652480.1793038288.jpg",
+                    "+@width": "500",
+                    "+@height": "359"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/images/encyc/A40708-2610652480.1793038288.jpg",
+                    "+@width": "1200",
+                    "+@height": "861"
+                }
+            ]
+        },
+        {
+            "+content": "GEEKROWN",
             "+@gid": "1727429231",
             "+@type": "Main title",
             "+@lang": "EN"
@@ -28,13 +56,44 @@
             "+content": "military",
             "+@gid": "2534318612",
             "+@type": "Themes"
+        },
+        {
+            "+content": "Six candidates are vying for the throne of Nation A—but one is a traitor. This spy from Nation B must be found, or else Nation A will be taken over entirely. To protect her homeland’s future, the princess has tasked Kai Blackman, one of the candidates, with tracking down the spy. The only problem: He’s a frail, scrawny anime nerd with zero combat ability whatsoever. He does have on special skill, though: he can see through people's lies. Can this utter geek survive in this intrigue-laden battle for the throne...",
+            "+@gid": "3954025653",
+            "+@type": "Plot Summary"
+        },
+        {
+            "+content": "2026-10-27 (serialized on Magazine Pocket)",
+            "+@gid": "3034966911",
+            "+@type": "Vintage"
+        },
+        {
+            "+content": "K MANGA",
+            "+@gid": "25841207",
+            "+@type": "Official website",
+            "+@lang": "EN",
+            "+@href": "https://kmanga.kodansha.com/title/10741/episode/369169"
+        },
+        {
+            "+content": "Magazine Pocket",
+            "+@gid": "919742288",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://pocket.shonenmagazine.com/title/03385/episode/445563"
         }
     ],
-    "news": {
-        "+content": "K Manga Adds Shinobu Ohtaka's <cite>Geekrown</cite> Manga",
-        "+@datetime": "2026-10-22T21:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-10-22/k-manga-adds-shinobu-ohtaka-geekrown-manga/.243115"
-    },
+    "news": [
+        {
+            "+content": "<cite>Orient's</cite> Shinobu Ohtaka Launches New Manga",
+            "+@datetime": "2026-10-21T12:34:42Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-21/orient-shinobu-ohtaka-launches-new-manga/.243047"
+        },
+        {
+            "+content": "K Manga Adds Shinobu Ohtaka's <cite>Geekrown</cite> Manga",
+            "+@datetime": "2026-10-22T21:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-22/k-manga-adds-shinobu-ohtaka-geekrown-manga/.243115"
+        }
+    ],
     "staff": {
         "+@gid": "3125786647",
         "task": "Story & Art",
@@ -44,5 +103,6 @@
         }
     },
     "+@date-added": "2026-10-23T06:59:49Z",
-    "+@date-last-updated-at": "2026-10-24T04:40:23Z"
+    "+@date-last-modified-at": "2026-11-23T14:43:21Z",
+    "+@date-last-updated-at": "2026-11-23T14:43:21Z"
 }
