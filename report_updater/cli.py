@@ -8,6 +8,8 @@ import click
 import requests
 from loguru import logger
 
+_RETRY_STATUS_CODES = {502, 503, 504}
+
 
 def _get_report_directory(report_directory: Path, category: str) -> Path:
     p = report_directory.joinpath(category)
@@ -34,10 +36,30 @@ def _save_json(data, report_category_directory: Path, category: str):
     logger.info(f"Report for category `{category}` saved to `{str(report_path)}`.")
 
 
+def _get_response(url: str, attempts: int = 3) -> requests.Response:
+    """
+    Performs a GET request, retrying on gateway errors.
+
+    Large report pages (e.g. person reports) occasionally hit the gateway timeout of the API, returning a 502.
+    """
+    for attempt in range(1, attempts + 1):
+        response = requests.get(url, timeout=60)
+        if response.status_code not in _RETRY_STATUS_CODES or attempt == attempts:
+            break
+
+        logger.warning(
+            f"Received status code `{response.status_code}` for URL `{url}`, retrying ({attempt}/{attempts - 1})."
+        )
+        time.sleep(5 * attempt)
+
+    response.raise_for_status()
+
+    return response
+
+
 def _get_common_data(url: str, category: str):
     try:
-        report_response = requests.get(url, timeout=60)
-        report_response.raise_for_status()
+        report_response = _get_response(url)
     except requests.exceptions.HTTPError as err:
         logger.critical(
             f"An error occurred while retrieving the report for URL `{url} of category `{category}`: {err}"
