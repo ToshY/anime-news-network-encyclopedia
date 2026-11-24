@@ -4,11 +4,17 @@
     "+@type": "manga",
     "+@name": "Imōto no Meikyū Haishin o Tetsudatteita Ore ga",
     "+@precision": "manga",
-    "+@generated-on": "2026-10-25T13:12:09Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "20005"
-    },
+    "+@generated-on": "2026-11-24T15:00:00Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "20005"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "41217"
+        }
+    ],
     "info": [
         {
             "+@gid": "2119867566",
@@ -64,6 +70,10 @@
             "+@type": "Genres"
         },
         {
+            "+content": "Suzuta Maya is a bright and cheery high school girl who also happens to be a streamer signed with a talent agency. But she’s not the protagonist of this story. That honor belongs to her older brother, Jin—an unemployed loafer who may love his little sister a little too much, but whose heart is always in the right place. So when Maya goes to the dungeon to stream her battles, Jin happily serves as both cameraman and security guard. Everything changes when a trap sends Maya straight into an encounter with a deadly S-rank monster. Jin steps in without a second thought, unaware that his incredible feat has just been broadcast live to the world. Suddenly on the fast track to becoming a streaming sensation, Jin is about to discover what surprises await him in a modern world with a magical twist. <em class=de-emphasized>(from manga)</em>",
+            "+@type": "Plot Summary"
+        },
+        {
             "+content": "2",
             "+@gid": "2337519826",
             "+@type": "Number of tankoubon"
@@ -108,5 +118,6 @@
         }
     ],
     "+@date-added": "2025-08-29T15:28:43Z",
-    "+@date-last-updated-at": "2026-10-25T13:12:10Z"
+    "+@date-last-modified-at": "2026-11-24T15:00:02Z",
+    "+@date-last-updated-at": "2026-11-24T15:00:02Z"
 }
