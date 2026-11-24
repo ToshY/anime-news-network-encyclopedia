@@ -4,7 +4,7 @@
     "+@type": "manga",
     "+@name": "Girls Zombie Party",
     "+@precision": "manga",
-    "+@generated-on": "2026-10-23T23:10:06Z",
+    "+@generated-on": "2026-11-24T02:55:09Z",
     "related-prev": {
         "+@rel": "serialized in",
         "+@id": "22893"
@@ -59,12 +59,20 @@
             "+@href": "https://gammaplus.takeshobo.co.jp/manga/girlszombieparty/"
         }
     ],
-    "release": {
-        "+content": "Girls Zombie Party (GN 1)",
-        "+@date": "2026-03-10",
-        "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57402",
-        "+@ean": "9798897651320"
-    },
+    "release": [
+        {
+            "+content": "Girls Zombie Party (GN 1)",
+            "+@date": "2026-03-10",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=57402",
+            "+@ean": "9798897651320"
+        },
+        {
+            "+content": "Girls Zombie Party (GN 2)",
+            "+@date": "2026-08-11",
+            "+@href": "https://www.animenewsnetwork.com/encyclopedia/releases.php?id=59870",
+            "+@ean": "9798897651337"
+        }
+    ],
     "news": [
         {
             "+content": "Seven Seas Licenses <cite>My Darling Devilish Daughter</cite>, <cite>Girls Zombie Party</cite>, 3 More Titles",
@@ -91,5 +99,6 @@
         }
     },
     "+@date-added": "2025-08-27T18:42:10Z",
-    "+@date-last-updated-at": "2026-10-23T23:10:10Z"
+    "+@date-last-modified-at": "2026-11-24T02:55:10Z",
+    "+@date-last-updated-at": "2026-11-24T02:55:10Z"
 }
