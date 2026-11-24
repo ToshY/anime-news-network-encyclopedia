@@ -32,7 +32,7 @@ jobs:
         uses: mikefarah/yq@f2944b823f84906a127dbd29e4c2a3e60c4e550e # v4.54.3
 
       - name: Setup JQ
-        uses: supplypike/setup-bin@8365380a806a88e7a0f0d07059b175ca2f5418d7 # v5.0.1
+        uses: supplypike/setup-bin@73f5356f4d8a8588c525365fad26435ee1de4eaa # v5.0.2
         with:
           uri: 'https://github.com/jqlang/jq/releases/download/jq-1.8.1/jq-linux-amd64'
           name: 'jq'
