@@ -20,3 +20,21 @@ repos:
         language: system
         always_run: true
         pass_filenames: false
+      - id: actionlint
+        name: Actionlint
+        entry: task actionlint
+        language: system
+        files: ^\.github/workflows/
+        pass_filenames: false
+      - id: zizmor
+        name: Zizmor
+        entry: task zizmor
+        language: system
+        files: ^(\.github/|zizmor\.yml$)
+        pass_filenames: false
+      - id: pinact
+        name: Pinact
+        entry: task pinact
+        language: system
+        files: ^\.github/workflows/
+        pass_filenames: false

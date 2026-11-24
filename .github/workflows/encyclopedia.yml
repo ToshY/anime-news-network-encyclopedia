@@ -9,9 +9,13 @@ on:
   schedule:
     - cron: '15 */4 * * *'
 
+permissions: {}
+
 jobs:
   process:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     timeout-minutes: 10
     strategy:
       matrix:
@@ -19,22 +23,23 @@ jobs:
         type: [missing, outdated]
     steps:
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
+          persist-credentials: false
           ref: ${{ github.head_ref }}
 
       - name: Setup YQ
-        uses: mikefarah/yq@v4.53.6
+        uses: mikefarah/yq@f2944b823f84906a127dbd29e4c2a3e60c4e550e # v4.54.3
 
       - name: Setup JQ
-        uses: supplypike/setup-bin@v5
+        uses: supplypike/setup-bin@8365380a806a88e7a0f0d07059b175ca2f5418d7 # v5.0.1
         with:
           uri: 'https://github.com/jqlang/jq/releases/download/jq-1.8.1/jq-linux-amd64'
           name: 'jq'
           version: '1.8.1'
 
       - name: Setup Python
-        uses: actions/setup-python@v7
+        uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
         with:
           python-version: '3.11'
 
@@ -62,10 +67,10 @@ jobs:
         id: prepare-encyclopedia
         if: ${{ !failure() && steps.check-directory.outputs.has_files == 'true' }}
         run: |
-          echo "ENCYCLOPEDIA=encyclopedia-${{ matrix.category }}-${{ matrix.type }}-$(date +%d-%m-%Y_%H-%M-%S)" >> $GITHUB_ENV
+          echo "ENCYCLOPEDIA=encyclopedia-${{ matrix.category }}-${{ matrix.type }}-$(date +%d-%m-%Y_%H-%M-%S)" >> "$GITHUB_ENV"
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v7
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         if: ${{ !failure() && steps.check-directory.outputs.has_files == 'true' }}
         with:
           name: ${{ env.ENCYCLOPEDIA }}
@@ -75,6 +80,7 @@ jobs:
 
   check:
     runs-on: ubuntu-latest
+    permissions: {}
     timeout-minutes: 5
     needs:
       - process
@@ -82,7 +88,7 @@ jobs:
       has_files: ${{ steps.check-directory.outputs.has_files }}
     steps:
       - name: Download artifacts
-        uses: actions/download-artifact@v8
+        uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
         with:
           path: /tmp/encyclopedia
           pattern: encyclopedia-*
@@ -121,12 +127,19 @@ jobs:
       contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
+          # Required: git-auto-commit-action pushes with the persisted token
+          persist-credentials: true
           ref: ${{ github.head_ref }}
+          sparse-checkout: |
+            /*
+            !/encyclopedia/
+            !/reports/
+          sparse-checkout-cone-mode: false
 
       - name: Download artifacts
-        uses: actions/download-artifact@v8
+        uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
         with:
           path: /tmp/encyclopedia
           pattern: encyclopedia-*
@@ -137,16 +150,18 @@ jobs:
         run: |
           SOURCE_DIRECTORY="/tmp/encyclopedia"
           DESTINATION_DIRECTORY="./encyclopedia"
+          # Materialize only the entries being written, so they can be diffed and committed
+          ( cd "$SOURCE_DIRECTORY" && find . -type f -printf '/encyclopedia/%P\n' ) | git sparse-checkout add --stdin
           find "$SOURCE_DIRECTORY" -type f | while read -r file; do
               # <category>/<id>.json
-              RELATIVE_PATH="${file#$SOURCE_DIRECTORY/}"
+              RELATIVE_PATH="${file#"$SOURCE_DIRECTORY"/}"
               mkdir -p "$DESTINATION_DIRECTORY/$(dirname "$RELATIVE_PATH")"
               mv "$file" "$DESTINATION_DIRECTORY/$RELATIVE_PATH"
           done
 
       - name: Commit changes
         id: auto-commit-action
-        uses: stefanzweifel/git-auto-commit-action@v7
+        uses: stefanzweifel/git-auto-commit-action@d0b01107b5db882071f96de5dd4b54961ea93f4c # v7.2.1
         with:
           file_pattern: '*.json'
           commit_message: Update encyclopedia entries

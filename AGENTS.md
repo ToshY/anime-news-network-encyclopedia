@@ -58,6 +58,10 @@ task ruff        # / task ruff:fix
 task black       # / task black:fix
 task mypy
 
+task actionlint   # lint workflows
+task zizmor       # security-audit workflows + dependabot.yml (config: zizmor.yml)
+task pinact       # check actions are SHA-pinned / task pinact:fix to pin them
+
 task blacklist:generate c=anime           # regenerate black/whitelist from API probes
 task blacklist:cleanup dry=true           # list encyclopedia files that are blacklisted (dry=false deletes)
 ```
@@ -75,6 +79,18 @@ CI (`codequality.yml`, `codestyle.yml`, `statictyping.yml`) runs on push/PR to `
 - `mypy .` (mypy 1.11)
 
 Run all three before finishing a code change (also wired as local pre-commit hooks). There are no config files for these tools, so defaults apply. There is no test suite; verify changes by running the CLI against a scratch output dir with `LOGURU_LEVEL=INFO`.
+
+## GitHub Actions
+
+When changing anything under `.github/`, run `task actionlint`, `task zizmor` and `task pinact`; CI runs actionlint and zizmor too (`actionlint.yml`, `zizmor.yml`), and they are wired as pre-commit hooks.
+
+- Pin every action to a full commit SHA with a version comment (`uses: owner/action@<sha> # vX.Y.Z`); `task pinact:fix` does this. zizmor enforces it (`hash-pin` policy).
+- Each workflow sets `permissions: {}` at the top; each job grants only what it needs (`contents: read` to check out, `contents: write` only for jobs that commit, `{}` for jobs without a checkout).
+- Checkouts use `persist-credentials: false`, except jobs that push via `git-auto-commit-action`, which set it to `true` explicitly.
+- Lint/check workflows trigger on `pull_request`, not `pull_request_target`, so they check the PR's code without a privileged token.
+- Don't interpolate `${{ ... }}` from untrusted inputs directly into `run:` scripts; pass them through `env:`.
+
+CI checkouts are sparse (`sparse-checkout` in `actions/checkout`, which implies `--filter=blob:none`) so jobs don't download the ~450 MB of data or the 1+ GiB history. If a job starts needing other paths, add them to that job's `sparse-checkout` list. Don't add `fetch-depth: 0`. Jobs that commit data use a non-cone checkout that excludes `encyclopedia/` and `reports/`, then `git sparse-checkout add` only the files they are about to write.
 
 ## Style notes
 

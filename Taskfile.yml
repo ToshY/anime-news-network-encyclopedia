@@ -2,6 +2,13 @@ version: '3'
 
 env:
   DOCKER_COMPOSE_RUN: docker compose --progress quiet run --rm --build --remove-orphans
+  UID:
+    sh: id -u
+  GID:
+    sh: id -g
+  ACTIONLINT_IMAGE: rhysd/actionlint:1.7.12
+  ZIZMOR_IMAGE: ghcr.io/zizmorcore/zizmor:1.25.2
+  PINACT_IMAGE: ghcr.io/toshy/docker-pinact:4.1.0
 
 tasks:
   default:
@@ -202,3 +209,46 @@ tasks:
     desc: Run mypy
     cmds:
       - $DOCKER_COMPOSE_RUN dev mypy .
+
+  # GitHub Actions QA
+  actionlint:
+    desc: Lint GitHub Actions workflows in .github/workflows
+    silent: true
+    cmds:
+      - |
+        docker run --rm \
+          -v "{{.ROOT_DIR}}:/repo" \
+          --workdir /repo \
+          "{{.ACTIONLINT_IMAGE}}" -color
+
+  zizmor:
+    desc: Audit GitHub Actions workflows and Dependabot config for security issues
+    silent: true
+    cmds:
+      - |
+        docker run --rm \
+          -v "{{.ROOT_DIR}}:/repo" \
+          --workdir /repo \
+          -e GH_TOKEN="$(gh auth token 2>/dev/null)" \
+          "{{.ZIZMOR_IMAGE}}" --color=always .
+
+  pinact:
+    desc: Validate GitHub Actions are pinned to commit SHAs in .github/workflows
+    silent: true
+    cmds:
+      - |
+        docker run --rm \
+          -v "{{.ROOT_DIR}}:/repo" \
+          -e PINACT_GITHUB_TOKEN="$(gh auth token 2>/dev/null)" \
+          "{{.PINACT_IMAGE}}" run --diff
+
+  pinact:fix:
+    desc: Pin GitHub Actions to commit SHAs in-place in .github/workflows
+    silent: true
+    cmds:
+      - |
+        docker run --rm \
+          -v "{{.ROOT_DIR}}:/repo" \
+          -u "${UID}:${GID}" \
+          -e PINACT_GITHUB_TOKEN="$(gh auth token 2>/dev/null)" \
+          "{{.PINACT_IMAGE}}" run --fix

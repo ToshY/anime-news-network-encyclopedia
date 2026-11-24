@@ -9,6 +9,8 @@ on:
   schedule:
     - cron: '0 3 * * 0'
 
+permissions: {}
+
 jobs:
   process:
     runs-on: ubuntu-latest
@@ -17,10 +19,16 @@ jobs:
       contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          # Required: git-auto-commit-action pushes with the persisted token
+          persist-credentials: true
+          sparse-checkout: |
+            encyclopedia_updater
+            reports
 
       - name: Install Task
-        uses: go-task/setup-task@v2
+        uses: go-task/setup-task@a00fbb05ce67b35648be3c78cbc9fd85354c757e # v2.2.0
         with:
           version: 3.x
 
@@ -32,7 +40,7 @@ jobs:
 
       - name: Commit changes
         id: auto-commit-action
-        uses: stefanzweifel/git-auto-commit-action@v7
+        uses: stefanzweifel/git-auto-commit-action@d0b01107b5db882071f96de5dd4b54961ea93f4c # v7.2.1
         with:
           file_pattern: 'encyclopedia_updater/*/*.json'
           commit_message: Update blacklists

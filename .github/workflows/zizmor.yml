@@ -1,0 +1,51 @@
+name: Zizmor
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/**'
+      - 'zizmor.yml'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - '.github/**'
+      - 'zizmor.yml'
+
+# Per-PR group cancels superseded PR runs; push runs get a unique group so main runs always finish.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event_name == 'pull_request' && github.event.pull_request.number || github.run_id }}
+  cancel-in-progress: true
+
+permissions: {}
+
+jobs:
+  zizmor:
+    name: Zizmor
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+          sparse-checkout: |
+            .github
+
+      - name: Audit workflows and Dependabot config
+        env:
+          # Enables zizmor's online audits; the default token is read-only.
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # --format=github emits annotations on the PR diff and run summary;
+          # findings still fail the job.
+          docker run --rm \
+            -v "$(pwd):/repo" \
+            --workdir /repo \
+            -e GH_TOKEN \
+            ghcr.io/zizmorcore/zizmor:1.25.2 \
+            --format=github .
