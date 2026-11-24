@@ -47,5 +47,5 @@ jobs:
             -v "$(pwd):/repo" \
             --workdir /repo \
             -e GH_TOKEN \
-            ghcr.io/zizmorcore/zizmor:1.25.2 \
+            ghcr.io/zizmorcore/zizmor:1.33.1 \
             --format=github .

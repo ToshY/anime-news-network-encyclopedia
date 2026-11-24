@@ -7,8 +7,8 @@ env:
   GID:
     sh: id -g
   ACTIONLINT_IMAGE: rhysd/actionlint:1.7.12
-  ZIZMOR_IMAGE: ghcr.io/zizmorcore/zizmor:1.25.2
-  PINACT_IMAGE: ghcr.io/toshy/docker-pinact:4.1.0
+  ZIZMOR_IMAGE: ghcr.io/zizmorcore/zizmor:1.33.1
+  PINACT_IMAGE: ghcr.io/toshy/docker-pinact:5.0.2
 
 tasks:
   default:
