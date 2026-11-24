@@ -81,7 +81,7 @@ def _get_search_data(url: str):
         {
             "id": _get_text(item, "id") if _get_text(item, "id") else None,
             "gid": _get_text(item, "gid") if _get_text(item, "gid") else None,
-            "entry_type": _get_text(item, "entry_type"),
+            "entry_type": _get_text(item, "type"),
             "name": _get_text(item, "name"),
             "precision": _get_text(item, "precision"),
             "vintage": _get_text(item, "vintage"),
