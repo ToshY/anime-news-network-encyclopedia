@@ -114,10 +114,10 @@ tasks:
       Usage: 
       
       # Dry run
-      task blacklist:cleanup d=true
+      task blacklist:cleanup dry=true
       
       # Remove files
-      task blacklist:cleanup d=false
+      task blacklist:cleanup dry=false
     silent: true
     requires:
       vars:
