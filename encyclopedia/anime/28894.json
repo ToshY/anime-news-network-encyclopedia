@@ -4,7 +4,11 @@
     "+@type": "TV",
     "+@name": "Suicide Squad ISEKAI",
     "+@precision": "TV",
-    "+@generated-on": "2026-10-22T04:52:27Z",
+    "+@generated-on": "2026-11-25T00:47:12Z",
+    "related-prev": {
+        "+@rel": "part of",
+        "+@id": "40984"
+    },
     "info": [
         {
             "+@gid": "1300029803",
@@ -111,8 +115,8 @@
     ],
     "ratings": {
         "+@nb_votes": "59",
-        "+@weighted_score": "6.3383",
-        "+@bayesian_score": "6.52937"
+        "+@weighted_score": "6.3386",
+        "+@bayesian_score": "6.5296"
     },
     "news": [
         {
@@ -1563,12 +1567,30 @@
             }
         },
         {
+            "+@gid": "2522820142",
+            "+@lang": "PL",
+            "role": "King Shark",
+            "person": {
+                "+content": "Michał Konarski",
+                "+@id": "122724"
+            }
+        },
+        {
             "+@gid": "3566841533",
             "+@lang": "PL",
             "role": "Peacemaker",
             "person": {
                 "+content": "Otar Saralidze",
                 "+@id": "123083"
+            }
+        },
+        {
+            "+@gid": "2882206655",
+            "+@lang": "PL",
+            "role": "Cecil",
+            "person": {
+                "+content": "Przemysław Wyszyński",
+                "+@id": "128542"
             }
         },
         {
@@ -1606,6 +1628,51 @@
                 "+content": "Damian Kulec",
                 "+@id": "176295"
             }
+        },
+        {
+            "+@gid": "2079459862",
+            "+@lang": "PL",
+            "role": "Joker",
+            "person": {
+                "+content": "Michał Klawiter",
+                "+@id": "177363"
+            }
+        },
+        {
+            "+@gid": "467724030",
+            "+@lang": "PL",
+            "role": "Enchantress",
+            "person": {
+                "+content": "Aleksandra Nowicka",
+                "+@id": "223566"
+            }
+        },
+        {
+            "+@gid": "1548824003",
+            "+@lang": "PL",
+            "role": "Fiona",
+            "person": {
+                "+content": "Joanna Sokołowska",
+                "+@id": "233250"
+            }
+        },
+        {
+            "+@gid": "3533515248",
+            "+@lang": "PL",
+            "role": "Clayface",
+            "person": {
+                "+content": "Wojciech Melzer",
+                "+@id": "244275"
+            }
+        },
+        {
+            "+@gid": "1231789543",
+            "+@lang": "PL",
+            "role": "Katana",
+            "person": {
+                "+content": "Bernadetta Statkiewicz",
+                "+@id": "304673"
+            }
         }
     ],
     "credit": [
@@ -1627,6 +1694,6 @@
         }
     ],
     "+@date-added": "2023-07-03T16:25:38Z",
-    "+@date-last-modified-at": "2026-10-22T04:52:36Z",
-    "+@date-last-updated-at": "2026-10-22T04:52:36Z"
+    "+@date-last-modified-at": "2026-11-25T00:47:14Z",
+    "+@date-last-updated-at": "2026-11-25T00:47:14Z"
 }
