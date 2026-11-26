@@ -4,12 +4,37 @@
     "+@type": "manga",
     "+@name": "Resident Evil: Death Island",
     "+@precision": "manga",
-    "+@generated-on": "2026-10-26T15:13:06Z",
-    "related-prev": {
-        "+@rel": "serialized in",
-        "+@id": "20005"
-    },
+    "+@generated-on": "2026-11-26T13:56:08Z",
+    "related-prev": [
+        {
+            "+@rel": "serialized in",
+            "+@id": "20005"
+        },
+        {
+            "+@rel": "adapted from",
+            "+@id": "27095"
+        }
+    ],
     "info": [
+        {
+            "+@gid": "1908724924",
+            "+@type": "Picture",
+            "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38824-1908724924.1794263876.jpg",
+            "+@width": "141",
+            "+@height": "200",
+            "img": [
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A38824-1908724924.1794263876.jpg",
+                    "+@width": "141",
+                    "+@height": "200"
+                },
+                {
+                    "+@src": "https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A38824-1908724924.1794263876.jpg",
+                    "+@width": "300",
+                    "+@height": "426"
+                }
+            ]
+        },
         {
             "+content": "Resident Evil: Death Island",
             "+@gid": "1840274356",
@@ -87,6 +112,6 @@
         }
     },
     "+@date-added": "2026-03-26T23:28:09Z",
-    "+@date-last-modified-at": "2026-10-26T15:13:07Z",
-    "+@date-last-updated-at": "2026-10-26T15:13:07Z"
+    "+@date-last-modified-at": "2026-11-26T13:56:10Z",
+    "+@date-last-updated-at": "2026-11-26T13:56:10Z"
 }
