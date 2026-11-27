@@ -4,7 +4,11 @@
     "+@type": "manga",
     "+@name": "Violent Drunken Noblewoman's Screw-up",
     "+@precision": "manga",
-    "+@generated-on": "2026-10-28T05:45:51Z",
+    "+@generated-on": "2026-11-27T13:54:57Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "24256"
+    },
     "info": [
         {
             "+@gid": "2474149924",
@@ -49,6 +53,12 @@
             "+@lang": "EN"
         },
         {
+            "+content": "酒乱令嬢のやらかし〜政略結婚前にヤケ酒、気がつくと冷酷な婚約者とドラゴンの巣の中〜",
+            "+@gid": "4146522625",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
             "+content": "romance",
             "+@gid": "2224114164",
             "+@type": "Genres"
@@ -59,9 +69,16 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2027-10-30 (serialized in Kodansha's Pocket Magazine)",
-            "+@gid": "455915224",
+            "+content": "2026-10-30 (serialized on Magazine Pocket)",
+            "+@gid": "491404984",
             "+@type": "Vintage"
+        },
+        {
+            "+content": "酒乱令嬢のやらかし〜政略結婚前にヤケ酒、気がつくと冷酷な婚約者とドラゴンの巣の中〜 | 【1瓶目】目覚めるとそこは… &#x2F; マガポケ | 少年マガジン公式無料漫画アプリ",
+            "+@gid": "1980513371",
+            "+@type": "Official website",
+            "+@lang": "JA",
+            "+@href": "https://pocket.shonenmagazine.com/title/03376/episode/445752"
         }
     ],
     "news": {
@@ -69,14 +86,25 @@
         "+@datetime": "2026-10-26T21:00:00Z",
         "+@href": "https://www.animenewsnetwork.com:/news/2026-10-26/sho-yamazaki-launches-new-manga-with-fuyu-aoki/.243189"
     },
-    "staff": {
-        "+@gid": "1639704832",
-        "task": "Story",
-        "person": {
-            "+content": "Fuyu Aoki",
-            "+@id": "238861"
+    "staff": [
+        {
+            "+@gid": "1639704832",
+            "task": "Story",
+            "person": {
+                "+content": "Fuyu Aoki",
+                "+@id": "238861"
+            }
+        },
+        {
+            "+@gid": "1314418551",
+            "task": "Art",
+            "person": {
+                "+content": "Sho Yamazaki",
+                "+@id": "212318"
+            }
         }
-    },
+    ],
     "+@date-added": "2026-10-26T00:55:13Z",
-    "+@date-last-updated-at": "2026-10-28T05:45:52Z"
+    "+@date-last-modified-at": "2026-11-27T13:54:59Z",
+    "+@date-last-updated-at": "2026-11-27T13:54:59Z"
 }

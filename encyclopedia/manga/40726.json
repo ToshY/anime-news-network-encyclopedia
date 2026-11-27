@@ -4,7 +4,11 @@
     "+@type": "manga",
     "+@name": "I Want to Go to School With You",
     "+@precision": "manga",
-    "+@generated-on": "2026-10-28T05:45:51Z",
+    "+@generated-on": "2026-11-27T13:54:57Z",
+    "related-prev": {
+        "+@rel": "serialized in",
+        "+@id": "5091"
+    },
     "info": [
         {
             "+@gid": "771070423",
@@ -43,6 +47,12 @@
             "+@lang": "JA"
         },
         {
+            "+content": "きみと一緒に通いたい",
+            "+@gid": "2496206363",
+            "+@type": "Alternative title",
+            "+@lang": "JA"
+        },
+        {
             "+content": "drama",
             "+@gid": "2626179525",
             "+@type": "Genres"
@@ -53,16 +63,32 @@
             "+@type": "Plot Summary"
         },
         {
-            "+content": "2025-07-25 to 2027-10-23",
-            "+@gid": "1256723873",
+            "+content": "2025-07-25 to 2026-11-13 (Young Animal, 2025 #15 - 2026 #22)",
+            "+@gid": "1909698257",
             "+@type": "Vintage"
         }
     ],
-    "news": {
-        "+content": "Uoyama's <cite>Kimi to Issho ni Kayoitai</cite> Manga Ends on November 13",
-        "+@datetime": "2026-10-26T23:00:00Z",
-        "+@href": "https://www.animenewsnetwork.com:/news/2026-10-26/uoyama-kimi-to-issho-ni-kayoitai-manga-ends-on-november-13/.243187"
+    "news": [
+        {
+            "+content": "<cite>Love's in Sight!'s</cite> Uoyama Launces New Manga on July 25",
+            "+@datetime": "2025-07-19T16:15:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2025-07-19/love-in-sight-s-uoyama-launces-new-manga-on-july-25/.226791"
+        },
+        {
+            "+content": "Uoyama's <cite>Kimi to Issho ni Kayoitai</cite> Manga Ends on November 13",
+            "+@datetime": "2026-10-26T23:00:00Z",
+            "+@href": "https://www.animenewsnetwork.com:/news/2026-10-26/uoyama-kimi-to-issho-ni-kayoitai-manga-ends-on-november-13/.243187"
+        }
+    ],
+    "staff": {
+        "+@gid": "992037787",
+        "task": "Story & Art",
+        "person": {
+            "+content": "Uoyama",
+            "+@id": "224278"
+        }
     },
     "+@date-added": "2026-10-26T00:35:00Z",
-    "+@date-last-updated-at": "2026-10-28T05:45:52Z"
+    "+@date-last-modified-at": "2026-11-27T13:54:59Z",
+    "+@date-last-updated-at": "2026-11-27T13:54:59Z"
 }
