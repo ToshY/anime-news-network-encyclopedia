@@ -4,7 +4,7 @@
     "+@type": "ONA",
     "+@name": "Kuromi's Pretty Journey",
     "+@precision": "ONA",
-    "+@generated-on": "2026-10-23T04:54:39Z",
+    "+@generated-on": "2026-11-28T00:03:22Z",
     "related-next": [
         {
             "+@id": "33825",
@@ -12,6 +12,10 @@
         },
         {
             "+@id": "34272",
+            "+@rel": "related"
+        },
+        {
+            "+@id": "40783",
             "+@rel": "related"
         }
     ],
@@ -93,7 +97,7 @@
     ],
     "ratings": {
         "+@nb_votes": "3",
-        "+@weighted_score": "6.1735"
+        "+@weighted_score": "6.1736"
     },
     "episode": [
         {
@@ -534,6 +538,15 @@
     ],
     "cast": [
         {
+            "+@gid": "370348952",
+            "+@lang": "EN",
+            "role": "Kuromi",
+            "person": {
+                "+content": "Diana Garnet",
+                "+@id": "133048"
+            }
+        },
+        {
             "+@gid": "1809891514",
             "+@lang": "EN",
             "role": "Gureco",
@@ -596,5 +609,6 @@
         }
     ],
     "+@date-added": "2023-02-15T00:03:50Z",
-    "+@date-last-updated-at": "2026-10-23T04:54:43Z"
+    "+@date-last-modified-at": "2026-11-28T00:03:25Z",
+    "+@date-last-updated-at": "2026-11-28T00:03:25Z"
 }
